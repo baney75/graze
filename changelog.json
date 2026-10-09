@@ -1,0 +1,27 @@
+[
+  { "v": "4.1.0", "date": "2026-10-09", "name": "Orrery",
+    "notes": [
+      "A new look: an oxblood night sky, brass orbit rings with an engraved dial, gold star shards and a solar Fever.",
+      "Updates: Graze now checks for new versions and waits for you to tap Update, so a run is never interrupted.",
+      "What’s new: you see this list once after each update.",
+      "Install it: on the web, Graze can be added to your home screen and played offline.",
+      "Backup files now save directly when you play on the web."
+    ] },
+  { "v": "4.0.0", "date": "2026-10-09", "name": "Sync",
+    "notes": [
+      "Cloud save inside Claude, encrypted link codes, direct transfer codes and backup files. Everything merges; nothing is overwritten.",
+      "Boons after each bonus rush, recall revives, recall chains and reverse gates.",
+      "Nine new packs, including Organic Chemistry, Latin, German, Polish, Logic and Philosophy & Theology.",
+      "Eight more Codex pages and a Workshop of permanent upgrades."
+    ] },
+  { "v": "3.0.0", "date": "2026-10-09", "name": "Recall",
+    "notes": [
+      "Recall gates with a spaced-review schedule.",
+      "Codex reading pages with comprehension questions.",
+      "A daily ritual, a cue you choose, and the Forge for your own material."
+    ] },
+  { "v": "2.0.0", "date": "2026-10-09", "name": "Fever",
+    "notes": ["Fever mode, power-ups, bonus rushes, hoppers and a soundtrack that builds with your multiplier."] },
+  { "v": "1.0.0", "date": "2026-10-09", "name": "First light",
+    "notes": ["One tap, two orbits, grazes, missions and trails."] }
+]

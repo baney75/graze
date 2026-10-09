@@ -1,0 +1,14 @@
+<!doctype html><meta charset="utf-8"><canvas id="c"></canvas><script>
+function draw(N){const c=document.getElementById('c');c.width=c.height=N;const x=c.getContext('2d');
+const g=x.createRadialGradient(N*.5,N*.42,N*.05,N*.5,N*.5,N*.72);g.addColorStop(0,'#4a2733');g.addColorStop(1,'#1c1418');x.fillStyle=g;x.fillRect(0,0,N,N);
+const cx=N/2,cy=N/2;x.lineCap='round';
+x.strokeStyle='rgba(213,182,111,.9)';x.lineWidth=N*.018;x.beginPath();x.arc(cx,cy,N*.33,0,Math.PI*2);x.stroke();
+x.strokeStyle='rgba(213,182,111,.5)';x.lineWidth=N*.012;x.beginPath();x.arc(cx,cy,N*.22,0,Math.PI*2);x.stroke();
+for(let i=0;i<24;i++){const a=i/24*Math.PI*2,r0=N*.385,r1=N*(i%6?.405:.425);x.strokeStyle='rgba(213,182,111,.55)';x.lineWidth=N*.008;x.beginPath();x.moveTo(cx+Math.cos(a)*r0,cy+Math.sin(a)*r0);x.lineTo(cx+Math.cos(a)*r1,cy+Math.sin(a)*r1);x.stroke();}
+const sg=x.createRadialGradient(cx,cy-N*.02,N*.01,cx,cy,N*.11);sg.addColorStop(0,'#ffe9b0');sg.addColorStop(.6,'#d5b66f');sg.addColorStop(1,'#8a6a2c');x.fillStyle=sg;x.beginPath();x.arc(cx,cy,N*.1,0,Math.PI*2);x.fill();
+const a=-Math.PI*.28,px=cx+Math.cos(a)*N*.33,py=cy+Math.sin(a)*N*.33;
+x.strokeStyle='rgba(255,233,176,.45)';x.lineWidth=N*.04;x.beginPath();x.arc(cx,cy,N*.33,a-.9,a);x.stroke();
+x.fillStyle='#fff6e0';x.beginPath();x.arc(px,py,N*.045,0,Math.PI*2);x.fill();x.strokeStyle='#d5b66f';x.lineWidth=N*.01;x.stroke();
+const sx=cx+Math.cos(2.3)*N*.22,sy=cy+Math.sin(2.3)*N*.22,s=N*.035;x.fillStyle='#ffe9b0';x.beginPath();for(let i=0;i<8;i++){const t=i*Math.PI/4,r=i%2?s*.34:s;x.lineTo(sx+Math.sin(t)*r,sy-Math.cos(t)*r);}x.closePath();x.fill();
+return c.toDataURL('image/png');}
+</script>

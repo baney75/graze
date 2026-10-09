@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Graze</title>
+<meta name="description" content="Graze is a one-tap orbit arcade game that builds real memory: recall gates on a spaced-review schedule, short readings with comprehension checks, and your own study material.">
+<meta property="og:title" content="Graze">
+<meta property="og:description" content="A one-tap orbit arcade game that builds real memory.">
+<meta property="og:image" content="https://baney75.github.io/graze/assets/og.jpg">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#592637">
+<link rel="icon" href="play/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&display=swap">
+<style>
+/* Martyr Day: cream paper, maroon ink, gold ornament. Editorial single column with a maroon slab hero holding the live game. */
+:root{
+  --paper:#f4f1e9; --surface:#fbf9f4; --sunken:#efebe2; --line:#d6c9c6; --line-strong:#b8a6a5;
+  --ink:#65283b; --ink-hover:#4e1d2d; --text:#2b1d21; --muted:#756568; --gold:#b49b62; --gold-text:#735a20;
+  --slab:#592637; --on-slab:#faf4e9; --gold-on-slab:#e4cfaa; --rose-on-slab:#debfbe; --sand:#ece7dc;
+  --serif:"Source Serif 4","Iowan Old Style",Georgia,serif; --sans:Karla,"Avenir Next","Helvetica Neue",system-ui,sans-serif;
+  color-scheme:light;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--text);font-family:var(--sans);font-size:17px;line-height:1.6;font-feature-settings:"lnum" 1}
+a{color:var(--ink);text-underline-offset:3px}
+a:hover{color:var(--ink-hover)}
+:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+img{max-width:100%;display:block}
+.wrap{width:100%;max-width:1120px;margin:0 auto;padding-inline:20px}
+.eyebrow{font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--gold-text);margin:0}
+h1,h2,h3{font-family:var(--serif);font-weight:600;margin:0;text-wrap:balance;color:var(--text)}
+h2{font-size:clamp(30px,4.4vw,44px);line-height:1.08;letter-spacing:-.01em}
+h2 i,h1 i{font-weight:600;color:var(--ink)}
+h3{font-size:21px;line-height:1.25}
+p{margin:0;max-width:62ch}
+
+.top{display:flex;justify-content:space-between;align-items:center;padding-block:18px}
+.mark{font-family:var(--serif);font-style:italic;font-weight:600;font-size:24px;color:var(--on-slab);text-decoration:none}
+.mark span{color:var(--gold-on-slab)}
+.top nav{display:flex;gap:18px;font-size:14px;font-weight:600}
+.top nav a{color:var(--on-slab);text-decoration:none;opacity:.85}
+.top nav a:hover{opacity:1;color:var(--on-slab)}
+@media (max-width:640px){.top nav a:not(.keep){display:none}}
+
+.hero{background:var(--slab);color:var(--on-slab);padding-bottom:64px}
+.hero-grid{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:48px;align-items:center;padding-top:40px}
+@media (max-width:880px){.hero-grid{grid-template-columns:minmax(0,1fr);gap:32px;padding-top:16px}}
+.hero h1{font-style:italic;font-size:clamp(64px,11vw,124px);line-height:.88;letter-spacing:-.02em;color:var(--on-slab)}
+.hero h1 span{color:var(--gold-on-slab)}
+.hero .lead{font-family:var(--serif);font-size:clamp(20px,2.4vw,24px);line-height:1.4;margin-top:22px;color:var(--on-slab)}
+.hero .sub{margin-top:14px;color:var(--rose-on-slab);font-size:16px}
+.actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:28px}
+.btn{display:inline-flex;align-items:center;gap:10px;padding:14px 20px;border-radius:999px;font-weight:700;font-size:15px;text-decoration:none;letter-spacing:.02em}
+.btn svg{width:16px;height:16px;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.btn-gold{background:var(--gold-on-slab);color:#3a1824}
+.btn-gold:hover{background:#efdcb9;color:#3a1824}
+.btn-line{border:1px solid rgba(250,244,233,.4);color:var(--on-slab)}
+.btn-line:hover{border-color:var(--on-slab);color:var(--on-slab)}
+.meta-line{margin-top:18px;font-size:13px;color:var(--rose-on-slab)}
+.shot{border-radius:16px;overflow:hidden;box-shadow:0 30px 80px rgba(20,6,12,.45);border:1px solid rgba(228,207,170,.25);background:#21191d}
+.shot img{width:100%;height:auto;aspect-ratio:16/10;object-fit:cover}
+
+section.band{padding-block:80px}
+section.band + section.band{border-top:1px solid var(--line)}
+.head{display:flex;flex-direction:column;gap:12px;margin-bottom:36px}
+.head p{color:var(--muted)}
+
+.steps{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
+@media (max-width:880px){.steps{grid-template-columns:minmax(0,1fr)}}
+.step{display:flex;flex-direction:column;gap:14px}
+.step figure{margin:0;border-radius:14px;overflow:hidden;border:1px solid var(--line);background:#21191d}
+.step figure img{width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;object-position:top}
+.step p{color:var(--muted);font-size:16px}
+.step .n{font-family:var(--serif);font-style:italic;color:var(--gold-text);font-size:15px}
+
+.evidence{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0;border-top:1px solid var(--line-strong)}
+@media (max-width:760px){.evidence{grid-template-columns:minmax(0,1fr)}}
+.ev{padding:22px 24px 22px 0;border-bottom:1px solid var(--line);display:flex;flex-direction:column;gap:8px}
+.ev:nth-child(odd){padding-right:32px}
+@media (min-width:761px){.ev:nth-child(even){padding-left:32px;border-left:1px solid var(--line)}}
+.ev .tag{font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase}
+.ev .yes{color:#2f6b45}.ev .no{color:#a3292f}.ev .mid{color:#875400}
+.ev p{font-size:16px;color:var(--text)}
+.ev p a{font-size:14px}
+.note{margin-top:28px;padding:20px 22px;background:var(--sand);border-radius:12px;font-size:16px;max-width:none}
+.note strong{color:var(--ink)}
+
+.packs{display:flex;flex-wrap:wrap;gap:10px}
+.pack{padding:10px 16px;border-radius:999px;background:var(--surface);border:1px solid var(--line);font-size:15px;font-weight:600}
+.pack small{color:var(--muted);font-weight:500;margin-left:6px}
+.pack.opt{border-style:dashed}
+.split{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:48px;align-items:start}
+@media (max-width:880px){.split{grid-template-columns:minmax(0,1fr)}}
+.list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:14px}
+.list li{display:grid;grid-template-columns:22px minmax(0,1fr);gap:12px;align-items:start;font-size:16px}
+.list svg{width:20px;height:20px;stroke:var(--ink);fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;margin-top:3px}
+.list b{display:block;font-weight:700}
+.list span{color:var(--muted)}
+
+.log{display:flex;flex-direction:column;gap:0;border-top:1px solid var(--line-strong)}
+.log article{display:grid;grid-template-columns:minmax(0,180px) minmax(0,1fr);gap:24px;padding-block:20px;border-bottom:1px solid var(--line)}
+@media (max-width:640px){.log article{grid-template-columns:minmax(0,1fr);gap:6px}}
+.log h3{font-size:19px}
+.log h3 span{display:block;font-family:var(--sans);font-size:13px;font-weight:600;color:var(--muted);margin-top:4px}
+.log ul{margin:0;padding-left:1.1em;display:flex;flex-direction:column;gap:6px;font-size:16px}
+
+footer{background:var(--slab);color:var(--rose-on-slab);padding-block:36px;font-size:14px}
+footer .wrap{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px}
+footer a{color:var(--on-slab)}
+@media (prefers-reduced-motion:no-preference){.shot{transition:transform .5s ease}.shot:hover{transform:translateY(-3px)}}
+</style>
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <div class="top">
+      <a class="mark" href="./">Gra<span>z</span>e</a>
+      <nav aria-label="Sections"><a href="#how">How it plays</a><a href="#evidence">The science</a><a href="#updates">Updates</a><a class="keep" href="play/">Play</a><a class="keep" href="https://github.com/baney75/graze">Source</a></nav>
+    </div>
+    <div class="hero-grid">
+      <div>
+        <p class="eyebrow" style="color:var(--gold-on-slab)">An orbit arcade game</p>
+        <h1>Gra<span>z</span>e</h1>
+        <p class="lead">One tap, two orbits. Dodge as late as you dare, and come away remembering things.</p>
+        <p class="sub">Recall gates slow time and ask you to steer into the right answer. What you learn returns on a spaced schedule until it sticks.</p>
+        <div class="actions">
+          <a class="btn btn-gold" href="play/">Play in your browser <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+          <a class="btn btn-line" href="https://github.com/baney75/graze">View the source <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"/></svg></a>
+        </div>
+        <p class="meta-line">Version __VERSION__ · Free · No account · Works offline once installed</p>
+      </div>
+      <div class="shot"><img src="assets/hero.jpg" alt="Graze in play: a brass orbit dial, a comet-like player, gold star shards and a rose block on the outer ring" width="1600" height="1000"></div>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section class="band" id="how">
+    <div class="wrap">
+      <div class="head"><p class="eyebrow">How it plays</p><h2>Fast hands, <i>slow</i> memory.</h2><p>Every run mixes a twitch arcade loop with a few seconds of honest recall. The game pays far more for remembering than for dodging.</p></div>
+      <div class="steps">
+        <div class="step"><figure><img src="assets/step-graze.jpg" alt="The player orb sweeping past a block on the inner orbit" width="780" height="975" loading="lazy"></figure><span class="n">One</span><h3>Graze the blocks</h3><p>Tap to jump between orbits. Leave a block's lane at the last instant for a graze; chain them to build your multiplier and fill the Fever ring.</p></div>
+        <div class="step"><figure><img src="assets/step-gate.jpg" alt="A recall gate asking for the meaning of laconic with two answers, one on each orbit" width="780" height="975" loading="lazy"></figure><span class="n">Two</span><h3>Recall at the gate</h3><p>Time slows. You get a beat to remember, then two answers appear, one per orbit. Steer into the right one. A miss shows the answer and brings it back soon.</p></div>
+        <div class="step"><figure><img src="assets/step-boon.jpg" alt="Choosing one of three boons after a bonus rush" width="780" height="975" loading="lazy"></figure><span class="n">Three</span><h3>Build the run</h3><p>Pick boons after each bonus rush, grab shields and magnets, and if you crash, one right answer brings you back.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="band" id="evidence">
+    <div class="wrap">
+      <div class="head"><p class="eyebrow">The science, honestly</p><h2>What a game can <i>actually</i> do for a mind.</h2><p>Graze is built on the parts of learning research that hold up, and leaves out the parts that don't.</p></div>
+      <div class="evidence">
+        <div class="ev"><span class="tag yes">Built in</span><h3>Spaced retrieval</h3><p>Pulling an answer out of memory strengthens it more than rereading, and spreading reviews out beats cramming. Gates follow a review clock from ten minutes to six months. <a href="https://www.psychologicalscience.org/news/releases/which-study-strategies-make-the-grade.html">Dunlosky et al., 2013</a></p></div>
+        <div class="ev"><span class="tag yes">Built in</span><h3>Vocabulary and word roots</h3><p>Knowing words and how they're built is a main driver of reading comprehension. Graze ships with Latin and Greek roots and a set of high-value words.</p></div>
+        <div class="ev"><span class="tag yes">Built in</span><h3>Reading with comprehension</h3><p>Twenty short Codex pages, each followed by questions you answer after the page closes. Reading pace only counts alongside understanding. <a href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html">Rayner et al., 2016</a></p></div>
+        <div class="ev"><span class="tag yes">Built in</span><h3>If-then habits</h3><p>A daily ritual of twelve gates, anchored to a moment you choose. If-then plans have a medium-to-large effect on reaching goals across 94 studies.</p></div>
+        <div class="ev"><span class="tag no">Left out</span><h3>Brain-training IQ claims</h3><p>Practicing a cognitive game makes you better at that game, with little transfer to anything else. Graze makes no such claim. <a href="https://news.illinois.edu/review-finds-little-evidence-that-brain-training-games-yield-real-world-benefits/">Simons et al., 2016</a></p></div>
+        <div class="ev"><span class="tag no">Left out</span><h3>Speed reading</h3><p>Flashing words faster trades away comprehension. Graze rewards reading that you understand.</p></div>
+      </div>
+      <p class="note"><strong>What to expect:</strong> about ten new items a day, held on a schedule that keeps most of them for months. Graze makes no promise about intelligence; it helps you remember what you practice. To check it yourself, test a set of words before and after a month of daily play against a set you never saw in the game.</p>
+    </div>
+  </section>
+
+  <section class="band" id="content">
+    <div class="wrap split">
+      <div>
+        <div class="head" style="margin-bottom:24px"><p class="eyebrow">What you learn</p><h2>Eleven packs, twenty pages, <i>and yours.</i></h2><p>Choose which packs appear at your gates. Dashed packs are off until you turn them on. Paste your own lists into the Forge and they come first.</p></div>
+        <div class="packs"><!--__PACKS__--></div>
+      </div>
+      <div>
+        <div class="head" style="margin-bottom:24px"><p class="eyebrow">Your progress</p><h2>Yours, on <i>your</i> devices.</h2></div>
+        <ul class="list">
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="11" width="16" height="9" rx="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3"/></svg><div><b>Saved on your device</b><span>No account, no tracking, no ads. Progress lives in your browser.</span></div></li>
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 7h8M8 12h8M8 17h5"/><rect x="4" y="3" width="16" height="18" rx="2"/></svg><div><b>Transfer codes and backups</b><span>Move progress between devices with a code you copy, or a file you keep. Everything merges; nothing is overwritten.</span></div></li>
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14a4 4 0 0 0 5.66 0l3-3a4 4 0 0 0-5.66-5.66l-1 1"/><path d="M14 10a4 4 0 0 0-5.66 0l-3 3a4 4 0 0 0 5.66 5.66l1-1"/></svg><div><b>Encrypted link codes</b><span>In the Claude-hosted version, devices pair with a 12-character code. Progress is encrypted with a key made from the code before it leaves your device.</span></div></li>
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12M7 10l5 5 5-5"/><path d="M5 21h14"/></svg><div><b>Install and play offline</b><span>Add it to your home screen. Updates download in the background and wait for you to tap Update.</span></div></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="band" id="updates">
+    <div class="wrap">
+      <div class="head"><p class="eyebrow">Updates</p><h2>What's <i>new.</i></h2><p>The game checks for new versions on its own and shows these notes once after each update.</p></div>
+      <div class="log"><!--__CHANGELOG__--></div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>Made by Donovan Baney · <a href="https://dbaney.com">dbaney.com</a></span>
+    <span><a href="https://github.com/baney75/graze">Source on GitHub</a> · MIT license</span>
+  </div>
+</footer>
+</body>
+</html>
