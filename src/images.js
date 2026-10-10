@@ -32,4 +32,16 @@ function setCardImg(imgEl, card) {
   imgEl.src = svgURL(svg); imgEl.hidden = false;
   imgEl.alt = card.img.k === 'flag' ? 'A national flag' : card.img.k === 'map' ? 'A map with one region highlighted' : 'A diagram with one part highlighted';
 }
+// Reverse picture choice: the answer's part plus up to three look-alikes, preferring the card's distractors.
+function canPick(card) { const D = card && card.img && card.img.k === 'diagram' && typeof DIAGRAMS !== 'undefined' && DIAGRAMS[card.img.g]; return !!(D && D.pick); }
+function pickParts(card) {
+  const D = DIAGRAMS[card.img.g], byName = {};
+  for (const p of Object.keys(D.parts)) byName[D.parts[p]] = p;
+  const out = [card.img.p];
+  for (const nm of shuffle((card.d || []).slice())) { const p = byName[nm]; if (p && !out.includes(p) && out.length < 4) out.push(p); }
+  const rest = shuffle(Object.keys(D.parts).filter(p => !out.includes(p)));
+  while (out.length < 4 && rest.length) out.push(rest.pop());
+  return shuffle(out);
+}
+function partImgEl(g, p) { const i = document.createElement('img'); i.className = 'pimg'; i.src = svgURL(DIAGRAMS[g].svg(p)); i.alt = 'A structure with one group highlighted'; return i; }
 function cardImgEl(card, cls) { const i = document.createElement('img'); i.className = cls || 'cimg'; setCardImg(i, card); return i; }

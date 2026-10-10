@@ -1,0 +1,214 @@
+{
+  "title": "The unification of humankind",
+  "note": "Harari argues that history moves toward one connected world, bound by three unifiers: money, empires and universal religions. This is his framing. The economics of money and the dates of coinage are empirical, while his treatment of religion is an interpretation that many believers and scholars dispute.",
+  "src": {
+    "t": "Money, Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Money"
+  },
+  "items": [
+    {
+      "c": "Harari's three unifying forces",
+      "a": "Money, empires and universal religions",
+      "d": [
+        "Language, farming and writing",
+        "Roads, rivers and ships"
+      ]
+    },
+    {
+      "c": "Medium of exchange",
+      "a": "Money accepted in trade for goods and services",
+      "d": [
+        "A way to save wealth over time",
+        "A common measure for setting prices"
+      ]
+    },
+    {
+      "c": "Unit of account",
+      "a": "A common measure for pricing goods",
+      "d": [
+        "A way to save wealth over time",
+        "A means of paying taxes only"
+      ]
+    },
+    {
+      "c": "Store of value",
+      "a": "Keeps purchasing power over time",
+      "d": [
+        "Sets a common price scale",
+        "Passes between buyer and seller"
+      ]
+    },
+    {
+      "c": "Double coincidence of wants",
+      "a": "Both traders must want what the other offers",
+      "d": [
+        "Two coins of equal weight",
+        "Trade between two empires"
+      ],
+      "ex": "The main weakness of barter."
+    },
+    {
+      "c": "Harari: why money works",
+      "a": "Strangers share a belief that others will accept it",
+      "d": [
+        "Because it is made of precious metal",
+        "Because kings hoard it"
+      ]
+    },
+    {
+      "c": "Money's role in cooperation (Harari)",
+      "a": "Lets strangers cooperate without knowing or trusting each other",
+      "d": [
+        "Replaces the need for laws",
+        "Makes barter easier"
+      ]
+    },
+    {
+      "c": "Commodity money",
+      "a": "Money valued for its material, such as barley or silver",
+      "d": [
+        "Money valued because a government declares it so",
+        "Money redeemable for a fixed amount of gold"
+      ]
+    },
+    {
+      "c": "Fiat money",
+      "a": "Money valued because a government declares it legal tender",
+      "d": [
+        "Money valued for its metal content",
+        "Money redeemable for a fixed amount of silver"
+      ]
+    },
+    {
+      "c": "Representative money",
+      "a": "Redeemable for a fixed amount of a commodity",
+      "d": [
+        "Valued only by government decree",
+        "Valued as the material itself"
+      ]
+    },
+    {
+      "c": "Legal tender",
+      "a": "Money that law requires to be accepted for debts",
+      "d": [
+        "Money made only of gold",
+        "Money issued only by banks abroad"
+      ]
+    },
+    {
+      "c": "First stamped coins",
+      "a": "Lydia, about 650 to 600 BCE",
+      "d": [
+        "Egypt, about 3000 BCE",
+        "Rome, about 100 CE"
+      ]
+    },
+    {
+      "c": "Chinese paper money (jiaozi) came from the",
+      "a": "Song dynasty",
+      "d": [
+        "Shang dynasty",
+        "Qin dynasty"
+      ]
+    },
+    {
+      "c": "Harari's definition of an empire",
+      "a": "Rule over many distinct peoples, with flexible borders",
+      "d": [
+        "Rule over one ethnic group within fixed borders",
+        "A state governed by an elected assembly"
+      ]
+    },
+    {
+      "c": "Harari on the legacy of empires",
+      "a": "Nearly all cultures today are shaped by imperial legacies",
+      "d": [
+        "Empires left no lasting cultural mark",
+        "Only European empires shaped cultures"
+      ]
+    },
+    {
+      "c": "Harari's definition of religion",
+      "a": "A system of norms and values founded on a superhuman order",
+      "d": [
+        "Any belief in an afterlife",
+        "Any ritual performed in a temple"
+      ],
+      "ex": "A broad, contested definition."
+    },
+    {
+      "c": "What Harari includes under \"religion\"",
+      "a": "Ideologies such as communism and liberalism",
+      "d": [
+        "Only faiths that worship gods",
+        "Only ancient polytheisms"
+      ],
+      "ex": "Many scholars and believers reject lumping them together."
+    },
+    {
+      "c": "Harari's view of religion's origin",
+      "a": "Treats it as a human-made order",
+      "d": [
+        "Treats it as divinely revealed fact",
+        "Treats it as an inherited instinct"
+      ],
+      "ex": "An interpretation, not proven fact; believers reject it."
+    },
+    {
+      "c": "Universal missionary religion (Harari)",
+      "a": "A faith claiming truth for all humans and seeking converts",
+      "d": [
+        "A faith tied to one tribe",
+        "A faith without any followers"
+      ]
+    },
+    {
+      "c": "Harari's \"arrow of history\"",
+      "a": "Cultures tend to merge into one global network",
+      "d": [
+        "Societies split into smaller bands",
+        "History repeats in fixed cycles"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Three roads to one world",
+    "text": [
+      "Harari argues that history has a direction: small isolated groups merge into larger and larger networks until, in the modern era, humanity forms a single global system. He names three forces that pushed this along: money, empires and universal religions. This is his framework, and historians vary in how much weight they give each force.",
+      "Money is the easiest to check. It does three jobs: a medium of exchange, a unit of account and a store of value. Barter has a problem called the double coincidence of wants, since each trader must want what the other has. Money removes that problem. Harari adds that money works because strangers trust that others will accept it. Economists describe types of money, such as commodity money valued for its material and fiat money valued by government decree. The first stamped coins appeared in Lydia about 650 to 600 BCE, and paper money developed in Song China.",
+      "On empires, Harari defines them as political orders ruling many peoples with flexible borders, and notes that most people in history lived in them. On religion, he defines it broadly as a system of norms and values founded on belief in a superhuman order, and includes modern ideologies. That is a contested choice. Many scholars and believers argue that faith cannot be treated as a human-made order, and he is offering an interpretation, not a proven fact."
+    ],
+    "q": [
+      {
+        "q": "Which is one of the three jobs of money named in the reading?",
+        "o": [
+          "Unit of account",
+          "Tool of conquest",
+          "Source of law",
+          "Mark of religion"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Which statement does the reading present as contested?",
+        "o": [
+          "Lydia produced early coins",
+          "Money is a medium of exchange",
+          "Religion is best defined as a human-made order",
+          "Barter requires a double coincidence of wants"
+        ],
+        "k": 2
+      },
+      {
+        "q": "How does Harari define an empire?",
+        "o": [
+          "A state with one ethnic group",
+          "Rule over many peoples with flexible borders",
+          "A republic with elections",
+          "A trading company"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

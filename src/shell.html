@@ -321,6 +321,16 @@ input[type=text]{width:100%;box-sizing:border-box;background:var(--ink-2);border
 .frd{text-align:center;color:var(--muted);font-size:15px;margin-top:-6px}
 .fopts{display:grid;grid-template-columns:minmax(0,1fr);gap:8px;transition:opacity .25s}
 .fopts.wait{opacity:0;pointer-events:none}
+.fveil{position:relative}
+.fopts.veiled{visibility:hidden}
+.fshow{position:absolute;inset:0;z-index:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;min-height:54px;padding:12px;border-radius:14px;border:1px dashed var(--line);background:rgba(255,255,255,.03);color:var(--muted);font-size:13px;text-align:center}
+.fshow .fthink{font-family:var(--f-display);font-style:italic;font-weight:600;font-size:18px;color:var(--gold)}
+@media (prefers-reduced-motion:no-preference){.fshow .fthink{animation:fthink 1.6s ease-in-out infinite}}
+@keyframes fthink{50%{opacity:.55}}
+.fopts.fpics{grid-template-columns:repeat(2,minmax(0,1fr))}
+.fopts.fpics button{padding:6px;justify-content:center;position:relative}
+.fopts.fpics button kbd{position:absolute;top:6px;left:6px}
+.pimg{display:block;width:100%;height:auto;max-height:min(22vh,180px);object-fit:contain;border-radius:10px}
 @media (min-width:560px){.fopts.two{grid-template-columns:repeat(2,minmax(0,1fr))}}
 .fopts button{min-height:54px;padding:12px 14px;border-radius:14px;border:1px solid var(--line);background:rgba(255,255,255,.04);font-size:16px;line-height:1.3;text-align:left;display:flex;gap:10px;align-items:center}
 .fopts button kbd{flex:none;font-family:var(--f-ui);font-size:11px;color:var(--muted);width:18px;height:18px;border-radius:5px;border:1px solid var(--line);display:grid;place-items:center}

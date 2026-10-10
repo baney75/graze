@@ -1,0 +1,391 @@
+[
+ {
+  "title": "Name the structure",
+  "kind": "diagram",
+  "dg": "fg",
+  "note": "A functional group is the part of a molecule that sets how it reacts. In these skeletal drawings each corner or line end is a carbon carrying enough hydrogens to make four bonds; only heteroatoms and their hydrogens are written.",
+  "src": {
+   "t": "OpenStax Organic Chemistry, 3.1 Functional Groups",
+   "u": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups"
+  },
+  "items": [
+   {
+    "p": "alkene",
+    "a": "Alkene",
+    "d": [
+     "Alkyne",
+     "Arene"
+    ],
+    "ex": "A carbon-carbon double bond, R₂C=CR₂; names end in -ene."
+   },
+   {
+    "p": "alkyne",
+    "a": "Alkyne",
+    "d": [
+     "Alkene",
+     "Nitrile"
+    ],
+    "ex": "A carbon-carbon triple bond, RC≡CR, linear at each sp carbon; names end in -yne."
+   },
+   {
+    "p": "arene",
+    "a": "Arene",
+    "d": [
+     "Alkene",
+     "Alkyne"
+    ],
+    "ex": "An aromatic benzene-type ring: six carbons drawn with alternating double bonds."
+   },
+   {
+    "p": "alkyl halide",
+    "a": "Alkyl halide",
+    "d": [
+     "Acyl chloride",
+     "Alcohol",
+     "Thiol"
+    ],
+    "ex": "R–X, a halogen (F, Cl, Br, or I) bonded to an sp³ carbon."
+   },
+   {
+    "p": "alcohol",
+    "a": "Alcohol",
+    "d": [
+     "Ether",
+     "Thiol",
+     "Carboxylic acid"
+    ],
+    "ex": "R–OH, a hydroxyl group on an sp³ carbon; names end in -ol."
+   },
+   {
+    "p": "ether",
+    "a": "Ether",
+    "d": [
+     "Alcohol",
+     "Ester",
+     "Epoxide"
+    ],
+    "ex": "R–O–R′, one oxygen bonded to two carbons."
+   },
+   {
+    "p": "thiol",
+    "a": "Thiol",
+    "d": [
+     "Alcohol",
+     "Amine",
+     "Alkyl halide"
+    ],
+    "ex": "R–SH, the sulfur analog of an alcohol; names end in -thiol."
+   },
+   {
+    "p": "amine",
+    "a": "Amine",
+    "d": [
+     "Amide",
+     "Imine",
+     "Alcohol"
+    ],
+    "ex": "RNH₂, R₂NH, or R₃N: nitrogen single-bonded to carbon, with no carbonyl attached."
+   },
+   {
+    "p": "aldehyde",
+    "a": "Aldehyde",
+    "d": [
+     "Ketone",
+     "Carboxylic acid"
+    ],
+    "ex": "RCHO, a carbonyl carbon bonded to at least one hydrogen; names end in -al."
+   },
+   {
+    "p": "ketone",
+    "a": "Ketone",
+    "d": [
+     "Aldehyde",
+     "Ester"
+    ],
+    "ex": "RCOR′, a carbonyl carbon bonded to two carbons; names end in -one."
+   },
+   {
+    "p": "carboxylic acid",
+    "a": "Carboxylic acid",
+    "d": [
+     "Ester",
+     "Aldehyde",
+     "Alcohol"
+    ],
+    "ex": "RCOOH, a carbonyl bonded to a hydroxyl group; names end in -oic acid."
+   },
+   {
+    "p": "ester",
+    "a": "Ester",
+    "d": [
+     "Ether",
+     "Carboxylic acid",
+     "Acid anhydride"
+    ],
+    "ex": "RCOOR′, a carbonyl bonded to an oxygen that carries a carbon; names end in -oate."
+   },
+   {
+    "p": "amide",
+    "a": "Amide",
+    "d": [
+     "Amine",
+     "Imine",
+     "Ester"
+    ],
+    "ex": "RCONR₂, a carbonyl bonded to nitrogen; names end in -amide."
+   },
+   {
+    "p": "acyl chloride",
+    "a": "Acyl chloride",
+    "d": [
+     "Alkyl halide",
+     "Amide",
+     "Carboxylic acid"
+    ],
+    "ex": "RCOCl, a carbonyl bonded to chlorine; names end in -oyl chloride."
+   },
+   {
+    "p": "acid anhydride",
+    "a": "Acid anhydride",
+    "d": [
+     "Ester",
+     "Ether",
+     "Carboxylic acid"
+    ],
+    "ex": "RCO–O–COR′, two acyl groups sharing one oxygen; names end in -oic anhydride."
+   },
+   {
+    "p": "nitrile",
+    "a": "Nitrile",
+    "d": [
+     "Alkyne",
+     "Imine",
+     "Amine"
+    ],
+    "ex": "R–C≡N, a carbon triple-bonded to nitrogen; names end in -nitrile."
+   },
+   {
+    "p": "epoxide",
+    "a": "Epoxide",
+    "d": [
+     "Ester",
+     "Alcohol",
+     "Ketone"
+    ],
+    "ex": "A strained three-membered ring of two carbons and one oxygen: a cyclic ether."
+   },
+   {
+    "p": "imine",
+    "a": "Imine",
+    "d": [
+     "Amine",
+     "Nitrile",
+     "Amide"
+    ],
+    "ex": "R₂C=NR, a carbon-nitrogen double bond, also called a Schiff base."
+   },
+   {
+    "p": "phenol",
+    "a": "Phenol",
+    "d": [
+     "Alcohol",
+     "Arene",
+     "Ether"
+    ],
+    "ex": "Ar–OH, a hydroxyl bonded directly to an aromatic ring; far more acidic than an alcohol (pKa about 10)."
+   },
+   {
+    "p": "sulfide",
+    "a": "Sulfide",
+    "d": [
+     "Ether",
+     "Thiol",
+     "Disulfide"
+    ],
+    "ex": "R–S–R′, the sulfur analog of an ether; also called a thioether."
+   },
+   {
+    "p": "disulfide",
+    "a": "Disulfide",
+    "d": [
+     "Sulfide",
+     "Thiol",
+     "Peroxide"
+    ],
+    "ex": "R–S–S–R′, formed by oxidizing two thiols; disulfide bridges hold many proteins in shape."
+   },
+   {
+    "p": "thioester",
+    "a": "Thioester",
+    "d": [
+     "Thiol",
+     "Sulfide",
+     "Ketone"
+    ],
+    "ex": "RCOSR′, an ester with sulfur in place of the single-bonded oxygen; acetyl CoA is one."
+   }
+  ]
+ },
+ {
+  "title": "Groups in real molecules",
+  "kind": "diagram",
+  "dg": "fgm",
+  "note": "Real molecules carry several functional groups at once, and each one reacts in its own way. Find the highlighted atoms, decide whether a carbonyl is involved, and check what sits on each side of it.",
+  "src": {
+   "t": "OpenStax Organic Chemistry, 3.1 Functional Groups",
+   "u": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups"
+  },
+  "items": [
+   {
+    "p": "aspirin:carboxylic acid",
+    "a": "Carboxylic acid",
+    "d": [
+     "Ester",
+     "Ketone"
+    ],
+    "ex": "Aspirin's –COOH makes it an acid; it is acetylsalicylic acid."
+   },
+   {
+    "p": "aspirin:ester",
+    "a": "Ester",
+    "d": [
+     "Ketone",
+     "Ether",
+     "Acid anhydride"
+    ],
+    "ex": "The acetyl ester: a C=O whose carbon is also bonded to an O that leads to the ring."
+   },
+   {
+    "p": "aspirin:arene",
+    "a": "Arene",
+    "d": [
+     "Alkene",
+     "Phenol"
+    ],
+    "ex": "The benzene ring is the aromatic core of aspirin."
+   },
+   {
+    "p": "acetaminophen:phenol",
+    "a": "Phenol",
+    "d": [
+     "Alcohol",
+     "Ether"
+    ],
+    "ex": "The OH sits directly on the ring, so it is a phenol, not an alcohol."
+   },
+   {
+    "p": "acetaminophen:amide",
+    "a": "Amide",
+    "d": [
+     "Amine",
+     "Ketone",
+     "Imine"
+    ],
+    "ex": "N bonded to a carbonyl carbon is an amide, not an amine."
+   },
+   {
+    "p": "vanillin:aldehyde",
+    "a": "Aldehyde",
+    "d": [
+     "Ketone",
+     "Carboxylic acid"
+    ],
+    "ex": "The carbonyl carbon carries an H, which makes it an aldehyde."
+   },
+   {
+    "p": "vanillin:ether",
+    "a": "Ether",
+    "d": [
+     "Ester",
+     "Alcohol",
+     "Phenol"
+    ],
+    "ex": "The methoxy group, ring–O–CH₃: an oxygen between two carbons with no C=O."
+   },
+   {
+    "p": "vanillin:phenol",
+    "a": "Phenol",
+    "d": [
+     "Alcohol",
+     "Carboxylic acid"
+    ],
+    "ex": "Vanillin is 4-hydroxy-3-methoxybenzaldehyde; the 4-OH is a phenol."
+   },
+   {
+    "p": "cinnamaldehyde:alkene",
+    "a": "Alkene",
+    "d": [
+     "Alkyne",
+     "Arene"
+    ],
+    "ex": "The C=C between the ring and the aldehyde is a trans alkene."
+   },
+   {
+    "p": "cinnamaldehyde:aldehyde",
+    "a": "Aldehyde",
+    "d": [
+     "Ketone",
+     "Ester"
+    ],
+    "ex": "Cinnamaldehyde gives cinnamon its flavor."
+   },
+   {
+    "p": "benzocaine:ester",
+    "a": "Ester",
+    "d": [
+     "Carboxylic acid",
+     "Ether",
+     "Ketone"
+    ],
+    "ex": "Benzocaine is ethyl 4-aminobenzoate, an ethyl ester."
+   },
+   {
+    "p": "benzocaine:amine",
+    "a": "Amine",
+    "d": [
+     "Amide",
+     "Imine",
+     "Nitrile"
+    ],
+    "ex": "An NH₂ on the ring with no carbonyl beside it is an amine (an aniline)."
+   },
+   {
+    "p": "raspberry ketone:ketone",
+    "a": "Ketone",
+    "d": [
+     "Aldehyde",
+     "Ester"
+    ],
+    "ex": "The carbonyl carbon is bonded to two carbons, so it is a ketone."
+   },
+   {
+    "p": "raspberry ketone:phenol",
+    "a": "Phenol",
+    "d": [
+     "Alcohol",
+     "Ether"
+    ],
+    "ex": "Raspberry ketone is 4-(4-hydroxyphenyl)butan-2-one."
+   },
+   {
+    "p": "alanine:amine",
+    "a": "Amine",
+    "d": [
+     "Amide",
+     "Imine"
+    ],
+    "ex": "Every standard amino acid has an amine on the α-carbon, next to the carboxyl group."
+   },
+   {
+    "p": "alanine:carboxylic acid",
+    "a": "Carboxylic acid",
+    "d": [
+     "Ester",
+     "Aldehyde",
+     "Amide"
+    ],
+    "ex": "Alanine is drawn here in its neutral form; in water near pH 7 it exists as a zwitterion."
+   }
+  ]
+ }
+]

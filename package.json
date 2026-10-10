@@ -1,6 +1,6 @@
 {
   "name": "graze",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "private": true,
   "description": "A one-tap orbit arcade game that builds real memory with recall gates, spaced review and short readings.",
   "type": "module",

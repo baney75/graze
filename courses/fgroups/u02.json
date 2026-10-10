@@ -1,0 +1,285 @@
+{
+  "title": "Naming: suffixes and prefixes",
+  "note": "One group per name gets the suffix: the highest on the list acid, anhydride, ester, acyl halide, amide, nitrile, aldehyde, ketone, alcohol, amine. Every other group becomes a prefix (hydroxy-, oxo-, amino-). Halogens, ethers and the C=C or C≡C are never the suffix group over these.",
+  "src": {
+    "t": "OpenStax, Organic Chemistry, 21.1 Naming Carboxylic Acid Derivatives",
+    "u": "https://openstax.org/books/organic-chemistry/pages/21-1-naming-carboxylic-acid-derivatives"
+  },
+  "items": [
+    {
+      "c": "IUPAC suffix for an alcohol",
+      "a": "-ol",
+      "d": [
+        "-al",
+        "-one"
+      ]
+    },
+    {
+      "c": "IUPAC suffix for an aldehyde",
+      "a": "-al",
+      "d": [
+        "-ol",
+        "-one"
+      ]
+    },
+    {
+      "c": "IUPAC suffix for a ketone",
+      "a": "-one",
+      "d": [
+        "-al",
+        "-ol"
+      ]
+    },
+    {
+      "c": "IUPAC suffix for a carboxylic acid",
+      "a": "-oic acid",
+      "d": [
+        "-oate",
+        "-amide"
+      ]
+    },
+    {
+      "c": "IUPAC suffix for an ester",
+      "a": "-oate",
+      "d": [
+        "-oic acid",
+        "-amide"
+      ]
+    },
+    {
+      "c": "IUPAC suffix for a thioester",
+      "a": "-thioate",
+      "d": [
+        "-oate",
+        "-thiol"
+      ]
+    },
+    {
+      "c": "IUPAC suffix for an amide",
+      "a": "-amide",
+      "d": [
+        "-amine",
+        "-nitrile"
+      ]
+    },
+    {
+      "c": "IUPAC suffix for a nitrile",
+      "a": "-nitrile",
+      "d": [
+        "-amide",
+        "-amine"
+      ]
+    },
+    {
+      "c": "IUPAC suffix for an amine",
+      "a": "-amine",
+      "d": [
+        "-amide",
+        "-ol"
+      ]
+    },
+    {
+      "c": "IUPAC suffix for a thiol",
+      "a": "-thiol",
+      "d": [
+        "-ol",
+        "-oate"
+      ]
+    },
+    {
+      "c": "IUPAC suffix for a C=C double bond",
+      "a": "-ene",
+      "d": [
+        "-yne",
+        "-ol"
+      ]
+    },
+    {
+      "c": "IUPAC suffix for a C≡C triple bond",
+      "a": "-yne",
+      "d": [
+        "-ene",
+        "-al"
+      ]
+    },
+    {
+      "c": "IUPAC ending for an acyl chloride",
+      "a": "-oyl chloride",
+      "d": [
+        "-oic acid",
+        "-oate"
+      ]
+    },
+    {
+      "c": "IUPAC ending for an anhydride of one acid",
+      "a": "-oic anhydride",
+      "d": [
+        "-oyl chloride",
+        "-oate"
+      ]
+    },
+    {
+      "c": "Suffix for –CHO on a ring",
+      "a": "-carbaldehyde",
+      "d": [
+        "-carboxylic acid",
+        "-carboxamide"
+      ]
+    },
+    {
+      "c": "Suffix for –COOH on a ring",
+      "a": "-carboxylic acid",
+      "d": [
+        "-carbaldehyde",
+        "-carboxamide"
+      ]
+    },
+    {
+      "c": "Suffix for –C≡N on a ring",
+      "a": "-carbonitrile",
+      "d": [
+        "-carbaldehyde",
+        "-carboxylate"
+      ]
+    },
+    {
+      "c": "Prefix for –OH when a higher group takes the suffix",
+      "a": "hydroxy-",
+      "d": [
+        "oxo-",
+        "amino-"
+      ]
+    },
+    {
+      "c": "Prefix for C=O when a higher group takes the suffix",
+      "a": "oxo-",
+      "d": [
+        "hydroxy-",
+        "amino-"
+      ]
+    },
+    {
+      "c": "Prefix for –NH₂ when a higher group takes the suffix",
+      "a": "amino-",
+      "d": [
+        "hydroxy-",
+        "oxo-"
+      ]
+    },
+    {
+      "c": "Prefix for –OR (an ether group)",
+      "a": "alkoxy-",
+      "d": [
+        "alkyl-",
+        "hydroxy-"
+      ]
+    },
+    {
+      "c": "Prefix for –Cl",
+      "a": "chloro-",
+      "d": [
+        "bromo-",
+        "iodo-"
+      ]
+    },
+    {
+      "c": "Prefix for –Br",
+      "a": "bromo-",
+      "d": [
+        "chloro-",
+        "iodo-"
+      ]
+    },
+    {
+      "c": "Halogen substituents are always named as",
+      "a": "prefixes only",
+      "d": [
+        "suffixes only",
+        "suffixes on rings only"
+      ]
+    },
+    {
+      "c": "Which outranks for the suffix: ketone or alcohol?",
+      "a": "Ketone",
+      "d": [
+        "Alcohol"
+      ]
+    },
+    {
+      "c": "Which outranks for the suffix: carboxylic acid or ester?",
+      "a": "Carboxylic acid",
+      "d": [
+        "Ester"
+      ]
+    },
+    {
+      "c": "Which outranks for the suffix: ester or amide?",
+      "a": "Ester",
+      "d": [
+        "Amide"
+      ]
+    },
+    {
+      "c": "Which outranks for the suffix: amide or nitrile?",
+      "a": "Amide",
+      "d": [
+        "Nitrile"
+      ]
+    },
+    {
+      "c": "Which outranks for the suffix: aldehyde or ketone?",
+      "a": "Aldehyde",
+      "d": [
+        "Ketone"
+      ]
+    },
+    {
+      "c": "Which outranks for the suffix: alcohol or amine?",
+      "a": "Alcohol",
+      "d": [
+        "Amine"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Who gets the suffix?",
+    "text": [
+      "An IUPAC name has one suffix, so when a molecule contains several groups you must pick a winner. The ranking runs from highest to lowest: carboxylic acid, anhydride, ester, acyl halide, amide, nitrile, aldehyde, ketone, alcohol, amine. Whatever ranks highest becomes the suffix and sets the numbering; everything else is named as a prefix.",
+      "Take a chain with both a ketone and an alcohol. The ketone outranks the alcohol, so the name ends in -one, and the OH appears as hydroxy-. Likewise a molecule with an amine and an acid ends in -oic acid, with amino- as a prefix. A C=O that must be a prefix is called oxo-.",
+      "Halogens never win. Chloro- and bromo- always sit in the front of the name, and so do alkoxy- groups from ethers. Double and triple bonds are different: they change the -ane ending of the parent to -ene or -yne, but a higher group still takes the suffix and numbers the chain.",
+      "When the group is attached to a ring instead of ending a chain, the carbon of the group is not counted in the ring, so the endings become -carbaldehyde, -carboxylic acid and -carbonitrile."
+    ],
+    "q": [
+      {
+        "q": "A chain has an ester and an amine. What does the name end with?",
+        "o": [
+          "-amine",
+          "-oate",
+          "-ol",
+          "-one"
+        ],
+        "k": 1
+      },
+      {
+        "q": "How is an OH named when a ketone is also present?",
+        "o": [
+          "-ol suffix",
+          "hydroxy- prefix",
+          "oxo- prefix",
+          "-al suffix"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Which statement about halogens is correct?",
+        "o": [
+          "They can take the suffix when alone",
+          "They outrank alcohols",
+          "They are always prefixes",
+          "They end the name with -yl"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

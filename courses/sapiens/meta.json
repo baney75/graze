@@ -1,0 +1,16 @@
+{
+  "key": "sapiens",
+  "name": "Sapiens: The Big Ideas",
+  "group": "World",
+  "tag": "SAPIENS",
+  "level": "General reader",
+  "blurb": "The main ideas of Yuval Noah Harari's Sapiens: A Brief History of Humankind, each marked as Harari's own claim, alongside the archaeology and history behind them and the objections scholars and reviewers have raised.",
+  "sources": [
+    { "t": "Sapiens: A Brief History of Humankind, Wikipedia (structure, themes and reception)", "u": "https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind" },
+    { "t": "Homo neanderthalensis, Smithsonian National Museum of Natural History, Human Origins", "u": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis" },
+    { "t": "Ancient DNA and Neanderthals, Smithsonian Human Origins", "u": "https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals" },
+    { "t": "Neolithic Revolution, Wikipedia", "u": "https://en.wikipedia.org/wiki/Neolithic_Revolution" },
+    { "t": "Scientific Revolution, Wikipedia", "u": "https://en.wikipedia.org/wiki/Scientific_Revolution" },
+    { "t": "Easterlin paradox, Wikipedia", "u": "https://en.wikipedia.org/wiki/Easterlin_paradox" }
+  ]
+}

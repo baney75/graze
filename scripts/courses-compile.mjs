@@ -8,7 +8,7 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..', 'courses');
 const J = p => JSON.parse(readFileSync(p, 'utf8'));
 
 // Where diagram units sit inside their course: after the text unit they illustrate.
-const DG_AFTER = { heart: 'u12', neuron: 'u07', brain: 'u08', nephron: 'u15', eye: 'u09', lungs: 'u13', cell: 'u03', plantcell: 'u03', ptable: 'u04', fg: 'u04' };
+const DG_AFTER = { heart: 'u12', neuron: 'u07', brain: 'u08', nephron: 'u15', eye: 'u09', lungs: 'u13', cell: 'u03', plantcell: 'u03', ptable: 'u04', fg: 'u00', fgm: 'u01' };
 // Display order of groups and courses in the Library.
 export const GROUP_ORDER = ['Languages', 'Sciences', 'Medicine', 'Math', 'Mind', 'Reading', 'World', 'Skills'];
 
@@ -41,6 +41,7 @@ export function compileCourses() {
     const dgFile = join(ROOT, '_diagrams', key + '.json');
     const dgUnits = existsSync(dgFile) ? J(dgFile) : [];
     const placed = new Set();
+    dgUnits.forEach((d, i) => { if (DG_AFTER[d.dg] === 'u00') { units.push(unitOut(d)); placed.add(i); } });
     for (const f of files) {
       units.push(unitOut(J(join(dir, f))));
       const tag = f.replace('.json', '');

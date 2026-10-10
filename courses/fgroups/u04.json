@@ -1,0 +1,264 @@
+{
+  "title": "The pKa ladder",
+  "note": "Lower pKa means stronger acid. Memorize the ladder from HCl (−7) down: carboxylic acids 4–5, phenol and ammonium about 10, water 15.7, alcohols 16–18, ketone α-H 19–20, alkyne 25, NH₃ 35–38, alkene C–H mid-40s, alkane 50 or higher. Equilibrium favors the weaker acid.",
+  "src": {
+    "t": "OpenStax, Organic Chemistry, 2.8 Acid and Base Strength",
+    "u": "https://openstax.org/books/organic-chemistry/pages/2-8-acid-and-base-strength"
+  },
+  "items": [
+    {
+      "c": "pKa of acetic acid",
+      "a": "4.76",
+      "d": [
+        "15.7",
+        "25"
+      ]
+    },
+    {
+      "c": "pKa of water",
+      "a": "15.7",
+      "d": [
+        "4.76",
+        "36"
+      ]
+    },
+    {
+      "c": "pKa of HCl, approximately",
+      "a": "about −7",
+      "d": [
+        "about 4",
+        "about 16"
+      ]
+    },
+    {
+      "c": "pKa of H₃O⁺, approximately",
+      "a": "about −2 to 0",
+      "d": [
+        "about 4.8",
+        "about 15.7"
+      ],
+      "ex": "Many organic tables list −1.7; some list 0."
+    },
+    {
+      "c": "pKa range of carboxylic acids",
+      "a": "about 4–5",
+      "d": [
+        "about 16–18",
+        "about 35"
+      ]
+    },
+    {
+      "c": "pKa of phenol, approximately",
+      "a": "about 10",
+      "d": [
+        "about 4–5",
+        "about 25"
+      ]
+    },
+    {
+      "c": "pKa of an alkylammonium ion (R–NH₃⁺)",
+      "a": "about 10–11",
+      "d": [
+        "about 4–5",
+        "about 25"
+      ]
+    },
+    {
+      "c": "pKa range of alcohols",
+      "a": "about 16–18",
+      "d": [
+        "about 4–5",
+        "about 25"
+      ]
+    },
+    {
+      "c": "pKa of a ketone α-hydrogen",
+      "a": "about 19–20",
+      "d": [
+        "about 4–5",
+        "about 35"
+      ]
+    },
+    {
+      "c": "pKa of a terminal alkyne C–H",
+      "a": "about 25",
+      "d": [
+        "about 4–5",
+        "about 10"
+      ]
+    },
+    {
+      "c": "pKa of ammonia, NH₃",
+      "a": "about 35–38",
+      "d": [
+        "about 16",
+        "about 4–5"
+      ],
+      "ex": "Tables differ: McMurry gives 35, others 36 or 38."
+    },
+    {
+      "c": "pKa of an alkene C–H",
+      "a": "mid-40s",
+      "d": [
+        "about 4–5",
+        "about 16"
+      ]
+    },
+    {
+      "c": "pKa of an alkane C–H",
+      "a": "about 50 or higher",
+      "d": [
+        "about 25",
+        "about 16"
+      ]
+    },
+    {
+      "c": "An acid–base equilibrium favors the side with the",
+      "a": "weaker acid (higher pKa)",
+      "d": [
+        "stronger acid (lower pKa)",
+        "more charged species"
+      ]
+    },
+    {
+      "c": "A lower pKa means a",
+      "a": "stronger acid",
+      "d": [
+        "weaker acid",
+        "slower reaction"
+      ]
+    },
+    {
+      "c": "One pKa unit is a factor of what in Ka?",
+      "a": "10",
+      "d": [
+        "2",
+        "100"
+      ]
+    },
+    {
+      "c": "Acetic acid + hydroxide: where does equilibrium lie?",
+      "a": "far toward acetate and water",
+      "d": [
+        "far toward acetic acid",
+        "evenly balanced"
+      ]
+    },
+    {
+      "c": "NH₂⁻ (conj. acid pKa 36) with a terminal alkyne (25)",
+      "a": "proton transfer favored",
+      "d": [
+        "no appreciable reaction"
+      ]
+    },
+    {
+      "c": "HO⁻ (conj. acid pKa 15.7) with a terminal alkyne (25)",
+      "a": "little deprotonation",
+      "d": [
+        "complete deprotonation"
+      ]
+    },
+    {
+      "c": "Why carboxylic acids beat alcohols in acidity",
+      "a": "carboxylate charge spreads over two O",
+      "d": [
+        "O–H bond is shorter",
+        "alkoxides are larger"
+      ]
+    },
+    {
+      "c": "Why phenol is more acidic than an alcohol",
+      "a": "phenoxide charge delocalizes into the ring",
+      "d": [
+        "phenol has a longer O–H bond",
+        "phenol is a better H-bond acceptor"
+      ]
+    },
+    {
+      "c": "Why HI is a stronger acid than HF",
+      "a": "larger atom disperses charge better",
+      "d": [
+        "I is more electronegative",
+        "H–I bond is stronger"
+      ]
+    },
+    {
+      "c": "CH₄ < NH₃ < H₂O < HF in acidity follows",
+      "a": "electronegativity of the atom",
+      "d": [
+        "size of the atom",
+        "number of H atoms"
+      ]
+    },
+    {
+      "c": "Why alkynes are more acidic than alkenes",
+      "a": "sp carbon has more s character",
+      "d": [
+        "sp carbon is larger",
+        "alkynes have resonance"
+      ]
+    },
+    {
+      "c": "Why chloroacetic acid beats acetic acid",
+      "a": "inductive withdrawal by Cl",
+      "d": [
+        "resonance donation by Cl",
+        "hybridization of Cl"
+      ]
+    },
+    {
+      "c": "More acidic: ketone α-H or ester α-H?",
+      "a": "Ketone α-H",
+      "d": [
+        "Ester α-H"
+      ]
+    },
+    {
+      "c": "More acidic: carboxylic acid or ammonium ion?",
+      "a": "Carboxylic acid",
+      "d": [
+        "Ammonium ion"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Climbing down the pKa ladder",
+    "text": [
+      "Every proton transfer is a contest, and the pKa table tells you who wins. Acids sit on a ladder: HCl near −7, carboxylic acids at 4–5, phenols and alkylammonium ions around 10, water at 15.7, alcohols at 16–18, ketone α-hydrogens at 19–20, terminal alkynes at 25, ammonia at about 35–38, alkene C–H bonds in the mid-40s, and alkanes around 50 or higher. Textbooks differ by a unit or two on some entries, so trust the ordering more than any single digit.",
+      "The rule: an equilibrium favors the weaker acid, the one with the higher pKa. A base can deprotonate an acid only if the base's conjugate acid sits higher on the ladder. Hydroxide, whose conjugate acid is water at 15.7, takes a proton from acetic acid completely but barely touches an alkyne. Amide ion, NH₂⁻, with a conjugate acid near 36, does deprotonate an alkyne.",
+      "Why does the ladder look like this? Look at the conjugate base. Resonance spreads charge in carboxylates and phenoxides. Electronegativity favors O over N over C across a row. Size favors I over F down a column. Inductive withdrawal by nearby halogens stabilizes the anion. Hybridization matters too: sp carbon has more s character, which holds the lone pair closer to the nucleus."
+    ],
+    "q": [
+      {
+        "q": "Which base can deprotonate a terminal alkyne (pKa 25) most completely?",
+        "o": [
+          "Hydroxide",
+          "Acetate",
+          "Amide ion, NH₂⁻",
+          "Water"
+        ],
+        "k": 2
+      },
+      {
+        "q": "An equilibrium favors the side with the",
+        "o": [
+          "lower pKa",
+          "higher pKa",
+          "more ions",
+          "larger molecule"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Which feature explains why carboxylates are stable?",
+        "o": [
+          "Inductive donation",
+          "Resonance",
+          "Smaller size",
+          "Hybridization of O"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

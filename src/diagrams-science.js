@@ -447,6 +447,20 @@ var DIAGRAMS = (typeof DIAGRAMS !== 'undefined' && DIAGRAMS) || {};
       /* imine: N-methylbutan-2-imine */
       p = chain([-30, 30, -30]); p.push(step(p[1], -90)); p.push(step(p[4], -30)); b = lin(3); b.push([1, 4, 2, 'c'], [4, 5, 1]);
       MOL.imine = M(lab(p, ['', '', '', '', 'N']), b, [3], [4]);
+      /* phenol: OH on a benzene ring */
+      p = []; for (var k2 = 0; k2 < 6; k2++) p.push([L * Math.cos(rad(-90 + 60 * k2)), L * Math.sin(rad(-90 + 60 * k2))]);
+      p.push([0, -2 * L]);
+      b = []; for (var j2 = 0; j2 < 6; j2++) b.push([j2, (j2 + 1) % 6, j2 % 2 === 0 ? 2 : 1, 'in']); b.push([0, 6, 1]);
+      MOL.phenol = M(lab(p, ['', '', '', '', '', '', 'OH']), b, [6], [6]);
+      /* sulfide: diethyl sulfide */
+      p = chain([30, -30, 30, -30]);
+      MOL.sulfide = M(lab(p, ['', '', 'S']), lin(4), [1, 2], [2]);
+      /* disulfide: diethyl disulfide */
+      p = chain([30, -30, 30, -30, 30]);
+      MOL.disulfide = M(lab(p, ['', '', 'S', 'S']), lin(5), [1, 2, 3], [2, 3]);
+      /* thioester: S-ethyl ethanethioate */
+      p = chain([-30, 30, -30, 30]); p.push(step(p[1], -90)); b = lin(4); b.push([1, 5, 2, 'c']);
+      MOL.thioester = M(lab(p, ['', '', 'S', '', '', 'O']), b, [1, 2, 4], [2, 5]);
       /* plain: hexane, nothing to highlight */
       MOL._plain = M(lab(chain([-30, 30, -30, 30, -30]), []), lin(5), [], []);
     })();
@@ -454,13 +468,15 @@ var DIAGRAMS = (typeof DIAGRAMS !== 'undefined' && DIAGRAMS) || {};
     var NAMES = {
       alkene: 'Alkene', alkyne: 'Alkyne', arene: 'Arene', 'alkyl halide': 'Alkyl halide', alcohol: 'Alcohol', ether: 'Ether',
       thiol: 'Thiol', amine: 'Amine', aldehyde: 'Aldehyde', ketone: 'Ketone', 'carboxylic acid': 'Carboxylic acid', ester: 'Ester',
-      amide: 'Amide', 'acyl chloride': 'Acyl chloride', 'acid anhydride': 'Acid anhydride', nitrile: 'Nitrile', epoxide: 'Epoxide', imine: 'Imine'
+      amide: 'Amide', 'acyl chloride': 'Acyl chloride', 'acid anhydride': 'Acid anhydride', nitrile: 'Nitrile', epoxide: 'Epoxide', imine: 'Imine',
+      phenol: 'Phenol', sulfide: 'Sulfide', disulfide: 'Disulfide', thioester: 'Thioester'
     };
     var FONT = 'font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-weight="600"';
     function trimFor(l) { return !l ? 0 : l === 'Cl' ? 12 : 10; }
     function text(x, y, t, size) { return '<text x="' + n(x) + '" y="' + n(y + size * 0.36) + '" text-anchor="middle" font-size="' + size + '" fill="' + K.text + '">' + t + '</text>'; }
     function label(x, y, l) {
       if (l === 'OH' || l === 'SH') return text(x, y, l[0], 18) + text(x + 13.5, y, 'H', 18);
+      if (l === 'NH') return text(x, y, 'N', 18) + text(x + 14, y, 'H', 18);
       if (l === 'NH2') return text(x, y, 'N', 18) + text(x + 14, y, 'H', 18) + text(x + 23, y + 5, '2', 12);
       return text(x, y, l, 18);
     }
@@ -469,11 +485,13 @@ var DIAGRAMS = (typeof DIAGRAMS !== 'undefined' && DIAGRAMS) || {};
       var x0 = a[0] + ux * t0 - uy * off, y0 = a[1] + uy * t0 + ux * off, x1 = b[0] - ux * t1 - uy * off, y1 = b[1] - uy * t1 + ux * off;
       return '<line x1="' + n(x0) + '" y1="' + n(y0) + '" x2="' + n(x1) + '" y2="' + n(y1) + '" stroke="' + color + '" stroke-width="' + w + '" stroke-linecap="round"/>';
     }
-    function draw(m, on) {
+    function draw(m, on, dk, DW, DH) {
+      dk = dk || key; DW = DW || W; DH = DH || H;
       var A = m.atoms, xs = [], ys = [];
       A.forEach(function (a) { xs.push(a[0]); ys.push(a[1]); if (a[2].length > 1) xs.push(a[0] + 26); });
       var minx = Math.min.apply(null, xs) - 10, maxx = Math.max.apply(null, xs) + 10, miny = Math.min.apply(null, ys) - 10, maxy = Math.max.apply(null, ys) + 10;
-      var dx = (W - (maxx - minx)) / 2 - minx, dy = (H - (maxy - miny)) / 2 - miny;
+      var sc = Math.min(1, (DW - 8) / (maxx - minx), (DH - 8) / (maxy - miny));
+      var dx = DW / 2 - sc * (minx + maxx) / 2, dy = DH / 2 - sc * (miny + maxy) / 2;
       var ctr = [0, 0]; A.forEach(function (a) { ctr[0] += a[0] / A.length; ctr[1] += a[1] / A.length; });
       var halo = '', hiB = '', plain = '', labels = '';
       m.bonds.forEach(function (bd, idx) {
@@ -497,13 +515,15 @@ var DIAGRAMS = (typeof DIAGRAMS !== 'undefined' && DIAGRAMS) || {};
         if (on && m.ha.indexOf(i) >= 0) halo += '<circle cx="' + n(a[0] + (a[2].length > 1 ? 6 : 0)) + '" cy="' + n(a[1]) + '" r="' + (a[2].length > 1 ? 16 : 13) + '" fill="' + K.hi + '" fill-opacity="0.3"/>';
         if (a[2]) labels += label(a[0], a[1], a[2]);
       });
-      var tr = '<g transform="translate(' + n(dx) + ' ' + n(dy) + ')"';
-      return frame(key, W, H, (halo ? '<g filter="url(#' + gid(key) + ')">' + tr + '>' + halo + hiB + '</g></g>' : '') +
+      var tr = '<g transform="translate(' + n(dx) + ' ' + n(dy) + ')' + (sc < 1 ? ' scale(' + n(sc * 100) / 100 + ')' : '') + '"';
+      return frame(dk, DW, DH, (halo ? '<g filter="url(#' + gid(dk) + ')">' + tr + '>' + halo + hiB + '</g></g>' : '') +
         tr + ' ' + FONT + '>' + plain + labels + '</g>', 1.8);
     }
     var ctrRing = [0, 0];
     DIAGRAMS.fg = {
       name: 'Functional groups',
+      pick: true,
+      cue: function () { return 'Name the highlighted functional group'; },
       vb: [0, 0, W, H],
       parts: NAMES,
       svg: function (part) {
@@ -511,6 +531,92 @@ var DIAGRAMS = (typeof DIAGRAMS !== 'undefined' && DIAGRAMS) || {};
         if (!m) return draw(MOL._plain, false);
         ctrRing = [0, 0];
         return draw(m, true);
+      }
+    };
+
+    /* ---------- functional groups in real molecules: one group highlighted at a time ---------- */
+    function benz() {
+      var r = []; for (var i = 0; i < 6; i++) r.push([L * Math.cos(rad(-90 + 60 * i)), L * Math.sin(rad(-90 + 60 * i))]);
+      var bb = []; for (var j = 0; j < 6; j++) bb.push([j, (j + 1) % 6, j % 2 === 0 ? 2 : 1, 'in']);
+      return { p: r, b: bb };
+    }
+    var RING = [0, 1, 2, 3, 4, 5];
+    /* mol(atoms, labels, extra bonds, groups: { part: [bond indices, atom indices] }) */
+    function mol(ring, extra, labels, bonds, groups) {
+      var p = ring.p.concat(extra), b = ring.b.concat(bonds);
+      var out = { base: M(lab(p, labels), b, [], []) };
+      Object.keys(groups).forEach(function (g) { out[g] = M(lab(p, labels), b, groups[g][0], groups[g][1]); });
+      return out;
+    }
+    var MM = {}, MOLNAME = {}, R, e = [];
+    function add(name, title, x) { Object.keys(x).forEach(function (g) { if (g !== 'base') { MM[name + ':' + g] = x[g]; MOLNAME[name + ':' + g] = title; } }); }
+    function lbl(k, map) { var l = []; for (var i = 0; i < k; i++) l.push(map[i] || ''); return l; }
+
+    /* aspirin: COOH on C1 (top), acetyl ester O on C2 (upper right) */
+    R = benz(); e = [];
+    e[0] = step(R.p[0], -90); e[1] = step(e[0], -30); e[2] = step(e[0], -150);   /* 6 C, 7 =O, 8 OH */
+    e[3] = step(R.p[1], -30); e[4] = step(e[3], 30); e[5] = step(e[4], 90); e[6] = step(e[4], -30); /* 9 O, 10 C, 11 =O, 12 CH3 */
+    add('aspirin', 'aspirin', mol(R, e, lbl(13, { 7: 'O', 8: 'OH', 9: 'O', 11: 'O' }),
+      [[0, 6, 1], [6, 7, 2, 'c'], [6, 8, 1], [1, 9, 1], [9, 10, 1], [10, 11, 2, 'c'], [10, 12, 1]],
+      { 'carboxylic acid': [[7, 8], [7, 8]], ester: [[9, 10, 11], [9, 11]], arene: [RING, []] }));
+
+    /* acetaminophen: OH on C1 (top), NHC(=O)CH3 on C4 (bottom) */
+    R = benz(); e = [];
+    e[0] = step(R.p[0], -90); e[1] = step(R.p[3], 90); e[2] = step(e[1], 30); e[3] = step(e[2], -30); e[4] = step(e[2], 90); /* 6 OH, 7 NH, 8 C, 9 =O, 10 CH3 */
+    add('acetaminophen', 'acetaminophen', mol(R, e, lbl(11, { 6: 'OH', 7: 'NH', 9: 'O' }),
+      [[0, 6, 1], [3, 7, 1], [7, 8, 1], [8, 9, 2, 'c'], [8, 10, 1]],
+      { phenol: [[6], [6]], amide: [[8, 9], [7, 9]] }));
+
+    /* vanillin: CHO on C1 (top), OCH3 on C3 (lower right), OH on C4 (bottom) */
+    R = benz(); e = [];
+    e[0] = step(R.p[0], -90); e[1] = step(e[0], -30); e[2] = step(e[0], -150);   /* 6 C, 7 =O, 8 H */
+    e[3] = step(R.p[2], 30); e[4] = step(e[3], -30); e[5] = step(R.p[3], 90);    /* 9 O, 10 CH3, 11 OH */
+    add('vanillin', 'vanillin', mol(R, e, lbl(12, { 7: 'O', 8: 'H', 9: 'O', 11: 'OH' }),
+      [[0, 6, 1], [6, 7, 2, 'c'], [6, 8, 1], [2, 9, 1], [9, 10, 1], [3, 11, 1]],
+      { aldehyde: [[7, 8], [7, 8]], ether: [[9, 10], [9]], phenol: [[11], [11]] }));
+
+    /* cinnamaldehyde: ring-CH=CH-CHO from C2 (upper right) */
+    R = benz(); e = [];
+    e[0] = step(R.p[1], -30); e[1] = step(e[0], 30); e[2] = step(e[1], -30); e[3] = step(e[2], 30); e[4] = step(e[2], -90); /* 6, 7, 8 C, 9 =O, 10 H */
+    add('cinnamaldehyde', 'cinnamaldehyde', mol(R, e, lbl(11, { 9: 'O', 10: 'H' }),
+      [[1, 6, 1], [6, 7, 2, 1], [7, 8, 1], [8, 9, 2, 'c'], [8, 10, 1]],
+      { alkene: [[7], []], aldehyde: [[9, 10], [9, 10]] }));
+
+    /* benzocaine: ethyl ester on C1 (top), NH2 on C4 (bottom) */
+    R = benz(); e = [];
+    e[0] = step(R.p[0], -90); e[1] = step(e[0], -150); e[2] = step(e[0], -30); e[3] = step(e[2], 30); e[4] = step(e[3], -30); e[5] = step(R.p[3], 90);
+    /* 6 C, 7 =O, 8 O, 9 CH2, 10 CH3, 11 NH2 */
+    add('benzocaine', 'benzocaine', mol(R, e, lbl(12, { 7: 'O', 8: 'O', 11: 'NH2' }),
+      [[0, 6, 1], [6, 7, 2, 'c'], [6, 8, 1], [8, 9, 1], [9, 10, 1], [3, 11, 1]],
+      { ester: [[7, 8, 9], [7, 8]], amine: [[11], [11]] }));
+
+    /* raspberry ketone: 4-(4-hydroxyphenyl)butan-2-one */
+    R = benz(); e = [];
+    e[0] = step(R.p[1], -30); e[1] = step(e[0], 30); e[2] = step(e[1], -30); e[3] = step(e[2], -90); e[4] = step(e[2], 30); e[5] = step(R.p[4], 150);
+    /* 6 CH2, 7 CH2, 8 C, 9 =O, 10 CH3, 11 OH */
+    add('raspberry ketone', 'raspberry ketone', mol(R, e, lbl(12, { 9: 'O', 11: 'OH' }),
+      [[1, 6, 1], [6, 7, 1], [7, 8, 1], [8, 9, 2, 'c'], [8, 10, 1], [4, 11, 1]],
+      { ketone: [[9], [9]], phenol: [[11], [11]] }));
+
+    /* alanine (neutral form): CH3-CH(NH2)-COOH */
+    R = { p: [], b: [] }; e = [[0, 0]];
+    e[1] = step(e[0], -30); e[2] = step(e[1], -90); e[3] = step(e[1], 30); e[4] = step(e[3], 90); e[5] = step(e[3], -30);
+    /* 0 CH3, 1 C, 2 NH2, 3 C, 4 =O, 5 OH */
+    add('alanine', 'alanine', mol(R, e, lbl(6, { 2: 'NH2', 4: 'O', 5: 'OH' }),
+      [[0, 1, 1], [1, 2, 1], [1, 3, 1], [3, 4, 2, 'c'], [3, 5, 1]],
+      { amine: [[1], [2]], 'carboxylic acid': [[3, 4], [4, 5]] }));
+
+    var MW = 340, MH = 240;
+    var GNAME = {}; Object.keys(MM).forEach(function (k) { GNAME[k] = NAMES[k.split(':')[1]] || 'Alkene'; });
+    DIAGRAMS.fgm = {
+      name: 'Groups in real molecules',
+      vb: [0, 0, MW, MH],
+      parts: GNAME,
+      cue: function (part) { return MOLNAME[part] ? 'Name the highlighted group in ' + MOLNAME[part] : ''; },
+      svg: function (part) {
+        var m = MM[part] || MM['aspirin:arene'];
+        ctrRing = [0, 0];
+        return draw(m, !!MM[part], 'fgm', MW, MH);
       }
     };
   })();

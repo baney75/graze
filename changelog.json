@@ -1,5 +1,15 @@
 [
   {
+    "v": "5.1.0",
+    "date": "2026-10-10",
+    "name": "Recall",
+    "notes": [
+      "Functional Groups: a new course with 22 groups drawn as skeletal structures, the same groups inside aspirin, vanillin, acetaminophen and other real molecules, general formulas, naming suffixes and priority, and a pKa ladder.",
+      "Sapiens: The Big Ideas, a new course on the arguments of Yuval Noah Harari's book, with what critics dispute.",
+      "Recall it first: Feed cards hide their choices until you have tried to answer from memory. Functional groups also come back in reverse: you see a name and pick the structure."
+    ]
+  },
+  {
     "v": "5.0.1",
     "date": "2026-10-09",
     "name": "Checked",

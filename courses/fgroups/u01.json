@@ -1,0 +1,275 @@
+{
+  "title": "Formulas to groups",
+  "note": "R stands for the carbon framework. Read a formula by the atoms next to carbon: O, S, N, or a halogen on a single-bonded carbon, or a C=O carbonyl. On a carbonyl, H gives an aldehyde, two carbons a ketone, OH an acid, OR an ester, N an amide, Cl an acyl chloride.",
+  "src": {
+    "t": "OpenStax, Organic Chemistry, 3.1 Functional Groups",
+    "u": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups"
+  },
+  "items": [
+    {
+      "c": "R–OH",
+      "a": "Alcohol",
+      "d": [
+        "Ether",
+        "Thiol"
+      ]
+    },
+    {
+      "c": "R–O–R′",
+      "a": "Ether",
+      "d": [
+        "Alcohol",
+        "Sulfide"
+      ]
+    },
+    {
+      "c": "Ar–OH (OH on a benzene ring)",
+      "a": "Phenol",
+      "d": [
+        "Ether",
+        "Carboxylic acid"
+      ]
+    },
+    {
+      "c": "Three-membered ring containing one O",
+      "a": "Epoxide",
+      "d": [
+        "Alkene",
+        "Alcohol"
+      ]
+    },
+    {
+      "c": "R–SH",
+      "a": "Thiol",
+      "d": [
+        "Alcohol",
+        "Sulfide"
+      ]
+    },
+    {
+      "c": "R–S–R′",
+      "a": "Sulfide",
+      "d": [
+        "Thiol",
+        "Ether"
+      ]
+    },
+    {
+      "c": "R–S–S–R′",
+      "a": "Disulfide",
+      "d": [
+        "Sulfide",
+        "Thiol"
+      ]
+    },
+    {
+      "c": "R–X (X = F, Cl, Br, I)",
+      "a": "Alkyl halide",
+      "d": [
+        "Acyl chloride",
+        "Thiol"
+      ]
+    },
+    {
+      "c": "R–NH₂",
+      "a": "Amine",
+      "d": [
+        "Amide",
+        "Imine"
+      ]
+    },
+    {
+      "c": "R₂NH",
+      "a": "Secondary amine",
+      "d": [
+        "Primary amine",
+        "Tertiary amine"
+      ]
+    },
+    {
+      "c": "R₃N",
+      "a": "Tertiary amine",
+      "d": [
+        "Secondary amine",
+        "Primary amine"
+      ]
+    },
+    {
+      "c": "R₄N⁺",
+      "a": "Quaternary ammonium ion",
+      "d": [
+        "Tertiary amine",
+        "Imine"
+      ]
+    },
+    {
+      "c": "R₂C=N–R′",
+      "a": "Imine",
+      "d": [
+        "Amide",
+        "Nitrile"
+      ]
+    },
+    {
+      "c": "R–C≡N",
+      "a": "Nitrile",
+      "d": [
+        "Imine",
+        "Alkyne"
+      ]
+    },
+    {
+      "c": "R₂C=CR₂",
+      "a": "Alkene",
+      "d": [
+        "Alkane",
+        "Arene"
+      ]
+    },
+    {
+      "c": "R–C≡C–R′",
+      "a": "Alkyne",
+      "d": [
+        "Alkene",
+        "Nitrile"
+      ]
+    },
+    {
+      "c": "Only C–C and C–H single bonds",
+      "a": "Alkane",
+      "d": [
+        "Alkene",
+        "Arene"
+      ]
+    },
+    {
+      "c": "Benzene-type aromatic ring",
+      "a": "Arene",
+      "d": [
+        "Alkene",
+        "Alkyne"
+      ]
+    },
+    {
+      "c": "C=O",
+      "a": "Carbonyl group",
+      "d": [
+        "Hydroxyl group",
+        "Cyano group"
+      ]
+    },
+    {
+      "c": "–OH",
+      "a": "Hydroxyl group",
+      "d": [
+        "Carbonyl group",
+        "Amino group"
+      ]
+    },
+    {
+      "c": "RCHO",
+      "a": "Aldehyde",
+      "d": [
+        "Ketone",
+        "Alcohol"
+      ]
+    },
+    {
+      "c": "C=O bonded to two carbons",
+      "a": "Ketone",
+      "d": [
+        "Aldehyde",
+        "Ester"
+      ]
+    },
+    {
+      "c": "RCOOH",
+      "a": "Carboxylic acid",
+      "d": [
+        "Ester",
+        "Aldehyde"
+      ]
+    },
+    {
+      "c": "RCOOR′",
+      "a": "Ester",
+      "d": [
+        "Ether",
+        "Carboxylic acid"
+      ]
+    },
+    {
+      "c": "RCOSR′",
+      "a": "Thioester",
+      "d": [
+        "Sulfide",
+        "Thiol"
+      ]
+    },
+    {
+      "c": "RCONH₂",
+      "a": "Amide",
+      "d": [
+        "Amine",
+        "Nitrile"
+      ]
+    },
+    {
+      "c": "RCOCl",
+      "a": "Acyl chloride",
+      "d": [
+        "Alkyl halide",
+        "Acid anhydride"
+      ]
+    },
+    {
+      "c": "(RCO)₂O",
+      "a": "Acid anhydride",
+      "d": [
+        "Ester",
+        "Ether"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Reading a formula like a chemist",
+    "text": [
+      "A condensed formula such as CH₃CH₂CH₂OH tells you two things at once: a carbon skeleton and a functional group. Chemists replace the skeleton with R and look only at the group, because the group decides most of what the molecule does.",
+      "Start by asking what is bonded to carbon. Oxygen alone with two single bonds gives an ether; with an H on it, an alcohol. Sulfur mirrors oxygen: R–SH is a thiol, R–S–R′ a sulfide, and R–S–S–R′ a disulfide. Nitrogen with single bonds gives an amine, while a C=N bond marks an imine and a C≡N triple bond a nitrile.",
+      "Next look for C=O. Count what else touches the carbonyl carbon. Two carbons make a ketone. One carbon and one hydrogen make an aldehyde. Put OH on the carbonyl carbon and you have a carboxylic acid. Swap OH for OR and it becomes an ester, for SR a thioester, for NH₂ an amide, and for Cl an acyl chloride. Two acyl groups sharing one oxygen, (RCO)₂O, form an acid anhydride.",
+      "The trap is position. An R–O–R′ unit whose oxygen is bonded to a carbonyl carbon is an ester, not an ether."
+    ],
+    "q": [
+      {
+        "q": "Which formula contains a carbonyl group?",
+        "o": [
+          "R–O–R′",
+          "RCHO",
+          "R–SH",
+          "R–C≡N"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What distinguishes an ester from an ether?",
+        "o": [
+          "The oxygen is bonded to a carbonyl carbon",
+          "It contains sulfur",
+          "It has an O–H bond",
+          "It has no carbon framework"
+        ],
+        "k": 0
+      },
+      {
+        "q": "R–S–S–R′ differs from R–S–R′ because it has",
+        "o": [
+          "A C=O group",
+          "Two bonded sulfur atoms",
+          "An S–H bond",
+          "A nitrogen atom"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

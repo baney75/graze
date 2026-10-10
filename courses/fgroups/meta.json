@@ -1,0 +1,30 @@
+{
+  "key": "fgroups",
+  "name": "Functional Groups",
+  "group": "Sciences",
+  "tag": "FGROUP",
+  "level": "Orgo I",
+  "blurb": "Identify, name and reason about every common functional group: read general formulas, choose IUPAC suffixes and prefixes, and predict acidity, basicity, hydrogen bonding and carbonyl reactivity. Built for the first weeks of organic chemistry.",
+  "sources": [
+    {
+      "t": "OpenStax, Organic Chemistry, 3.1 Functional Groups",
+      "u": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups"
+    },
+    {
+      "t": "LibreTexts, Organic Chemistry (Morsch et al.), 3.1 Functional Groups",
+      "u": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/03%3A_Organic_Compounds-_Alkanes_and_Their_Stereochemistry/3.01%3A_Functional_Groups"
+    },
+    {
+      "t": "OpenStax, Organic Chemistry, 21.1 Naming Carboxylic Acid Derivatives",
+      "u": "https://openstax.org/books/organic-chemistry/pages/21-1-naming-carboxylic-acid-derivatives"
+    },
+    {
+      "t": "OpenStax, Organic Chemistry, 2.8 Acid and Base Strength",
+      "u": "https://openstax.org/books/organic-chemistry/pages/2-8-acid-and-base-strength"
+    },
+    {
+      "t": "OpenStax, Organic Chemistry, 21.2 Nucleophilic Acyl Substitution Reactions",
+      "u": "https://openstax.org/books/organic-chemistry/pages/21-2-nucleophilic-acyl-substitution-reactions"
+    }
+  ]
+}

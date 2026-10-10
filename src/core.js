@@ -54,6 +54,20 @@ function normalize(s) {
   if (!o.prefs.unit || typeof o.prefs.unit !== 'object') o.prefs.unit = {};
   o.prefs.newCap = clamp(+o.prefs.newCap || 10, 3, 60);
   if (!o.math || typeof o.math !== 'object') o.math = { lv: 2, u: 0 };
+  return migrateOrgo(o);
+}
+// 5.1.0 moved the functional-groups picture unit (index 4) out of Organic Chemistry, so later orgo units
+// shifted down by one. Reading marks are keyed by unit index; remap them once. The marker lives in the
+// codex set, which merges by union, so a migrated save never migrates twice.
+const ORGO_MOVED = 'x:orgo-fg-5.1';
+function migrateOrgo(o) {
+  if (!o || !o.codex || typeof o.codex !== 'object' || o.codex[ORGO_MOVED]) return o;
+  const old = o.codex, cx = {};
+  for (const k in old) { const m = /^r:orgo:(\d+)$/.exec(k); cx[m && +m[1] >= 5 ? 'r:orgo:' + (+m[1] - 1) : m && +m[1] === 4 ? 'r:orgo:x4' : k] = old[k]; }
+  cx[ORGO_MOVED] = { acc: 0, n: 1, u: 0 };
+  o.codex = cx;
+  const pu = o.prefs && o.prefs.unit;
+  if (pu && +pu.orgo >= 5) pu.orgo = +pu.orgo - 1; else if (pu && +pu.orgo === 4) pu.orgo = 0;
   return o;
 }
 function loadSave() {
@@ -80,7 +94,7 @@ function putCard(id, s) { SV.cards[id] = { b: s.b | 0, due: Math.round(s.due || 
 /* CRDT-style merge: counters max-per-device, cards last-writer-wins, sets union, prefs LWW */
 const ukeys = (a, b) => [...new Set([...Object.keys(a || {}), ...Object.keys(b || {})])].sort();
 function mergeState(a, b) {
-  b = (b && typeof b === 'object') ? b : {};
+  b = (b && typeof b === 'object') ? migrateOrgo(JSON.parse(JSON.stringify(b))) : {};
   const o = JSON.parse(JSON.stringify(a));
   o.gc = {};
   for (const k of ukeys(a.gc, b.gc)) { const ma = (a.gc || {})[k] || {}, mb = (b.gc || {})[k] || {}, m = {}; for (const d of ukeys(ma, mb)) m[d] = Math.max(+ma[d] || 0, +mb[d] || 0); o.gc[k] = m; }
@@ -286,6 +300,8 @@ function packOn(k) {
   if (k === 'custom') return p.custom !== false;
   if (k === 'codex') return true;
   if (!COURSES[k]) return false;
+  // Functional groups moved out of Organic Chemistry into their own course; keep them coming for orgo players.
+  if (k === 'fgroups' && !(k in p) && packOn('orgo')) return true;
   return (k in p) ? !!p[k] : (!SV.prefs.onboard && LEGACY_ON.includes(k));
 }
 const newCap = () => clamp(+SV.prefs.newCap || NEW_CAP, 3, 60);
@@ -295,12 +311,16 @@ function cardId(C, u, x) {
   if (u.k === 'flag') return 'f:' + x[0];
   return C.idOf ? C.idOf(x[0]) : 'p:' + C.key + ':' + x[0];
 }
+function imgCue(u, p) {
+  const D = u.k === 'diagram' && typeof DIAGRAMS !== 'undefined' && DIAGRAMS[u.g];
+  return (D && D.cue && D.cue(p)) || (u.k === 'map' && u.g === 'us' ? IMG_CUE.us : IMG_CUE[u.k]);
+}
 function buildCards() {
   CARDS = {}; for (const k of Object.keys(DECKS)) DECK_IDS[k] = [];
   const put = card => { if (CARDS[card.id]) return; CARDS[card.id] = card; DECK_IDS[card.deck].push(card.id); };
   for (const C of Object.values(COURSES)) C.units.forEach((u, ui) => u.i.forEach(x => {
     const id = cardId(C, u, x);
-    if (u.k) put({ id, deck: C.key, u: ui, img: { k: u.k, g: u.g, p: x[0] }, c: u.k === 'map' && u.g === 'us' ? IMG_CUE.us : IMG_CUE[u.k], a: x[1], d: x[2] || [], ex: x[3] || '' });
+    if (u.k) put({ id, deck: C.key, u: ui, img: { k: u.k, g: u.g, p: x[0] }, c: imgCue(u, x[0]), a: x[1], d: x[2] || [], ex: x[3] || '' });
     else put({ id, deck: C.key, u: ui, c: C.show ? C.show(x[0]) : x[0], a: x[1], d: x[2] || [], ex: x[3] || '', exT: x[4] || '', r: x[5] || '', say: x[6] || '' });
   }));
   CODEX.forEach(p => p.cards.forEach((x, i) => put({ id: 'c:' + p.id + i, deck: 'codex', c: x[0], a: x[1], d: x[2] || [], pid: p.id })));

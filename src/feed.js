@@ -115,6 +115,32 @@ function optButtons(item, opts, correct, onPick, two) {
   setTimeout(() => box.classList.remove('wait'), 450);
   return box;
 }
+// Recall first: the choices stay hidden until the player has tried to recall the answer.
+// Tap, Space or a number key shows them; they also appear on their own after a pause.
+function veil(item, box, ms, hint) {
+  const wrap = el('div', 'fveil'), btn = el('button', 'fshow');
+  btn.append(el('span', 'fthink', 'Recall it first'), el('span', '', hint || 'Say the answer in your head, then tap for choices'));
+  box.classList.add('veiled'); wrap.append(btn, box);
+  item.veilMs = ms;
+  item.reveal = () => { if (!box.classList.contains('veiled')) return; box.classList.remove('veiled'); btn.remove(); clearTimeout(item.veilT); };
+  btn.addEventListener('click', () => { item.reveal(); const b = item.opts && item.opts[0]; if (b) setTimeout(() => b.focus({ preventScroll: true }), 30); });
+  return wrap;
+}
+function picButtons(item, parts, g, correct, onPick) {
+  const box = el('div', 'fopts fpics wait'), btns = [];
+  parts.forEach((p, j) => {
+    const b = el('button'); b.append(el('kbd', '', String(j + 1)), partImgEl(g, p)); b.setAttribute('aria-label', 'Choice ' + (j + 1)); btns.push(b);
+    b.addEventListener('click', () => {
+      if (item.done) return; item.done = true;
+      btns.forEach((x, n) => { x.disabled = true; if (parts[n] === correct) x.classList.add('ok'); else if (n === j) x.classList.add('bad'); });
+      onPick(p === correct);
+    });
+    box.appendChild(b);
+  });
+  item.opts = btns;
+  setTimeout(() => box.classList.remove('wait'), 450);
+  return box;
+}
 function cardOptions(card, rev) {
   if (rev) {
     const out = [card.c]; for (let t = 0; t < 8 && out.length < 4; t++) { const p = distractorPrompt(card); if (p && !out.includes(p)) out.push(p); }
@@ -129,18 +155,30 @@ function feedBuild(item) {
   const card = plan.id ? CARDS[plan.id] : null, C = card ? COURSES[card.deck] : null, D = card ? DECKS[card.deck] : null;
   if (plan.type === 'quiz') {
     const s = SV.cards[plan.id], rev = !card.img && !(C && C.norev) && s && s.b >= 3 && Math.random() < 0.35 && !!distractorPrompt(card);
-    inn.appendChild(fk((D ? D.tag || D.name : '') + (plan.gold ? '  ·  GOLDEN' : ''), plan.from === 'check' ? 'Just learned' : rev ? 'Reverse' : plan.from === 'early' ? 'Practice' : 'Recall', D && D.col));
+    const pick = plan.from !== 'check' && canPick(card) && s && s.b >= 1 && Math.random() < 0.45;
+    inn.appendChild(fk((D ? D.tag || D.name : '') + (plan.gold ? '  ·  GOLDEN' : ''), plan.from === 'check' ? 'Just learned' : rev || pick ? 'Reverse' : plan.from === 'early' ? 'Practice' : 'Recall', D && D.col));
+    if (pick) {
+      inn.appendChild(el('p', 'fcue sm', 'Pick the ' + card.a.toLowerCase()));
+      const ex = el('p', 'fex');
+      inn.appendChild(veil(item, picButtons(item, pickParts(card), card.img.g, card.img.p, ok => {
+        feedGrade(item, card, ok);
+        if (card.ex) { ex.textContent = ''; ex.appendChild(el('b', '', card.ex)); }
+        feedAdvance(item, ok ? 1300 : 2600);
+      }), 3200, 'Picture the structure, then tap for choices'));
+      inn.appendChild(ex);
+      return;
+    }
     if (card.img) inn.appendChild(cardImgEl(card));
     inn.appendChild(el('p', 'fcue' + ((rev ? card.a : card.c).length > 28 || card.img ? ' sm' : ''), rev ? card.a : card.c));
     if (card.r && !rev) inn.appendChild(el('div', 'frd', card.r));
     const ex = el('p', 'fex');
     const opts = cardOptions(card, rev), correct = rev ? card.c : card.a;
-    inn.appendChild(optButtons(item, opts, correct, ok => {
+    inn.appendChild(veil(item, optButtons(item, opts, correct, ok => {
       feedGrade(item, card, ok);
       if (card.ex) { ex.textContent = ''; ex.appendChild(el('b', '', card.ex)); if (card.exT) ex.appendChild(document.createTextNode(' · ' + card.exT)); }
       if (speakable(card) && SV.prefs.voice !== false) SPEECH.say(card.say || card.c, cardLang(card));
       feedAdvance(item, ok ? 1100 : 2400);
-    }, opts.every(o => o.length < 22)));
+    }, opts.every(o => o.length < 22)), card.img ? 3000 : 2400));
     inn.appendChild(ex);
     return;
   }
@@ -227,10 +265,12 @@ function feedActivate(i) {
   // Leaving a card: commit learn cards that were seen.
   const prev = F.els[F.idx];
   if (prev && prev.plan.type === 'learn' && !prev.done) feedLearned(prev);
+  if (prev && prev.veilT) { clearTimeout(prev.veilT); prev.veilT = 0; }
   F.idx = i;
   const it = F.els[i];
   while (F.els.length < i + 4) feedAppend();
   if (it.plan.type === 'math') it.t0 = performance.now();
+  if (it.reveal && !it.veilT) it.veilT = setTimeout(it.reveal, it.veilMs || 2400);
   const card = it.plan.id ? CARDS[it.plan.id] : null;
   if (card && it.plan.type === 'learn' && speakable(card) && SV.prefs.voice !== false) setTimeout(() => SPEECH.say(card.say || card.c, cardLang(card)), 200);
   else SPEECH.stop();
@@ -283,6 +323,8 @@ function feedKey(e) {
   if (k === 'ArrowUp' || k === 'PageUp' || k === 'k') { e.preventDefault(); feedGo(-1); return; }
   const it = F.els[F.idx]; if (!it) return;
   const n = +k;
+  const veiled = it.reveal && it.opts && it.opts[0] && it.opts[0].parentNode.classList.contains('veiled');
+  if (veiled && !it.done && ((n >= 1 && n <= 4) || k === ' ' || k === 'Enter')) { e.preventDefault(); it.reveal(); return; }
   if (n >= 1 && n <= 4 && it.opts && it.opts[n - 1] && !it.done) { e.preventDefault(); it.opts[n - 1].click(); return; }
   if (k === ' ' || k === 'Enter') {
     if (document.activeElement && document.activeElement.tagName === 'BUTTON' && it.sec.contains(document.activeElement) && !it.done) return;

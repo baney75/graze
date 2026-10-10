@@ -1,0 +1,235 @@
+{
+  "title": "The Cognitive Revolution",
+  "note": "Harari argues that around 70,000 years ago Sapiens gained the ability to share stories about things that do not exist, which let large groups of strangers cooperate. Treat this as his thesis: the dates, Dunbar's number and megafauna extinctions are empirical, and scholars debate how sudden the change was.",
+  "src": {
+    "t": "Dunbar's number, Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Dunbar%27s_number"
+  },
+  "items": [
+    {
+      "c": "Cognitive Revolution (Harari's term)",
+      "a": "A shift in thinking and language, about 70,000 years ago",
+      "d": [
+        "The start of farming, about 12,000 years ago",
+        "The invention of writing, about 5,000 years ago"
+      ]
+    },
+    {
+      "c": "Harari's suggested trigger of the Cognitive Revolution",
+      "a": "A chance genetic change in brain wiring",
+      "d": [
+        "Contact with Neanderthal language",
+        "The spread of farming"
+      ],
+      "ex": "He offers this as a guess; the cause is not established."
+    },
+    {
+      "c": "Gossip theory of language",
+      "a": "Language evolved to share social information about group members",
+      "d": [
+        "Language evolved to trade grain",
+        "Language evolved to record laws"
+      ]
+    },
+    {
+      "c": "Rival to the gossip theory that Harari mentions",
+      "a": "Language evolved to share facts about food and predators",
+      "d": [
+        "Language evolved from birdsong",
+        "Language evolved to command armies"
+      ]
+    },
+    {
+      "c": "What Harari sees as unique about Sapiens language",
+      "a": "Ability to talk about things that do not exist",
+      "d": [
+        "Ability to warn of danger",
+        "Ability to name animals"
+      ]
+    },
+    {
+      "c": "Dunbar's number",
+      "a": "About 150",
+      "d": [
+        "About 15",
+        "About 1,500"
+      ],
+      "ex": "Dunbar's 1992 estimate was 148, with a wide confidence interval."
+    },
+    {
+      "c": "Basis of Dunbar's number",
+      "a": "Link between primate brain (neocortex) size and group size",
+      "d": [
+        "Link between farming yields and village size",
+        "Link between language count and tribe size"
+      ]
+    },
+    {
+      "c": "Robin Dunbar",
+      "a": "British anthropologist who proposed the number 150",
+      "d": [
+        "American economist who proposed the number 150",
+        "French sociologist who proposed the number 150"
+      ]
+    },
+    {
+      "c": "A 2021 re-analysis of Dunbar's number found",
+      "a": "Estimates varied too widely to set a firm limit",
+      "d": [
+        "The number was exactly 150",
+        "Humans can know about 1,500 people"
+      ]
+    },
+    {
+      "c": "Harari: how strangers cooperate in large groups",
+      "a": "Through belief in shared stories",
+      "d": [
+        "Through blood ties alone",
+        "Through gossip alone"
+      ],
+      "ex": "Harari's central argument; sociologists add institutions and incentives."
+    },
+    {
+      "c": "Imagined reality (Harari)",
+      "a": "Something that exists only because many people believe in it",
+      "d": [
+        "A hallucination in one mind",
+        "A law of physics"
+      ]
+    },
+    {
+      "c": "Intersubjective (Harari's term)",
+      "a": "Existing in the shared minds of many people",
+      "d": [
+        "Existing only in one person's mind",
+        "Existing whether or not anyone believes"
+      ],
+      "ex": "His examples include money and nations."
+    },
+    {
+      "c": "Harari's Peugeot example",
+      "a": "A company as a legal fiction that exists apart from its staff and assets",
+      "d": [
+        "A family clan worshipping a lion spirit",
+        "A trademark carved into engines"
+      ]
+    },
+    {
+      "c": "Animism, as Harari uses it for foragers",
+      "a": "Belief that animals, plants and places have spirits",
+      "d": [
+        "Belief in a single almighty creator",
+        "Belief that nature is a machine"
+      ],
+      "ex": "Scholars debate how uniform forager beliefs were."
+    },
+    {
+      "c": "Typical forager way of life",
+      "a": "Small nomadic bands following food through the seasons",
+      "d": [
+        "Walled cities with grain stores",
+        "Plow farms with fixed fields"
+      ]
+    },
+    {
+      "c": "When Australian megafauna extinctions began",
+      "a": "About 50,000 years ago, near human arrival",
+      "d": [
+        "About 5,000 years ago",
+        "About 500,000 years ago"
+      ],
+      "ex": "The exact timing there is still debated."
+    },
+    {
+      "c": "When American megafauna extinctions began",
+      "a": "About 13,000 years ago",
+      "d": [
+        "About 130,000 years ago",
+        "About 3,000 years ago"
+      ]
+    },
+    {
+      "c": "Share of Australian megafauna species lost",
+      "a": "About 88%",
+      "d": [
+        "About 10%",
+        "About 40%"
+      ]
+    },
+    {
+      "c": "Harari on the megafauna extinctions",
+      "a": "Blames mainly human hunting and habitat change",
+      "d": [
+        "Blames only an ice age",
+        "Blames only a comet strike"
+      ],
+      "ex": "A strong form of the overkill view."
+    },
+    {
+      "c": "Humans or climate for megafauna losses?",
+      "a": "Debated, with most scholars seeing at least some human role",
+      "d": [
+        "Settled: climate alone",
+        "Settled: humans alone"
+      ]
+    },
+    {
+      "c": "Island evidence for a human role",
+      "a": "Wrangel Island mammoths outlived mainland ones by thousands of years",
+      "d": [
+        "Island mammoths vanished before mainland ones",
+        "Mammoths died out everywhere at the same time"
+      ]
+    },
+    {
+      "c": "Critics of a sudden Cognitive Revolution say",
+      "a": "Symbolic behavior in Africa built up gradually",
+      "d": [
+        "Language began after farming",
+        "Sapiens had no art before 20,000 years ago"
+      ],
+      "ex": "Many archaeologists favor a gradual process."
+    }
+  ],
+  "read": {
+    "title": "Stories that scale",
+    "text": [
+      "Harari argues that the key to Homo sapiens success is not strength or tools but a kind of talk. Around 70,000 years ago, he says, Sapiens developed a flexible language that could describe things nobody could see or touch: spirits, tribes, laws, companies. He calls such things imagined realities, and says they exist in the shared minds of many people, which he labels intersubjective.",
+      "Why does that matter? His argument draws on a figure from anthropologist Robin Dunbar, who linked primate brain size to group size and suggested that people can keep close track of about 150 others. Gossip, Harari says, helps a band of that size hold together. Beyond that size, he argues, you need shared stories so that strangers will cooperate. A company, a nation or a religion works because enough people believe in it.",
+      "This is an interpretation, not a settled finding. Dunbar's number is a rough estimate, and a 2021 analysis found that the underlying brain data support a wide range of values. Many archaeologists also see symbolic behavior in Africa building up slowly rather than appearing in one jump 70,000 years ago.",
+      "The extinctions of large animals in Australia and the Americas are empirical. Harari ties them mainly to human hunters. Most scholars grant humans a role, but climate change is also debated as a cause."
+    ],
+    "q": [
+      {
+        "q": "What is Dunbar's number, according to the reading?",
+        "o": [
+          "About 15 close friends",
+          "About 1,500 people",
+          "About 150 people one can keep track of",
+          "About 15,000 villagers"
+        ],
+        "k": 2
+      },
+      {
+        "q": "According to Harari, what lets strangers cooperate in large groups?",
+        "o": [
+          "Shared stories",
+          "Gossip alone",
+          "Stronger muscles",
+          "Better farming"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why does the reading call the Cognitive Revolution an interpretation?",
+        "o": [
+          "Its date is certain",
+          "Dunbar's number is unknowable",
+          "Many archaeologists see a gradual change instead of a sudden jump",
+          "Extinctions never happened"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

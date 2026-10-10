@@ -1,0 +1,279 @@
+{
+  "title": "Properties and reactivity",
+  "note": "Alcohols and alkyl halides are classed by carbons on the carbon bearing the group; amines by carbons on N. An O–H or N–H donates hydrogen bonds; O or N lone pairs accept them. Acidity: acid > phenol > alcohol > terminal alkyne. Acyl reactivity: chloride > anhydride > thioester > ester > amide.",
+  "src": {
+    "t": "OpenStax, Organic Chemistry, 21.2 Nucleophilic Acyl Substitution Reactions",
+    "u": "https://openstax.org/books/organic-chemistry/pages/21-2-nucleophilic-acyl-substitution-reactions"
+  },
+  "items": [
+    {
+      "c": "(CH₃)₃C–OH",
+      "a": "3° alcohol",
+      "d": [
+        "1° alcohol",
+        "2° alcohol"
+      ]
+    },
+    {
+      "c": "(CH₃)₂CH–OH",
+      "a": "2° alcohol",
+      "d": [
+        "1° alcohol",
+        "3° alcohol"
+      ]
+    },
+    {
+      "c": "(CH₃)₂CH–Br",
+      "a": "2° alkyl halide",
+      "d": [
+        "1° alkyl halide",
+        "3° alkyl halide"
+      ]
+    },
+    {
+      "c": "(CH₃)₃C–Cl",
+      "a": "3° alkyl halide",
+      "d": [
+        "1° alkyl halide",
+        "2° alkyl halide"
+      ]
+    },
+    {
+      "c": "(CH₃)₂NH",
+      "a": "2° amine",
+      "d": [
+        "1° amine",
+        "3° amine"
+      ]
+    },
+    {
+      "c": "(CH₃)₃C–NH₂",
+      "a": "1° amine",
+      "d": [
+        "2° amine",
+        "3° amine"
+      ],
+      "ex": "Only one carbon group is bonded to N, even though the carbon is tertiary."
+    },
+    {
+      "c": "(CH₃)₃N",
+      "a": "3° amine",
+      "d": [
+        "1° amine",
+        "2° amine"
+      ]
+    },
+    {
+      "c": "Amine degree is set by the number of",
+      "a": "carbons bonded to N",
+      "d": [
+        "carbons bonded to the α-carbon",
+        "lone pairs on N"
+      ]
+    },
+    {
+      "c": "Alcohol degree is set by the number of",
+      "a": "carbons bonded to the C–OH carbon",
+      "d": [
+        "carbons bonded to O",
+        "O–H bonds"
+      ]
+    },
+    {
+      "c": "Diethyl ether in hydrogen bonding",
+      "a": "acceptor only",
+      "d": [
+        "donor only",
+        "neither donor nor acceptor"
+      ]
+    },
+    {
+      "c": "Ethanol in hydrogen bonding",
+      "a": "donor and acceptor",
+      "d": [
+        "acceptor only",
+        "neither donor nor acceptor"
+      ]
+    },
+    {
+      "c": "Why (CH₃)₃N cannot donate hydrogen bonds",
+      "a": "no N–H bond",
+      "d": [
+        "no lone pair on N",
+        "N is too small"
+      ]
+    },
+    {
+      "c": "Higher boiling point: 1-butanol or diethyl ether?",
+      "a": "1-Butanol",
+      "d": [
+        "Diethyl ether"
+      ]
+    },
+    {
+      "c": "More acidic: alcohol, phenol or carboxylic acid?",
+      "a": "Carboxylic acid",
+      "d": [
+        "Alcohol",
+        "Phenol"
+      ]
+    },
+    {
+      "c": "More acidic: phenol or ethanol?",
+      "a": "Phenol",
+      "d": [
+        "Ethanol"
+      ]
+    },
+    {
+      "c": "Approximate pKa of a carboxylic acid",
+      "a": "about 4–5",
+      "d": [
+        "about 16",
+        "about 25"
+      ]
+    },
+    {
+      "c": "Approximate pKa of phenol",
+      "a": "about 10",
+      "d": [
+        "about 4–5",
+        "about 25"
+      ]
+    },
+    {
+      "c": "Approximate pKa of an alcohol",
+      "a": "about 16",
+      "d": [
+        "about 4–5",
+        "about 25"
+      ]
+    },
+    {
+      "c": "Approximate pKa of a terminal alkyne",
+      "a": "about 25",
+      "d": [
+        "about 4–5",
+        "about 50"
+      ]
+    },
+    {
+      "c": "Typical acid–base behavior of an amine",
+      "a": "weak base",
+      "d": [
+        "weak acid",
+        "strong acid"
+      ]
+    },
+    {
+      "c": "Conjugate acid of an amine",
+      "a": "ammonium ion",
+      "d": [
+        "alkoxide ion",
+        "carboxylate ion"
+      ]
+    },
+    {
+      "c": "Why amides are not appreciably basic",
+      "a": "N lone pair is delocalized into C=O",
+      "d": [
+        "N has no lone pair",
+        "the C=O is too weak"
+      ]
+    },
+    {
+      "c": "Most reactive carboxylic acid derivative",
+      "a": "Acyl chloride",
+      "d": [
+        "Ester",
+        "Amide"
+      ]
+    },
+    {
+      "c": "Least reactive carboxylic acid derivative",
+      "a": "Amide",
+      "d": [
+        "Acyl chloride",
+        "Acid anhydride"
+      ]
+    },
+    {
+      "c": "More reactive: acid anhydride or ester?",
+      "a": "Acid anhydride",
+      "d": [
+        "Ester"
+      ]
+    },
+    {
+      "c": "More reactive: thioester or ester?",
+      "a": "Thioester",
+      "d": [
+        "Ester"
+      ]
+    },
+    {
+      "c": "More reactive: ester or amide?",
+      "a": "Ester",
+      "d": [
+        "Amide"
+      ]
+    },
+    {
+      "c": "Which group has a carbonyl?",
+      "a": "Aldehyde",
+      "d": [
+        "Ether",
+        "Alkyne"
+      ]
+    },
+    {
+      "c": "Which is not a carbonyl compound?",
+      "a": "Nitrile",
+      "d": [
+        "Amide",
+        "Thioester"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Degree, hydrogen bonds and carbonyl reactivity",
+    "text": [
+      "Degree counts neighbors, but the counting differs by group. For an alcohol or alkyl halide, count the carbons attached to the carbon that bears the OH or halogen: one is primary, two secondary, three tertiary. For an amine, count the carbons attached to nitrogen itself. That is why tert-butylamine, (CH₃)₃C–NH₂, is a primary amine.",
+      "Hydrogen bonding follows the atoms. A molecule needs an O–H or N–H to donate, and a lone pair on O or N to accept. Ethanol does both. Diethyl ether and a tertiary amine can only accept, so they boil far lower than alcohols of similar mass.",
+      "Acidity depends on how well the conjugate base copes with its negative charge. A carboxylate spreads charge over two oxygens, so carboxylic acids (pKa about 4–5) beat phenols (about 10), which beat alcohols (about 16). Amines hold a lone pair on N and act as weak bases. Amides do not: that lone pair is tied up by the neighboring carbonyl.",
+      "Carbonyl derivatives differ in reactivity. The better the leaving group and the less the substituent donates electrons to C=O, the faster the attack: acyl chloride, anhydride, thioester, ester, amide. Reactive ones convert into less reactive ones, not directly the reverse."
+    ],
+    "q": [
+      {
+        "q": "(CH₃)₃C–NH₂ is classified as",
+        "o": [
+          "1° amine",
+          "2° amine",
+          "3° amine",
+          "quaternary"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why do amides fail to act as appreciable bases?",
+        "o": [
+          "They lack nitrogen",
+          "The N lone pair is delocalized into the carbonyl",
+          "They are too acidic",
+          "They are not polar"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Which conversion is possible directly?",
+        "o": [
+          "Amide to ester",
+          "Ester to acyl chloride",
+          "Acyl chloride to amide",
+          "Amide to anhydride"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

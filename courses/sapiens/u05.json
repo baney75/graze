@@ -1,0 +1,45 @@
+{
+  "title": "The Scientific Revolution",
+  "note": "Harari argues that modern science began when Europeans admitted ignorance and joined research to empire and capital, driving growth and, with the Industrial Revolution, a new world of state and market. The dates and inventions are empirical; the causal loop and his claims about family and community are his interpretation.",
+  "src": { "t": "Scientific Revolution, Wikipedia", "u": "https://en.wikipedia.org/wiki/Scientific_Revolution" },
+  "items": [
+    { "c": "Discovery of ignorance (Harari)", "a": "Admitting we do not know and seeking to learn", "d": ["Rejecting all earlier writers", "Trusting scripture over observation"] },
+    { "c": "Modern science's method per Harari", "a": "Observation and mathematics, aimed at gaining new powers", "d": ["Tradition and ritual, aimed at wisdom", "Authority and debate, aimed at harmony"] },
+    { "c": "Harari's \"marriage of science and empire\"", "a": "Conquest funded research, and knowledge aided conquest", "d": ["Empires banned research", "Science developed apart from rulers"] },
+    { "c": "Harari's capitalist creed", "a": "Reinvest profits in production to earn more profit", "d": ["Hoard gold for the next generation", "Spend profits on public works"] },
+    { "c": "Credit, as Harari sees it", "a": "Money lent against expected future growth", "d": ["Money earned from past harvests", "Money backed by gold in vaults"] },
+    { "c": "Trust that supports credit (Harari)", "a": "Belief that tomorrow's economy will be larger", "d": ["Belief that gold never loses value", "Belief that empires cannot fall"] },
+    { "c": "Copernicus, 1543", "a": "De Revolutionibus, placing the Sun at the center", "d": ["Principia, setting out universal gravitation", "Starry Messenger, reporting telescope views"] },
+    { "c": "Vesalius, 1543", "a": "De humani corporis fabrica, on anatomy", "d": ["Novum Organum, on method", "De Revolutionibus, on astronomy"] },
+    { "c": "Heliocentrism", "a": "The planets orbit the Sun", "d": ["The Sun orbits the Earth", "The stars orbit the Moon"] },
+    { "c": "Galileo's Starry Messenger, 1610", "a": "Telescope views, including Jupiter's moons", "d": ["Proof of universal gravitation", "A defense of Aristotelian physics"] },
+    { "c": "Francis Bacon's Novum Organum, 1620", "a": "Promoted inductive reasoning and experiment", "d": ["Proved the Sun is at the center", "Set out the laws of motion"] },
+    { "c": "Royal Society of London", "a": "Chartered by Charles II in 1662", "d": ["Founded by Elizabeth I in 1562", "Founded by Newton in 1687"] },
+    { "c": "Newton's Principia, 1687", "a": "Set out the law of universal gravitation", "d": ["Introduced the telescope to astronomy", "Argued the Sun orbits the Earth"] },
+    { "c": "Alternative start for the Scientific Revolution", "a": "1572, Tycho Brahe's supernova", "d": ["1687, Newton's Principia", "1610, the Starry Messenger"], "ex": "Some historians prefer it to 1543." },
+    { "c": "Where the Industrial Revolution began", "a": "Great Britain, around 1760", "d": ["France, around 1660", "The United States, around 1860"] },
+    { "c": "First industry to industrialize", "a": "Textiles", "d": ["Shipbuilding", "Glassmaking"] },
+    { "c": "Effect of mechanized cotton spinning", "a": "Output per worker rose roughly 500 times", "d": ["Output per worker fell by half", "Output per worker doubled"] },
+    { "c": "Newcomen's steam engine", "a": "Drained deep mines, introduced before 1712", "d": ["Powered railways in the 1830s", "Ran the first power looms"] },
+    { "c": "Watt's separate condenser", "a": "Cut coal use to 20 to 25% of Newcomen's", "d": ["Doubled coal use", "Replaced coal with wood"] },
+    { "c": "Abraham Darby's innovation, 1709", "a": "Coke in iron blast furnaces", "d": ["Puddling to make iron", "Hot-blast smelting"] },
+    { "c": "Industrial Revolution at heart (Harari)", "a": "A revolution in converting energy", "d": ["A revolution in religion", "A revolution in language"], "ex": "His emphasis; historians weigh other causes too." },
+    { "c": "Harari: what replaced family and community", "a": "The state and the market", "d": ["The church and the guild", "The army and the village"], "ex": "His interpretation, widely debated." },
+    { "c": "Nation (Harari)", "a": "A large imagined community of strangers", "d": ["A tribe of close kin", "A single walled city"] },
+    { "c": "Industrialization spread to Japan", "a": "By the late 1800s", "d": ["By the early 1500s", "By the mid 1700s"] }
+  ],
+  "read": {
+    "title": "Ignorance, empire and growth",
+    "text": [
+      "Harari argues that the Scientific Revolution, usually dated from 1543 when Copernicus and Vesalius published their books, rested on a change of attitude. Earlier cultures, he says, tended to believe their sacred texts already contained all the knowledge that mattered. Europeans from about 1500 began saying openly that they did not know, and set out to find out. Combined with observation and mathematics, this produced new power.",
+      "He then links science to empire and capital. Explorers and conquerors collected plants, maps and customs, and rulers paid for research that promised military and economic advantage. Meanwhile capitalism, in Harari's description, depends on credit, meaning trust in future growth, and on reinvesting profits. The loop of science, empire and capital drove expansion. This is his causal story, and historians disagree about how much weight each part deserves.",
+      "The Industrial Revolution is easier to date: it began in Great Britain around 1760 in textiles, with steam engines by Newcomen and Watt and coal replacing wood. Harari emphasizes energy conversion, the ability to turn heat into motion. He also argues that the state and the market took over many tasks of family and community. Others dispute how complete that change was, since families and communities still do much of the work of care.",
+      "Both threads show the book's pattern. The dates are checkable. The big explanation is Harari's argument."
+    ],
+    "q": [
+      { "q": "What change of attitude does Harari credit for modern science?", "o": ["Trust in sacred texts", "Admitting what people did not know", "Rejecting mathematics", "Refusing empire"], "k": 1 },
+      { "q": "Where did the Industrial Revolution begin?", "o": ["Japan", "Great Britain", "Spain", "The United States"], "k": 1 },
+      { "q": "Which is presented as Harari's interpretation rather than a date?", "o": ["Copernicus published in 1543", "The state and market took over from family and community", "Newcomen's engine drained mines", "Textiles led industry"], "k": 1 }
+    ]
+  }
+}
