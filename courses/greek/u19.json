@@ -196,7 +196,7 @@
       "a": "this",
       "d": [
         "that",
-        "he, she, it"
+        "the same"
       ],
       "ex": "οὗτος ὁ ἄνθρωπος",
       "exT": "this man",
@@ -336,29 +336,29 @@
       {
         "q": "What does Jesus call his disciples?",
         "o": [
-          "his servants",
           "his friends",
+          "his servants",
           "his brothers"
         ],
-        "k": 1
+        "k": 0
       },
       {
         "q": "Where does Jesus say he stays?",
         "o": [
-          "in his father's house",
           "in the temple",
-          "on the mountain"
+          "on the mountain",
+          "in his father's house"
         ],
-        "k": 0
+        "k": 2
       },
       {
         "q": "What does one man in the crowd say about Jesus?",
         "o": [
           "He is a king.",
-          "He is a scribe.",
-          "He is the prophet."
+          "He is the prophet.",
+          "He is a scribe."
         ],
-        "k": 2
+        "k": 1
       }
     ]
   }

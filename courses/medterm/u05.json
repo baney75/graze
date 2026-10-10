@@ -48,8 +48,8 @@
     ],
     "q": [
       { "q": "Which cells make the pigment melanin?", "o": ["Melanocytes", "Keratin-filled surface cells", "Fat cells", "Sweat gland cells"], "k": 0 },
-      { "q": "Which layer contains blood vessels, nerves and hair follicles?", "o": ["The dermis", "The epidermis", "The outer keratin layer"], "k": 0 },
-      { "q": "Which pair are both roots for hair?", "o": ["trich/o and pil/o", "onych/o and ungu/o", "hidr/o and seb/o", "derm/o and cutane/o"], "k": 0 }
+      { "q": "Which layer contains blood vessels, nerves and hair follicles?", "o": ["The epidermis", "The outer keratin layer", "The dermis"], "k": 2 },
+      { "q": "Which pair are both roots for hair?", "o": ["onych/o and ungu/o", "trich/o and pil/o", "hidr/o and seb/o", "derm/o and cutane/o"], "k": 1 }
     ]
   }
 }

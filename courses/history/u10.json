@@ -16,10 +16,10 @@
     { "c": "Why Louis XVI called the Estates-General", "a": "A royal debt crisis", "d": ["A foreign invasion", "A peasant revolt in Brittany"] },
     { "c": "Tennis Court Oath", "a": "Third Estate vowed to write a constitution", "d": ["King vowed to share power with nobles", "Army vowed loyalty to Napoleon"] },
     { "c": "Storming of the Bastille", "a": "July 14, 1789", "d": ["January 21, 1793", "June 18, 1815", "July 4, 1776"] },
-    { "c": "Declaration of the Rights of Man (France)", "a": "1789 French statement of natural rights", "d": ["1791 French law abolishing the monarchy", "1804 French civil law code"] },
+    { "c": "Declaration of the Rights of Man (France)", "a": "1789 French statement of natural rights", "d": ["1792 decree abolishing the monarchy", "1804 French civil law code"] },
     { "c": "Execution of Louis XVI", "a": "1793", "d": ["1789", "1799", "1815"] },
     { "c": "Reign of Terror", "a": "Mass executions of suspected enemies, 1793 to 1794", "d": ["Napoleon's invasion of Russia", "Peasant attacks on noble estates in 1789"] },
-    { "c": "Maximilien Robespierre", "a": "Leader of the Committee of Public Safety", "d": ["General who became emperor", "King overthrown in 1792"] },
+    { "c": "Maximilien Robespierre", "a": "Leading member of the Committee of Public Safety", "d": ["General who became emperor", "King overthrown in 1792"] },
     { "c": "Napoleon crowns himself emperor", "a": "1804", "d": ["1799", "1789", "1815"] },
     { "c": "Napoleonic Code", "a": "French law code of legal equality for men", "d": ["Treaty dividing Europe after 1815", "Rules for France's revolutionary army"] },
     { "c": "Napoleon's final defeat", "a": "Waterloo, 1815", "d": ["Trafalgar, 1805", "Austerlitz, 1805", "Leipzig, 1813"] },
@@ -45,9 +45,9 @@
       "When Napoleon invaded Spain in 1808, Spain's American colonies began to govern themselves. Creole leaders such as Simón Bolívar and José de San Martín led armies of independence, and by the mid-1820s nearly all of Spanish and Portuguese America was free of European rule."
     ],
     "q": [
-      { "q": "What immediate problem led Louis XVI to call the Estates-General?", "o": ["Debt", "A slave revolt", "A Spanish invasion", "Napoleon's coup"], "k": 0 },
+      { "q": "What immediate problem led Louis XVI to call the Estates-General?", "o": ["A slave revolt", "A Spanish invasion", "Debt", "Napoleon's coup"], "k": 2 },
       { "q": "What opened the way for Spanish American independence?", "o": ["Napoleon's invasion of Spain", "The Treaty of Paris", "The Reign of Terror", "The Congress of Vienna"], "k": 0 },
-      { "q": "What made Haiti's founding unique?", "o": ["It came from a successful slave revolt", "It was a gift from Britain", "It was the first colony in the Americas", "It followed a peaceful vote"], "k": 0 }
+      { "q": "What made Haiti's founding unique?", "o": ["It was a gift from Britain", "It came from a successful slave revolt", "It was the first colony in the Americas", "It followed a peaceful vote"], "k": 1 }
     ]
   }
 }

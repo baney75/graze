@@ -1,6 +1,6 @@
 {
   "title": "Ancient Greece",
-  "note": "Greece was never one state. Mountains and sea split it into hundreds of independent city-states (poleis) that shared a language, gods and festivals. Athens developed democracy and Sparta a military society; they united against Persia, then fought each other, and Macedon conquered them both.",
+  "note": "Greece was never one state. Mountains and sea split it into hundreds of independent city-states (poleis) that shared a language, gods and festivals. Athens developed democracy and Sparta a military society; they united against Persia, then fought each other, and Macedon came to dominate them.",
   "src": { "t": "OpenStax World History Vol. 1, 6.1 to 6.3", "u": "https://openstax.org/books/world-history-volume-1/pages/6-2-ancient-greece" },
   "items": [
     { "c": "Minoans", "a": "Bronze Age palace civilization on Crete", "d": ["Bronze Age warrior kingdoms of mainland Greece", "Iron Age seafaring traders of Lebanon"] },
@@ -43,12 +43,12 @@
     "text": [
       "In the Archaic period, from about 800 to 500 BCE, Greek communities organized themselves as city-states, each with its own laws, army and patron god. Two became especially powerful. Sparta conquered its neighbors and forced the helots to farm for it, which freed every Spartan citizen to train as a soldier. Athens took another path. Reforms by Solon and then Cleisthenes gave ordinary male citizens a vote in the Assembly, where they decided laws and war directly.",
       "Around 500 BCE the Persian Empire pushed west. The Athenians beat a Persian army at Marathon in 490 BCE. Ten years later King Xerxes invaded with a huge force. A small Spartan-led band held the pass at Thermopylae for days, and then the Greek fleet crushed the Persians at Salamis.",
-      "Victory made Athens rich. It led the Delian League, used its funds to rebuild the Acropolis, and under Pericles became a center of drama and philosophy. Fear of Athenian power drove Sparta to war in 431 BCE. The Peloponnesian War lasted until 404 BCE and ended with Athens defeated. The weakened city-states later fell to Philip II of Macedon, whose son Alexander carried Greek culture as far as Egypt and India."
+      "Victory made Athens rich. It led the Delian League, used its funds to rebuild the Acropolis, and under Pericles became a center of drama and philosophy. Fear of Athenian power drove Sparta to war in 431 BCE. The Peloponnesian War lasted until 404 BCE and ended with Athens defeated. Most of the weakened city-states later came under Philip II of Macedon, whose son Alexander carried Greek culture as far as Egypt and India."
     ],
     "q": [
-      { "q": "Why could every Spartan citizen train full time as a soldier?", "o": ["Helots did the farming", "Athens paid them tribute", "Persia hired them as soldiers", "They lived by trade"], "k": 0 },
+      { "q": "Why could every Spartan citizen train full time as a soldier?", "o": ["Athens paid them tribute", "Persia hired them as soldiers", "Helots did the farming", "They lived by trade"], "k": 2 },
       { "q": "What, according to the reading, caused the Peloponnesian War?", "o": ["Sparta's fear of Athenian power", "A Persian invasion of Sparta", "Alexander's conquests", "A dispute over the Olympic Games"], "k": 0 },
-      { "q": "Which battle was a naval victory over Xerxes?", "o": ["Salamis", "Marathon", "Thermopylae", "Chaeronea"], "k": 0 }
+      { "q": "Which battle was a naval victory over Xerxes?", "o": ["Marathon", "Salamis", "Thermopylae", "Chaeronea"], "k": 1 }
     ]
   }
 }

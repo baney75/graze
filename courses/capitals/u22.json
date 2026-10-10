@@ -2,11 +2,11 @@
   "title": "Capitals of the Middle East and North Africa",
   "note": "Gulf capitals sit on the coast, from Kuwait City to Muscat. Turkey’s capital is Ankara, not Istanbul, and Saudi Arabia’s is Riyadh, not Jeddah. Algiers, Tunis and Tripoli are Mediterranean ports, Rabat faces the Atlantic and Cairo sits on the Nile.",
   "src": {
-    "t": "CIA World Factbook (archived JSON edition)",
-    "u": "https://github.com/factbook/factbook.json"
+    "t": "Wikipedia, List of national capitals",
+    "u": "https://en.wikipedia.org/wiki/List_of_national_capitals"
   },
   "items": [
-    { "c": "Turkey", "a": "Ankara", "d": ["Istanbul", "Izmir", "Bursa"] },
+    { "c": "Turkey", "a": "Ankara", "d": ["Istanbul", "Izmir", "Bursa"], "ex": "The country’s official English name is Türkiye." },
     { "c": "Syria", "a": "Damascus", "d": ["Aleppo", "Homs", "Latakia"] },
     { "c": "Lebanon", "a": "Beirut", "d": ["Sidon", "Tyre", "Byblos"] },
     { "c": "Israel", "a": "Jerusalem", "d": ["Haifa", "Eilat", "Beersheba"], "ex": "Israel’s government sits in Jerusalem; many countries keep embassies in Tel Aviv." },
@@ -21,7 +21,7 @@
     { "c": "Oman", "a": "Muscat", "d": ["Salalah", "Sohar", "Nizwa"] },
     { "c": "Yemen", "a": "Sanaa", "d": ["Taiz", "Al Hudaydah", "Mukalla"], "ex": "Since 2015 the internationally recognized government has worked mainly from Aden." },
     { "c": "Egypt", "a": "Cairo", "d": ["Alexandria", "Giza", "Luxor"] },
-    { "c": "Libya", "a": "Tripoli", "d": ["Benghazi", "Misrata", "Sirte"] },
+    { "c": "Libya", "a": "Tripoli", "d": ["Misrata", "Zawiya", "Sabha"] },
     { "c": "Tunisia", "a": "Tunis", "d": ["Sfax", "Sousse", "Kairouan"] },
     { "c": "Algeria", "a": "Algiers", "d": ["Oran", "Constantine", "Annaba"] },
     { "c": "Morocco", "a": "Rabat", "d": ["Casablanca", "Marrakesh", "Fes"] },

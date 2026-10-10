@@ -317,29 +317,29 @@
       {
         "q": "How old is Lee?",
         "o": [
-          "Nineteen",
           "Twenty",
-          "Forty-five"
+          "Forty-five",
+          "Nineteen"
         ],
-        "k": 0
+        "k": 2
       },
       {
         "q": "How many students are in the class?",
         "o": [
-          "Five",
           "Nine",
+          "Five",
           "Four"
         ],
-        "k": 1
+        "k": 0
       },
       {
         "q": "What nationality is Professor Yamada?",
         "o": [
           "Chinese",
-          "American",
-          "Japanese"
+          "Japanese",
+          "American"
         ],
-        "k": 2
+        "k": 1
       }
     ]
   }

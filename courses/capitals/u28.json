@@ -2,8 +2,8 @@
   "title": "Capitals of South America",
   "note": "Brazil built Brasília inland and moved its capital there from Rio de Janeiro in 1960. Bolivia has two capitals: Sucre in its constitution and La Paz, the seat of government. Most other capitals are the largest city.",
   "src": {
-    "t": "CIA World Factbook (archived JSON edition)",
-    "u": "https://github.com/factbook/factbook.json"
+    "t": "Wikipedia, List of national capitals",
+    "u": "https://en.wikipedia.org/wiki/List_of_national_capitals"
   },
   "items": [
     { "c": "Colombia", "a": "Bogotá", "d": ["Medellín", "Cali", "Barranquilla"] },
@@ -11,7 +11,7 @@
     { "c": "Guyana", "a": "Georgetown", "d": ["Linden", "New Amsterdam", "Paramaribo"] },
     { "c": "Suriname", "a": "Paramaribo", "d": ["Lelydorp", "Nieuw Nickerie", "Cayenne"] },
     { "c": "Ecuador", "a": "Quito", "d": ["Guayaquil", "Cuenca", "Manta"] },
-    { "c": "Peru", "a": "Lima", "d": ["Cusco", "Arequipa", "Trujillo"] },
+    { "c": "Peru", "a": "Lima", "d": ["Trujillo", "Chiclayo", "Piura"] },
     { "c": "Brazil", "a": "Brasília", "d": ["Rio de Janeiro", "São Paulo", "Salvador"], "ex": "Brasília replaced Rio de Janeiro as the capital in 1960." },
     { "c": "Bolivia", "a": "Sucre", "d": ["Santa Cruz", "Cochabamba", "Potosí"], "ex": "Sucre is the constitutional capital; La Paz is the seat of government." },
     { "c": "Paraguay", "a": "Asunción", "d": ["Ciudad del Este", "Encarnación", "San Lorenzo"] },

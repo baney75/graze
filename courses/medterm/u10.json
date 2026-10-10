@@ -46,8 +46,8 @@
       "Many urinary terms end in -uria. Put a word part in front to say what is unusual: anuria is no urine, oliguria is scanty urine, nocturia is excessive urination at night, and hematuria is blood in the urine. Procedure terms reuse familiar suffixes: cystoscopy views the bladder and nephrectomy removes a kidney."
     ],
     "q": [
-      { "q": "What is the functional unit of the kidney?", "o": ["The nephron", "The ureter", "The renal pelvis", "The bladder"], "k": 0 },
-      { "q": "How many ureters and urethras does a person normally have?", "o": ["Two ureters, one urethra", "One ureter, two urethras", "Two of each"], "k": 0 },
+      { "q": "What is the functional unit of the kidney?", "o": ["The ureter", "The nephron", "The renal pelvis", "The bladder"], "k": 1 },
+      { "q": "How many ureters and urethras does a person normally have?", "o": ["One ureter, two urethras", "Two of each", "Two ureters, one urethra"], "k": 2 },
       { "q": "What does pyuria mean?", "o": ["Pus in the urine", "Inflammation of the renal pelvis", "Fever with urination"], "k": 0 }
     ]
   }

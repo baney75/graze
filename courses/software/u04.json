@@ -1,6 +1,6 @@
 {
   "title": "Design principles",
-  "note": "Good design keeps change cheap. Aim for high cohesion (each module does one related job) and low coupling (modules depend on each other as little as possible). SOLID is Robert C. Martin's set of five object-oriented principles: Single responsibility, Open–closed, Liskov substitution, Interface segregation, Dependency inversion.",
+  "note": "Good design keeps change cheap. Aim for high cohesion (each module does one related job) and low coupling (modules depend on each other as little as possible). SOLID names five object-oriented principles collected by Robert C. Martin (acronym by Michael Feathers): Single responsibility, Open–closed, Liskov substitution, Interface segregation, Dependency inversion.",
   "src": {
     "t": "Refactoring Guru, What is refactoring (clean code)",
     "u": "https://refactoring.guru/refactoring/what-is-refactoring"
@@ -245,7 +245,7 @@
     "text": [
       "Most of a program's cost comes after it first works, when someone has to change it. Design principles are rules of thumb for keeping that change small and safe. DRY says each piece of knowledge should live in one place, so a tax rate or a validation rule is edited once, not hunted down in five files. KISS and YAGNI push the other way against cleverness: build the simple thing that solves today's problem, not the general framework for problems you imagine.",
       "Cohesion and coupling describe how a system is carved up. A cohesive module does one related job; a loosely coupled module needs little knowledge of others. The single responsibility principle states the same idea for classes: one reason to change. Dependency inversion keeps coupling low by having both high-level policy and low-level details depend on an abstraction, so a database or payment provider can be swapped without touching business logic.",
-      "Inheritance is the tightest coupling in object-oriented code, because a subclass depends on its parent's internals. That is why designers often prefer composition, holding a collaborator and delegating to it. Inheritance is still right when the subtype is truly substitutable, which is what Liskov's principle demands: code written for the base type must keep working when handed the subtype."
+      "Inheritance is one of the tightest forms of coupling in object-oriented code, because a subclass depends on its parent's internals. That is why designers often prefer composition, holding a collaborator and delegating to it. Inheritance is still right when the subtype is truly substitutable, which is what Liskov's principle demands: code written for the base type must keep working when handed the subtype."
     ],
     "q": [
       {

@@ -2,8 +2,8 @@
   "title": "Capitals of North and Central America and the Caribbean",
   "note": "Canada’s capital is Ottawa, not Toronto, and the US capital is Washington, D.C., a federal district outside any state. Several Central American capitals share the country’s name, such as Guatemala City and Panama City.",
   "src": {
-    "t": "CIA World Factbook (archived JSON edition)",
-    "u": "https://github.com/factbook/factbook.json"
+    "t": "Wikipedia, List of national capitals",
+    "u": "https://en.wikipedia.org/wiki/List_of_national_capitals"
   },
   "items": [
     { "c": "Canada", "a": "Ottawa", "d": ["Toronto", "Montreal", "Vancouver"] },

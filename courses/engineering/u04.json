@@ -67,7 +67,7 @@
       ]
     },
     {
-      "c": "Same rod in steel or aluminum, same load: more stretch?",
+      "c": "Same rod, same load: steel or Al stretches more?",
       "a": "aluminum, about three times as much",
       "d": [
         "steel, about three times as much",
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "c": "Slope of the linear part of a stress-strain curve",
+      "c": "Initial linear slope of a stress-strain curve",
       "a": "Young's modulus",
       "d": [
         "yield strength",

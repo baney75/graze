@@ -47,9 +47,9 @@
       "Breathing words are built on -pnea. Apnea is the absence of breathing, dyspnea is difficult breathing, tachypnea is rapid breathing and eupnea is normal breathing. Gases have roots too: ox/i for oxygen and capn/o for carbon dioxide, so hypoxia is too little oxygen in the tissues and hypercapnia is too much carbon dioxide in the blood."
     ],
     "q": [
-      { "q": "What closes over the airway during swallowing?", "o": ["The epiglottis", "The larynx", "The pleura", "The diaphragm"], "k": 0 },
+      { "q": "What closes over the airway during swallowing?", "o": ["The larynx", "The epiglottis", "The pleura", "The diaphragm"], "k": 1 },
       { "q": "Where does oxygen pass into the blood?", "o": ["In the alveoli", "In the trachea", "In the pharynx"], "k": 0 },
-      { "q": "Which root names the diaphragm?", "o": ["phren/o", "pleur/o", "pulmon/o", "thorac/o"], "k": 0 }
+      { "q": "Which root names the diaphragm?", "o": ["pleur/o", "pulmon/o", "phren/o", "thorac/o"], "k": 2 }
     ]
   }
 }

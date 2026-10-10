@@ -88,8 +88,8 @@
       ]
     },
     {
-      "c": "If overruled where life or property is endangered",
-      "a": "notify the employer or client and other proper authority",
+      "c": "Overruled where life or property is endangered",
+      "a": "notify the employer or client and other appropriate authority",
       "d": [
         "comply quietly with the decision",
         "resign without telling anyone why"
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "c": "Payment from more than one party for the same project",
+      "c": "Pay from two or more parties for one project",
       "a": "only with full disclosure and agreement of all parties",
       "d": [
         "never allowed under any circumstances",
@@ -163,7 +163,7 @@
       "c": "Valuable gifts from contractors on your project",
       "a": "must not be accepted",
       "d": [
-        "are fine below any amount",
+        "are fine once the contract is signed",
         "are fine if disclosed afterward"
       ]
     },

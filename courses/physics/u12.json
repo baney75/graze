@@ -291,11 +291,11 @@
       {
         "q": "Why does a lamp light almost instantly even though electrons drift slowly?",
         "o": [
-          "The field spreads through the wire almost instantly",
           "Electrons travel at light speed",
+          "The field spreads through the wire almost instantly",
           "The lamp stores charge in advance"
         ],
-        "k": 0
+        "k": 1
       },
       {
         "q": "What happens to total resistance when a branch is added in parallel?",
@@ -309,11 +309,11 @@
       {
         "q": "Why are homes wired in parallel?",
         "o": [
-          "Each appliance gets the full outlet voltage",
           "It lowers total current",
-          "It keeps current the same everywhere"
+          "It keeps current the same everywhere",
+          "Each appliance gets the full outlet voltage"
         ],
-        "k": 0
+        "k": 2
       }
     ]
   }

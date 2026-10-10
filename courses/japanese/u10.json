@@ -254,7 +254,7 @@
       "a": "kuji",
       "d": [
         "kyūji",
-        "kyuji"
+        "kokonoji"
       ]
     },
     {
@@ -310,29 +310,29 @@
       {
         "q": "What does the writer have for breakfast?",
         "o": [
-          "Bread and eggs",
           "Rice and fish",
+          "Bread and eggs",
           "Only coffee"
         ],
-        "k": 0
+        "k": 1
       },
       {
         "q": "When are the Japanese classes?",
         "o": [
           "Tuesday and Thursday",
-          "Monday and Wednesday",
-          "Saturday and Sunday"
+          "Saturday and Sunday",
+          "Monday and Wednesday"
         ],
-        "k": 1
+        "k": 2
       },
       {
         "q": "What day is it today?",
         "o": [
+          "Saturday",
           "Sunday",
-          "Friday",
-          "Saturday"
+          "Friday"
         ],
-        "k": 2
+        "k": 0
       }
     ]
   }

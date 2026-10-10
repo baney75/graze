@@ -2,8 +2,8 @@
   "title": "Capitals of East and Southeast Asia",
   "note": "Myanmar moved its capital from Yangon to Naypyidaw in 2006, and Malaysia runs its government from Putrajaya beside Kuala Lumpur. Singapore is a city-state, so the country and its capital share a name.",
   "src": {
-    "t": "CIA World Factbook (archived JSON edition)",
-    "u": "https://github.com/factbook/factbook.json"
+    "t": "Wikipedia, List of national capitals",
+    "u": "https://en.wikipedia.org/wiki/List_of_national_capitals"
   },
   "items": [
     { "c": "China", "a": "Beijing", "d": ["Shanghai", "Guangzhou", "Shenzhen"] },
@@ -16,10 +16,10 @@
     { "c": "Cambodia", "a": "Phnom Penh", "d": ["Siem Reap", "Battambang", "Sihanoukville"] },
     { "c": "Thailand", "a": "Bangkok", "d": ["Chiang Mai", "Phuket", "Pattaya"] },
     { "c": "Myanmar", "a": "Naypyidaw", "d": ["Mandalay", "Bago", "Mawlamyine"], "ex": "Yangon (Rangoon), the largest city, was the capital until 2006." },
-    { "c": "Malaysia", "a": "Kuala Lumpur", "d": ["George Town", "Johor Bahru", "Kota Kinabalu"], "ex": "Putrajaya is the administrative capital." },
+    { "c": "Malaysia", "a": "Kuala Lumpur", "d": ["George Town", "Johor Bahru", "Kota Kinabalu"], "ex": "Putrajaya is the administrative and judicial capital." },
     { "c": "Singapore", "a": "Singapore", "d": ["Johor Bahru", "Kuala Lumpur", "Jakarta"], "ex": "Singapore is a city-state." },
     { "c": "Brunei", "a": "Bandar Seri Begawan", "d": ["Kuala Belait", "Seria", "Tutong"] },
-    { "c": "Indonesia", "a": "Jakarta", "d": ["Surabaya", "Bandung", "Medan"], "ex": "A new capital, Nusantara, is being built on Borneo." },
+    { "c": "Indonesia", "a": "Jakarta", "d": ["Surabaya", "Bandung", "Medan"], "ex": "Jakarta stays the capital until a presidential decree completes the move to Nusantara, on Borneo." },
     { "c": "Timor-Leste", "a": "Dili", "d": ["Baucau", "Maliana", "Suai"] },
     { "c": "Philippines", "a": "Manila", "d": ["Cebu City", "Davao City", "Quezon City"] }
   ]

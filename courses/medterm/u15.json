@@ -47,8 +47,8 @@
       "The lymphatic system returns tissue fluid, called lymph, to the blood and filters it through lymph nodes (lymphaden/o). The spleen (splen/o) filters blood, and the thymus (thym/o) is where T lymphocytes mature. Immune vocabulary rests on a simple pair: an antigen is anything that triggers an immune response, and an antibody is a protein that binds to a specific antigen."
     ],
     "q": [
-      { "q": "Where are blood cells formed in adults?", "o": ["In the red bone marrow", "In the spleen", "In the lymph nodes", "In the liver"], "k": 0 },
-      { "q": "What does thrombocytopenia mean?", "o": ["A low platelet count", "A high platelet count", "A low red cell count"], "k": 0 },
+      { "q": "Where are blood cells formed in adults?", "o": ["In the spleen", "In the red bone marrow", "In the lymph nodes", "In the liver"], "k": 1 },
+      { "q": "What does thrombocytopenia mean?", "o": ["A high platelet count", "A low red cell count", "A low platelet count"], "k": 2 },
       { "q": "Which organ is the site where T lymphocytes mature?", "o": ["The thymus", "The spleen", "The thyroid"], "k": 0 }
     ]
   }

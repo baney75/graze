@@ -48,9 +48,9 @@
       "Diagnostic terms combine the same parts. An electrocardiogram records the heart's electrical activity, while an echocardiogram uses sound waves to make an image of it."
     ],
     "q": [
-      { "q": "Which chamber pumps blood into the aorta?", "o": ["Left ventricle", "Right ventricle", "Right atrium", "Left atrium"], "k": 0 },
+      { "q": "Which chamber pumps blood into the aorta?", "o": ["Right ventricle", "Right atrium", "Left ventricle", "Left atrium"], "k": 2 },
       { "q": "Which layer of the heart wall is the muscle?", "o": ["Myocardium", "Endocardium", "Pericardium"], "k": 0 },
-      { "q": "What does an echocardiogram use to make its image?", "o": ["Sound waves", "Electrical signals", "X-rays"], "k": 0 }
+      { "q": "What does an echocardiogram use to make its image?", "o": ["Electrical signals", "Sound waves", "X-rays"], "k": 1 }
     ]
   }
 }

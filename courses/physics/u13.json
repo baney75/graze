@@ -42,9 +42,33 @@
       "In 1831 Michael Faraday found the reverse effect. A changing magnetic flux through a loop induces an emf, whether the magnet moves, the loop moves, or the field strength changes. Lenz's law gives the direction: the induced current creates a field that opposes the change. Generators turn mechanical rotation into electricity this way, and transformers use alternating current to step voltages up or down. Power companies send electricity at high voltage because the same power then needs less current, and resistive losses grow with the square of the current."
     ],
     "q": [
-      { "q": "Why does a magnetic field not change a charged particle's speed?", "o": ["Its force is always perpendicular to the motion", "It acts only on stationary charges", "It is much weaker than gravity"], "k": 0 },
-      { "q": "What did Faraday discover in 1831?", "o": ["A changing flux induces an emf", "Currents deflect compass needles", "Like poles repel"], "k": 0 },
-      { "q": "Why is electricity sent over long lines at high voltage?", "o": ["Lower current reduces resistive losses", "High voltage increases the current", "Transformers only work at high voltage"], "k": 0 }
+      {
+        "q": "Why does a magnetic field not change a charged particle's speed?",
+        "o": [
+          "It acts only on stationary charges",
+          "It is much weaker than gravity",
+          "Its force is always perpendicular to the motion"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What did Faraday discover in 1831?",
+        "o": [
+          "Currents deflect compass needles",
+          "A changing flux induces an emf",
+          "Like poles repel"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why is electricity sent over long lines at high voltage?",
+        "o": [
+          "Lower current reduces resistive losses",
+          "High voltage increases the current",
+          "Transformers only work at high voltage"
+        ],
+        "k": 0
+      }
     ]
   }
 }

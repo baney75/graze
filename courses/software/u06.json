@@ -70,7 +70,7 @@
         "too many tiny classes with no behavior",
         "a method longer than one screen"
       ],
-      "ex": "A raw string for an email address or a float for money are typical examples."
+      "ex": "Typical examples: a raw string for an email address, or a float for money."
     },
     {
       "c": "Data Clumps",
@@ -170,7 +170,7 @@
     },
     {
       "c": "Usual cure for Data Clumps",
-      "a": "Introduce Parameter Object",
+      "a": "Extract Class or Introduce Parameter Object",
       "d": [
         "Replace Temp with Query",
         "Inline Class"

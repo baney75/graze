@@ -5,12 +5,12 @@
   "note": "India fills the subcontinent with Pakistan, Nepal, Bhutan and Bangladesh around it and Sri Lanka and the Maldives offshore. North of the mountains lie the five Central Asian states, and between the Black and Caspian Seas the three countries of the Caucasus.",
   "src": {
     "t": "Natural Earth 1:50m boundaries via world-atlas",
-    "u": "https://github.com/topojson/world-atlas"
+    "u": "https://npmjs.com/package/world-atlas"
   },
   "items": [
-    { "p": "AF", "a": "Afghanistan", "d": ["Pakistan", "Tajikistan", "Kyrgyzstan"] },
-    { "p": "PK", "a": "Pakistan", "d": ["Afghanistan", "Tajikistan", "Kyrgyzstan"] },
-    { "p": "IN", "a": "India", "d": ["Bangladesh", "Nepal", "Bhutan"] },
+    { "p": "AF", "a": "Afghanistan", "d": ["Pakistan", "Iran", "Tajikistan"] },
+    { "p": "PK", "a": "Pakistan", "d": ["Afghanistan", "India", "Iran"] },
+    { "p": "IN", "a": "India", "d": ["Pakistan", "Bangladesh", "Nepal"] },
     { "p": "NP", "a": "Nepal", "d": ["Bhutan", "Bangladesh", "India"] },
     { "p": "BT", "a": "Bhutan", "d": ["Bangladesh", "Nepal", "India"] },
     { "p": "BD", "a": "Bangladesh", "d": ["Bhutan", "India", "Nepal"] },

@@ -1,52 +1,308 @@
 {
   "title": "Version control with git",
   "note": "Git stores each commit as a snapshot of the whole project, named by a hash of its contents. A branch is just a movable pointer to a commit, and HEAD points to the branch you are on. Changes move from the working tree to the staging area (git add) to the repository (git commit).",
-  "src": { "t": "Pro Git, 3.6 Git Branching: Rebasing", "u": "https://git-scm.com/book/en/v2/Git-Branching-Rebasing" },
+  "src": {
+    "t": "Pro Git, 3.6 Git Branching: Rebasing",
+    "u": "https://git-scm.com/book/en/v2/Git-Branching-Rebasing"
+  },
   "items": [
-    { "c": "Created Git in 2005", "a": "Linus Torvalds", "d": ["Junio Hamano", "Richard Stallman", "Guido van Rossum"], "ex": "It was built to manage Linux kernel development." },
-    { "c": "Git is a distributed VCS, meaning", "a": "every clone holds the full project history", "d": ["files are split across many servers", "only the server stores history"] },
-    { "c": "Git's three main states for a file", "a": "modified, staged, committed", "d": ["added, pushed, merged", "tracked, cached, deployed"] },
-    { "c": "The staging area (index)", "a": "holds what will go into the next commit", "d": ["stores commits that were pushed", "lists files Git ignores"] },
-    { "c": "What a git commit records", "a": "a snapshot of the project plus metadata", "d": ["only a list of changed line numbers", "a copy of the remote server's state"] },
-    { "c": "How Git names a commit", "a": "by a hash of its contents (SHA-1 by default)", "d": ["by a sequential revision number", "by the author's timestamp"] },
-    { "c": "A git branch is", "a": "a lightweight movable pointer to a commit", "d": ["a full copy of the repository", "a folder of changed files"] },
-    { "c": "HEAD normally points to", "a": "the branch you currently have checked out", "d": ["the newest commit on the remote", "the very first commit"] },
-    { "c": "Detached HEAD", "a": "HEAD points at a commit rather than a branch", "d": ["the remote has been deleted", "the index is empty"] },
-    { "c": "Create a branch and switch to it", "a": "git switch -c feature", "d": ["git branch -d feature", "git merge feature"], "ex": "The older equivalent is git checkout -b feature." },
-    { "c": "Fast-forward merge", "a": "the pointer just moves ahead, no merge commit", "d": ["a merge that skips conflict checks", "a merge that squashes all commits"] },
-    { "c": "A three-way merge combines", "a": "both branch tips and their common ancestor", "d": ["three branches at once", "the last three commits on each side"] },
-    { "c": "git rebase main", "a": "replays your branch's commits on top of main", "d": ["merges main with a new merge commit", "deletes commits that are not on main"] },
-    { "c": "Pro Git's rule for rebasing", "a": "never rebase commits others may have built on", "d": ["always rebase before every pull", "never rebase commits you have not pushed"] },
-    { "c": "Merge versus rebase of the same work", "a": "same final snapshot, different history", "d": ["rebase drops some changes", "merge rewrites existing commits"] },
-    { "c": "git cherry-pick <commit>", "a": "applies one commit's changes to the current branch", "d": ["deletes one commit from history", "moves a branch to that commit"] },
-    { "c": "git bisect", "a": "binary search through history for a bad commit", "d": ["split a large commit into two", "compare two branches line by line"] },
-    { "c": "git bisect run: exit code for a good commit", "a": "0", "d": ["1", "125"] },
-    { "c": "git blame", "a": "shows the last commit that changed each line", "d": ["lists who broke the build", "reverts the last commit"] },
-    { "c": "git stash", "a": "shelves uncommitted changes to reapply later", "d": ["deletes untracked files", "uploads changes to the remote"] },
-    { "c": "git revert <commit>", "a": "adds a new commit that undoes an earlier one", "d": ["erases the commit from history", "restores a deleted branch"] },
-    { "c": "git reset --hard", "a": "moves the branch and discards staged and working changes", "d": ["moves the branch but keeps changes staged", "only unstages files"] },
-    { "c": "git reset --soft HEAD~1", "a": "undoes the last commit, keeps its changes staged", "d": ["undoes the last commit and deletes its changes", "creates a new commit undoing the last"] },
-    { "c": "Default mode of git reset", "a": "--mixed", "d": ["--soft", "--hard"] },
-    { "c": "git fetch", "a": "downloads remote changes without merging them", "d": ["uploads local commits to the remote", "merges the remote into your branch"] },
-    { "c": "git pull", "a": "a fetch followed by a merge (or rebase)", "d": ["a push followed by a fetch", "a clone of a single branch"] },
-    { "c": "git reflog", "a": "a log of where HEAD and branch tips have been", "d": ["a log of remote server errors", "the list of files in .gitignore"], "ex": "It is the usual way to recover a commit lost by a bad reset." },
-    { "c": "git commit --amend", "a": "replaces the last commit with a corrected one", "d": ["adds a comment to an old commit", "merges the last two branches"] },
-    { "c": "git diff --staged", "a": "staged changes compared with the last commit", "d": ["working-tree changes not yet staged", "differences between two remotes"] },
-    { "c": "Default name for the remote you cloned from", "a": "origin", "d": ["upstream", "master", "remote"] },
-    { "c": "An annotated tag (vs. lightweight)", "a": "stores a tagger, date, and message", "d": ["moves forward with each new commit", "can only point to a branch"] },
-    { "c": ".gitignore", "a": "lists untracked files Git should not track", "d": ["lists commits to skip during merges", "lists users barred from pushing"] }
+    {
+      "c": "Created Git in 2005",
+      "a": "Linus Torvalds",
+      "d": [
+        "Junio Hamano",
+        "Richard Stallman",
+        "Guido van Rossum"
+      ],
+      "ex": "It was built to manage Linux kernel development."
+    },
+    {
+      "c": "Git is a distributed VCS, meaning",
+      "a": "every clone holds the full project history",
+      "d": [
+        "files are split across many servers",
+        "only the server stores history"
+      ]
+    },
+    {
+      "c": "Git's three main states for a file",
+      "a": "modified, staged, committed",
+      "d": [
+        "added, pushed, merged",
+        "tracked, cached, deployed"
+      ]
+    },
+    {
+      "c": "The staging area (index)",
+      "a": "holds what will go into the next commit",
+      "d": [
+        "stores commits that were pushed",
+        "lists files Git ignores"
+      ]
+    },
+    {
+      "c": "What a git commit records",
+      "a": "a snapshot of the project plus metadata",
+      "d": [
+        "only a list of changed line numbers",
+        "a copy of the remote server's state"
+      ]
+    },
+    {
+      "c": "How Git names a commit",
+      "a": "by a hash of its contents (SHA-1 by default)",
+      "d": [
+        "by a sequential revision number",
+        "by the author's timestamp"
+      ]
+    },
+    {
+      "c": "A git branch is",
+      "a": "a lightweight movable pointer to a commit",
+      "d": [
+        "a full copy of the repository",
+        "a folder of changed files"
+      ]
+    },
+    {
+      "c": "HEAD normally points to",
+      "a": "the branch you currently have checked out",
+      "d": [
+        "the newest commit on the remote",
+        "the very first commit"
+      ]
+    },
+    {
+      "c": "Detached HEAD",
+      "a": "HEAD points at a commit rather than a branch",
+      "d": [
+        "the remote has been deleted",
+        "the index is empty"
+      ]
+    },
+    {
+      "c": "Create a branch and switch to it",
+      "a": "git switch -c feature",
+      "d": [
+        "git branch -d feature",
+        "git merge feature"
+      ],
+      "ex": "The older equivalent is git checkout -b feature."
+    },
+    {
+      "c": "Fast-forward merge",
+      "a": "the pointer just moves ahead, no merge commit",
+      "d": [
+        "a merge that skips conflict checks",
+        "a merge that squashes all commits"
+      ]
+    },
+    {
+      "c": "A three-way merge combines",
+      "a": "both branch tips and their common ancestor",
+      "d": [
+        "three branches at once",
+        "the last three commits on each side"
+      ]
+    },
+    {
+      "c": "git rebase main",
+      "a": "replays your branch's commits on top of main",
+      "d": [
+        "merges main with a new merge commit",
+        "deletes commits that are not on main"
+      ]
+    },
+    {
+      "c": "Pro Git's rule for rebasing",
+      "a": "never rebase commits others may have built on",
+      "d": [
+        "always rebase before every pull",
+        "never rebase commits you have not pushed"
+      ]
+    },
+    {
+      "c": "Merge versus rebase of the same work",
+      "a": "same final snapshot, different history",
+      "d": [
+        "rebase drops some changes",
+        "merge rewrites existing commits"
+      ]
+    },
+    {
+      "c": "git cherry-pick <commit>",
+      "a": "applies one commit's changes to the current branch",
+      "d": [
+        "deletes one commit from history",
+        "moves a branch to that commit"
+      ]
+    },
+    {
+      "c": "git bisect",
+      "a": "binary search through history for a bad commit",
+      "d": [
+        "split a large commit into two",
+        "compare two branches line by line"
+      ]
+    },
+    {
+      "c": "git bisect run: exit code for a good commit",
+      "a": "0",
+      "d": [
+        "1",
+        "125"
+      ]
+    },
+    {
+      "c": "git blame",
+      "a": "shows the last commit that changed each line",
+      "d": [
+        "lists who broke the build",
+        "reverts the last commit"
+      ]
+    },
+    {
+      "c": "git stash",
+      "a": "shelves uncommitted changes to reapply later",
+      "d": [
+        "deletes untracked files",
+        "uploads changes to the remote"
+      ]
+    },
+    {
+      "c": "git revert <commit>",
+      "a": "adds a new commit that undoes an earlier one",
+      "d": [
+        "erases the commit from history",
+        "restores a deleted branch"
+      ]
+    },
+    {
+      "c": "git reset --hard",
+      "a": "moves the branch and discards staged and working changes",
+      "d": [
+        "moves the branch but keeps changes staged",
+        "only unstages files"
+      ]
+    },
+    {
+      "c": "git reset --soft HEAD~1",
+      "a": "undoes the last commit, keeps its changes staged",
+      "d": [
+        "undoes the last commit and deletes its changes",
+        "creates a new commit undoing the last"
+      ]
+    },
+    {
+      "c": "Default mode of git reset",
+      "a": "--mixed",
+      "d": [
+        "--soft",
+        "--hard"
+      ]
+    },
+    {
+      "c": "git fetch",
+      "a": "downloads remote changes without merging them",
+      "d": [
+        "uploads local commits to the remote",
+        "merges the remote into your branch"
+      ]
+    },
+    {
+      "c": "git pull",
+      "a": "a fetch followed by a merge (or rebase)",
+      "d": [
+        "a push followed by a fetch",
+        "a clone of a single branch"
+      ]
+    },
+    {
+      "c": "git reflog",
+      "a": "a log of where HEAD and branch tips have been",
+      "d": [
+        "a log of remote server errors",
+        "the list of files in .gitignore"
+      ],
+      "ex": "It is the usual way to recover a commit lost by a bad reset."
+    },
+    {
+      "c": "git commit --amend",
+      "a": "replaces the last commit with a corrected one",
+      "d": [
+        "adds a comment to an old commit",
+        "merges the last two branches"
+      ]
+    },
+    {
+      "c": "git diff --staged",
+      "a": "staged changes compared with the last commit",
+      "d": [
+        "working-tree changes not yet staged",
+        "differences between two remotes"
+      ]
+    },
+    {
+      "c": "Default name for the remote you cloned from",
+      "a": "origin",
+      "d": [
+        "upstream",
+        "master",
+        "remote"
+      ]
+    },
+    {
+      "c": "An annotated tag (vs. lightweight)",
+      "a": "stores a tagger, date, and message",
+      "d": [
+        "moves forward with each new commit",
+        "can only point to a branch"
+      ]
+    },
+    {
+      "c": ".gitignore",
+      "a": "patterns for untracked files Git should ignore",
+      "d": [
+        "lists commits to skip during merges",
+        "lists users barred from pushing"
+      ]
+    }
   ],
   "read": {
     "title": "Branches are just pointers",
     "text": [
-      "Git does not store a project as a pile of diffs. Each commit is a snapshot of every tracked file, plus the author, a message, and a pointer to its parent commit. Git names each commit by a hash of its contents, so changing anything in history produces new commits with new names.",
+      "Git does not store a project as a pile of diffs. Each commit is a snapshot of every tracked file, plus the author, a message, and pointers to its parent commits. Git names each commit by a hash of its contents, so changing anything in history produces new commits with new names.",
       "A branch is nothing more than a movable pointer to one commit, which is why creating a branch is instant. HEAD records which branch you are on, and every new commit moves that branch forward. When you merge a branch that is strictly ahead of yours, Git can fast-forward, simply sliding the pointer. When the two lines have diverged, Git performs a three-way merge using both tips and their common ancestor and records a merge commit.",
       "Rebasing reaches the same final code by a different route. It takes your commits, replays them one at a time on top of another branch, and moves your branch to the result, giving a straight-line history. Because the replayed commits are new objects, rebasing commits that other people already have forces them to untangle duplicates. Pro Git's rule is simple: do not rebase commits that exist outside your repository and that people may have based work on."
     ],
     "q": [
-      { "q": "Why is creating a branch in Git instant?", "o": ["Git copies files in the background", "A branch is only a pointer to a commit", "Branches share one working directory"], "k": 1 },
-      { "q": "When can Git fast-forward a merge?", "o": ["When the merged branch is strictly ahead of yours", "When both branches have diverged", "When there are no files changed"], "k": 0 },
-      { "q": "Why is rebasing shared commits risky?", "o": ["Rebase deletes the final code", "Rebase only works on the main branch", "Replayed commits are new objects, so collaborators get duplicates"], "k": 2 }
+      {
+        "q": "Why is creating a branch in Git instant?",
+        "o": [
+          "Git copies files in the background",
+          "A branch is only a pointer to a commit",
+          "Branches share one working directory"
+        ],
+        "k": 1
+      },
+      {
+        "q": "When can Git fast-forward a merge?",
+        "o": [
+          "When the merged branch is strictly ahead of yours",
+          "When both branches have diverged",
+          "When there are no files changed"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why is rebasing shared commits risky?",
+        "o": [
+          "Rebase deletes the final code",
+          "Rebase only works on the main branch",
+          "Replayed commits are new objects, so collaborators get duplicates"
+        ],
+        "k": 2
+      }
     ]
   }
 }

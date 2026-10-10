@@ -42,8 +42,8 @@
       "To define a term, read the suffix first, then go back to the beginning and read left to right. Osteoarthritis splits into oste/o, arthr/o and -itis: inflammation of bone and joint. Some terms, such as eponyms named for people and acronyms such as AIDS, cannot be decoded this way and simply have to be memorized."
     ],
     "q": [
-      { "q": "In which order should you define the parts of a built term?", "o": ["Suffix first, then the rest from left to right", "Prefix first, then the suffix, then the root", "Root first, then the prefix", "Right to left through every part"], "k": 0 },
-      { "q": "Why does gastritis have no o between gastr and -itis?", "o": ["The suffix begins with a vowel", "Gastr is a prefix", "The o is used only after prefixes"], "k": 0 },
+      { "q": "In which order should you define the parts of a built term?", "o": ["Prefix first, then the suffix, then the root", "Suffix first, then the rest from left to right", "Root first, then the prefix", "Right to left through every part"], "k": 1 },
+      { "q": "Why does gastritis have no o between gastr and -itis?", "o": ["Gastr is a prefix", "The o is used only after prefixes", "The suffix begins with a vowel"], "k": 2 },
       { "q": "Which kind of term cannot be decoded from its parts?", "o": ["An eponym", "A term with two roots", "A term with a prefix", "A term ending in -itis"], "k": 0 }
     ]
   }

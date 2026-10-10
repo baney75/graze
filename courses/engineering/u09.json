@@ -101,7 +101,7 @@
       ]
     },
     {
-      "c": "Voltage divider: voltage across R₂ in series with R₁",
+      "c": "Voltage divider output across R₂",
       "a": "Vin · R₂/(R₁ + R₂)",
       "d": [
         "Vin · R₁/(R₁ + R₂)",
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "c": "Transformer, 1000:100 turns, 120 V in. Output?",
+      "c": "1000-turn primary, 100-turn secondary, 120 V in",
       "a": "12 V out",
       "d": [
         "1200 V out",

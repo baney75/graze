@@ -112,7 +112,7 @@
       ]
     },
     {
-      "c": "Thai word for a knee strike",
+      "c": "Thai word for knee, used in knee-strike names",
       "a": "khao",
       "d": [
         "sok",
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "c": "Thai word for an elbow strike",
+      "c": "Thai word for elbow, used in elbow-strike names",
       "a": "sok",
       "d": [
         "khao",
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "c": "Thai word for a punch",
+      "c": "Thai word for fist, used in punch names",
       "a": "mat",
       "d": [
         "sok",

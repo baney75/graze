@@ -2,8 +2,8 @@
   "title": "Capitals of East and Southern Africa",
   "note": "Tanzania moved its capital from Dar es Salaam to Dodoma, and Burundi from Bujumbura to Gitega. South Africa splits its capital three ways: Pretoria (executive), Cape Town (legislative) and Bloemfontein (judicial).",
   "src": {
-    "t": "CIA World Factbook (archived JSON edition)",
-    "u": "https://github.com/factbook/factbook.json"
+    "t": "Wikipedia, List of national capitals",
+    "u": "https://en.wikipedia.org/wiki/List_of_national_capitals"
   },
   "items": [
     { "c": "South Sudan", "a": "Juba", "d": ["Wau", "Malakal", "Khartoum"] },

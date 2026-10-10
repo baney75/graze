@@ -5,12 +5,12 @@
   "note": "Three large countries hold most of North America. South of Mexico, seven small states form the Central American isthmus down to Panama, and the Caribbean arc runs from Cuba and the Bahamas through Hispaniola to the Lesser Antilles and Trinidad.",
   "src": {
     "t": "Natural Earth 1:50m boundaries via world-atlas",
-    "u": "https://github.com/topojson/world-atlas"
+    "u": "https://npmjs.com/package/world-atlas"
   },
   "items": [
-    { "p": "CA", "a": "Canada", "d": ["Bahamas", "United States", "Cuba"] },
-    { "p": "US", "a": "United States", "d": ["Mexico", "Belize", "Guatemala"] },
-    { "p": "MX", "a": "Mexico", "d": ["Guatemala", "Belize", "El Salvador"] },
+    { "p": "CA", "a": "Canada", "d": ["United States", "Russia", "Iceland"] },
+    { "p": "US", "a": "United States", "d": ["Canada", "Mexico", "Cuba"] },
+    { "p": "MX", "a": "Mexico", "d": ["United States", "Guatemala", "Belize"] },
     { "p": "GT", "a": "Guatemala", "d": ["El Salvador", "Belize", "Honduras"] },
     { "p": "BZ", "a": "Belize", "d": ["Guatemala", "Honduras", "El Salvador"] },
     { "p": "SV", "a": "El Salvador", "d": ["Guatemala", "Honduras", "Nicaragua"] },
@@ -21,7 +21,7 @@
     { "p": "CU", "a": "Cuba", "d": ["Jamaica", "Bahamas", "Haiti"] },
     { "p": "JM", "a": "Jamaica", "d": ["Haiti", "Cuba", "Dominican Republic"] },
     { "p": "HT", "a": "Haiti", "d": ["Dominican Republic", "Jamaica", "Bahamas"] },
-    { "p": "DO", "a": "Dominican Republic", "d": ["Haiti", "Jamaica", "Saint Kitts and Nevis"] },
+    { "p": "DO", "a": "Dominican Republic", "d": ["Haiti", "Jamaica", "Cuba"] },
     { "p": "BS", "a": "Bahamas", "d": ["Cuba", "Haiti", "Dominican Republic"] },
     { "p": "BB", "a": "Barbados", "d": ["Saint Vincent and the Grenadines", "Saint Lucia", "Grenada"] },
     { "p": "TT", "a": "Trinidad and Tobago", "d": ["Grenada", "Saint Vincent and the Grenadines", "Barbados"] },

@@ -73,7 +73,7 @@
       ]
     },
     {
-      "c": "Adding material to make a part stiffer usually costs",
+      "c": "Usual cost of adding material for stiffness",
       "a": "more weight",
       "d": [
         "lower strength",
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "c": "Standard factor of safety on aircraft limit loads (FAA)",
+      "c": "FAA factor of safety on aircraft limit loads",
       "a": "1.5",
       "d": [
         "4.0",
@@ -262,7 +262,7 @@
     "title": "Designing under constraints",
     "text": [
       "Engineering starts with a need, not a solution. A team that wants a lighter wheelchair first turns the need into requirements it can test: a maximum mass, a rated load, a folded size, a target cost. Some of these are constraints, hard limits the design may not cross. Others are criteria, measures that let the team say one design is better than another.",
-      "With the problem defined, the team generates many concepts before judging any of them, then compares them, often with a weighted decision matrix. Every choice is a trade-off. Aluminum is light but less stiff than steel; carbon fiber is lighter and stiffer but costs far more.",
+      "With the problem defined, the team generates many concepts before judging any of them, then compares them, often with a weighted decision matrix. Every choice is a trade-off. Aluminum is light but less stiff than steel; carbon fiber is stiffer for its weight than either but costs far more.",
       "Next comes a prototype, which may be cardboard on day one and machined metal a month later. Tests reveal problems, and the team loops back to change the design. That loop, not a straight line, is the engineering design process.",
       "Because loads, material properties, and models are never known exactly, engineers add a factor of safety: the load that would cause failure divided by the load expected in use. Too little margin invites failure; too much wastes weight and money. Aircraft use about 1.5 because extra weight is so costly and their loads are studied so carefully."
     ],

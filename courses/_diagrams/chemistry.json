@@ -3,7 +3,7 @@
   "title": "Elements 1 to 20",
   "kind": "diagram",
   "dg": "ptable",
-  "note": "Atomic number rises by one from each cell to the next. Periods are rows and groups are columns; elements in the same group share similar chemistry because they have the same number of valence electrons.",
+  "note": "Atomic number rises by one from each cell to the next. Periods are rows and groups are columns; elements in the same group share similar chemistry because their outer electron arrangements are alike.",
   "src": {
    "t": "OpenStax Chemistry 2e, 2.5 The Periodic Table",
    "u": "https://openstax.org/books/chemistry-2e/pages/2-5-the-periodic-table"
@@ -655,7 +655,7 @@
      "Polonium (Po)",
      "Iodine (I)"
     ],
-    "ex": "A radioactive halogen so rare that Earth’s crust holds well under a gram at any time."
+    "ex": "A radioactive halogen and the rarest naturally occurring element in Earth’s crust."
    },
    {
     "p": "Rn",

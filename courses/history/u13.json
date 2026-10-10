@@ -1,6 +1,6 @@
 {
   "title": "Slavery, the Civil War and Reconstruction",
-  "note": "In the 1850s, every attempt to settle whether slavery could spread into the West made the conflict worse. Lincoln's election in 1860 led eleven Southern states to secede. The Union's victory in 1865 preserved the nation and ended slavery, and Reconstruction amendments promised citizenship and equal rights.",
+  "note": "In the 1850s, every attempt to settle whether slavery could spread into the West made the conflict worse. Lincoln's election in 1860 led seven Southern states to secede, and four more followed once war began. The Union's victory in 1865 preserved the nation and ended slavery, and Reconstruction amendments promised citizenship and equal rights.",
   "src": {
     "t": "OpenStax U.S. History, Ch. 13 to 16",
     "u": "https://openstax.org/books/us-history/pages/15-1-the-origins-and-outbreak-of-the-civil-war"
@@ -18,7 +18,7 @@
       "c": "Frederick Douglass",
       "a": "Formerly enslaved abolitionist writer and speaker",
       "d": [
-        "Conductor on the Underground Railroad",
+        "Founder of the newspaper The Liberator",
         "Abolitionist who raided Harpers Ferry"
       ]
     },
@@ -282,12 +282,12 @@
       {
         "q": "What was the central political question of the 1850s?",
         "o": [
-          "Whether slavery could spread west",
           "Whether to buy Louisiana",
           "Whether to fight Britain",
+          "Whether slavery could spread west",
           "Whether to build railroads"
         ],
-        "k": 0
+        "k": 2
       },
       {
         "q": "Which event led directly to South Carolina's secession?",
@@ -302,12 +302,12 @@
       {
         "q": "What happened after federal troops left the South in 1877?",
         "o": [
-          "Many Black rights were taken away",
           "Slavery was restored by law",
           "The Confederacy was revived",
-          "The amendments were repealed"
+          "The amendments were repealed",
+          "Many Black rights were taken away"
         ],
-        "k": 0
+        "k": 3
       }
     ]
   }

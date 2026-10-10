@@ -24,7 +24,7 @@
     { "c": "ankyl/o", "a": "stiff, bent", "d": ["crooked, curved", "soft"], "ex": "Ankylosis: stiffening of a joint." },
     { "c": "kinesi/o", "a": "movement", "d": ["weakness", "pain"] },
     { "c": "-asthenia", "a": "weakness", "d": ["paralysis", "stiffness"], "ex": "Myasthenia: muscle weakness." },
-    { "c": "-trophy", "a": "nourishment, development", "d": ["breakdown, dissolving", "hardening"], "ex": "Atrophy: wasting away from lack of development." },
+    { "c": "-trophy", "a": "nourishment, development", "d": ["breakdown, dissolving", "hardening"], "ex": "Atrophy: wasting away, literally without nourishment." },
     { "c": "-desis", "a": "surgical fusion, binding together", "d": ["surgical crushing", "surgical suturing"], "ex": "Arthrodesis: surgical fusion of a joint." },
     { "c": "oste/o/blast", "a": "cell that builds new bone", "d": ["cell that breaks down bone", "cell that forms cartilage"] },
     { "c": "oste/o/clast", "a": "cell that breaks down bone", "d": ["cell that builds new bone", "cell that stores fat in marrow"] },
@@ -46,8 +46,8 @@
       "Muscle terms rely on my/o. Myalgia is muscle pain and electromyography records the electrical activity of muscle. Be careful with myel/o, which looks similar but refers to bone marrow or the spinal cord. Tendons attach muscle to bone, while ligaments attach bone to bone."
     ],
     "q": [
-      { "q": "What does the suffix -blast indicate in osteoblast?", "o": ["A formative cell", "A cell that breaks tissue", "A tumor", "Inflammation"], "k": 0 },
-      { "q": "Which procedure fuses a joint so it no longer moves?", "o": ["Arthrodesis", "Arthroplasty", "Arthroscopy", "Arthrocentesis"], "k": 0 },
+      { "q": "What does the suffix -blast indicate in osteoblast?", "o": ["A cell that breaks tissue", "A formative cell", "A tumor", "Inflammation"], "k": 1 },
+      { "q": "Which procedure fuses a joint so it no longer moves?", "o": ["Arthroplasty", "Arthroscopy", "Arthrodesis", "Arthrocentesis"], "k": 2 },
       { "q": "What does myel/o refer to?", "o": ["Bone marrow or spinal cord", "Muscle", "Joint cartilage"], "k": 0 }
     ]
   }

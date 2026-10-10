@@ -239,7 +239,7 @@
       "c": "Problems solvable in polynomial time",
       "a": "the class P",
       "d": [
-        "the class NP-complete",
+        "the class EXPTIME",
         "the undecidable problems"
       ]
     },

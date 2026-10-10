@@ -111,7 +111,7 @@
    ]
   },
   {
-   "c": "Gram-negative wall structure absent in gram-positives",
+   "c": "Wall feature only gram-negatives have",
    "a": "An outer membrane containing LPS",
    "d": [
     "A thick peptidoglycan layer",
@@ -183,7 +183,7 @@
    ]
   },
   {
-   "c": "Main structural polysaccharide of fungal cell walls",
+   "c": "Main polysaccharide of fungal cell walls",
    "a": "Chitin",
    "d": [
     "Peptidoglycan",

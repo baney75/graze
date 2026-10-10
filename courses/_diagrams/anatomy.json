@@ -1,627 +1,627 @@
 [
-  {
-    "title": "The heart",
-    "kind": "diagram",
-    "dg": "heart",
-    "note": "A frontal section seen from the front: the patient's right is on your left, so the right atrium and right ventricle (blue, deoxygenated blood) sit on the left of the image. Red vessels carry oxygenated blood.",
-    "src": {
-      "t": "OpenStax Anatomy and Physiology 2e, 19.1 Heart Anatomy",
-      "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy"
-    },
-    "items": [
-      {
-        "p": "ra",
-        "a": "Right atrium",
-        "d": [
-          "Left atrium",
-          "Right ventricle"
-        ],
-        "ex": "Receives deoxygenated blood from the superior and inferior venae cavae."
-      },
-      {
-        "p": "rv",
-        "a": "Right ventricle",
-        "d": [
-          "Left ventricle",
-          "Right atrium"
-        ],
-        "ex": "Pumps deoxygenated blood through the pulmonary valve into the pulmonary trunk."
-      },
-      {
-        "p": "la",
-        "a": "Left atrium",
-        "d": [
-          "Right atrium",
-          "Left ventricle"
-        ],
-        "ex": "Receives oxygenated blood from the pulmonary veins."
-      },
-      {
-        "p": "lv",
-        "a": "Left ventricle",
-        "d": [
-          "Right ventricle",
-          "Left atrium"
-        ],
-        "ex": "Has the thickest wall and pumps oxygenated blood into the aorta for the systemic circuit."
-      },
-      {
-        "p": "aorta",
-        "a": "Aorta (arch)",
-        "d": [
-          "Pulmonary trunk",
-          "Superior vena cava"
-        ],
-        "ex": "Carries oxygenated blood from the left ventricle to the systemic circuit."
-      },
-      {
-        "p": "pt",
-        "a": "Pulmonary trunk",
-        "d": [
-          "Aorta (arch)",
-          "Pulmonary veins"
-        ],
-        "ex": "Carries deoxygenated blood from the right ventricle and divides into the pulmonary arteries."
-      },
-      {
-        "p": "svc",
-        "a": "Superior vena cava",
-        "d": [
-          "Inferior vena cava",
-          "Aorta (arch)"
-        ],
-        "ex": "Returns blood from regions above the diaphragm to the right atrium."
-      },
-      {
-        "p": "ivc",
-        "a": "Inferior vena cava",
-        "d": [
-          "Superior vena cava",
-          "Pulmonary veins"
-        ],
-        "ex": "Returns blood from regions below the diaphragm to the right atrium."
-      },
-      {
-        "p": "pvn",
-        "a": "Pulmonary veins",
-        "d": [
-          "Pulmonary trunk",
-          "Superior vena cava"
-        ],
-        "ex": "Carry oxygenated blood from the lungs to the left atrium."
-      },
-      {
-        "p": "tv",
-        "a": "Tricuspid valve",
-        "d": [
-          "Mitral valve",
-          "Pulmonary valve"
-        ],
-        "ex": "Three-cusped right atrioventricular valve between the right atrium and right ventricle."
-      },
-      {
-        "p": "mv",
-        "a": "Mitral valve",
-        "d": [
-          "Tricuspid valve",
-          "Aortic valve"
-        ],
-        "ex": "Two-cusped (bicuspid) left atrioventricular valve between the left atrium and left ventricle."
-      },
-      {
-        "p": "av",
-        "a": "Aortic valve",
-        "d": [
-          "Pulmonary valve",
-          "Mitral valve"
-        ],
-        "ex": "Semilunar valve at the base of the aorta that prevents backflow into the left ventricle."
-      },
-      {
-        "p": "pvl",
-        "a": "Pulmonary valve",
-        "d": [
-          "Aortic valve",
-          "Tricuspid valve"
-        ],
-        "ex": "Semilunar valve at the base of the pulmonary trunk that prevents backflow into the right ventricle."
-      },
-      {
-        "p": "ivs",
-        "a": "Interventricular septum",
-        "d": [
-          "Left ventricle",
-          "Right ventricle"
-        ],
-        "ex": "Thick muscular wall that separates the right and left ventricles."
-      }
-    ]
+ {
+  "title": "The heart",
+  "kind": "diagram",
+  "dg": "heart",
+  "note": "A frontal section seen from the front: the patient's right is on your left, so the right atrium and right ventricle (blue, deoxygenated blood) sit on the left of the image. Red vessels carry oxygenated blood.",
+  "src": {
+   "t": "OpenStax Anatomy and Physiology 2e, 19.1 Heart Anatomy",
+   "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy"
   },
-  {
-    "title": "The neuron",
-    "kind": "diagram",
-    "dg": "neuron",
-    "note": "A multipolar motor neuron: many dendrites and a single axon. Signals run left to right, from the dendrites and cell body down the myelinated axon to the terminals.",
-    "src": {
-      "t": "OpenStax Anatomy and Physiology 2e, 12.2 Nervous Tissue",
-      "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-2-nervous-tissue"
-    },
-    "items": [
-      {
-        "p": "dend",
-        "a": "Dendrites",
-        "d": [
-          "Axon terminals",
-          "Axon"
-        ],
-        "ex": "Branched processes that receive signals from other neurons at synapses."
-      },
-      {
-        "p": "soma",
-        "a": "Cell body",
-        "d": [
-          "Nucleus",
-          "Axon hillock"
-        ],
-        "ex": "Contains the nucleus and most of the neuron's major organelles."
-      },
-      {
-        "p": "nuc",
-        "a": "Nucleus",
-        "d": [
-          "Cell body",
-          "Axon hillock"
-        ],
-        "ex": "Holds the cell's DNA inside the cell body."
-      },
-      {
-        "p": "hill",
-        "a": "Axon hillock",
-        "d": [
-          "Node of Ranvier",
-          "Cell body"
-        ],
-        "ex": "Tapering cone where the axon leaves the cell body; it leads into the trigger zone where action potentials start."
-      },
-      {
-        "p": "axon",
-        "a": "Axon",
-        "d": [
-          "Dendrites",
-          "Myelin sheath"
-        ],
-        "ex": "Single long fiber that carries the nerve impulse away from the cell body to target cells."
-      },
-      {
-        "p": "myelin",
-        "a": "Myelin sheath",
-        "d": [
-          "Axon",
-          "Node of Ranvier"
-        ],
-        "ex": "Glial wrapping (Schwann cells in this peripheral neuron) that insulates the axon and speeds conduction."
-      },
-      {
-        "p": "node",
-        "a": "Node of Ranvier",
-        "d": [
-          "Myelin sheath",
-          "Axon hillock"
-        ],
-        "ex": "Gap in the myelin where the action potential is regenerated as it jumps down the axon."
-      },
-      {
-        "p": "term",
-        "a": "Axon terminals",
-        "d": [
-          "Dendrites",
-          "Axon hillock"
-        ],
-        "ex": "Branched axon endings whose synaptic end bulbs release neurotransmitter onto the target cell."
-      }
-    ]
+  "items": [
+   {
+    "p": "ra",
+    "a": "Right atrium",
+    "d": [
+     "Left atrium",
+     "Right ventricle"
+    ],
+    "ex": "Receives deoxygenated blood from the superior and inferior venae cavae."
+   },
+   {
+    "p": "rv",
+    "a": "Right ventricle",
+    "d": [
+     "Left ventricle",
+     "Right atrium"
+    ],
+    "ex": "Pumps deoxygenated blood through the pulmonary valve into the pulmonary trunk."
+   },
+   {
+    "p": "la",
+    "a": "Left atrium",
+    "d": [
+     "Right atrium",
+     "Left ventricle"
+    ],
+    "ex": "Receives oxygenated blood from the pulmonary veins."
+   },
+   {
+    "p": "lv",
+    "a": "Left ventricle",
+    "d": [
+     "Right ventricle",
+     "Left atrium"
+    ],
+    "ex": "Has the thickest wall and pumps oxygenated blood into the aorta for the systemic circuit."
+   },
+   {
+    "p": "aorta",
+    "a": "Aorta (arch)",
+    "d": [
+     "Pulmonary trunk",
+     "Superior vena cava"
+    ],
+    "ex": "Carries oxygenated blood from the left ventricle to the systemic circuit."
+   },
+   {
+    "p": "pt",
+    "a": "Pulmonary trunk",
+    "d": [
+     "Aorta (arch)",
+     "Pulmonary veins"
+    ],
+    "ex": "Carries deoxygenated blood from the right ventricle and divides into the pulmonary arteries."
+   },
+   {
+    "p": "svc",
+    "a": "Superior vena cava",
+    "d": [
+     "Inferior vena cava",
+     "Aorta (arch)"
+    ],
+    "ex": "Returns blood from regions above the diaphragm to the right atrium."
+   },
+   {
+    "p": "ivc",
+    "a": "Inferior vena cava",
+    "d": [
+     "Superior vena cava",
+     "Pulmonary veins"
+    ],
+    "ex": "Returns blood from regions below the diaphragm to the right atrium."
+   },
+   {
+    "p": "pvn",
+    "a": "Pulmonary veins",
+    "d": [
+     "Pulmonary trunk",
+     "Superior vena cava"
+    ],
+    "ex": "Carry oxygenated blood from the lungs to the left atrium."
+   },
+   {
+    "p": "tv",
+    "a": "Tricuspid valve",
+    "d": [
+     "Mitral valve",
+     "Pulmonary valve"
+    ],
+    "ex": "Three-cusped right atrioventricular valve between the right atrium and right ventricle."
+   },
+   {
+    "p": "mv",
+    "a": "Mitral valve",
+    "d": [
+     "Tricuspid valve",
+     "Aortic valve"
+    ],
+    "ex": "Two-cusped (bicuspid) left atrioventricular valve between the left atrium and left ventricle."
+   },
+   {
+    "p": "av",
+    "a": "Aortic valve",
+    "d": [
+     "Pulmonary valve",
+     "Mitral valve"
+    ],
+    "ex": "Semilunar valve at the base of the aorta that prevents backflow into the left ventricle."
+   },
+   {
+    "p": "pvl",
+    "a": "Pulmonary valve",
+    "d": [
+     "Aortic valve",
+     "Tricuspid valve"
+    ],
+    "ex": "Semilunar valve at the base of the pulmonary trunk that prevents backflow into the right ventricle."
+   },
+   {
+    "p": "ivs",
+    "a": "Interventricular septum",
+    "d": [
+     "Left ventricle",
+     "Right ventricle"
+    ],
+    "ex": "Thick muscular wall that separates the right and left ventricles."
+   }
+  ]
+ },
+ {
+  "title": "The neuron",
+  "kind": "diagram",
+  "dg": "neuron",
+  "note": "A multipolar motor neuron: many dendrites and a single axon. Signals run left to right, from the dendrites and cell body down the myelinated axon to the terminals.",
+  "src": {
+   "t": "OpenStax Anatomy and Physiology 2e, 12.2 Nervous Tissue",
+   "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-2-nervous-tissue"
   },
-  {
-    "title": "The brain",
-    "kind": "diagram",
-    "dg": "brain",
-    "note": "The left hemisphere seen from the side, with the front of the head on your left. The central sulcus divides frontal from parietal lobe, and the lateral sulcus sets off the temporal lobe.",
-    "src": {
-      "t": "OpenStax Anatomy and Physiology 2e, 13.2 The Central Nervous System",
-      "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system"
-    },
-    "items": [
-      {
-        "p": "fl",
-        "a": "Frontal lobe",
-        "d": [
-          "Parietal lobe",
-          "Temporal lobe"
-        ],
-        "ex": "Lies anterior to the central sulcus; holds the primary motor cortex and Broca's area."
-      },
-      {
-        "p": "pl",
-        "a": "Parietal lobe",
-        "d": [
-          "Frontal lobe",
-          "Occipital lobe"
-        ],
-        "ex": "Lies posterior to the central sulcus; its postcentral gyrus is the primary somatosensory cortex."
-      },
-      {
-        "p": "tl",
-        "a": "Temporal lobe",
-        "d": [
-          "Frontal lobe",
-          "Occipital lobe"
-        ],
-        "ex": "Lies below the lateral sulcus; contains the primary auditory cortex and helps form long-term memories."
-      },
-      {
-        "p": "ol",
-        "a": "Occipital lobe",
-        "d": [
-          "Parietal lobe",
-          "Cerebellum"
-        ],
-        "ex": "Forms the posterior cerebrum and contains the primary visual cortex."
-      },
-      {
-        "p": "cb",
-        "a": "Cerebellum",
-        "d": [
-          "Brainstem",
-          "Occipital lobe"
-        ],
-        "ex": "Compares motor commands with sensory feedback to coordinate movement."
-      },
-      {
-        "p": "bs",
-        "a": "Brainstem",
-        "d": [
-          "Cerebellum",
-          "Temporal lobe"
-        ],
-        "ex": "Midbrain, pons and medulla; links the cerebrum to the spinal cord and regulates vital functions."
-      },
-      {
-        "p": "cs",
-        "a": "Central sulcus",
-        "d": [
-          "Lateral sulcus"
-        ],
-        "ex": "Groove separating the frontal lobe in front from the parietal lobe behind."
-      },
-      {
-        "p": "ls",
-        "a": "Lateral sulcus",
-        "d": [
-          "Central sulcus"
-        ],
-        "ex": "Deep groove separating the temporal lobe from the frontal and parietal lobes."
-      }
-    ]
+  "items": [
+   {
+    "p": "dend",
+    "a": "Dendrites",
+    "d": [
+     "Axon terminals",
+     "Axon"
+    ],
+    "ex": "Branched processes that receive signals from other neurons at synapses."
+   },
+   {
+    "p": "soma",
+    "a": "Cell body",
+    "d": [
+     "Nucleus",
+     "Axon hillock"
+    ],
+    "ex": "Contains the nucleus and most of the neuron's major organelles."
+   },
+   {
+    "p": "nuc",
+    "a": "Nucleus",
+    "d": [
+     "Cell body",
+     "Axon hillock"
+    ],
+    "ex": "Holds the cell's DNA inside the cell body."
+   },
+   {
+    "p": "hill",
+    "a": "Axon hillock",
+    "d": [
+     "Node of Ranvier",
+     "Cell body"
+    ],
+    "ex": "Tapering cone where the axon leaves the cell body; it leads into the trigger zone where action potentials start."
+   },
+   {
+    "p": "axon",
+    "a": "Axon",
+    "d": [
+     "Dendrites",
+     "Myelin sheath"
+    ],
+    "ex": "Single long fiber that carries the nerve impulse away from the cell body to target cells."
+   },
+   {
+    "p": "myelin",
+    "a": "Myelin sheath",
+    "d": [
+     "Axon",
+     "Node of Ranvier"
+    ],
+    "ex": "Glial wrapping (Schwann cells in this peripheral neuron) that insulates the axon and speeds conduction."
+   },
+   {
+    "p": "node",
+    "a": "Node of Ranvier",
+    "d": [
+     "Myelin sheath",
+     "Axon hillock"
+    ],
+    "ex": "Gap in the myelin where the action potential is regenerated as it jumps down the axon."
+   },
+   {
+    "p": "term",
+    "a": "Axon terminals",
+    "d": [
+     "Dendrites",
+     "Axon hillock"
+    ],
+    "ex": "Branched axon endings whose synaptic end bulbs release neurotransmitter onto the target cell."
+   }
+  ]
+ },
+ {
+  "title": "The brain",
+  "kind": "diagram",
+  "dg": "brain",
+  "note": "The left hemisphere seen from the side, with the front of the head on your left. The central sulcus divides the frontal lobe from the parietal lobe, and the lateral sulcus sets off the temporal lobe.",
+  "src": {
+   "t": "OpenStax Anatomy and Physiology 2e, 13.2 The Central Nervous System",
+   "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system"
   },
-  {
-    "title": "The nephron",
-    "kind": "diagram",
-    "dg": "nephron",
-    "note": "One nephron and its blood supply. Blood is filtered at the renal corpuscle (top left); the filtrate then flows through the tubule, down and back up the loop of Henle, to the collecting duct on the right.",
-    "src": {
-      "t": "OpenStax Anatomy and Physiology 2e, 25.4 Microscopic Anatomy of the Kidney",
-      "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-4-microscopic-anatomy-of-the-kidney"
-    },
-    "items": [
-      {
-        "p": "glom",
-        "a": "Glomerulus",
-        "d": [
-          "Glomerular (Bowman's) capsule",
-          "Efferent arteriole"
-        ],
-        "ex": "Tuft of fenestrated capillaries between the afferent and efferent arterioles where blood is filtered."
-      },
-      {
-        "p": "caps",
-        "a": "Glomerular (Bowman's) capsule",
-        "d": [
-          "Glomerulus",
-          "Proximal convoluted tubule"
-        ],
-        "ex": "Double-walled cup whose podocyte layer wraps the glomerulus; it collects the filtrate."
-      },
-      {
-        "p": "pct",
-        "a": "Proximal convoluted tubule",
-        "d": [
-          "Distal convoluted tubule",
-          "Descending limb of the loop of Henle"
-        ],
-        "ex": "Main site of reabsorption; its brush border and many mitochondria drive uptake of Na+, Cl- and glucose."
-      },
-      {
-        "p": "dlh",
-        "a": "Descending limb of the loop of Henle",
-        "d": [
-          "Ascending limb of the loop of Henle",
-          "Collecting duct"
-        ],
-        "ex": "Has permanent aquaporins, so water leaves the filtrate as it descends into the medulla."
-      },
-      {
-        "p": "alh",
-        "a": "Ascending limb of the loop of Henle",
-        "d": [
-          "Descending limb of the loop of Henle",
-          "Distal convoluted tubule"
-        ],
-        "ex": "Lacks aquaporins, so it is impermeable to water while Na+ and Cl- leave the filtrate."
-      },
-      {
-        "p": "dct",
-        "a": "Distal convoluted tubule",
-        "d": [
-          "Proximal convoluted tubule",
-          "Ascending limb of the loop of Henle"
-        ],
-        "ex": "Shorter than the PCT; its first part forms the macula densa beside the afferent arteriole."
-      },
-      {
-        "p": "cd",
-        "a": "Collecting duct",
-        "d": [
-          "Distal convoluted tubule",
-          "Ascending limb of the loop of Henle"
-        ],
-        "ex": "Drains several nephrons; ADH inserts aquaporins here so more water is recovered."
-      },
-      {
-        "p": "aff",
-        "a": "Afferent arteriole",
-        "d": [
-          "Efferent arteriole",
-          "Glomerulus"
-        ],
-        "ex": "Wider arteriole that brings blood into the glomerulus; its juxtaglomerular cells adjust that flow."
-      },
-      {
-        "p": "eff",
-        "a": "Efferent arteriole",
-        "d": [
-          "Afferent arteriole",
-          "Glomerulus"
-        ],
-        "ex": "Narrower arteriole that carries blood out of the glomerulus; constricting it sustains filtration pressure."
-      }
-    ]
+  "items": [
+   {
+    "p": "fl",
+    "a": "Frontal lobe",
+    "d": [
+     "Parietal lobe",
+     "Temporal lobe"
+    ],
+    "ex": "Lies anterior to the central sulcus; holds the primary motor cortex and Broca's area."
+   },
+   {
+    "p": "pl",
+    "a": "Parietal lobe",
+    "d": [
+     "Frontal lobe",
+     "Occipital lobe"
+    ],
+    "ex": "Lies posterior to the central sulcus; its postcentral gyrus is the primary somatosensory cortex."
+   },
+   {
+    "p": "tl",
+    "a": "Temporal lobe",
+    "d": [
+     "Frontal lobe",
+     "Occipital lobe"
+    ],
+    "ex": "Lies below the lateral sulcus; contains the primary auditory cortex and helps form long-term memories."
+   },
+   {
+    "p": "ol",
+    "a": "Occipital lobe",
+    "d": [
+     "Parietal lobe",
+     "Cerebellum"
+    ],
+    "ex": "Forms the posterior cerebrum and contains the primary visual cortex."
+   },
+   {
+    "p": "cb",
+    "a": "Cerebellum",
+    "d": [
+     "Brainstem",
+     "Occipital lobe"
+    ],
+    "ex": "Compares motor commands with sensory feedback to coordinate movement."
+   },
+   {
+    "p": "bs",
+    "a": "Brainstem",
+    "d": [
+     "Cerebellum",
+     "Temporal lobe"
+    ],
+    "ex": "Midbrain, pons and medulla; links the cerebrum to the spinal cord and regulates vital functions."
+   },
+   {
+    "p": "cs",
+    "a": "Central sulcus",
+    "d": [
+     "Lateral sulcus"
+    ],
+    "ex": "Groove separating the frontal lobe in front from the parietal lobe behind."
+   },
+   {
+    "p": "ls",
+    "a": "Lateral sulcus",
+    "d": [
+     "Central sulcus"
+    ],
+    "ex": "Deep groove separating the temporal lobe from the frontal and parietal lobes."
+   }
+  ]
+ },
+ {
+  "title": "The nephron",
+  "kind": "diagram",
+  "dg": "nephron",
+  "note": "One nephron and its blood supply. Blood is filtered at the renal corpuscle (top left); the filtrate then flows through the tubule, down and back up the loop of Henle, to the collecting duct on the right.",
+  "src": {
+   "t": "OpenStax Anatomy and Physiology 2e, 25.4 Microscopic Anatomy of the Kidney",
+   "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-4-microscopic-anatomy-of-the-kidney"
   },
-  {
-    "title": "The eye",
-    "kind": "diagram",
-    "dg": "eye",
-    "note": "The eye cut through its center, with the cornea facing left and the optic nerve leaving the back on the right. The wall has three layers, from outside in: sclera, choroid, retina.",
-    "src": {
-      "t": "OpenStax Anatomy and Physiology 2e, 14.1 Sensory Perception",
-      "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception"
-    },
-    "items": [
-      {
-        "p": "cornea",
-        "a": "Cornea",
-        "d": [
-          "Sclera",
-          "Lens"
-        ],
-        "ex": "Transparent front of the outer fibrous layer; it admits light and helps focus it."
-      },
-      {
-        "p": "iris",
-        "a": "Iris",
-        "d": [
-          "Ciliary body",
-          "Choroid"
-        ],
-        "ex": "Colored smooth muscle ring that narrows the pupil in bright light and widens it in dim light."
-      },
-      {
-        "p": "pupil",
-        "a": "Pupil",
-        "d": [
-          "Iris",
-          "Lens"
-        ],
-        "ex": "Central opening in the iris that lets light into the eye."
-      },
-      {
-        "p": "lens",
-        "a": "Lens",
-        "d": [
-          "Cornea",
-          "Vitreous humor"
-        ],
-        "ex": "Works with the cornea to focus light; the ciliary body changes its shape."
-      },
-      {
-        "p": "cil",
-        "a": "Ciliary body",
-        "d": [
-          "Iris",
-          "Choroid"
-        ],
-        "ex": "Muscular ring attached to the lens by suspensory ligaments; it bends the lens to focus."
-      },
-      {
-        "p": "sclera",
-        "a": "Sclera",
-        "d": [
-          "Choroid",
-          "Cornea"
-        ],
-        "ex": "Tough white outer layer covering about five sixths of the eye's surface."
-      },
-      {
-        "p": "chor",
-        "a": "Choroid",
-        "d": [
-          "Retina",
-          "Sclera"
-        ],
-        "ex": "Highly vascular layer that supplies blood to the eyeball."
-      },
-      {
-        "p": "ret",
-        "a": "Retina",
-        "d": [
-          "Choroid",
-          "Sclera"
-        ],
-        "ex": "Innermost neural layer where rods and cones turn light into neural signals."
-      },
-      {
-        "p": "fov",
-        "a": "Fovea",
-        "d": [
-          "Optic nerve",
-          "Choroid"
-        ],
-        "ex": "Small central pit of the retina with only photoreceptors; the point of sharpest vision."
-      },
-      {
-        "p": "on",
-        "a": "Optic nerve",
-        "d": [
-          "Retina",
-          "Fovea"
-        ],
-        "ex": "Retinal ganglion cell axons leaving at the optic disc, which creates the blind spot."
-      },
-      {
-        "p": "vit",
-        "a": "Vitreous humor",
-        "d": [
-          "Anterior chamber (aqueous humor)",
-          "Lens"
-        ],
-        "ex": "Thick, gel-like fluid filling the posterior cavity behind the lens."
-      },
-      {
-        "p": "ac",
-        "a": "Anterior chamber (aqueous humor)",
-        "d": [
-          "Vitreous humor",
-          "Cornea"
-        ],
-        "ex": "Space between the cornea and iris filled with watery aqueous humor."
-      }
-    ]
+  "items": [
+   {
+    "p": "glom",
+    "a": "Glomerulus",
+    "d": [
+     "Glomerular (Bowman's) capsule",
+     "Efferent arteriole"
+    ],
+    "ex": "Tuft of fenestrated capillaries between the afferent and efferent arterioles where blood is filtered."
+   },
+   {
+    "p": "caps",
+    "a": "Glomerular (Bowman's) capsule",
+    "d": [
+     "Glomerulus",
+     "Proximal convoluted tubule"
+    ],
+    "ex": "Double-walled cup whose podocyte layer wraps the glomerulus; it collects the filtrate."
+   },
+   {
+    "p": "pct",
+    "a": "Proximal convoluted tubule",
+    "d": [
+     "Distal convoluted tubule",
+     "Descending limb of the loop of Henle"
+    ],
+    "ex": "Main site of reabsorption; its brush border and many mitochondria drive uptake of Na+, Cl− and glucose."
+   },
+   {
+    "p": "dlh",
+    "a": "Descending limb of the loop of Henle",
+    "d": [
+     "Ascending limb of the loop of Henle",
+     "Collecting duct"
+    ],
+    "ex": "Has permanent aquaporins, so water leaves the filtrate as it descends into the medulla."
+   },
+   {
+    "p": "alh",
+    "a": "Ascending limb of the loop of Henle",
+    "d": [
+     "Descending limb of the loop of Henle",
+     "Distal convoluted tubule"
+    ],
+    "ex": "Lacks aquaporins, so it is impermeable to water while Na+ and Cl− leave the filtrate."
+   },
+   {
+    "p": "dct",
+    "a": "Distal convoluted tubule",
+    "d": [
+     "Proximal convoluted tubule",
+     "Ascending limb of the loop of Henle"
+    ],
+    "ex": "Shorter than the PCT; its first part forms the macula densa beside the afferent arteriole."
+   },
+   {
+    "p": "cd",
+    "a": "Collecting duct",
+    "d": [
+     "Distal convoluted tubule",
+     "Ascending limb of the loop of Henle"
+    ],
+    "ex": "Drains several nephrons; ADH inserts aquaporins here so more water is recovered."
+   },
+   {
+    "p": "aff",
+    "a": "Afferent arteriole",
+    "d": [
+     "Efferent arteriole",
+     "Glomerulus"
+    ],
+    "ex": "Wider arteriole that brings blood into the glomerulus; its juxtaglomerular cells release renin."
+   },
+   {
+    "p": "eff",
+    "a": "Efferent arteriole",
+    "d": [
+     "Afferent arteriole",
+     "Glomerulus"
+    ],
+    "ex": "Narrower arteriole that carries blood out of the glomerulus; constricting it sustains filtration pressure."
+   }
+  ]
+ },
+ {
+  "title": "The eye",
+  "kind": "diagram",
+  "dg": "eye",
+  "note": "The eye cut through its center, with the cornea facing left and the optic nerve leaving the back on the right. The wall has three layers, from outside in: sclera, choroid, retina.",
+  "src": {
+   "t": "OpenStax Anatomy and Physiology 2e, 14.1 Sensory Perception",
+   "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception"
   },
-  {
-    "title": "The respiratory tract",
-    "kind": "diagram",
-    "dg": "lungs",
-    "note": "The upper airway is drawn in side profile with the face to your left; the chest is an anterior view, so the patient's right lung (three lobes) is on your left, and the inset magnifies alveoli at the end of a bronchiole.",
-    "src": {
-      "t": "OpenStax Anatomy and Physiology 2e, 22.1 Organs and Structures of the Respiratory System",
-      "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system"
-    },
-    "items": [
-      {
-        "p": "nasal",
-        "a": "Nasal cavity",
-        "d": [
-          "Pharynx",
-          "Larynx"
-        ],
-        "ex": "Air passage whose conchae and mucosa clean, warm and moisten incoming air."
-      },
-      {
-        "p": "phar",
-        "a": "Pharynx",
-        "d": [
-          "Larynx",
-          "Nasal cavity"
-        ],
-        "ex": "Muscular tube behind the nasal and oral cavities; its lower parts carry both air and food."
-      },
-      {
-        "p": "lar",
-        "a": "Larynx",
-        "d": [
-          "Trachea",
-          "Pharynx"
-        ],
-        "ex": "Cartilaginous structure joining the pharynx to the trachea; it holds the vocal cords and epiglottis."
-      },
-      {
-        "p": "tra",
-        "a": "Trachea",
-        "d": [
-          "Larynx",
-          "Right main bronchus"
-        ],
-        "ex": "Airway held open by 16 to 20 C-shaped rings of hyaline cartilage."
-      },
-      {
-        "p": "rmb",
-        "a": "Right main bronchus",
-        "d": [
-          "Left main bronchus",
-          "Trachea"
-        ],
-        "ex": "Shorter, wider and more vertical than the left; it enters the right lung at the hilum."
-      },
-      {
-        "p": "lmb",
-        "a": "Left main bronchus",
-        "d": [
-          "Right main bronchus",
-          "Bronchioles"
-        ],
-        "ex": "Longer, narrower and more horizontal than the right; it enters the left lung at the hilum."
-      },
-      {
-        "p": "bron",
-        "a": "Bronchioles",
-        "d": [
-          "Alveoli",
-          "Left main bronchus"
-        ],
-        "ex": "Small airways about 1 mm across, with smooth muscle but no cartilage, that adjust airflow."
-      },
-      {
-        "p": "alv",
-        "a": "Alveoli",
-        "d": [
-          "Bronchioles"
-        ],
-        "ex": "Grape-like sacs whose thin walls form the respiratory membrane for gas exchange."
-      },
-      {
-        "p": "dia",
-        "a": "Diaphragm",
-        "d": [
-          "Right lung",
-          "Left lung"
-        ],
-        "ex": "Dome-shaped muscle at the base of the thoracic cavity; it contracts to draw air in."
-      },
-      {
-        "p": "rl",
-        "a": "Right lung",
-        "d": [
-          "Left lung"
-        ],
-        "ex": "Has three lobes (superior, middle, inferior) and is shorter and wider than the left lung."
-      },
-      {
-        "p": "ll",
-        "a": "Left lung",
-        "d": [
-          "Right lung"
-        ],
-        "ex": "Has two lobes and a cardiac notch that makes room for the heart."
-      }
-    ]
-  }
+  "items": [
+   {
+    "p": "cornea",
+    "a": "Cornea",
+    "d": [
+     "Sclera",
+     "Lens"
+    ],
+    "ex": "Transparent front of the outer fibrous layer; it admits light and helps focus it."
+   },
+   {
+    "p": "iris",
+    "a": "Iris",
+    "d": [
+     "Ciliary body",
+     "Choroid"
+    ],
+    "ex": "Colored smooth muscle ring that narrows the pupil in bright light and widens it in dim light."
+   },
+   {
+    "p": "pupil",
+    "a": "Pupil",
+    "d": [
+     "Iris",
+     "Lens"
+    ],
+    "ex": "Central opening in the iris that lets light into the eye."
+   },
+   {
+    "p": "lens",
+    "a": "Lens",
+    "d": [
+     "Cornea",
+     "Vitreous humor"
+    ],
+    "ex": "Works with the cornea to focus light; the ciliary body changes its shape."
+   },
+   {
+    "p": "cil",
+    "a": "Ciliary body",
+    "d": [
+     "Iris",
+     "Choroid"
+    ],
+    "ex": "Muscular ring attached to the lens by suspensory ligaments; its muscle changes the lens shape to focus."
+   },
+   {
+    "p": "sclera",
+    "a": "Sclera",
+    "d": [
+     "Choroid",
+     "Cornea"
+    ],
+    "ex": "Tough white outer layer covering about five sixths of the eye's surface."
+   },
+   {
+    "p": "chor",
+    "a": "Choroid",
+    "d": [
+     "Retina",
+     "Sclera"
+    ],
+    "ex": "Highly vascular layer that supplies blood to the eyeball."
+   },
+   {
+    "p": "ret",
+    "a": "Retina",
+    "d": [
+     "Choroid",
+     "Sclera"
+    ],
+    "ex": "Innermost neural layer where rods and cones turn light into neural signals."
+   },
+   {
+    "p": "fov",
+    "a": "Fovea",
+    "d": [
+     "Optic nerve",
+     "Choroid"
+    ],
+    "ex": "Small central pit of the retina packed with cones; the point of sharpest vision."
+   },
+   {
+    "p": "on",
+    "a": "Optic nerve",
+    "d": [
+     "Retina",
+     "Fovea"
+    ],
+    "ex": "Retinal ganglion cell axons leaving at the optic disc, which creates the blind spot."
+   },
+   {
+    "p": "vit",
+    "a": "Vitreous humor",
+    "d": [
+     "Anterior chamber (aqueous humor)",
+     "Lens"
+    ],
+    "ex": "Thick, gel-like fluid filling the posterior cavity behind the lens."
+   },
+   {
+    "p": "ac",
+    "a": "Anterior chamber (aqueous humor)",
+    "d": [
+     "Vitreous humor",
+     "Cornea"
+    ],
+    "ex": "Space between the cornea and iris filled with watery aqueous humor."
+   }
+  ]
+ },
+ {
+  "title": "The respiratory tract",
+  "kind": "diagram",
+  "dg": "lungs",
+  "note": "The upper airway is drawn in side profile with the face to your left; the chest is an anterior view, so the patient's right lung (three lobes) is on your left, and the inset magnifies alveoli at the end of a bronchiole.",
+  "src": {
+   "t": "OpenStax Anatomy and Physiology 2e, 22.1 Organs and Structures of the Respiratory System",
+   "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system"
+  },
+  "items": [
+   {
+    "p": "nasal",
+    "a": "Nasal cavity",
+    "d": [
+     "Pharynx",
+     "Larynx"
+    ],
+    "ex": "Air passage whose conchae and mucosa clean, warm and moisten incoming air."
+   },
+   {
+    "p": "phar",
+    "a": "Pharynx",
+    "d": [
+     "Larynx",
+     "Nasal cavity"
+    ],
+    "ex": "Muscular tube behind the nasal and oral cavities; its lower parts carry both air and food."
+   },
+   {
+    "p": "lar",
+    "a": "Larynx",
+    "d": [
+     "Trachea",
+     "Pharynx"
+    ],
+    "ex": "Cartilaginous structure joining the pharynx to the trachea; it holds the vocal folds and epiglottis."
+   },
+   {
+    "p": "tra",
+    "a": "Trachea",
+    "d": [
+     "Larynx",
+     "Right main bronchus"
+    ],
+    "ex": "Airway held open by 16 to 20 C-shaped rings of hyaline cartilage."
+   },
+   {
+    "p": "rmb",
+    "a": "Right main bronchus",
+    "d": [
+     "Left main bronchus",
+     "Trachea"
+    ],
+    "ex": "Shorter, wider and more vertical than the left; it enters the right lung at the hilum."
+   },
+   {
+    "p": "lmb",
+    "a": "Left main bronchus",
+    "d": [
+     "Right main bronchus",
+     "Bronchioles"
+    ],
+    "ex": "Longer, narrower and more horizontal than the right; it enters the left lung at the hilum."
+   },
+   {
+    "p": "bron",
+    "a": "Bronchioles",
+    "d": [
+     "Alveoli",
+     "Left main bronchus"
+    ],
+    "ex": "Small airways about 1 mm across, with smooth muscle but no cartilage, that adjust airflow."
+   },
+   {
+    "p": "alv",
+    "a": "Alveoli",
+    "d": [
+     "Bronchioles"
+    ],
+    "ex": "Grape-like sacs whose thin walls form the respiratory membrane for gas exchange."
+   },
+   {
+    "p": "dia",
+    "a": "Diaphragm",
+    "d": [
+     "Right lung",
+     "Left lung"
+    ],
+    "ex": "Dome-shaped muscle at the base of the thoracic cavity; it contracts to draw air in."
+   },
+   {
+    "p": "rl",
+    "a": "Right lung",
+    "d": [
+     "Left lung"
+    ],
+    "ex": "Has three lobes (superior, middle, inferior) and is shorter and wider than the left lung."
+   },
+   {
+    "p": "ll",
+    "a": "Left lung",
+    "d": [
+     "Right lung"
+    ],
+    "ex": "Has two lobes and a cardiac notch that makes room for the heart."
+   }
+  ]
+ }
 ]

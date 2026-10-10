@@ -15,7 +15,7 @@
       ]
     },
     {
-      "c": "Conditions for static equilibrium of a rigid body",
+      "c": "Equilibrium conditions for a rigid body",
       "a": "ΣF = 0 and ΣM = 0",
       "d": [
         "ΣF = 0 only",

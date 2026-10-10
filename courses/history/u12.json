@@ -1,6 +1,6 @@
 {
   "title": "The American founding and the young republic",
-  "note": "After declaring independence in 1776, Americans first tried a weak league of states under the Articles of Confederation, then wrote the Constitution of 1787, a federal system of separated powers with a Bill of Rights. The young nation expanded west, while compromises over slavery postponed a reckoning.",
+  "note": "After declaring independence in 1776, Americans first tried a weak league of states under the Articles of Confederation, then wrote the Constitution of 1787, a federal system of separated powers, soon amended by a Bill of Rights. The young nation expanded west, while compromises over slavery postponed a reckoning.",
   "src": { "t": "OpenStax U.S. History, Ch. 6 to 13", "u": "https://openstax.org/books/us-history/pages/7-4-the-constitutional-convention-and-federal-constitution" },
   "items": [
     { "c": "Thomas Paine's Common Sense (1776)", "a": "Pamphlet urging independence from Britain", "d": ["Essays defending the Constitution", "Speech on the eve of the Civil War"] },
@@ -44,9 +44,9 @@
       "Under the new government the nation grew quickly. The Louisiana Purchase of 1803 doubled its size, and war with Mexico in the 1840s added the Southwest and California. Expansion came at a heavy price for Native nations forced west. It also reopened the most divisive question of all: whether slavery would spread into the new lands."
     ],
     "q": [
-      { "q": "What convinced many leaders that the Articles of Confederation were too weak?", "o": ["Shays' Rebellion", "The Louisiana Purchase", "The War of 1812", "The Monroe Doctrine"], "k": 0 },
-      { "q": "How did the Great Compromise satisfy small states?", "o": ["Each state got two senators", "The House was based on population", "Small states chose the president", "Slavery was banned"], "k": 0 },
-      { "q": "According to the reading, what question did westward expansion reopen?", "o": ["Whether slavery would spread", "Whether to keep the Constitution", "Whether to rejoin Britain", "Whether to tax imports"], "k": 0 }
+      { "q": "What convinced many leaders that the Articles of Confederation were too weak?", "o": ["The Louisiana Purchase", "The War of 1812", "The Monroe Doctrine", "Shays' Rebellion"], "k": 3 },
+      { "q": "How did the Great Compromise satisfy small states?", "o": ["The House was based on population", "Each state got two senators", "Small states chose the president", "Slavery was banned"], "k": 1 },
+      { "q": "According to the reading, what question did westward expansion reopen?", "o": ["Whether to keep the Constitution", "Whether to rejoin Britain", "Whether slavery would spread", "Whether to tax imports"], "k": 2 }
     ]
   }
 }

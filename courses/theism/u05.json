@@ -168,11 +168,12 @@
     },
     {
       "c": "Borde-Guth-Vilenkin theorem (2003)",
-      "a": "a universe expanding on average has a past boundary",
+      "a": "a universe expanding on average is past-incomplete",
       "d": [
         "every universe must eventually recollapse",
         "quantum events have no causes at all"
-      ]
+      ],
+      "ex": "Its spacetime paths cannot be extended forever into the past; Craig reads this as a beginning."
     },
     {
       "c": "Craig's argument from thermodynamics",

@@ -33,11 +33,11 @@
     },
     {
       "c": "Approximate range of visible wavelengths",
-      "a": "about 380 to 760 nm",
+      "a": "about 400 to 750 nm",
       "d": [
-        "about 38 to 76 nm",
-        "about 3.8 to 7.6 µm",
-        "about 380 to 760 µm"
+        "about 40 to 75 nm",
+        "about 4.0 to 7.5 µm",
+        "about 400 to 750 µm"
       ]
     },
     {
@@ -281,20 +281,20 @@
       {
         "q": "Which way does light bend when it enters water from air?",
         "o": [
-          "Toward the normal",
           "Away from the normal",
-          "It does not bend"
+          "It does not bend",
+          "Toward the normal"
         ],
-        "k": 0
+        "k": 2
       },
       {
         "q": "When does ray optics fail?",
         "o": [
-          "When openings are comparable to the wavelength",
           "When light enters glass",
+          "When openings are comparable to the wavelength",
           "When mirrors are curved"
         ],
-        "k": 0
+        "k": 1
       }
     ]
   }

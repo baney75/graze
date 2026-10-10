@@ -24,7 +24,7 @@
     },
     {
       "c": "Turning on a lathe",
-      "a": "a spinning workpiece shaped by a stationary cutting tool",
+      "a": "a spinning workpiece cut by a non-rotating tool",
       "d": [
         "a spinning cutter moving over a fixed workpiece",
         "molten metal poured into a spinning mold"
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "c": "Compared with cast parts, forged parts are usually",
+      "c": "Forged parts, compared with cast, are usually",
       "a": "stronger and tougher, with refined grain flow",
       "d": [
         "weaker but cheaper",
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "c": "Why not specify tight tolerances on every dimension",
+      "c": "Why not make every tolerance tight?",
       "a": "cost rises steeply as tolerances tighten",
       "d": [
         "tight tolerances make parts weaker",

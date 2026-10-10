@@ -44,12 +44,12 @@
     "text": [
       "The digestive tract is one long tube, and its roots run in the same order food travels. Food enters the mouth (or/o, stomat/o), where the teeth (dent/i, odont/o), tongue (gloss/o, lingu/o) and saliva (sial/o) begin the work. It passes down the esophagus into the stomach (gastr/o), then into the small intestine, whose three parts are the duodenum, jejunum and ileum. The large intestine, most of which is the colon (col/o), absorbs water and ends at the rectum (proct/o, rect/o) and anus (an/o).",
       "Three accessory organs pour secretions into the tract without food passing through them. The liver (hepat/o) makes bile, which the gallbladder (cholecyst/o, from chol/e for bile and cyst/o for sac) stores. The pancreas (pancreat/o) adds digestive enzymes.",
-      "Two pairs of look-alikes cause frequent errors. The ileum, part of the small intestine, is spelled with an e, while the ilium of the hip is spelled with an i. And -scopy terms name what the scope reaches: laparoscopy looks into the abdominal cavity, and esophagogastroduodenoscopy looks through the esophagus and stomach into the duodenum."
+      "One look-alike pair causes frequent errors: the ileum, part of the small intestine, is spelled with an e, while the ilium of the hip is spelled with an i. Also, -scopy terms name what the scope reaches: laparoscopy looks into the abdominal cavity, and esophagogastroduodenoscopy looks through the esophagus and stomach into the duodenum."
     ],
     "q": [
       { "q": "What are the three parts of the small intestine, in order?", "o": ["Duodenum, jejunum, ileum", "Ileum, cecum, colon", "Jejunum, duodenum, colon"], "k": 0 },
-      { "q": "Which organ stores bile?", "o": ["Gallbladder", "Liver", "Pancreas", "Stomach"], "k": 0 },
-      { "q": "How is the intestinal ileum spelled differently from the hip's ilium?", "o": ["With an e instead of an i", "With a double l", "With a y"], "k": 0 }
+      { "q": "Which organ stores bile?", "o": ["Liver", "Pancreas", "Gallbladder", "Stomach"], "k": 2 },
+      { "q": "How is the intestinal ileum spelled differently from the hip's ilium?", "o": ["With a double l", "With an e instead of an i", "With a y"], "k": 1 }
     ]
   }
 }

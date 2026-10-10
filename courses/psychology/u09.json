@@ -14,12 +14,12 @@
     { "c": "Representativeness heuristic", "a": "Judging by how much something resembles a typical case", "d": ["Judging by how easily examples come to mind", "Judging by the first number you hear", "Judging by what you already own"] },
     { "c": "Base-rate neglect", "a": "Ignoring how common each category actually is", "d": ["Ignoring how a question is worded", "Overvaluing things you own", "Forgetting the first item in a list"], "ex": "A tall, athletic man is more likely a banker than a pro football player; bankers vastly outnumber players." },
     { "c": "Conjunction fallacy", "a": "Judging 'A and B' as more likely than 'A' alone", "d": ["Judging a sure gain better than a gamble", "Judging past flips to change future flips", "Judging an event predictable after it happens"] },
-    { "c": "'Feminist teller' judged likelier than 'teller'", "a": "Conjunction fallacy", "d": ["Sunk cost fallacy", "Framing effect", "Self-serving bias"], "ex": "Tversky and Kahneman's Linda problem: adding a detail can only lower probability." },
+    { "c": "'Feminist teller' judged likelier than 'teller'", "a": "Conjunction fallacy", "d": ["Sunk cost fallacy", "Framing effect", "Self-serving bias"], "ex": "Tversky and Kahneman's Linda problem: adding a detail can never raise probability." },
     { "c": "Gambler's fallacy", "a": "Believing past random outcomes change future odds", "d": ["Believing losses hurt more than gains", "Believing you knew the outcome all along", "Believing a first number is reasonable"] },
     { "c": "Chance of tails after five heads (fair coin)", "a": "Still 1 in 2", "d": ["Higher than 1 in 2", "Lower than 1 in 2", "Exactly 1 in 6"] },
     { "c": "Regression to the mean", "a": "Extreme results tend to be followed by more average ones", "d": ["Averages always rise over time", "Extreme results always repeat", "Group opinions grow more extreme"] },
     { "c": "Anchoring bias", "a": "Relying too heavily on an initial piece of information", "d": ["Relying on the most vivid example", "Relying on what a group decides", "Relying on how a choice is framed"] },
-    { "c": "Estimates pulled toward an arbitrary number", "a": "Anchoring bias", "d": ["Availability heuristic", "Status quo bias", "Overconfidence"], "ex": "In NOBA's example, a high anchor roughly doubled students' estimates." },
+    { "c": "Estimates pulled toward an arbitrary number", "a": "Anchoring bias", "d": ["Availability heuristic", "Status quo bias", "Overconfidence"], "ex": "In NOBA's example, estimates after a high anchor were about double those after a low one." },
     { "c": "Confirmation bias", "a": "Favoring information that supports what you already believe", "d": ["Believing an outcome was predictable all along", "Valuing things more because you own them", "Following the crowd to fit in"] },
     { "c": "Best check against confirmation bias", "a": "Actively look for evidence that you are wrong", "d": ["Reread the evidence that supports you", "Ask only people who agree with you", "Decide quickly to avoid doubt"] },
     { "c": "Belief perseverance", "a": "Clinging to a belief after its evidence is discredited", "d": ["Changing beliefs with each new fact", "Forgetting where a belief came from", "Adopting the beliefs of a group"] },
@@ -39,7 +39,7 @@
     { "c": "Sunk cost fallacy", "a": "Continuing because of what you have already spent", "d": ["Quitting because the future looks costly", "Spending more to impress others", "Saving money instead of spending it"] },
     { "c": "Sitting through a bad movie because you paid", "a": "Sunk cost fallacy", "d": ["Availability heuristic", "Conjunction fallacy", "Regression to the mean"] },
     { "c": "Nudge (Thaler and Sunstein)", "a": "A design that steers choices without removing options", "d": ["A law that bans a harmful choice", "A large cash reward for compliance", "A hidden fee added at checkout"] },
-    { "c": "Organ donation rates under opt-out defaults", "a": "Far higher than under opt-in", "d": ["Far lower than under opt-in", "About the same as under opt-in", "Too small to measure"], "ex": "Defaults work because of status quo bias." }
+    { "c": "Organ donor consent rates under opt-out defaults", "a": "Far higher than under opt-in", "d": ["Far lower than under opt-in", "About the same as under opt-in", "Too small to measure"], "ex": "Defaults work partly through status quo bias; gains in actual donations are much smaller." }
   ],
   "read": {
     "title": "Six hundred lives, two frames",

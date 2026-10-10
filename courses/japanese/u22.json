@@ -278,19 +278,19 @@
         "q": "What is Ken doing now?",
         "o": [
           "Eating breakfast",
-          "Reading at the library",
-          "Writing an email"
+          "Writing an email",
+          "Reading at the library"
         ],
-        "k": 1
+        "k": 2
       },
       {
         "q": "What does the writer ask Ken to do?",
         "o": [
           "Study English",
-          "Write an email",
-          "Come to Tokyo next month"
+          "Come to Tokyo next month",
+          "Write an email"
         ],
-        "k": 2
+        "k": 1
       }
     ]
   }

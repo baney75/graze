@@ -127,7 +127,7 @@
    ]
   },
   {
-   "c": "Penicillins and cephalosporins belong to the class",
+   "c": "Drug class of penicillins and cephalosporins",
    "a": "Beta-lactams",
    "d": [
     "Macrolides",
@@ -291,7 +291,7 @@
   "title": "Selective toxicity",
   "text": [
    "A good antimicrobial drug harms the microbe while sparing the patient, a property called selective toxicity. It is easiest to achieve when the drug's target exists only in the microbe. Bacteria offer several such targets because they differ so much from human cells.",
-   "The peptidoglycan cell wall is the clearest example: human cells have no wall, so beta-lactams and vancomycin, which block wall construction, are generally well tolerated. Bacterial 70S ribosomes differ from the 80S ribosomes in human cytoplasm, so aminoglycosides, tetracyclines and macrolides can block bacterial protein synthesis selectively. Bacteria must make their own folate, while humans absorb it from food, which is why sulfonamides and trimethoprim spare human cells.",
+   "The peptidoglycan cell wall is the clearest example: human cells have no wall, so beta-lactams and vancomycin, which block wall construction, are generally well tolerated. Bacterial 70S ribosomes differ from the 80S ribosomes in human cytoplasm, so aminoglycosides, tetracyclines and macrolides can block bacterial protein synthesis selectively. Bacteria must make their own folate, while humans absorb it from food, so sulfonamides spare human cells; trimethoprim binds the bacterial form of its target enzyme far more tightly than the human form.",
    "Fungi and viruses are harder. Fungi are eukaryotes, so they share most of our machinery; antifungals usually target ergosterol, the sterol fungi use where human cells use cholesterol. Viruses use the host cell's own machinery, so antivirals must hit steps unique to the virus, such as viral enzymes. Acyclovir, for example, becomes active only after a viral enzyme modifies it, so it concentrates its action in infected cells."
   ],
   "q": [

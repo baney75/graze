@@ -78,7 +78,8 @@
       "d": [
         "the HTTP/1.1 specification",
         "the first C compiler manual"
-      ]
+      ],
+      "ex": "RFC 761 (TCP, 1980): be conservative in what you do, be liberal in what you accept from others."
     },
     {
       "c": "Amdahl's law",
@@ -146,7 +147,8 @@
       "d": [
         "what gets measured always improves",
         "you cannot manage what you cannot measure"
-      ]
+      ],
+      "ex": "This wording is Marilyn Strathern's 1997 paraphrase of Goodhart's 1975 point about economic statistics."
     },
     {
       "c": "Goodhart's law in practice",

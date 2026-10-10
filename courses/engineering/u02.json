@@ -258,7 +258,7 @@
       ]
     },
     {
-      "c": "Trailing zeros after a decimal point, as in 2.50, are",
+      "c": "Trailing zeros after a decimal, as in 2.50, are",
       "a": "significant",
       "d": [
         "not significant"

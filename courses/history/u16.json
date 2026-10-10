@@ -19,7 +19,7 @@
     { "c": "Cuban Missile Crisis", "a": "October 1962", "d": ["April 1961", "August 1949", "November 1989"], "ex": "The USSR removed its missiles; the US pledged not to invade Cuba." },
     { "c": "Great Leap Forward (1958)", "a": "Mao's push for communes that led to mass famine", "d": ["Mao's campaign of Red Guards against \"old\" culture", "Deng's opening of China to foreign investment"] },
     { "c": "Cultural Revolution (1966)", "a": "Mao's campaign of Red Guards against \"old\" culture", "d": ["Mao's push for communes that led to mass famine", "Deng's opening of China to foreign investment"] },
-    { "c": "Vietnam reunified under communist rule", "a": "1975", "d": ["1954", "1964", "1968"] },
+    { "c": "Vietnam reunified under communist rule", "a": "1975", "d": ["1954", "1964", "1968"], "ex": "Saigon fell in April 1975; formal reunification followed in 1976." },
     { "c": "Decolonization", "a": "Colonies winning independence from empires", "d": ["Empires seizing new colonies", "Colonies merging into larger empires"] },
     { "c": "Independence and partition of India and Pakistan", "a": "1947", "d": ["1857", "1919", "1962"] },
     { "c": "Mohandas Gandhi", "a": "Leader of India's nonviolent independence movement", "d": ["India's first prime minister", "Founder of Pakistan"] },
@@ -29,7 +29,7 @@
     { "c": "Algerian War of Independence", "a": "1954 to 1962, against France", "d": ["1947 to 1948, against Britain", "1960 to 1965, against Belgium"] },
     { "c": "Bandung Conference (1955)", "a": "Meeting of Asian and African states that seeded non-alignment", "d": ["Summit that founded NATO", "Meeting that ended the Korean War"] },
     { "c": "Non-Aligned Movement", "a": "Nations that joined neither Cold War bloc", "d": ["Nations that joined the Warsaw Pact", "Nations that joined NATO"] },
-    { "c": "Suez Crisis (1956)", "a": "Invasion of Egypt after Nasser took the canal", "d": ["Arab oil embargo against the West", "Soviet invasion of Hungary"] },
+    { "c": "Suez Crisis (1956)", "a": "Invasion of Egypt after Nasser nationalized the canal", "d": ["Arab oil embargo against the West", "Soviet invasion of Hungary"] },
     { "c": "Apartheid", "a": "South Africa's system of legal racial segregation", "d": ["South Africa's policy of land reform", "Britain's rule over South Africa"] },
     { "c": "Nelson Mandela elected president of South Africa", "a": "1994", "d": ["1964", "1976", "1990"] },
     { "c": "Solidarity (Poland, 1980)", "a": "Polish trade union led by Lech Wałęsa", "d": ["East German secret police", "Czech reform movement of 1968"] },
@@ -52,8 +52,8 @@
       "In the 1980s Mikhail Gorbachev tried to reform the Soviet system through openness and restructuring. When Eastern Europeans demanded freedom in 1989, he did not send tanks, and the Berlin Wall fell. The Soviet Union itself dissolved in 1991. The world that followed was more connected by trade and technology but faced terrorism, regional wars and climate change."
     ],
     "q": [
-      { "q": "Why did the superpowers rarely fight each other directly?", "o": ["Both had enough nuclear weapons to destroy each other", "They were close allies", "The UN banned war", "Neither had an army in Europe"], "k": 0 },
-      { "q": "What weakened European empires' hold on their colonies?", "o": ["World War II", "The Marshall Plan", "The fall of the Berlin Wall", "The Non-Aligned Movement"], "k": 0 },
+      { "q": "Why did the superpowers rarely fight each other directly?", "o": ["They were close allies", "The UN banned war", "Neither had an army in Europe", "Both had enough nuclear weapons to destroy each other"], "k": 3 },
+      { "q": "What weakened European empires' hold on their colonies?", "o": ["The Marshall Plan", "The fall of the Berlin Wall", "World War II", "The Non-Aligned Movement"], "k": 2 },
       { "q": "How did Gorbachev respond to Eastern European demands for freedom in 1989?", "o": ["He did not send tanks", "He invaded Poland", "He built the Berlin Wall", "He joined NATO"], "k": 0 }
     ]
   }

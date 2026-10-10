@@ -45,9 +45,33 @@
       "Deeper still, the nucleus holds protons and neutrons together with the strong force. Unstable nuclei decay at random, yet a large sample loses half its nuclei every half-life. Splitting heavy nuclei or fusing light ones releases energy, because the products are more tightly bound."
     ],
     "q": [
-      { "q": "Why does brighter red light fail to eject electrons in the photoelectric effect?", "o": ["Each photon's energy depends on frequency, not brightness", "Red light has no energy", "Bright light cools the metal"], "k": 0 },
-      { "q": "Why does each element have its own spectrum?", "o": ["Its electrons occupy discrete energy levels", "Its nucleus emits every frequency", "Its atoms move at different speeds"], "k": 0 },
-      { "q": "Why do fission and fusion both release energy?", "o": ["The products are more tightly bound", "They create new mass", "They speed up time"], "k": 0 }
+      {
+        "q": "Why does brighter red light fail to eject electrons in the photoelectric effect?",
+        "o": [
+          "Red light has no energy",
+          "Each photon's energy depends on frequency, not brightness",
+          "Bright light cools the metal"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why does each element have its own spectrum?",
+        "o": [
+          "Its electrons occupy discrete energy levels",
+          "Its nucleus emits every frequency",
+          "Its atoms move at different speeds"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why do fission and fusion both release energy?",
+        "o": [
+          "They create new mass",
+          "They speed up time",
+          "The products are more tightly bound"
+        ],
+        "k": 2
+      }
     ]
   }
 }

@@ -41,13 +41,13 @@
     "title": "Messages in the blood",
     "text": [
       "Glands come in two kinds. Exocrine glands, such as sweat and salivary glands, release their secretions through ducts. Endocrine glands have no ducts; they release hormones directly into the blood, which carries them to distant target tissues. Endo- means within and -crine comes from a Greek word for secrete, so the name means secreting internally.",
-      "The pituitary gland, at the base of the brain, is often called the master gland because many of its hormones direct other glands. The thyroid in the neck sets the pace of metabolism; hyperthyroidism and hypothyroidism describe too much and too little of its activity, and euthyroid means normal function. The adrenal glands sit on top of the kidneys, which is exactly what ad- (toward) and ren (kidney) say. Their outer cortex makes cortisol.",
+      "The pituitary gland, at the base of the brain, is often called the master gland because many of its hormones direct other glands. The thyroid in the neck sets the pace of metabolism; hyperthyroidism and hypothyroidism describe too much and too little of its activity, and euthyroid means normal function. The adrenal glands sit on top of the kidneys, which is what ad- (toward, near) and ren (kidney) describe. Their outer cortex makes cortisol.",
       "The pancreas works both ways. Most of it is exocrine, sending digestive enzymes into the intestine, but its islets release insulin, which lowers blood glucose, and glucagon, which raises it. Together these hormones support homeostasis, the body's effort to keep internal conditions stable."
     ],
     "q": [
-      { "q": "How do endocrine glands release their hormones?", "o": ["Directly into the blood", "Through ducts onto a surface", "Into the intestine only"], "k": 0 },
+      { "q": "How do endocrine glands release their hormones?", "o": ["Through ducts onto a surface", "Directly into the blood", "Into the intestine only"], "k": 1 },
       { "q": "What does the name adrenal describe?", "o": ["The glands' position on the kidneys", "The hormones they release", "Their effect on blood sugar", "Their shape"], "k": 0 },
-      { "q": "Which hormone raises blood glucose?", "o": ["Glucagon", "Insulin", "Calcitonin"], "k": 0 }
+      { "q": "Which hormone raises blood glucose?", "o": ["Insulin", "Calcitonin", "Glucagon"], "k": 2 }
     ]
   }
 }

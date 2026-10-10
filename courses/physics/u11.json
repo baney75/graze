@@ -42,9 +42,33 @@
       "Potential is the energy view of the same idea. The electric potential at a point is the potential energy per unit charge there, measured in volts, where one volt is one joule per coulomb. A positive charge released in a field accelerates toward lower potential, gaining kinetic energy, much as a ball rolls downhill. Surfaces of constant potential always cross field lines at right angles, so moving a charge along one takes no work."
     ],
     "q": [
-      { "q": "What happens to the total charge when a balloon is rubbed on hair?", "o": ["It is conserved", "It increases", "It becomes zero on both"], "k": 0 },
-      { "q": "Toward what does a released positive charge accelerate?", "o": ["Lower potential", "Higher potential", "The nearest equipotential"], "k": 0 },
-      { "q": "How do equipotential surfaces meet field lines?", "o": ["At right angles", "Parallel to them", "At 45°"], "k": 0 }
+      {
+        "q": "What happens to the total charge when a balloon is rubbed on hair?",
+        "o": [
+          "It is conserved",
+          "It increases",
+          "It becomes zero on both"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Toward what does a released positive charge accelerate?",
+        "o": [
+          "Higher potential",
+          "The nearest equipotential",
+          "Lower potential"
+        ],
+        "k": 2
+      },
+      {
+        "q": "How do equipotential surfaces meet field lines?",
+        "o": [
+          "Parallel to them",
+          "At right angles",
+          "At 45°"
+        ],
+        "k": 1
+      }
     ]
   }
 }

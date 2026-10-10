@@ -263,20 +263,20 @@
       {
         "q": "Why is a doorknob placed far from the hinges?",
         "o": [
-          "A larger lever arm gives more torque",
           "It reduces the door's mass",
-          "It lowers the moment of inertia"
+          "It lowers the moment of inertia",
+          "A larger lever arm gives more torque"
         ],
-        "k": 0
+        "k": 2
       },
       {
         "q": "Why does a solid disk beat a hoop down a ramp?",
         "o": [
-          "Less of its energy goes into spinning",
           "It has more mass",
+          "Less of its energy goes into spinning",
           "Friction acts only on the hoop"
         ],
-        "k": 0
+        "k": 1
       },
       {
         "q": "What happens when a spinning skater pulls in her arms?",

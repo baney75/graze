@@ -46,9 +46,9 @@
       "Function suffixes describe what the nervous system does. Sensation is esthesi/o, so anesthesia is the absence of sensation. Speech is -phasia, so aphasia is the loss of language ability. Movement problems use -plegia for paralysis and -paresis for partial paralysis or weakness, often with hemi- for one side of the body."
     ],
     "q": [
-      { "q": "Which structures make up the central nervous system?", "o": ["The brain and spinal cord", "All nerves outside the skull", "The nerve roots and ganglia"], "k": 0 },
+      { "q": "Which structures make up the central nervous system?", "o": ["All nerves outside the skull", "The nerve roots and ganglia", "The brain and spinal cord"], "k": 2 },
       { "q": "Why is the dura mater named with dur/o?", "o": ["It is the tough, hard outer membrane", "It produces cerebrospinal fluid", "It lies deep inside the brain"], "k": 0 },
-      { "q": "How does -paresis differ from -plegia?", "o": ["-paresis is partial paralysis or weakness", "-paresis refers only to the face", "-paresis means sensation, not movement", "They mean exactly the same"], "k": 0 }
+      { "q": "How does -paresis differ from -plegia?", "o": ["-paresis refers only to the face", "-paresis is partial paralysis or weakness", "-paresis means sensation, not movement", "They mean exactly the same"], "k": 1 }
     ]
   }
 }

@@ -29,7 +29,7 @@
     { "c": "Normally absent from urine", "a": "Glucose", "d": ["Urea", "Creatinine"] },
     { "c": "Detrusor muscle", "a": "Smooth muscle of the bladder wall", "d": ["Voluntary sphincter of the urethra", "Muscle layer of the ureter"] },
     { "c": "Total body water in adults", "a": "About 50 to 60% of body mass", "d": ["About 25 to 30% of body mass", "About 80 to 85% of body mass"] },
-    { "c": "Share of body water inside cells", "a": "About two-thirds", "d": ["About one-third", "About one-tenth"] },
+    { "c": "Share of body water inside cells", "a": "About 60%", "d": ["About 40%", "About 10%"], "ex": "The remaining water, about 40%, is extracellular fluid." },
     { "c": "Main cation of extracellular fluid", "a": "Na+", "d": ["K+", "Mg2+"] },
     { "c": "Main cation of intracellular fluid", "a": "K+", "d": ["Na+", "Ca2+"] },
     { "c": "Location of the thirst center", "a": "Hypothalamus", "d": ["Medulla oblongata", "Posterior pituitary"] },

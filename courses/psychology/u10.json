@@ -41,7 +41,7 @@
     { "c": "Kohlberg's preconventional level", "a": "Morality based on avoiding punishment and self-interest", "d": ["Morality based on laws and social approval", "Morality based on universal principles", "Morality based on caring for others"] },
     { "c": "Kohlberg's postconventional level", "a": "Morality based on social contracts and universal principles", "d": ["Morality based on avoiding punishment", "Morality based on pleasing others", "Morality based on obeying authority"] },
     { "c": "Gilligan's critique of Kohlberg", "a": "His studies centered on males and slighted care", "d": ["His stages began too late in childhood", "He ignored the role of punishment", "He studied only adults over 65"] },
-    { "c": "Emerging adulthood (Arnett)", "a": "From 18 to the mid-20s, exploring work and love", "d": ["From 12 to 18, the years of puberty", "From 40 to 65, the middle years", "From birth to 2, the first years"] },
+    { "c": "Emerging adulthood (Arnett)", "a": "Late teens through the twenties, exploring work and love", "d": ["From 12 to 18, the years of puberty", "From 40 to 65, the middle years", "From birth to 2, the first years"] },
     { "c": "Ability that holds up best in aging", "a": "Crystallized intelligence", "d": ["Fluid intelligence", "Reaction speed", "Night vision"] }
   ],
   "read": {

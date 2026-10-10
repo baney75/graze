@@ -278,11 +278,11 @@
       {
         "q": "Why does a sliding hockey puck slow down?",
         "o": [
-          "Friction acts on it",
           "Motion fades without a push",
+          "Friction acts on it",
           "Its inertia runs out"
         ],
-        "k": 0
+        "k": 1
       },
       {
         "q": "What is the third-law partner of Earth's pull on you?",
@@ -296,11 +296,11 @@
       {
         "q": "What is the net force on a car moving at constant velocity?",
         "o": [
-          "Zero",
           "Equal to the engine's force",
-          "Equal to its weight"
+          "Equal to its weight",
+          "Zero"
         ],
-        "k": 0
+        "k": 2
       }
     ]
   }

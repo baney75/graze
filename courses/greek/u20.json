@@ -1,6 +1,6 @@
 {
   "title": "New Testament core: little words",
-  "note": "The most frequent New Testament words are small ones: καί alone occurs over 9,000 times. Some, like δέ, γάρ and οὖν, are postpositive: they never come first in their clause (ὁ δὲ Ἰησοῦς, 'but Jesus'). οὐ negates statements of fact (indicative verbs); μή negates commands, wishes and conditions, and in the New Testament also participles.",
+  "note": "The most frequent New Testament words are small ones: καί alone occurs about 9,000 times. Some, like δέ, γάρ and οὖν, are postpositive: they never come first in their clause (ὁ δὲ Ἰησοῦς, 'but Jesus'). οὐ negates statements of fact (indicative verbs); μή negates commands, wishes and conditions, and in the New Testament also participles.",
   "src": {
     "t": "SBL Greek New Testament (free edition)",
     "u": "https://sblgnt.com/"
@@ -88,7 +88,7 @@
       "a": "if",
       "d": [
         "when",
-        "that"
+        "because"
       ],
       "ex": "εἰ υἱὸς εἶ τοῦ θεοῦ",
       "exT": "if you are the Son of God",
@@ -107,7 +107,7 @@
       "c": "ὡς",
       "a": "as, like; when",
       "d": [
-        "because; that",
+        "unless; except",
         "until"
       ],
       "r": "hōs",

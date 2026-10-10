@@ -13,7 +13,7 @@
     { "c": "Protein of the thick filament", "a": "Myosin", "d": ["Actin", "Troponin"] },
     { "c": "Main protein of the thin filament", "a": "Actin", "d": ["Myosin", "Titin"] },
     { "c": "Neurotransmitter at the neuromuscular junction", "a": "Acetylcholine", "d": ["Norepinephrine", "GABA"] },
-    { "c": "Calcium binds which protein to start contraction?", "a": "Troponin", "d": ["Tropomyosin", "Myosin"] },
+    { "c": "In skeletal muscle, calcium binds", "a": "Troponin", "d": ["Tropomyosin", "Myosin"] },
     { "c": "Tropomyosin in a resting fiber", "a": "Covers the myosin-binding sites on actin", "d": ["Pumps calcium into the SR", "Pulls thin filaments inward"] },
     { "c": "ATP binding to a myosin head causes", "a": "Myosin to detach from actin", "d": ["The power stroke", "Calcium release from the SR"] },
     { "c": "Band that keeps its width during contraction", "a": "A band", "d": ["I band", "H zone"] },
@@ -39,7 +39,7 @@
     { "c": "Gastrocnemius and soleus", "a": "Plantar flex the foot", "d": ["Dorsiflex the foot", "Extend the knee"] },
     { "c": "Masseter", "a": "Elevates the mandible to close the jaw", "d": ["Depresses the mandible", "Closes the eyelids"] },
     { "c": "Rectus abdominis", "a": "Flexes the vertebral column", "d": ["Extends the vertebral column", "Elevates the ribs"] },
-    { "c": "Calcaneal (Achilles) tendon attaches calf muscles to", "a": "The calcaneus", "d": ["The tibia", "The talus"] }
+    { "c": "Achilles tendon attaches calf muscles to", "a": "The calcaneus", "d": ["The tibia", "The talus"] }
   ],
   "read": {
     "title": "From nerve signal to pull",
@@ -51,8 +51,8 @@
     ],
     "q": [
       { "q": "What exposes the myosin-binding sites on actin?", "o": ["Calcium binding to troponin", "ATP binding to myosin", "Acetylcholine binding to actin"], "k": 0 },
-      { "q": "What does a new ATP do for a myosin head after the power stroke?", "o": ["Releases it from actin", "Pumps calcium out of the cell", "Shortens the thick filament"], "k": 0 },
-      { "q": "Why does the A band keep its width during contraction?", "o": ["The filaments slide but do not shorten", "The thick filaments lengthen", "The Z-discs move apart"], "k": 0 }
+      { "q": "What does a new ATP do for a myosin head after the power stroke?", "o": ["Pumps calcium out of the cell", "Shortens the thick filament", "Releases it from actin"], "k": 2 },
+      { "q": "Why does the A band keep its width during contraction?", "o": ["The thick filaments lengthen", "The filaments slide but do not shorten", "The Z-discs move apart"], "k": 1 }
     ]
   }
 }

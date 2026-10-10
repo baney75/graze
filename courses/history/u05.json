@@ -17,7 +17,7 @@
     { "c": "Caliph", "a": "Successor to Muhammad as leader of Muslims", "d": ["Muslim judge of religious law", "Prayer leader of a single mosque"] },
     { "c": "Root of the Sunni and Shia split", "a": "Dispute over who should succeed Muhammad", "d": ["Dispute over the text of the Quran", "Dispute over whether to fight Byzantium"] },
     { "c": "Shia Muslims held that leadership belonged to", "a": "Ali and his descendants", "d": ["The Umayyad family", "Whoever the community elected"] },
-    { "c": "Capital of the Umayyad Caliphate", "a": "Damascus", "d": ["Baghdad", "Cairo", "Córdoba"] },
+    { "c": "Capital of the Umayyad Caliphate", "a": "Damascus", "d": ["Baghdad", "Cairo", "Medina"] },
     { "c": "Capital founded by the Abbasid Caliphate", "a": "Baghdad", "d": ["Damascus", "Mecca", "Constantinople"] },
     { "c": "Abbasids overthrow the Umayyads", "a": "750 CE", "d": ["622 CE", "1054 CE", "1258 CE"] },
     { "c": "House of Wisdom", "a": "Baghdad center of learning and translation", "d": ["Palace of the Byzantine emperors", "Library of Hellenistic Alexandria"] },
@@ -33,7 +33,7 @@
     { "c": "Serf", "a": "Peasant bound to a lord's land", "d": ["Knight sworn to a lord", "Free townsman in a guild"] },
     { "c": "Manorialism", "a": "System of serfs working a lord's estate", "d": ["System of monks running schools", "System of kings appointing bishops"] },
     { "c": "Norman Conquest of England (Battle of Hastings)", "a": "1066", "d": ["1215", "1095", "800"] },
-    { "c": "Magna Carta", "a": "1215 charter limiting the English king's power", "d": ["1066 survey of English land", "1689 bill of rights for Parliament"] },
+    { "c": "Magna Carta", "a": "1215 charter limiting the English king's power", "d": ["1086 survey of English land", "1689 bill of rights for Parliament"] },
     { "c": "Pope Urban II calls the First Crusade", "a": "1095", "d": ["1054", "1187", "1291"] },
     { "c": "Saladin", "a": "Sultan who retook Jerusalem in 1187", "d": ["Caliph who founded Baghdad", "Turkish sultan who took Constantinople"] },
     { "c": "Thomas Aquinas", "a": "Theologian who joined Aristotle to Christian thought", "d": ["Abbot who wrote a rule for monastic life", "Bishop who wrote The City of God"] }
@@ -46,9 +46,9 @@
       "In the west, Germanic kingdoms replaced Roman rule. The Frankish king Charlemagne united much of western Europe and was crowned emperor in 800. After his empire broke apart and Vikings raided its coasts, local lords offered protection. They granted land to vassals who fought for them, and serfs farmed the manors. This feudal order, together with the Catholic Church, shaped European life for centuries and launched the Crusades after 1095."
     ],
     "q": [
-      { "q": "What divided Sunni and Shia Muslims?", "o": ["Who should lead after Muhammad", "Whether to conquer Spain", "Where to build Baghdad", "The date of the Hijra"], "k": 0 },
+      { "q": "What divided Sunni and Shia Muslims?", "o": ["Whether to conquer Spain", "Where to build Baghdad", "Who should lead after Muhammad", "The date of the Hijra"], "k": 2 },
       { "q": "Why did feudal ties develop in western Europe, according to the reading?", "o": ["Lords offered protection amid disorder", "The pope required it", "The Byzantines imposed it", "Trade with Baghdad grew"], "k": 0 },
-      { "q": "Which empire preserved Roman law and Greek learning in the east?", "o": ["The Byzantine Empire", "The Frankish Empire", "The Abbasid Caliphate", "The Holy Roman Empire"], "k": 0 }
+      { "q": "Which empire preserved Roman law and Greek learning in the east?", "o": ["The Frankish Empire", "The Abbasid Caliphate", "The Holy Roman Empire", "The Byzantine Empire"], "k": 3 }
     ]
   }
 }

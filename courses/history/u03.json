@@ -43,8 +43,8 @@
       "In this peaceful, connected empire, Christianity spread from Judea to cities across the Mediterranean. Emperors at times persecuted Christians for refusing to honor the state gods. Then Constantine embraced the faith and, with the Edict of Milan in 313 CE, made it legal. In 380 CE Theodosius I declared Nicene Christianity the official religion. The western half of the empire weakened under pressure from Germanic peoples and ended in 476 CE, while the eastern half survived for nearly a thousand years."
     ],
     "q": [
-      { "q": "How did Augustus rule while keeping the forms of the Republic?", "o": ["He ruled as emperor in fact", "He shared power equally with the Senate", "He let the plebeians elect him king", "He gave power to the tribunes"], "k": 0 },
-      { "q": "Why were Christians sometimes persecuted?", "o": ["They refused to honor the state gods", "They supported Carthage", "They would not pay taxes", "They spoke Greek instead of Latin"], "k": 0 },
+      { "q": "How did Augustus rule while keeping the forms of the Republic?", "o": ["He shared power equally with the Senate", "He ruled as emperor in fact", "He let the plebeians elect him king", "He gave power to the tribunes"], "k": 1 },
+      { "q": "Why were Christians sometimes persecuted?", "o": ["They supported Carthage", "They would not pay taxes", "They spoke Greek instead of Latin", "They refused to honor the state gods"], "k": 3 },
       { "q": "What happened to the eastern half of the empire after 476 CE?", "o": ["It survived for nearly a thousand years", "It fell to the Visigoths", "It became a republic", "It was ruled from Rome"], "k": 0 }
     ]
   }

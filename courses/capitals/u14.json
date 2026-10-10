@@ -10,7 +10,7 @@
     { "p": "tr", "a": "Türkiye", "d": ["Tunisia", "Pakistan", "Azerbaijan"] },
     { "p": "sy", "a": "Syria", "d": ["Iraq", "Yemen", "Egypt"] },
     { "p": "lb", "a": "Lebanon", "d": ["Austria", "Latvia", "Canada"] },
-    { "p": "il", "a": "Israel", "d": ["Palestine", "Jordan", "Lebanon"] },
+    { "p": "il", "a": "Israel", "d": ["Greece", "Finland", "Uruguay"] },
     { "p": "ps", "a": "Palestine", "d": ["Jordan", "Sudan", "Kuwait"] },
     { "p": "jo", "a": "Jordan", "d": ["Palestine", "Sudan", "Kuwait"] },
     { "p": "iq", "a": "Iraq", "d": ["Syria", "Egypt", "Yemen"] },

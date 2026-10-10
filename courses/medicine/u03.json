@@ -55,7 +55,7 @@
    ]
   },
   {
-   "c": "Inheritance where one altered copy causes the trait",
+   "c": "Autosomal: one altered copy causes the trait",
    "a": "Autosomal dominant",
    "d": [
     "Autosomal recessive",
@@ -63,7 +63,7 @@
    ]
   },
   {
-   "c": "Autosomal dominant, one affected parent: each child",
+   "c": "Risk per child, one parent autosomal dominant",
    "a": "50% for each child",
    "d": [
     "25% for each child",

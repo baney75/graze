@@ -4,7 +4,7 @@
   "src": { "t": "Aristotle's Rhetoric, Stanford Encyclopedia of Philosophy", "u": "https://plato.stanford.edu/entries/aristotle-rhetoric/" },
   "items": [
     { "c": "Burden of proof", "a": "whoever makes a claim must support it", "d": ["whoever doubts a claim must disprove it", "the larger side need not argue", "the oldest view wins by default"] },
-    { "c": "Motte-and-bailey", "a": "retreating to a safer claim when challenged", "d": ["attacking a distorted version of a claim", "raising the bar after it is met", "flooding a debate with weak claims"] },
+    { "c": "Motte-and-bailey", "a": "retreating to a modest claim, then reasserting the bold one", "d": ["attacking a distorted version of a claim", "raising the bar after it is met", "flooding a debate with weak claims"] },
     { "c": "Ethos", "a": "persuasion through the speaker's character", "d": ["persuasion through the audience's emotions", "persuasion through the argument itself"] },
     { "c": "Pathos", "a": "persuasion through the audience's emotions", "d": ["persuasion through the speaker's character", "persuasion through the argument itself"] },
     { "c": "Logos", "a": "persuasion through the argument itself", "d": ["persuasion through the speaker's character", "persuasion through the audience's emotions"] },

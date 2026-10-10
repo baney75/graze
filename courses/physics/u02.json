@@ -42,9 +42,33 @@
       "Projectile motion looks curved, but it is really two simple motions happening at once. Ignoring air resistance, nothing pushes the projectile sideways, so its horizontal velocity never changes. Vertically, gravity gives it a constant downward acceleration of 9.80 m/s², exactly as if it had been dropped. That is why a ball rolled off a table and a ball dropped from the same height hit the floor together: their vertical motions are identical. The horizontal speed only decides how far away the rolled ball lands. On level ground the range is greatest at a 45° launch, and complementary angles such as 30° and 60° land at the same spot."
     ],
     "q": [
-      { "q": "Why do a rolled ball and a dropped ball land together?", "o": ["Their vertical motions are identical", "The rolled ball has no acceleration", "Air resistance balances them"], "k": 0 },
-      { "q": "What happens to a projectile's horizontal velocity without air resistance?", "o": ["It stays constant", "It decreases to zero at the top", "It increases by g each second"], "k": 0 },
-      { "q": "Which equation lets you solve a problem without knowing the time?", "o": ["v² = v₀² + 2aΔx", "v = v₀ + at", "x = x₀ + v₀t + ½at²"], "k": 0 }
+      {
+        "q": "Why do a rolled ball and a dropped ball land together?",
+        "o": [
+          "Their vertical motions are identical",
+          "The rolled ball has no acceleration",
+          "Air resistance balances them"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What happens to a projectile's horizontal velocity without air resistance?",
+        "o": [
+          "It decreases to zero at the top",
+          "It increases by g each second",
+          "It stays constant"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Which equation lets you solve a problem without knowing the time?",
+        "o": [
+          "v = v₀ + at",
+          "v² = v₀² + 2aΔx",
+          "x = x₀ + v₀t + ½at²"
+        ],
+        "k": 1
+      }
     ]
   }
 }

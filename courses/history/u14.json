@@ -23,7 +23,7 @@
     { "c": "ANZAC", "a": "Australian and New Zealand Army Corps", "d": ["Allied naval command in the Atlantic", "Arab army in the revolt against the Ottomans"] },
     { "c": "New weapons introduced in World War I", "a": "Poison gas and tanks", "d": ["Atomic bombs and jet fighters", "Muskets and cannons"], "ex": "Britain first used tanks in 1916." },
     { "c": "Total war", "a": "Mobilizing a whole society and economy for war", "d": ["War fought only by professional soldiers", "War limited to a naval blockade"] },
-    { "c": "Lusitania", "a": "British liner sunk by a German U-boat in 1915", "d": ["German battleship sunk at Jutland", "American warship that exploded in Havana"], "ex": "Of more than 1,200 dead, 128 were US citizens." },
+    { "c": "Lusitania", "a": "British liner sunk by a German U-boat in 1915", "d": ["German battleship sunk at Jutland", "American warship that exploded in Havana"], "ex": "Of nearly 1,200 dead, 128 were US citizens." },
     { "c": "Unrestricted submarine warfare", "a": "Sinking any ship in a war zone, even neutral ones", "d": ["Sinking only enemy warships after warning", "Blockading ports with surface fleets"] },
     { "c": "Zimmermann Telegram (1917)", "a": "German offer to help Mexico regain US land", "d": ["British pledge of a Jewish homeland", "Wilson's plan for a peace league"] },
     { "c": "United States enters World War I", "a": "April 1917", "d": ["August 1914", "May 1915", "November 1918"] },
@@ -52,8 +52,8 @@
     ],
     "q": [
       { "q": "Why did Germany march through Belgium?", "o": ["To defeat France quickly", "To reach Russia", "To protect Britain", "To join Austria-Hungary"], "k": 0 },
-      { "q": "What made attacks across no man's land so deadly?", "o": ["Machine guns, artillery and gas", "Lack of food", "Attacks by submarines", "Shortages of soldiers"], "k": 0 },
-      { "q": "According to the reading, what helped bring the US into the war?", "o": ["Submarine attacks and the Zimmermann Telegram", "The assassination in Sarajevo", "The Russian Revolution", "The Treaty of Versailles"], "k": 0 }
+      { "q": "What made attacks across no man's land so deadly?", "o": ["Lack of food", "Attacks by submarines", "Machine guns, artillery and gas", "Shortages of soldiers"], "k": 2 },
+      { "q": "According to the reading, what helped bring the US into the war?", "o": ["The assassination in Sarajevo", "Submarine attacks and the Zimmermann Telegram", "The Russian Revolution", "The Treaty of Versailles"], "k": 1 }
     ]
   }
 }

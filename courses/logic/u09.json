@@ -27,7 +27,7 @@
     { "c": "The firm is rich, so each worker is rich.", "a": "division", "d": ["composition", "accident", "hasty generalization"] },
     { "c": "Ambiguity in 'I saw the man with the telescope'", "a": "amphiboly (structural)", "d": ["equivocation", "accent", "composition"] },
     { "c": "Two friends got rich on crypto; anyone can.", "a": "hasty generalization", "d": ["composition", "false dilemma", "appeal to popularity"] },
-    { "c": "Wounding is a crime, so surgeons are criminals", "a": "accident", "d": ["hasty generalization", "division", "equivocation"] }
+    { "c": "Wounding is a crime, so surgeons are criminals", "a": "accident", "d": ["hasty generalization", "division", "special pleading"] }
   ],
   "read": {
     "title": "Hidden assumptions, shifting words",

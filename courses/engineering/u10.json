@@ -135,7 +135,7 @@
       ]
     },
     {
-      "c": "Closed-loop gain: plant G, unity negative feedback",
+      "c": "Closed-loop gain, G with unity negative feedback",
       "a": "G / (1 + G)",
       "d": [
         "G / (1 − G)",
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "c": "Weakness of proportional-only control on many systems",
+      "c": "Common weakness of proportional-only control",
       "a": "a steady-state offset remains",
       "d": [
         "it cannot respond to any error",

@@ -206,7 +206,7 @@
     },
     {
       "c": "Opium Wars",
-      "a": "British wars that forced China to open to trade",
+      "a": "Wars in which Britain forced China to open to trade",
       "d": [
         "Japanese wars to conquer Korea",
         "Chinese wars against the Mongols"
@@ -272,22 +272,22 @@
       {
         "q": "Which advantage helped Britain industrialize first?",
         "o": [
-          "Coal and iron resources",
           "A large army in Europe",
+          "Coal and iron resources",
           "Silver from Mexico",
           "Control of China"
         ],
-        "k": 0
+        "k": 1
       },
       {
         "q": "How did Japan avoid being colonized?",
         "o": [
-          "By modernizing quickly",
           "By allying with Ethiopia",
           "By closing its ports",
-          "By winning the Opium Wars"
+          "By winning the Opium Wars",
+          "By modernizing quickly"
         ],
-        "k": 0
+        "k": 3
       },
       {
         "q": "Which African countries were still independent in 1914?",

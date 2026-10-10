@@ -56,7 +56,7 @@
   },
   {
    "c": "First-pass effect",
-   "a": "Liver metabolism of an oral drug before it reaches the body",
+   "a": "Liver metabolism of an oral drug before it reaches systemic circulation",
    "d": [
     "Kidney excretion of an IV drug",
     "Binding of a drug to its first receptor"
@@ -95,7 +95,7 @@
    ]
   },
   {
-   "c": "Drugs that cross the blood–brain barrier tend to be",
+   "c": "Drugs crossing the blood–brain barrier are often",
    "a": "Small and lipid-soluble",
    "d": [
     "Large and highly charged",

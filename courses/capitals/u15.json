@@ -10,7 +10,7 @@
     { "p": "mr", "a": "Mauritania", "d": ["Algeria", "Pakistan", "Mali"] },
     { "p": "sn", "a": "Senegal", "d": ["Mali", "Guinea", "Cameroon"] },
     { "p": "gm", "a": "Gambia", "d": ["Senegal", "Guinea-Bissau", "Guinea"] },
-    { "p": "gw", "a": "Guinea-Bissau", "d": ["Gambia", "Senegal", "Guinea"] },
+    { "p": "gw", "a": "Guinea-Bissau", "d": ["Ghana", "Senegal", "Guinea"] },
     { "p": "gn", "a": "Guinea", "d": ["Mali", "Senegal", "Cameroon"] },
     { "p": "sl", "a": "Sierra Leone", "d": ["Gabon", "Guinea", "Liberia"] },
     { "p": "lr", "a": "Liberia", "d": ["United States", "Malaysia", "Cuba"] },

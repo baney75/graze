@@ -337,29 +337,29 @@
       {
         "q": "Where is the key?",
         "o": [
-          "In the bag",
           "On the desk",
-          "Under the bed"
+          "Under the bed",
+          "In the bag"
         ],
-        "k": 0
+        "k": 2
       },
       {
         "q": "What is in front of the window?",
         "o": [
-          "A dog",
           "A cat",
+          "A dog",
           "A TV"
         ],
-        "k": 1
+        "k": 0
       },
       {
         "q": "Which of these is not in the home?",
         "o": [
           "A desk",
-          "A bed",
-          "A TV"
+          "A TV",
+          "A bed"
         ],
-        "k": 2
+        "k": 1
       }
     ]
   }

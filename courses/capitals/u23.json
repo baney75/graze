@@ -1,9 +1,9 @@
 {
   "title": "Capitals of West and Central Africa",
-  "note": "Several capitals here were planned to move power inland: Nigeria moved from Lagos to Abuja in 1991, and Côte d’Ivoire made Yamoussoukro its capital in 1983. Brazzaville and Kinshasa face each other across the Congo River.",
+  "note": "Several capitals here were planned to move power inland: Nigeria moved from Lagos to Abuja in 1991, Côte d’Ivoire made Yamoussoukro its capital in 1983, and Equatorial Guinea moved from Malabo, on Bioko island, to mainland Ciudad de la Paz in 2026. Brazzaville and Kinshasa face each other across the Congo River.",
   "src": {
-    "t": "CIA World Factbook (archived JSON edition)",
-    "u": "https://github.com/factbook/factbook.json"
+    "t": "Wikipedia, List of national capitals",
+    "u": "https://en.wikipedia.org/wiki/List_of_national_capitals"
   },
   "items": [
     { "c": "Mauritania", "a": "Nouakchott", "d": ["Nouadhibou", "Rosso", "Kiffa"] },
@@ -25,6 +25,7 @@
     { "c": "Cameroon", "a": "Yaoundé", "d": ["Douala", "Garoua", "Bamenda"] },
     { "c": "Chad", "a": "N'Djamena", "d": ["Moundou", "Abéché", "Sarh"] },
     { "c": "Central African Republic", "a": "Bangui", "d": ["Bimbo", "Berbérati", "Bambari"] },
+    { "c": "Equatorial Guinea", "a": "Ciudad de la Paz", "d": ["Bata", "Ebebiyín", "Libreville"], "ex": "A decree of January 2, 2026 moved the capital from Malabo, which stays the main economic center." },
     { "c": "Gabon", "a": "Libreville", "d": ["Port-Gentil", "Franceville", "Oyem"] },
     { "c": "Republic of the Congo", "a": "Brazzaville", "d": ["Pointe-Noire", "Dolisie", "Kinshasa"], "ex": "Brazzaville faces Kinshasa, capital of DR Congo, across the Congo River." },
     { "c": "DR Congo", "a": "Kinshasa", "d": ["Lubumbashi", "Kisangani", "Brazzaville"] },

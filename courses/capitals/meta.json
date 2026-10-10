@@ -4,27 +4,27 @@
   "group": "World",
   "tag": "WORLD",
   "level": "All levels",
-  "blurb": "Find every country on the world map and every US state on the national map, tell look-alike flags apart, and name the capital of every sovereign state.",
+  "blurb": "Find countries on the world map and every US state on the national map, tell look-alike flags apart, and name the capital of every UN member state and the Holy See.",
   "sources": [
     {
-      "t": "Natural Earth boundaries via world-atlas",
-      "u": "https://github.com/topojson/world-atlas"
+      "t": "Natural Earth boundaries via world-atlas (npm)",
+      "u": "https://npmjs.com/package/world-atlas"
     },
     {
       "t": "US Census Bureau boundaries via us-atlas",
       "u": "https://github.com/topojson/us-atlas"
     },
     {
-      "t": "flag-icons",
+      "t": "flag-icons (MIT)",
       "u": "https://github.com/lipis/flag-icons"
     },
     {
-      "t": "CIA, The World Factbook",
-      "u": "https://www.cia.gov/the-world-factbook/"
+      "t": "Wikipedia, List of national capitals",
+      "u": "https://en.wikipedia.org/wiki/List_of_national_capitals"
     },
     {
       "t": "The World Factbook in JSON (archived country profiles)",
-      "u": "https://github.com/factbook/factbook.json"
+      "u": "https://raw.githubusercontent.com/factbook/factbook.json/master/README.md"
     }
   ]
 }

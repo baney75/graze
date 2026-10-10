@@ -194,7 +194,7 @@
         "poet"
       ],
       "ex": "Nauta est in aqua.",
-      "exT": "The sailor is on the water."
+      "exT": "The sailor is in the water."
     },
     {
       "c": "agricola (m)",
@@ -327,7 +327,7 @@
         "o": [
           "At the farmhouse",
           "In the forest",
-          "On the water"
+          "In the water"
         ],
         "k": 2
       },
@@ -336,7 +336,7 @@
         "o": [
           "In the forest",
           "In the farmhouse",
-          "On the water"
+          "In the water"
         ],
         "k": 0
       }

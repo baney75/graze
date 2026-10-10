@@ -7,7 +7,7 @@
   },
   "items": [
     {
-      "c": "Hydrostatic pressure at depth h below a surface at p₀",
+      "c": "Hydrostatic pressure at depth h, surface at p₀",
       "a": "p = p₀ + ρgh",
       "d": [
         "p = p₀ − ρgh",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "c": "Hydraulic pistons of 1 cm² and 100 cm²: force gain",
+      "c": "Hydraulic pistons 1 cm² and 100 cm²: force gain",
       "a": "100 times",
       "d": [
         "10 times",
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "c": "Where fluid speeds up in a horizontal pipe, pressure",
+      "c": "Pressure where flow speeds up in a level pipe",
       "a": "drops",
       "d": [
         "rises",

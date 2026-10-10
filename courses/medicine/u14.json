@@ -47,7 +47,7 @@
    ]
   },
   {
-   "c": "Chain of survival link done by EMS and hospital teams",
+   "c": "Chain of survival link after defibrillation",
    "a": "Advanced resuscitation",
    "d": [
     "Recognition and activation",
@@ -63,7 +63,7 @@
    ]
   },
   {
-   "c": "Number of links in the 2025 AHA chain of survival",
+   "c": "Links in the 2025 AHA chain of survival",
    "a": "6",
    "d": [
     "4",
@@ -71,7 +71,7 @@
    ]
   },
   {
-   "c": "Immediate CPR can raise cardiac arrest survival by",
+   "c": "Immediate CPR can raise arrest survival by",
    "a": "About two to three times",
    "d": [
     "About 1 percent",
@@ -111,7 +111,7 @@
    ]
   },
   {
-   "c": "Adult compression-to-breath ratio (no advanced airway)",
+   "c": "Adult CPR ratio without an advanced airway",
    "a": "30 compressions to 2 breaths",
    "d": [
     "15 compressions to 1 breath",
@@ -279,7 +279,7 @@
    ]
   },
   {
-   "c": "Suspected opioid overdose with respiratory arrest",
+   "c": "Suspected opioid overdose, not breathing",
    "a": "Give naloxone if available and support breathing or CPR",
    "d": [
     "Give caffeine and wait",

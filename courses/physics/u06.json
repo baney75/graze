@@ -41,9 +41,33 @@
       "An orbiting spacecraft is not beyond gravity's reach; at the altitude of the International Space Station, gravity is still about 90% of its surface value. The craft is falling toward Earth the whole time, but it moves sideways fast enough that the surface curves away beneath it. Astronauts feel weightless because they fall along with their ship."
     ],
     "q": [
-      { "q": "What path does a whirled ball follow if its string breaks?", "o": ["A straight line tangent to the circle", "A line straight away from the center", "A widening spiral"], "k": 0 },
-      { "q": "Why do astronauts in orbit feel weightless?", "o": ["They fall together with their craft", "There is no gravity in orbit", "The Moon's gravity cancels Earth's"], "k": 0 },
-      { "q": "What supplies the centripetal force for the Moon?", "o": ["Earth's gravity", "Tension", "Static friction"], "k": 0 }
+      {
+        "q": "What path does a whirled ball follow if its string breaks?",
+        "o": [
+          "A line straight away from the center",
+          "A straight line tangent to the circle",
+          "A widening spiral"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why do astronauts in orbit feel weightless?",
+        "o": [
+          "They fall together with their craft",
+          "There is no gravity in orbit",
+          "The Moon's gravity cancels Earth's"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What supplies the centripetal force for the Moon?",
+        "o": [
+          "Tension",
+          "Static friction",
+          "Earth's gravity"
+        ],
+        "k": 2
+      }
     ]
   }
 }

@@ -5,7 +5,7 @@
   "note": "Brazil covers nearly half the continent. The Andes run down the west coast through Colombia, Ecuador, Peru, Bolivia and Chile, while Guyana and Suriname face the Atlantic in the north and Argentina, Uruguay and Paraguay fill the south.",
   "src": {
     "t": "Natural Earth 1:50m boundaries via world-atlas",
-    "u": "https://github.com/topojson/world-atlas"
+    "u": "https://npmjs.com/package/world-atlas"
   },
   "items": [
     { "p": "CO", "a": "Colombia", "d": ["Venezuela", "Ecuador", "Guyana"] },
@@ -17,8 +17,8 @@
     { "p": "BR", "a": "Brazil", "d": ["Bolivia", "Paraguay", "Peru"] },
     { "p": "BO", "a": "Bolivia", "d": ["Brazil", "Paraguay", "Peru"] },
     { "p": "PY", "a": "Paraguay", "d": ["Bolivia", "Uruguay", "Brazil"] },
-    { "p": "UY", "a": "Uruguay", "d": ["Argentina", "Chile", "Paraguay"] },
+    { "p": "UY", "a": "Uruguay", "d": ["Argentina", "Paraguay", "Brazil"] },
     { "p": "AR", "a": "Argentina", "d": ["Chile", "Uruguay", "Paraguay"] },
-    { "p": "CL", "a": "Chile", "d": ["Argentina", "Uruguay", "Paraguay"] }
+    { "p": "CL", "a": "Chile", "d": ["Argentina", "Peru", "Bolivia"] }
   ]
 }

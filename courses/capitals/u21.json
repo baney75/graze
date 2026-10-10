@@ -1,9 +1,9 @@
 {
   "title": "Capitals of Central and Eastern Europe",
-  "note": "Bratislava, Budapest and Belgrade all sit on the Danube. The Baltic capitals run north along the coast, Vilnius, Riga and Tallinn, and Ukraine’s capital is spelled Kyiv in English.",
+  "note": "Bratislava, Budapest and Belgrade all sit on the Danube. From south to north the Baltic capitals are Vilnius, Riga and Tallinn, and Ukraine’s capital is spelled Kyiv in English.",
   "src": {
-    "t": "CIA World Factbook (archived JSON edition)",
-    "u": "https://github.com/factbook/factbook.json"
+    "t": "Wikipedia, List of national capitals",
+    "u": "https://en.wikipedia.org/wiki/List_of_national_capitals"
   },
   "items": [
     { "c": "Poland", "a": "Warsaw", "d": ["Kraków", "Gdańsk", "Wrocław"] },

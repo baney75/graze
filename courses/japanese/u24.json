@@ -281,29 +281,29 @@
       {
         "q": "What does Ken invite Maria to do?",
         "o": [
-          "See a movie",
           "Go shopping",
+          "See a movie",
           "Study Japanese"
         ],
-        "k": 0
+        "k": 1
       },
       {
         "q": "Where will they meet?",
         "o": [
           "At the movie theater",
-          "In front of the station",
-          "At Maria's house"
+          "At Maria's house",
+          "In front of the station"
         ],
-        "k": 1
+        "k": 2
       },
       {
         "q": "When will they meet?",
         "o": [
+          "Saturday at two",
           "Sunday at two",
-          "Saturday at seven",
-          "Saturday at two"
+          "Saturday at seven"
         ],
-        "k": 2
+        "k": 0
       }
     ]
   }

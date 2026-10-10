@@ -14,7 +14,7 @@
     { "c": "Homeostasis", "a": "Keeping an internal system in balance", "d": ["Seeking ever greater stimulation", "Copying the behavior of others", "Releasing hormones in a crisis"] },
     { "c": "Drive theory", "a": "Needs from imbalance create drives that push behavior", "d": ["Behavior is driven by inborn instincts", "People seek an optimal arousal level", "Needs are met in a fixed order"], "ex": "Low blood sugar produces hunger, which drives eating." },
     { "c": "Arousal theory", "a": "People seek an optimal level of arousal", "d": ["People seek zero arousal at all times", "Arousal is caused by emotion labels", "Arousal comes only from rewards"] },
-    { "c": "Yerkes-Dodson law", "a": "Performance is best at a moderate level of arousal", "d": ["Performance rises steadily with arousal", "Performance is best with no arousal", "Arousal has no effect on performance"] },
+    { "c": "Yerkes-Dodson law", "a": "Performance is best at a moderate level of arousal", "d": ["Performance rises steadily with arousal", "Performance is best with no arousal", "Arousal has no effect on performance"], "ex": "Based on 1908 studies with mice; evidence for a neat inverted U in people is mixed." },
     { "c": "Ideal arousal for a difficult, complex task", "a": "Relatively low", "d": ["Relatively high", "As high as possible", "It does not matter"] },
     { "c": "Base of Maslow's hierarchy of needs", "a": "Physiological needs like food and water", "d": ["Safety and security", "Love and belonging", "Esteem and achievement"] },
     { "c": "Maslow's level just above safety", "a": "Love and belonging", "d": ["Self-actualization", "Esteem", "Physiological needs"] },
@@ -28,10 +28,10 @@
     { "c": "James-Lange theory of emotion", "a": "Emotion follows from the body's arousal", "d": ["Arousal and emotion occur at the same time", "Emotion is arousal plus a cognitive label", "Appraisal comes before any emotion"], "ex": "We feel afraid because we notice our racing heart." },
     { "c": "Cannon-Bard theory of emotion", "a": "Arousal and emotion occur together but independently", "d": ["Emotion is caused by bodily arousal", "Emotion is arousal plus a label", "Facial expressions cause emotion"] },
     { "c": "Schachter-Singer two-factor theory", "a": "Emotion is arousal plus a cognitive label", "d": ["Emotion follows from arousal alone", "Arousal and emotion are independent", "Emotion comes from facial muscles"] },
-    { "c": "Uninformed men given epinephrine felt", "a": "The mood a companion acted out, euphoric or angry", "d": ["No change at all", "Only fear, whatever the setting", "Only calm and sleepiness"], "ex": "Schachter and Singer's 1962 study." },
-    { "c": "Misattribution of arousal", "a": "Crediting arousal to the wrong source", "d": ["Failing to feel any arousal", "Remembering an event incorrectly", "Blaming others for your mistakes"], "ex": "In a classic study, men interviewed by a woman on a swaying bridge were more likely to call her later." },
+    { "c": "Schachter-Singer (1962) epinephrine claim", "a": "Aroused men took on a companion's euphoric or angry mood", "d": ["Aroused men felt no change in mood at all", "Aroused men felt only fear, whatever the setting", "Aroused men felt only calm and sleepy"], "ex": "Its effects were weak, and later attempts to replicate it largely failed." },
+    { "c": "Misattribution of arousal", "a": "Crediting arousal to the wrong source", "d": ["Failing to feel any arousal", "Remembering an event incorrectly", "Blaming others for your mistakes"], "ex": "In a classic but debated study, men interviewed by a woman on a swaying bridge were more likely to call her later." },
     { "c": "Cognitive-mediational theory (Lazarus)", "a": "Your appraisal of an event determines the emotion", "d": ["Arousal alone determines emotion", "Facial expressions determine emotion", "Emotions are learned by reward"] },
-    { "c": "Facial feedback hypothesis", "a": "Facial expressions can influence felt emotion", "d": ["Emotions cannot show on the face", "Faces express emotion only in some cultures", "Emotion is felt only after a label"] },
+    { "c": "Facial feedback hypothesis", "a": "Facial expressions can influence felt emotion", "d": ["Emotions cannot show on the face", "Faces express emotion only in some cultures", "Emotion is felt only after a label"], "ex": "The famous pen-in-mouth result failed a 17-lab replication; later work finds only small effects." },
     { "c": "Display rules", "a": "Cultural norms for when to show emotions", "d": ["Universal facial expressions", "Rules for scoring a lie test", "Steps in appraising a threat"] },
     { "c": "Ekman's cross-cultural face studies suggest", "a": "Some basic emotional expressions are universal", "d": ["Every culture has unique facial expressions", "Facial expressions are fully learned", "Only adults can read faces"] },
     { "c": "Brain structure central to fear processing", "a": "Amygdala", "d": ["Cerebellum", "Occipital lobe", "Medulla"] },
@@ -47,8 +47,8 @@
     ],
     "q": [
       { "q": "In the overjustification effect, what happens to intrinsic motivation?", "o": ["It grows stronger", "It can weaken when an outside reward is added", "It turns into a reflex", "It stays exactly the same"], "k": 1 },
-      { "q": "Which reward is most likely to undermine interest, according to the reading?", "o": ["A surprise compliment", "Expected cash for each drawing", "A sincere word of praise"], "k": 1 },
-      { "q": "What does the reading recommend?", "o": ["Never reward anyone", "Praise effort and give learners real choices", "Pay for every task", "Remove all choices"], "k": 1 }
+      { "q": "Which reward is most likely to undermine interest, according to the reading?", "o": ["Expected cash for each drawing", "A surprise compliment", "A sincere word of praise"], "k": 0 },
+      { "q": "What does the reading recommend?", "o": ["Never reward anyone", "Pay for every task", "Remove all choices", "Praise effort and give learners real choices"], "k": 3 }
     ]
   }
 }

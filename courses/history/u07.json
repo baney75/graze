@@ -43,9 +43,9 @@
       "In 1517 Martin Luther, a monk and professor in Wittenberg, challenged the sale of indulgences. He taught that salvation came through faith alone and that the Bible, not the pope, was the final authority. Printed copies of his writings spread rapidly. Some German princes protected him, and other reformers, such as John Calvin in Geneva, founded their own churches. In England, Henry VIII broke with Rome for political and personal reasons. The Catholic Church answered with the Council of Trent and new orders such as the Jesuits. Religious wars followed, ending in Germany only with the Peace of Westphalia in 1648."
     ],
     "q": [
-      { "q": "Why could Luther's ideas spread so quickly?", "o": ["Printed copies circulated widely", "The pope endorsed them", "He traveled across Europe", "Calvin translated them"], "k": 0 },
+      { "q": "Why could Luther's ideas spread so quickly?", "o": ["The pope endorsed them", "Printed copies circulated widely", "He traveled across Europe", "Calvin translated them"], "k": 1 },
       { "q": "What did Luther hold to be the final authority in religion?", "o": ["The Bible", "The pope", "Church councils", "The German princes"], "k": 0 },
-      { "q": "What paid for much Renaissance art in Italy?", "o": ["Wealthy patrons from banking and trade", "Taxes from the Holy Roman Empire", "Gold from the Americas", "Sales of printed books"], "k": 0 }
+      { "q": "What paid for much Renaissance art in Italy?", "o": ["Taxes from the Holy Roman Empire", "Gold from the Americas", "Wealthy patrons from banking and trade", "Sales of printed books"], "k": 2 }
     ]
   }
 }

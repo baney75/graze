@@ -2,8 +2,8 @@
   "title": "Capitals of Western and Northern Europe",
   "note": "Most European capitals are also the largest city in their country. Watch the exceptions: Switzerland’s federal city is Bern, not Zurich, and in the Netherlands Amsterdam is the capital while the government sits in The Hague.",
   "src": {
-    "t": "CIA World Factbook (archived JSON edition)",
-    "u": "https://github.com/factbook/factbook.json"
+    "t": "Wikipedia, List of national capitals",
+    "u": "https://en.wikipedia.org/wiki/List_of_national_capitals"
   },
   "items": [
     { "c": "United Kingdom", "a": "London", "d": ["Manchester", "Birmingham", "Liverpool"] },

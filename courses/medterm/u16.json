@@ -27,7 +27,7 @@
     { "c": "QD (Do Not Use list): write instead", "a": "daily", "d": ["every other day", "four times a day"] },
     { "c": "QOD (Do Not Use list): write instead", "a": "every other day", "d": ["daily", "every hour"] },
     { "c": "MS, MSO4, MgSO4 (Do Not Use list)", "a": "can mean morphine sulfate or magnesium sulfate", "d": ["can be misread as 0 or 4", "can be misread as IV or 10"] },
-    { "c": "Safe way to write five milligrams", "a": "5 mg", "d": ["5.0 mg"], "ex": "A trailing zero is on the Do Not Use list: 5.0 mg can be misread as 50 mg." },
+    { "c": "Safe way to write five milligrams", "a": "5 mg", "d": ["5.0 mg", "5.00 mg"], "ex": "A trailing zero is on the Do Not Use list: 5.0 mg can be misread as 50 mg." },
     { "c": "Safe way to write half a milligram", "a": "0.5 mg", "d": [".5 mg", "0.50 mg"], "ex": "A missing leading zero is on the Do Not Use list: .5 mg can be misread as 5 mg." },
     { "c": "BP", "a": "blood pressure", "d": ["body position", "bowel pattern"] },
     { "c": "HR", "a": "heart rate", "d": ["hospital record", "high risk"] },
@@ -42,15 +42,15 @@
   "read": {
     "title": "Why some abbreviations are banned",
     "text": [
-      "Abbreviations save time, but a misread abbreviation can deliver the wrong drug, the wrong dose or the wrong schedule. The Joint Commission, which accredits hospitals in the United States, keeps a short Do Not Use list that applies to medication orders and other medication documentation, whether handwritten or on pre-printed forms.",
+      "Abbreviations save time, but a misread abbreviation can deliver the wrong drug, the wrong dose or the wrong schedule. The Joint Commission, which accredits hospitals in the United States, keeps a short Do Not Use list that applies to all orders, preprinted forms and medication-related documentation, whether handwritten or electronic.",
       "Each item is on the list because it is easily misread. A handwritten U for unit can look like a 0 or a 4, so 4U can be read as 40; the word unit is written out instead. IU can be read as IV. QD (daily) and QOD (every other day) are easily confused with each other, so daily and every other day are spelled out. MS and its variants can mean either morphine sulfate or magnesium sulfate, two very different drugs.",
       "Two rules concern decimal points. A trailing zero, as in 5.0 mg, is not used in medication orders because a missed decimal turns it into 50 mg. A leading zero is always required before a decimal, as in 0.5 mg, because .5 mg can be read as 5 mg.",
       "Standard abbreviations such as bid, tid, prn, PO and NPO remain in common use, and many organizations also keep their own lists of approved abbreviations."
     ],
     "q": [
-      { "q": "Why is a trailing zero (5.0 mg) avoided in medication orders?", "o": ["A missed decimal turns it into 50 mg", "It looks like the letter U", "It means every other day"], "k": 0 },
+      { "q": "Why is a trailing zero (5.0 mg) avoided in medication orders?", "o": ["It looks like the letter U", "It means every other day", "A missed decimal turns it into 50 mg"], "k": 2 },
       { "q": "What problem does MS create?", "o": ["It can mean morphine sulfate or magnesium sulfate", "It can be read as IV", "It is mistaken for a leading zero"], "k": 0 },
-      { "q": "How should one half milligram be written?", "o": ["0.5 mg", ".5 mg", "0.50 mg", "1/2 mg"], "k": 0 }
+      { "q": "How should one half milligram be written?", "o": [".5 mg", "0.5 mg", "0.50 mg"], "k": 1 }
     ]
   }
 }

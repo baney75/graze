@@ -305,11 +305,11 @@
       {
         "q": "Which season does the writer describe as warm?",
         "o": [
-          "Spring",
           "Autumn",
-          "Winter"
+          "Winter",
+          "Spring"
         ],
-        "k": 0
+        "k": 2
       },
       {
         "q": "What does the writer do in summer?",
@@ -323,11 +323,11 @@
       {
         "q": "What was last winter like?",
         "o": [
+          "Very cold, with lots of snow",
           "Warm and dry",
-          "Rainy but short",
-          "Very cold, with lots of snow"
+          "Rainy but short"
         ],
-        "k": 2
+        "k": 0
       }
     ]
   }

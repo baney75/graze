@@ -29,7 +29,7 @@
       "a": "an object's density divided by water's",
       "d": [
         "an object's weight divided by its volume",
-        "an object's mass divided by water's mass"
+        "an object's mass divided by its volume"
       ]
     },
     {
@@ -255,20 +255,20 @@
       {
         "q": "Why can a steel ship float?",
         "o": [
-          "Its average density is less than water's",
           "Steel is less dense than water",
-          "Water pressure is zero at the surface"
+          "Water pressure is zero at the surface",
+          "Its average density is less than water's"
         ],
-        "k": 0
+        "k": 2
       },
       {
         "q": "According to Bernoulli's equation, what happens where a flowing fluid speeds up?",
         "o": [
-          "Its pressure falls",
           "Its pressure rises",
+          "Its pressure falls",
           "Its density doubles"
         ],
-        "k": 0
+        "k": 1
       }
     ]
   }

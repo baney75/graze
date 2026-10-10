@@ -34,8 +34,8 @@
     { "c": "Relearning", "a": "Learning known material again, usually faster", "d": ["Retrieving material without cues", "Picking the right answer from options", "Learning material for the first time"] },
     { "c": "Spreading activation", "a": "Activating one concept primes linked concepts", "d": ["Memories spreading out and fading", "Signals jumping between myelin gaps", "Rehearsal spreading over days"] },
     { "c": "Encoding specificity principle", "a": "Cues work best when they match how a memory was encoded", "d": ["Deeper processing always beats repetition", "Short-term memory holds about seven items", "Memories fade at a steady rate"] },
-    { "c": "Context-dependent memory", "a": "Recall is better in the setting where you learned", "d": ["Recall is better for personal information", "Recall is better for the first and last items", "Recall is better after sleep deprivation"] },
-    { "c": "Structure key to forming new explicit memories", "a": "Hippocampus", "d": ["Cerebellum", "Medulla", "Occipital lobe"], "ex": "Patient H.M. could no longer form new explicit memories after its removal." },
+    { "c": "Context-dependent memory", "a": "Recall is better in the setting where you learned", "d": ["Recall is better for personal information", "Recall is better for the first and last items", "Recall is better after sleep deprivation"], "ex": "The effect is real but usually modest, and a 2021 replication of the famous diver study found none." },
+    { "c": "Structure key to forming new explicit memories", "a": "Hippocampus", "d": ["Cerebellum", "Medulla", "Occipital lobe"], "ex": "Patient H.M. could no longer form new explicit memories after surgery removed much of it on both sides." },
     { "c": "Brain structure supporting procedural skills", "a": "Cerebellum", "d": ["Hippocampus", "Amygdala", "Thalamus"] },
     { "c": "Engram", "a": "The physical trace of a memory in the brain", "d": ["A false memory planted by questions", "A memory of a shocking event", "A group of items held as one chunk"] }
   ],
@@ -49,8 +49,8 @@
     ],
     "q": [
       { "q": "Why did the second student remember the term better?", "o": ["She repeated it more times", "She processed its meaning and linked it to what she knew", "She studied it later at night", "She used maintenance rehearsal"], "k": 1 },
-      { "q": "In a memory network, a fact with many connections", "o": ["Is harder to find", "Has more paths for retrieval", "Stays in short-term memory"], "k": 1 },
-      { "q": "What is maintenance rehearsal good for, according to the reading?", "o": ["Building rich long-term memories", "Keeping information briefly in short-term memory", "Creating the self-reference effect"], "k": 1 }
+      { "q": "In a memory network, a fact with many connections", "o": ["Has more paths for retrieval", "Is harder to find", "Stays in short-term memory"], "k": 0 },
+      { "q": "What is maintenance rehearsal good for, according to the reading?", "o": ["Building rich long-term memories", "Creating the self-reference effect", "Keeping information briefly in short-term memory"], "k": 2 }
     ]
   }
 }

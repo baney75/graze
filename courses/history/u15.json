@@ -51,9 +51,9 @@
       "German armies overran much of Europe, then invaded the Soviet Union in 1941. Japan's attack on Pearl Harbor brought the United States into the war. The tide turned at Midway and Stalingrad in 1942 and 1943. Allied troops landed in Normandy in 1944, and Germany surrendered in May 1945. Behind its lines the Nazi regime murdered six million Jews and millions of others. Japan surrendered after atomic bombs destroyed Hiroshima and Nagasaki and the Soviet Union declared war on it."
     ],
     "q": [
-      { "q": "How did the Great Depression help dictators, according to the reading?", "o": ["Desperate voters turned to leaders promising order", "It made Britain and France stronger", "It ended the Treaty of Versailles", "It united the dictators against the USSR"], "k": 0 },
+      { "q": "How did the Great Depression help dictators, according to the reading?", "o": ["It made Britain and France stronger", "Desperate voters turned to leaders promising order", "It ended the Treaty of Versailles", "It united the dictators against the USSR"], "k": 1 },
       { "q": "What policy did Britain and France follow toward Germany before 1939?", "o": ["Appeasement", "Containment", "Isolationism", "Blitzkrieg"], "k": 0 },
-      { "q": "Which battles does the reading name as turning points?", "o": ["Midway and Stalingrad", "Normandy and Munich", "Pearl Harbor and Poland", "Manchuria and Ethiopia"], "k": 0 }
+      { "q": "Which battles does the reading name as turning points?", "o": ["Normandy and Munich", "Pearl Harbor and Poland", "Midway and Stalingrad", "Manchuria and Ethiopia"], "k": 2 }
     ]
   }
 }

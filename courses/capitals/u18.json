@@ -8,7 +8,7 @@
   },
   "items": [
     { "p": "ca", "a": "Canada", "d": ["Peru", "Lebanon", "Austria"] },
-    { "p": "us", "a": "United States", "d": ["Liberia", "Malaysia", "Mexico"] },
+    { "p": "us", "a": "United States", "d": ["Liberia", "Malaysia", "Cuba"] },
     { "p": "hn", "a": "Honduras", "d": ["Nicaragua", "El Salvador", "Guatemala"] },
     { "p": "cr", "a": "Costa Rica", "d": ["Thailand", "North Korea", "Cuba"] },
     { "p": "pa", "a": "Panama", "d": ["Costa Rica", "Nicaragua", "Colombia"] },

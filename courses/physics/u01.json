@@ -44,9 +44,33 @@
       "Many quantities need a direction as well as a size. Displacement, velocity, force, and momentum are vectors; mass, time, energy, and temperature are scalars. To add vectors, break each one into components, add the x parts and the y parts separately, then rebuild the result with the Pythagorean theorem and an inverse tangent. Walking 3 m east and 4 m north leaves you 5 m from where you started, not 7 m."
     ],
     "q": [
-      { "q": "What can dimensional analysis NOT detect?", "o": ["A missing factor of ½", "Adding a length to a time", "A speed expressed in kilograms"], "k": 0 },
-      { "q": "How should two vectors be added?", "o": ["Add their components separately, then combine", "Add their magnitudes directly", "Multiply their magnitudes"], "k": 0 },
-      { "q": "Which of these is a scalar?", "o": ["Energy", "Force", "Displacement"], "k": 0 }
+      {
+        "q": "What can dimensional analysis NOT detect?",
+        "o": [
+          "Adding a length to a time",
+          "A speed expressed in kilograms",
+          "A missing factor of ½"
+        ],
+        "k": 2
+      },
+      {
+        "q": "How should two vectors be added?",
+        "o": [
+          "Add their magnitudes directly",
+          "Add their components separately, then combine",
+          "Multiply their magnitudes"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Which of these is a scalar?",
+        "o": [
+          "Energy",
+          "Force",
+          "Displacement"
+        ],
+        "k": 0
+      }
     ]
   }
 }

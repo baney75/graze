@@ -27,7 +27,7 @@
     { "c": "Reciprocal determinism (Bandura)", "a": "Thoughts, behavior and setting all shape one another", "d": ["Genes alone determine behavior", "The unconscious controls behavior", "Behavior is set only by rewards"] },
     { "c": "Internal locus of control (Rotter)", "a": "Belief that your own actions shape outcomes", "d": ["Belief that luck or others shape outcomes", "Belief that you can do a specific task", "Belief that the world is fair"] },
     { "c": "External locus of control (Rotter)", "a": "Belief that luck or others shape outcomes", "d": ["Belief that effort shapes outcomes", "Belief in your skill at one task", "Belief that you are better than others"] },
-    { "c": "Mischel's marshmallow test measured", "a": "Delay of gratification", "d": ["Fluid intelligence", "Attachment style", "Conformity to peers"] },
+    { "c": "Mischel's marshmallow test measured", "a": "Delay of gratification", "d": ["Fluid intelligence", "Attachment style", "Conformity to peers"], "ex": "A 2018 replication found its link to later achievement much weaker than first reported." },
     { "c": "Temperament", "a": "An inborn style of reacting, visible from infancy", "d": ["A learned habit of speech", "A conscious plan for life", "A stage of moral reasoning"], "ex": "Thomas and Chess described easy, difficult and slow-to-warm-up babies." },
     { "c": "Allport's cardinal trait", "a": "A single trait that dominates a whole personality", "d": ["A core trait that most people have", "A trait seen only in some situations", "A trait inherited from a parent"] },
     { "c": "Cattell's 16PF", "a": "A questionnaire measuring 16 personality factors", "d": ["A test of 16 types of intelligence", "A list of 16 defense mechanisms", "A scale of 16 stages of growth"] },

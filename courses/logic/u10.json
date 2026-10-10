@@ -28,7 +28,7 @@
     { "c": "Necessary cause", "a": "the effect cannot occur without it", "d": ["it alone is enough for the effect", "it always comes after the effect"] },
     { "c": "Sufficient cause", "a": "it alone is enough to bring about the effect", "d": ["the effect cannot occur without it", "it occurs at the same time as the effect"] },
     { "c": "Texas sharpshooter fallacy", "a": "drawing the target around a cluster after the fact", "d": ["shooting first and asking questions later", "judging a cause by one dramatic case"] },
-    { "c": "Does correlation give any evidence of causation?", "a": "some, once other explanations are ruled out", "d": ["none at all", "proof, if the correlation is strong"] },
+    { "c": "Does correlation give any evidence of causation?", "a": "some, but it is not proof on its own", "d": ["none at all", "proof, if the correlation is strong"] },
     { "c": "Single-cause fallacy", "a": "assuming one cause when an effect has several", "d": ["assuming several causes when there is one", "assuming no cause at all"] }
   ],
   "read": {

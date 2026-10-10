@@ -31,11 +31,11 @@
     { "c": "invenire", "a": "to find, come upon", "d": ["to come in", "to lose"] },
     { "c": "aperire", "a": "to open", "d": ["to close", "to appear"] },
     { "c": "servire", "a": "to serve, be a slave to", "d": ["to save, keep", "to observe"] },
-    { "c": "Magister ___. (dicere)", "a": "dicit", "d": ["dicet", "dicunt"], "ex": "Magister dicit.", "exT": "The teacher speaks." },
+    { "c": "Magister ___. (dicere)", "a": "dicit", "d": ["dicis", "dicunt"], "ex": "Magister dicit.", "exT": "The teacher speaks." },
     { "c": "Quid ___? (facere, you singular)", "a": "facis", "d": ["facit", "facio"], "ex": "Quid facis?", "exT": "What are you doing?" },
     { "c": "Pueri ___. (currere)", "a": "currunt", "d": ["currit", "currint"], "ex": "Pueri currunt.", "exT": "The boys are running." },
     { "c": "Ego te ___. (audire)", "a": "audio", "d": ["audit", "audis"], "ex": "Ego te audio.", "exT": "I hear you." },
-    { "c": "Nos epistulam ___. (scribere)", "a": "scribimus", "d": ["scribemus", "scribunt"], "ex": "Nos epistulam scribimus.", "exT": "We are writing a letter." },
+    { "c": "Nos epistulam ___. (scribere)", "a": "scribimus", "d": ["scribitis", "scribunt"], "ex": "Nos epistulam scribimus.", "exT": "We are writing a letter." },
     { "c": "Milites ___. (venire)", "a": "veniunt", "d": ["venunt", "venit"], "ex": "Milites veniunt.", "exT": "The soldiers are coming." },
     { "c": "Hostes ___. (fugere)", "a": "fugiunt", "d": ["fugunt", "fugit"], "ex": "Hostes fugiunt.", "exT": "The enemy flee." }
   ],

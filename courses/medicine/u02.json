@@ -183,7 +183,7 @@
    ]
   },
   {
-   "c": "Where the B12–intrinsic factor complex is absorbed",
+   "c": "Gut site where B12–intrinsic factor is absorbed",
    "a": "Ileum",
    "d": [
     "Duodenum",
@@ -199,7 +199,7 @@
    ]
   },
   {
-   "c": "Daily folic acid advised if pregnancy is possible",
+   "c": "Daily folic acid advised if pregnancy possible",
    "a": "400 mcg",
    "d": [
     "40 mcg",
@@ -255,7 +255,7 @@
    ]
   },
   {
-   "c": "Mineral at the oxygen-binding center of hemoglobin",
+   "c": "Mineral at the oxygen-binding site of hemoglobin",
    "a": "Iron",
    "d": [
     "Zinc",

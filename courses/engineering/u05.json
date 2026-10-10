@@ -160,7 +160,7 @@
       "d": [
         "zinc",
         "iron",
-        "aluminum"
+        "chromium"
       ]
     },
     {
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "c": "Metals with hexagonal close-packed (HCP) structure",
+      "c": "Two hexagonal close-packed (HCP) metals",
       "a": "magnesium and zinc",
       "d": [
         "aluminum and copper",

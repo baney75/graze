@@ -47,8 +47,8 @@
     ],
     "q": [
       { "q": "Which structure is the colored ring around the pupil?", "o": ["The iris", "The sclera", "The retina", "The lens"], "k": 0 },
-      { "q": "What does kerat/o mean in an eye term?", "o": ["Cornea", "Horny tissue", "Eyelid"], "k": 0 },
-      { "q": "Where are sound vibrations turned into nerve signals?", "o": ["In the cochlea", "In the eardrum", "In the ossicles"], "k": 0 }
+      { "q": "What does kerat/o mean in an eye term?", "o": ["Horny tissue", "Eyelid", "Cornea"], "k": 2 },
+      { "q": "Where are sound vibrations turned into nerve signals?", "o": ["In the eardrum", "In the cochlea", "In the ossicles"], "k": 1 }
     ]
   }
 }

@@ -6,7 +6,7 @@
     {"c": "oi", "a": "hi", "d": ["bye", "please"], "ex": "Oi, Paulo!", "exT": "Hi, Paulo!"},
     {"c": "olá", "a": "hello", "d": ["goodbye", "thanks"]},
     {"c": "bom dia", "a": "good morning", "d": ["good afternoon", "good night"], "ex": "Bom dia, Dona Maria!", "exT": "Good morning, Mrs. Maria!"},
-    {"c": "boa tarde", "a": "good afternoon", "d": ["good morning", "good evening"]},
+    {"c": "boa tarde", "a": "good afternoon", "d": ["good morning", "good night"]},
     {"c": "boa noite", "a": "good evening, good night", "d": ["good afternoon", "good morning"]},
     {"c": "tchau", "a": "bye", "d": ["hi", "thanks"], "ex": "Tchau, até amanhã!", "exT": "Bye, see you tomorrow!"},
     {"c": "até logo", "a": "see you later", "d": ["see you tomorrow", "good morning"], "ex": "Até logo, Ana!", "exT": "See you later, Ana!"},

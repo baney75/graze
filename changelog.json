@@ -1,5 +1,15 @@
 [
   {
+    "v": "5.0.1",
+    "date": "2026-10-09",
+    "name": "Checked",
+    "notes": [
+      "Independent reviews of 28 courses fixed several hundred items: distractors that were also correct, misquoted verses, wrong dates, accents and tone marks.",
+      "World Geography: every capital rechecked, map distractors are now real neighbors, flag distractors are real look-alikes, and Equatorial Guinea's new capital is in.",
+      "Reading questions no longer put the right answer in the same place."
+    ]
+  },
+  {
     "v": "5.0.0",
     "date": "2026-10-09",
     "name": "Library",

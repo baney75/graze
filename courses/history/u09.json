@@ -11,7 +11,7 @@
     { "c": "Johannes Kepler", "a": "Showed that planets move in ellipses", "d": ["Showed that blood circulates", "Showed that light is made of colors"] },
     { "c": "Galileo Galilei", "a": "Used a telescope to support heliocentrism", "d": ["Wrote the laws of planetary ellipses", "Founded the method of doubt"] },
     { "c": "Galileo tried by the Inquisition", "a": "1633", "d": ["1543", "1687", "1517"] },
-    { "c": "Isaac Newton", "a": "Formulated the laws of motion and universal gravitation", "d": ["Proved that planets orbit in ellipses", "Discovered the moons of Jupiter"] },
+    { "c": "Isaac Newton", "a": "Formulated the laws of motion and universal gravitation", "d": ["Proposed the first sun-centered system", "Discovered the moons of Jupiter"] },
     { "c": "Newton publishes the Principia", "a": "1687", "d": ["1543", "1633", "1776"] },
     { "c": "Francis Bacon", "a": "Championed experiment and inductive reasoning", "d": ["Championed deduction from first principles", "Championed absolute monarchy"] },
     { "c": "René Descartes", "a": "Philosopher of \"I think, therefore I am\"", "d": ["Philosopher of the social contract", "Astronomer of elliptical orbits"] },
@@ -43,8 +43,8 @@
       "These ideas spread through books, newspapers, coffeehouses and salons. Some monarchs, such as Catherine the Great, adopted reforms while keeping absolute power. Others faced revolutions led by people who had read Locke and Montesquieu."
     ],
     "q": [
-      { "q": "What did Newton's law of gravitation explain?", "o": ["Motion on Earth and in the heavens", "Only the motion of the moon", "Why planets move in circles", "Why the sun orbits Earth"], "k": 0 },
-      { "q": "Why did Montesquieu want power divided among branches?", "o": ["So no one could become a tyrant", "So kings could rule more efficiently", "So the church could choose judges", "So trade would grow faster"], "k": 0 },
+      { "q": "What did Newton's law of gravitation explain?", "o": ["Only the motion of the moon", "Motion on Earth and in the heavens", "Why planets move in circles", "Why the sun orbits Earth"], "k": 1 },
+      { "q": "Why did Montesquieu want power divided among branches?", "o": ["So kings could rule more efficiently", "So the church could choose judges", "So no one could become a tyrant", "So trade would grow faster"], "k": 2 },
       { "q": "What question linked the Scientific Revolution to the Enlightenment?", "o": ["Whether reason could find laws of government", "Whether the earth was flat", "Whether Latin should be used", "Whether colonies were profitable"], "k": 0 }
     ]
   }

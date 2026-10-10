@@ -273,22 +273,22 @@
       {
         "q": "According to the reading, what was the most important factor in the conquest of the Aztec and Inca?",
         "o": [
-          "Disease",
           "Steel weapons",
           "Horses",
-          "Naval power"
+          "Naval power",
+          "Disease"
         ],
-        "k": 0
+        "k": 3
       },
       {
         "q": "Why did Europeans want a sea route to Asia?",
         "o": [
-          "Spices passed through costly middlemen",
           "Asian rulers invited them",
           "Land routes were closed by Spain",
+          "Spices passed through costly middlemen",
           "They needed new farmland"
         ],
-        "k": 0
+        "k": 2
       },
       {
         "q": "Which is an example of the Columbian Exchange?",

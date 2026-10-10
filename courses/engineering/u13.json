@@ -57,7 +57,7 @@
       ]
     },
     {
-      "c": "Two redundant parts in parallel, each 0.9 reliable",
+      "c": "Two parallel redundant parts, each 0.9 reliable",
       "a": "0.99",
       "d": [
         "0.81",
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "c": "Tacoma Narrows deck feature that made it too flexible",
+      "c": "Why the Tacoma Narrows deck was so flexible",
       "a": "shallow solid plate girders instead of deep trusses",
       "d": [
         "concrete towers instead of steel",
@@ -254,7 +254,7 @@
     },
     {
       "c": "Why welded Liberty hulls let cracks run so far",
-      "a": "the welded hull had no plate seams to stop a crack",
+      "a": "the one-piece welded hull had no riveted joints to stop a crack",
       "d": [
         "welds always melt in cold water",
         "welding removed all carbon from the steel"

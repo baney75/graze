@@ -235,7 +235,7 @@
       "c": "Religion spread to China by Silk Road monks",
       "a": "Buddhism",
       "d": [
-        "Christianity",
+        "Jainism",
         "Islam",
         "Zoroastrianism"
       ]
@@ -268,32 +268,32 @@
       {
         "q": "What led Ashoka to embrace Buddhism?",
         "o": [
-          "The bloodshed of his own wars",
           "A Chinese monk's visit",
           "Pressure from the Brahmins",
-          "A famine in his empire"
+          "A famine in his empire",
+          "The bloodshed of his own wars"
         ],
-        "k": 0
+        "k": 3
       },
       {
         "q": "Which approach did the Qin use to unify China?",
         "o": [
-          "Legalism",
           "Confucianism",
+          "Legalism",
           "Daoism",
           "Buddhism"
         ],
-        "k": 0
+        "k": 1
       },
       {
         "q": "According to the reading, how did Buddhism reach China?",
         "o": [
-          "Monks traveled the Silk Roads",
           "Ashoka conquered China",
           "The Qin emperor invited it",
+          "Monks traveled the Silk Roads",
           "Sea traders from Rome"
         ],
-        "k": 0
+        "k": 2
       }
     ]
   }

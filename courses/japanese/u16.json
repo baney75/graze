@@ -287,20 +287,20 @@
       {
         "q": "In the morning, what comes right after washing the face?",
         "o": [
-          "Brushing teeth",
           "Taking a shower",
+          "Brushing teeth",
           "Eating breakfast"
         ],
-        "k": 0
+        "k": 1
       },
       {
         "q": "Which describes the younger sister?",
         "o": [
-          "Short hair and tall",
           "Long hair and big eyes",
+          "Short hair and tall",
           "Short hair and small eyes"
         ],
-        "k": 1
+        "k": 0
       },
       {
         "q": "Why does the sister stay home today?",

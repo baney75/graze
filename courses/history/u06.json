@@ -303,22 +303,22 @@
       {
         "q": "What built the power of Ghana, Mali and Songhai?",
         "o": [
-          "Control of the gold and salt trade",
           "Conquest of the Swahili Coast",
           "Alliance with the Ming",
+          "Control of the gold and salt trade",
           "Silk production"
         ],
-        "k": 0
+        "k": 2
       },
       {
         "q": "What did the Ming do after Zheng He's voyages?",
         "o": [
-          "Turned inward",
           "Conquered India",
+          "Turned inward",
           "Invaded Japan",
           "Allied with the Mongols"
         ],
-        "k": 0
+        "k": 1
       }
     ]
   }

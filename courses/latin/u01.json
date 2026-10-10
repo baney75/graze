@@ -3,8 +3,8 @@
   "note": "Latin has no j or w; this course writes consonant u as v (vir) and consonant i as i (iam). In Cicero's day c and g were always hard and v sounded like w. Church Latin, which the game's Italian voice approximates, says c before e, i or ae like ch (caelum: CHEH-lum) and ae like e.",
   "src": { "t": "Allen and Greenough, Alphabet", "u": "https://dcc.dickinson.edu/grammar/latin/alphabet" },
   "items": [
-    { "c": "salve", "a": "hello (to one person)", "d": ["goodbye (to one person)", "thank you"], "ex": "Salve, Marce!", "exT": "Hello, Marcus!" },
-    { "c": "salvete", "a": "hello (to several people)", "d": ["goodbye (to several people)", "listen (to several people)"], "ex": "Salvete, discipuli!", "exT": "Hello, students!" },
+    { "c": "salve", "a": "hello (to one person)", "d": ["please", "thank you"], "ex": "Salve, Marce!", "exT": "Hello, Marcus!" },
+    { "c": "salvete", "a": "hello (to several people)", "d": ["thank you all", "listen (to several people)"], "ex": "Salvete, discipuli!", "exT": "Hello, students!" },
     { "c": "vale", "a": "goodbye (to one person)", "d": ["hello (to one person)", "please"], "ex": "Vale, amice!", "exT": "Goodbye, friend!" },
     { "c": "valete", "a": "goodbye (to several people)", "d": ["hello (to several people)", "thank you all"] },
     { "c": "ave", "a": "hail; greetings", "d": ["alas", "be quiet"], "ex": "Ave, Caesar!", "exT": "Hail, Caesar!" },
@@ -35,7 +35,7 @@
     { "c": "church g before e or i (as in regina)", "a": "like g in gem", "d": ["like g in go", "like y in yes"] },
     { "c": "classical ae (as in puellae)", "a": "like ai in aisle", "d": ["like ee in see", "like oo in moon"] },
     { "c": "church ae (as in caelum)", "a": "like e in get", "d": ["like ai in aisle", "like oo in moon"] },
-    { "c": "i before a vowel (as in iam)", "a": "a consonant, like y in yes", "d": ["like j in jam", "silent"] },
+    { "c": "initial i before a vowel (as in iam)", "a": "a consonant, like y in yes", "d": ["like j in jam", "silent"] },
     { "c": "church gn (as in agnus)", "a": "like ny in canyon", "d": ["like gn in signal", "like n alone (silent g)"] },
     { "c": "stress in Latin (e.g. amicus)", "a": "next-to-last syllable if long, else the one before", "d": ["always the first syllable", "always the last syllable"], "ex": "a-MI-cus, DO-mi-nus", "exT": "Long i in amicus takes the stress; short i in dominus does not." }
   ]

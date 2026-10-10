@@ -1,6 +1,6 @@
 {
   "title": "εἰμί, 'to be', and first sentences",
-  "note": "εἰμί (I am): εἰμί, εἶ, ἐστί(ν), ἐσμέν, ἐστέ, εἰσί(ν); ἦν means 'was'. All but εἶ are enclitics: they lean on the word before and often lose their accent (Ἐγώ εἰμι). εἰμί links two nominatives, and the one with the article is the subject: θεὸς ἦν ὁ λόγος, 'the Word was God'. The verb 'is' is often left out.",
+  "note": "εἰμί (I am): εἰμί, εἶ, ἐστί(ν), ἐσμέν, ἐστέ, εἰσί(ν); ἦν means 'was'. In the present, all but εἶ are enclitics: they lean on the word before and often lose their accent (Ἐγώ εἰμι). εἰμί links two nominatives, and the one with the article is the subject: θεὸς ἦν ὁ λόγος, 'the Word was God'. The verb 'is' is often left out.",
   "src": {
     "t": "SBL Greek New Testament, John 1 (Bible Gateway)",
     "u": "https://www.biblegateway.com/passage/?search=John+1&version=SBLGNT"
@@ -14,7 +14,7 @@
         "we are"
       ],
       "r": "eimi",
-      "ex": "Ἐγώ εἰμι· μὴ φοβεῖσθε.",
+      "ex": "Ἐγώ εἰμι, μὴ φοβεῖσθε.",
       "exT": "It is I; do not be afraid."
     },
     {

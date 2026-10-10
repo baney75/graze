@@ -163,7 +163,7 @@
       "a": "venient",
       "d": [
         "venibunt",
-        "veniunt"
+        "veniebant"
       ],
       "ex": "Cras amici venient.",
       "exT": "Tomorrow the friends will come."
@@ -172,7 +172,7 @@
       "c": "Cras puer librum ___. (legere)",
       "a": "leget",
       "d": [
-        "legit",
+        "legebat",
         "legebit"
       ],
       "ex": "Cras puer librum leget.",
@@ -183,7 +183,7 @@
       "a": "eris",
       "d": [
         "eras",
-        "es"
+        "fuisti"
       ],
       "ex": "Cras ubi eris?",
       "exT": "Where will you be tomorrow?"

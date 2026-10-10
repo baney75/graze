@@ -1,6 +1,6 @@
 {
   "title": "Hiragana 2: ら to ん, voiced sounds, combinations",
-  "note": "゛ voices a sound: か ka → が ga, さ → ざ, た → だ, は → ば; ゜ gives p: ぱ pa. A small ゃ ゅ ょ joins the sign before it (きゃ kya), a small っ doubles the next consonant (きって kitte), and long vowels take a macron (がっこう gakkō). As particles, は is read wa, へ e and を o.",
+  "note": "゛ voices a sound: か ka → が ga, さ → ざ, た → だ, は → ば; ゜ gives p: ぱ pa. A small ゃ ゅ ょ joins the sign before it (きゃ kya), a small っ doubles the next consonant (きって kitte), and long vowels take a macron (がっこう gakkō), except いい, written ii. As particles, は is read wa, へ e and を o.",
   "src": { "t": "Tae Kim's Guide: Hiragana", "u": "https://guidetojapanese.org/learn/grammar/hiragana" },
   "items": [
     { "c": "ら", "a": "ra", "d": ["chi", "u"], "ex": "らいねん (rainen)", "exT": "next year" },

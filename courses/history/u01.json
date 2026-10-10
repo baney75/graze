@@ -15,7 +15,7 @@
     { "c": "Cuneiform", "a": "Wedge-shaped writing pressed into clay", "d": ["Picture writing painted on papyrus", "Knotted cords used to keep records"] },
     { "c": "Ziggurat", "a": "Stepped temple tower of Mesopotamia", "d": ["Stone tomb of an Egyptian pharaoh", "Walled citadel of an Indus city"] },
     { "c": "Epic of Gilgamesh", "a": "Mesopotamian epic about a king of Uruk", "d": ["Egyptian guide to the afterlife", "Greek poem about the Trojan War"] },
-    { "c": "Sargon of Akkad", "a": "Built the first empire, c. 2300 BCE", "d": ["Issued a famous law code, c. 1750 BCE", "Unified Upper and Lower Egypt"] },
+    { "c": "Sargon of Akkad", "a": "Founded the Akkadian Empire, c. 2300 BCE", "d": ["Issued a famous law code, c. 1750 BCE", "Unified Upper and Lower Egypt"] },
     { "c": "Hammurabi", "a": "Babylonian king known for a written law code", "d": ["Assyrian king who destroyed Babylon", "Persian king who freed the Jews"] },
     { "c": "Bronze", "a": "An alloy of copper and tin", "d": ["An alloy of iron and carbon", "An alloy of copper and zinc"] },
     { "c": "River whose yearly flood fed Egyptian farms", "a": "The Nile", "d": ["The Euphrates", "The Jordan", "The Indus"] },
@@ -45,8 +45,8 @@
       "The first cities rose in river valleys where floods left rich soil. In Sumer, between the Tigris and Euphrates, city-states such as Uruk and Ur built ziggurats and kept records in cuneiform. Along the Nile, Egypt became one kingdom ruled by a pharaoh and built the pyramids. In the Indus valley, planned cities like Mohenjo-Daro had grid streets and drains. On the Yellow River, the Shang kings wrote questions to their ancestors on oracle bones. Writing, cities, specialized work and organized government are the features historians use to define a civilization."
     ],
     "q": [
-      { "q": "What made it possible for some people to stop farming and take other jobs?", "o": ["A food surplus", "The invention of writing", "The arrival of nomads", "A drop in population"], "k": 0 },
-      { "q": "What did all four early civilizations in the reading have in common?", "o": ["They grew up in fertile river valleys", "They were ruled by the same dynasty", "They all used cuneiform", "They were founded by hunters from Europe"], "k": 0 },
+      { "q": "What made it possible for some people to stop farming and take other jobs?", "o": ["The invention of writing", "A food surplus", "The arrival of nomads", "A drop in population"], "k": 1 },
+      { "q": "What did all four early civilizations in the reading have in common?", "o": ["They were ruled by the same dynasty", "They all used cuneiform", "They grew up in fertile river valleys", "They were founded by hunters from Europe"], "k": 2 },
       { "q": "Where did the Shang kings record questions to their ancestors?", "o": ["On oracle bones", "On clay tablets", "On papyrus scrolls", "On temple walls"], "k": 0 }
     ]
   }

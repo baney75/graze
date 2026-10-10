@@ -1,6 +1,6 @@
 {
   "title": "Temperature, heat and thermodynamics",
-  "note": "Temperature measures the average kinetic energy of particles; heat is energy that flows because of a temperature difference. The first law, ΔU = Q − W (W is work done by the system), is energy conservation. The second law says entropy of an isolated system never decreases, which limits every heat engine below 100% efficiency.",
+  "note": "Temperature (in kelvin) is proportional to the average kinetic energy of particles; heat is energy that flows because of a temperature difference. The first law, ΔU = Q − W (W is work done by the system), is energy conservation. The second law says entropy of an isolated system never decreases, which limits every heat engine below 100% efficiency.",
   "src": { "t": "College Physics 2e, Ch. 15 Thermodynamics", "u": "https://openstax.org/books/college-physics-2e/pages/15-introduction-to-thermodynamics" },
   "items": [
     { "c": "Kelvin from Celsius", "a": "T(K) = T(°C) + 273.15", "d": ["T(K) = T(°C) − 273.15", "T(K) = 1.8 T(°C) + 32", "T(K) = T(°C) + 32"] },
@@ -41,9 +41,33 @@
       "The second law is different in kind. Heat flows on its own only from hot to cold, and the entropy of an isolated system never decreases. One consequence is that no heat engine can turn all of its input heat into work; some must be dumped into a colder reservoir. The best possible efficiency, the Carnot limit, is 1 − T_c/T_h. An engine running between 600 K and 300 K can never exceed 50% efficiency, no matter how cleverly it is built."
     ],
     "q": [
-      { "q": "Why does temperature stay constant while ice melts?", "o": ["The energy goes into breaking bonds", "No heat is being added", "Ice cannot absorb energy"], "k": 0 },
-      { "q": "What is the maximum efficiency of an engine between 600 K and 300 K?", "o": ["50%", "100%", "25%"], "k": 0 },
-      { "q": "What happens to a gas that expands and does work with no heat added?", "o": ["It cools", "It heats up", "Its temperature cannot change"], "k": 0 }
+      {
+        "q": "Why does temperature stay constant while ice melts?",
+        "o": [
+          "No heat is being added",
+          "The energy goes into breaking bonds",
+          "Ice cannot absorb energy"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What is the maximum efficiency of an engine between 600 K and 300 K?",
+        "o": [
+          "50%",
+          "100%",
+          "25%"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What happens to a gas that expands and does work with no heat added?",
+        "o": [
+          "It heats up",
+          "Its temperature cannot change",
+          "It cools"
+        ],
+        "k": 2
+      }
     ]
   }
 }

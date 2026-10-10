@@ -37,7 +37,7 @@
     { "c": "cyt/o", "a": "cell", "d": ["tissue", "organ"], "ex": "Cytology is the study of cells." },
     { "c": "hist/o", "a": "tissue", "d": ["cell", "internal organs"], "ex": "Histology is the study of tissues." },
     { "c": "viscer/o", "a": "internal organs", "d": ["tissue", "body wall"], "ex": "Visceral describes the internal organs." },
-    { "c": "lumbar region", "a": "lower back, between the ribs and hips", "d": ["neck", "tailbone"], "ex": "Lumbar vertebrae are numbered L1 to L5." }
+    { "c": "lumb/o", "a": "lower back, loin", "d": ["neck", "tailbone"], "ex": "Lumbar vertebrae are numbered L1 to L5." }
   ],
   "read": {
     "title": "One body, one reference point",
@@ -48,9 +48,9 @@
       "The abdomen is mapped either into four quadrants or into nine smaller regions. Because right and left always belong to the patient, the appendix sits in the right lower quadrant even though it appears on the examiner's left."
     ],
     "q": [
-      { "q": "A patient is lying on the back. Directions are still described as if the patient were:", "o": ["In anatomical position", "Prone", "Lying on the right side"], "k": 0 },
+      { "q": "A patient is lying on the back. Directions are still described as if the patient were:", "o": ["Prone", "In anatomical position", "Lying on the right side"], "k": 1 },
       { "q": "Which pair is used mainly to describe positions along a limb?", "o": ["Proximal and distal", "Medial and lateral", "Superficial and deep", "Anterior and posterior"], "k": 0 },
-      { "q": "Why is the appendix said to be in the right lower quadrant?", "o": ["Right and left refer to the patient's sides", "It lies on the examiner's right", "Quadrants are named from the back"], "k": 0 }
+      { "q": "Why is the appendix said to be in the right lower quadrant?", "o": ["It lies on the examiner's right", "Quadrants are named from the back", "Right and left refer to the patient's sides"], "k": 2 }
     ]
   }
 }

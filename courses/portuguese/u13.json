@@ -6,7 +6,7 @@
     {"c": "a roupa", "a": "the clothes, clothing", "d": ["the shoes", "the fabric"]},
     {"c": "a camisa", "a": "the shirt", "d": ["the T-shirt", "the skirt"], "ex": "Essa camisa é nova?", "exT": "Is that shirt new?"},
     {"c": "a camiseta", "a": "the T-shirt", "d": ["the shirt", "the jacket"]},
-    {"c": "a calça", "a": "the pants", "d": ["the shorts", "the socks"], "ex": "Essa calça é muito grande.", "exT": "These pants are too big."},
+    {"c": "a calça", "a": "the pants", "d": ["the shorts", "the socks"], "ex": "Essa calça é muito grande.", "exT": "These pants are very big."},
     {"c": "a saia", "a": "the skirt", "d": ["the dress", "the shirt"]},
     {"c": "o vestido", "a": "the dress", "d": ["the skirt", "the coat"], "ex": "Que vestido bonito!", "exT": "What a pretty dress!"},
     {"c": "o sapato", "a": "the shoe", "d": ["the sock", "the sneaker"], "ex": "Preciso de sapatos novos.", "exT": "I need new shoes."},

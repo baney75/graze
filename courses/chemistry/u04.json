@@ -37,7 +37,7 @@
     { "c": "Larger radius: Na or Na⁺?", "a": "Na, the neutral atom", "d": ["Na⁺, the cation"] },
     { "c": "Larger radius: Cl or Cl⁻?", "a": "Cl⁻, the anion", "d": ["Cl, the neutral atom"] },
     { "c": "Smallest of O²⁻, F⁻, Na⁺, Mg²⁺", "a": "Mg²⁺", "d": ["O²⁻", "F⁻", "Na⁺"], "ex": "In an isoelectronic series, more protons means a smaller radius." },
-    { "c": "More negative electron affinity: Cl or F?", "a": "Cl", "d": ["F"], "ex": "Fluorine's small 2p shell crowds an added electron." }
+    { "c": "More negative electron affinity: Cl or F?", "a": "Cl", "d": ["F"], "ex": "Fluorine's compact 2p subshell crowds an added electron." }
   ],
   "read": {
     "title": "Why the table has trends",

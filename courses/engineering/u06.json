@@ -57,7 +57,7 @@
       ]
     },
     {
-      "c": "Torque from 20 N on a 0.25 m wrench, perpendicular",
+      "c": "20 N at 90° on a 0.25 m wrench: torque?",
       "a": "5 N·m",
       "d": [
         "80 N·m",
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "c": "Pulley with 4 rope segments holding the load: ideal MA",
+      "c": "Ideal MA, 4 rope segments holding the load",
       "a": "4",
       "d": [
         "2",
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "c": "10-tooth gear drives 40-tooth gear: output torque",
+      "c": "10-tooth gear drives 40-tooth: output torque",
       "a": "four times the input torque",
       "d": [
         "one quarter of the input torque",

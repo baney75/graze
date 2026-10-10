@@ -290,10 +290,10 @@
         "q": "Where does the blind man wait?",
         "o": [
           "in the temple",
-          "on the road",
-          "in a house"
+          "in a house",
+          "on the road"
         ],
-        "k": 1
+        "k": 2
       },
       {
         "q": "What does the blind man say?",
@@ -307,11 +307,11 @@
       {
         "q": "What do the people say at the end?",
         "o": [
+          "God is great.",
           "The man is blind.",
-          "The Lord is coming.",
-          "God is great."
+          "The Lord is coming."
         ],
-        "k": 2
+        "k": 0
       }
     ]
   }

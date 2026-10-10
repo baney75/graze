@@ -27,7 +27,7 @@
     {"c": "esperar", "a": "to wait, to hope", "d": ["to hurry", "to arrive"]},
     {"c": "Que tal um cinema?", "a": "How about a movie?", "d": ["What was the movie about?", "Where is the movie theater?"]},
     {"c": "Amanhã eu ___ viajar. (ir)", "a": "vou", "d": ["vai", "fui"]},
-    {"c": "Nós ___ jantar fora hoje. (ir)", "a": "vamos", "d": ["vão", "fomos"]},
+    {"c": "Nós ___ jantar fora hoje. (ir)", "a": "vamos", "d": ["vão", "vai"]},
     {"c": "Eles ___ comprar um carro. (ir)", "a": "vão", "d": ["vai", "vamos"], "ex": "Eles vão comprar um carro novo.", "exT": "They're going to buy a new car."},
     {"c": "Eu ___ um café, por favor. (querer)", "a": "quero", "d": ["quer", "querem"]},
     {"c": "Vocês ___ ir à praia? (querer)", "a": "querem", "d": ["quer", "queremos"]},

@@ -284,7 +284,7 @@
     "text": [
       "Millions of organic compounds exist, but they behave in a few dozen predictable ways because reactivity lives in functional groups. A hydroxyl group reacts much the same in a two-carbon alcohol as in a twenty-carbon steroid. Chemists therefore write the unreactive carbon framework as R and focus on the group itself.",
       "Some groups contain only carbon: alkenes have a C=C, alkynes a C≡C, and arenes a benzene-type ring. Others put a single bond from carbon to an electronegative atom: alcohols (C–OH), ethers (C–O–C), alkyl halides (C–X), amines (C–N) and thiols (C–SH).",
-      "The largest family contains the carbonyl group, C=O. What sits next to the carbonyl decides the name. With a hydrogen it is an aldehyde; with two carbons, a ketone. With an OH it is a carboxylic acid, with an OR an ester, with a nitrogen an amide, and with a chlorine an acid chloride. The last four, which carry an electronegative atom on the carbonyl carbon, are the carboxylic acid derivatives, and they share a reaction pattern you will meet later: nucleophilic acyl substitution."
+      "The largest family contains the carbonyl group, C=O. What sits next to the carbonyl decides the name. With a hydrogen it is an aldehyde; with two carbons, a ketone. With an OH it is a carboxylic acid, with an OR an ester, with a nitrogen an amide, and with a chlorine an acid chloride. The last four carry an electronegative atom on the carbonyl carbon. Carboxylic acids and their derivatives share a reaction pattern you will meet later: nucleophilic acyl substitution."
     ],
     "q": [
       {

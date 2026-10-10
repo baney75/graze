@@ -49,9 +49,9 @@
       "Finally, -logy names a field of study and -logist names the specialist. Adjective endings such as -al, -ic, -ar and -ous add only 'pertaining to.'"
     ],
     "q": [
-      { "q": "A procedure that creates a new opening ends in which suffix?", "o": ["-stomy", "-tomy", "-ectomy", "-plasty"], "k": 0 },
+      { "q": "A procedure that creates a new opening ends in which suffix?", "o": ["-tomy", "-ectomy", "-stomy", "-plasty"], "k": 2 },
       { "q": "In the -graph, -gram, -graphy set, which one is the record itself?", "o": ["-gram", "-graph", "-graphy"], "k": 0 },
-      { "q": "Which suffix belongs to the condition family?", "o": ["-malacia", "-rrhaphy", "-scope", "-logist"], "k": 0 }
+      { "q": "Which suffix belongs to the condition family?", "o": ["-rrhaphy", "-malacia", "-scope", "-logist"], "k": 1 }
     ]
   }
 }

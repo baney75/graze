@@ -41,9 +41,33 @@
       "Friction is nonconservative. It still conserves total energy, but it converts mechanical energy into thermal energy that cannot easily be recovered. Power measures how fast energy is transferred; one watt is one joule per second."
     ],
     "q": [
-      { "q": "Why does a steady upward force do no work on a bag carried across a level room?", "o": ["The force is perpendicular to the motion", "The bag has no mass", "Friction cancels it"], "k": 0 },
-      { "q": "What determines the bottom speed of a skier on a frictionless hill?", "o": ["Only the height lost", "The steepness of the slope", "The length of the path"], "k": 0 },
-      { "q": "What does friction do to mechanical energy?", "o": ["Converts some into thermal energy", "Destroys total energy", "Turns it into potential energy"], "k": 0 }
+      {
+        "q": "Why does a steady upward force do no work on a bag carried across a level room?",
+        "o": [
+          "The bag has no mass",
+          "Friction cancels it",
+          "The force is perpendicular to the motion"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What determines the bottom speed of a skier on a frictionless hill?",
+        "o": [
+          "The steepness of the slope",
+          "Only the height lost",
+          "The length of the path"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What does friction do to mechanical energy?",
+        "o": [
+          "Converts some into thermal energy",
+          "Destroys total energy",
+          "Turns it into potential energy"
+        ],
+        "k": 0
+      }
     ]
   }
 }

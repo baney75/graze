@@ -1,6 +1,6 @@
 {
   "title": "Feelings and opinions",
-  "note": "Use estar for how you feel now, and make the adjective agree: Ele está cansado, Ela está cansada. Some feelings use estar com + noun: Estou com medo, Estou com saudade. Give opinions with Acho que... (I think that...), Para mim... (For me...) or Na minha opinião... After para, use mim, not eu.",
+  "note": "Use estar for how you feel now, and make the adjective agree: Ele está cansado, Ela está cansada. Some feelings use estar com + noun: Estou com medo, Estou com saudade. Give opinions with Acho que... (I think that...), Para mim... (For me...) or Na minha opinião... For me is para mim, not para eu.",
   "src": {"t": "Língua da Gente, Elementary 16: Dessert Makes Me Happy", "u": "https://linguadagente.coerll.utexas.edu/elementary-dessert-makes-me-happy/"},
   "items": [
     {"c": "feliz", "a": "happy", "d": ["sad", "tired"], "ex": "Estou muito feliz hoje.", "exT": "I'm very happy today."},

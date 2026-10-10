@@ -31,7 +31,7 @@
     { "c": "multi/para", "a": "woman who has given birth two or more times", "d": ["woman who has never given birth", "woman pregnant for the first time"] },
     { "c": "orchi/o, orchid/o, test/o", "a": "testis, testicle", "d": ["prostate gland", "scrotum"] },
     { "c": "prostat/o", "a": "prostate gland", "d": ["seminal vesicle", "testis"] },
-    { "c": "sperm/o, spermat/o", "a": "sperm", "d": ["semen", "egg"] },
+    { "c": "sperm/o, spermat/o", "a": "sperm", "d": ["testis", "egg"] },
     { "c": "andr/o", "a": "male", "d": ["female", "gland"] },
     { "c": "-genesis", "a": "production, formation", "d": ["destruction, breakdown", "removal"] },
     { "c": "spermat/o/genesis", "a": "production of sperm", "d": ["production of eggs", "release of semen"] },

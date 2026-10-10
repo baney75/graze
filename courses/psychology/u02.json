@@ -54,8 +54,8 @@
     ],
     "q": [
       { "q": "What happens when a stronger stimulus reaches a neuron above threshold?", "o": ["The spike gets taller", "The neuron fires more often", "The myelin thickens", "The resting charge becomes positive"], "k": 1 },
-      { "q": "Why does myelin speed up the signal?", "o": ["It releases extra neurotransmitter", "It lets the signal jump between gaps", "It removes the resting charge"], "k": 1 },
-      { "q": "What is reuptake?", "o": ["Binding of a chemical to a receptor", "Pumping leftover neurotransmitter back into the sender", "Firing of an action potential", "Growth of new dendrites"], "k": 1 }
+      { "q": "Why does myelin speed up the signal?", "o": ["It lets the signal jump between gaps", "It releases extra neurotransmitter", "It removes the resting charge"], "k": 0 },
+      { "q": "What is reuptake?", "o": ["Binding of a chemical to a receptor", "Firing of an action potential", "Pumping leftover neurotransmitter back into the sender", "Growth of new dendrites"], "k": 2 }
     ]
   }
 }

@@ -33,7 +33,7 @@
   "read": {
     "title": "Look-alikes that fail",
     "text": [
-      "A formal fallacy is an argument whose form is invalid, so you can spot it without knowing anything about the subject. The two most common imitate valid rules. Modus ponens says: if P then Q; P; so Q. Its look-alike, affirming the consequent, says: if P then Q; Q; so P. Suppose that if it rained, the street is wet. The street is wet. Did it rain? Not necessarily; a street sweeper may have passed.",
+      "A formal fallacy is an argument whose form is invalid, so you can spot it without knowing anything about the subject. The two most common imitate valid rules. Modus ponens says: if P then Q; P; so Q. Its look-alike, affirming the consequent, says: if P then Q; Q; so P. Suppose that if it rains, the street gets wet. The street is wet. Did it rain? Not necessarily; a street sweeper may have passed.",
       "Modus tollens says: if P then Q; not Q; so not P. Its look-alike, denying the antecedent, says: if P then Q; not P; so not Q. It did not rain, so the street is dry? Again, the sweeper shows the gap. The underlying lesson is that 'If P then Q' makes P sufficient for Q, not necessary for it.",
       "Categorical syllogisms have their own formal fallacies. 'All crooks lie; Al lies; so Al is a crook' commits the undistributed middle: the middle term, 'liars', is never used to say something about every liar, so crooks and Al might occupy different parts of that class.",
       "Remember that a bad argument does not prove its conclusion false. Al might be a crook after all. Concluding that a claim is false just because one argument for it fails is itself a mistake."

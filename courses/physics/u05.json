@@ -258,20 +258,20 @@
       {
         "q": "Why can't internal forces change a system's total momentum?",
         "o": [
-          "They come in pairs that cancel",
           "They are always small",
-          "They do no work"
+          "They do no work",
+          "They come in pairs that cancel"
         ],
-        "k": 0
+        "k": 2
       },
       {
         "q": "Which quantity is conserved in an inelastic collision with no external force?",
         "o": [
-          "Momentum",
           "Kinetic energy",
+          "Momentum",
           "Both momentum and kinetic energy"
         ],
-        "k": 0
+        "k": 1
       }
     ]
   }

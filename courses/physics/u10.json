@@ -172,7 +172,7 @@
       "a": "point that stays at zero displacement",
       "d": [
         "point of maximum displacement",
-        "point where the wave reflects"
+        "point that travels along with the wave"
       ]
     },
     {
@@ -289,20 +289,20 @@
       {
         "q": "What sets the speed of a wave?",
         "o": [
-          "The medium",
           "The source's frequency",
-          "The wave's amplitude"
+          "The wave's amplitude",
+          "The medium"
         ],
-        "k": 0
+        "k": 2
       },
       {
         "q": "What moves along a rope when a pulse travels down it?",
         "o": [
-          "Energy",
           "The rope itself",
+          "Energy",
           "Air molecules"
         ],
-        "k": 0
+        "k": 1
       },
       {
         "q": "Why does a guitar string sound only certain frequencies?",

@@ -231,7 +231,7 @@
    ]
   },
   {
-   "c": "90 of 100 affected people test positive: sensitivity?",
+   "c": "Sensitivity if 90 of 100 affected test positive",
    "a": "90%",
    "d": [
     "10%",

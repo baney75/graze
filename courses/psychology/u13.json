@@ -12,11 +12,11 @@
     { "c": "Self-serving bias", "a": "Crediting yourself for success, blaming situations for failure", "d": ["Blaming yourself for every failure", "Crediting luck for all your successes", "Assuming others think like you"] },
     { "c": "Just-world hypothesis", "a": "Belief that people get what they deserve", "d": ["Belief that luck decides everything", "Belief that groups decide better than individuals", "Belief that the situation explains all behavior"], "ex": "It can lead people to blame victims." },
     { "c": "Social norm", "a": "A group's expectations for appropriate behavior", "d": ["A person's stable personality trait", "A belief about a whole group", "A shortcut for estimating odds"] },
-    { "c": "Stanford prison experiment (Zimbardo, 1971)", "a": "Ended after six days as guards grew abusive", "d": ["Ran for two full years without problems", "Found that roles have no effect on behavior", "Showed that prisoners became the guards' leaders"] },
+    { "c": "Stanford prison experiment (Zimbardo, 1971)", "a": "Ended after six days as guards grew abusive", "d": ["Ran for two full years without problems", "Found that roles have no effect on behavior", "Showed that prisoners became the guards' leaders"], "ex": "Heavily criticized: guards were nudged toward harshness, and a 2002 BBC replication did not reproduce the abuse." },
     { "c": "Attitude", "a": "An evaluation of a person, idea or object", "d": ["A belief that cannot change", "A reflex triggered by others", "A trait inherited from parents"] },
     { "c": "Three components of an attitude (ABC)", "a": "Affective, behavioral and cognitive", "d": ["Attention, belief and conformity", "Arousal, bias and control", "Anchor, base rate and choice"] },
     { "c": "Cognitive dissonance", "a": "Discomfort from holding inconsistent beliefs or acts", "d": ["Pleasure from agreeing with a group", "Confusion caused by a noisy room", "Stress from too many choices"] },
-    { "c": "Festinger-Carlsmith: who liked the dull task?", "a": "Those paid $1 to praise it", "d": ["Those paid $20 to praise it", "Those paid nothing and told nothing", "Both paid groups equally"], "ex": "A tiny payment could not justify the lie, so attitudes shifted instead." },
+    { "c": "Festinger-Carlsmith: who liked the dull task?", "a": "Those paid $1 to praise it", "d": ["Those paid $20 to praise it", "Those paid nothing and told nothing", "Both paid groups equally"], "ex": "A tiny payment could not justify the lie, so attitudes shifted. A 2024 multilab test of this paradigm failed to replicate it." },
     { "c": "Effort justification", "a": "Valuing something more because it cost effort", "d": ["Working less in a large group", "Giving reasons for a choice afterward", "Agreeing to a small favor first"] },
     { "c": "Central route to persuasion", "a": "Persuasion through strong arguments and evidence", "d": ["Persuasion through celebrity appeal", "Persuasion through repetition alone", "Persuasion through catchy music"], "ex": "It tends to produce more lasting attitude change." },
     { "c": "Peripheral route to persuasion", "a": "Persuasion through cues like attractiveness or mood", "d": ["Persuasion through careful data", "Persuasion through logical debate", "Persuasion through personal experience"] },
@@ -27,7 +27,7 @@
     { "c": "Normative social influence", "a": "Going along with a group to be accepted", "d": ["Going along because the group seems correct", "Obeying a legitimate authority", "Working less when effort is pooled"] },
     { "c": "Informational social influence", "a": "Going along because the group seems to know best", "d": ["Going along to avoid being rejected", "Doing more work when watched", "Feeling anonymous in a crowd"], "ex": "It is strongest when a situation is ambiguous." },
     { "c": "Milgram: share who went to the maximum 450 volts", "a": "About 65%", "d": ["About 1%", "About 25%", "About 95%"] },
-    { "c": "Milgram variation that cut obedience most", "a": "Experimenter gave orders by phone", "d": ["Study moved to an office building", "Experimenter wore a lab coat", "Learner stayed in another room"], "ex": "Obedience fell to about 23%." },
+    { "c": "Milgram variation: obedience fell to 23%", "a": "Experimenter gave orders by phone", "d": ["Experimenter wore a lab coat", "Learner stayed in another room", "Learner mentioned a heart condition"], "ex": "Authority at a distance lost its pull; the learner's touch-proximity cut obedience to 30%." },
     { "c": "Groupthink", "a": "Seeking group harmony at the cost of critical thinking", "d": ["A group's views becoming more extreme", "Working harder when others watch", "Losing self-awareness in a crowd"] },
     { "c": "Group polarization", "a": "Discussion strengthens a group's initial leaning", "d": ["Discussion moves a group to the middle", "Groups always choose the safest option", "Members drop out of the group"] },
     { "c": "Social facilitation", "a": "Better performance on easy tasks when others watch", "d": ["Worse performance on easy tasks when watched", "Less effort on pooled group tasks", "Copying the choices of a crowd"] },
@@ -54,8 +54,8 @@
     ],
     "q": [
       { "q": "Why was conformity in Asch's study mostly normative?", "o": ["The task was ambiguous", "The answer was obvious, so people went along to fit in", "Participants were paid to agree", "The actors were experts"], "k": 1 },
-      { "q": "What reduced obedience in Milgram's research?", "o": ["Using larger shocks", "The experimenter giving orders by phone", "Telling participants the shocks were real"], "k": 1 },
-      { "q": "According to the reading, these studies mainly show that", "o": ["Most people are cruel", "Situations shape behavior more than we expect", "Conformity never happens in private", "Traits explain all behavior"], "k": 1 }
+      { "q": "What reduced obedience in Milgram's research?", "o": ["Using larger shocks", "Telling participants the shocks were real", "The experimenter giving orders by phone"], "k": 2 },
+      { "q": "According to the reading, these studies mainly show that", "o": ["Situations shape behavior more than we expect", "Most people are cruel", "Conformity never happens in private", "Traits explain all behavior"], "k": 0 }
     ]
   }
 }

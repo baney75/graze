@@ -5,7 +5,7 @@
   "note": "Europe runs from the Atlantic to the Ural Mountains. Fix the big shapes first: the Iberian, Italian and Scandinavian peninsulas and the British Isles, then fill in Central Europe and the Balkans between them. Microstates such as Vatican City, Monaco and San Marino come in the capital units.",
   "src": {
     "t": "Natural Earth 1:50m boundaries via world-atlas",
-    "u": "https://github.com/topojson/world-atlas"
+    "u": "https://npmjs.com/package/world-atlas"
   },
   "items": [
     { "p": "GB", "a": "United Kingdom", "d": ["Ireland", "Netherlands", "Belgium"] },
@@ -20,7 +20,7 @@
     { "p": "PT", "a": "Portugal", "d": ["Spain", "Ireland", "France"] },
     { "p": "ES", "a": "Spain", "d": ["Portugal", "France", "Switzerland"] },
     { "p": "IT", "a": "Italy", "d": ["Croatia", "Bosnia and Herzegovina", "Slovenia"] },
-    { "p": "MT", "a": "Malta", "d": ["Italy", "Albania", "Greece"] },
+    { "p": "MT", "a": "Malta", "d": ["Cyprus", "Italy", "Greece"] },
     { "p": "IS", "a": "Iceland", "d": ["Ireland", "United Kingdom", "Netherlands"] },
     { "p": "NO", "a": "Norway", "d": ["Sweden", "Denmark", "Finland"] },
     { "p": "SE", "a": "Sweden", "d": ["Norway", "Estonia", "Denmark"] },
@@ -29,7 +29,7 @@
     { "p": "PL", "a": "Poland", "d": ["Slovakia", "Czechia", "Lithuania"] },
     { "p": "CZ", "a": "Czechia", "d": ["Austria", "Poland", "Slovakia"] },
     { "p": "SK", "a": "Slovakia", "d": ["Hungary", "Poland", "Czechia"] },
-    { "p": "HU", "a": "Hungary", "d": ["Slovakia", "Serbia", "Bosnia and Herzegovina"] },
+    { "p": "HU", "a": "Hungary", "d": ["Slovakia", "Romania", "Serbia"] },
     { "p": "SI", "a": "Slovenia", "d": ["Austria", "Croatia", "Bosnia and Herzegovina"] },
     { "p": "HR", "a": "Croatia", "d": ["Bosnia and Herzegovina", "Slovenia", "Montenegro"] },
     { "p": "BA", "a": "Bosnia and Herzegovina", "d": ["Croatia", "Montenegro", "Serbia"] },
@@ -42,11 +42,11 @@
     { "p": "RO", "a": "Romania", "d": ["Moldova", "Bulgaria", "Serbia"] },
     { "p": "MD", "a": "Moldova", "d": ["Ukraine", "Romania", "Bulgaria"] },
     { "p": "UA", "a": "Ukraine", "d": ["Moldova", "Romania", "Belarus"] },
-    { "p": "BY", "a": "Belarus", "d": ["Lithuania", "Latvia", "Estonia"] },
+    { "p": "BY", "a": "Belarus", "d": ["Lithuania", "Ukraine", "Poland"] },
     { "p": "LT", "a": "Lithuania", "d": ["Latvia", "Estonia", "Belarus"] },
     { "p": "LV", "a": "Latvia", "d": ["Estonia", "Lithuania", "Belarus"] },
     { "p": "EE", "a": "Estonia", "d": ["Latvia", "Lithuania", "Finland"] },
-    { "p": "RU", "a": "Russia", "d": ["Ukraine", "Cyprus", "Moldova"] },
-    { "p": "CY", "a": "Cyprus", "d": ["Greece", "Bulgaria", "North Macedonia"] }
+    { "p": "RU", "a": "Russia", "d": ["Ukraine", "Belarus", "Kazakhstan"] },
+    { "p": "CY", "a": "Cyprus", "d": ["Malta", "Lebanon", "Greece"] }
   ]
 }
