@@ -24,6 +24,14 @@ jobs:
           node-version: 20
       - name: Build and check
         run: npm test
+      - name: Publish from this workflow, not from the branch
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          src=$(gh api repos/${{ github.repository }}/pages --jq .build_type || true)
+          echo "Pages build type: $src"
+          if [ "$src" != "workflow" ]; then gh api -X PUT repos/${{ github.repository }}/pages -f build_type=workflow && echo "Switched Pages to GitHub Actions"; fi
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
