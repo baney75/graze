@@ -43,5 +43,19 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - name: Let a branch build finish first, so this deploy lands last
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          type=$(gh api repos/${{ github.repository }}/pages --jq .build_type || echo unknown)
+          echo "Pages build type: $type"
+          [ "$type" = "workflow" ] && exit 0
+          for i in $(seq 1 40); do
+            read -r st sha <<< "$(gh api repos/${{ github.repository }}/pages/builds/latest --jq '.status + " " + .commit' 2>/dev/null || echo 'none none')"
+            echo "branch build: $st $sha"
+            if [ "$sha" = "${{ github.sha }}" ] && { [ "$st" = "built" ] || [ "$st" = "errored" ]; }; then sleep 15; exit 0; fi
+            sleep 6
+          done
       - id: deployment
         uses: actions/deploy-pages@v4
