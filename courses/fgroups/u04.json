@@ -145,7 +145,7 @@
       ]
     },
     {
-      "c": "NH₂⁻ (conj. acid pKa 36) with a terminal alkyne (25)",
+      "c": "NH₂⁻ (conj. acid pKa 35–38) with a terminal alkyne (25)",
       "a": "proton transfer favored",
       "d": [
         "no appreciable reaction"
@@ -225,7 +225,7 @@
     "title": "Climbing down the pKa ladder",
     "text": [
       "Every proton transfer is a contest, and the pKa table tells you who wins. Acids sit on a ladder: HCl near −7, carboxylic acids at 4–5, phenols and alkylammonium ions around 10, water at 15.7, alcohols at 16–18, ketone α-hydrogens at 19–20, terminal alkynes at 25, ammonia at about 35–38, alkene C–H bonds in the mid-40s, and alkanes around 50 or higher. Textbooks differ by a unit or two on some entries, so trust the ordering more than any single digit.",
-      "The rule: an equilibrium favors the weaker acid, the one with the higher pKa. A base can deprotonate an acid only if the base's conjugate acid sits higher on the ladder. Hydroxide, whose conjugate acid is water at 15.7, takes a proton from acetic acid completely but barely touches an alkyne. Amide ion, NH₂⁻, with a conjugate acid near 36, does deprotonate an alkyne.",
+      "The rule: an equilibrium favors the weaker acid, the one with the higher pKa. A base can deprotonate an acid only if the base's conjugate acid sits higher on the ladder. Hydroxide, whose conjugate acid is water at 15.7, takes a proton from acetic acid completely but barely touches an alkyne. Amide ion, NH₂⁻, with a conjugate acid near 35 to 38, does deprotonate an alkyne.",
       "Why does the ladder look like this? Look at the conjugate base. Resonance spreads charge in carboxylates and phenoxides. Electronegativity favors O over N over C across a row. Size favors I over F down a column. Inductive withdrawal by nearby halogens stabilizes the anion. Hybridization matters too: sp carbon has more s character, which holds the lone pair closer to the nucleus."
     ],
     "q": [
