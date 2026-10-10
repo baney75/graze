@@ -1,0 +1,281 @@
+{
+  "title": "Likes, wants, skills and feelings",
+  "note": "好き, きらい, 上手, 下手 and できます mark their object with が: 猫が好きです. To want a thing is ほしいです (車がほしいです); to want to do something, add たいです to the verb stem (食べたいです). たい works like an い-adjective: 行きたくないです. 〜と思います means \"I think that...\"",
+  "src": {
+    "t": "Tae Kim's Guide to Learning Japanese",
+    "u": "https://guidetojapanese.org/learn/grammar"
+  },
+  "items": [
+    {
+      "c": "好き(な)",
+      "r": "suki (na)",
+      "say": "好き",
+      "a": "liked; to like",
+      "d": [
+        "disliked; to dislike",
+        "skilled at"
+      ],
+      "ex": "(すき) 私は猫が好きです。",
+      "exT": "I like cats."
+    },
+    {
+      "c": "きらい(な)",
+      "r": "kirai (na)",
+      "say": "きらい",
+      "a": "disliked; to dislike",
+      "d": [
+        "liked; to like",
+        "bad at"
+      ]
+    },
+    {
+      "c": "大好き(な)",
+      "r": "daisuki (na)",
+      "say": "大好き",
+      "a": "to love, like very much",
+      "d": [
+        "to hate",
+        "to not care about"
+      ]
+    },
+    {
+      "c": "上手(な)",
+      "r": "jōzu (na)",
+      "say": "上手",
+      "a": "good at, skillful",
+      "d": [
+        "bad at, unskillful",
+        "fond of"
+      ]
+    },
+    {
+      "c": "下手(な)",
+      "r": "heta (na)",
+      "say": "下手",
+      "a": "bad at, unskillful",
+      "d": [
+        "good at, skillful",
+        "disliked"
+      ]
+    },
+    {
+      "c": "ほしい",
+      "r": "hoshii",
+      "a": "want (a thing)",
+      "d": [
+        "want to (do something)",
+        "like (something)"
+      ]
+    },
+    {
+      "c": "できます",
+      "r": "dekimasu",
+      "a": "can do, be able to",
+      "d": [
+        "must do",
+        "want to do"
+      ],
+      "ex": "ピアノができます。",
+      "exT": "I can play the piano."
+    },
+    {
+      "c": "趣味",
+      "r": "shumi",
+      "a": "hobby",
+      "d": [
+        "job",
+        "dream"
+      ],
+      "ex": "(しゅみ) 趣味は写真です。",
+      "exT": "My hobby is photography."
+    },
+    {
+      "c": "スポーツ",
+      "r": "supōtsu",
+      "a": "sports",
+      "d": [
+        "music",
+        "games"
+      ]
+    },
+    {
+      "c": "歌",
+      "r": "uta",
+      "a": "song",
+      "d": [
+        "dance",
+        "voice"
+      ]
+    },
+    {
+      "c": "歌います",
+      "r": "utaimasu",
+      "a": "sing",
+      "d": [
+        "dance",
+        "listen"
+      ]
+    },
+    {
+      "c": "泳ぎます",
+      "r": "oyogimasu",
+      "a": "swim",
+      "d": [
+        "run",
+        "walk"
+      ]
+    },
+    {
+      "c": "写真",
+      "r": "shashin",
+      "a": "photo",
+      "d": [
+        "painting",
+        "movie"
+      ]
+    },
+    {
+      "c": "うれしい",
+      "r": "ureshii",
+      "a": "happy, glad",
+      "d": [
+        "sad",
+        "lonely"
+      ],
+      "ex": "プレゼント、ありがとう。うれしいです。",
+      "exT": "Thanks for the present. I'm so happy."
+    },
+    {
+      "c": "悲しい",
+      "r": "kanashii",
+      "a": "sad",
+      "d": [
+        "happy, glad",
+        "scary"
+      ]
+    },
+    {
+      "c": "寂しい",
+      "r": "sabishii",
+      "a": "lonely",
+      "d": [
+        "happy, glad",
+        "busy"
+      ]
+    },
+    {
+      "c": "怖い",
+      "r": "kowai",
+      "a": "scary; afraid",
+      "d": [
+        "fun",
+        "sad"
+      ]
+    },
+    {
+      "c": "忙しい",
+      "r": "isogashii",
+      "a": "busy",
+      "d": [
+        "free (not busy)",
+        "tired"
+      ]
+    },
+    {
+      "c": "食べたいです",
+      "r": "tabetai desu",
+      "a": "I want to eat.",
+      "d": [
+        "I ate.",
+        "Let's eat."
+      ]
+    },
+    {
+      "c": "行きたくないです",
+      "r": "ikitakunai desu",
+      "a": "I don't want to go.",
+      "d": [
+        "I didn't go.",
+        "I want to go."
+      ]
+    },
+    {
+      "c": "趣味は何ですか。",
+      "r": "Shumi wa nan desu ka.",
+      "a": "What are your hobbies?",
+      "d": [
+        "What is your job?",
+        "What do you want?"
+      ]
+    },
+    {
+      "c": "日本語が上手ですね。",
+      "r": "Nihongo ga jōzu desu ne.",
+      "a": "Your Japanese is good!",
+      "d": [
+        "Japanese is easy, isn't it?",
+        "You like Japanese, don't you?"
+      ]
+    },
+    {
+      "c": "いいえ、まだまだです。",
+      "r": "Iie, madamada desu.",
+      "a": "No, I still have a long way to go.",
+      "d": [
+        "No, I'm not Japanese.",
+        "No, I haven't eaten yet."
+      ]
+    },
+    {
+      "c": "面白いと思います。",
+      "r": "Omoshiroi to omoimasu.",
+      "a": "I think it's interesting.",
+      "d": [
+        "It's interesting, isn't it?",
+        "I don't think it's interesting."
+      ]
+    },
+    {
+      "c": "私は猫___好きです。",
+      "r": "Watashi wa neko ___ suki desu.",
+      "a": "が",
+      "d": [
+        "を",
+        "で"
+      ],
+      "ex": "私は猫が好きです。",
+      "exT": "I like cats."
+    },
+    {
+      "c": "日本へ行き___です。(want to)",
+      "r": "Nihon e iki___ desu.",
+      "a": "たい",
+      "d": [
+        "ます",
+        "ほしい"
+      ],
+      "ex": "日本へ行きたいです。",
+      "exT": "I want to go to Japan."
+    },
+    {
+      "c": "新しい車が___です。(want)",
+      "r": "Atarashii kuruma ga ___ desu.",
+      "a": "ほしい",
+      "d": [
+        "たい",
+        "ます"
+      ]
+    },
+    {
+      "c": "日本語が少し___。(can)",
+      "r": "Nihongo ga sukoshi ___.",
+      "a": "できます",
+      "d": [
+        "します",
+        "あります"
+      ],
+      "ex": "日本語が少しできます。",
+      "exT": "I can speak a little Japanese."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "key": "japanese",
+  "name": "Japanese",
+  "group": "Languages",
+  "tag": "日本語",
+  "lang": "ja-JP",
+  "speak": "recognize",
+  "level": "Beginner to A2 (JLPT N5)",
+  "blurb": "Read hiragana and katakana, then build JLPT N5 vocabulary and polite です/ます Japanese: the particles は が を に で へ の も, present and past verb forms, the て-form, and い and な adjectives.",
+  "sources": [
+    { "t": "Tae Kim's Guide to Learning Japanese", "u": "https://guidetojapanese.org/learn/grammar" },
+    { "t": "Jisho.org Japanese dictionary (JMdict, EDRDG)", "u": "https://jisho.org/" },
+    { "t": "IRODORI: Japanese for Life in Japan, The Japan Foundation", "u": "https://www.irodori.jpf.go.jp/en/" },
+    { "t": "Wiktionary, Japanese entries", "u": "https://en.wiktionary.org/wiki/%E9%A3%9F%E3%81%B9%E3%82%8B" },
+    { "t": "JLPT N1 to N5 level summary, Japan Foundation and JEES", "u": "https://www.jlpt.jp/e/about/levelsummary.html" },
+    { "t": "Hepburn romanization (modified Hepburn rules), Wikipedia", "u": "https://en.wikipedia.org/wiki/Hepburn_romanization" }
+  ]
+}

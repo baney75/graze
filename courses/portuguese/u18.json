@@ -1,0 +1,79 @@
+{
+  "title": "Future and plans, wanting and being able",
+  "note": "For plans, use ir + infinitive: Vou viajar (I'm going to travel). Querer and poder also take a plain infinitive: Quero comer, Posso entrar? Present forms: vou, vai, vamos, vão; quero, quer, queremos, querem; posso, pode, podemos, podem. Vamos + infinitive can also mean let's.",
+  "src": {"t": "Língua da Gente, Elementary 71: Going to the Beach", "u": "https://linguadagente.coerll.utexas.edu/elementary-going-to-the-beach/"},
+  "items": [
+    {"c": "Vou viajar.", "a": "I'm going to travel.", "d": ["I traveled.", "I travel a lot."], "ex": "Em julho vou viajar.", "exT": "In July I'm going to travel."},
+    {"c": "Vamos dormir!", "a": "Let's go to sleep!", "d": ["We slept!", "We're sleeping!"]},
+    {"c": "O que você vai fazer amanhã?", "a": "What are you going to do tomorrow?", "d": ["What did you do yesterday?", "What do you do every day?"], "ex": "O que você vai fazer amanhã? Vou trabalhar.", "exT": "What are you doing tomorrow? I'm going to work."},
+    {"c": "Vou ficar em casa.", "a": "I'm going to stay home.", "d": ["I'm going home.", "I want to go out."]},
+    {"c": "Quero aprender português.", "a": "I want to learn Portuguese.", "d": ["I can speak Portuguese.", "I have to learn Portuguese."]},
+    {"c": "Posso entrar?", "a": "May I come in?", "d": ["May I leave?", "Do you want to come in?"], "ex": "Com licença, posso entrar?", "exT": "Excuse me, may I come in?"},
+    {"c": "Você pode me ajudar?", "a": "Can you help me?", "d": ["Do you want to help me?", "Did you help me?"], "ex": "Com licença, você pode me ajudar?", "exT": "Excuse me, can you help me?"},
+    {"c": "Não posso.", "a": "I can't.", "d": ["I don't want to.", "I don't know."], "ex": "Hoje não posso, tenho que trabalhar.", "exT": "I can't today, I have to work."},
+    {"c": "Não quero.", "a": "I don't want to.", "d": ["I can't.", "I don't like it."]},
+    {"c": "Tenho que trabalhar.", "a": "I have to work.", "d": ["I want to work.", "I like to work."], "ex": "Desculpa, tenho que trabalhar amanhã.", "exT": "Sorry, I have to work tomorrow."},
+    {"c": "o plano", "a": "the plan", "d": ["the map", "the dream"]},
+    {"c": "as férias", "a": "the vacation", "d": ["the weekend", "the public holiday"], "ex": "Nas férias, vamos para a praia.", "exT": "On vacation, we're going to the beach."},
+    {"c": "o feriado", "a": "the public holiday", "d": ["the vacation", "the weekend"]},
+    {"c": "a festa", "a": "the party", "d": ["the trip", "the meeting"]},
+    {"c": "a semana que vem", "a": "next week", "d": ["last week", "this week"]},
+    {"c": "o ano que vem", "a": "next year", "d": ["last year", "the new year"]},
+    {"c": "daqui a pouco", "a": "in a little while", "d": ["a little while ago", "a little more"], "ex": "Eu volto daqui a pouco.", "exT": "I'll be back in a little while."},
+    {"c": "talvez", "a": "maybe", "d": ["never", "of course"], "ex": "Talvez amanhã.", "exT": "Maybe tomorrow."},
+    {"c": "com certeza", "a": "definitely, for sure", "d": ["maybe", "hardly ever"]},
+    {"c": "convidar", "a": "to invite", "d": ["to visit", "to celebrate"], "ex": "Vou convidar a Ana para a festa.", "exT": "I'm going to invite Ana to the party."},
+    {"c": "visitar", "a": "to visit", "d": ["to invite", "to travel"]},
+    {"c": "esperar", "a": "to wait, to hope", "d": ["to hurry", "to arrive"]},
+    {"c": "Que tal um cinema?", "a": "How about a movie?", "d": ["What was the movie about?", "Where is the movie theater?"]},
+    {"c": "Amanhã eu ___ viajar. (ir)", "a": "vou", "d": ["vai", "fui"]},
+    {"c": "Nós ___ jantar fora hoje. (ir)", "a": "vamos", "d": ["vão", "fomos"]},
+    {"c": "Eles ___ comprar um carro. (ir)", "a": "vão", "d": ["vai", "vamos"], "ex": "Eles vão comprar um carro novo.", "exT": "They're going to buy a new car."},
+    {"c": "Eu ___ um café, por favor. (querer)", "a": "quero", "d": ["quer", "querem"]},
+    {"c": "Vocês ___ ir à praia? (querer)", "a": "querem", "d": ["quer", "queremos"]},
+    {"c": "Você ___ vir amanhã? (poder)", "a": "pode", "d": ["posso", "podem"]},
+    {"c": "Eu não ___ sair hoje. (poder)", "a": "posso", "d": ["pode", "podo"]},
+    {"c": "Ela vai ___ amanhã. (chegar)", "a": "chegar", "d": ["chega", "chegou"]}
+  ],
+  "read": {
+    "title": "Planos para o feriado",
+    "text": [
+      "Na próxima sexta-feira é feriado, e a Bia e o Rafael vão ter um fim de semana de três dias. Eles querem viajar.",
+      "O Rafael quer ir para a praia, mas a previsão do tempo diz que vai chover lá. A Bia prefere visitar os avós dela em Minas Gerais. Lá não vai chover, e a avó faz um pão de queijo delicioso.",
+      "\"Tá bom\", diz o Rafael. \"Vamos para Minas. Mas eu não posso dirigir: meu carro está no mecânico.\"",
+      "\"Sem problema\", responde a Bia. \"A gente pode pegar o ônibus. A rodoviária fica perto daqui.\"",
+      "Eles vão sair na sexta de manhã e voltar no domingo à noite."
+    ],
+    "q": [
+      {
+        "q": "Why don't they go to the beach?",
+        "o": [
+          "It is too expensive",
+          "Rain is forecast there",
+          "Bia doesn't like the beach",
+          "The beach is too far"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why can't Rafael drive?",
+        "o": [
+          "He doesn't have a license",
+          "He is sick",
+          "His car is at the mechanic's"
+        ],
+        "k": 2
+      },
+      {
+        "q": "How are they going to travel?",
+        "o": [
+          "By bus",
+          "By plane",
+          "By car",
+          "By train"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

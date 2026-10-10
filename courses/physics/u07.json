@@ -1,0 +1,292 @@
+{
+  "title": "Rotation and torque",
+  "note": "Rotation mirrors straight-line motion: angle for position, ω for velocity, α for acceleration, torque for force, and moment of inertia for mass. Torque depends on where and at what angle a force is applied. With no net external torque, angular momentum L = Iω is conserved.",
+  "src": {
+    "t": "College Physics 2e, Ch. 10 Rotational Motion and Angular Momentum",
+    "u": "https://openstax.org/books/college-physics-2e/pages/10-introduction-to-rotational-motion-and-angular-momentum"
+  },
+  "items": [
+    {
+      "c": "Torque",
+      "a": "τ = rF sin θ",
+      "d": [
+        "τ = rF cos θ",
+        "τ = F/r",
+        "τ = mr²"
+      ]
+    },
+    {
+      "c": "SI unit of torque",
+      "a": "N·m",
+      "d": [
+        "N/m",
+        "kg·m/s",
+        "N·s"
+      ]
+    },
+    {
+      "c": "Lever arm of a force",
+      "a": "perpendicular distance from axis to the force's line",
+      "d": [
+        "length of the force vector",
+        "distance along the force from its tail"
+      ]
+    },
+    {
+      "c": "Where to push a door for the least force",
+      "a": "far from the hinges, perpendicular to the door",
+      "d": [
+        "near the hinges, perpendicular to the door",
+        "far from the hinges, directed along the door"
+      ]
+    },
+    {
+      "c": "Conditions for static equilibrium",
+      "a": "net force and net torque both zero",
+      "d": [
+        "net force zero, net torque nonzero",
+        "net torque zero, net force nonzero"
+      ]
+    },
+    {
+      "c": "Center of gravity",
+      "a": "point where the total weight effectively acts",
+      "d": [
+        "point where the object is densest",
+        "point closest to the ground"
+      ]
+    },
+    {
+      "c": "An object resting on a base tips over when",
+      "a": "its center of gravity moves beyond its base",
+      "d": [
+        "its center of gravity rises at all",
+        "its base becomes wider"
+      ]
+    },
+    {
+      "c": "Seesaw: 30 kg at 2 m balances 20 kg at",
+      "a": "3 m from the pivot",
+      "d": [
+        "2 m from the pivot",
+        "1.33 m from the pivot",
+        "4 m from the pivot"
+      ]
+    },
+    {
+      "c": "Rotational form of Newton's second law",
+      "a": "τ_net = Iα",
+      "d": [
+        "τ_net = Iω",
+        "τ_net = mα",
+        "τ_net = Iω²"
+      ]
+    },
+    {
+      "c": "Rotational analog of mass",
+      "a": "moment of inertia",
+      "d": [
+        "torque",
+        "angular momentum",
+        "angular velocity"
+      ]
+    },
+    {
+      "c": "Rotational analog of force",
+      "a": "torque",
+      "d": [
+        "moment of inertia",
+        "angular momentum",
+        "angular displacement"
+      ]
+    },
+    {
+      "c": "Rotational analog of v = v₀ + at",
+      "a": "ω = ω₀ + αt",
+      "d": [
+        "θ = θ₀ + ωt",
+        "ω = ω₀ + ½αt²",
+        "α = α₀ + ωt"
+      ]
+    },
+    {
+      "c": "SI unit of angular acceleration",
+      "a": "rad/s²",
+      "d": [
+        "rad/s",
+        "m/s²",
+        "rev/min"
+      ]
+    },
+    {
+      "c": "Tangential acceleration from α",
+      "a": "a_t = rα",
+      "d": [
+        "a_t = α/r",
+        "a_t = rα²",
+        "a_t = r²α"
+      ]
+    },
+    {
+      "c": "Moment of inertia of a point mass",
+      "a": "I = mr²",
+      "d": [
+        "I = mr",
+        "I = ½mr²",
+        "I = m/r²"
+      ]
+    },
+    {
+      "c": "Moment of inertia depends on",
+      "a": "mass and its distribution about the axis",
+      "d": [
+        "mass only",
+        "angular speed",
+        "applied torque"
+      ]
+    },
+    {
+      "c": "Moment of inertia: solid disk about its center",
+      "a": "½MR²",
+      "d": [
+        "MR²",
+        "⅖MR²",
+        "⅓MR²"
+      ]
+    },
+    {
+      "c": "Moment of inertia: thin hoop about its center",
+      "a": "MR²",
+      "d": [
+        "½MR²",
+        "⅖MR²",
+        "2MR²"
+      ]
+    },
+    {
+      "c": "Moment of inertia: solid sphere about its center",
+      "a": "⅖MR²",
+      "d": [
+        "½MR²",
+        "⅔MR²",
+        "MR²"
+      ]
+    },
+    {
+      "c": "Parallel-axis theorem",
+      "a": "I = I_cm + Md²",
+      "d": [
+        "I = I_cm − Md²",
+        "I = I_cm + Md",
+        "I = Md²"
+      ]
+    },
+    {
+      "c": "Rotational kinetic energy",
+      "a": "½Iω²",
+      "d": [
+        "Iω²",
+        "½Iω",
+        "½mω²"
+      ]
+    },
+    {
+      "c": "Condition for rolling without slipping",
+      "a": "v = rω",
+      "d": [
+        "v = ω/r",
+        "v = 0",
+        "ω = 0"
+      ]
+    },
+    {
+      "c": "Race down a ramp: hoop vs solid disk",
+      "a": "the solid disk wins",
+      "d": [
+        "the hoop wins",
+        "they tie"
+      ],
+      "ex": "Less of the disk's energy goes into spinning, so it moves faster."
+    },
+    {
+      "c": "Angular momentum",
+      "a": "L = Iω",
+      "d": [
+        "L = Iα",
+        "L = mω",
+        "L = ½Iω²"
+      ]
+    },
+    {
+      "c": "Angular momentum is conserved when",
+      "a": "the net external torque is zero",
+      "d": [
+        "the net external force is zero",
+        "the object rotates slowly",
+        "kinetic energy is conserved"
+      ]
+    },
+    {
+      "c": "Spinning skater pulls in her arms",
+      "a": "I drops, so ω increases",
+      "d": [
+        "I rises, so ω increases",
+        "I drops, so ω decreases"
+      ]
+    },
+    {
+      "c": "Direction of the angular velocity vector",
+      "a": "along the axis, by the right-hand rule",
+      "d": [
+        "along the rim, in the direction of motion",
+        "outward from the axis"
+      ]
+    },
+    {
+      "c": "Work done by a constant torque",
+      "a": "W = τθ",
+      "d": [
+        "W = τ/θ",
+        "W = τω",
+        "W = ½τθ²"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Turning things",
+    "text": [
+      "A force can make an object spin as well as slide. How strongly it twists depends on torque: the force times its lever arm, the perpendicular distance from the axis to the line of the force. That is why a doorknob sits far from the hinges and why a longer wrench loosens a stubborn bolt more easily.",
+      "Rotational motion follows the same patterns as linear motion with new symbols. Angular velocity ω plays the role of v, angular acceleration α plays the role of a, and the net torque equals the moment of inertia times α. The moment of inertia depends not only on mass but on where the mass sits. Mass far from the axis is harder to spin, so a hoop has a larger moment of inertia than a solid disk of the same mass and radius. Released together on a ramp, the disk rolls to the bottom first because less of its energy is tied up in spinning.",
+      "Angular momentum, L = Iω, is conserved whenever the net external torque is zero. A figure skater who pulls her arms in reduces her moment of inertia, so her spin rate rises. Divers, cats, and collapsing stars use the same principle."
+    ],
+    "q": [
+      {
+        "q": "Why is a doorknob placed far from the hinges?",
+        "o": [
+          "A larger lever arm gives more torque",
+          "It reduces the door's mass",
+          "It lowers the moment of inertia"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why does a solid disk beat a hoop down a ramp?",
+        "o": [
+          "Less of its energy goes into spinning",
+          "It has more mass",
+          "Friction acts only on the hoop"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What happens when a spinning skater pulls in her arms?",
+        "o": [
+          "Her spin rate increases",
+          "Her angular momentum increases",
+          "Her spin rate decreases"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

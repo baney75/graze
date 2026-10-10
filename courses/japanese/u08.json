@@ -1,0 +1,301 @@
+{
+  "title": "Family",
+  "note": "Japanese has two sets of family words: plain humble ones for your own family when talking to others (父, 母, 兄) and polite ones for someone else's family (お父さん, お母さん, お兄さん). For people and animals, \"there is\" or \"have\" is います, and the person counted takes が: 兄が二人います \"I have two older brothers.\"",
+  "src": {
+    "t": "Jisho.org (JMdict): family terms",
+    "u": "https://jisho.org/"
+  },
+  "items": [
+    {
+      "c": "家族",
+      "r": "kazoku",
+      "a": "family",
+      "d": [
+        "house",
+        "friend"
+      ],
+      "ex": "(かぞく) 私の家族は四人です。",
+      "exT": "There are four people in my family."
+    },
+    {
+      "c": "父",
+      "r": "chichi",
+      "a": "(my) father",
+      "d": [
+        "(my) mother",
+        "(my) older brother"
+      ]
+    },
+    {
+      "c": "母",
+      "r": "haha",
+      "a": "(my) mother",
+      "d": [
+        "(my) father",
+        "(my) older sister"
+      ],
+      "ex": "(はは) 母は医者です。",
+      "exT": "My mother is a doctor."
+    },
+    {
+      "c": "お父さん",
+      "r": "otōsan",
+      "a": "father (polite, someone else's)",
+      "d": [
+        "mother (polite, someone else's)",
+        "older brother (polite, someone else's)"
+      ]
+    },
+    {
+      "c": "お母さん",
+      "r": "okāsan",
+      "a": "mother (polite, someone else's)",
+      "d": [
+        "father (polite, someone else's)",
+        "grandmother (polite)"
+      ],
+      "ex": "(おかあさん) お母さんはお元気ですか。",
+      "exT": "How is your mother?"
+    },
+    {
+      "c": "兄",
+      "r": "ani",
+      "a": "(my) older brother",
+      "d": [
+        "(my) younger brother",
+        "(my) older sister"
+      ]
+    },
+    {
+      "c": "姉",
+      "r": "ane",
+      "a": "(my) older sister",
+      "d": [
+        "(my) younger sister",
+        "(my) older brother"
+      ]
+    },
+    {
+      "c": "弟",
+      "r": "otōto",
+      "a": "younger brother",
+      "d": [
+        "older brother",
+        "younger sister"
+      ]
+    },
+    {
+      "c": "妹",
+      "r": "imōto",
+      "a": "younger sister",
+      "d": [
+        "older sister",
+        "younger brother"
+      ]
+    },
+    {
+      "c": "お兄さん",
+      "r": "onīsan",
+      "a": "older brother (polite)",
+      "d": [
+        "older sister (polite)",
+        "uncle (polite)"
+      ]
+    },
+    {
+      "c": "お姉さん",
+      "r": "onēsan",
+      "a": "older sister (polite)",
+      "d": [
+        "older brother (polite)",
+        "aunt (polite)"
+      ]
+    },
+    {
+      "c": "兄弟",
+      "r": "kyōdai",
+      "a": "siblings",
+      "d": [
+        "parents",
+        "grandparents"
+      ],
+      "ex": "(きょうだい) 兄弟がいますか。",
+      "exT": "Do you have any siblings?"
+    },
+    {
+      "c": "両親",
+      "r": "ryōshin",
+      "a": "parents",
+      "d": [
+        "siblings",
+        "children"
+      ]
+    },
+    {
+      "c": "おじいさん",
+      "r": "ojīsan",
+      "a": "grandfather; old man",
+      "d": [
+        "uncle; middle-aged man",
+        "grandmother; old woman"
+      ]
+    },
+    {
+      "c": "おばあさん",
+      "r": "obāsan",
+      "a": "grandmother; old woman",
+      "d": [
+        "aunt; middle-aged woman",
+        "grandfather; old man"
+      ]
+    },
+    {
+      "c": "おじさん",
+      "r": "ojisan",
+      "a": "uncle; middle-aged man",
+      "d": [
+        "grandfather; old man",
+        "aunt; middle-aged woman"
+      ]
+    },
+    {
+      "c": "おばさん",
+      "r": "obasan",
+      "a": "aunt; middle-aged woman",
+      "d": [
+        "grandmother; old woman",
+        "uncle; middle-aged man"
+      ]
+    },
+    {
+      "c": "夫",
+      "r": "otto",
+      "a": "(my) husband",
+      "d": [
+        "(my) wife",
+        "(my) son"
+      ]
+    },
+    {
+      "c": "妻",
+      "r": "tsuma",
+      "a": "(my) wife",
+      "d": [
+        "(my) husband",
+        "(my) daughter"
+      ]
+    },
+    {
+      "c": "息子",
+      "r": "musuko",
+      "a": "son",
+      "d": [
+        "daughter",
+        "nephew"
+      ]
+    },
+    {
+      "c": "娘",
+      "r": "musume",
+      "a": "daughter",
+      "d": [
+        "son",
+        "wife"
+      ]
+    },
+    {
+      "c": "赤ちゃん",
+      "r": "akachan",
+      "a": "baby",
+      "d": [
+        "child (school age)",
+        "grandchild"
+      ]
+    },
+    {
+      "c": "犬",
+      "r": "inu",
+      "a": "dog",
+      "d": [
+        "cat",
+        "bird"
+      ],
+      "ex": "(いぬ) うちに犬がいます。",
+      "exT": "We have a dog at home."
+    },
+    {
+      "c": "猫",
+      "r": "neko",
+      "a": "cat",
+      "d": [
+        "dog",
+        "fish"
+      ]
+    },
+    {
+      "c": "います",
+      "r": "imasu",
+      "a": "there is; have (people and animals)",
+      "d": [
+        "there is; have (things only)",
+        "is, equals (X is Y)"
+      ]
+    },
+    {
+      "c": "兄が一人います。",
+      "r": "Ani ga hitori imasu.",
+      "a": "I have one older brother.",
+      "d": [
+        "I am an older brother.",
+        "My older brother lives alone."
+      ]
+    },
+    {
+      "c": "私の家族は四人です。",
+      "r": "Watashi no kazoku wa yonin desu.",
+      "a": "There are four people in my family.",
+      "d": [
+        "My family has four rooms.",
+        "My family has four dogs."
+      ]
+    },
+    {
+      "c": "妹___二人います。",
+      "r": "Imōto ___ futari imasu.",
+      "a": "が",
+      "d": [
+        "を",
+        "で"
+      ],
+      "ex": "妹が二人います。",
+      "exT": "I have two younger sisters."
+    },
+    {
+      "c": "父___名前はジョンです。",
+      "r": "Chichi ___ namae wa Jon desu.",
+      "a": "の",
+      "d": [
+        "を",
+        "へ"
+      ]
+    },
+    {
+      "c": "母は医者です。父___医者です。",
+      "r": "Haha wa isha desu. Chichi ___ isha desu.",
+      "a": "も",
+      "d": [
+        "を",
+        "へ"
+      ]
+    },
+    {
+      "c": "家に犬が___。",
+      "r": "Ie ni inu ga ___.",
+      "a": "います",
+      "d": [
+        "あります",
+        "です"
+      ]
+    }
+  ]
+}

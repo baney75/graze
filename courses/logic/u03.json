@@ -1,0 +1,46 @@
+{
+  "title": "Validity, soundness, strength and cogency",
+  "note": "A deductive argument is valid when it is impossible for its premises to be true and its conclusion false; it is sound when it is valid and its premises are true. An inductive argument is strong when true premises would make the conclusion probable, and cogent when it is strong with true premises. Validity is about form, so a counterexample with the same form can show invalidity.",
+  "src": { "t": "Deductive and Inductive Arguments, Internet Encyclopedia of Philosophy", "u": "https://iep.utm.edu/deductive-inductive-arguments/" },
+  "items": [
+    { "c": "Valid argument", "a": "impossible for the premises to be true and conclusion false", "d": ["all its premises and its conclusion are true", "its conclusion is probably true"] },
+    { "c": "Sound argument", "a": "valid, with all premises actually true", "d": ["valid, with a true conclusion", "strong, with all premises true"] },
+    { "c": "Strong inductive argument", "a": "true premises would make the conclusion probable", "d": ["true premises would guarantee the conclusion", "its premises and conclusion are all true"] },
+    { "c": "Cogent argument", "a": "inductively strong, with all premises true", "d": ["deductively valid, with all premises true", "inductively strong, with a true conclusion"] },
+    { "c": "Valid argument, false conclusion: possible?", "a": "yes, if at least one premise is false", "d": ["no, never", "only for inductive arguments"] },
+    { "c": "Valid argument with true premises: conclusion?", "a": "must be true", "d": ["is probably true", "may still be false"] },
+    { "c": "Invalid argument, true conclusion: possible?", "a": "yes; a true claim can be reached by bad reasoning", "d": ["no; a true conclusion makes it valid", "only if every premise is false"] },
+    { "c": "All fish swim; Tom swims; so Tom is a fish", "a": "invalid: Tom could swim without being a fish", "d": ["valid but unsound", "valid and sound"] },
+    { "c": "All cats can fly; Tom is a cat; so Tom can fly", "a": "valid but unsound", "d": ["invalid but sound", "valid and sound", "invalid and unsound"] },
+    { "c": "Method of counterexample", "a": "same form, true premises, false conclusion", "d": ["same premises, a different conclusion", "find one premise that is false"] },
+    { "c": "Validity depends on", "a": "the form, or structure, of the argument", "d": ["whether the premises are actually true", "how many people accept the conclusion"] },
+    { "c": "Soundness depends on", "a": "validity plus the actual truth of the premises", "d": ["the form of the argument alone", "how popular the conclusion is"] },
+    { "c": "Inductive arguments are rated as", "a": "strong or weak", "d": ["valid or invalid", "true or false"] },
+    { "c": "Is inductive strength all-or-nothing?", "a": "no; it comes in degrees", "d": ["yes, just like validity", "yes; it is fixed by the form"] },
+    { "c": "Is validity a matter of degree?", "a": "no; an argument is either valid or not", "d": ["yes; some are more valid than others", "yes; it depends on the evidence"] },
+    { "c": "Can a single statement be valid?", "a": "no; validity applies to arguments", "d": ["yes, if the statement is true", "yes, if it is a definition"] },
+    { "c": "Premises that contradict each other: valid?", "a": "yes; the premises can never all be true", "d": ["no; it is automatically invalid", "only if the conclusion is true"], "ex": "In classical logic an argument with inconsistent premises is valid, though never sound." },
+    { "c": "Two ways an argument can fail", "a": "a false premise, or a weak link to the conclusion", "d": ["too few premises, or too many words", "a long conclusion, or a short one"] },
+    { "c": "Unsound deductive argument", "a": "invalid, or has at least one false premise", "d": ["valid with all premises true", "strong with all premises true"] },
+    { "c": "Most students own phones; Lee is one; so he does", "a": "inductively strong", "d": ["deductively valid", "inductively weak"] },
+    { "c": "A few voters like Kim, so she will surely win", "a": "inductively weak", "d": ["inductively strong", "deductively valid"] },
+    { "c": "Does a strong argument guarantee its conclusion?", "a": "no; it only makes it likely", "d": ["yes, if all its premises are true", "yes, if it is cogent"] },
+    { "c": "'P, therefore P' is", "a": "valid, but proves nothing", "d": ["invalid", "inductively strong", "a formal fallacy"] },
+    { "c": "Can a sound argument fail to persuade?", "a": "yes; soundness and persuasiveness differ", "d": ["no; sound arguments always persuade", "only if it is also invalid"] },
+    { "c": "Formal logic tests validity by", "a": "abstracting the form from the content", "d": ["polling experts on the conclusion", "testing each premise by experiment"] }
+  ],
+  "read": {
+    "title": "Two questions for every argument",
+    "text": [
+      "Every argument can be judged by asking two separate questions. First, do the premises support the conclusion? Second, are the premises true? Keeping these apart is one of the most useful habits in logic.",
+      "For deductive arguments, the first question is about validity. An argument is valid when there is no possible way for the premises to be true and the conclusion false. 'All cats can fly; Tom is a cat; so Tom can fly' is valid, because if the premises were true the conclusion would have to be. It is not sound, though, because its first premise is false. A sound argument is valid and has true premises, so its conclusion must be true.",
+      "Because validity depends on form, you can show an argument is invalid with a counterexample: an argument of exactly the same form with plainly true premises and a plainly false conclusion. 'All fish swim; Tom swims; so Tom is a fish' fails this way, since a dog can swim.",
+      "For inductive arguments, the first question is about strength, which comes in degrees. A strong argument whose premises are true is called cogent. Even a cogent argument can have a false conclusion; it only makes the conclusion likely."
+    ],
+    "q": [
+      { "q": "Why is 'All cats can fly; Tom is a cat; so Tom can fly' unsound?", "o": ["It is invalid", "Its first premise is false", "Its conclusion is a question", "It is inductive"], "k": 1 },
+      { "q": "What does a counterexample to an argument's form contain?", "o": ["True premises and a false conclusion in the same form", "False premises and a true conclusion", "A different form with the same premises"], "k": 0 },
+      { "q": "What is a cogent argument?", "o": ["A valid argument with true premises", "Any persuasive argument", "A strong inductive argument with true premises"], "k": 2 }
+    ]
+  }
+}

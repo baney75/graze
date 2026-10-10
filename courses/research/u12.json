@@ -1,0 +1,292 @@
+{
+  "title": "Notes, synthesis and literature reviews",
+  "note": "Summary reports what one source says; synthesis puts several sources in conversation to show patterns, agreements, conflicts and gaps. Take notes in your own words with the citation attached, mark exact quotes clearly, and organize a literature review by theme, not source by source.",
+  "src": {
+    "t": "Choosing and Using Sources, Ch. 13 Roles of Research Sources, LibreTexts",
+    "u": "https://human.libretexts.org/Bookshelves/Research_and_Information_Literacy/Choosing_and_Using_Sources%3A_A_Guide_to_Academic_Research/13%3A_Roles_of_Research_Sources"
+  },
+  "items": [
+    {
+      "c": "Literature review",
+      "a": "A synthesis of existing research on a question",
+      "d": [
+        "A list of every book in a library",
+        "A review of a single novel",
+        "A report of one new experiment"
+      ]
+    },
+    {
+      "c": "Summary versus synthesis",
+      "a": "One source restated vs several sources connected",
+      "d": [
+        "Short text vs long text",
+        "Quotation vs paraphrase",
+        "Primary vs tertiary sources"
+      ]
+    },
+    {
+      "c": "Synthesis",
+      "a": "Combining sources to show patterns, conflicts, and gaps",
+      "d": [
+        "Restating one source in fewer words",
+        "Listing sources in alphabetical order",
+        "Copying key sentences from each source"
+      ]
+    },
+    {
+      "c": "Weak structure for a literature review",
+      "a": "One paragraph per source, in the order you read them",
+      "d": [
+        "Sections organized around key themes",
+        "Comparisons of findings across studies",
+        "A closing section on gaps in the research"
+      ]
+    },
+    {
+      "c": "Strong structure for a literature review",
+      "a": "Organized by themes, debates, or methods",
+      "d": [
+        "Organized by the date you found each source",
+        "Organized by author's first name",
+        "Organized by page count"
+      ]
+    },
+    {
+      "c": "Synthesis matrix",
+      "a": "A grid of sources against the themes they address",
+      "d": [
+        "A table of citation styles",
+        "A map of library floors",
+        "A chart of journal impact factors"
+      ]
+    },
+    {
+      "c": "Annotated bibliography",
+      "a": "A list of citations, each with a short summary or evaluation",
+      "d": [
+        "A reference list with no extra text",
+        "A collection of full-text PDFs",
+        "A bibliography handwritten in margins"
+      ]
+    },
+    {
+      "c": "Annotation (on a reading)",
+      "a": "Your notes and comments written on or about a text",
+      "d": [
+        "The publisher's summary on the cover",
+        "The journal's copyright statement",
+        "A list of the author's other works"
+      ]
+    },
+    {
+      "c": "Copying an exact phrase into your notes",
+      "a": "Put it in quotation marks with the page number",
+      "d": [
+        "Rewrite it later from memory",
+        "Leave out the source to save time",
+        "Merge it with your own sentences"
+      ]
+    },
+    {
+      "c": "Why record the citation with every note",
+      "a": "So you can credit the source and find it again",
+      "d": [
+        "So notes look longer",
+        "So the source counts as common knowledge",
+        "So you don't need a reference list"
+      ]
+    },
+    {
+      "c": "Citation manager (such as Zotero)",
+      "a": "Software that stores sources and formats citations",
+      "d": [
+        "A tool that detects predatory journals",
+        "A database of retracted papers",
+        "A program that writes your paper"
+      ]
+    },
+    {
+      "c": "Research gap, in a literature review",
+      "a": "What the existing studies have not yet answered",
+      "d": [
+        "A missing page in a source",
+        "Time between two publications",
+        "A disagreement over citation style"
+      ]
+    },
+    {
+      "c": "Point of saturation in searching",
+      "a": "New searches keep turning up sources you already have",
+      "d": [
+        "Your database runs out of storage",
+        "You have read exactly 20 sources",
+        "Your citation manager is full"
+      ]
+    },
+    {
+      "c": "Narrative literature review",
+      "a": "An expert-selected overview without a formal protocol",
+      "d": [
+        "A review following a preset, documented protocol",
+        "A statistical pooling of trial results",
+        "A report of one patient's case"
+      ]
+    },
+    {
+      "c": "Scoping review",
+      "a": "Maps what research exists on a broad topic",
+      "d": [
+        "Pools numerical results to one estimate",
+        "Reports a single new experiment",
+        "Evaluates one journal's quality"
+      ]
+    },
+    {
+      "c": "PRISMA",
+      "a": "Reporting guideline for systematic reviews and meta-analyses",
+      "d": [
+        "A database of medical preprints",
+        "A citation style for science",
+        "A test for predatory journals"
+      ]
+    },
+    {
+      "c": "PRISMA flow diagram",
+      "a": "Shows how many records were found, screened, and included",
+      "d": [
+        "Shows a drug's path through the body",
+        "Shows the order of IMRaD sections",
+        "Shows citation counts over time"
+      ]
+    },
+    {
+      "c": "Inclusion and exclusion criteria",
+      "a": "Preset rules for which studies enter a review",
+      "d": [
+        "Rules for who may author a review",
+        "A journal's rules on word count",
+        "Rules for ordering a reference list"
+      ]
+    },
+    {
+      "c": "Screening in a systematic review",
+      "a": "Checking titles, abstracts, then full texts against criteria",
+      "d": [
+        "Showing the review on a screen",
+        "Testing participants for a disease",
+        "Checking a paper for plagiarism"
+      ]
+    },
+    {
+      "c": "Risk-of-bias assessment",
+      "a": "Judging how likely each study's design distorts its results",
+      "d": [
+        "Estimating the reviewer's personal bias",
+        "Counting how often a study is cited",
+        "Checking the funder's finances"
+      ]
+    },
+    {
+      "c": "Data extraction",
+      "a": "Recording each study's key details in a standard form",
+      "d": [
+        "Deleting data that look unusual",
+        "Downloading a database's full contents",
+        "Pulling quotes for a news article"
+      ]
+    },
+    {
+      "c": "Cochrane Library",
+      "a": "A collection of rigorous systematic reviews in health care",
+      "d": [
+        "A preprint server for physics",
+        "A public library in Oxford",
+        "A citation style for medicine"
+      ]
+    },
+    {
+      "c": "Signal phrase",
+      "a": "Words introducing a source, such as \"Smith argues\"",
+      "d": [
+        "A warning label on a retracted paper",
+        "A search operator like AND",
+        "A heading in the Methods section"
+      ]
+    },
+    {
+      "c": "Synthesis sentence example",
+      "a": "\"Two trials found benefit, but a larger one did not.\"",
+      "d": [
+        "\"Smith (2020) studied sleep.\"",
+        "\"This article has 12 pages.\"",
+        "\"The journal is open access.\""
+      ]
+    },
+    {
+      "c": "Where your own argument belongs in a review",
+      "a": "In the connections you draw among sources",
+      "d": [
+        "Nowhere; reviews contain no viewpoint",
+        "Only in the title",
+        "Only in the reference list"
+      ]
+    },
+    {
+      "c": "Two sources disagree: in a review you should",
+      "a": "Report both and explain possible reasons",
+      "d": [
+        "Cite only the one you prefer",
+        "Leave both out of the review",
+        "Average their conclusions"
+      ]
+    },
+    {
+      "c": "Concept map for a literature review",
+      "a": "A diagram linking themes, studies, and relationships",
+      "d": [
+        "A map of where studies were run",
+        "A list of keywords in order",
+        "A timeline of the author's career"
+      ]
+    }
+  ],
+  "read": {
+    "title": "From pile to pattern",
+    "text": [
+      "After a few weeks of searching, many students have a folder of PDFs and a draft that reads like a book report: Smith found this, Jones found that, Lee found something else. Each paragraph summarizes one source. The reader is left to do the real work of figuring out what it all means.",
+      "A literature review is supposed to do that work. Synthesis means putting sources in conversation. Instead of one paragraph per study, you write one paragraph per idea: \"Three small trials reported improved sleep, but the largest trial found no effect, possibly because it used a shorter program.\" That sentence draws on several sources, notes a disagreement, and offers an explanation.",
+      "Good notes make this easier. Write notes in your own words, attach the citation to each one, and put any copied wording in quotation marks with a page number. A synthesis matrix, a grid with sources as rows and themes as columns, shows at a glance which sources address which question and where they agree.",
+      "Finally, notice what is missing. The gaps you find, such as untested groups, weak designs, or unanswered questions, often become the justification for your own research."
+    ],
+    "q": [
+      {
+        "q": "What is wrong with a review that has one paragraph per source?",
+        "o": [
+          "It cites too many sources",
+          "It is always too short",
+          "It uses the wrong citation style",
+          "It leaves the reader to work out what the sources mean together"
+        ],
+        "k": 3
+      },
+      {
+        "q": "What does a synthesis matrix show?",
+        "o": [
+          "Which sources address which themes",
+          "The order in which you read sources",
+          "Each source's impact factor"
+        ],
+        "k": 0
+      },
+      {
+        "q": "According to the reading, what often justifies new research?",
+        "o": [
+          "The most cited source",
+          "A longer reference list",
+          "Gaps found in the existing literature"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

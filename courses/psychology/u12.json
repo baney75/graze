@@ -1,0 +1,61 @@
+{
+  "title": "Personality",
+  "note": "Personality is a person's long-standing pattern of thinking, feeling and behaving. Freud stressed unconscious conflict, humanists stressed growth and the self, social-cognitive theorists stressed thought, behavior and setting acting on one another, and trait theorists measure stable dimensions. The best-supported trait model today is the Big Five.",
+  "src": { "t": "OpenStax Psychology 2e, 11.7 Trait Theorists", "u": "https://openstax.org/books/psychology-2e/pages/11-7-trait-theorists" },
+  "items": [
+    { "c": "Personality", "a": "Long-standing patterns of thought, feeling and behavior", "d": ["A brief emotional reaction to an event", "A skill learned through practice", "A person's current mood"] },
+    { "c": "Freud's iceberg model of the mind", "a": "Most mental activity is unconscious", "d": ["Most mental activity is conscious", "The mind has no unconscious part", "Memory is stored like ice"] },
+    { "c": "Id", "a": "Unconscious drives that follow the pleasure principle", "d": ["The rational self that follows the reality principle", "The conscience that judges right and wrong", "The social mask shown to others"] },
+    { "c": "Ego", "a": "The rational mediator that follows the reality principle", "d": ["The source of primitive drives", "The internalized sense of right and wrong", "The universal layer of the unconscious"] },
+    { "c": "Superego", "a": "The conscience, learned from society and parents", "d": ["The seat of hunger and sex drives", "The part that deals with reality", "The inborn style of reacting"] },
+    { "c": "Defense mechanism (Freud)", "a": "An unconscious way of reducing anxiety", "d": ["A conscious plan to solve a problem", "A reflex present at birth", "A test of personality"] },
+    { "c": "Repression", "a": "Pushing anxiety-causing memories out of awareness", "d": ["Redirecting feelings to a safer target", "Giving acceptable reasons for real motives", "Acting the opposite of how you feel"] },
+    { "c": "Projection", "a": "Attributing your own unacceptable feelings to others", "d": ["Returning to childlike behavior", "Channeling urges into acceptable activities", "Refusing to accept an unpleasant reality"] },
+    { "c": "Yelling at a sibling after a bad day at work", "a": "Displacement", "d": ["Projection", "Sublimation", "Regression"] },
+    { "c": "Rationalization", "a": "Giving acceptable reasons in place of the real ones", "d": ["Forgetting a painful event", "Behaving like a younger child", "Attributing your feelings to others"], "ex": "Blaming the professor after failing a test you never studied for." },
+    { "c": "Reaction formation", "a": "Acting the opposite of what you really feel", "d": ["Redirecting anger onto a safer target", "Refusing to accept a painful fact", "Turning urges into creative work"] },
+    { "c": "Sublimation", "a": "Channeling unacceptable urges into acceptable activities", "d": ["Pushing memories out of awareness", "Returning to childish habits", "Blaming others for your own faults"] },
+    { "c": "Regression", "a": "Returning to behavior from an earlier stage", "d": ["Turning urges into socially valued work", "Refusing to admit a problem", "Acting opposite to your feelings"] },
+    { "c": "Freud's psychosexual stages in order", "a": "Oral, anal, phallic, latency, genital", "d": ["Anal, oral, genital, phallic, latency", "Oral, phallic, anal, genital, latency", "Latency, oral, anal, phallic, genital"] },
+    { "c": "Adler's inferiority complex", "a": "A belief that you lack worth and fall short of others", "d": ["A shared store of ancestral memories", "Anxiety from unmet childhood needs", "Unconscious guilt from the superego"] },
+    { "c": "Jung's collective unconscious", "a": "Shared mental patterns common to all people", "d": ["Each person's repressed memories", "The rules a society teaches children", "A group's tendency to agree"] },
+    { "c": "Archetype (Jung)", "a": "A universal theme, such as the hero or trickster", "d": ["A defense against anxiety", "A stable personality trait", "A stage of child development"] },
+    { "c": "Karen Horney's basic anxiety", "a": "Insecurity arising from unmet childhood needs", "d": ["Fear of losing one's inheritance", "Worry caused by low arousal", "Anxiety only about public speaking"] },
+    { "c": "Self-concept (Rogers)", "a": "Your thoughts and feelings about yourself", "d": ["The person you wish to become", "Your belief that you can do a task", "The traits others see in you"] },
+    { "c": "Congruence (Rogers)", "a": "Close match between your real and ideal selves", "d": ["A large gap between real and ideal selves", "Agreement with a group's opinion", "Matching a parent's expectations"] },
+    { "c": "Unconditional positive regard", "a": "Acceptance and love with no strings attached", "d": ["Praise given only for success", "Approval from peers for conformity", "A reward given on a fixed schedule"] },
+    { "c": "Reciprocal determinism (Bandura)", "a": "Thoughts, behavior and setting all shape one another", "d": ["Genes alone determine behavior", "The unconscious controls behavior", "Behavior is set only by rewards"] },
+    { "c": "Internal locus of control (Rotter)", "a": "Belief that your own actions shape outcomes", "d": ["Belief that luck or others shape outcomes", "Belief that you can do a specific task", "Belief that the world is fair"] },
+    { "c": "External locus of control (Rotter)", "a": "Belief that luck or others shape outcomes", "d": ["Belief that effort shapes outcomes", "Belief in your skill at one task", "Belief that you are better than others"] },
+    { "c": "Mischel's marshmallow test measured", "a": "Delay of gratification", "d": ["Fluid intelligence", "Attachment style", "Conformity to peers"] },
+    { "c": "Temperament", "a": "An inborn style of reacting, visible from infancy", "d": ["A learned habit of speech", "A conscious plan for life", "A stage of moral reasoning"], "ex": "Thomas and Chess described easy, difficult and slow-to-warm-up babies." },
+    { "c": "Allport's cardinal trait", "a": "A single trait that dominates a whole personality", "d": ["A core trait that most people have", "A trait seen only in some situations", "A trait inherited from a parent"] },
+    { "c": "Cattell's 16PF", "a": "A questionnaire measuring 16 personality factors", "d": ["A test of 16 types of intelligence", "A list of 16 defense mechanisms", "A scale of 16 stages of growth"] },
+    { "c": "Eysenck's two original dimensions", "a": "Extroversion-introversion and neuroticism-stability", "d": ["Openness and conscientiousness", "Id and superego", "Internal and external control"] },
+    { "c": "Lexical hypothesis", "a": "Important personality traits are encoded in everyday language", "d": ["Personality is set by birth order", "Language skill predicts personality", "Traits can only be seen in dreams"] },
+    { "c": "Big Five trait: organized and dependable", "a": "Conscientiousness", "d": ["Agreeableness", "Openness", "Extroversion"] },
+    { "c": "Big Five trait: curious and imaginative", "a": "Openness to experience", "d": ["Conscientiousness", "Neuroticism", "Agreeableness"] },
+    { "c": "Big Five trait: cooperative and good-natured", "a": "Agreeableness", "d": ["Extroversion", "Conscientiousness", "Openness"] },
+    { "c": "Big Five trait: tendency toward negative emotion", "a": "Neuroticism", "d": ["Introversion", "Agreeableness", "Openness"] },
+    { "c": "Mnemonic for the Big Five", "a": "OCEAN", "d": ["HOMES", "ROY G BIV", "PEMDAS"] },
+    { "c": "Mischel's person-situation challenge", "a": "Behavior is less consistent across situations than assumed", "d": ["Traits do not exist at all", "Situations never affect behavior", "Personality is fixed at birth"] },
+    { "c": "Traits best predict", "a": "Average behavior across many situations", "d": ["Behavior in any single situation", "Exactly what a person will do next", "Only behavior in childhood"] },
+    { "c": "MMPI", "a": "A widely used self-report personality inventory", "d": ["A projective inkblot test", "A test of IQ", "A brain-imaging method"] },
+    { "c": "Rorschach and TAT", "a": "Projective tests using ambiguous images", "d": ["True-false self-report inventories", "Tests of fluid intelligence", "Measures of reaction time"] },
+    { "c": "Weakness of self-report inventories", "a": "People may answer in socially desirable ways", "d": ["They take many days to score", "They need a trained interpreter for each item", "They use ambiguous inkblots"] }
+  ],
+  "read": {
+    "title": "Five traits that travel well",
+    "text": [
+      "If you list every English word that describes a person, you get thousands: kind, moody, punctual, bold, curious. Gordon Allport and his colleagues did exactly that. The lexical hypothesis holds that the most important ways people differ will be captured in everyday language.",
+      "Researchers then used statistics to find which words cluster together. People who are called punctual also tend to be called organized and hardworking. After decades of such work, five broad dimensions kept appearing, now known as the Big Five: openness to experience, conscientiousness, extroversion, agreeableness and neuroticism, remembered as OCEAN.",
+      "Each trait is a continuum, not a box. Most people fall near the middle on most traits, and five scores describe a person far better than a single type label. The five factors appear in many cultures, and they matter in daily life; conscientiousness, for example, predicts success in school and work.",
+      "Traits are not destiny. In 1968 Walter Mischel pointed out that behavior varies a lot from one situation to the next. Later work found that both matter: traits predict how a person acts on average across many situations, while the situation shapes what they do in any single moment."
+    ],
+    "q": [
+      { "q": "What does the lexical hypothesis claim?", "o": ["Important traits show up in everyday language", "Personality is set by birth order", "Only five words describe people", "Traits are unconscious"], "k": 0 },
+      { "q": "Why do the Big Five use continuums rather than types?", "o": ["Most people fall in the middle rather than in neat boxes", "Types are easier to measure", "Each person has only one trait"], "k": 0 },
+      { "q": "According to the reading, traits best predict", "o": ["A single moment's behavior", "Average behavior across many situations", "Dreams", "IQ"], "k": 1 }
+    ]
+  }
+}

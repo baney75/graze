@@ -1,0 +1,320 @@
+{
+  "title": "Judo: groundwork, breakfalls, scoring, and Kano's principles",
+  "note": "Katame-waza covers pins, strangles, and joint locks; in IJF contests joint locks are applied only to the elbow. Ukemi, breakfalling, makes full-force throwing safe. Ippon ends a contest; below it come waza-ari and, since 2025, yuko again. Kano's two principles are seiryoku zen'yo and jita kyoei.",
+  "src": {
+    "t": "International Judo Federation, New rules: what to remember",
+    "u": "https://www.ijf.org/news/show/new-rules-what-to-remember"
+  },
+  "items": [
+    {
+      "c": "Katame-waza",
+      "a": "grappling techniques: pins, strangles, joint locks",
+      "d": [
+        "throwing techniques from standing",
+        "striking techniques used in kata"
+      ]
+    },
+    {
+      "c": "Osaekomi-waza",
+      "a": "pinning techniques",
+      "d": [
+        "strangling techniques",
+        "joint techniques"
+      ]
+    },
+    {
+      "c": "Shime-waza",
+      "a": "strangling techniques",
+      "d": [
+        "pinning techniques",
+        "sacrifice techniques"
+      ]
+    },
+    {
+      "c": "Kansetsu-waza",
+      "a": "joint techniques",
+      "d": [
+        "strangling techniques",
+        "hip techniques"
+      ]
+    },
+    {
+      "c": "Joint attacked by kansetsu-waza in IJF contests",
+      "a": "the elbow only",
+      "d": [
+        "the knee and ankle",
+        "any joint of the arm or leg"
+      ]
+    },
+    {
+      "c": "Ne-waza",
+      "a": "groundwork",
+      "d": [
+        "standing technique",
+        "free practice"
+      ]
+    },
+    {
+      "c": "Kesa-gatame",
+      "a": "scarf hold",
+      "d": [
+        "upper four-quarter hold",
+        "cross armlock"
+      ]
+    },
+    {
+      "c": "Kami-shiho-gatame",
+      "a": "upper four-quarter hold",
+      "d": [
+        "side four-quarter hold",
+        "scarf hold"
+      ]
+    },
+    {
+      "c": "Yoko-shiho-gatame",
+      "a": "side four-quarter hold",
+      "d": [
+        "upper four-quarter hold",
+        "vertical four-quarter hold"
+      ]
+    },
+    {
+      "c": "Tate-shiho-gatame",
+      "a": "vertical four-quarter hold, astride the chest",
+      "d": [
+        "side four-quarter hold",
+        "naked strangle"
+      ]
+    },
+    {
+      "c": "Juji-gatame",
+      "a": "cross armlock, the armbar",
+      "d": [
+        "scarf hold",
+        "triangle strangle"
+      ]
+    },
+    {
+      "c": "Hadaka-jime",
+      "a": "naked strangle, the rear-naked choke",
+      "d": [
+        "cross armlock",
+        "sliding collar strangle"
+      ]
+    },
+    {
+      "c": "Sankaku-jime",
+      "a": "triangle strangle",
+      "d": [
+        "naked strangle",
+        "upper four-quarter hold"
+      ]
+    },
+    {
+      "c": "Ukemi",
+      "a": "breakfalling: the art of falling safely",
+      "d": [
+        "off-balancing the partner",
+        "gripping the lapel"
+      ]
+    },
+    {
+      "c": "Mae ukemi",
+      "a": "forward breakfall",
+      "d": [
+        "backward breakfall",
+        "side breakfall"
+      ]
+    },
+    {
+      "c": "Ushiro ukemi",
+      "a": "backward breakfall",
+      "d": [
+        "forward breakfall",
+        "rolling breakfall"
+      ]
+    },
+    {
+      "c": "Yoko ukemi",
+      "a": "side breakfall",
+      "d": [
+        "backward breakfall",
+        "forward breakfall"
+      ]
+    },
+    {
+      "c": "Why slap the mat in a breakfall?",
+      "a": "it spreads the impact over a larger area",
+      "d": [
+        "it signals submission to the referee",
+        "it scores a point for uke"
+      ]
+    },
+    {
+      "c": "Why tuck the chin in a backward breakfall?",
+      "a": "it keeps the back of the head off the mat",
+      "d": [
+        "it lets uke see the thrower",
+        "it makes the fall louder"
+      ]
+    },
+    {
+      "c": "Ippon",
+      "a": "the top score, which ends the contest",
+      "d": [
+        "a minor penalty",
+        "the lowest technical score"
+      ]
+    },
+    {
+      "c": "Waza-ari",
+      "a": "the second-highest technical score",
+      "d": [
+        "the score that ends the contest",
+        "a disqualification"
+      ]
+    },
+    {
+      "c": "Waza-ari-awasete-ippon",
+      "a": "two waza-ari combining to make ippon",
+      "d": [
+        "a waza-ari scored in golden score",
+        "a throw followed by a pin"
+      ]
+    },
+    {
+      "c": "Yuko, in IJF judo",
+      "a": "the lowest score, reintroduced in 2025",
+      "d": [
+        "a score abolished permanently in 2017",
+        "a penalty for passivity"
+      ]
+    },
+    {
+      "c": "Osaekomi time for ippon",
+      "a": "20 seconds",
+      "d": [
+        "10 seconds",
+        "30 seconds"
+      ]
+    },
+    {
+      "c": "Osaekomi time for waza-ari",
+      "a": "10 seconds",
+      "d": [
+        "5 seconds",
+        "20 seconds"
+      ]
+    },
+    {
+      "c": "Shido",
+      "a": "a minor penalty",
+      "d": [
+        "the top score",
+        "the call to begin"
+      ]
+    },
+    {
+      "c": "Hansoku-make",
+      "a": "disqualification from the contest",
+      "d": [
+        "a minor penalty",
+        "a hold being broken"
+      ]
+    },
+    {
+      "c": "Mate, called by a judo referee",
+      "a": "wait: stop the action",
+      "d": [
+        "begin",
+        "hold is on"
+      ]
+    },
+    {
+      "c": "Osaekomi, called by the referee",
+      "a": "a hold-down has been established",
+      "d": [
+        "the contest is over",
+        "the hold has been broken"
+      ]
+    },
+    {
+      "c": "Toketa",
+      "a": "the hold-down has been broken",
+      "d": [
+        "the hold-down has started",
+        "the contest begins"
+      ]
+    },
+    {
+      "c": "Randori",
+      "a": "free practice against a resisting partner",
+      "d": [
+        "prearranged forms",
+        "silent meditation"
+      ]
+    },
+    {
+      "c": "Seiryoku zen'yo",
+      "a": "maximum efficient use of energy",
+      "d": [
+        "mutual welfare and benefit",
+        "victory at any cost"
+      ]
+    },
+    {
+      "c": "Jita kyoei",
+      "a": "mutual welfare and benefit",
+      "d": [
+        "maximum efficient use of energy",
+        "the gentle way"
+      ]
+    },
+    {
+      "c": "Why blue judogi in IJF events?",
+      "a": "to tell the two competitors apart",
+      "d": [
+        "to mark the higher-ranked judoka",
+        "to show the previous champion"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Efficiency and mutual welfare",
+    "text": [
+      "Jigoro Kano wanted judo to be more than a way to win fights. He summed up its core in two phrases. Seiryoku zen'yo means the most efficient use of physical and mental energy: break balance first, use the opponent's movement, and spend no more effort than a task requires. Kano presented it as a principle not only of throwing but of daily life.",
+      "Jita kyoei means mutual welfare and benefit. Training partners help each other improve, and that cooperation should carry over into society. In practice it shows up in small habits: a thrower controls the fall, a partner who taps is released at once, and every session begins and ends with a bow.",
+      "Ukemi makes this possible. Because judoka learn to fall forward, backward, and to the side, slapping the mat to spread the impact and tucking the chin to protect the head, they can be thrown hard thousands of times. Randori, free practice against a resisting partner, then tests technique for real without breaking the partnership.",
+      "Contests keep the same ideals. A clean throw with control or a 20-second pin earns ippon and ends the match."
+    ],
+    "q": [
+      {
+        "q": "Which principle does releasing a partner who taps illustrate?",
+        "o": [
+          "Seiryoku zen'yo",
+          "Jita kyoei",
+          "Kuzushi"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why can judoka be thrown hard so many times?",
+        "o": [
+          "They train only kata",
+          "Contests forbid hard throws",
+          "They learn ukemi, breakfalling"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What pin time earns ippon?",
+        "o": [
+          "20 seconds",
+          "10 seconds",
+          "5 seconds"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

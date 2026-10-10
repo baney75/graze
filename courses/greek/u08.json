@@ -1,0 +1,337 @@
+{
+  "title": "Present active indicative: λύω",
+  "note": "The verb ending shows the person, so a pronoun is rarely needed: λύω I loose, λύεις you loose, λύει he, she or it looses, λύομεν we loose, λύετε you (plural) loose, λύουσι(ν) they loose. Dictionaries list a verb by its first person singular. 'Not' is οὐ, which becomes οὐκ before a smooth breathing and οὐχ before a rough one.",
+  "src": {
+    "t": "Perseus Digital Library (Smyth, Greek Grammar)",
+    "u": "https://www.perseus.tufts.edu/"
+  },
+  "items": [
+    {
+      "c": "λύω",
+      "a": "I loose, untie, destroy",
+      "d": [
+        "I see, look at",
+        "I lead, bring"
+      ],
+      "ex": "λύω τὸν ἵππον.",
+      "exT": "I untie the horse.",
+      "r": "lyō"
+    },
+    {
+      "c": "λύεις",
+      "a": "you (one person) loose",
+      "d": [
+        "he, she, it looses",
+        "you (plural) loose"
+      ],
+      "r": "lyeis"
+    },
+    {
+      "c": "λύει",
+      "a": "he, she, it looses",
+      "d": [
+        "you (one person) loose",
+        "they loose"
+      ],
+      "r": "lyei"
+    },
+    {
+      "c": "λύομεν",
+      "a": "we loose",
+      "d": [
+        "they loose",
+        "you (plural) loose"
+      ],
+      "r": "lyomen"
+    },
+    {
+      "c": "λύετε",
+      "a": "you (plural) loose",
+      "d": [
+        "we loose",
+        "you (one person) loose"
+      ],
+      "r": "lyete"
+    },
+    {
+      "c": "λύουσι(ν)",
+      "a": "they loose",
+      "d": [
+        "we loose",
+        "he, she, it looses"
+      ],
+      "r": "lyousi(n)"
+    },
+    {
+      "c": "ἀκούω",
+      "a": "I hear, listen",
+      "d": [
+        "I see, look at",
+        "I say, speak"
+      ],
+      "ex": "ἀκούομεν τὴν φωνήν.",
+      "exT": "We hear the voice.",
+      "r": "akouō"
+    },
+    {
+      "c": "βλέπω",
+      "a": "I see, look at",
+      "d": [
+        "I hear, listen",
+        "I write"
+      ],
+      "r": "blepō",
+      "ex": "βλέπω τὸν οὐρανόν.",
+      "exT": "I see the sky."
+    },
+    {
+      "c": "γράφω",
+      "a": "I write",
+      "d": [
+        "I read",
+        "I teach"
+      ],
+      "r": "graphō",
+      "ex": "γράφω τὸν λόγον.",
+      "exT": "I write the word."
+    },
+    {
+      "c": "λέγω",
+      "a": "I say, speak",
+      "d": [
+        "I write",
+        "I hear, listen"
+      ],
+      "ex": "τί λέγεις;",
+      "exT": "What are you saying?",
+      "r": "legō"
+    },
+    {
+      "c": "ἔχω",
+      "a": "I have, hold",
+      "d": [
+        "I take, receive",
+        "I lead, bring"
+      ],
+      "r": "echō",
+      "ex": "ἔχομεν ἄρτον.",
+      "exT": "We have bread."
+    },
+    {
+      "c": "πιστεύω",
+      "a": "I believe, trust",
+      "d": [
+        "I persuade",
+        "I heal; serve"
+      ],
+      "ex": "πιστεύω, κύριε.",
+      "exT": "I believe, Lord.",
+      "r": "pisteuō"
+    },
+    {
+      "c": "διδάσκω",
+      "a": "I teach",
+      "d": [
+        "I learn",
+        "I write"
+      ],
+      "r": "didaskō",
+      "ex": "διδάσκει ἐν τῇ συναγωγῇ.",
+      "exT": "He teaches in the synagogue."
+    },
+    {
+      "c": "γινώσκω (Attic γιγνώσκω)",
+      "a": "I know, come to know",
+      "d": [
+        "I believe, trust",
+        "I find"
+      ],
+      "r": "ginōskō",
+      "say": "γινώσκω"
+    },
+    {
+      "c": "λαμβάνω",
+      "a": "I take, receive",
+      "d": [
+        "I send",
+        "I have, hold"
+      ],
+      "r": "lambanō",
+      "ex": "λαμβάνει τὸν ἄρτον.",
+      "exT": "He takes the bread."
+    },
+    {
+      "c": "ἄγω",
+      "a": "I lead, bring",
+      "d": [
+        "I carry",
+        "I remain, stay"
+      ],
+      "r": "agō",
+      "ex": "ἄγει τὸν ἵππον.",
+      "exT": "He leads the horse."
+    },
+    {
+      "c": "πέμπω",
+      "a": "I send",
+      "d": [
+        "I take, receive",
+        "I carry"
+      ],
+      "r": "pempō",
+      "ex": "πέμπω τὸν δοῦλον.",
+      "exT": "I send the slave."
+    },
+    {
+      "c": "σῴζω",
+      "a": "I save, rescue",
+      "d": [
+        "I judge",
+        "I heal; serve"
+      ],
+      "r": "sōzō",
+      "ex": "ὁ θεὸς σῴζει τὸν λαόν.",
+      "exT": "God saves the people."
+    },
+    {
+      "c": "θεραπεύω",
+      "a": "I heal; serve",
+      "d": [
+        "I save, rescue",
+        "I believe, trust"
+      ],
+      "r": "therapeuō"
+    },
+    {
+      "c": "πείθω",
+      "a": "I persuade",
+      "d": [
+        "I believe, trust",
+        "I teach"
+      ],
+      "r": "peithō"
+    },
+    {
+      "c": "φέρω",
+      "a": "I carry, bring",
+      "d": [
+        "I send",
+        "I find"
+      ],
+      "r": "pherō",
+      "ex": "φέρουσι δῶρα.",
+      "exT": "They bring gifts."
+    },
+    {
+      "c": "εὑρίσκω",
+      "a": "I find",
+      "d": [
+        "I seek",
+        "I carry, bring"
+      ],
+      "r": "heuriskō",
+      "ex": "εὑρίσκουσι τὸ πλοῖον.",
+      "exT": "They find the boat."
+    },
+    {
+      "c": "μένω",
+      "a": "I remain, stay",
+      "d": [
+        "I go away",
+        "I lead, bring"
+      ],
+      "r": "menō",
+      "ex": "μένει ἐν τῷ οἴκῳ.",
+      "exT": "He stays in the house."
+    },
+    {
+      "c": "κρίνω",
+      "a": "I judge, decide",
+      "d": [
+        "I save, rescue",
+        "I persuade"
+      ],
+      "r": "krinō",
+      "ex": "ὁ θεὸς κρίνει τὸν κόσμον.",
+      "exT": "God judges the world."
+    },
+    {
+      "c": "ἐσθίω",
+      "a": "I eat",
+      "d": [
+        "I drink",
+        "I write"
+      ],
+      "r": "esthiō",
+      "ex": "ἐσθίομεν ἄρτον.",
+      "exT": "We eat bread."
+    },
+    {
+      "c": "ἀποθνῄσκω",
+      "a": "I die",
+      "d": [
+        "I live",
+        "I kill"
+      ],
+      "r": "apothnēskō",
+      "ex": "ὁ ἄνθρωπος ἀποθνῄσκει.",
+      "exT": "The man dies."
+    },
+    {
+      "c": "ὁ ἄνθρωπος ___. (the man hears; ἀκούω)",
+      "a": "ἀκούει",
+      "d": [
+        "ἀκούω",
+        "ἀκούουσι(ν)"
+      ]
+    },
+    {
+      "c": "οἱ μαθηταὶ ___. (the disciples believe)",
+      "a": "πιστεύουσιν",
+      "d": [
+        "πιστεύει",
+        "πιστεύετε"
+      ]
+    },
+    {
+      "c": "___ τὸν νόμον. (we know; γινώσκω)",
+      "a": "γινώσκομεν",
+      "d": [
+        "γινώσκετε",
+        "γινώσκουσιν"
+      ]
+    },
+    {
+      "c": "___ τὰ βιβλία. (you all write; γράφω)",
+      "a": "γράφετε",
+      "d": [
+        "γράφομεν",
+        "γράφεις"
+      ]
+    },
+    {
+      "c": "___ ἔχω ἄρτον. (I do not have)",
+      "a": "οὐκ",
+      "d": [
+        "οὐ",
+        "οὐχ"
+      ]
+    },
+    {
+      "c": "___ εὑρίσκω. (I do not find)",
+      "a": "οὐχ",
+      "d": [
+        "οὐ",
+        "οὐκ"
+      ]
+    },
+    {
+      "c": "___ βλέπει. (he does not see)",
+      "a": "οὐ",
+      "d": [
+        "οὐκ",
+        "οὐχ"
+      ]
+    }
+  ]
+}

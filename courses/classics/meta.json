@@ -1,0 +1,14 @@
+{
+  "key": "classics",
+  "name": "Great Books",
+  "group": "Reading",
+  "tag": "CLASSICS",
+  "level": "All levels",
+  "blurb": "Read fourteen short passages from the Bible, Plato, Epictetus, Marcus Aurelius, Augustine, Boethius, Bacon, Franklin, Jefferson, Lincoln, Emerson, Thoreau, Darwin and Chesterton in their exact public-domain words, and learn the hard words, key ideas and facts a well-read person knows.",
+  "sources": [
+    { "t": "Project Gutenberg", "u": "https://www.gutenberg.org/" },
+    { "t": "Thoughts of Marcus Aurelius, tr. George Long, with Long's life of the emperor (eBook #6920)", "u": "https://www.gutenberg.org/ebooks/6920" },
+    { "t": "The Enchiridion, tr. T. W. Higginson, with introduction (eBook #45109)", "u": "https://www.gutenberg.org/ebooks/45109" },
+    { "t": "The Consolation of Philosophy, tr. H. R. James, with proem (eBook #14328)", "u": "https://www.gutenberg.org/ebooks/14328" }
+  ]
+}

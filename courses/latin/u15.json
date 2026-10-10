@@ -1,0 +1,361 @@
+{
+  "title": "Prepositions and places in town",
+  "note": "Each preposition takes a fixed case. With the ablative: a/ab, cum, de, e/ex, pro, sine. With the accusative: ad, ante, apud, circum, contra, inter, per, post, prope, propter, trans. In and sub take the accusative for motion into or under and the ablative for position: in urbem, into the city; in urbe, in the city.",
+  "src": {
+    "t": "Allen and Greenough, Derivation of Prepositions",
+    "u": "https://dcc.dickinson.edu/grammar/latin/derivation-prepositions"
+  },
+  "items": [
+    {
+      "c": "ad (+ acc.)",
+      "a": "to, toward",
+      "d": [
+        "from, away from",
+        "without"
+      ],
+      "ex": "Ad forum ambulo.",
+      "exT": "I am walking to the forum."
+    },
+    {
+      "c": "ante (+ acc.)",
+      "a": "before, in front of",
+      "d": [
+        "after, behind",
+        "under"
+      ]
+    },
+    {
+      "c": "apud (+ acc.)",
+      "a": "at the house of, in the presence of",
+      "d": [
+        "against",
+        "across"
+      ]
+    },
+    {
+      "c": "circum (+ acc.)",
+      "a": "around",
+      "d": [
+        "across",
+        "through"
+      ]
+    },
+    {
+      "c": "contra (+ acc.)",
+      "a": "against",
+      "d": [
+        "with",
+        "for, on behalf of"
+      ]
+    },
+    {
+      "c": "inter (+ acc.)",
+      "a": "between, among",
+      "d": [
+        "around",
+        "under"
+      ]
+    },
+    {
+      "c": "per (+ acc.)",
+      "a": "through",
+      "d": [
+        "across",
+        "after"
+      ],
+      "ex": "per silvam",
+      "exT": "through the forest"
+    },
+    {
+      "c": "post (+ acc.)",
+      "a": "after, behind",
+      "d": [
+        "before, in front of",
+        "near"
+      ]
+    },
+    {
+      "c": "propter (+ acc.)",
+      "a": "because of",
+      "d": [
+        "near",
+        "instead of"
+      ]
+    },
+    {
+      "c": "trans (+ acc.)",
+      "a": "across",
+      "d": [
+        "through",
+        "around"
+      ]
+    },
+    {
+      "c": "prope (+ acc.)",
+      "a": "near",
+      "d": [
+        "far from",
+        "because of"
+      ]
+    },
+    {
+      "c": "a, ab (+ abl.)",
+      "a": "from, away from; by",
+      "d": [
+        "to, toward",
+        "out of"
+      ]
+    },
+    {
+      "c": "cum (+ abl.)",
+      "a": "with",
+      "d": [
+        "without",
+        "against"
+      ]
+    },
+    {
+      "c": "de (+ abl.)",
+      "a": "down from; about",
+      "d": [
+        "up to; toward",
+        "under; beneath"
+      ],
+      "ex": "De bello scribo.",
+      "exT": "I am writing about the war."
+    },
+    {
+      "c": "e, ex (+ abl.)",
+      "a": "out of, from",
+      "d": [
+        "into",
+        "without"
+      ]
+    },
+    {
+      "c": "pro (+ abl.)",
+      "a": "for, on behalf of; in front of",
+      "d": [
+        "against",
+        "without"
+      ],
+      "ex": "pro patria",
+      "exT": "for the fatherland"
+    },
+    {
+      "c": "sine (+ abl.)",
+      "a": "without",
+      "d": [
+        "with",
+        "since"
+      ]
+    },
+    {
+      "c": "sub (+ abl.)",
+      "a": "under, at the foot of",
+      "d": [
+        "over, above",
+        "beside"
+      ]
+    },
+    {
+      "c": "in (+ acc.)",
+      "a": "into, onto",
+      "d": [
+        "in, on",
+        "out of"
+      ]
+    },
+    {
+      "c": "in (+ abl.)",
+      "a": "in, on",
+      "d": [
+        "into, onto",
+        "out of"
+      ]
+    },
+    {
+      "c": "in ___ (into the city; urbs)",
+      "a": "urbem",
+      "d": [
+        "urbe",
+        "urbis"
+      ],
+      "ex": "In urbem venio.",
+      "exT": "I come into the city."
+    },
+    {
+      "c": "in ___ (in the city; urbs)",
+      "a": "urbe",
+      "d": [
+        "urbem",
+        "urbi"
+      ],
+      "ex": "In urbe habito.",
+      "exT": "I live in the city."
+    },
+    {
+      "c": "cum ___ (with a friend; amicus)",
+      "a": "amico",
+      "d": [
+        "amicum",
+        "amici"
+      ],
+      "ex": "cum amico",
+      "exT": "with a friend"
+    },
+    {
+      "c": "ad ___ (to the forum; forum)",
+      "a": "forum",
+      "d": [
+        "foro",
+        "fori"
+      ],
+      "ex": "ad forum",
+      "exT": "to the forum"
+    },
+    {
+      "c": "sine ___ (without money; pecunia)",
+      "a": "pecunia",
+      "d": [
+        "pecuniam",
+        "pecuniae"
+      ],
+      "ex": "sine pecunia",
+      "exT": "without money"
+    },
+    {
+      "c": "per ___ (through the forest; silva)",
+      "a": "silvam",
+      "d": [
+        "silva",
+        "silvae"
+      ],
+      "ex": "per silvam",
+      "exT": "through the forest"
+    },
+    {
+      "c": "e ___ (out of the temple; templum)",
+      "a": "templo",
+      "d": [
+        "templum",
+        "templi"
+      ],
+      "ex": "e templo",
+      "exT": "out of the temple"
+    },
+    {
+      "c": "taberna (f)",
+      "a": "shop; inn",
+      "d": [
+        "temple",
+        "bridge"
+      ]
+    },
+    {
+      "c": "theatrum (n)",
+      "a": "theater",
+      "d": [
+        "temple",
+        "forum"
+      ]
+    },
+    {
+      "c": "pons, pontis (m)",
+      "a": "bridge",
+      "d": [
+        "harbor",
+        "mountain"
+      ]
+    },
+    {
+      "c": "aedificium (n)",
+      "a": "building",
+      "d": [
+        "street",
+        "garden"
+      ]
+    },
+    {
+      "c": "ad dextram",
+      "a": "to the right",
+      "d": [
+        "to the left",
+        "straight ahead"
+      ]
+    },
+    {
+      "c": "ad sinistram",
+      "a": "to the left",
+      "d": [
+        "to the right",
+        "behind"
+      ]
+    },
+    {
+      "c": "procul",
+      "a": "far, far away",
+      "d": [
+        "near",
+        "here"
+      ],
+      "ex": "Roma procul est.",
+      "exT": "Rome is far away."
+    },
+    {
+      "c": "ibi",
+      "a": "there",
+      "d": [
+        "here",
+        "where?"
+      ],
+      "ex": "Ibi est forum.",
+      "exT": "There is the forum."
+    },
+    {
+      "c": "hic et nunc",
+      "a": "here and now",
+      "d": [
+        "there and then",
+        "always and everywhere"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Per urbem",
+    "text": [
+      "Marcus cum amico per urbem ambulat. Primo ad forum veniunt. In foro sunt templa et tabernae; multi homines ibi sunt.",
+      "Post forum est pons. Amici trans pontem ambulant et ad theatrum veniunt. Ante theatrum stat poeta et carmen cantat.",
+      "Tum Marcus dicit: \"Ubi est taberna Luci? Aquam quaero!\" Amicus respondet: \"Taberna est prope portam, ad dextram.\" Amici laeti ad portam currunt."
+    ],
+    "q": [
+      {
+        "q": "Where do the friends go first?",
+        "o": [
+          "To the theater",
+          "To the forum",
+          "To the gate"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What is the poet doing in front of the theater?",
+        "o": [
+          "Singing a song",
+          "Reading a letter",
+          "Selling water"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Where is Lucius's shop?",
+        "o": [
+          "Behind the theater",
+          "Across the bridge, on the left",
+          "Near the gate, on the right"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

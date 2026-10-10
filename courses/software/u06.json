@@ -1,0 +1,289 @@
+{
+  "title": "Clean code and refactoring",
+  "note": "Refactoring, in Martin Fowler's sense, changes a program's internal structure to make it easier to understand and modify without changing what it does. Each step is small and checked by tests. A code smell is a surface symptom, such as a long method or duplicated logic, that hints at a deeper design problem.",
+  "src": {
+    "t": "Refactoring Guru, Code smells",
+    "u": "https://refactoring.guru/refactoring/smells"
+  },
+  "items": [
+    {
+      "c": "Refactoring, in Fowler's sense",
+      "a": "restructuring code without changing its behavior",
+      "d": [
+        "adding features while tidying code",
+        "rewriting a system from scratch"
+      ]
+    },
+    {
+      "c": "What must exist before you refactor safely",
+      "a": "automated tests that pin down current behavior",
+      "d": [
+        "a complete design document",
+        "a week-long code freeze"
+      ]
+    },
+    {
+      "c": "Author of the book Refactoring (1999)",
+      "a": "Martin Fowler",
+      "d": [
+        "Kent Beck",
+        "Robert C. Martin",
+        "Erich Gamma"
+      ]
+    },
+    {
+      "c": "A code smell",
+      "a": "a surface hint of a deeper design problem",
+      "d": [
+        "a bug that crashes the program",
+        "a syntax error caught by the compiler"
+      ]
+    },
+    {
+      "c": "Feature Envy",
+      "a": "a method uses another class's data more than its own",
+      "d": [
+        "one class changes for many unrelated reasons",
+        "a subclass ignores most of what it inherits"
+      ]
+    },
+    {
+      "c": "Shotgun Surgery",
+      "a": "one change forces small edits across many classes",
+      "d": [
+        "one class changes for many unrelated reasons",
+        "a method calls a long chain of getters"
+      ]
+    },
+    {
+      "c": "Divergent Change",
+      "a": "one class changes for many unrelated reasons",
+      "d": [
+        "one change forces edits in many classes",
+        "two classes know each other's private details"
+      ]
+    },
+    {
+      "c": "Primitive Obsession",
+      "a": "primitives used where small domain types belong",
+      "d": [
+        "too many tiny classes with no behavior",
+        "a method longer than one screen"
+      ],
+      "ex": "A raw string for an email address or a float for money are typical examples."
+    },
+    {
+      "c": "Data Clumps",
+      "a": "the same group of values keeps traveling together",
+      "d": [
+        "a class that holds only data and no behavior",
+        "one huge class holding all the data"
+      ]
+    },
+    {
+      "c": "Refused Bequest",
+      "a": "a subclass uses little of what it inherits",
+      "d": [
+        "a superclass with no subclasses",
+        "a method that refuses invalid input"
+      ]
+    },
+    {
+      "c": "Speculative Generality",
+      "a": "hooks and abstractions built just in case",
+      "d": [
+        "duplicated logic in sibling classes",
+        "comments explaining obvious code"
+      ]
+    },
+    {
+      "c": "Message Chains",
+      "a": "a.getB().getC().getD() style navigation",
+      "d": [
+        "a class that only forwards calls",
+        "a long list of method parameters"
+      ]
+    },
+    {
+      "c": "Middle Man",
+      "a": "a class that mostly just delegates to another",
+      "d": [
+        "a class with too many responsibilities",
+        "a method chained across objects"
+      ]
+    },
+    {
+      "c": "Dead Code",
+      "a": "code that is never executed or used",
+      "d": [
+        "code with no comments",
+        "code that runs too slowly"
+      ]
+    },
+    {
+      "c": "Magic number",
+      "a": "an unexplained literal such as 86400",
+      "d": [
+        "a randomly generated test value",
+        "a constant with a descriptive name"
+      ]
+    },
+    {
+      "c": "Fix for a magic number",
+      "a": "replace it with a named constant",
+      "d": [
+        "add a comment next to each use",
+        "wrap each use in a try/catch"
+      ]
+    },
+    {
+      "c": "Extract Function (Extract Method)",
+      "a": "move a fragment into its own well-named function",
+      "d": [
+        "replace a call with the function's body",
+        "move a function to another class"
+      ]
+    },
+    {
+      "c": "Inline Function",
+      "a": "replace calls with the function's body",
+      "d": [
+        "pull a fragment into a new function",
+        "rename a function for clarity"
+      ]
+    },
+    {
+      "c": "Extract Variable",
+      "a": "name a complex expression with a local variable",
+      "d": [
+        "turn a field into a global variable",
+        "remove a temporary variable"
+      ]
+    },
+    {
+      "c": "Usual cure for Feature Envy",
+      "a": "Move Function to the class whose data it uses",
+      "d": [
+        "Inline Function at every call site",
+        "Pull Up Method into the superclass"
+      ]
+    },
+    {
+      "c": "Usual cure for Data Clumps",
+      "a": "Introduce Parameter Object",
+      "d": [
+        "Replace Temp with Query",
+        "Inline Class"
+      ]
+    },
+    {
+      "c": "Cure for a type switch repeated across code",
+      "a": "Replace Conditional with Polymorphism",
+      "d": [
+        "Decompose Conditional",
+        "Consolidate Duplicate Conditional Fragments"
+      ]
+    },
+    {
+      "c": "Guard clause",
+      "a": "an early return that handles a special case first",
+      "d": [
+        "a try/catch around the whole function",
+        "an assertion run only in tests"
+      ]
+    },
+    {
+      "c": "Pull Up Method",
+      "a": "move identical subclass methods to the superclass",
+      "d": [
+        "move a superclass method down to one subclass",
+        "split a method into two smaller ones"
+      ]
+    },
+    {
+      "c": "Command–query separation (Bertrand Meyer)",
+      "a": "a method changes state or returns a value, not both",
+      "d": [
+        "queries must be written in SQL",
+        "commands must run asynchronously"
+      ]
+    },
+    {
+      "c": "What good comments mainly explain",
+      "a": "why the code does something",
+      "d": [
+        "what each line does",
+        "who wrote each line"
+      ]
+    },
+    {
+      "c": "Boy Scout Rule",
+      "a": "leave the code a little cleaner than you found it",
+      "d": [
+        "never touch code you did not write",
+        "always rewrite legacy code"
+      ]
+    },
+    {
+      "c": "Rule of three (refactoring)",
+      "a": "refactor when the third duplicate appears",
+      "d": [
+        "every function takes at most three arguments",
+        "every class needs three tests"
+      ]
+    },
+    {
+      "c": "Clearer name for d, a count of days elapsed",
+      "a": "elapsedDays",
+      "d": [
+        "data",
+        "tmp"
+      ]
+    },
+    {
+      "c": "Conventional name for a boolean",
+      "a": "isVisible",
+      "d": [
+        "visibility",
+        "checkVisible"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Small steps, always green",
+    "text": [
+      "Refactoring is not rewriting. Martin Fowler defines it as changing a program's structure while keeping its observable behavior the same. The method is a series of small, named moves, each followed by running the tests. If a test fails, the last step is small enough to undo or fix immediately. A long refactoring done this way never leaves the code broken for more than a few minutes.",
+      "Code smells tell you where to start. A long method is a cue to apply Extract Function, pulling out pieces and naming them for what they do, so the original reads like a summary. Feature Envy, a method that mostly works with another object's data, suggests Move Function to put behavior next to the data it uses. Shotgun Surgery, where one logical change touches many classes, means related logic is scattered and should be gathered.",
+      "Names do much of the work. A variable called elapsedDays needs no comment; one called d needs a paragraph. Good comments are reserved for what code cannot say, such as why an unusual approach was chosen or which outside constraint forced it. The aim is code that a teammate can change confidently next month."
+    ],
+    "q": [
+      {
+        "q": "Why are refactoring steps kept small?",
+        "o": [
+          "A failing test then points at a step easy to undo or fix",
+          "Small steps make the program run faster",
+          "Large steps are banned by most compilers"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Which move does the reading pair with Feature Envy?",
+        "o": [
+          "Extract Function",
+          "Inline Function",
+          "Move Function"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What should comments be reserved for?",
+        "o": [
+          "Restating each line of code",
+          "What code cannot say, such as why a choice was made",
+          "Listing every author of a file"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

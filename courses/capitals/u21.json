@@ -1,0 +1,32 @@
+{
+  "title": "Capitals of Central and Eastern Europe",
+  "note": "Bratislava, Budapest and Belgrade all sit on the Danube. The Baltic capitals run north along the coast, Vilnius, Riga and Tallinn, and Ukraine’s capital is spelled Kyiv in English.",
+  "src": {
+    "t": "CIA World Factbook (archived JSON edition)",
+    "u": "https://github.com/factbook/factbook.json"
+  },
+  "items": [
+    { "c": "Poland", "a": "Warsaw", "d": ["Kraków", "Gdańsk", "Wrocław"] },
+    { "c": "Czechia", "a": "Prague", "d": ["Brno", "Ostrava", "Plzeň"] },
+    { "c": "Slovakia", "a": "Bratislava", "d": ["Košice", "Žilina", "Nitra"] },
+    { "c": "Hungary", "a": "Budapest", "d": ["Debrecen", "Szeged", "Pécs"] },
+    { "c": "Slovenia", "a": "Ljubljana", "d": ["Maribor", "Koper", "Celje"] },
+    { "c": "Croatia", "a": "Zagreb", "d": ["Split", "Rijeka", "Dubrovnik"] },
+    { "c": "Bosnia and Herzegovina", "a": "Sarajevo", "d": ["Mostar", "Tuzla", "Zenica"] },
+    { "c": "Serbia", "a": "Belgrade", "d": ["Novi Sad", "Niš", "Kragujevac"] },
+    { "c": "Montenegro", "a": "Podgorica", "d": ["Nikšić", "Bar", "Budva"], "ex": "Cetinje is the old royal capital." },
+    { "c": "North Macedonia", "a": "Skopje", "d": ["Bitola", "Ohrid", "Kumanovo"] },
+    { "c": "Albania", "a": "Tirana", "d": ["Durrës", "Vlorë", "Shkodër"] },
+    { "c": "Greece", "a": "Athens", "d": ["Thessaloniki", "Patras", "Heraklion"] },
+    { "c": "Bulgaria", "a": "Sofia", "d": ["Plovdiv", "Varna", "Burgas"] },
+    { "c": "Romania", "a": "Bucharest", "d": ["Cluj-Napoca", "Timișoara", "Iași"] },
+    { "c": "Moldova", "a": "Chișinău", "d": ["Bălți", "Cahul", "Ungheni"] },
+    { "c": "Ukraine", "a": "Kyiv", "d": ["Kharkiv", "Odesa", "Lviv"] },
+    { "c": "Belarus", "a": "Minsk", "d": ["Gomel", "Brest", "Grodno"] },
+    { "c": "Lithuania", "a": "Vilnius", "d": ["Kaunas", "Klaipėda", "Šiauliai"] },
+    { "c": "Latvia", "a": "Riga", "d": ["Daugavpils", "Liepāja", "Jelgava"] },
+    { "c": "Estonia", "a": "Tallinn", "d": ["Tartu", "Narva", "Pärnu"] },
+    { "c": "Russia", "a": "Moscow", "d": ["Saint Petersburg", "Novosibirsk", "Kazan"] },
+    { "c": "Cyprus", "a": "Nicosia", "d": ["Limassol", "Larnaca", "Paphos"] }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "title": "Acts and the early church",
+  "note": "Acts, traditionally attributed to Luke as the sequel to his Gospel, follows the church from Jesus' ascension and the coming of the Holy Spirit at Pentecost in Jerusalem, through Peter's ministry and the first Gentile believers, to Paul's journeys and his arrival in Rome.",
+  "src": {
+    "t": "Acts 2:1-8, King James Version, Project Gutenberg eBook #10",
+    "u": "https://www.gutenberg.org/ebooks/10"
+  },
+  "items": [
+    {
+      "c": "Writer traditionally credited with Acts",
+      "a": "Luke",
+      "d": [
+        "Peter",
+        "Mark"
+      ]
+    },
+    {
+      "c": "Man to whom Luke and Acts are addressed",
+      "a": "Theophilus",
+      "d": [
+        "Timothy",
+        "Cornelius"
+      ]
+    },
+    {
+      "c": "Days the risen Jesus was seen (Acts 1:3)",
+      "a": "forty",
+      "d": [
+        "three",
+        "fifty"
+      ]
+    },
+    {
+      "c": "Mount of the ascension (Acts 1:12)",
+      "a": "Olivet (the Mount of Olives)",
+      "d": [
+        "Mount Sinai",
+        "Mount Carmel"
+      ]
+    },
+    {
+      "c": "Order of witness in Acts 1:8",
+      "a": "Jerusalem, Judaea, Samaria, the uttermost part of the earth",
+      "d": [
+        "Rome, Greece, Asia, then Jerusalem",
+        "Galilee, Egypt, Babylon, then Rome"
+      ]
+    },
+    {
+      "c": "Apostle chosen by lot to replace Judas",
+      "a": "Matthias",
+      "d": [
+        "Barnabas",
+        "Stephen"
+      ]
+    },
+    {
+      "c": "Pentecost",
+      "a": "a Jewish harvest feast, fifty days after Passover",
+      "d": [
+        "the feast of the new year",
+        "the day of atonement"
+      ]
+    },
+    {
+      "c": "Converts added after Peter's Pentecost sermon",
+      "a": "about three thousand souls",
+      "d": [
+        "about five hundred souls",
+        "about twelve thousand souls"
+      ]
+    },
+    {
+      "c": "Couple who lied about money and fell dead",
+      "a": "Ananias and Sapphira",
+      "d": [
+        "Aquila and Priscilla",
+        "Zacharias and Elisabeth"
+      ]
+    },
+    {
+      "c": "First Christian martyr, stoned in Jerusalem",
+      "a": "Stephen",
+      "d": [
+        "James",
+        "Philip"
+      ]
+    },
+    {
+      "c": "Young man who consented to Stephen's death",
+      "a": "Saul",
+      "d": [
+        "Silas",
+        "Timothy"
+      ]
+    },
+    {
+      "c": "Evangelist who baptized an Ethiopian official",
+      "a": "Philip",
+      "d": [
+        "Peter",
+        "Barnabas"
+      ]
+    },
+    {
+      "c": "Sorcerer who offered money for the Holy Ghost",
+      "a": "Simon (Simon Magus)",
+      "d": [
+        "Elymas",
+        "Demetrius"
+      ],
+      "ex": "Buying church office is still called 'simony.'"
+    },
+    {
+      "c": "City Saul was nearing when the light struck",
+      "a": "Damascus",
+      "d": [
+        "Antioch",
+        "Tarsus"
+      ]
+    },
+    {
+      "c": "'Saul, Saul, why persecutest thou me?'",
+      "a": "the voice Saul heard on the road",
+      "d": [
+        "Stephen's last words",
+        "Peter's rebuke to Simon"
+      ]
+    },
+    {
+      "c": "Disciple sent to lay hands on the blinded Saul",
+      "a": "Ananias of Damascus",
+      "d": [
+        "Barnabas of Cyprus",
+        "John Mark"
+      ]
+    },
+    {
+      "c": "Lesson of Peter's vision of the great sheet",
+      "a": "call no man common or unclean",
+      "d": [
+        "eat only clean animals",
+        "offer sacrifices in the temple"
+      ]
+    },
+    {
+      "c": "Centurion at Caesarea whom Peter visited",
+      "a": "Cornelius",
+      "d": [
+        "Julius",
+        "Felix"
+      ]
+    },
+    {
+      "c": "Where disciples were first called Christians",
+      "a": "Antioch",
+      "d": [
+        "Jerusalem",
+        "Rome"
+      ]
+    },
+    {
+      "c": "Who freed Peter from Herod's prison (Acts 12)",
+      "a": "an angel of the Lord",
+      "d": [
+        "the Roman guards",
+        "Paul and Silas"
+      ]
+    },
+    {
+      "c": "Question at the council in Jerusalem (Acts 15)",
+      "a": "must Gentile believers be circumcised?",
+      "d": [
+        "who should replace Judas?",
+        "should the temple be rebuilt?"
+      ]
+    },
+    {
+      "c": "Paul's partner on his first missionary journey",
+      "a": "Barnabas",
+      "d": [
+        "Silas",
+        "Luke"
+      ]
+    },
+    {
+      "c": "Paul's fellow prisoner at Philippi",
+      "a": "Silas",
+      "d": [
+        "Barnabas",
+        "Timothy"
+      ]
+    },
+    {
+      "c": "Seller of purple from Thyatira",
+      "a": "Lydia",
+      "d": [
+        "Dorcas",
+        "Priscilla"
+      ]
+    },
+    {
+      "c": "Altar inscription Paul found in Athens",
+      "a": "TO THE UNKNOWN GOD",
+      "d": [
+        "TO THE GOD OF ISRAEL",
+        "TO THE GODS OF ROME"
+      ]
+    },
+    {
+      "c": "Goddess whose silversmiths rioted at Ephesus",
+      "a": "Diana (Artemis)",
+      "d": [
+        "Venus (Aphrodite)",
+        "Minerva (Athena)"
+      ]
+    },
+    {
+      "c": "Youth who fell from a window as Paul preached",
+      "a": "Eutychus",
+      "d": [
+        "Onesimus",
+        "Tychicus"
+      ]
+    },
+    {
+      "c": "'I appeal unto Caesar'",
+      "a": "Paul, asking to be tried in Rome",
+      "d": [
+        "Peter, before the high priest",
+        "Stephen, before the council"
+      ]
+    },
+    {
+      "c": "Island where Paul was shipwrecked",
+      "a": "Melita (Malta)",
+      "d": [
+        "Patmos",
+        "Cyprus"
+      ]
+    },
+    {
+      "c": "How Acts ends",
+      "a": "Paul in his own hired house in Rome, still preaching",
+      "d": [
+        "Paul's execution under Nero",
+        "Peter's arrival in Rome"
+      ]
+    }
+  ],
+  "read": {
+    "title": "The day of Pentecost (Acts 2:1-8)",
+    "text": [
+      "And when the day of Pentecost was fully come, they were all with one accord in one place. And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting. And there appeared unto them cloven tongues like as of fire, and it sat upon each of them. And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance.",
+      "And there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven. Now when this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language. And they were all amazed and marvelled, saying one to another, Behold, are not all these which speak Galilaeans? And how hear we every man in our own tongue, wherein we were born?"
+    ],
+    "q": [
+      {
+        "q": "What sound came from heaven?",
+        "o": [
+          "Thunder over the temple",
+          "A trumpet",
+          "A rushing mighty wind"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What appeared and sat upon each of them?",
+        "o": [
+          "Cloven tongues like as of fire",
+          "A dove",
+          "A bright cloud"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why was the multitude confounded?",
+        "o": [
+          "The disciples were silent",
+          "Every man heard them speak in his own language",
+          "The house was shaken"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

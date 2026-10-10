@@ -1,0 +1,80 @@
+{
+  "title": "Numbers and age",
+  "note": "One and two agree with the noun: um livro, uma casa; dois livros, duas casas. Tens and units are joined with e: vinte e um (21). Age uses ter (to have): Tenho vinte anos, literally \"I have twenty years.\"",
+  "src": {"t": "Língua da Gente, Beginning 07: How Old Are You?", "u": "https://linguadagente.coerll.utexas.edu/how-old-are-you/"},
+  "items": [
+    {"c": "um", "a": "one (masculine)", "d": ["one (feminine)", "two (masculine)"], "ex": "um café", "exT": "one coffee"},
+    {"c": "uma", "a": "one (feminine)", "d": ["one (masculine)", "two (feminine)"], "ex": "uma cerveja", "exT": "one beer"},
+    {"c": "dois", "a": "two (masculine)", "d": ["two (feminine)", "twelve"], "ex": "dois cafés", "exT": "two coffees"},
+    {"c": "duas", "a": "two (feminine)", "d": ["two (masculine)", "one (feminine)"], "ex": "duas cervejas", "exT": "two beers"},
+    {"c": "três", "a": "three", "d": ["thirteen", "six"], "ex": "Tenho três irmãos.", "exT": "I have three siblings."},
+    {"c": "quatro", "a": "four", "d": ["fourteen", "forty"]},
+    {"c": "cinco", "a": "five", "d": ["fifty", "fifteen"]},
+    {"c": "seis", "a": "six", "d": ["seven", "sixteen"]},
+    {"c": "sete", "a": "seven", "d": ["six", "seventy"]},
+    {"c": "oito", "a": "eight", "d": ["nine", "eighteen"]},
+    {"c": "nove", "a": "nine", "d": ["eight", "nineteen"]},
+    {"c": "dez", "a": "ten", "d": ["two", "twelve"], "ex": "São dez reais.", "exT": "It's ten reais."},
+    {"c": "onze", "a": "eleven", "d": ["twelve", "fifteen"]},
+    {"c": "doze", "a": "twelve", "d": ["eleven", "two"]},
+    {"c": "quinze", "a": "fifteen", "d": ["fifty", "fourteen"]},
+    {"c": "dezesseis", "a": "sixteen", "d": ["seventeen", "sixty"]},
+    {"c": "dezessete", "a": "seventeen", "d": ["sixteen", "seventy"]},
+    {"c": "vinte", "a": "twenty", "d": ["thirty", "two"]},
+    {"c": "vinte e um", "a": "twenty-one", "d": ["twelve", "thirty-one"], "ex": "Ela tem vinte e um anos.", "exT": "She's twenty-one."},
+    {"c": "trinta", "a": "thirty", "d": ["thirteen", "twenty"]},
+    {"c": "quarenta", "a": "forty", "d": ["fourteen", "four hundred"]},
+    {"c": "cinquenta", "a": "fifty", "d": ["fifteen", "sixty"]},
+    {"c": "cem", "a": "one hundred", "d": ["one thousand", "ten"], "ex": "cem pessoas", "exT": "one hundred people"},
+    {"c": "mil", "a": "one thousand", "d": ["one million", "one hundred"], "ex": "mil reais", "exT": "one thousand reais"},
+    {"c": "meia (in a phone number)", "a": "six (in phone numbers)", "d": ["half", "zero"], "say": "meia", "ex": "Meu número é nove, meia, dois...", "exT": "My number is nine, six, two..."},
+    {"c": "Quantos anos você tem?", "a": "How old are you?", "d": ["How many children do you have?", "How long have you lived here?"], "ex": "Quantos anos você tem? Tenho trinta.", "exT": "How old are you? I'm thirty."},
+    {"c": "Tenho vinte anos.", "a": "I'm twenty years old.", "d": ["I've lived here twenty years.", "I have twenty friends."]},
+    {"c": "Eu ___ 25 anos. (ter)", "a": "tenho", "d": ["tem", "sou"]},
+    {"c": "Ela ___ dez anos. (ter)", "a": "tem", "d": ["tenho", "é"]},
+    {"c": "___ casas (2)", "a": "duas", "d": ["dois"]},
+    {"c": "___ livros (2)", "a": "dois", "d": ["duas"]},
+    {"c": "___ amiga (1)", "a": "uma", "d": ["um"]},
+    {"c": "Qual é o seu telefone?", "a": "What's your phone number?", "d": ["Where is your phone?", "Is this your phone?"]}
+  ],
+  "read": {
+    "title": "A família da Júlia",
+    "text": [
+      "Oi! Eu me chamo Júlia. Sou brasileira, de Salvador. Tenho vinte e dois anos.",
+      "Na minha casa somos cinco pessoas: meu pai, minha mãe, meus dois irmãos e eu. Meu pai tem cinquenta anos e minha mãe tem quarenta e oito. Meu irmão Lucas tem quinze anos e meu irmão Rafael tem dezessete.",
+      "Nós temos duas gatas, a Mimi e a Lua. A Mimi tem três anos e a Lua tem um ano.",
+      "Meu telefone? É nove, meia, oito, dois, cinco, um, sete, quatro, zero."
+    ],
+    "q": [
+      {
+        "q": "How old is Júlia?",
+        "o": [
+          "20",
+          "22",
+          "17",
+          "12"
+        ],
+        "k": 1
+      },
+      {
+        "q": "How many people live in Júlia's house?",
+        "o": [
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What is the second digit of her phone number?",
+        "o": [
+          "6",
+          "9",
+          "8",
+          "2"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

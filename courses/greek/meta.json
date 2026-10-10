@@ -1,0 +1,18 @@
+{
+  "key": "greek",
+  "name": "Greek (Koine & Classical)",
+  "group": "Languages",
+  "tag": "ΕΛΛΗΝΙΚΑ",
+  "lang": "el-GR",
+  "speak": "listen",
+  "level": "Beginner to early intermediate",
+  "blurb": "Learn the alphabet with breathings and accents, the article, the three declensions, the main tenses and voices, participles, pronouns and the high-frequency New Testament vocabulary, then read famous verses and simple lines of Plato and Aristotle. No browser has an ancient Greek voice, so audio uses a Modern Greek voice, which sounds quite different from ancient pronunciation.",
+  "sources": [
+    { "t": "Perseus Digital Library, Tufts University (Smyth's Greek Grammar, LSJ)", "u": "https://www.perseus.tufts.edu/" },
+    { "t": "Dickinson College Commentaries, Greek Core Vocabulary", "u": "https://dcc.dickinson.edu/greek-core-list" },
+    { "t": "SBL Greek New Testament (free edition)", "u": "https://sblgnt.com/" },
+    { "t": "Wiktionary, Ancient Greek entries (λόγος)", "u": "https://en.m.wiktionary.org/wiki/%CE%BB%CF%8C%CE%B3%CE%BF%CF%82" },
+    { "t": "James Strong, Greek in a Nutshell (Project Gutenberg)", "u": "https://gutenberg.org/cache/epub/11130/pg11130-images.html" },
+    { "t": "Scaife Viewer, Perseus Digital Library (Plato, Aristotle)", "u": "https://scaife.perseus.org/" }
+  ]
+}

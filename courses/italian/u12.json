@@ -1,0 +1,303 @@
+{
+  "title": "Body and health",
+  "note": "To say something hurts, use fare male with the body part as subject: Mi fa male la testa (one thing), Mi fanno male i piedi (more than one). Some body words have irregular plurals: la mano, le mani; il braccio, le braccia; il dito, le dita.",
+  "src": {
+    "t": "Vocabolario Treccani",
+    "u": "https://www.treccani.it/vocabolario/"
+  },
+  "items": [
+    {
+      "c": "il corpo",
+      "a": "body",
+      "d": [
+        "head",
+        "heart"
+      ]
+    },
+    {
+      "c": "la testa",
+      "a": "head",
+      "d": [
+        "face",
+        "neck"
+      ],
+      "ex": "Mi fa male la testa.",
+      "exT": "My head hurts."
+    },
+    {
+      "c": "la faccia",
+      "a": "face",
+      "d": [
+        "head",
+        "cheek"
+      ]
+    },
+    {
+      "c": "gli occhi",
+      "a": "eyes",
+      "d": [
+        "ears",
+        "eyebrows"
+      ]
+    },
+    {
+      "c": "le orecchie",
+      "a": "ears",
+      "d": [
+        "eyes",
+        "cheeks"
+      ]
+    },
+    {
+      "c": "il naso",
+      "a": "nose",
+      "d": [
+        "mouth",
+        "chin"
+      ]
+    },
+    {
+      "c": "la bocca",
+      "a": "mouth",
+      "d": [
+        "nose",
+        "throat"
+      ]
+    },
+    {
+      "c": "i denti",
+      "a": "teeth",
+      "d": [
+        "lips",
+        "gums"
+      ]
+    },
+    {
+      "c": "i capelli",
+      "a": "hair (on the head)",
+      "d": [
+        "hats",
+        "eyelashes"
+      ]
+    },
+    {
+      "c": "la gola",
+      "a": "throat",
+      "d": [
+        "neck",
+        "chest"
+      ]
+    },
+    {
+      "c": "il collo",
+      "a": "neck",
+      "d": [
+        "throat",
+        "shoulder"
+      ]
+    },
+    {
+      "c": "la spalla",
+      "a": "shoulder",
+      "d": [
+        "elbow",
+        "back"
+      ]
+    },
+    {
+      "c": "le braccia",
+      "a": "arms",
+      "d": [
+        "legs",
+        "hands"
+      ]
+    },
+    {
+      "c": "la mano",
+      "a": "hand",
+      "d": [
+        "arm",
+        "foot"
+      ],
+      "ex": "Dammi la mano.",
+      "exT": "Give me your hand."
+    },
+    {
+      "c": "le dita",
+      "a": "fingers (also toes)",
+      "d": [
+        "wrists",
+        "nails"
+      ]
+    },
+    {
+      "c": "la gamba",
+      "a": "leg",
+      "d": [
+        "arm",
+        "knee"
+      ]
+    },
+    {
+      "c": "il ginocchio",
+      "a": "knee",
+      "d": [
+        "ankle",
+        "elbow"
+      ]
+    },
+    {
+      "c": "il piede",
+      "a": "foot",
+      "d": [
+        "leg",
+        "hand"
+      ]
+    },
+    {
+      "c": "la schiena",
+      "a": "back (of the body)",
+      "d": [
+        "chest",
+        "stomach"
+      ]
+    },
+    {
+      "c": "lo stomaco",
+      "a": "stomach",
+      "d": [
+        "back",
+        "liver"
+      ]
+    },
+    {
+      "c": "il cuore",
+      "a": "heart",
+      "d": [
+        "lungs",
+        "chest"
+      ]
+    },
+    {
+      "c": "il medico",
+      "a": "doctor",
+      "d": [
+        "nurse",
+        "pharmacist"
+      ]
+    },
+    {
+      "c": "la medicina",
+      "a": "medicine",
+      "d": [
+        "prescription",
+        "doctor"
+      ]
+    },
+    {
+      "c": "Ho la febbre.",
+      "a": "I have a fever.",
+      "d": [
+        "I have a cold.",
+        "I'm hot."
+      ]
+    },
+    {
+      "c": "Ho il raffreddore.",
+      "a": "I have a cold.",
+      "d": [
+        "I have a fever.",
+        "I'm cold."
+      ]
+    },
+    {
+      "c": "Come ti senti?",
+      "a": "How do you feel?",
+      "d": [
+        "What do you hear?",
+        "Where does it hurt?"
+      ]
+    },
+    {
+      "c": "Mi sento meglio.",
+      "a": "I feel better.",
+      "d": [
+        "I feel worse.",
+        "I hear better."
+      ],
+      "ex": "Oggi mi sento meglio, grazie.",
+      "exT": "Today I feel better, thanks."
+    },
+    {
+      "c": "Mi ___ male la gola.",
+      "a": "fa",
+      "d": [
+        "fanno",
+        "è"
+      ]
+    },
+    {
+      "c": "Mi ___ male i piedi.",
+      "a": "fanno",
+      "d": [
+        "fa",
+        "sono"
+      ]
+    },
+    {
+      "c": "Mi fa male ___ braccio. (the)",
+      "a": "il",
+      "d": [
+        "lo",
+        "la"
+      ]
+    },
+    {
+      "c": "___ mano (the)",
+      "a": "la",
+      "d": [
+        "il",
+        "lo"
+      ]
+    }
+  ],
+  "read": {
+    "title": "In farmacia",
+    "text": [
+      "Oggi Marco non sta bene. Ha mal di testa, gli fa male la gola e ha un po' di febbre. Non va a lezione e resta a casa.",
+      "Il pomeriggio va in farmacia. Il farmacista dice: \"Lei ha il raffreddore. Prenda questa medicina tre volte al giorno, beva molta acqua e dorma molto.\"",
+      "Marco torna a casa, prende la medicina e va a letto. La mattina dopo si sente meglio."
+    ],
+    "q": [
+      {
+        "q": "Which of these does Marco NOT mention?",
+        "o": [
+          "A stomachache",
+          "A headache",
+          "A sore throat",
+          "A slight fever"
+        ],
+        "k": 0
+      },
+      {
+        "q": "How often should he take the medicine?",
+        "o": [
+          "Once a day",
+          "Twice a day",
+          "Three times a day",
+          "Every hour"
+        ],
+        "k": 2
+      },
+      {
+        "q": "How does Marco feel the next morning?",
+        "o": [
+          "Worse",
+          "The same",
+          "Better"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

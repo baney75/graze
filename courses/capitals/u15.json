@@ -1,0 +1,36 @@
+{
+  "title": "Flags of West and Central Africa",
+  "kind": "flag",
+  "note": "Green, yellow and red, the Pan-African colors taken from Ethiopia and later Ghana, run through West Africa: Mali, Guinea, Senegal and Cameroon all use them, so watch the order and any star. Chad and Romania are nearly identical blue, yellow and red tricolors.",
+  "src": {
+    "t": "flag-icons (MIT)",
+    "u": "https://github.com/lipis/flag-icons"
+  },
+  "items": [
+    { "p": "mr", "a": "Mauritania", "d": ["Algeria", "Pakistan", "Mali"] },
+    { "p": "sn", "a": "Senegal", "d": ["Mali", "Guinea", "Cameroon"] },
+    { "p": "gm", "a": "Gambia", "d": ["Senegal", "Guinea-Bissau", "Guinea"] },
+    { "p": "gw", "a": "Guinea-Bissau", "d": ["Gambia", "Senegal", "Guinea"] },
+    { "p": "gn", "a": "Guinea", "d": ["Mali", "Senegal", "Cameroon"] },
+    { "p": "sl", "a": "Sierra Leone", "d": ["Gabon", "Guinea", "Liberia"] },
+    { "p": "lr", "a": "Liberia", "d": ["United States", "Malaysia", "Cuba"] },
+    { "p": "ci", "a": "Côte d'Ivoire", "d": ["Ireland", "Italy", "Niger"] },
+    { "p": "ml", "a": "Mali", "d": ["Senegal", "Guinea", "Cameroon"] },
+    { "p": "bf", "a": "Burkina Faso", "d": ["Togo", "Benin", "Ghana"] },
+    { "p": "gh", "a": "Ghana", "d": ["Guinea-Bissau", "Ethiopia", "Bolivia"] },
+    { "p": "tg", "a": "Togo", "d": ["Benin", "Ghana", "Burkina Faso"] },
+    { "p": "bj", "a": "Benin", "d": ["Togo", "Ghana", "Burkina Faso"] },
+    { "p": "ne", "a": "Niger", "d": ["India", "Côte d'Ivoire", "Ireland"] },
+    { "p": "ng", "a": "Nigeria", "d": ["Cameroon", "Benin", "Togo"] },
+    { "p": "cv", "a": "Cabo Verde", "d": ["Gambia", "Senegal", "Guinea-Bissau"] },
+    { "p": "cm", "a": "Cameroon", "d": ["Senegal", "Mali", "Guinea"] },
+    { "p": "td", "a": "Chad", "d": ["Romania", "Andorra", "Moldova"] },
+    { "p": "cf", "a": "Central African Republic", "d": ["Cameroon", "Republic of the Congo", "Chad"] },
+    { "p": "gq", "a": "Equatorial Guinea", "d": ["São Tomé and Príncipe", "Gabon", "Republic of the Congo"] },
+    { "p": "ga", "a": "Gabon", "d": ["Sierra Leone", "Republic of the Congo", "Equatorial Guinea"] },
+    { "p": "cg", "a": "Republic of the Congo", "d": ["Gabon", "Equatorial Guinea", "DR Congo"] },
+    { "p": "cd", "a": "DR Congo", "d": ["Republic of the Congo", "Angola", "Gabon"] },
+    { "p": "st", "a": "São Tomé and Príncipe", "d": ["Equatorial Guinea", "Gabon", "Republic of the Congo"] },
+    { "p": "ao", "a": "Angola", "d": ["DR Congo", "Republic of the Congo", "Gabon"] }
+  ]
+}

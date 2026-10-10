@@ -1,0 +1,52 @@
+{
+  "title": "Society and manners",
+  "note": "Rome's patricians were the old ruling families and its plebeians the common citizens; both words still mark class. Hoi polloi, Greek for the many, means the common people, not the elite, though it is often misused. Gauche, French for left, means socially awkward, and a faux pas, a false step, is a social blunder.",
+  "src": { "t": "Merriam-Webster: parvenu", "u": "https://www.merriam-webster.com/dictionary/parvenu" },
+  "items": [
+    { "c": "parvenu", "a": "a person newly risen to wealth or power, lacking polish", "d": ["a person of ancient noble family", "a person who lives apart from society", "a skilled teller of anecdotes"], "ex": "The old families sneered at the parvenu and then attended all his parties." },
+    { "c": "decorum", "a": "behavior in keeping with good taste and propriety", "d": ["a deliberate breach of custom", "an excessive show of wealth", "a narrow, local outlook"], "ex": "The judge reminded the gallery to observe decorum." },
+    { "c": "propriety", "a": "conformity to accepted standards of behavior", "d": ["indifference to social rules", "the right to own property", "the habit of flattering others"], "ex": "Strict propriety once required a chaperone for any unmarried young woman at a dance." },
+    { "c": "mores", "a": "the essential customs and moral conventions of a group", "d": ["the rules of a formal game", "the wealthiest families of a town", "a group's secret plans"], "ex": "The novel satirizes the mores of a small Southern town." },
+    { "c": "gauche", "a": "socially awkward and tactless", "d": ["smoothly sophisticated", "showily rich", "warmly sociable"], "ex": "It seemed gauche to ask the hosts what their house had cost." },
+    { "c": "boorish", "a": "rough and bad-mannered", "d": ["refined and courteous", "shy and quiet", "learned and wise"], "ex": "His boorish jokes emptied the table by dessert." },
+    { "c": "genteel", "a": "polite, refined, or respectable, sometimes affectedly so", "d": ["coarse and rude", "openly rebellious", "noisy and lively"], "ex": "The genteel tearoom served cucumber sandwiches with the crusts removed." },
+    { "c": "patrician", "a": "aristocratic; belonging to the upper class", "d": ["belonging to the common people", "newly rich", "living by begging"], "ex": "Her patrician accent hinted at boarding schools and summer estates." },
+    { "c": "plebeian", "a": "belonging to the common people; unrefined", "d": ["aristocratic", "highly cultured", "socially exclusive"], "ex": "He claimed to prefer plebeian hot dogs to the caterer's oysters." },
+    { "c": "hoi polloi", "a": "the common people; the masses", "d": ["a royal household", "a small circle of friends", "the clergy"], "ex": "The club's members liked to think themselves above the hoi polloi." },
+    { "c": "deference", "a": "respectful yielding to another's judgment or wishes", "d": ["open defiance", "smug superiority", "careless indifference"], "ex": "In deference to the family, the paper withheld the name." },
+    { "c": "hauteur", "a": "haughtiness; arrogance of manner", "d": ["warm humility", "awkward shyness", "cheerful friendliness"], "ex": "The duchess surveyed the buffet with icy hauteur." },
+    { "c": "noblesse oblige", "a": "the duty of the privileged to act generously", "d": ["the right of nobles to rule", "the habit of flattering superiors", "a narrow, local outlook"], "ex": "Out of noblesse oblige, the family funded the town's hospital." },
+    { "c": "savoir-faire", "a": "the ability to act appropriately in social situations", "d": ["a social blunder", "an awkward lack of tact", "a showy display of wealth"], "ex": "With effortless savoir-faire, she seated the feuding cousins at opposite ends." },
+    { "c": "faux pas", "a": "an embarrassing social blunder", "d": ["a graceful gesture", "a formal greeting", "a witty remark"], "ex": "Wearing white to the wedding was a faux pas she never lived down." },
+    { "c": "ingratiate", "a": "to gain favor by deliberate effort", "d": ["to give deliberate offense", "to withdraw from company", "to expel from a group"], "ex": "The new hire tried to ingratiate himself by bringing donuts every day." },
+    { "c": "unctuous", "a": "excessively and insincerely flattering; oily", "d": ["bluntly honest", "socially awkward", "coldly aloof"], "ex": "The unctuous salesman called everyone \"my dear friend.\"" },
+    { "c": "convivial", "a": "friendly, lively, and enjoyably sociable", "d": ["cold and unfriendly", "stiffly formal", "gloomy and withdrawn"], "ex": "The convivial dinner ran past midnight." },
+    { "c": "bonhomie", "a": "cheerful friendliness; geniality", "d": ["cold arrogance", "nervous shyness", "bitter rivalry"], "ex": "His bonhomie made strangers feel like old friends." },
+    { "c": "parochial", "a": "having a limited or narrow outlook", "d": ["worldly and well-traveled", "generous and broad-minded", "highly refined"], "ex": "The paper's parochial coverage ignored anything beyond the county line." },
+    { "c": "cosmopolitan", "a": "familiar with and at ease in many cultures", "d": ["narrow and local in outlook", "socially awkward", "belonging to the common people"], "ex": "A cosmopolitan city, it has newspapers in thirty languages." },
+    { "c": "pariah", "a": "a person rejected by society; an outcast", "d": ["a celebrated public figure", "a skilled host", "a trusted adviser"], "ex": "After the scandal he became a pariah in the industry." },
+    { "c": "ostracize", "a": "to exclude from a group or society", "d": ["to welcome warmly", "to flatter for favor", "to promote to leadership"], "ex": "Classmates ostracized the boy who had reported the cheating." },
+    { "c": "cynosure", "a": "a person or thing that is the center of attention", "d": ["a person who shuns attention", "a social outcast", "a hidden flaw"], "ex": "The vintage car was the cynosure of the parade." },
+    { "c": "coterie", "a": "a small, exclusive group with shared interests", "d": ["a huge public crowd", "a formal government body", "a single loyal follower"], "ex": "A coterie of poets met every Thursday above the bookstore." },
+    { "c": "retinue", "a": "a group of attendants accompanying an important person", "d": ["a group of rebels", "a list of guests", "a set of rules for conduct"], "ex": "The star arrived with a retinue of stylists and bodyguards." },
+    { "c": "raconteur", "a": "a person who tells anecdotes skillfully", "d": ["a person who avoids conversation", "a critic of manners", "a newly rich social climber"], "ex": "A born raconteur, he could make a trip to the hardware store sound epic." },
+    { "c": "iconoclast", "a": "a person who attacks cherished beliefs or institutions", "d": ["a defender of tradition", "a maker of religious images", "a polite host"], "ex": "The young economist was an iconoclast who mocked her field's favorite models." },
+    { "c": "ostentatious", "a": "designed to impress or attract notice; showy", "d": ["modest and understated", "awkward and tactless", "narrow in outlook"], "ex": "The ostentatious mansion had a gold-plated mailbox." },
+    { "c": "aesthete", "a": "a person with a refined appreciation of art and beauty", "d": ["a person hostile to art", "a person who practices self-denial", "a newly rich social climber"], "ex": "The aesthete rearranged the flowers before letting anyone sit down." }
+  ],
+  "read": {
+    "title": "The Dinner Party",
+    "text": [
+      "Marguerite Vance had hosted the same dinner every December for thirty years, and her guests knew its mores by heart: no talk of money, no phones at the table, and no leaving before the cheese.",
+      "This year she invited a newcomer. Leo Brandt had made a fortune in frozen pizza and bought the old Ashby house on the hill. A few guests whispered that he was a parvenu. Others, less patrician themselves, simply wondered whether he would know which fork to use.",
+      "He did not. He reached for the dessert spoon during the soup, asked the bishop what his house had cost, and laughed loudly at his own jokes. It was one faux pas after another, and the table's hauteur grew colder by the course.",
+      "Then the power went out. In the dark, the guests discovered that Brandt was a superb raconteur. He told of selling pizzas from a borrowed van, of nearly going broke twice, and of the night a health inspector became his first investor. His bonhomie warmed the room more than the candles did.",
+      "By the time the lights returned, the evening had become the most convivial in years. Marguerite noticed that the guests who had been ready to ostracize him were now asking for his number. Good manners, she decided, could be learned; savoir-faire of the heart was rarer."
+    ],
+    "q": [
+      { "q": "Why did some guests call Brandt a parvenu?", "o": ["He came from an old noble family", "He had recently become rich", "He was a famous storyteller", "He was the bishop's cousin"], "k": 1 },
+      { "q": "What changed the guests' opinion of him?", "o": ["His skill at telling stories during the blackout", "His perfect table manners", "His gift to the hostess", "His early departure"], "k": 0 },
+      { "q": "\"The table's hauteur grew colder\" means the guests became", "o": ["more friendly", "more hungry", "more haughty and disdainful", "more confused"], "k": 2 }
+    ]
+  }
+}

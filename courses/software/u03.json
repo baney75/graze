@@ -1,0 +1,297 @@
+{
+  "title": "Algorithms: sorting, searching, graphs",
+  "note": "No comparison sort beats Ω(n log n) in the worst case. A stable sort keeps equal keys in their original order. BFS and DFS visit a graph in O(V + E). Dynamic programming reuses answers to overlapping subproblems; a greedy algorithm commits to the locally best choice and is correct only when the problem allows it.",
+  "src": {
+    "t": "MIT OpenCourseWare 6.006, Introduction to Algorithms",
+    "u": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/"
+  },
+  "items": [
+    {
+      "c": "A stable sort",
+      "a": "keeps equal keys in their original relative order",
+      "d": [
+        "always runs in O(n log n) time",
+        "sorts without any extra memory"
+      ]
+    },
+    {
+      "c": "Merge sort time in every case",
+      "a": "O(n log n)",
+      "d": [
+        "O(n²)",
+        "O(n)"
+      ]
+    },
+    {
+      "c": "Is standard merge sort stable?",
+      "a": "yes",
+      "d": [
+        "no"
+      ]
+    },
+    {
+      "c": "Extra space for array merge sort",
+      "a": "O(n) auxiliary space",
+      "d": [
+        "O(1) auxiliary space",
+        "O(n²) auxiliary space"
+      ]
+    },
+    {
+      "c": "Quicksort average-case time",
+      "a": "O(n log n) on average",
+      "d": [
+        "O(n²) on average",
+        "O(n) on average"
+      ]
+    },
+    {
+      "c": "Quicksort worst-case time",
+      "a": "O(n²)",
+      "d": [
+        "O(n log n)",
+        "O(n)"
+      ],
+      "ex": "Happens when pivots keep splitting the array very unevenly."
+    },
+    {
+      "c": "Is in-place quicksort stable?",
+      "a": "no",
+      "d": [
+        "yes"
+      ]
+    },
+    {
+      "c": "Heapsort worst-case time",
+      "a": "O(n log n), even in the worst case",
+      "d": [
+        "O(n²) in the worst case",
+        "O(n) in the worst case"
+      ]
+    },
+    {
+      "c": "Insertion sort on already-sorted input",
+      "a": "O(n): one comparison per element",
+      "d": [
+        "O(n²): it still compares all pairs",
+        "O(n log n): same as merge sort"
+      ]
+    },
+    {
+      "c": "Insertion sort worst-case time",
+      "a": "O(n²), on reverse-sorted input",
+      "d": [
+        "O(n log n), on reverse-sorted input",
+        "O(n), on reverse-sorted input"
+      ]
+    },
+    {
+      "c": "Selection sort time, even on sorted input",
+      "a": "O(n²) comparisons in every case",
+      "d": [
+        "O(n) comparisons when already sorted",
+        "O(n log n) comparisons in every case"
+      ]
+    },
+    {
+      "c": "Lower bound for comparison sorting",
+      "a": "Ω(n log n) comparisons",
+      "d": [
+        "Ω(n) comparisons",
+        "Ω(n²) comparisons"
+      ]
+    },
+    {
+      "c": "Counting sort time for keys in range 0..k",
+      "a": "O(n + k)",
+      "d": [
+        "O(n log n)",
+        "O(n · k)"
+      ]
+    },
+    {
+      "c": "Hybrid stable sort used by Python's sorted()",
+      "a": "Timsort",
+      "d": [
+        "quicksort",
+        "heapsort",
+        "shell sort"
+      ]
+    },
+    {
+      "c": "Precondition for binary search",
+      "a": "the data must be sorted",
+      "d": [
+        "the data must fit in cache",
+        "the data must be a linked list"
+      ]
+    },
+    {
+      "c": "Structure that drives breadth-first search",
+      "a": "a queue",
+      "d": [
+        "a stack",
+        "a min-heap"
+      ]
+    },
+    {
+      "c": "Structure that drives depth-first search",
+      "a": "a stack, or recursion",
+      "d": [
+        "a queue",
+        "a hash table"
+      ]
+    },
+    {
+      "c": "BFS or DFS time on an adjacency list",
+      "a": "O(V + E)",
+      "d": [
+        "O(V · E)",
+        "O(V²) always"
+      ]
+    },
+    {
+      "c": "Shortest paths in an unweighted graph",
+      "a": "breadth-first search",
+      "d": [
+        "depth-first search",
+        "Kruskal's algorithm"
+      ]
+    },
+    {
+      "c": "Dijkstra's algorithm requires",
+      "a": "no negative edge weights",
+      "d": [
+        "an unweighted graph",
+        "a graph with no cycles"
+      ]
+    },
+    {
+      "c": "Dijkstra's algorithm with a binary heap",
+      "a": "O((V + E) log V)",
+      "d": [
+        "O(V + E)",
+        "O(V · E)",
+        "O(V³)"
+      ]
+    },
+    {
+      "c": "Shortest paths with negative edge weights",
+      "a": "Bellman–Ford",
+      "d": [
+        "Dijkstra's algorithm",
+        "breadth-first search"
+      ],
+      "ex": "Bellman–Ford runs in O(V·E) and also detects negative cycles."
+    },
+    {
+      "c": "All-pairs shortest paths in O(V³)",
+      "a": "Floyd–Warshall",
+      "d": [
+        "Bellman–Ford",
+        "Prim's algorithm"
+      ]
+    },
+    {
+      "c": "Topological sort applies to",
+      "a": "directed acyclic graphs",
+      "d": [
+        "undirected graphs with cycles",
+        "any weighted graph"
+      ]
+    },
+    {
+      "c": "Two greedy minimum spanning tree algorithms",
+      "a": "Kruskal's and Prim's",
+      "d": [
+        "Dijkstra's and Bellman–Ford",
+        "BFS and DFS"
+      ]
+    },
+    {
+      "c": "Two properties that make dynamic programming fit",
+      "a": "overlapping subproblems and optimal substructure",
+      "d": [
+        "sorted input and unique keys",
+        "acyclic input and unit weights"
+      ]
+    },
+    {
+      "c": "Memoization",
+      "a": "caching results of recursive calls (top-down)",
+      "d": [
+        "filling a table from the smallest case up",
+        "always choosing the locally best option"
+      ]
+    },
+    {
+      "c": "Tabulation",
+      "a": "filling a table from the smallest cases up",
+      "d": [
+        "caching results of recursive calls on demand",
+        "splitting the input in half recursively"
+      ]
+    },
+    {
+      "c": "Greedy algorithm",
+      "a": "makes the locally best choice at each step",
+      "d": [
+        "tries every possible combination",
+        "stores answers to subproblems"
+      ]
+    },
+    {
+      "c": "Greedy change for 6 with coins {1, 3, 4}",
+      "a": "3 coins (4+1+1), but 3+3 needs only 2",
+      "d": [
+        "2 coins (3+3), which is optimal",
+        "6 coins (all ones)"
+      ]
+    },
+    {
+      "c": "Divide and conquer",
+      "a": "split, solve parts recursively, combine",
+      "d": [
+        "try every option and keep the best",
+        "always take the cheapest next step"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Three ways to attack a problem",
+    "text": [
+      "Divide and conquer splits a problem into smaller copies of itself, solves them recursively, and combines the results. Merge sort is the model: split the array in half, sort each half, and merge them in linear time, for O(n log n) in every case. Because merging takes from the left half on ties, merge sort is stable. Quicksort also divides, around a pivot, and is fast on average, but a run of bad pivots pushes it to O(n²).",
+      "Dynamic programming applies when the same subproblems appear again and again and an optimal answer is built from optimal answers to smaller pieces. Naive recursive Fibonacci recomputes the same values exponentially many times; storing each result once, by memoizing top-down or tabulating bottom-up, makes it linear.",
+      "A greedy algorithm makes the choice that looks best right now and never reconsiders. That is fast, and for some problems, such as building a minimum spanning tree with Kruskal's or Prim's algorithm, it is provably optimal. For others it fails. Making change for 6 with coins of 1, 3, and 4, greedy grabs the 4 and ends with three coins, while two 3s would do. Before trusting greedy, prove that local choices cannot paint you into a corner."
+    ],
+    "q": [
+      {
+        "q": "Why is merge sort stable, according to the reading?",
+        "o": [
+          "It uses a random pivot",
+          "On ties, the merge takes from the left half first",
+          "It never compares equal keys"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What turns naive recursive Fibonacci from exponential to linear?",
+        "o": [
+          "Storing each subproblem's result once",
+          "Choosing the largest value greedily",
+          "Sorting the inputs first"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does the coin example show?",
+        "o": [
+          "Greedy is always optimal for money",
+          "Dynamic programming is slower than greedy",
+          "A locally best choice can miss the optimal answer"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Work and school",
+  "note": "Most job words add -in for a woman: der Lehrer, die Lehrerin; der Arzt, die Ärztin. Give your job without an article: Ich bin Lehrerin. Lernen is to learn or study for a test; studieren is to study at a university. Bei + dative names an employer: bei Siemens.",
+  "src": { "t": "Deutsch im Blick, Kapitel 2: An der Uni; Kapitel 8: Berufe", "u": "https://coerll.utexas.edu/dib/voc.php?k=2&s=7" },
+  "items": [
+    { "c": "die Arbeit", "a": "the work, the job", "d": ["the break, the rest", "the school, the class"], "ex": "Ich gehe zur Arbeit.", "exT": "I'm going to work." },
+    { "c": "die Schule", "a": "the school", "d": ["the university", "the class"], "ex": "Pl. die Schulen" },
+    { "c": "das Buch", "a": "the book", "d": ["the notebook", "the letter"], "ex": "Pl. die Bücher" },
+    { "c": "der Beruf", "a": "the occupation, the profession", "d": ["the company", "the salary"], "ex": "Pl. die Berufe" },
+    { "c": "der Lehrer", "a": "the (male) teacher", "d": ["the (male) pupil", "the (male) boss"], "ex": "Pl. die Lehrer" },
+    { "c": "der Schüler", "a": "the (male) pupil", "d": ["the (male) teacher", "the (male) colleague"], "ex": "Pl. die Schüler" },
+    { "c": "die Universität", "a": "the university", "d": ["the school", "the library"], "ex": "Pl. die Universitäten; short: die Uni" },
+    { "c": "das Büro", "a": "the office", "d": ["the desk", "the store"], "ex": "Pl. die Büros" },
+    { "c": "die Firma", "a": "the company, the firm", "d": ["the office", "the factory"], "ex": "Pl. die Firmen" },
+    { "c": "der Chef", "a": "the (male) boss", "d": ["the (male) cook", "the (male) colleague"] },
+    { "c": "der Kollege", "a": "the (male) colleague", "d": ["the (male) boss", "the (male) customer"], "ex": "Pl. die Kollegen" },
+    { "c": "der Verkäufer", "a": "the (male) salesperson", "d": ["the (male) buyer", "the (male) waiter"] },
+    { "c": "der Kellner", "a": "the (male) waiter", "d": ["the (male) cook", "the (male) cashier"] },
+    { "c": "die Hausaufgaben", "a": "the homework", "d": ["the housework", "the exam"], "ex": "Ich mache meine Hausaufgaben.", "exT": "I'm doing my homework." },
+    { "c": "die Prüfung", "a": "the exam, the test", "d": ["the homework", "the lecture"], "ex": "Pl. die Prüfungen" },
+    { "c": "das Heft", "a": "the notebook (exercise book)", "d": ["the textbook", "the folder"], "ex": "Pl. die Hefte" },
+    { "c": "der Kuli", "a": "the pen (ballpoint)", "d": ["the pencil", "the marker"], "ex": "short for der Kugelschreiber; Pl. die Kulis" },
+    { "c": "der Bleistift", "a": "the pencil", "d": ["the pen (ballpoint)", "the eraser"], "ex": "Pl. die Bleistifte" },
+    { "c": "die Pause", "a": "the break", "d": ["the lesson", "the end of the day"] },
+    { "c": "studieren", "a": "to study (at a university)", "d": ["to teach (at a school)", "to research (in a lab)"], "ex": "Ich studiere Biologie in Wien.", "exT": "I study biology in Vienna." },
+    { "c": "verdienen", "a": "to earn", "d": ["to spend", "to serve"] },
+    { "c": "Was sind Sie von Beruf?", "a": "What do you do for a living?", "d": ["Where do you work?", "When do you start work?"] },
+    { "c": "Ich arbeite als Kellner.", "a": "I work as a waiter.", "d": ["I'm looking for a waiter.", "I worked as a waiter."] },
+    { "c": "Sie arbeitet ___ einer Bank. (at)", "a": "bei", "d": ["zu", "nach"] },
+    { "c": "Ich ___ Medizin. (studieren)", "a": "studiere", "d": ["studierst", "studiert"] },
+    { "c": "Er ist Lehrer und sie ist ___. (teacher)", "a": "Lehrerin", "d": ["Lehrer", "Lehrerinn"] },
+    { "c": "Die Kinder gehen in ___ Schule. (the)", "a": "die", "d": ["der", "dem"] },
+    { "c": "Die Kinder sind in ___ Schule. (the)", "a": "der", "d": ["die", "den"] },
+    { "c": "Ich ___ für die Prüfung. (lernen)", "a": "lerne", "d": ["lernt", "lernst"] }
+  ],
+  "read": {
+    "title": "Mein Beruf",
+    "text": [
+      "Ich heiße Katrin Vogel und ich bin Lehrerin. Ich arbeite an einer Schule in Leipzig. Ich unterrichte Deutsch und Englisch.",
+      "Die Arbeit beginnt um acht Uhr. Um zehn Uhr haben wir eine Pause. Dann trinke ich Kaffee mit meinen Kollegen.",
+      "Mein Mann Jan ist Verkäufer. Er arbeitet bei einer Firma in der Stadt. Er verdient nicht viel, aber er findet seine Arbeit interessant.",
+      "Am Abend korrigiere ich Hausaufgaben. Das ist manchmal langweilig!"
+    ],
+    "q": [
+      { "q": "What does Katrin teach?", "o": ["German and English", "Math and German", "English only"], "k": 0 },
+      { "q": "What happens at ten o'clock?", "o": ["Work begins", "School ends", "There is a break"], "k": 2 },
+      { "q": "How does Jan feel about his job?", "o": ["He finds it boring", "He finds it interesting", "He wants a new job"], "k": 1 }
+    ]
+  }
+}

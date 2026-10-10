@@ -1,0 +1,46 @@
+{
+  "title": "Arguments, premises and conclusions",
+  "note": "In logic, an argument is a set of statements in which some (the premises) are offered as reasons to accept another (the conclusion). Words like 'since' and 'because' often flag premises; 'therefore' and 'so' often flag conclusions. Bare assertions, reports, and explanations of why something happened are not arguments.",
+  "src": { "t": "Critical Reasoning (Southworth and Swoyer), Ch. 2 Arguments", "u": "https://human.libretexts.org/Bookshelves/Philosophy/Logic_and_Reasoning/Critical_Reasoning%3A_A_User's_Manual_(Southworth_and_Swoyer)/02%3A_Arguments" },
+  "items": [
+    { "c": "Argument, in the logician's sense", "a": "premises offered as reasons for a conclusion", "d": ["a heated quarrel between two people", "a list of claims about one topic", "a strongly worded opinion"] },
+    { "c": "Premise", "a": "a statement offered as a reason to accept a conclusion", "d": ["the claim an argument is trying to prove", "a claim that may not be questioned", "a question the argument answers"] },
+    { "c": "Conclusion of an argument", "a": "the claim the premises are meant to support", "d": ["the last sentence of the passage", "the strongest of the premises", "the claim the arguer most doubts"] },
+    { "c": "Statement (proposition), in logic", "a": "a sentence that is either true or false", "d": ["an exclamation such as 'Ouch!'", "a sentence that gives an order", "a question asked for information"] },
+    { "c": "Is 'Close the door!' a statement?", "a": "no; a command is neither true nor false", "d": ["yes; every sentence is a statement", "yes, if it is said politely"] },
+    { "c": "Typical premise indicator", "a": "since", "d": ["therefore", "consequently", "hence"] },
+    { "c": "Typical conclusion indicator", "a": "therefore", "d": ["because", "since", "given that"] },
+    { "c": "'Given that ...' usually introduces a", "a": "premise", "d": ["conclusion", "counterexample", "definition"] },
+    { "c": "'It follows that ...' usually introduces a", "a": "conclusion", "d": ["premise", "objection", "analogy"] },
+    { "c": "Standard form of an argument", "a": "numbered premises listed first, then the conclusion", "d": ["the conclusion first, then a summary", "only the conclusion, stated briefly"] },
+    { "c": "Explanation vs. argument", "a": "explaining says why something is so; arguing shows that it is", "d": ["arguing says why something is so; explaining shows that it is", "they differ only in length"] },
+    { "c": "'The road is wet because it rained' is usually", "a": "an explanation", "d": ["an argument", "a conditional", "a fallacy"], "ex": "Everyone can see the road is wet; 'because it rained' tells why, not that." },
+    { "c": "Unstated (implicit) premise", "a": "an assumption the argument needs but does not say", "d": ["a premise the arguer has shown to be false", "a conclusion the listener draws alone"] },
+    { "c": "Enthymeme", "a": "an argument with an unstated premise or conclusion", "d": ["an argument with exactly three premises", "an argument that appeals to emotion", "an argument by analogy"] },
+    { "c": "Missing premise: Socrates is a man, so mortal", "a": "All men are mortal.", "d": ["Socrates is mortal.", "Some men are mortal.", "Socrates is a philosopher."] },
+    { "c": "Main conclusion", "a": "the claim the whole argument finally supports", "d": ["the first claim the arguer makes", "a claim supported by no reasons"] },
+    { "c": "Intermediate (sub-) conclusion", "a": "a conclusion that then serves as a premise", "d": ["a premise that is only partly true", "a conclusion the arguer abandons"] },
+    { "c": "Rhetorical question in an argument", "a": "a question used to assert a premise or conclusion", "d": ["a question the arguer cannot answer", "a question with no meaning"] },
+    { "c": "A claim with no reasons given is", "a": "an assertion, not an argument", "d": ["a weak deductive argument", "an inductive argument"] },
+    { "c": "Is 'If it rains, the game is off' an argument?", "a": "no; it is a single conditional claim", "d": ["yes; it has a premise and a conclusion", "yes; it is a deductive argument"] },
+    { "c": "Can an argument have just one premise?", "a": "yes; one reason can support a conclusion", "d": ["no; it needs at least two premises", "no; it needs at least three premises"] },
+    { "c": "Inference", "a": "the step of reasoning from premises to a conclusion", "d": ["a premise assumed without question", "a claim backed by an authority"] },
+    { "c": "Report (as opposed to an argument)", "a": "statements that inform without arguing for a claim", "d": ["statements that give reasons for a claim", "a claim that is always false"] },
+    { "c": "Logic, as a field of study", "a": "the study of what makes reasoning good or bad", "d": ["the study of how people feel when they reason", "the art of winning any debate"] },
+    { "c": "Critical thinking", "a": "carefully evaluating claims and the reasons for them", "d": ["finding fault with every claim you hear", "memorizing well-supported facts"] },
+    { "c": "First step in evaluating a passage", "a": "find the conclusion, then the reasons for it", "d": ["decide whether you like the author", "count the number of sentences"] }
+  ],
+  "read": {
+    "title": "Finding the argument",
+    "text": [
+      "In everyday speech an argument is a fight. In logic it is something calmer: a set of statements where some, the premises, are offered as reasons to believe another, the conclusion. A statement is a sentence that is true or false, so questions and commands are not statements, though a rhetorical question can work like one.",
+      "The first job is to locate the conclusion. Ask what the speaker is trying to get you to accept. Indicator words help. 'Therefore', 'so', 'thus', and 'it follows that' tend to come before a conclusion, while 'because', 'since', and 'given that' tend to come before a premise. These words are clues, not proof. 'Because' also appears in explanations, which tell why something we already accept is true rather than trying to show that it is true.",
+      "Next, put the argument in standard form: list the premises, draw a line, and write the conclusion beneath. Real arguments often leave a premise unstated. 'Socrates is a man, so he is mortal' depends on the unspoken premise that all men are mortal. Writing such assumptions down makes them easy to inspect, and it is often where the weakness hides."
+    ],
+    "q": [
+      { "q": "According to the reading, why can 'because' mislead you when looking for an argument?", "o": ["It always signals a conclusion", "It also appears in explanations", "It only appears in questions"], "k": 1 },
+      { "q": "What does putting an argument in standard form do?", "o": ["Removes every premise", "Proves the conclusion true", "Lays out premises above the conclusion so they can be checked", "Turns it into an explanation"], "k": 2 },
+      { "q": "What is the unstated premise in 'Socrates is a man, so he is mortal'?", "o": ["All men are mortal", "Socrates is a philosopher", "Some men are mortal"], "k": 0 }
+    ]
+  }
+}

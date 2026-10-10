@@ -1,0 +1,321 @@
+{
+  "title": "Future and plans, wanting and being able",
+  "note": "Ir a + infinitive is the everyday way to state plans: Voy a estudiar. The simple future adds -é, -ás, -á, -emos, -éis, -án to the infinitive: hablaré. Querer (e→ie) and poder (o→ue) change their stem except with nosotros and vosotros: quiero, quieres, quiere, queremos, quieren; puedo, puedes, puede, podemos, pueden.",
+  "src": {
+    "t": "Wiktionary, Appendix: Spanish verbs",
+    "u": "https://en.wiktionary.org/wiki/Appendix:Spanish_verbs"
+  },
+  "items": [
+    {
+      "c": "querer",
+      "a": "to want, to love",
+      "d": [
+        "to need",
+        "to be able"
+      ],
+      "ex": "Quiero un café, por favor.",
+      "exT": "I want a coffee, please."
+    },
+    {
+      "c": "poder",
+      "a": "to be able to, can",
+      "d": [
+        "to want",
+        "to have to"
+      ],
+      "ex": "¿Puedo pasar?",
+      "exT": "May I come in?"
+    },
+    {
+      "c": "preferir",
+      "a": "to prefer",
+      "d": [
+        "to offer",
+        "to prepare"
+      ],
+      "ex": "Prefiero el té.",
+      "exT": "I prefer tea."
+    },
+    {
+      "c": "pensar",
+      "a": "to think, to plan to",
+      "d": [
+        "to weigh",
+        "to wait"
+      ]
+    },
+    {
+      "c": "Voy a estudiar.",
+      "a": "I'm going to study.",
+      "d": [
+        "I went to study.",
+        "I'm coming from studying."
+      ],
+      "ex": "Esta noche voy a estudiar.",
+      "exT": "Tonight I'm going to study."
+    },
+    {
+      "c": "¿Quieres venir?",
+      "a": "Do you want to come?",
+      "d": [
+        "Can you come?",
+        "Are you coming back?"
+      ]
+    },
+    {
+      "c": "No puedo.",
+      "a": "I can't.",
+      "d": [
+        "I don't want to.",
+        "I don't know."
+      ]
+    },
+    {
+      "c": "¿Puedes ayudarme?",
+      "a": "Can you help me?",
+      "d": [
+        "Do you want to help me?",
+        "Did you help me?"
+      ]
+    },
+    {
+      "c": "Pienso viajar.",
+      "a": "I plan to travel.",
+      "d": [
+        "I'm afraid to travel.",
+        "I already traveled."
+      ]
+    },
+    {
+      "c": "Me gustaría ir.",
+      "a": "I would like to go.",
+      "d": [
+        "I liked going.",
+        "I have to go."
+      ],
+      "ex": "Me gustaría ir a Perú.",
+      "exT": "I would like to go to Peru."
+    },
+    {
+      "c": "Tengo ganas de bailar.",
+      "a": "I feel like dancing.",
+      "d": [
+        "I'm good at dancing.",
+        "I'm tired of dancing."
+      ]
+    },
+    {
+      "c": "la próxima semana",
+      "a": "next week",
+      "d": [
+        "last week",
+        "every week"
+      ],
+      "ex": "La próxima semana voy a Chile.",
+      "exT": "Next week I'm going to Chile."
+    },
+    {
+      "c": "el año que viene",
+      "a": "next year",
+      "d": [
+        "last year",
+        "this year"
+      ]
+    },
+    {
+      "c": "esta noche",
+      "a": "tonight",
+      "d": [
+        "last night",
+        "every night"
+      ]
+    },
+    {
+      "c": "pronto",
+      "a": "soon",
+      "d": [
+        "late",
+        "never"
+      ],
+      "ex": "Vuelvo pronto.",
+      "exT": "I'll be back soon."
+    },
+    {
+      "c": "más tarde",
+      "a": "later",
+      "d": [
+        "earlier",
+        "too late"
+      ]
+    },
+    {
+      "c": "tal vez",
+      "a": "maybe, perhaps",
+      "d": [
+        "of course",
+        "never"
+      ],
+      "ex": "Tal vez voy mañana.",
+      "exT": "Maybe I'll go tomorrow."
+    },
+    {
+      "c": "el plan",
+      "a": "the plan",
+      "d": [
+        "the dream",
+        "the trip"
+      ]
+    },
+    {
+      "c": "hablaré",
+      "a": "I will speak",
+      "d": [
+        "I spoke",
+        "he will speak"
+      ],
+      "ex": "Mañana hablaré con el jefe.",
+      "exT": "Tomorrow I will speak with the boss."
+    },
+    {
+      "c": "comeremos",
+      "a": "we will eat",
+      "d": [
+        "we ate",
+        "they will eat"
+      ]
+    },
+    {
+      "c": "será",
+      "a": "it will be",
+      "d": [
+        "it was",
+        "it is"
+      ],
+      "ex": "La fiesta será el sábado.",
+      "exT": "The party will be on Saturday."
+    },
+    {
+      "c": "habrá",
+      "a": "there will be",
+      "d": [
+        "there was",
+        "there is"
+      ]
+    },
+    {
+      "c": "tendré",
+      "a": "I will have",
+      "d": [
+        "I had",
+        "I have"
+      ]
+    },
+    {
+      "c": "haré",
+      "a": "I will do, I will make",
+      "d": [
+        "I did",
+        "he will do"
+      ]
+    },
+    {
+      "c": "Mañana yo ___ a trabajar. (ir)",
+      "a": "voy",
+      "d": [
+        "va",
+        "vamos"
+      ]
+    },
+    {
+      "c": "Nosotros ___ a comer a las dos. (ir)",
+      "a": "vamos",
+      "d": [
+        "van",
+        "voy"
+      ],
+      "ex": "Nosotros vamos a comer a las dos.",
+      "exT": "We're going to eat at two."
+    },
+    {
+      "c": "Yo ___ ir al cine. (querer)",
+      "a": "quiero",
+      "d": [
+        "quero",
+        "quieren"
+      ]
+    },
+    {
+      "c": "Nosotros ___ salir. (querer)",
+      "a": "queremos",
+      "d": [
+        "quieremos",
+        "quieren"
+      ]
+    },
+    {
+      "c": "¿Tú ___ abrir la ventana? (poder)",
+      "a": "puedes",
+      "d": [
+        "puedo",
+        "pueden"
+      ]
+    },
+    {
+      "c": "Ellos no ___ venir. (poder)",
+      "a": "pueden",
+      "d": [
+        "poden",
+        "puede"
+      ],
+      "ex": "Ellos no pueden venir hoy.",
+      "exT": "They can't come today."
+    },
+    {
+      "c": "Ellos ___ cenar en casa. (preferir)",
+      "a": "prefieren",
+      "d": [
+        "preferen",
+        "prefiere"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Planes para el verano",
+    "text": [
+      "Me llamo Lucía y soy de México. Este verano voy a viajar a España con mi hermana. Vamos a ir en avión. El vuelo sale de la Ciudad de México el 2 de julio.",
+      "Primero vamos a estar una semana en Madrid. Queremos ver los museos y comer en restaurantes típicos. Después, mi hermana prefiere ir a la playa, pero yo quiero ir a las montañas. Tal vez vamos a hacer las dos cosas.",
+      "No puedo viajar mucho tiempo porque en agosto tengo que trabajar. ¡Será un viaje fantástico!"
+    ],
+    "q": [
+      {
+        "q": "How will Lucía and her sister travel to Spain?",
+        "o": [
+          "By boat",
+          "By plane",
+          "By train"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Where does Lucía's sister prefer to go after Madrid?",
+        "o": [
+          "To the mountains",
+          "To the museums",
+          "To the beach",
+          "Back home"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Why can't Lucía travel for long?",
+        "o": [
+          "She has to work in August",
+          "She has an exam in July",
+          "Her sister cannot go",
+          "The flight is expensive"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Thermochemistry",
+  "note": "Heat flowing into a system is positive, heat leaving is negative. At constant pressure the heat of a reaction equals its enthalpy change, ΔH; exothermic reactions have ΔH < 0. Enthalpy is a state function, so ΔH values add (Hess's law): reverse a reaction and ΔH changes sign, double it and ΔH doubles. q = mcΔT gives heat from a temperature change.",
+  "src": { "t": "Chemistry 2e, 5.3 Enthalpy, OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy" },
+  "items": [
+    { "c": "SI unit of energy", "a": "joule (J)", "d": ["calorie (cal)", "watt (W)"] },
+    { "c": "One calorie in joules", "a": "4.184 J", "d": ["1000 J", "1.000 J"] },
+    { "c": "Exothermic process", "a": "releases heat to the surroundings", "d": ["absorbs heat from the surroundings", "involves no heat transfer"] },
+    { "c": "Endothermic process", "a": "absorbs heat from the surroundings", "d": ["releases heat to the surroundings", "involves no heat transfer"] },
+    { "c": "Sign of ΔH for an exothermic reaction", "a": "ΔH < 0", "d": ["ΔH > 0", "ΔH = 0"] },
+    { "c": "In q = mcΔT, c stands for", "a": "specific heat", "d": ["heat capacity of the whole object", "molar concentration"] },
+    { "c": "Specific heat", "a": "heat to raise 1 g of a substance by 1 °C", "d": ["heat to raise any sample by 1 °C", "heat to melt 1 g of a substance"] },
+    { "c": "Specific heat of liquid water", "a": "4.184 J/(g·°C)", "d": ["1.000 J/(g·°C)", "0.449 J/(g·°C)"] },
+    { "c": "Heat to warm 10.0 g of water by 5.0 °C", "a": "about 209 J", "d": ["about 50 J", "about 2.09 J"] },
+    { "c": "Heat capacity (C) of an object is", "a": "an extensive property", "d": ["an intensive property", "always equal to its specific heat"] },
+    { "c": "First law of thermodynamics", "a": "ΔU = q + w", "d": ["ΔU = q × w", "ΔU = q − T"] },
+    { "c": "Which is a state function?", "a": "enthalpy", "d": ["heat", "work"] },
+    { "c": "At constant pressure, ΔH equals", "a": "the heat flow, q", "d": ["the work done, w", "the internal energy, U"] },
+    { "c": "Coffee-cup calorimeter works at constant", "a": "pressure", "d": ["volume", "temperature"] },
+    { "c": "Bomb calorimeter works at constant", "a": "volume", "d": ["pressure", "temperature"] },
+    { "c": "Calorimetry assumption for an insulated cup", "a": "q_reaction = −q_solution", "d": ["q_reaction = q_solution", "q_reaction = 0"] },
+    { "c": "Reverse a reaction: its ΔH", "a": "changes sign", "d": ["stays the same", "becomes zero"] },
+    { "c": "Multiply a reaction by 2: its ΔH", "a": "doubles", "d": ["stays the same", "is halved"] },
+    { "c": "Hess's law", "a": "ΔH for a sum of steps is the sum of their ΔH", "d": ["ΔH depends on the path taken", "ΔH is zero for multistep reactions"] },
+    { "c": "C→CO₂ is −394 kJ; CO→CO₂ is −283 kJ. C→CO?", "a": "−111 kJ", "d": ["−677 kJ", "+111 kJ"] },
+    { "c": "Standard enthalpy of formation (ΔH°f)", "a": "ΔH to form 1 mol of a compound from its elements in standard states", "d": ["ΔH to burn 1 mol of a compound", "ΔH to melt 1 mol of a compound"] },
+    { "c": "ΔH°f of an element in its standard state", "a": "zero", "d": ["its enthalpy of combustion", "its heat of fusion"] },
+    { "c": "ΔH°rxn from formation enthalpies", "a": "Σ ΔH°f(products) − Σ ΔH°f(reactants)", "d": ["Σ ΔH°f(reactants) − Σ ΔH°f(products)", "Σ ΔH°f(products) × Σ ΔH°f(reactants)"] },
+    { "c": "Standard-state pressure (IUPAC)", "a": "1 bar", "d": ["1 torr", "10 atm"] },
+    { "c": "Instant cold pack (NH₄NO₃ dissolving) is", "a": "endothermic", "d": ["exothermic"] },
+    { "c": "Burning methane is", "a": "exothermic", "d": ["endothermic"] },
+    { "c": "Gibbs free energy change", "a": "ΔG = ΔH − TΔS", "d": ["ΔG = ΔH + TΔS", "ΔG = TΔH − ΔS"] },
+    { "c": "Sign of ΔG for a spontaneous process", "a": "ΔG < 0", "d": ["ΔG > 0", "ΔG = 0"] },
+    { "c": "Spontaneous at every temperature when", "a": "ΔH < 0 and ΔS > 0", "d": ["ΔH > 0 and ΔS < 0", "ΔH > 0 and ΔS > 0"] },
+    { "c": "Spontaneous only at high temperature when", "a": "ΔH > 0 and ΔS > 0", "d": ["ΔH < 0 and ΔS < 0", "ΔH > 0 and ΔS < 0"] },
+    { "c": "Entropy change when ice melts", "a": "entropy increases", "d": ["entropy decreases", "entropy is unchanged"] }
+  ],
+  "read": {
+    "title": "Following the heat",
+    "text": [
+      "Thermochemistry divides the world into the system, the chemicals you care about, and the surroundings, everything else. When a reaction releases heat, the system loses energy and the surroundings warm up: the reaction is exothermic and its enthalpy change, ΔH, is negative. A cold pack works the other way. Dissolving ammonium nitrate absorbs heat from your skin, so ΔH is positive and the process is endothermic.",
+      "Heat is measured through temperature changes. The equation q = mcΔT says the heat equals the mass times the specific heat times the change in temperature. Water has an unusually high specific heat, 4.184 J/(g·°C), which is why it is the standard liquid in calorimeters and why lakes change temperature slowly.",
+      "Because enthalpy is a state function, ΔH depends only on where a reaction starts and ends, not on the route. This is Hess's law. If you know ΔH for two steps, you can add them to get ΔH for the overall change, reversing a step changes its sign, and scaling a step scales its ΔH. Tables of standard enthalpies of formation make this systematic: subtract the total for the reactants from the total for the products. Elements in their standard states are set to zero, which gives every table a common baseline."
+    ],
+    "q": [
+      { "q": "Why does a cold pack feel cold?", "o": ["It releases heat into the surroundings", "Its dissolving salt absorbs heat from your skin", "Ammonium nitrate has a negative ΔH of solution"], "k": 1 },
+      { "q": "Hess's law works because enthalpy is", "o": ["always negative", "measured at constant volume", "a state function"], "k": 2 },
+      { "q": "Why are elements in standard states given ΔH°f = 0?", "o": ["To give every table a common baseline", "Because elements have no energy", "Because they never react"], "k": 0 }
+    ]
+  }
+}

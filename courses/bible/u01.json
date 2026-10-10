@@ -1,0 +1,309 @@
+{
+  "title": "The canon and how it is organized",
+  "note": "The Protestant Bible has 66 books: 39 in the Old Testament and 27 in the New. Catholic Bibles add seven deuterocanonical books (Tobit, Judith, 1 and 2 Maccabees, Wisdom, Sirach, Baruch) and additions to Esther and Daniel, for 73; Orthodox Bibles include a few more. Christians usually group the Old Testament as Law, History, Wisdom and Prophets.",
+  "src": {
+    "t": "Biblical literature, Encyclopaedia Britannica",
+    "u": "https://www.britannica.com/topic/biblical-literature"
+  },
+  "items": [
+    {
+      "c": "Books in the Protestant Bible",
+      "a": "66",
+      "d": [
+        "73",
+        "39",
+        "72"
+      ]
+    },
+    {
+      "c": "Books in the Protestant Old Testament",
+      "a": "39",
+      "d": [
+        "27",
+        "46",
+        "24"
+      ]
+    },
+    {
+      "c": "Books in the New Testament",
+      "a": "27",
+      "d": [
+        "39",
+        "22",
+        "31"
+      ],
+      "ex": "Catholic, Orthodox and Protestant Bibles share the same 27 New Testament books."
+    },
+    {
+      "c": "Books in the Catholic Old Testament",
+      "a": "46",
+      "d": [
+        "39",
+        "24",
+        "66"
+      ]
+    },
+    {
+      "c": "Deuterocanonical books",
+      "a": "OT books in Catholic and Orthodox Bibles, not Protestant ones",
+      "d": [
+        "Gospels left out of the New Testament",
+        "letters written after the apostles died"
+      ]
+    },
+    {
+      "c": "Protestant name for the deuterocanonical books",
+      "a": "the Apocrypha",
+      "d": [
+        "the Pentateuch",
+        "the Septuagint"
+      ]
+    },
+    {
+      "c": "Examples of deuterocanonical books",
+      "a": "Tobit, Judith, Sirach, 1 and 2 Maccabees",
+      "d": [
+        "Ruth, Esther, Jonah, Micah",
+        "Jude, Titus, Philemon, Hebrews"
+      ]
+    },
+    {
+      "c": "Where the 1611 KJV printed the Apocrypha",
+      "a": "between the Old and New Testaments",
+      "d": [
+        "after the book of Revelation",
+        "before the book of Genesis"
+      ]
+    },
+    {
+      "c": "'Testament' in 'Old Testament' means",
+      "a": "covenant",
+      "d": [
+        "prophecy",
+        "kingdom"
+      ]
+    },
+    {
+      "c": "Tanakh",
+      "a": "the Hebrew Bible: Torah, Prophets and Writings",
+      "d": [
+        "the Greek translation of the Old Testament",
+        "the four Gospels in Hebrew"
+      ],
+      "ex": "TaNaKh is an acronym of Torah, Nevi'im (Prophets) and Ketuvim (Writings)."
+    },
+    {
+      "c": "Torah",
+      "a": "the Law: the five books of Moses",
+      "d": [
+        "the books of the prophets",
+        "the Psalms and Proverbs"
+      ]
+    },
+    {
+      "c": "Pentateuch",
+      "a": "Genesis through Deuteronomy",
+      "d": [
+        "Joshua through Esther",
+        "Job through Song of Solomon"
+      ],
+      "ex": "Greek for 'five scrolls.'"
+    },
+    {
+      "c": "Old Testament history books (Christian order)",
+      "a": "Joshua through Esther",
+      "d": [
+        "Genesis through Deuteronomy",
+        "Isaiah through Daniel"
+      ]
+    },
+    {
+      "c": "Old Testament wisdom and poetry books",
+      "a": "Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon",
+      "d": [
+        "Ruth, Esther, Jonah, Daniel, Lamentations",
+        "Joshua, Judges, Ruth, Samuel, Kings"
+      ]
+    },
+    {
+      "c": "The Major Prophets",
+      "a": "Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel",
+      "d": [
+        "Hosea, Joel, Amos, Obadiah, Jonah",
+        "Ezra, Nehemiah, Esther, Job, Ruth"
+      ]
+    },
+    {
+      "c": "Number of Minor Prophets",
+      "a": "12",
+      "d": [
+        "5",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "c": "Why the Minor Prophets are called 'minor'",
+      "a": "their books are shorter, not less important",
+      "d": [
+        "they lived after the exile",
+        "they spoke only to foreign kings"
+      ]
+    },
+    {
+      "c": "Last book of the Christian Old Testament",
+      "a": "Malachi",
+      "d": [
+        "Zechariah",
+        "Daniel"
+      ]
+    },
+    {
+      "c": "Last book of the Hebrew Bible (Jewish order)",
+      "a": "Chronicles",
+      "d": [
+        "Malachi",
+        "Deuteronomy"
+      ]
+    },
+    {
+      "c": "Place of Daniel in the Hebrew Bible",
+      "a": "among the Writings",
+      "d": [
+        "among the Torah",
+        "first of the Prophets"
+      ],
+      "ex": "Christian Bibles place Daniel with the Major Prophets."
+    },
+    {
+      "c": "The four Gospels",
+      "a": "Matthew, Mark, Luke and John",
+      "d": [
+        "Matthew, Mark, Luke and Acts",
+        "Peter, James, John and Jude"
+      ]
+    },
+    {
+      "c": "Synoptic Gospels",
+      "a": "Matthew, Mark and Luke",
+      "d": [
+        "Mark, Luke and John",
+        "Matthew, John and Acts"
+      ],
+      "ex": "'Synoptic' means 'seen together': these three share much of their material and order."
+    },
+    {
+      "c": "NT book that tells the early church's story",
+      "a": "Acts of the Apostles",
+      "d": [
+        "Hebrews",
+        "Romans"
+      ]
+    },
+    {
+      "c": "Epistle",
+      "a": "a letter",
+      "d": [
+        "a sermon",
+        "a hymn"
+      ]
+    },
+    {
+      "c": "Letters that open with Paul's name",
+      "a": "Romans through Philemon (13 letters)",
+      "d": [
+        "Hebrews through Jude (8 letters)",
+        "Matthew through Acts (5 books)"
+      ]
+    },
+    {
+      "c": "General epistles",
+      "a": "letters such as James, 1 Peter, 1 John and Jude",
+      "d": [
+        "letters such as Romans, Galatians and Titus",
+        "books such as Acts, Luke and John"
+      ]
+    },
+    {
+      "c": "'Catholic' in 'catholic epistles'",
+      "a": "universal: addressed to the church at large",
+      "d": [
+        "written in Latin",
+        "approved by the bishop of Rome"
+      ]
+    },
+    {
+      "c": "Book of visions that closes the Bible",
+      "a": "Revelation",
+      "d": [
+        "Jude",
+        "Acts"
+      ]
+    },
+    {
+      "c": "Original language of most of the Old Testament",
+      "a": "Hebrew",
+      "d": [
+        "Greek",
+        "Latin"
+      ]
+    },
+    {
+      "c": "Language of parts of Daniel and Ezra",
+      "a": "Aramaic",
+      "d": [
+        "Latin",
+        "Coptic"
+      ]
+    },
+    {
+      "c": "Original language of the New Testament",
+      "a": "Koine (common) Greek",
+      "d": [
+        "Classical Hebrew",
+        "Latin"
+      ]
+    },
+    {
+      "c": "Septuagint",
+      "a": "ancient Greek translation of the Hebrew scriptures",
+      "d": [
+        "Jerome's Latin translation",
+        "the first printed English Bible"
+      ]
+    },
+    {
+      "c": "Vulgate",
+      "a": "Jerome's Latin translation, made around AD 400",
+      "d": [
+        "the ancient Greek Old Testament",
+        "Luther's German Bible"
+      ]
+    },
+    {
+      "c": "Year the King James Version first appeared",
+      "a": "1611",
+      "d": [
+        "1560",
+        "1517"
+      ]
+    },
+    {
+      "c": "Chapter and verse numbers in the originals?",
+      "a": "No, they were added in medieval and later times",
+      "d": [
+        "Yes, each author numbered them",
+        "Only in the four Gospels"
+      ],
+      "ex": "Modern chapters go back to Stephen Langton (13th century); New Testament verse numbers to Robert Estienne (1551)."
+    },
+    {
+      "c": "Longest book of the Bible by chapters",
+      "a": "Psalms (150)",
+      "d": [
+        "Isaiah (66)",
+        "Genesis (50)"
+      ]
+    }
+  ]
+}

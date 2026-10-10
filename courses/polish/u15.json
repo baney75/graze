@@ -1,0 +1,360 @@
+{
+  "title": "Weather, nature and seasons",
+  "note": "Weather often uses jest + an adverb: jest zimno (it's cold), jest ciepło, jest gorąco. Pada deszcz / pada śnieg = it's raining / snowing. \"In\" a season uses instrumental forms: wiosną, latem, jesienią, zimą. \"In\" a month is w + locative: w maju, w lipcu, w grudniu (we wrześniu).",
+  "src": {
+    "t": "Oscar E. Swan, Polish-English Dictionary (University of Pittsburgh)",
+    "u": "https://lektorek.org/polish/"
+  },
+  "items": [
+    {
+      "c": "drzewo",
+      "a": "tree",
+      "d": [
+        "flower",
+        "forest"
+      ]
+    },
+    {
+      "c": "kwiat",
+      "a": "flower",
+      "d": [
+        "tree",
+        "leaf"
+      ],
+      "ex": "Mama lubi kwiaty.",
+      "exT": "Mom likes flowers."
+    },
+    {
+      "c": "słońce",
+      "a": "sun",
+      "d": [
+        "moon",
+        "sky"
+      ]
+    },
+    {
+      "c": "księżyc",
+      "a": "moon",
+      "d": [
+        "sun",
+        "star"
+      ]
+    },
+    {
+      "c": "pogoda (f)",
+      "a": "weather",
+      "d": [
+        "season",
+        "temperature"
+      ],
+      "ex": "Jaka jest dzisiaj pogoda?",
+      "exT": "What's the weather like today?",
+      "say": "pogoda"
+    },
+    {
+      "c": "Jest zimno.",
+      "a": "It's cold.",
+      "d": [
+        "It's warm.",
+        "It's windy."
+      ]
+    },
+    {
+      "c": "Jest ciepło.",
+      "a": "It's warm.",
+      "d": [
+        "It's hot.",
+        "It's cold."
+      ]
+    },
+    {
+      "c": "Jest gorąco.",
+      "a": "It's hot.",
+      "d": [
+        "It's warm.",
+        "It's sunny."
+      ]
+    },
+    {
+      "c": "Pada deszcz.",
+      "a": "It's raining.",
+      "d": [
+        "It's snowing.",
+        "It's cloudy."
+      ]
+    },
+    {
+      "c": "Pada śnieg.",
+      "a": "It's snowing.",
+      "d": [
+        "It's raining.",
+        "It's freezing."
+      ]
+    },
+    {
+      "c": "Świeci słońce.",
+      "a": "The sun is shining.",
+      "d": [
+        "The sun is setting.",
+        "The moon is shining."
+      ]
+    },
+    {
+      "c": "wiatr (m)",
+      "a": "wind",
+      "d": [
+        "rain",
+        "storm"
+      ],
+      "say": "wiatr"
+    },
+    {
+      "c": "niebo (n)",
+      "a": "sky",
+      "d": [
+        "cloud",
+        "sun"
+      ],
+      "say": "niebo"
+    },
+    {
+      "c": "las (m)",
+      "a": "forest",
+      "d": [
+        "field",
+        "park"
+      ],
+      "say": "las"
+    },
+    {
+      "c": "morze (n)",
+      "a": "sea",
+      "d": [
+        "lake",
+        "river"
+      ],
+      "ex": "Latem jedziemy nad morze.",
+      "exT": "In the summer we're going to the seaside.",
+      "say": "morze"
+    },
+    {
+      "c": "góry (pl)",
+      "a": "mountains",
+      "d": [
+        "hills",
+        "forests"
+      ],
+      "say": "góry"
+    },
+    {
+      "c": "rzeka (f)",
+      "a": "river",
+      "d": [
+        "lake",
+        "sea"
+      ],
+      "say": "rzeka"
+    },
+    {
+      "c": "wiosna (f)",
+      "a": "spring",
+      "d": [
+        "summer",
+        "autumn"
+      ],
+      "say": "wiosna"
+    },
+    {
+      "c": "lato (n)",
+      "a": "summer",
+      "d": [
+        "spring",
+        "winter"
+      ],
+      "say": "lato"
+    },
+    {
+      "c": "jesień (f)",
+      "a": "autumn, fall",
+      "d": [
+        "spring",
+        "winter"
+      ],
+      "say": "jesień"
+    },
+    {
+      "c": "zima (f)",
+      "a": "winter",
+      "d": [
+        "autumn",
+        "summer"
+      ],
+      "ex": "Zimą pada śnieg.",
+      "exT": "In winter it snows.",
+      "say": "zima"
+    },
+    {
+      "c": "styczeń",
+      "a": "January",
+      "d": [
+        "June",
+        "February"
+      ]
+    },
+    {
+      "c": "luty",
+      "a": "February",
+      "d": [
+        "January",
+        "July"
+      ]
+    },
+    {
+      "c": "marzec",
+      "a": "March",
+      "d": [
+        "May",
+        "April"
+      ]
+    },
+    {
+      "c": "kwiecień",
+      "a": "April",
+      "d": [
+        "March",
+        "August"
+      ]
+    },
+    {
+      "c": "maj",
+      "a": "May",
+      "d": [
+        "March",
+        "June"
+      ]
+    },
+    {
+      "c": "czerwiec",
+      "a": "June",
+      "d": [
+        "July",
+        "January"
+      ]
+    },
+    {
+      "c": "lipiec",
+      "a": "July",
+      "d": [
+        "June",
+        "April"
+      ]
+    },
+    {
+      "c": "sierpień",
+      "a": "August",
+      "d": [
+        "September",
+        "April"
+      ]
+    },
+    {
+      "c": "wrzesień",
+      "a": "September",
+      "d": [
+        "August",
+        "October"
+      ]
+    },
+    {
+      "c": "październik",
+      "a": "October",
+      "d": [
+        "November",
+        "December"
+      ]
+    },
+    {
+      "c": "listopad",
+      "a": "November",
+      "d": [
+        "October",
+        "September"
+      ]
+    },
+    {
+      "c": "grudzień",
+      "a": "December",
+      "d": [
+        "November",
+        "January"
+      ]
+    },
+    {
+      "c": "Urodziny mam w ___. (maj)",
+      "a": "maju",
+      "d": [
+        "maj",
+        "maja"
+      ],
+      "ex": "Urodziny mam w maju.",
+      "exT": "My birthday is in May."
+    },
+    {
+      "c": "W ___ jest gorąco. (lipiec)",
+      "a": "lipcu",
+      "d": [
+        "lipiec",
+        "lipca"
+      ],
+      "ex": "W lipcu jest gorąco.",
+      "exT": "It's hot in July."
+    },
+    {
+      "c": "We ___ zaczyna się szkoła. (wrzesień)",
+      "a": "wrześniu",
+      "d": [
+        "wrzesień",
+        "września"
+      ],
+      "ex": "We wrześniu zaczyna się szkoła.",
+      "exT": "School starts in September."
+    }
+  ],
+  "read": {
+    "title": "Pogoda w Polsce",
+    "text": [
+      "W Polsce są cztery pory roku. Wiosną jest ciepło, rosną kwiaty i drzewa są zielone. W kwietniu często pada deszcz.",
+      "Latem, w lipcu i w sierpniu, jest gorąco i świeci słońce. Ludzie jeżdżą nad morze albo w góry. Jesienią jest chłodno i wieje wiatr. Liście są żółte i czerwone.",
+      "Zimą jest zimno. W grudniu i w styczniu często pada śnieg. Dzieci lubią zimę, ale ja wolę lato!"
+    ],
+    "q": [
+      {
+        "q": "When does it often rain, according to the text?",
+        "o": [
+          "In April",
+          "In July",
+          "In December"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Where do people go in summer?",
+        "o": [
+          "To the forest only",
+          "To the sea or the mountains",
+          "To the city"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Which season does the writer prefer?",
+        "o": [
+          "Winter",
+          "Spring",
+          "Summer"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

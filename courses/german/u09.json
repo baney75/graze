@@ -1,0 +1,48 @@
+{
+  "title": "Verb second: German word order",
+  "note": "In a statement the conjugated verb is always the second element. If anything other than the subject comes first, the subject moves right after the verb: Heute gehe ich ins Kino. Question words also take the verb second; yes/no questions start with the verb. Und, aber, oder and denn don't count as a position.",
+  "src": { "t": "Grimm Grammar: Wortstellung (word order)", "u": "https://coerll.utexas.edu/gg/gr/con_06.html" },
+  "items": [
+    { "c": "Heute ___ ins Kino.", "a": "gehe ich", "d": ["ich gehe"], "ex": "Heute gehe ich ins Kino.", "exT": "Today I'm going to the movies." },
+    { "c": "Morgen ___ nach Hamburg.", "a": "fahren wir", "d": ["wir fahren"] },
+    { "c": "Am Montag ___ Deutsch.", "a": "lerne ich", "d": ["ich lerne"] },
+    { "c": "Leider ___ keine Zeit.", "a": "habe ich", "d": ["ich habe"], "ex": "Leider habe ich keine Zeit.", "exT": "Unfortunately I don't have time." },
+    { "c": "Um acht Uhr ___.", "a": "kommt der Zug", "d": ["der Zug kommt"] },
+    { "c": "In Berlin ___.", "a": "wohnt meine Tante", "d": ["meine Tante wohnt"] },
+    { "c": "Dann ___ einen Kaffee.", "a": "trinken wir", "d": ["wir trinken"] },
+    { "c": "Wo ___?", "a": "wohnst du", "d": ["du wohnst"], "ex": "Wo wohnst du?", "exT": "Where do you live?" },
+    { "c": "Was ___ heute?", "a": "machst du", "d": ["du machst"] },
+    { "c": "Ich bin müde, aber ___ noch.", "a": "ich arbeite", "d": ["arbeite ich"], "ex": "Ich bin müde, aber ich arbeite noch.", "exT": "I'm tired, but I'm still working." },
+    { "c": "Er kommt nicht, denn ___ krank.", "a": "er ist", "d": ["ist er"] },
+    { "c": "Ich trinke Tee und ___ Kaffee.", "a": "sie trinkt", "d": ["trinkt sie"] },
+    { "c": "Am Wochenende ___ lange.", "a": "schlafen die Kinder", "d": ["die Kinder schlafen"] },
+    { "c": "Morgen habe ich frei.", "a": "I'm off tomorrow.", "d": ["I was off yesterday.", "I'm busy tomorrow."] },
+    { "c": "Kommst du mit?", "a": "Are you coming along?", "d": ["Are you coming later?", "Where are you coming from?"] },
+    { "c": "Hast du Zeit?", "a": "Do you have time?", "d": ["What time is it?", "Do you have a watch?"] },
+    { "c": "Spielst du Tennis?", "a": "Do you play tennis?", "d": ["Where do you play tennis?", "Let's play tennis!"] },
+    { "c": "Ich spiele gern Tennis.", "a": "I like playing tennis.", "d": ["I play tennis often.", "I play tennis badly."], "ex": "Ich koche gern.", "exT": "I like to cook." },
+    { "c": "gern", "a": "gladly, with pleasure", "d": ["often, usually", "badly, poorly"] },
+    { "c": "dann", "a": "then", "d": ["there", "now"] },
+    { "c": "leider", "a": "unfortunately", "d": ["luckily", "of course"] },
+    { "c": "zuerst", "a": "first, at first", "d": ["finally", "afterward"] },
+    { "c": "danach", "a": "afterward, after that", "d": ["before that", "at first"], "ex": "Zuerst esse ich, danach lerne ich.", "exT": "First I eat, then I study." },
+    { "c": "hier", "a": "here", "d": ["there", "near"] },
+    { "c": "dort", "a": "there", "d": ["here", "far away"] },
+    { "c": "natürlich", "a": "of course, naturally", "d": ["unfortunately", "hardly"] },
+    { "c": "Natürlich ___ dir.", "a": "helfe ich", "d": ["ich helfe"] },
+    { "c": "Zuerst ___ Hausaufgaben.", "a": "mache ich", "d": ["ich mache"] }
+  ],
+  "read": {
+    "title": "Ein Tag von Tim",
+    "text": [
+      "Tim ist Student in Köln. Am Morgen trinkt er einen Kaffee. Dann fährt er mit dem Bus zur Uni.",
+      "Um neun Uhr hat er Mathe. Danach isst er ein Brötchen. Am Nachmittag arbeitet Tim in einem Café, aber er arbeitet nicht lange.",
+      "Am Abend kocht er mit seiner Freundin Lea. Zuerst essen sie, dann lesen sie. Leider hat Tim morgen eine Prüfung. Heute geht er früh ins Bett."
+    ],
+    "q": [
+      { "q": "How does Tim get to the university?", "o": ["On foot", "By car", "By bus"], "k": 2 },
+      { "q": "What does Tim do after his math class?", "o": ["He drinks coffee", "He eats a roll", "He cooks"], "k": 1 },
+      { "q": "Why does Tim go to bed early today?", "o": ["He has a test tomorrow", "He works early", "He is sick"], "k": 0 }
+    ]
+  }
+}

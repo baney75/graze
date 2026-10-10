@@ -1,0 +1,47 @@
+{
+  "title": "Argument mapping and steelmanning",
+  "note": "An argument map lays out the main conclusion, the reasons for it, and the objections, with arrows showing support. Linked premises support the conclusion only together; convergent premises each support it alone. Before you criticize, apply the principle of charity: reconstruct the argument in its strongest reasonable form, then test that version.",
+  "src": { "t": "Informal Logic, Stanford Encyclopedia of Philosophy (Sec. 3)", "u": "https://plato.stanford.edu/entries/logic-informal/" },
+  "items": [
+    { "c": "Argument map", "a": "a diagram of claims and the support between them", "d": ["a list of an arguer's fallacies", "a timeline of a debate"] },
+    { "c": "Linked premises", "a": "premises that support the conclusion only together", "d": ["premises that each support the conclusion alone", "premises that support two conclusions"] },
+    { "c": "Convergent premises", "a": "premises that each support the conclusion alone", "d": ["premises that support the conclusion only together", "premises that contradict each other"] },
+    { "c": "'All metals conduct' + 'copper is a metal'", "a": "linked premises", "d": ["convergent premises", "a divergent argument"] },
+    { "c": "Three separate witnesses each saw the thief", "a": "convergent premises (independent reasons)", "d": ["linked premises", "a serial argument"] },
+    { "c": "Top box in a typical argument map", "a": "the main conclusion", "d": ["the weakest premise", "an objection", "an unstated assumption"] },
+    { "c": "Objection", "a": "a reason to think a claim is false or unsupported", "d": ["a premise offered in support", "a restatement of the conclusion"] },
+    { "c": "If one convergent premise fails, the conclusion", "a": "may still be supported by the others", "d": ["loses all its support", "becomes false"] },
+    { "c": "If one linked premise fails, its line of support", "a": "collapses", "d": ["is unaffected", "becomes stronger"] },
+    { "c": "Serial (chain) argument", "a": "one conclusion becomes the premise for the next", "d": ["one premise supports two conclusions", "several premises each support one conclusion"] },
+    { "c": "Divergent argument", "a": "one premise supports two separate conclusions", "d": ["one conclusion becomes the next premise", "two premises support one conclusion only together"] },
+    { "c": "Reconstructing an argument", "a": "stating its premises and conclusion explicitly", "d": ["inventing a better conclusion for it", "rewriting it in more vivid words"] },
+    { "c": "Logically minimal implicit premise", "a": "the weakest assumption that makes the step work", "d": ["the strongest claim the arguer might believe", "a premise the arguer explicitly denies"] },
+    { "c": "Principle of charity", "a": "interpret an argument in its most reasonable form", "d": ["accept any argument that is kindly meant", "interpret an argument in its weakest form"] },
+    { "c": "Charity does not mean", "a": "pretending a bad argument is good", "d": ["reading an argument carefully", "filling gaps with plausible premises"] },
+    { "c": "Steelman", "a": "restating a view in its strongest form", "d": ["restating a view in a distorted, weak form", "attacking the person who holds a view"] },
+    { "c": "Straw man vs. steelman", "a": "a distorted weak version vs. the strongest version", "d": ["a direct quote vs. a paraphrase of a view", "two names for the same thing"] },
+    { "c": "Why steelman before criticizing?", "a": "you test the best case, not a weak one", "d": ["it guarantees you win", "it avoids any disagreement"] },
+    { "c": "Weak man argument", "a": "attacking a real but feeble version of a side's view", "d": ["attacking an invented distortion of a view", "attacking the strongest version of a view"] },
+    { "c": "Rapoport's rules (via Dennett) begin by", "a": "restating the other view so well its holder approves", "d": ["listing every error in the other view", "declaring your own view first"] },
+    { "c": "Ideological Turing test", "a": "stating a rival view so well its holders take you for one of them", "d": ["testing whether a computer can argue", "checking a view against scientific data"] },
+    { "c": "Toulmin model: grounds (data)", "a": "the evidence offered for the claim", "d": ["the link explaining why evidence supports the claim", "the conditions in which the claim fails"] },
+    { "c": "Toulmin model: warrant", "a": "the link explaining why the grounds support the claim", "d": ["the evidence offered for the claim", "a word showing how strong the claim is"] },
+    { "c": "Toulmin model: backing", "a": "support for the warrant itself", "d": ["support for the conclusion's opposite", "the claim being argued for"] },
+    { "c": "Toulmin model: qualifier", "a": "a word like 'probably' marking the claim's strength", "d": ["the evidence offered for the claim", "support for the warrant itself"] },
+    { "c": "Toulmin model: rebuttal", "a": "the conditions under which the claim would not hold", "d": ["the evidence offered for the claim", "the link from grounds to claim"] }
+  ],
+  "read": {
+    "title": "Map it, then make it strong",
+    "text": [
+      "Long arguments are hard to judge in prose. An argument map helps by putting the main conclusion at the top and the reasons beneath, with arrows showing which claims support which. Objections hang off the claims they attack.",
+      "Maps reveal structure. Some premises are linked: 'all metals conduct electricity' and 'copper is a metal' support 'copper conducts' only together, so if either fails, that line of support collapses. Other premises are convergent: three independent witnesses each give a separate reason to think the suspect was there, so losing one leaves the others standing.",
+      "Before mapping someone else's argument, apply the principle of charity. Fill unstated gaps with the most plausible premise that would make the reasoning work, not the silliest. Steelmanning goes further: state the opposing view in the strongest form you can, ideally so well that its defenders would say you put it better than they did. Then criticize.",
+      "This is not mere politeness. If you refute only a weak version, the strong version is still standing, and you have learned nothing. If the strong version survives your best objection, you have learned something too."
+    ],
+    "q": [
+      { "q": "Why are the copper premises called linked?", "o": ["Each supports the conclusion alone", "They support the conclusion only together", "They support different conclusions"], "k": 1 },
+      { "q": "According to the reading, what happens if you refute only a weak version of a view?", "o": ["The strong version is still standing", "The view is disproven", "Your argument becomes sound"], "k": 0 },
+      { "q": "What does charity recommend for unstated gaps?", "o": ["Leave them unfilled", "Fill them with the silliest premise", "Fill them with the most plausible premise that makes it work"], "k": 2 }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "title": "Essential conversation",
+  "note": "Invite with 〜ませんか (\"won't you...?\") and suggest with 〜ましょう (\"let's...\"). Japanese often refuses softly: ちょっと… (\"it's a bit...\") trails off instead of saying no. Set phrases like おめでとうございます and がんばってください are used constantly; learn them whole.",
+  "src": {
+    "t": "IRODORI: Japanese for Life in Japan, The Japan Foundation",
+    "u": "https://www.irodori.jpf.go.jp/en/"
+  },
+  "items": [
+    {
+      "c": "分かりました。",
+      "r": "Wakarimashita.",
+      "a": "I understand. / Got it.",
+      "d": [
+        "I don't understand.",
+        "I know that person."
+      ]
+    },
+    {
+      "c": "分かりません。",
+      "r": "Wakarimasen.",
+      "a": "I don't understand. / I don't know.",
+      "d": [
+        "I understood.",
+        "I don't have it."
+      ]
+    },
+    {
+      "c": "久しぶりですね。",
+      "r": "Hisashiburi desu ne.",
+      "a": "Long time no see.",
+      "d": [
+        "Nice to meet you.",
+        "See you soon."
+      ]
+    },
+    {
+      "c": "おめでとうございます。",
+      "r": "Omedetō gozaimasu.",
+      "a": "Congratulations!",
+      "d": [
+        "Thank you very much!",
+        "Good luck!"
+      ]
+    },
+    {
+      "c": "お誕生日おめでとうございます。",
+      "r": "Otanjōbi omedetō gozaimasu.",
+      "a": "Happy birthday!",
+      "d": [
+        "Happy New Year!",
+        "When is your birthday?"
+      ]
+    },
+    {
+      "c": "がんばってください。",
+      "r": "Ganbatte kudasai.",
+      "a": "Good luck! / Do your best!",
+      "d": [
+        "Take care of yourself.",
+        "Please hurry."
+      ]
+    },
+    {
+      "c": "気をつけて。",
+      "r": "Ki o tsukete.",
+      "a": "Take care. / Be careful.",
+      "d": [
+        "Cheer up.",
+        "Good night."
+      ]
+    },
+    {
+      "c": "また明日。",
+      "r": "Mata ashita.",
+      "a": "See you tomorrow.",
+      "d": [
+        "See you next week.",
+        "Until today."
+      ]
+    },
+    {
+      "c": "どうしましたか。",
+      "r": "Dō shimashita ka.",
+      "a": "What's the matter?",
+      "d": [
+        "What did you buy?",
+        "How are you?"
+      ]
+    },
+    {
+      "c": "本当ですか。",
+      "r": "Hontō desu ka.",
+      "a": "Really?",
+      "d": [
+        "Is that wrong?",
+        "Is this a book?"
+      ]
+    },
+    {
+      "c": "いいですね。",
+      "r": "Ii desu ne.",
+      "a": "That sounds nice.",
+      "d": [
+        "That's not good.",
+        "That's enough."
+      ]
+    },
+    {
+      "c": "いいえ、けっこうです。",
+      "r": "Iie, kekkō desu.",
+      "a": "No, thank you.",
+      "d": [
+        "No, I don't know.",
+        "No, it's not good."
+      ]
+    },
+    {
+      "c": "ちょっと…。",
+      "r": "Chotto...",
+      "a": "It's a bit... (a soft no)",
+      "d": [
+        "Yes, gladly. (accepting)",
+        "Sure, thanks. (accepting)"
+      ]
+    },
+    {
+      "c": "ぜひ。",
+      "r": "Zehi.",
+      "a": "I'd love to. / By all means.",
+      "d": [
+        "Maybe not.",
+        "Not at all."
+      ],
+      "ex": "ぜひ行きたいです。",
+      "exT": "I'd love to go."
+    },
+    {
+      "c": "お腹がすきました。",
+      "r": "Onaka ga sukimashita.",
+      "a": "I'm hungry.",
+      "d": [
+        "I'm full.",
+        "My stomach hurts."
+      ]
+    },
+    {
+      "c": "のどが渇きました。",
+      "r": "Nodo ga kawakimashita.",
+      "a": "I'm thirsty.",
+      "d": [
+        "I'm hungry.",
+        "I'm cold."
+      ]
+    },
+    {
+      "c": "一緒に食べませんか。",
+      "r": "Issho ni tabemasen ka.",
+      "a": "Would you like to eat together?",
+      "d": [
+        "Didn't we eat together?",
+        "We don't eat together."
+      ]
+    },
+    {
+      "c": "何時に会いましょうか。",
+      "r": "Nanji ni aimashō ka.",
+      "a": "What time shall we meet?",
+      "d": [
+        "What time did we meet?",
+        "Where shall we meet?"
+      ]
+    },
+    {
+      "c": "どこから来ましたか。",
+      "r": "Doko kara kimashita ka.",
+      "a": "Where are you from?",
+      "d": [
+        "Where are you going?",
+        "When did you come?"
+      ]
+    },
+    {
+      "c": "日本は初めてです。",
+      "r": "Nihon wa hajimete desu.",
+      "a": "This is my first time in Japan.",
+      "d": [
+        "Japan is my home.",
+        "I'm leaving Japan soon."
+      ]
+    },
+    {
+      "c": "これはどういう意味ですか。",
+      "r": "Kore wa dō iu imi desu ka.",
+      "a": "What does this mean?",
+      "d": [
+        "How do you read this?",
+        "Where is this?"
+      ]
+    },
+    {
+      "c": "トイレを借りてもいいですか。",
+      "r": "Toire o karite mo ii desu ka.",
+      "a": "May I use the restroom?",
+      "d": [
+        "Where is the restroom?",
+        "Is the restroom clean?"
+      ]
+    },
+    {
+      "c": "もう一度言ってください。",
+      "r": "Mō ichido itte kudasai.",
+      "a": "Please say it again.",
+      "d": [
+        "Please say it in English.",
+        "Please don't say it."
+      ]
+    },
+    {
+      "c": "そうですか。",
+      "r": "Sō desu ka.",
+      "a": "I see. / Is that so?",
+      "d": [
+        "That's wrong.",
+        "Is that yours?"
+      ]
+    },
+    {
+      "c": "お先にどうぞ。",
+      "r": "Osaki ni dōzo.",
+      "a": "After you. / Please go ahead.",
+      "d": [
+        "I'll go first.",
+        "See you later."
+      ]
+    },
+    {
+      "c": "駅の前___会いましょう。",
+      "r": "Eki no mae ___ aimashō.",
+      "a": "で",
+      "d": [
+        "を",
+        "へ"
+      ],
+      "ex": "駅の前で会いましょう。",
+      "exT": "Let's meet in front of the station."
+    },
+    {
+      "c": "明日、何時___会いましょうか。",
+      "r": "Ashita, nanji ___ aimashō ka.",
+      "a": "に",
+      "d": [
+        "を",
+        "が"
+      ]
+    },
+    {
+      "c": "土曜日に一緒に映画を見___か。(invitation)",
+      "r": "Doyōbi ni issho ni eiga o mi___ ka.",
+      "a": "ません",
+      "d": [
+        "ました",
+        "でした"
+      ],
+      "ex": "土曜日に一緒に映画を見ませんか。",
+      "exT": "Would you like to see a movie together on Saturday?"
+    }
+  ],
+  "read": {
+    "title": "週末の 映画",
+    "text": [
+      "マリア： ケンさん、 久しぶりですね。 お元気ですか。",
+      "ケン： はい、 元気です。 マリアさんは？",
+      "マリア： わたしも 元気です。 でも、 毎日 仕事で 忙しいです。",
+      "ケン： そうですか。 土曜日に 一緒に 映画を 見ませんか。",
+      "マリア： いいですね。 ぜひ。 何時に 会いましょうか。",
+      "ケン： 二時に 駅の 前で 会いましょう。",
+      "ケン： それから、 一緒に 晩ご飯を 食べましょう。",
+      "マリア： いいですね！ 分かりました。 じゃあ、 また 土曜日に。"
+    ],
+    "q": [
+      {
+        "q": "What does Ken invite Maria to do?",
+        "o": [
+          "See a movie",
+          "Go shopping",
+          "Study Japanese"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Where will they meet?",
+        "o": [
+          "At the movie theater",
+          "In front of the station",
+          "At Maria's house"
+        ],
+        "k": 1
+      },
+      {
+        "q": "When will they meet?",
+        "o": [
+          "Sunday at two",
+          "Saturday at seven",
+          "Saturday at two"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+ "title": "Immunology: innate and adaptive defenses, antibodies and vaccines",
+ "note": "Innate immunity responds within minutes to patterns shared by many microbes but has no memory. Adaptive immunity, carried out by B cells (antibodies) and T cells, is specific and slower the first time, but it leaves memory cells. Vaccines exploit that memory by presenting antigen safely before a real infection.",
+ "src": {
+  "t": "OpenStax Microbiology, 18.1 Overview of Specific Adaptive Immunity",
+  "u": "https://openstax.org/books/microbiology/pages/18-1-overview-of-specific-adaptive-immunity"
+ },
+ "items": [
+  {
+   "c": "Innate immunity",
+   "a": "Rapid, nonspecific defenses with no memory",
+   "d": [
+    "Slow, highly specific defenses with memory",
+    "Antibodies received from another person"
+   ]
+  },
+  {
+   "c": "Adaptive immunity",
+   "a": "Specific defenses that form memory",
+   "d": [
+    "Nonspecific barriers present from birth",
+    "Fever and inflammation only"
+   ]
+  },
+  {
+   "c": "Phagocyte",
+   "a": "A cell that engulfs and digests microbes",
+   "d": [
+    "A cell that secretes antibodies",
+    "A cell that forms blood clots"
+   ]
+  },
+  {
+   "c": "Macrophages develop from",
+   "a": "Monocytes",
+   "d": [
+    "Neutrophils",
+    "Platelets"
+   ]
+  },
+  {
+   "c": "Phagolysosome",
+   "a": "A phagosome fused with a lysosome",
+   "d": [
+    "A lysosome released outside the cell",
+    "A virus enclosed in a capsid"
+   ]
+  },
+  {
+   "c": "PAMPs",
+   "a": "Molecular patterns shared by many microbes",
+   "d": [
+    "Antibodies specific to one epitope",
+    "Proteins that present self antigens"
+   ]
+  },
+  {
+   "c": "Toll-like receptors",
+   "a": "Pattern recognition receptors that detect PAMPs",
+   "d": [
+    "T cell receptors that bind MHC I",
+    "Fc receptors that bind IgE"
+   ]
+  },
+  {
+   "c": "Opsonization",
+   "a": "Coating a microbe so phagocytes grab it more easily",
+   "d": [
+    "Clumping microbes together with antibodies",
+    "Punching holes in microbial membranes"
+   ]
+  },
+  {
+   "c": "Complement system",
+   "a": "Blood proteins that opsonize, recruit cells and lyse microbes",
+   "d": [
+    "Proteins that carry oxygen in red cells",
+    "Hormones that set body temperature"
+   ]
+  },
+  {
+   "c": "Natural killer (NK) cells",
+   "a": "Innate lymphocytes that kill infected or abnormal cells",
+   "d": [
+    "T cells that recognize MHC II",
+    "B cells that make IgE"
+   ]
+  },
+  {
+   "c": "Histamine's role in inflammation",
+   "a": "Dilates vessels and makes them leaky",
+   "d": [
+    "Constricts vessels and seals them",
+    "Kills bacteria directly"
+   ]
+  },
+  {
+   "c": "Five cardinal signs of inflammation",
+   "a": "Redness, swelling, heat, pain, loss of function",
+   "d": [
+    "Fever, chills, cough, rash, fatigue",
+    "Pallor, cold, numbness, stiffness, itch"
+   ]
+  },
+  {
+   "c": "How pyrogens cause fever",
+   "a": "Prostaglandin E2 raises the hypothalamic set point",
+   "d": [
+    "Histamine heats the blood directly",
+    "Antibodies burn extra glucose"
+   ]
+  },
+  {
+   "c": "Where B cells mature",
+   "a": "Bone marrow",
+   "d": [
+    "Thymus",
+    "Spleen"
+   ]
+  },
+  {
+   "c": "Where T cells mature",
+   "a": "Thymus",
+   "d": [
+    "Bone marrow",
+    "Lymph nodes"
+   ]
+  },
+  {
+   "c": "Humoral immunity",
+   "a": "Antibody-mediated defense by B cells",
+   "d": [
+    "Killing of infected cells by T cells",
+    "Physical barriers like skin"
+   ]
+  },
+  {
+   "c": "Plasma cell",
+   "a": "An activated B cell that secretes antibodies",
+   "d": [
+    "A T cell that kills infected cells",
+    "A platelet precursor in marrow"
+   ]
+  },
+  {
+   "c": "Epitope",
+   "a": "The specific part of an antigen an antibody binds",
+   "d": [
+    "The stem of an antibody",
+    "The receptor that detects PAMPs"
+   ]
+  },
+  {
+   "c": "Basic antibody structure",
+   "a": "Two heavy and two light chains in a Y shape",
+   "d": [
+    "One heavy and one light chain in a ring",
+    "Four identical light chains in a line"
+   ]
+  },
+  {
+   "c": "Fc region of an antibody",
+   "a": "Stem that binds phagocytes and complement",
+   "d": [
+    "Tips that bind the epitope",
+    "Hinge that joins two light chains"
+   ]
+  },
+  {
+   "c": "Only antibody class that crosses the placenta",
+   "a": "IgG",
+   "d": [
+    "IgM",
+    "IgA"
+   ]
+  },
+  {
+   "c": "First antibody made in a primary response",
+   "a": "IgM",
+   "d": [
+    "IgG",
+    "IgE"
+   ]
+  },
+  {
+   "c": "Main antibody in mucus, tears and breast milk",
+   "a": "IgA",
+   "d": [
+    "IgM",
+    "IgD"
+   ]
+  },
+  {
+   "c": "Antibody that binds mast cells in allergy",
+   "a": "IgE",
+   "d": [
+    "IgA",
+    "IgG"
+   ]
+  },
+  {
+   "c": "Neutralization by antibodies",
+   "a": "Blocking a microbe or toxin from binding host cells",
+   "d": [
+    "Coating microbes for phagocytes",
+    "Triggering fever in the hypothalamus"
+   ]
+  },
+  {
+   "c": "MHC class I is displayed by",
+   "a": "All nucleated cells",
+   "d": [
+    "Only antigen-presenting cells",
+    "Only red blood cells"
+   ]
+  },
+  {
+   "c": "MHC class II is displayed by",
+   "a": "Antigen-presenting cells such as dendritic cells",
+   "d": [
+    "All nucleated cells",
+    "Only neurons"
+   ]
+  },
+  {
+   "c": "CD8+ T cells",
+   "a": "Cytotoxic T cells that recognize MHC I",
+   "d": [
+    "Helper T cells that recognize MHC II",
+    "B cells that recognize free antigen"
+   ]
+  },
+  {
+   "c": "CD4+ T cells",
+   "a": "Helper T cells that recognize MHC II",
+   "d": [
+    "Cytotoxic T cells that recognize MHC I",
+    "NK cells that lack receptors"
+   ]
+  },
+  {
+   "c": "How cytotoxic T cells kill target cells",
+   "a": "Perforin and granzymes trigger apoptosis",
+   "d": [
+    "They engulf and digest the whole cell",
+    "They secrete antibodies against it"
+   ]
+  },
+  {
+   "c": "Negative selection in the thymus",
+   "a": "Removes T cells that react strongly to self",
+   "d": [
+    "Keeps only T cells that react to self",
+    "Turns T cells into B cells"
+   ]
+  },
+  {
+   "c": "Secondary immune response",
+   "a": "Faster, larger response driven by memory cells",
+   "d": [
+    "Slower, weaker response after first exposure",
+    "Response that uses only innate cells"
+   ]
+  },
+  {
+   "c": "Passive immunity",
+   "a": "Protection from antibodies made by another body",
+   "d": [
+    "Protection from one's own memory cells",
+    "Protection from intact skin"
+   ]
+  },
+  {
+   "c": "Live attenuated vaccine",
+   "a": "Weakened pathogen that can still replicate",
+   "d": [
+    "Killed pathogen that cannot replicate",
+    "Purified toxin made harmless"
+   ]
+  },
+  {
+   "c": "Toxoid vaccine",
+   "a": "Inactivated toxin that trains toxin-neutralizing antibodies",
+   "d": [
+    "Weakened live bacterium",
+    "Messenger RNA for a surface protein"
+   ]
+  }
+ ],
+ "read": {
+  "title": "How a vaccine trains the immune system",
+  "text": [
+   "The first time the adaptive immune system meets a new antigen, the response is slow. Only a few B and T cells happen to have receptors that fit, and they must be selected, activated and multiplied before they can clear the threat. Antibody levels take days to rise, and IgM appears first.",
+   "This first encounter leaves behind long-lived memory B and T cells. On a later exposure they respond faster and more strongly, producing higher levels of antibody, mostly IgG. That faster secondary response is the whole point of a vaccine: it supplies the first encounter safely, so the dangerous one meets a prepared defense.",
+   "Vaccines differ in what they present. Live attenuated vaccines use a weakened organism that still replicates, which tends to give strong, lasting immunity but is not suitable for some people with weakened immune systems. Inactivated vaccines use killed organisms. Subunit and conjugate vaccines present only key antigens, and toxoids present a harmless form of a bacterial toxin. mRNA vaccines deliver instructions so the body's own cells briefly make an antigen. Many vaccines include an adjuvant, an ingredient that strengthens the response, and immunity takes weeks to develop after a dose."
+  ],
+  "q": [
+   {
+    "q": "Why is the first adaptive response to an antigen slow?",
+    "o": [
+     "Few matching lymphocytes exist and must be activated and multiplied",
+     "Antibodies cannot be made until the second exposure",
+     "Innate immunity blocks it"
+    ],
+    "k": 0
+   },
+   {
+    "q": "Which antibody dominates the secondary response?",
+    "o": [
+     "IgM",
+     "IgE",
+     "IgG",
+     "IgD"
+    ],
+    "k": 2
+   },
+   {
+    "q": "An adjuvant is",
+    "o": [
+     "A killed form of the pathogen",
+     "An ingredient that strengthens the immune response",
+     "A preservative that prevents freezing"
+    ],
+    "k": 1
+   }
+  ]
+ }
+}

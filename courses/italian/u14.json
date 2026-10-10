@@ -1,0 +1,286 @@
+{
+  "title": "Work and school",
+  "note": "To state a job, use essere with no article (Sono infermiere) or fare with the article (Faccio l'infermiere). Most verbs in -iare keep a single i in the tu and noi forms: studi, studiamo.",
+  "src": {
+    "t": "Voci, Unità 2: All'università",
+    "u": "https://human.libretexts.org/Bookshelves/Languages/Italian/Voci%3A_Corso_elementare_di_lingua_e_culture_italiane_I_(Bozzato_Benetollo_and_Mugnai)/02%3A_Unita_2"
+  },
+  "items": [
+    {
+      "c": "il lavoro",
+      "a": "work; job",
+      "d": [
+        "salary",
+        "office"
+      ],
+      "ex": "Cerco lavoro a Torino.",
+      "exT": "I'm looking for work in Turin."
+    },
+    {
+      "c": "l'ufficio",
+      "a": "office",
+      "d": [
+        "factory",
+        "classroom"
+      ]
+    },
+    {
+      "c": "il capo",
+      "a": "boss",
+      "d": [
+        "colleague",
+        "client"
+      ]
+    },
+    {
+      "c": "il collega",
+      "a": "colleague (male)",
+      "d": [
+        "boss",
+        "college"
+      ]
+    },
+    {
+      "c": "lo stipendio",
+      "a": "salary; pay",
+      "d": [
+        "schedule",
+        "contract"
+      ]
+    },
+    {
+      "c": "l'infermiere",
+      "a": "nurse (male)",
+      "d": [
+        "doctor",
+        "pharmacist"
+      ]
+    },
+    {
+      "c": "l'avvocato",
+      "a": "lawyer",
+      "d": [
+        "judge",
+        "accountant"
+      ]
+    },
+    {
+      "c": "l'ingegnere",
+      "a": "engineer",
+      "d": [
+        "architect",
+        "mechanic"
+      ]
+    },
+    {
+      "c": "il cuoco",
+      "a": "cook; chef",
+      "d": [
+        "waiter",
+        "baker"
+      ]
+    },
+    {
+      "c": "il commesso",
+      "a": "sales clerk",
+      "d": [
+        "mail carrier",
+        "factory worker"
+      ]
+    },
+    {
+      "c": "l'insegnante",
+      "a": "teacher (either gender)",
+      "d": [
+        "principal",
+        "student"
+      ]
+    },
+    {
+      "c": "la scuola",
+      "a": "school",
+      "d": [
+        "class",
+        "university"
+      ]
+    },
+    {
+      "c": "l'università",
+      "a": "university",
+      "d": [
+        "high school",
+        "library"
+      ]
+    },
+    {
+      "c": "la lezione",
+      "a": "class; lesson",
+      "d": [
+        "reading",
+        "exam"
+      ],
+      "ex": "La lezione comincia alle dieci.",
+      "exT": "The class starts at ten."
+    },
+    {
+      "c": "l'esame",
+      "a": "exam",
+      "d": [
+        "homework",
+        "grade"
+      ]
+    },
+    {
+      "c": "i compiti",
+      "a": "homework",
+      "d": [
+        "computers",
+        "grades"
+      ]
+    },
+    {
+      "c": "il voto",
+      "a": "grade; mark",
+      "d": [
+        "exam",
+        "absence"
+      ]
+    },
+    {
+      "c": "il libro",
+      "a": "book",
+      "d": [
+        "notebook",
+        "pound"
+      ]
+    },
+    {
+      "c": "il quaderno",
+      "a": "notebook",
+      "d": [
+        "book",
+        "folder"
+      ]
+    },
+    {
+      "c": "la penna",
+      "a": "pen",
+      "d": [
+        "pencil",
+        "eraser"
+      ]
+    },
+    {
+      "c": "la matita",
+      "a": "pencil",
+      "d": [
+        "pen",
+        "marker"
+      ]
+    },
+    {
+      "c": "lo zaino",
+      "a": "backpack",
+      "d": [
+        "suitcase",
+        "pencil case"
+      ]
+    },
+    {
+      "c": "la materia",
+      "a": "school subject",
+      "d": [
+        "classroom",
+        "teacher"
+      ]
+    },
+    {
+      "c": "studiare",
+      "a": "to study",
+      "d": [
+        "to teach",
+        "to learn"
+      ]
+    },
+    {
+      "c": "imparare",
+      "a": "to learn",
+      "d": [
+        "to teach",
+        "to prepare"
+      ]
+    },
+    {
+      "c": "insegnare",
+      "a": "to teach",
+      "d": [
+        "to learn",
+        "to sign"
+      ]
+    },
+    {
+      "c": "lavorare",
+      "a": "to work",
+      "d": [
+        "to wash",
+        "to study"
+      ]
+    },
+    {
+      "c": "Che lavoro fai?",
+      "a": "What do you do for a living?",
+      "d": [
+        "Where do you work?",
+        "When do you finish work?"
+      ]
+    },
+    {
+      "c": "Faccio l'ingegnere.",
+      "a": "I'm an engineer.",
+      "d": [
+        "I'm hiring an engineer.",
+        "I want to be an engineer."
+      ]
+    },
+    {
+      "c": "Io ___ all'università. (studiare)",
+      "a": "studio",
+      "d": [
+        "studia",
+        "studiio"
+      ]
+    },
+    {
+      "c": "Tu ___ molto. (studiare)",
+      "a": "studi",
+      "d": [
+        "studii",
+        "studia"
+      ]
+    },
+    {
+      "c": "Noi ___ l'italiano. (imparare)",
+      "a": "impariamo",
+      "d": [
+        "imparamo",
+        "imparate"
+      ]
+    },
+    {
+      "c": "Mia madre ___ in una scuola. (insegnare)",
+      "a": "insegna",
+      "d": [
+        "insegno",
+        "insegnano"
+      ]
+    },
+    {
+      "c": "Faccio ___ cuoco. (the)",
+      "a": "il",
+      "d": [
+        "lo",
+        "un"
+      ]
+    }
+  ]
+}

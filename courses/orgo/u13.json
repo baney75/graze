@@ -1,0 +1,291 @@
+{
+  "title": "Aldehydes and ketones",
+  "note": "The carbonyl carbon is electrophilic: a nucleophile adds to it, giving a tetrahedral alkoxide that is then protonated. Aldehydes react faster than ketones because they are less hindered and less stabilized. Strong nucleophiles (H⁻, R⁻) add irreversibly; weak ones (water, alcohols, amines) add reversibly, usually with acid catalysis.",
+  "src": {
+    "t": "LibreTexts, Organic Chemistry (Morsch et al.), Ch. 19 Aldehydes and Ketones: Nucleophilic Addition Reactions",
+    "u": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/19%3A_Aldehydes_and_Ketones-_Nucleophilic_Addition_Reactions"
+  },
+  "items": [
+    {
+      "c": "More reactive at C=O: aldehyde or ketone?",
+      "a": "aldehyde; less hindered, less stabilized",
+      "d": [
+        "ketone; more alkyl groups activate it",
+        "equally reactive"
+      ]
+    },
+    {
+      "c": "Intermediate after a nucleophile adds to C=O",
+      "a": "tetrahedral alkoxide",
+      "d": [
+        "planar carbocation",
+        "enol"
+      ]
+    },
+    {
+      "c": "NaBH₄",
+      "a": "reduces aldehydes and ketones to alcohols",
+      "d": [
+        "reduces esters and acids to alcohols",
+        "oxidizes alcohols to ketones"
+      ]
+    },
+    {
+      "c": "NaBH₄ in methanol + cyclohexanone",
+      "a": "cyclohexanol",
+      "d": [
+        "cyclohexane",
+        "cyclohexene"
+      ]
+    },
+    {
+      "c": "Grignard reagent (RMgX)",
+      "a": "carbon nucleophile that attacks carbonyls",
+      "d": [
+        "carbon electrophile that attacks alkenes",
+        "mild oxidizing agent"
+      ]
+    },
+    {
+      "c": "Why Grignard reactions need dry conditions",
+      "a": "water protonates R–MgX to an alkane",
+      "d": [
+        "water oxidizes the magnesium",
+        "water adds to the carbonyl first"
+      ]
+    },
+    {
+      "c": "RMgBr + formaldehyde, then H₃O⁺",
+      "a": "primary alcohol",
+      "d": [
+        "secondary alcohol",
+        "tertiary alcohol"
+      ]
+    },
+    {
+      "c": "RMgBr + an aldehyde (not HCHO), then H₃O⁺",
+      "a": "secondary alcohol",
+      "d": [
+        "primary alcohol",
+        "tertiary alcohol"
+      ]
+    },
+    {
+      "c": "RMgBr + ketone, then H₃O⁺",
+      "a": "tertiary alcohol",
+      "d": [
+        "secondary alcohol",
+        "ester"
+      ]
+    },
+    {
+      "c": "CH₃MgBr + acetone, then H₃O⁺",
+      "a": "2-methyl-2-propanol (tert-butyl alcohol)",
+      "d": [
+        "2-butanol",
+        "2-propanol"
+      ]
+    },
+    {
+      "c": "RMgBr + CO₂, then H₃O⁺",
+      "a": "carboxylic acid with one more carbon",
+      "d": [
+        "ketone",
+        "aldehyde"
+      ]
+    },
+    {
+      "c": "H₂O + aldehyde (reversible)",
+      "a": "hydrate (geminal diol)",
+      "d": [
+        "hemiacetal",
+        "enol"
+      ]
+    },
+    {
+      "c": "HCN (KCN, acid) + aldehyde",
+      "a": "cyanohydrin",
+      "d": [
+        "nitrile with loss of oxygen",
+        "imine"
+      ]
+    },
+    {
+      "c": "One equivalent of ROH adds to an aldehyde",
+      "a": "hemiacetal",
+      "d": [
+        "acetal",
+        "hydrate (geminal diol)"
+      ]
+    },
+    {
+      "c": "Two ROH, H⁺ cat., water removed + aldehyde",
+      "a": "acetal",
+      "d": [
+        "hemiacetal",
+        "ester"
+      ]
+    },
+    {
+      "c": "Ethylene glycol, H⁺ + ketone",
+      "a": "cyclic acetal (protecting group)",
+      "d": [
+        "1,2-diol",
+        "epoxide"
+      ]
+    },
+    {
+      "c": "Acetals are stable toward",
+      "a": "bases and nucleophiles, but not aqueous acid",
+      "d": [
+        "aqueous acid, but not bases",
+        "nothing; they hydrolyze in water"
+      ]
+    },
+    {
+      "c": "R–NH₂ (1° amine), mild acid + ketone",
+      "a": "imine (C=N–R)",
+      "d": [
+        "enamine",
+        "amide"
+      ]
+    },
+    {
+      "c": "R₂NH (2° amine), acid + ketone",
+      "a": "enamine",
+      "d": [
+        "imine",
+        "amine oxide"
+      ]
+    },
+    {
+      "c": "Best pH for imine formation",
+      "a": "mildly acidic, about 4 to 5",
+      "d": [
+        "strongly acidic, about 1",
+        "strongly basic, about 13"
+      ]
+    },
+    {
+      "c": "H₂NNH₂, KOH, heat + ketone",
+      "a": "C=O reduced to CH₂ (Wolff–Kishner)",
+      "d": [
+        "hydrazone that hydrolyzes to the alcohol",
+        "carboxylic acid"
+      ]
+    },
+    {
+      "c": "Zn(Hg), conc. HCl + aryl ketone",
+      "a": "C=O reduced to CH₂ (Clemmensen)",
+      "d": [
+        "C=O reduced to CH–OH",
+        "ring chlorination"
+      ]
+    },
+    {
+      "c": "Wittig reaction",
+      "a": "carbonyl → alkene via a phosphorus ylide",
+      "d": [
+        "carbonyl → alcohol via a hydride",
+        "alkene → carbonyl via ozone"
+      ]
+    },
+    {
+      "c": "Ph₃P=CH₂ + cyclohexanone",
+      "a": "methylenecyclohexane",
+      "d": [
+        "methylcyclohexanol",
+        "cyclohexene"
+      ]
+    },
+    {
+      "c": "Tollens' reagent (Ag⁺, NH₃) + aldehyde",
+      "a": "carboxylate plus a silver mirror",
+      "d": [
+        "alcohol plus silver oxide",
+        "no reaction"
+      ]
+    },
+    {
+      "c": "R₂CuLi + α,β-unsaturated ketone",
+      "a": "R adds to the β carbon (1,4-addition)",
+      "d": [
+        "R adds to the carbonyl carbon (1,2)",
+        "R adds to oxygen"
+      ]
+    },
+    {
+      "c": "LDA, −78 °C + 2-methylcyclohexanone",
+      "a": "kinetic enolate at the less substituted side",
+      "d": [
+        "thermodynamic enolate at the more substituted side",
+        "Grignard reagent"
+      ]
+    },
+    {
+      "c": "I₂, NaOH + methyl ketone (haloform)",
+      "a": "carboxylate plus iodoform (CHI₃)",
+      "d": [
+        "α,α-diiodo alcohol",
+        "aldehyde plus HI"
+      ]
+    },
+    {
+      "c": "Aldol reaction",
+      "a": "enolate + carbonyl → β-hydroxy carbonyl",
+      "d": [
+        "enolate + ester → β-keto ester",
+        "carbonyl + ylide → alkene"
+      ]
+    },
+    {
+      "c": "Aldol product heated with base or acid",
+      "a": "α,β-unsaturated carbonyl (enone)",
+      "d": [
+        "β-keto ester",
+        "1,3-diol"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Attacking the carbonyl carbon",
+    "text": [
+      "The C=O bond is polarized, with the oxygen pulling electron density away from carbon. That leaves the carbonyl carbon electrophilic. Nearly every reaction of aldehydes and ketones begins the same way: a nucleophile adds to that carbon, the π electrons move onto oxygen, and the planar carbonyl becomes a tetrahedral alkoxide.",
+      "What happens next depends on the nucleophile. Hydride from NaBH₄ or carbanions from Grignard reagents add irreversibly, and acid workup gives an alcohol. The class of alcohol follows from the carbonyl: formaldehyde gives a primary alcohol, other aldehydes a secondary one, and ketones a tertiary one.",
+      "Weaker nucleophiles add reversibly. Water gives a hydrate, and an alcohol gives a hemiacetal. With acid and a second alcohol, the OH is lost as water and an acetal forms. Acetals survive bases and nucleophiles, so they serve as protecting groups, and aqueous acid restores the carbonyl. Primary amines add and then lose water to form imines; secondary amines, lacking a second N–H, form enamines.",
+      "Aldehydes react faster than ketones. A hydrogen is smaller than an alkyl group, so the nucleophile reaches the carbon more easily, and alkyl groups also stabilize the partial positive charge of a ketone's carbonyl carbon."
+    ],
+    "q": [
+      {
+        "q": "What forms when a nucleophile adds to a carbonyl carbon?",
+        "o": [
+          "A tetrahedral alkoxide",
+          "A carbocation",
+          "An alkene",
+          "A radical"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Grignard addition to a ketone, then acid, gives",
+        "o": [
+          "A primary alcohol",
+          "A tertiary alcohol",
+          "A secondary alcohol",
+          "An ester"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why do secondary amines form enamines rather than imines?",
+        "o": [
+          "They are too basic",
+          "They cannot add to C=O",
+          "They lack a second N–H to lose",
+          "They are tertiary"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

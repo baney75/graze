@@ -1,0 +1,16 @@
+{
+  "key": "spanish",
+  "name": "Spanish",
+  "group": "Languages",
+  "tag": "ESPAÑOL",
+  "lang": "es-ES",
+  "speak": "recognize",
+  "level": "Beginner to A2",
+  "blurb": "Greet people, talk about yourself, your family and your day, shop, travel, and tell what happened and what you plan, using about 600 core words shared by Spain and Latin America.",
+  "sources": [
+    { "t": "Spanish 1A: Beginning Spanish, Chabot College (LibreTexts)", "u": "https://human.libretexts.org/Courses/Chabot_College/Spanish_1A%3A_Beginning_Spanish_(2026)" },
+    { "t": "LibreTexts Spanish bookshelf", "u": "https://human.libretexts.org/Bookshelves/Languages/Spanish" },
+    { "t": "Diccionario de la lengua española, Real Academia Española", "u": "https://dle.rae.es/" },
+    { "t": "Wiktionary, Appendix: Spanish verbs", "u": "https://en.wiktionary.org/wiki/Appendix:Spanish_verbs" }
+  ]
+}

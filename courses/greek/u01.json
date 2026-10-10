@@ -1,0 +1,234 @@
+{
+  "title": "The Greek alphabet",
+  "note": "Greek has 24 letters. Learn each small letter with its name and its sound in the school (Erasmian) pronunciation; the capital is shown first. Sigma is ς at the end of a word and σ elsewhere. A word that begins with a vowel carries a breathing: rough ἁ adds h, smooth ἀ adds nothing. Most words carry one accent (´ ` ῀), once a pitch, now read as stress.",
+  "src": {
+    "t": "James Strong, Greek in a Nutshell, the alphabet (Project Gutenberg)",
+    "u": "https://gutenberg.org/cache/epub/11130/pg11130-images.html"
+  },
+  "items": [
+    {
+      "c": "Α α",
+      "a": "alpha: a",
+      "d": [
+        "lambda: l",
+        "delta: d"
+      ]
+    },
+    {
+      "c": "Β β",
+      "a": "beta: b",
+      "d": [
+        "theta: th",
+        "zeta: z"
+      ]
+    },
+    {
+      "c": "Γ γ",
+      "a": "gamma: g (hard, as in go)",
+      "d": [
+        "upsilon: y (French u)",
+        "nu: n"
+      ]
+    },
+    {
+      "c": "Δ δ",
+      "a": "delta: d",
+      "d": [
+        "lambda: l",
+        "sigma: s"
+      ]
+    },
+    {
+      "c": "Ε ε",
+      "a": "epsilon: short e",
+      "d": [
+        "eta: long e (ē)",
+        "sigma: s"
+      ]
+    },
+    {
+      "c": "Ζ ζ",
+      "a": "zeta: z",
+      "d": [
+        "xi: x (ks)",
+        "sigma: s"
+      ]
+    },
+    {
+      "c": "Η η",
+      "a": "eta: long e (ē)",
+      "d": [
+        "nu: n",
+        "epsilon: short e"
+      ]
+    },
+    {
+      "c": "Θ θ",
+      "a": "theta: th",
+      "d": [
+        "phi: ph",
+        "omicron: short o"
+      ]
+    },
+    {
+      "c": "Ι ι",
+      "a": "iota: i",
+      "d": [
+        "tau: t",
+        "lambda: l"
+      ]
+    },
+    {
+      "c": "Κ κ",
+      "a": "kappa: k",
+      "d": [
+        "chi: ch (as in Bach)",
+        "xi: x (ks)"
+      ]
+    },
+    {
+      "c": "Λ λ",
+      "a": "lambda: l",
+      "d": [
+        "alpha: a",
+        "delta: d"
+      ]
+    },
+    {
+      "c": "Μ μ",
+      "a": "mu: m",
+      "d": [
+        "nu: n",
+        "upsilon: y (French u)"
+      ]
+    },
+    {
+      "c": "Ν ν",
+      "a": "nu: n",
+      "d": [
+        "upsilon: y (French u)",
+        "gamma: g (hard, as in go)"
+      ]
+    },
+    {
+      "c": "Ξ ξ",
+      "a": "xi: x (ks)",
+      "d": [
+        "zeta: z",
+        "psi: ps"
+      ]
+    },
+    {
+      "c": "Ο ο",
+      "a": "omicron: short o",
+      "d": [
+        "omega: long o (ō)",
+        "theta: th"
+      ]
+    },
+    {
+      "c": "Π π",
+      "a": "pi: p",
+      "d": [
+        "phi: ph",
+        "tau: t"
+      ]
+    },
+    {
+      "c": "Ρ ρ",
+      "a": "rho: r",
+      "d": [
+        "pi: p",
+        "beta: b"
+      ]
+    },
+    {
+      "c": "Σ σ",
+      "a": "sigma: s",
+      "d": [
+        "omicron: short o",
+        "zeta: z"
+      ]
+    },
+    {
+      "c": "ς",
+      "a": "sigma at the end of a word: s",
+      "d": [
+        "zeta: z",
+        "xi: x (ks)"
+      ]
+    },
+    {
+      "c": "Τ τ",
+      "a": "tau: t",
+      "d": [
+        "pi: p",
+        "iota: i"
+      ]
+    },
+    {
+      "c": "Υ υ",
+      "a": "upsilon: y (French u)",
+      "d": [
+        "nu: n",
+        "gamma: g (hard, as in go)"
+      ]
+    },
+    {
+      "c": "Φ φ",
+      "a": "phi: ph",
+      "d": [
+        "psi: ps",
+        "theta: th"
+      ]
+    },
+    {
+      "c": "Χ χ",
+      "a": "chi: ch (as in Bach)",
+      "d": [
+        "kappa: k",
+        "xi: x (ks)"
+      ]
+    },
+    {
+      "c": "Ψ ψ",
+      "a": "psi: ps",
+      "d": [
+        "phi: ph",
+        "chi: ch (as in Bach)"
+      ]
+    },
+    {
+      "c": "Ω ω",
+      "a": "omega: long o (ō)",
+      "d": [
+        "omicron: short o",
+        "upsilon: y (French u)"
+      ]
+    },
+    {
+      "c": "number of letters in the Greek alphabet",
+      "a": "24",
+      "d": [
+        "26",
+        "22"
+      ]
+    },
+    {
+      "c": "the two letters for long e and long o",
+      "a": "η and ω",
+      "d": [
+        "ε and ο",
+        "ι and υ"
+      ]
+    },
+    {
+      "c": "letter with two forms, σ and ς",
+      "a": "sigma",
+      "d": [
+        "zeta",
+        "xi"
+      ]
+    }
+  ]
+}

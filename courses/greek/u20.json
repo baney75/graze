@@ -1,0 +1,355 @@
+{
+  "title": "New Testament core: little words",
+  "note": "The most frequent New Testament words are small ones: καί alone occurs over 9,000 times. Some, like δέ, γάρ and οὖν, are postpositive: they never come first in their clause (ὁ δὲ Ἰησοῦς, 'but Jesus'). οὐ negates statements of fact (indicative verbs); μή negates commands, wishes and conditions, and in the New Testament also participles.",
+  "src": {
+    "t": "SBL Greek New Testament (free edition)",
+    "u": "https://sblgnt.com/"
+  },
+  "items": [
+    {
+      "c": "καί",
+      "a": "and; also, even",
+      "d": [
+        "but",
+        "or; than"
+      ],
+      "ex": "καὶ ὁ λόγος ἦν πρὸς τὸν θεόν.",
+      "exT": "And the Word was with God.",
+      "r": "kai"
+    },
+    {
+      "c": "δέ",
+      "a": "but, and (never first in its clause)",
+      "d": [
+        "for (never first in its clause)",
+        "therefore (never first)"
+      ],
+      "ex": "ὁ δὲ Ἰησοῦς εἶπεν",
+      "exT": "but Jesus said",
+      "r": "de"
+    },
+    {
+      "c": "γάρ",
+      "a": "for (giving a reason; never first)",
+      "d": [
+        "but (never first)",
+        "therefore, so"
+      ],
+      "ex": "οὐκ ἔστιν ὧδε· ἠγέρθη γάρ.",
+      "exT": "He is not here, for he has risen.",
+      "r": "gar"
+    },
+    {
+      "c": "ἀλλά",
+      "a": "but (strong contrast)",
+      "d": [
+        "and; also",
+        "or; than"
+      ],
+      "r": "alla",
+      "ex": "οὐκ ἦλθον καλέσαι δικαίους ἀλλὰ ἁμαρτωλούς.",
+      "exT": "I came not to call the righteous but sinners."
+    },
+    {
+      "c": "οὖν",
+      "a": "therefore, so",
+      "d": [
+        "for",
+        "but"
+      ],
+      "r": "oun",
+      "ex": "τί οὖν;",
+      "exT": "What then?"
+    },
+    {
+      "c": "ὅτι",
+      "a": "that; because",
+      "d": [
+        "in order that",
+        "if"
+      ],
+      "ex": "πιστεύω ὅτι σὺ εἶ ὁ Χριστός.",
+      "exT": "I believe that you are the Christ.",
+      "r": "hoti"
+    },
+    {
+      "c": "ἵνα",
+      "a": "in order that, so that",
+      "d": [
+        "because",
+        "until"
+      ],
+      "r": "hina",
+      "ex": "ἵνα πιστεύσητε",
+      "exT": "so that you may believe"
+    },
+    {
+      "c": "εἰ",
+      "a": "if",
+      "d": [
+        "when",
+        "that"
+      ],
+      "ex": "εἰ υἱὸς εἶ τοῦ θεοῦ",
+      "exT": "if you are the Son of God",
+      "r": "ei"
+    },
+    {
+      "c": "ἐάν",
+      "a": "if (ever), with the subjunctive",
+      "d": [
+        "whenever",
+        "until"
+      ],
+      "r": "ean"
+    },
+    {
+      "c": "ὡς",
+      "a": "as, like; when",
+      "d": [
+        "because; that",
+        "until"
+      ],
+      "r": "hōs",
+      "ex": "ὡς ἐν οὐρανῷ καὶ ἐπὶ γῆς",
+      "exT": "as in heaven, so on earth"
+    },
+    {
+      "c": "καθώς",
+      "a": "just as",
+      "d": [
+        "therefore",
+        "because"
+      ],
+      "ex": "καθὼς γέγραπται",
+      "exT": "just as it is written",
+      "r": "kathōs"
+    },
+    {
+      "c": "ἤ",
+      "a": "or; than",
+      "d": [
+        "and; also",
+        "nor"
+      ],
+      "r": "ē",
+      "ex": "ἀγαθὸν ἢ κακόν",
+      "exT": "good or bad"
+    },
+    {
+      "c": "μέν ... δέ",
+      "a": "on the one hand ... on the other",
+      "d": [
+        "neither ... nor",
+        "both ... and"
+      ],
+      "r": "men ... de"
+    },
+    {
+      "c": "τε",
+      "a": "and (enclitic, often τε ... καί, 'both ... and')",
+      "d": [
+        "but (enclitic)",
+        "not (enclitic)"
+      ],
+      "r": "te"
+    },
+    {
+      "c": "οὐδέ",
+      "a": "and not, nor; not even",
+      "d": [
+        "but not; rather",
+        "or; than"
+      ],
+      "r": "oude"
+    },
+    {
+      "c": "οὔτε ... οὔτε",
+      "a": "neither ... nor",
+      "d": [
+        "either ... or",
+        "both ... and"
+      ],
+      "r": "oute ... oute"
+    },
+    {
+      "c": "οὐ, οὐκ, οὐχ",
+      "a": "not (with statements of fact)",
+      "d": [
+        "not (with commands and wishes)",
+        "no one"
+      ],
+      "r": "ou, ouk, ouch"
+    },
+    {
+      "c": "μή",
+      "a": "not (with commands, wishes, conditions)",
+      "d": [
+        "not (with statements of fact)",
+        "nor"
+      ],
+      "ex": "μὴ φοβεῖσθε.",
+      "exT": "Do not be afraid.",
+      "r": "mē"
+    },
+    {
+      "c": "ἀμήν",
+      "a": "truly; amen",
+      "d": [
+        "behold; look",
+        "now; already"
+      ],
+      "r": "amēn"
+    },
+    {
+      "c": "ἰδού",
+      "a": "look! behold!",
+      "d": [
+        "truly; amen",
+        "alas!"
+      ],
+      "ex": "ἰδοὺ ἡ δούλη κυρίου.",
+      "exT": "Behold, the servant of the Lord.",
+      "r": "idou"
+    },
+    {
+      "c": "νῦν",
+      "a": "now",
+      "d": [
+        "then",
+        "always"
+      ],
+      "r": "nyn"
+    },
+    {
+      "c": "τότε",
+      "a": "then, at that time",
+      "d": [
+        "now",
+        "again"
+      ],
+      "r": "tote"
+    },
+    {
+      "c": "πάλιν",
+      "a": "again; back",
+      "d": [
+        "still, yet",
+        "then, at that time"
+      ],
+      "r": "palin"
+    },
+    {
+      "c": "ἔτι",
+      "a": "still, yet",
+      "d": [
+        "already",
+        "again; back"
+      ],
+      "r": "eti"
+    },
+    {
+      "c": "ἤδη",
+      "a": "already, by now",
+      "d": [
+        "still, yet",
+        "immediately"
+      ],
+      "r": "ēdē"
+    },
+    {
+      "c": "οὕτως",
+      "a": "thus, in this way, so",
+      "d": [
+        "immediately",
+        "therefore"
+      ],
+      "r": "houtōs"
+    },
+    {
+      "c": "πῶς",
+      "a": "how?",
+      "d": [
+        "where?",
+        "why?"
+      ],
+      "r": "pōs",
+      "ex": "πῶς δύναται ἄνθρωπος γεννηθῆναι;",
+      "exT": "How can a man be born?"
+    },
+    {
+      "c": "ὅτε",
+      "a": "when",
+      "d": [
+        "whenever",
+        "because"
+      ],
+      "r": "hote"
+    },
+    {
+      "c": "ὅταν",
+      "a": "whenever",
+      "d": [
+        "when (one time)",
+        "until"
+      ],
+      "r": "hotan"
+    },
+    {
+      "c": "ἕως",
+      "a": "until; while",
+      "d": [
+        "whenever",
+        "before"
+      ],
+      "r": "heōs"
+    },
+    {
+      "c": "μᾶλλον",
+      "a": "more, rather",
+      "d": [
+        "less",
+        "most of all"
+      ],
+      "r": "mallon"
+    },
+    {
+      "c": "ἐκεῖ",
+      "a": "there",
+      "d": [
+        "here",
+        "where?"
+      ],
+      "r": "ekei"
+    },
+    {
+      "c": "εὐθύς",
+      "a": "immediately, at once",
+      "d": [
+        "again",
+        "slowly"
+      ],
+      "r": "euthys",
+      "ex": "εὐθὺς ἠκολούθησαν αὐτῷ.",
+      "exT": "At once they followed him."
+    },
+    {
+      "c": "διό",
+      "a": "therefore, for this reason",
+      "d": [
+        "because",
+        "but"
+      ],
+      "r": "dio"
+    },
+    {
+      "c": "Ἀμὴν ἀμὴν λέγω σοι",
+      "a": "Truly, truly, I say to you",
+      "d": [
+        "Amen, amen, I pray for you",
+        "Truly, I am speaking to them"
+      ],
+      "r": "Amēn amēn legō soi"
+    }
+  ]
+}

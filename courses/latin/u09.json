@@ -1,0 +1,47 @@
+{
+  "title": "Second conjugation: present tense",
+  "note": "Second-conjugation verbs end in -ere with a long e (videre, to see) and keep that e in every present form: video, vides, videt, videmus, videtis, vident. Many verbs take an infinitive: Debeo laborare, I ought to work. Valere (to be well) gives the farewell vale.",
+  "src": { "t": "Allen and Greenough, Verb Conjugations", "u": "https://dcc.dickinson.edu/grammar/latin/verb-conjugations" },
+  "items": [
+    { "c": "videre", "a": "to see", "d": ["to hear", "to come"], "ex": "Stellas video.", "exT": "I see the stars." },
+    { "c": "habere", "a": "to have", "d": ["to live (in)", "to give"], "ex": "Agricola equum habet.", "exT": "The farmer has a horse." },
+    { "c": "timere", "a": "to fear", "d": ["to hope", "to hold"] },
+    { "c": "docere", "a": "to teach", "d": ["to learn", "to lead"] },
+    { "c": "monere", "a": "to warn, advise", "d": ["to move", "to remain"] },
+    { "c": "tenere", "a": "to hold, keep", "d": ["to fear", "to stretch"] },
+    { "c": "debere", "a": "to owe; ought", "d": ["to be able; can", "to want"], "ex": "Laborare debes.", "exT": "You ought to work." },
+    { "c": "manere", "a": "to stay, remain", "d": ["to go away", "to warn"] },
+    { "c": "respondere", "a": "to answer", "d": ["to ask", "to forget"] },
+    { "c": "sedere", "a": "to sit", "d": ["to stand", "to lie down"] },
+    { "c": "iubere", "a": "to order, command", "d": ["to forbid", "to help"] },
+    { "c": "movere", "a": "to move", "d": ["to warn", "to stay"] },
+    { "c": "terrere", "a": "to frighten", "d": ["to be afraid", "to protect"] },
+    { "c": "valere", "a": "to be well, be strong", "d": ["to be sick", "to be away"] },
+    { "c": "placere", "a": "to please", "d": ["to place, put", "to fight"], "ex": "Liber mihi placet.", "exT": "The book pleases me (I like the book)." },
+    { "c": "gaudere", "a": "to rejoice, be glad", "d": ["to grieve", "to guard"] },
+    { "c": "tacere", "a": "to be silent", "d": ["to touch", "to speak"] },
+    { "c": "ridere", "a": "to laugh", "d": ["to cry", "to ride"] },
+    { "c": "carere", "a": "to lack, be without", "d": ["to care for", "to carry"] },
+    { "c": "nocere", "a": "to harm", "d": ["to know", "to help"], "ex": "Lupus agnis nocet.", "exT": "The wolf harms the lambs." },
+    { "c": "Ego te ___. (videre)", "a": "video", "d": ["videt", "vides"], "ex": "Ego te video.", "exT": "I see you." },
+    { "c": "Magister pueros ___. (docere)", "a": "docet", "d": ["docent", "doces"], "ex": "Magister pueros docet.", "exT": "The teacher teaches the boys." },
+    { "c": "Quid ___? (timere, you singular)", "a": "times", "d": ["timet", "timeo"], "ex": "Quid times?", "exT": "What are you afraid of?" },
+    { "c": "Nos librum ___. (habere)", "a": "habemus", "d": ["habent", "habetis"], "ex": "Nos librum habemus.", "exT": "We have the book." },
+    { "c": "Servi in villa ___. (manere)", "a": "manent", "d": ["manet", "manemus"], "ex": "Servi in villa manent.", "exT": "The slaves stay at the farmhouse." },
+    { "c": "Cur ___? (tacere, you plural)", "a": "tacetis", "d": ["tacemus", "tacent"], "ex": "Cur tacetis?", "exT": "Why are you all silent?" },
+    { "c": "Puellae laborare ___. (debere)", "a": "debent", "d": ["debet", "debemus"], "ex": "Puellae laborare debent.", "exT": "The girls ought to work." }
+  ],
+  "read": {
+    "title": "Magister et discipuli",
+    "text": [
+      "Magister in ludo sedet. Discipuli magistrum vident et tacent. Magister pueros et puellas docet: \"Discipuli, laborare debetis!\"",
+      "Marcus non laborat; ridet. Magister Marcum videt et monet: \"Marce, cur rides? Tace!\" Marcus timet et tacet.",
+      "Tum magister Iuliam rogat. Iulia bene respondet. Magister gaudet, nam Iulia bene laborat. Discipuli laeti sunt et in hortum ambulant."
+    ],
+    "q": [
+      { "q": "Why does the teacher warn Marcus?", "o": ["He is laughing", "He is late", "He is asleep"], "k": 0 },
+      { "q": "Who answers well?", "o": ["Marcus", "The teacher", "Julia"], "k": 2 },
+      { "q": "How does the teacher feel after Julia's answer?", "o": ["Angry", "Glad", "Afraid"], "k": 1 }
+    ]
+  }
+}

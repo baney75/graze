@@ -1,0 +1,30 @@
+{
+  "key": "orgo",
+  "name": "Organic Chemistry",
+  "group": "Sciences",
+  "tag": "ORGO",
+  "level": "Orgo I & II",
+  "blurb": "The core of a two-semester college organic chemistry course: bonding, acids and bases, stereochemistry, mechanisms, the major reactions of each functional group, and IR, NMR and mass spectra. Finish able to predict products from reagents and conditions.",
+  "sources": [
+    {
+      "t": "OpenStax, Organic Chemistry (McMurry, 10th ed.)",
+      "u": "https://openstax.org/details/books/organic-chemistry"
+    },
+    {
+      "t": "LibreTexts, Organic Chemistry (Morsch, Farmer, Kennepohl, Reusch, et al.)",
+      "u": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)"
+    },
+    {
+      "t": "OpenStax, Organic Chemistry, 21.2 Nucleophilic Acyl Substitution Reactions",
+      "u": "https://openstax.org/books/organic-chemistry/pages/21-2-nucleophilic-acyl-substitution-reactions"
+    },
+    {
+      "t": "OpenStax, Organic Chemistry, 24.3 Basicity of Amines",
+      "u": "https://openstax.org/books/organic-chemistry/pages/24-3-basicity-of-amines"
+    },
+    {
+      "t": "OpenStax, Organic Chemistry, 13.4 Chemical Shifts in ¹H NMR Spectroscopy",
+      "u": "https://openstax.org/books/organic-chemistry/pages/13-4-chemical-shifts-in-1h-nmr-spectroscopy"
+    }
+  ]
+}

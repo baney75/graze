@@ -1,0 +1,55 @@
+{
+  "title": "Joints and body movements",
+  "note": "Joints are classed by structure (fibrous, cartilaginous, synovial) and by how much they move (synarthrosis, amphiarthrosis, diarthrosis). All synovial joints are diarthroses. Movement terms come in opposite pairs, such as flexion and extension or abduction and adduction.",
+  "src": { "t": "OpenStax A&P 2e, 9.5 Types of Body Movements", "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements" },
+  "items": [
+    { "c": "Fibrous joint example", "a": "A skull suture", "d": ["The pubic symphysis", "The knee"] },
+    { "c": "Cartilaginous joint example", "a": "The pubic symphysis", "d": ["A skull suture", "The shoulder"] },
+    { "c": "Most common structural type of joint", "a": "Synovial", "d": ["Fibrous", "Cartilaginous"] },
+    { "c": "Synarthrosis", "a": "Immovable joint", "d": ["Slightly movable joint", "Freely movable joint"] },
+    { "c": "Amphiarthrosis", "a": "Slightly movable joint", "d": ["Immovable joint", "Freely movable joint"] },
+    { "c": "Diarthrosis", "a": "Freely movable joint", "d": ["Immovable joint", "Slightly movable joint"] },
+    { "c": "Synovial fluid", "a": "Lubricates the joint and nourishes its cartilage", "d": ["Binds the bones rigidly together", "Forms new bone at the joint"] },
+    { "c": "Articular cartilage", "a": "Hyaline cartilage capping bone ends in a joint", "d": ["Fibrocartilage pad between vertebrae", "Fibrous capsule around a joint"] },
+    { "c": "Bursa", "a": "Fluid-filled sac that reduces friction near a joint", "d": ["Band joining bone to bone", "Cord joining muscle to bone"] },
+    { "c": "Ligament", "a": "Connects bone to bone", "d": ["Connects muscle to bone", "Connects muscle to skin"] },
+    { "c": "Tendon", "a": "Connects muscle to bone", "d": ["Connects bone to bone", "Connects cartilage to cartilage"] },
+    { "c": "Hinge joint example", "a": "Elbow", "d": ["Hip", "Atlantoaxial joint"] },
+    { "c": "Pivot joint example", "a": "Atlantoaxial joint (C1 and C2)", "d": ["Knee", "Base of the thumb"] },
+    { "c": "Ball-and-socket joint example", "a": "Hip", "d": ["Knee", "Elbow"] },
+    { "c": "Saddle joint example", "a": "First carpometacarpal joint (thumb base)", "d": ["Intercarpal joints", "Interphalangeal joints"] },
+    { "c": "Condyloid joint example", "a": "Knuckle (metacarpophalangeal) joint", "d": ["Shoulder joint", "Atlantoaxial joint"] },
+    { "c": "Plane joint example", "a": "Intercarpal joints", "d": ["Hip joint", "Elbow joint"] },
+    { "c": "A multiaxial synovial joint", "a": "Shoulder", "d": ["Elbow", "Interphalangeal joint"] },
+    { "c": "Flexion", "a": "Decreasing the angle at a joint", "d": ["Increasing the angle at a joint", "Moving a limb away from the midline"] },
+    { "c": "Extension", "a": "Increasing the angle at a joint", "d": ["Decreasing the angle at a joint", "Moving a limb toward the midline"] },
+    { "c": "Abduction", "a": "Moving a limb away from the midline", "d": ["Moving a limb toward the midline", "Turning a bone on its long axis"] },
+    { "c": "Adduction", "a": "Moving a limb toward the midline", "d": ["Moving a limb away from the midline", "Bending a joint"] },
+    { "c": "Rotation", "a": "Turning a bone around its long axis", "d": ["Moving the limb in a cone", "Moving a limb away from the midline"] },
+    { "c": "Circumduction", "a": "Moving a limb in a circle, tracing a cone", "d": ["Turning a bone on its long axis", "Lifting the scapula upward"] },
+    { "c": "Supination", "a": "Turning the forearm so the palm faces forward", "d": ["Turning the forearm so the palm faces back", "Bending the wrist toward the palm"] },
+    { "c": "Pronation", "a": "Turning the forearm so the palm faces back", "d": ["Turning the forearm so the palm faces forward", "Spreading the fingers apart"] },
+    { "c": "Dorsiflexion", "a": "Lifting the top of the foot toward the shin", "d": ["Pointing the toes downward", "Turning the sole inward"] },
+    { "c": "Plantar flexion", "a": "Pointing the toes downward", "d": ["Lifting the top of the foot toward the shin", "Turning the sole outward"] },
+    { "c": "Inversion", "a": "Turning the sole toward the midline", "d": ["Turning the sole away from the midline", "Pointing the toes downward"] },
+    { "c": "Eversion", "a": "Turning the sole away from the midline", "d": ["Turning the sole toward the midline", "Lifting the toes upward"] },
+    { "c": "Protraction", "a": "Moving the scapula or mandible forward", "d": ["Moving the scapula or mandible backward", "Lifting the scapula upward"] },
+    { "c": "Elevation", "a": "Moving the scapula or mandible upward", "d": ["Moving the scapula or mandible downward", "Moving the mandible forward"] },
+    { "c": "Opposition", "a": "Touching the thumb tip to a fingertip", "d": ["Spreading all fingers apart", "Turning the palm to face back"] },
+    { "c": "Shrugging the shoulders is", "a": "Elevation", "d": ["Protraction", "Abduction"] },
+    { "c": "Standing on tiptoe uses", "a": "Plantar flexion", "d": ["Dorsiflexion", "Eversion"] }
+  ],
+  "read": {
+    "title": "Structure decides movement",
+    "text": [
+      "Joints can be sorted two ways, and the two systems line up closely. The structural system asks what holds the bones together. In fibrous joints, such as the sutures of the skull, dense connective tissue binds the bones tightly. In cartilaginous joints, such as the pubic symphysis and the discs between vertebrae, cartilage unites them. In synovial joints, the bones are not directly joined at all: they meet inside a fluid-filled cavity enclosed by a capsule.",
+      "The functional system asks how much the joint moves. Immovable joints are synarthroses, slightly movable joints are amphiarthroses, and freely movable joints are diarthroses. Sutures are synarthroses that protect the brain. The pubic symphysis is an amphiarthrosis that adds stability to the pelvis. Every synovial joint is a diarthrosis.",
+      "Synovial joints share a set of parts. Hyaline articular cartilage caps the bone ends, a synovial membrane lines the capsule and secretes lubricating fluid, and ligaments limit excess motion. The shapes of the bone ends then set the range of motion. A hinge such as the elbow bends in one plane, a condyloid knuckle moves in two, and a ball-and-socket joint such as the hip moves in all three and can rotate."
+    ],
+    "q": [
+      { "q": "What makes a synovial joint different from the other structural types?", "o": ["The bones meet in a fluid-filled cavity", "Cartilage binds the bones directly", "Dense fibers hold the bones tightly"], "k": 0 },
+      { "q": "Which functional class includes every synovial joint?", "o": ["Synarthrosis", "Amphiarthrosis", "Diarthrosis"], "k": 2 },
+      { "q": "What mainly sets a synovial joint's range of motion?", "o": ["The shape of the bone ends", "The amount of synovial fluid", "The thickness of the periosteum"], "k": 0 }
+    ]
+  }
+}

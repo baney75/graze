@@ -1,0 +1,52 @@
+{
+  "title": "Stoichiometry and reaction types",
+  "note": "Coefficients in a balanced equation are mole ratios. To get from grams of one substance to grams of another, convert grams to moles, use the mole ratio, then convert back to grams. The limiting reactant runs out first and sets the theoretical yield. Most reactions fall into a few classes: precipitation, acid–base, and oxidation–reduction (including combustion and single displacement).",
+  "src": { "t": "Chemistry 2e, 4.2 Classifying Chemical Reactions, OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions" },
+  "items": [
+    { "c": "Coefficients in a balanced equation give", "a": "mole ratios of reactants and products", "d": ["mass ratios of reactants and products", "the number of atoms in each molecule"] },
+    { "c": "Balance: _H₂ + _O₂ → _H₂O", "a": "2, 1, 2", "d": ["1, 1, 1", "2, 2, 1"] },
+    { "c": "Balance: _CH₄ + _O₂ → _CO₂ + _H₂O", "a": "1, 2, 1, 2", "d": ["1, 1, 1, 2", "2, 3, 2, 4"] },
+    { "c": "Balance: _Al + _O₂ → _Al₂O₃", "a": "4, 3, 2", "d": ["2, 3, 1", "4, 3, 1"] },
+    { "c": "Moles of O₂ to burn 2 mol CH₄ completely", "a": "4 mol", "d": ["2 mol", "1 mol"] },
+    { "c": "Grams of H₂O from 2.0 mol H₂ with excess O₂", "a": "36 g", "d": ["18 g", "4.0 g"] },
+    { "c": "Limiting reactant", "a": "the reactant used up first", "d": ["the reactant left over at the end", "the reactant with the smallest mass"] },
+    { "c": "2 mol H₂ + 2 mol O₂ → H₂O. Limiting reactant?", "a": "H₂", "d": ["O₂"], "ex": "2 mol H₂ needs only 1 mol O₂." },
+    { "c": "Theoretical yield", "a": "maximum product calculated from the limiting reactant", "d": ["product actually collected in the lab", "mass of all reactants combined"] },
+    { "c": "Percent yield", "a": "(actual ÷ theoretical) × 100%", "d": ["(theoretical ÷ actual) × 100%", "(actual − theoretical) × 100%"] },
+    { "c": "Actual 8.0 g, theoretical 10.0 g: percent yield", "a": "80%", "d": ["125%", "20%"] },
+    { "c": "Precipitation reaction", "a": "two solutions form an insoluble solid", "d": ["a metal displaces another metal's ion", "an acid and a base form water"] },
+    { "c": "Net ionic equation for AgNO₃(aq) + NaCl(aq)", "a": "Ag⁺(aq) + Cl⁻(aq) → AgCl(s)", "d": ["Na⁺(aq) + NO₃⁻(aq) → NaNO₃(s)", "Na⁺(aq) + Cl⁻(aq) → NaCl(s)"] },
+    { "c": "Spectator ion", "a": "an ion present but unchanged by the reaction", "d": ["an ion that forms the precipitate", "an ion that is oxidized"] },
+    { "c": "Salts that are always soluble contain", "a": "group 1 cations, NH₄⁺, or NO₃⁻", "d": ["CO₃²⁻, PO₄³⁻, or S²⁻", "Ag⁺, Pb²⁺, or Hg₂²⁺"] },
+    { "c": "Is AgCl soluble in water?", "a": "No, AgCl is insoluble", "d": ["Yes, all chlorides dissolve"] },
+    { "c": "Is BaSO₄ soluble in water?", "a": "No, BaSO₄ is insoluble", "d": ["Yes, all sulfates dissolve"] },
+    { "c": "Is KNO₃ soluble in water?", "a": "Yes, all nitrates dissolve", "d": ["No, KNO₃ is insoluble"] },
+    { "c": "Products of an acid and a metal hydroxide", "a": "a salt and water", "d": ["a salt and hydrogen gas", "a metal oxide and water"] },
+    { "c": "Net ionic equation, strong acid + strong base", "a": "H₃O⁺(aq) + OH⁻(aq) → 2H₂O(l)", "d": ["Na⁺(aq) + OH⁻(aq) → NaOH(s)", "H₂O(l) → H₃O⁺(aq) + OH⁻(aq)"] },
+    { "c": "Oxidation", "a": "loss of electrons", "d": ["gain of electrons", "gain of protons"] },
+    { "c": "Reduction", "a": "gain of electrons", "d": ["loss of electrons", "loss of protons"] },
+    { "c": "Oxidation number of any free element", "a": "0", "d": ["+1", "its group number"] },
+    { "c": "Oxidation number of S in SO₄²⁻", "a": "+6", "d": ["+4", "−2"] },
+    { "c": "Oxidation number of Mn in MnO₄⁻", "a": "+7", "d": ["+6", "+5"] },
+    { "c": "Oxidation number of O in H₂O₂", "a": "−1", "d": ["−2", "+1"], "ex": "Oxygen is −1 in peroxides." },
+    { "c": "Oxidizing agent in 2Na + Cl₂ → 2NaCl", "a": "Cl₂", "d": ["Na", "NaCl"] },
+    { "c": "The reducing agent in a redox reaction", "a": "is itself oxidized", "d": ["is itself reduced", "gains electrons"] },
+    { "c": "Zn + 2HCl → ZnCl₂ + H₂ is a", "a": "single displacement reaction", "d": ["double displacement reaction", "combustion reaction"] },
+    { "c": "Products of complete hydrocarbon combustion", "a": "CO₂ and H₂O", "d": ["CO and H₂", "C and H₂O"] },
+    { "c": "General form of a decomposition reaction", "a": "AB → A + B", "d": ["A + B → AB", "A + BC → AC + B"] },
+    { "c": "General form of a combination reaction", "a": "A + B → AB", "d": ["AB → A + B", "AB + CD → AD + CB"] }
+  ],
+  "read": {
+    "title": "From a balanced equation to grams",
+    "text": [
+      "A balanced equation is a recipe written in moles. In 2H₂ + O₂ → 2H₂O, two moles of hydrogen react with one mole of oxygen to give two moles of water. The coefficients are not masses: two grams of hydrogen do not react with one gram of oxygen. To work with masses, convert each one to moles with its molar mass, use the mole ratio from the equation, and convert back to grams at the end.",
+      "Real mixtures rarely contain reactants in exact ratio. Suppose you mix 2 mol H₂ with 2 mol O₂. The hydrogen needs only 1 mol of oxygen, so hydrogen runs out first. It is the limiting reactant, and it alone decides how much water can form: 2 mol, or about 36 g. That calculated amount is the theoretical yield. The 1 mol of oxygen left over is the excess reactant.",
+      "In the lab you usually collect less than the theoretical yield. Some product is lost in transfers, and side reactions may consume reactants. Percent yield compares what you got to what was possible: actual yield divided by theoretical yield, times 100%. A yield above 100% does not mean you beat chemistry; it usually means the product is still wet or impure."
+    ],
+    "q": [
+      { "q": "In 2 mol H₂ + 2 mol O₂, why is hydrogen the limiting reactant?", "o": ["It has the smaller molar mass", "It appears first in the equation", "It runs out while oxygen is left over"], "k": 2 },
+      { "q": "What do the coefficients in a balanced equation represent?", "o": ["Mole ratios", "Mass ratios in grams", "Volumes in liters"], "k": 0 },
+      { "q": "A percent yield above 100% most likely means", "o": ["the reaction made extra atoms", "the product is wet or impure", "the limiting reactant was in excess"], "k": 1 }
+    ]
+  }
+}

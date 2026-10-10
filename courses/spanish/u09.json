@@ -1,0 +1,51 @@
+{
+  "title": "Home and household",
+  "note": "Hay means there is and there are and never changes: Hay una mesa, Hay dos sillas. Use estar for where people and things are: estoy, estás, está, estamos, estáis, están. La cama está en el dormitorio. In Spain an apartment is often el piso; in Latin America, el departamento or el apartamento.",
+  "src": {"t": "Spanish 1A (LibreTexts), 2.13 Ser y estar", "u": "https://human.libretexts.org/Courses/Chabot_College/Spanish/Spanish_1A%3A_Beginning_Spanish_(2026)/02%3A_Capitulo_2-_Eres_estudiante/2.13%3A_Gramatica-_Ser_y_estar"},
+  "items": [
+    {"c": "la casa", "a": "the house, home", "d": ["the room", "the street"], "ex": "Mi casa tiene tres dormitorios.", "exT": "My house has three bedrooms."},
+    {"c": "el apartamento", "a": "the apartment", "d": ["the building", "the garden"]},
+    {"c": "la cocina", "a": "the kitchen", "d": ["the dining room", "the bathroom"], "ex": "La cocina es pequeña.", "exT": "The kitchen is small."},
+    {"c": "el baño", "a": "the bathroom", "d": ["the bedroom", "the kitchen"], "ex": "El baño está a la derecha.", "exT": "The bathroom is on the right."},
+    {"c": "el dormitorio", "a": "the bedroom", "d": ["the living room", "the bathroom"]},
+    {"c": "la sala", "a": "the living room", "d": ["the kitchen", "the hallway"]},
+    {"c": "el comedor", "a": "the dining room", "d": ["the kitchen", "the dining table"]},
+    {"c": "la habitación", "a": "the room", "d": ["the house", "the floor"]},
+    {"c": "la puerta", "a": "the door", "d": ["the window", "the wall"], "ex": "Cierra la puerta, por favor.", "exT": "Close the door, please."},
+    {"c": "la ventana", "a": "the window", "d": ["the door", "the roof"], "ex": "Abro la ventana.", "exT": "I open the window."},
+    {"c": "la pared", "a": "the wall", "d": ["the floor", "the door"]},
+    {"c": "el techo", "a": "the ceiling, the roof", "d": ["the floor", "the wall"]},
+    {"c": "el piso", "a": "the floor, the story", "d": ["the ceiling", "the stairs"]},
+    {"c": "la escalera", "a": "the stairs", "d": ["the elevator", "the hallway"]},
+    {"c": "el jardín", "a": "the garden, the yard", "d": ["the garage", "the balcony"], "ex": "Los niños juegan en el jardín.", "exT": "The children play in the garden."},
+    {"c": "la mesa", "a": "the table", "d": ["the chair", "the bed"]},
+    {"c": "la silla", "a": "the chair", "d": ["the table", "the sofa"], "ex": "Hay cuatro sillas en el comedor.", "exT": "There are four chairs in the dining room."},
+    {"c": "la cama", "a": "the bed", "d": ["the sofa", "the closet"], "ex": "La cama está en el dormitorio.", "exT": "The bed is in the bedroom."},
+    {"c": "el sofá", "a": "the sofa, the couch", "d": ["the bed", "the chair"], "ex": "El gato duerme en el sofá.", "exT": "The cat sleeps on the sofa."},
+    {"c": "el armario", "a": "the closet, the wardrobe", "d": ["the drawer", "the shelf"]},
+    {"c": "el refrigerador", "a": "the refrigerator", "d": ["the stove", "the dishwasher"]},
+    {"c": "la ducha", "a": "the shower", "d": ["the bathtub", "the sink"]},
+    {"c": "el espejo", "a": "the mirror", "d": ["the window", "the picture"]},
+    {"c": "la llave", "a": "the key", "d": ["the lock", "the door"], "ex": "No encuentro la llave.", "exT": "I can't find the key."},
+    {"c": "en casa", "a": "at home", "d": ["at work", "outside"], "ex": "Hoy estoy en casa.", "exT": "Today I'm at home."},
+    {"c": "___ tres sillas en la cocina.", "a": "Hay", "d": ["Es", "Son"]},
+    {"c": "La cama ___ en el dormitorio.", "a": "está", "d": ["es", "hay"]},
+    {"c": "Las llaves ___ en la mesa.", "a": "están", "d": ["son", "hay"]},
+    {"c": "Nosotros ___ en casa. (estar)", "a": "estamos", "d": ["somos", "están"]},
+    {"c": "Tú ___ en el dormitorio. (estar)", "a": "estás", "d": ["eres", "está"]},
+    {"c": "Yo ___ en la cocina. (estar)", "a": "estoy", "d": ["soy", "está"]}
+  ],
+  "read": {
+    "title": "La casa de Marta",
+    "text": [
+      "Marta vive con su familia en una casa en Valencia. La casa es grande y bonita. Tiene tres dormitorios, dos baños, una cocina, una sala y un comedor.",
+      "La cocina es pequeña pero muy bonita. En la sala hay un sofá azul y una mesa. El dormitorio de Marta tiene una cama, un armario y una ventana grande.",
+      "Detrás de la casa hay un jardín con flores. El perro de Marta siempre está en el jardín. Los domingos, la familia come en el jardín."
+    ],
+    "q": [
+      {"q": "How many bedrooms does the house have?", "o": ["Two", "Three", "Four"], "k": 1},
+      {"q": "What color is the sofa?", "o": ["Blue", "White", "Green", "Red"], "k": 0},
+      {"q": "Where is Marta's dog?", "o": ["In the kitchen", "In Marta's bedroom", "In the garden", "In the living room"], "k": 2}
+    ]
+  }
+}

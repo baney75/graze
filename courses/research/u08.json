@@ -1,0 +1,364 @@
+{
+  "title": "Study designs and the evidence hierarchy",
+  "note": "In an experiment, researchers assign the exposure; in an observational study, they only watch. Randomized controlled trials best support cause and effect. Cohort, case-control and cross-sectional studies find associations. Systematic reviews and meta-analyses combine many studies and sit at the top of the evidence pyramid.",
+  "src": {
+    "t": "Levels of Evidence, UC Davis Library",
+    "u": "https://guides.library.ucdavis.edu/systematic-reviews/levels-of-evidence"
+  },
+  "items": [
+    {
+      "c": "Observational study",
+      "a": "Researchers measure exposures without assigning them",
+      "d": [
+        "Researchers assign the treatment to each person",
+        "Researchers pool results from many trials",
+        "Researchers describe a single patient"
+      ]
+    },
+    {
+      "c": "Experimental study",
+      "a": "Researchers assign the intervention",
+      "d": [
+        "Researchers only watch what people choose",
+        "Researchers survey people at one time",
+        "Researchers review old medical records"
+      ]
+    },
+    {
+      "c": "Randomized controlled trial (RCT)",
+      "a": "Participants are randomly assigned to treatment or control",
+      "d": [
+        "People choose which group they join",
+        "Patients with a disease are compared with healthy people",
+        "One group is followed with no comparison"
+      ]
+    },
+    {
+      "c": "Main reason to randomize",
+      "a": "It balances known and unknown confounders across groups",
+      "d": [
+        "It guarantees a large sample",
+        "It makes blinding unnecessary",
+        "It ensures the treatment works"
+      ]
+    },
+    {
+      "c": "Cohort study",
+      "a": "Follows exposed and unexposed groups to see who develops an outcome",
+      "d": [
+        "Starts with people who have the outcome and looks back",
+        "Measures exposure and outcome at one moment",
+        "Randomly assigns exposure to participants"
+      ]
+    },
+    {
+      "c": "Prospective cohort study",
+      "a": "Enrolls people now and follows them forward in time",
+      "d": [
+        "Uses only records from the past",
+        "Measures everything on a single day",
+        "Assigns treatments by coin flip"
+      ]
+    },
+    {
+      "c": "Retrospective cohort study",
+      "a": "Uses past records to follow groups from exposure to outcome",
+      "d": [
+        "Enrolls volunteers and follows them for years",
+        "Assigns participants to groups at random",
+        "Studies one unusual patient"
+      ]
+    },
+    {
+      "c": "Case-control study",
+      "a": "Compares people with an outcome to people without it, looking back at exposures",
+      "d": [
+        "Follows exposed people forward to see who gets ill",
+        "Randomly assigns an exposure",
+        "Surveys a population at a single time"
+      ]
+    },
+    {
+      "c": "Efficient design for studying a rare disease",
+      "a": "Case-control study",
+      "d": [
+        "Prospective cohort study",
+        "Cross-sectional survey",
+        "Case report"
+      ]
+    },
+    {
+      "c": "Efficient design for a rare exposure",
+      "a": "Cohort study",
+      "d": [
+        "Case-control study",
+        "Ecological study",
+        "Case series"
+      ]
+    },
+    {
+      "c": "Measure of association from a case-control study",
+      "a": "Odds ratio",
+      "d": [
+        "Incidence rate",
+        "Number needed to treat",
+        "Prevalence"
+      ]
+    },
+    {
+      "c": "A cohort study can directly measure",
+      "a": "Incidence and relative risk",
+      "d": [
+        "Only an odds ratio",
+        "Only prevalence at one time",
+        "Nothing quantitative"
+      ]
+    },
+    {
+      "c": "Cross-sectional study",
+      "a": "Measures exposure and outcome at a single point in time",
+      "d": [
+        "Follows people for many years",
+        "Randomly assigns a treatment",
+        "Pools results from many studies"
+      ]
+    },
+    {
+      "c": "A cross-sectional study estimates",
+      "a": "Prevalence",
+      "d": [
+        "Incidence",
+        "Number needed to harm",
+        "Long-term survival"
+      ]
+    },
+    {
+      "c": "Main weakness of a cross-sectional study",
+      "a": "It can't show which came first, exposure or outcome",
+      "d": [
+        "It always takes decades to finish",
+        "It requires random assignment",
+        "It studies only one person"
+      ]
+    },
+    {
+      "c": "Case report",
+      "a": "A detailed description of a single patient",
+      "d": [
+        "A trial with thousands of participants",
+        "A pooled analysis of many studies",
+        "A survey of a whole country"
+      ]
+    },
+    {
+      "c": "Case series",
+      "a": "Descriptions of several similar patients with no control group",
+      "d": [
+        "A randomized trial with a placebo arm",
+        "A cohort with an unexposed comparison",
+        "A review of all published trials"
+      ]
+    },
+    {
+      "c": "Ecological study",
+      "a": "Compares groups or regions rather than individuals",
+      "d": [
+        "Studies plants and animals only",
+        "Follows one person over time",
+        "Randomly assigns towns to treatments"
+      ]
+    },
+    {
+      "c": "Ecological fallacy",
+      "a": "Assuming a group-level pattern holds for each individual",
+      "d": [
+        "Assuming one case represents everyone",
+        "Assuming correlation is always zero",
+        "Assuming animals respond like people"
+      ]
+    },
+    {
+      "c": "Systematic review",
+      "a": "An explicit, reproducible search and appraisal of all studies on a question",
+      "d": [
+        "An expert's personal selection of favorite studies",
+        "A single large randomized trial",
+        "A news summary of recent research"
+      ]
+    },
+    {
+      "c": "Meta-analysis",
+      "a": "Statistical pooling of results from several studies",
+      "d": [
+        "A narrative summary with no numbers",
+        "A study of a single patient",
+        "A survey of researchers' opinions"
+      ]
+    },
+    {
+      "c": "Forest plot",
+      "a": "A chart of each study's effect and the pooled estimate",
+      "d": [
+        "A map of where a study took place",
+        "A flowchart of how studies were screened",
+        "A graph of citations over time"
+      ]
+    },
+    {
+      "c": "Heterogeneity, in a meta-analysis",
+      "a": "Variation in results across studies beyond chance",
+      "d": [
+        "The number of studies included",
+        "Agreement among all included studies",
+        "The size of the largest study"
+      ]
+    },
+    {
+      "c": "Top of the usual evidence pyramid",
+      "a": "Systematic reviews and meta-analyses",
+      "d": [
+        "Expert opinion",
+        "Case reports",
+        "Cross-sectional surveys"
+      ]
+    },
+    {
+      "c": "Lowest on most evidence pyramids",
+      "a": "Expert opinion and animal or lab studies",
+      "d": [
+        "Randomized controlled trials",
+        "Prospective cohort studies",
+        "Meta-analyses of trials"
+      ]
+    },
+    {
+      "c": "Weak point of the evidence pyramid",
+      "a": "A badly run study can be worse than a well-run lower design",
+      "d": [
+        "It ranks case reports above trials",
+        "It ignores randomized trials",
+        "It applies only to animal research"
+      ]
+    },
+    {
+      "c": "Meta-analysis of biased studies",
+      "a": "Gives a precise-looking but still biased answer",
+      "d": [
+        "Automatically removes the bias",
+        "Is always the best possible evidence",
+        "Can't be calculated at all"
+      ]
+    },
+    {
+      "c": "Crossover trial",
+      "a": "Each participant receives both treatments in sequence",
+      "d": [
+        "Participants switch to another study",
+        "Only half the participants are treated",
+        "Treatments are chosen by participants"
+      ]
+    },
+    {
+      "c": "Longitudinal study",
+      "a": "Measures the same people repeatedly over time",
+      "d": [
+        "Measures different people on one day",
+        "Compares countries on one statistic",
+        "Studies a single historical event"
+      ]
+    },
+    {
+      "c": "Qualitative research",
+      "a": "Explores experiences and meanings through interviews or observation",
+      "d": [
+        "Tests effects only with large numeric samples",
+        "Pools many trials statistically",
+        "Measures only lab values"
+      ]
+    },
+    {
+      "c": "Pilot study",
+      "a": "A small trial run to test feasibility before a full study",
+      "d": [
+        "The final, largest trial of a drug",
+        "A study of airline safety records",
+        "A review of all past research"
+      ]
+    },
+    {
+      "c": "Natural experiment",
+      "a": "An outside event creates comparison groups researchers didn't assign",
+      "d": [
+        "An experiment done outdoors",
+        "A trial using only natural remedies",
+        "A lab study of plants"
+      ]
+    },
+    {
+      "c": "Intention-to-treat analysis",
+      "a": "Analyzing everyone in the group they were randomized to",
+      "d": [
+        "Analyzing only those who completed treatment",
+        "Analyzing only those who improved",
+        "Letting participants pick their group"
+      ]
+    },
+    {
+      "c": "Dose-response relationship",
+      "a": "Larger exposures go with larger effects",
+      "d": [
+        "Any dose produces the same effect",
+        "Effects appear only at the lowest dose",
+        "Dose and effect are unrelated"
+      ]
+    },
+    {
+      "c": "Phase 1 clinical trial",
+      "a": "A small trial focused on safety and dosing",
+      "d": [
+        "A large trial comparing against standard care",
+        "Monitoring after a drug is on the market",
+        "A review of animal studies"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Why design matters",
+    "text": [
+      "Suppose you want to know whether a new exercise program lowers blood pressure. In a cohort study, you would follow people who chose the program and people who didn't. If the exercisers end up healthier, you still can't be sure why. People who sign up for exercise may also eat better, smoke less, or have more free time.",
+      "A randomized controlled trial solves this by letting chance decide who gets the program. With enough participants, random assignment spreads diet, smoking, motivation and every other factor, measured or not, evenly across the groups. A difference at the end is then most plausibly caused by the program.",
+      "Trials are not always possible. You can't randomly assign people to smoke, and rare diseases would need enormous trials. Case-control studies start with people who already have the disease and look back at exposures, which makes them efficient for rare outcomes. Cross-sectional surveys give a quick snapshot of how common something is but can't show what came first.",
+      "Because single studies can mislead, systematic reviews gather every relevant study with a documented search, and meta-analyses pool their results. That is why they top the evidence pyramid, though a review built on weak studies is still weak."
+    ],
+    "q": [
+      {
+        "q": "Why can't the cohort study prove the exercise program caused the improvement?",
+        "o": [
+          "People who chose the program may differ in other ways",
+          "The sample is always too small",
+          "Cohort studies never measure blood pressure"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why are case-control studies efficient for rare diseases?",
+        "o": [
+          "They start with people who already have the disease",
+          "They need no comparison group",
+          "They measure everything on one day",
+          "They randomly assign the disease"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What limits even a systematic review?",
+        "o": [
+          "It never uses a documented search",
+          "It cannot include trials",
+          "It is only as strong as the studies it gathers"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

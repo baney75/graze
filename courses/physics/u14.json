@@ -1,0 +1,301 @@
+{
+  "title": "Light and optics",
+  "note": "Light is an electromagnetic wave traveling at c = 3.00 × 10⁸ m/s in vacuum and slower in matter, by the factor n. Geometric optics treats light as rays that reflect and refract (Snell's law); lenses and mirrors form images located by 1/d_o + 1/d_i = 1/f. Wave optics explains interference, diffraction, and polarization.",
+  "src": {
+    "t": "College Physics 2e, Ch. 25 Geometric Optics",
+    "u": "https://openstax.org/books/college-physics-2e/pages/25-introduction-to-geometric-optics"
+  },
+  "items": [
+    {
+      "c": "Speed of light in vacuum",
+      "a": "3.00 × 10⁸ m/s",
+      "d": [
+        "3.00 × 10⁶ m/s",
+        "3.43 × 10² m/s",
+        "3.00 × 10¹⁰ m/s"
+      ]
+    },
+    {
+      "c": "What an electromagnetic wave consists of",
+      "a": "oscillating electric and magnetic fields",
+      "d": [
+        "vibrating air molecules",
+        "a stream of electrons"
+      ]
+    },
+    {
+      "c": "EM waves in order of increasing frequency",
+      "a": "radio, microwave, infrared, visible, UV, X-ray, gamma",
+      "d": [
+        "gamma, X-ray, UV, visible, infrared, microwave, radio",
+        "radio, infrared, microwave, visible, X-ray, UV, gamma"
+      ]
+    },
+    {
+      "c": "Approximate range of visible wavelengths",
+      "a": "about 380 to 760 nm",
+      "d": [
+        "about 38 to 76 nm",
+        "about 3.8 to 7.6 µm",
+        "about 380 to 760 µm"
+      ]
+    },
+    {
+      "c": "Shorter wavelength: red or violet light?",
+      "a": "violet",
+      "d": [
+        "red"
+      ]
+    },
+    {
+      "c": "Law of reflection",
+      "a": "angle of incidence equals angle of reflection",
+      "d": [
+        "angle of reflection is twice the angle of incidence",
+        "n₁ sin θ₁ = n₂ sin θ₂"
+      ]
+    },
+    {
+      "c": "Index of refraction",
+      "a": "n = c/v",
+      "d": [
+        "n = v/c",
+        "n = cv",
+        "n = c − v"
+      ]
+    },
+    {
+      "c": "Index of refraction of water",
+      "a": "about 1.33",
+      "d": [
+        "about 1.00",
+        "about 2.42",
+        "about 0.75"
+      ]
+    },
+    {
+      "c": "Snell's law",
+      "a": "n₁ sin θ₁ = n₂ sin θ₂",
+      "d": [
+        "n₁ cos θ₁ = n₂ cos θ₂",
+        "n₁θ₂ = n₂θ₁",
+        "n₁ sin θ₂ = n₂ sin θ₁"
+      ]
+    },
+    {
+      "c": "Light passing from air into glass bends",
+      "a": "toward the normal",
+      "d": [
+        "away from the normal",
+        "not at all"
+      ]
+    },
+    {
+      "c": "Frequency of light as it enters water",
+      "a": "stays the same",
+      "d": [
+        "increases",
+        "decreases"
+      ]
+    },
+    {
+      "c": "Wavelength of light in a medium of index n",
+      "a": "λₙ = λ/n",
+      "d": [
+        "λₙ = nλ",
+        "λₙ = λ/n²",
+        "λₙ = λ"
+      ]
+    },
+    {
+      "c": "Total internal reflection requires",
+      "a": "going into lower n, beyond the critical angle",
+      "d": [
+        "going into higher n, at any angle",
+        "going into lower n, below the critical angle"
+      ]
+    },
+    {
+      "c": "Critical angle from n₁ into n₂",
+      "a": "sin θ_c = n₂/n₁",
+      "d": [
+        "sin θ_c = n₁/n₂",
+        "tan θ_c = n₂/n₁",
+        "cos θ_c = n₂/n₁"
+      ]
+    },
+    {
+      "c": "Dispersion",
+      "a": "n varies with wavelength, spreading colors",
+      "d": [
+        "light bends around obstacles",
+        "light waves cancel in thin films"
+      ]
+    },
+    {
+      "c": "Image in a flat mirror",
+      "a": "virtual, upright, same size",
+      "d": [
+        "real, inverted, same size",
+        "virtual, upright, smaller"
+      ]
+    },
+    {
+      "c": "Focal length of a spherical mirror",
+      "a": "f = R/2",
+      "d": [
+        "f = R",
+        "f = 2R",
+        "f = R/4"
+      ]
+    },
+    {
+      "c": "Thin lens equation",
+      "a": "1/d_o + 1/d_i = 1/f",
+      "d": [
+        "d_o + d_i = f",
+        "1/d_o − 1/d_i = f",
+        "d_o·d_i = f"
+      ]
+    },
+    {
+      "c": "Lens magnification",
+      "a": "m = −d_i/d_o",
+      "d": [
+        "m = d_o/d_i",
+        "m = −f/d_i",
+        "m = d_i·d_o"
+      ]
+    },
+    {
+      "c": "Power of a lens",
+      "a": "P = 1/f, in diopters when f is in meters",
+      "d": [
+        "P = f, in watts",
+        "P = 1/f², in diopters"
+      ]
+    },
+    {
+      "c": "Real image",
+      "a": "light rays actually converge there",
+      "d": [
+        "rays only appear to come from there",
+        "the image is always upright"
+      ]
+    },
+    {
+      "c": "Object inside f of a converging lens: image",
+      "a": "virtual, upright, enlarged image",
+      "d": [
+        "real, inverted, enlarged image",
+        "real, inverted, smaller image"
+      ]
+    },
+    {
+      "c": "Diverging lens, real object: the image is",
+      "a": "virtual, upright, smaller",
+      "d": [
+        "real, inverted, larger",
+        "real, upright, smaller"
+      ]
+    },
+    {
+      "c": "Huygens's principle",
+      "a": "every wavefront point is a source of wavelets",
+      "d": [
+        "light always travels in straight lines",
+        "light is made of particles"
+      ]
+    },
+    {
+      "c": "Double-slit bright fringes",
+      "a": "d sin θ = mλ",
+      "d": [
+        "d cos θ = mλ",
+        "d sin θ = (m + ½)λ",
+        "d = mλ sin θ"
+      ]
+    },
+    {
+      "c": "Single-slit dark fringes",
+      "a": "D sin θ = mλ, for m = 1, 2, 3…",
+      "d": [
+        "D sin θ = mλ, for m = 0, 1, 2…",
+        "D cos θ = mλ, for m = 1, 2, 3…"
+      ],
+      "ex": "D is the slit width; the center (m = 0) is the bright central maximum."
+    },
+    {
+      "c": "Colors in a soap film come from",
+      "a": "interference of light reflected from both surfaces",
+      "d": [
+        "dyes dissolved in the soap",
+        "dispersion like a prism"
+      ]
+    },
+    {
+      "c": "Polarization shows that light is a",
+      "a": "transverse wave",
+      "d": [
+        "longitudinal wave",
+        "stream of charged particles"
+      ]
+    },
+    {
+      "c": "Malus's law",
+      "a": "I = I₀ cos² θ",
+      "d": [
+        "I = I₀ cos θ",
+        "I = I₀ sin² θ",
+        "I = I₀/θ²"
+      ]
+    },
+    {
+      "c": "Unpolarized light through one ideal polarizer",
+      "a": "half the intensity passes",
+      "d": [
+        "all of the intensity passes",
+        "none of the intensity passes",
+        "a quarter passes"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Rays and waves",
+    "text": [
+      "Light is an electromagnetic wave: electric and magnetic fields oscillating at right angles to each other and to the direction of travel. In vacuum every such wave moves at 3.00 × 10⁸ m/s. Visible light is a narrow slice of a spectrum that runs from radio waves through microwaves and infrared to ultraviolet, X-rays, and gamma rays.",
+      "For many purposes we can treat light as rays. A ray striking a mirror reflects at the same angle it arrived. A ray crossing into a new material slows down by the factor n, the index of refraction, and bends according to Snell's law. Entering glass or water from air, it bends toward the normal. Going the other way at a steep enough angle, it cannot escape at all; this total internal reflection traps light inside optical fibers.",
+      "Lenses use refraction to form images. A converging lens can make a real image on a screen, or, with the object inside its focal length, a magnified virtual image like a magnifying glass.",
+      "Ray optics fails when light meets openings comparable to its wavelength. Then the wave nature appears: light spreads out by diffraction, and waves from two slits interfere to form bright and dark fringes. Young's double-slit experiment was early, strong evidence that light is a wave."
+    ],
+    "q": [
+      {
+        "q": "What traps light inside an optical fiber?",
+        "o": [
+          "Total internal reflection",
+          "Diffraction",
+          "Polarization"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Which way does light bend when it enters water from air?",
+        "o": [
+          "Toward the normal",
+          "Away from the normal",
+          "It does not bend"
+        ],
+        "k": 0
+      },
+      {
+        "q": "When does ray optics fail?",
+        "o": [
+          "When openings are comparable to the wavelength",
+          "When light enters glass",
+          "When mirrors are curved"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

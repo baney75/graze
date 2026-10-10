@@ -1,0 +1,321 @@
+{
+  "title": "Control systems",
+  "note": "A controller drives a process variable toward a setpoint. Open-loop control acts without measuring the result; closed-loop (feedback) control measures the output, computes the error (setpoint minus output), and acts to shrink it. A PID controller adds terms proportional to the present error, its accumulated past, and its rate of change.",
+  "src": {
+    "t": "Systems and Controls (2.04A), MIT OpenCourseWare",
+    "u": "https://ocw.mit.edu/courses/2-04a-systems-and-controls-spring-2013/"
+  },
+  "items": [
+    {
+      "c": "Setpoint",
+      "a": "the desired value of the controlled variable",
+      "d": [
+        "the measured value of the output",
+        "the largest output the actuator can give"
+      ]
+    },
+    {
+      "c": "Process variable",
+      "a": "the measured quantity being controlled",
+      "d": [
+        "the desired target value",
+        "the controller's tuning gain"
+      ]
+    },
+    {
+      "c": "Error signal in feedback control",
+      "a": "setpoint minus measured output",
+      "d": [
+        "setpoint plus measured output",
+        "controller output minus actuator output"
+      ]
+    },
+    {
+      "c": "Plant (in control engineering)",
+      "a": "the process or machine being controlled",
+      "d": [
+        "the computer running the controller",
+        "the sensor measuring the output"
+      ]
+    },
+    {
+      "c": "Role of the sensor in a feedback loop",
+      "a": "measures the output",
+      "d": [
+        "applies force to the process",
+        "chooses the setpoint"
+      ]
+    },
+    {
+      "c": "Role of the actuator in a feedback loop",
+      "a": "applies the control action to the process",
+      "d": [
+        "measures the output",
+        "computes the error"
+      ]
+    },
+    {
+      "c": "Disturbance",
+      "a": "an unwanted input that pushes the output off target",
+      "d": [
+        "the desired target value",
+        "the signal sent to the actuator"
+      ]
+    },
+    {
+      "c": "Open-loop control",
+      "a": "control that acts without measuring the output",
+      "d": [
+        "control that measures the output and corrects error",
+        "control that turns itself off when idle"
+      ]
+    },
+    {
+      "c": "Closed-loop control",
+      "a": "control that measures the output and corrects the error",
+      "d": [
+        "control that follows a fixed schedule without sensing",
+        "control with no actuator"
+      ]
+    },
+    {
+      "c": "Example of open-loop control",
+      "a": "a toaster running on a fixed timer",
+      "d": [
+        "a thermostat-controlled furnace",
+        "a car's cruise control"
+      ]
+    },
+    {
+      "c": "Example of closed-loop control",
+      "a": "a thermostat-controlled furnace",
+      "d": [
+        "a toaster on a fixed timer",
+        "a lawn sprinkler on a timer"
+      ]
+    },
+    {
+      "c": "Main advantage of closed-loop control",
+      "a": "it corrects for disturbances and model errors",
+      "d": [
+        "it needs no sensors",
+        "it is always cheaper to build"
+      ]
+    },
+    {
+      "c": "Negative feedback",
+      "a": "feedback that acts to reduce the error",
+      "d": [
+        "feedback that makes deviations grow",
+        "feedback that is turned off"
+      ]
+    },
+    {
+      "c": "Positive feedback",
+      "a": "feedback that reinforces deviations so they grow",
+      "d": [
+        "feedback that reduces the error",
+        "feedback that removes noise"
+      ]
+    },
+    {
+      "c": "Block diagram",
+      "a": "a diagram of signals flowing between system parts",
+      "d": [
+        "a drawing of a part's dimensions",
+        "a chart of costs by component"
+      ]
+    },
+    {
+      "c": "Transfer function",
+      "a": "ratio of output to input in the Laplace (s) domain",
+      "d": [
+        "ratio of input power to output power",
+        "the controller's sampling rate"
+      ]
+    },
+    {
+      "c": "Closed-loop gain: plant G, unity negative feedback",
+      "a": "G / (1 + G)",
+      "d": [
+        "G / (1 − G)",
+        "1 / (1 + G)",
+        "G · (1 + G)"
+      ]
+    },
+    {
+      "c": "Stable system",
+      "a": "one whose output stays bounded for any bounded input",
+      "d": [
+        "one whose output never changes",
+        "one with zero steady-state error"
+      ]
+    },
+    {
+      "c": "PID stands for",
+      "a": "proportional–integral–derivative",
+      "d": [
+        "power–input–drive",
+        "position–inertia–damping"
+      ]
+    },
+    {
+      "c": "Proportional (P) term responds to",
+      "a": "the present error",
+      "d": [
+        "the accumulated past error",
+        "the rate of change of the error"
+      ]
+    },
+    {
+      "c": "Integral (I) term responds to",
+      "a": "the accumulated past error",
+      "d": [
+        "the present error",
+        "the rate of change of the error"
+      ]
+    },
+    {
+      "c": "Derivative (D) term responds to",
+      "a": "the rate of change of the error",
+      "d": [
+        "the present error",
+        "the accumulated past error"
+      ]
+    },
+    {
+      "c": "Main job of integral action",
+      "a": "eliminating steady-state error",
+      "d": [
+        "damping overshoot",
+        "filtering sensor noise"
+      ]
+    },
+    {
+      "c": "Main job of derivative action",
+      "a": "damping oscillation by anticipating error change",
+      "d": [
+        "eliminating steady-state error",
+        "setting the target value"
+      ]
+    },
+    {
+      "c": "Weakness of proportional-only control on many systems",
+      "a": "a steady-state offset remains",
+      "d": [
+        "it cannot respond to any error",
+        "it always oscillates forever"
+      ]
+    },
+    {
+      "c": "Raising proportional gain too far tends to cause",
+      "a": "overshoot, oscillation, or instability",
+      "d": [
+        "a slower, more sluggish response",
+        "zero error at all times"
+      ]
+    },
+    {
+      "c": "Derivative action is especially sensitive to",
+      "a": "measurement noise",
+      "d": [
+        "steady-state error",
+        "the size of the setpoint"
+      ]
+    },
+    {
+      "c": "Integral windup",
+      "a": "integral term growing while the actuator is saturated",
+      "d": [
+        "the derivative term reacting to noise",
+        "a sensor drifting with temperature"
+      ]
+    },
+    {
+      "c": "Overshoot",
+      "a": "output passing beyond the setpoint before settling",
+      "d": [
+        "output never reaching the setpoint",
+        "time to go from 10% to 90% of final value"
+      ]
+    },
+    {
+      "c": "Settling time",
+      "a": "time until the output stays within a band of its final value",
+      "d": [
+        "time for the output to first reach the setpoint",
+        "time between sensor readings"
+      ]
+    },
+    {
+      "c": "Steady-state error",
+      "a": "setpoint minus output after transients die out",
+      "d": [
+        "the largest overshoot in a response",
+        "error caused by sensor noise"
+      ]
+    },
+    {
+      "c": "First-order step response reached after one τ",
+      "a": "about 63% of the final change",
+      "d": [
+        "about 50% of the final change",
+        "100% of the final change",
+        "about 37% of the final change"
+      ]
+    },
+    {
+      "c": "Hysteresis band in an on-off thermostat prevents",
+      "a": "rapid on-off cycling",
+      "d": [
+        "the furnace from ever turning on",
+        "the room from reaching the setpoint"
+      ]
+    },
+    {
+      "c": "Watt's centrifugal governor regulated",
+      "a": "steam engine speed",
+      "d": [
+        "boiler water level",
+        "ship rudder angle"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Measure, compare, correct",
+    "text": [
+      "A toaster set to two minutes is an open-loop controller. It applies heat for a fixed time and never checks the bread. If the bread starts frozen, it comes out pale. A home thermostat is different: it measures room temperature, compares it with the setpoint, and turns the furnace on or off to shrink the error. That loop of measuring, comparing, and correcting is feedback, and it lets a system cope with disturbances its designers never predicted.",
+      "Most industrial loops use a PID controller. The proportional term pushes harder the larger the present error. Alone it often leaves a small permanent offset, so the integral term adds up past error and keeps pushing until the offset is gone. The derivative term watches how fast the error is changing and brakes the response before it overshoots, though it amplifies sensor noise.",
+      "Tuning is a balance. Too little gain gives a sluggish response; too much gives overshoot, oscillation, and in the worst case instability, where the output swings ever wider. Engineers judge a response by its rise time, overshoot, settling time, and steady-state error."
+    ],
+    "q": [
+      {
+        "q": "Why is a toaster on a timer an open-loop controller?",
+        "o": [
+          "It uses too much power",
+          "It never measures the bread",
+          "It has a PID controller"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What does the integral term mainly fix?",
+        "o": [
+          "A lasting steady-state offset",
+          "Sensor noise",
+          "Overshoot"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What can happen if controller gain is set too high?",
+        "o": [
+          "The system becomes slower",
+          "The setpoint changes",
+          "Oscillation or instability"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "ancients",
+  "name": "The Ancients",
+  "group": "Reading",
+  "tag": "ANCIENTS",
+  "level": "All levels",
+  "blurb": "Read fifteen passages from Plato, Xenophon, Plutarch, Thucydides and Aristotle in exact public-domain translations, and learn their hard words, central ideas, and the people and history behind them.",
+  "sources": [
+    { "t": "Project Gutenberg: Plato tr. Jowett, Xenophon tr. Dakyns, Thucydides tr. Crawley, Plutarch tr. Dryden rev. Clough", "u": "https://www.gutenberg.org/" },
+    { "t": "Nicomachean Ethics, tr. F. H. Peters, Standard Ebooks", "u": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters" },
+    { "t": "Aristotle's Politics, tr. Benjamin Jowett (Clarendon Press), Internet Archive", "u": "https://archive.org/details/aristotlespoliti00arisuoft" },
+    { "t": "The Works of Aristotle, vol. XI: Rhetorica, tr. W. Rhys Roberts (1924), Internet Archive", "u": "https://archive.org/details/theworksofaristo11arisuoft" },
+    { "t": "The Internet Classics Archive, MIT", "u": "https://classics.mit.edu/" }
+  ]
+}

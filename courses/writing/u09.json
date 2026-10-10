@@ -1,0 +1,50 @@
+{
+  "title": "Apostrophes, hyphens and quotation marks",
+  "note": "Apostrophes mark possession and contractions, not ordinary plurals; possessive pronouns (its, hers, theirs) take none. Hyphenate a compound adjective before a noun ('a well-known author') but not after an -ly adverb. In American style, periods and commas go inside closing quotation marks; colons and semicolons go outside.",
+  "src": { "t": "Purdue OWL, The Apostrophe", "u": "https://owl.purdue.edu/owl/general_writing/punctuation/apostrophe_introduction.html" },
+  "items": [
+    { "c": "Possessive of 'the boy' (one boy)", "a": "the boy's hat", "d": ["the boys' hat", "the boys hat"] },
+    { "c": "Possessive of 'the cats' (two cats)", "a": "the cats' toys", "d": ["the cat's toys", "the cats's toys"] },
+    { "c": "Possessive of 'children'", "a": "children's", "d": ["childrens'", "childrens"] },
+    { "c": "Possessive of 'James' (Chicago, MLA style)", "a": "James's", "d": ["Jame's"], "ex": "AP style writes James' instead." },
+    { "c": "Joint ownership: Todd and Anne share one flat", "a": "Todd and Anne's flat", "d": ["Todd's and Anne flat", "Todd and Annes' flat"] },
+    { "c": "Separate ownership: each owns a car", "a": "Todd's and Anne's cars", "d": ["Todd and Anne's car", "Todds' and Annes' cars"] },
+    { "c": "Possessive of one 'brother-in-law'", "a": "brother-in-law's", "d": ["brother's-in-law", "brothers'-in-law"] },
+    { "c": "The dog wagged ___ tail. (its/it's)", "a": "its", "d": ["it's"] },
+    { "c": "___ been a long day. (Its/It's)", "a": "It's", "d": ["Its"], "ex": "It's = it is or it has." },
+    { "c": "Plural of the decade 1990", "a": "the 1990s", "d": ["the 1990's"] },
+    { "c": "Contraction of 'could have'", "a": "could've", "d": ["could of", "could'of"] },
+    { "c": "Plural of the family name Smith", "a": "the Smiths", "d": ["the Smith's", "the Smiths'"], "ex": "The Smiths live here; the Smiths' house is blue." },
+    { "c": "Apostrophe in a possessive pronoun like 'hers'?", "a": "never: hers, ours, theirs", "d": ["sometimes: her's, our's"] },
+    { "c": "Hyphenate: 'a well known author'", "a": "a well-known author", "d": ["a well known-author", "a wellknown author"] },
+    { "c": "Hyphenate: 'a ten year old girl'", "a": "a ten-year-old girl", "d": ["a ten-years-old girl", "a ten year-old girl"] },
+    { "c": "Hyphens in 'She is ten years old.'?", "a": "none: 'ten years old'", "d": ["two: 'ten-years-old'"] },
+    { "c": "Hyphen after an -ly adverb: 'a highly ___ chef'", "a": "highly regarded (no hyphen)", "d": ["highly-regarded (hyphen)"] },
+    { "c": "Spell out 46", "a": "forty-six", "d": ["fourty-six", "forty six"] },
+    { "c": "Prefix 'ex-' meaning former", "a": "ex-mayor", "d": ["exmayor", "ex mayor"] },
+    { "c": "Prefix before a capitalized word", "a": "anti-American", "d": ["antiAmerican", "anti American"] },
+    { "c": "'Re-sign' vs. 'resign'", "a": "re-sign: sign again; resign: quit", "d": ["re-sign: quit; resign: sign again", "they mean the same thing"] },
+    { "c": "Comma with a closing quote (American)", "a": "\"I agree,\" she said.", "d": ["\"I agree\", she said."] },
+    { "c": "Period with a closing quote (American)", "a": "He called it \"a mess.\"", "d": ["He called it \"a mess\"."] },
+    { "c": "Semicolon with a closing quote", "a": "She said \"later\"; I left.", "d": ["She said \"later;\" I left."] },
+    { "c": "Question mark when the whole sentence asks", "a": "Did he say \"I quit\"?", "d": ["Did he say \"I quit?\""] },
+    { "c": "Question mark when only the quote asks", "a": "She asked, \"Who's there?\"", "d": ["She asked, \"Who's there\"?"] },
+    { "c": "Quotation inside a quotation (American)", "a": "\"He yelled 'Stop!' at me,\" she said.", "d": ["'He yelled \"Stop!\" at me,' she said."] },
+    { "c": "Titles that go in quotation marks", "a": "a song, short poem or article", "d": ["a novel, album or newspaper"], "ex": "Titles of long works, such as books, are italicized." },
+    { "c": "Which is an indirect quotation?", "a": "He said that he was tired.", "d": ["He said, \"I am tired.\""], "ex": "Indirect quotations take no quotation marks." },
+    { "c": "Scare quotes", "a": "marks signaling an ironic or doubtful use of a word", "d": ["marks around the title of a book", "marks around a block quotation"] }
+  ],
+  "read": {
+    "title": "Small marks, big signals",
+    "text": [
+      "The apostrophe has two jobs. It shows possession (the dog's bowl, the dogs' bowls) and it marks missing letters in a contraction (don't, it's). It almost never makes a plain plural. A sign reading \"Fresh egg's\" is wrong; the plural is eggs. The most famous trap is its versus it's. Its is a possessive pronoun, like his and hers, and possessive pronouns never take apostrophes. It's always means it is or it has.",
+      "Hyphens join words that work together as one adjective before a noun: a part-time job, a well-known author. After the noun the hyphen often drops: the job is part time. No hyphen follows an adverb ending in -ly, because the -ly already shows how the words connect: a carefully planned trip.",
+      "Quotation marks follow a firm American convention. Periods and commas go inside the closing mark: She called it \"a disaster.\" Colons and semicolons go outside. Question marks and exclamation points go inside only when they belong to the quoted words."
+    ],
+    "q": [
+      { "q": "Why is \"Fresh egg's\" wrong?", "o": ["Eggs is a plain plural and needs no apostrophe", "The apostrophe should follow the s", "Fresh needs a hyphen"], "k": 0 },
+      { "q": "Why does \"a carefully planned trip\" take no hyphen?", "o": ["Planned is a verb", "Trip is a short word", "The -ly adverb already shows the connection"], "k": 2 },
+      { "q": "In American style, where does a period go with a closing quotation mark?", "o": ["Outside it", "Inside it", "Either place, freely"], "k": 1 }
+    ]
+  }
+}

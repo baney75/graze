@@ -1,0 +1,291 @@
+{
+  "title": "Fine-tuning",
+  "note": "The fine-tuning argument starts from physics, not biology: several constants and initial conditions seem to fall in narrow ranges that permit life. The usual options are physical necessity, chance, or design. Critics appeal to observation selection effects and to a multiverse; defenders reply that neither removes the need for explanation.",
+  "src": {
+    "t": "Stanford Encyclopedia of Philosophy: Fine-Tuning",
+    "u": "https://plato.stanford.edu/entries/fine-tuning/"
+  },
+  "items": [
+    {
+      "c": "The fine-tuning claim",
+      "a": "life-permitting values of constants lie in narrow ranges",
+      "d": [
+        "the laws of physics change from place to place",
+        "life could arise under almost any physical values"
+      ]
+    },
+    {
+      "c": "Three standard explanations of fine-tuning",
+      "a": "physical necessity, chance, or design",
+      "d": [
+        "evolution, chance, or selection",
+        "necessity, revelation, or habit"
+      ]
+    },
+    {
+      "c": "Fine-tuning arguments start from",
+      "a": "physics and cosmology",
+      "d": [
+        "the structure of living organs",
+        "the reports of mystics"
+      ]
+    },
+    {
+      "c": "The cosmological constant measures",
+      "a": "the energy density of empty space",
+      "d": [
+        "the speed of light in a vacuum",
+        "the charge on a single electron"
+      ]
+    },
+    {
+      "c": "If the strong force were far stronger",
+      "a": "nearly all hydrogen would fuse in the early universe",
+      "d": [
+        "atoms would never have formed at all",
+        "the universe would have stopped expanding"
+      ]
+    },
+    {
+      "c": "Fred Hoyle's 1953 prediction",
+      "a": "a carbon-12 energy level enabling carbon in stars",
+      "d": [
+        "the cosmic microwave background",
+        "the expansion of the universe"
+      ]
+    },
+    {
+      "c": "Who said a superintellect monkeyed with physics?",
+      "a": "Fred Hoyle",
+      "d": [
+        "Stephen Hawking",
+        "Albert Einstein"
+      ]
+    },
+    {
+      "c": "Penrose's estimate for low initial entropy",
+      "a": "one part in 10 to the power 10 to the 123",
+      "d": [
+        "one part in a million",
+        "one part in 10 to the power 53"
+      ]
+    },
+    {
+      "c": "Physicist who named the anthropic principle",
+      "a": "Brandon Carter",
+      "d": [
+        "John Leslie",
+        "Martin Rees"
+      ],
+      "ex": "In a 1973 talk, published in 1974."
+    },
+    {
+      "c": "Weak anthropic principle",
+      "a": "we must find conditions compatible with our existence",
+      "d": [
+        "the universe exists in order to produce us",
+        "observers create the laws they observe"
+      ]
+    },
+    {
+      "c": "Carter's strong anthropic principle",
+      "a": "the universe must admit observers at some stage",
+      "d": [
+        "the universe was designed for human beings",
+        "observers can only exist on planets like Earth"
+      ]
+    },
+    {
+      "c": "Barrow and Tipler's 1986 book",
+      "a": "The Anthropic Cosmological Principle",
+      "d": [
+        "Just Six Numbers",
+        "The Life of the Cosmos"
+      ]
+    },
+    {
+      "c": "Martin Rees's popular book on six constants",
+      "a": "Just Six Numbers",
+      "d": [
+        "The First Three Minutes",
+        "A Brief History of Time"
+      ]
+    },
+    {
+      "c": "Elliott Sober's anthropic objection",
+      "a": "we could observe only a life-permitting universe",
+      "d": [
+        "life is not fine-tuned for at all",
+        "constants change over time"
+      ]
+    },
+    {
+      "c": "John Leslie's firing squad illustrates",
+      "a": "surviving needs explaining though you'd see no other result",
+      "d": [
+        "survival is never surprising at all",
+        "marksmen always miss on purpose"
+      ]
+    },
+    {
+      "c": "Multiverse objection to fine-tuning",
+      "a": "among very many universes, some will permit life",
+      "d": [
+        "our universe is the only possible one",
+        "life can exist in any universe"
+      ]
+    },
+    {
+      "c": "String theory's huge range of possible vacua",
+      "a": "the string landscape",
+      "d": [
+        "the anthropic horizon",
+        "the inflaton field"
+      ]
+    },
+    {
+      "c": "Hacking's charge against multiverse inferences",
+      "a": "the inverse gambler's fallacy",
+      "d": [
+        "the fallacy of composition",
+        "the genetic fallacy"
+      ]
+    },
+    {
+      "c": "Inverse gambler's fallacy",
+      "a": "inferring many trials from one remarkable outcome",
+      "d": [
+        "thinking a long losing streak must end",
+        "inferring a cause from mere succession"
+      ]
+    },
+    {
+      "c": "Roger White's 2000 point about multiverses",
+      "a": "other universes don't make this one likelier life-permitting",
+      "d": [
+        "other universes prove design directly",
+        "other universes cannot be finite"
+      ]
+    },
+    {
+      "c": "Theist reply on a multiverse generator",
+      "a": "it would itself need finely tuned laws",
+      "d": [
+        "it would be identical with God",
+        "it would have no physical laws at all"
+      ]
+    },
+    {
+      "c": "Boltzmann brain worry for multiverses",
+      "a": "they predict lone fluctuating observers over ordered worlds",
+      "d": [
+        "they predict no observers of any kind",
+        "they predict brains larger than galaxies"
+      ]
+    },
+    {
+      "c": "McGrew, McGrew and Vestrup's 2001 objection",
+      "a": "no even probability spreads over an infinite range",
+      "d": [
+        "fine-tuning has never been measured",
+        "constants are logically necessary"
+      ]
+    },
+    {
+      "c": "Robin Collins frames fine-tuning with",
+      "a": "the Prime Principle of Confirmation",
+      "d": [
+        "the principle of sufficient reason",
+        "the principle of credulity"
+      ]
+    },
+    {
+      "c": "Likelihood reasoning in fine-tuning",
+      "a": "evidence favors the hypothesis that makes it less surprising",
+      "d": [
+        "the simplest hypothesis is always true",
+        "the oldest hypothesis is always favored"
+      ]
+    },
+    {
+      "c": "Dawkins's 'Ultimate Boeing 747' objection",
+      "a": "a designer would be even more improbable",
+      "d": [
+        "airplanes are not designed by one mind",
+        "the universe is not complex at all"
+      ]
+    },
+    {
+      "c": "Theist reply to 'the designer is more complex'",
+      "a": "God is simple, not assembled from improbable parts",
+      "d": [
+        "God is complex but very probable",
+        "God is designed by a greater being"
+      ]
+    },
+    {
+      "c": "Objection to 'the constants had to be so'",
+      "a": "no known theory fixes their values by necessity",
+      "d": [
+        "the constants are known to vary daily",
+        "necessity cannot apply to any physics"
+      ]
+    },
+    {
+      "c": "Lee Smolin's cosmological natural selection",
+      "a": "universes reproduce through black holes",
+      "d": [
+        "universes are chosen by intelligent life",
+        "universes cycle through bangs and crunches"
+      ]
+    },
+    {
+      "c": "Fine-tuning arguments concern conditions for",
+      "a": "life in general, not humans in particular",
+      "d": [
+        "human beings only",
+        "Earth's climate only"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Necessity, chance, or design",
+    "text": [
+      "Physicists have noted that several features of the universe seem balanced on a knife-edge. The vacuum energy, or cosmological constant, is vastly smaller than theory would suggest, yet much larger values would prevent galaxies from forming. Changes to the strong nuclear force would upset the formation of the elements. Roger Penrose estimated the improbability of the universe's low initial entropy at one part in ten to the power ten to the 123.",
+      "The argument can be set out:",
+      "(1) The fine-tuning of the universe for life is due to physical necessity, chance, or design. (2) It is not due to physical necessity. (3) It is not due to chance. (4) Therefore it is due to design.",
+      "The leading objection targets premise (3). If there are vast numbers of universes with different constants, as some versions of inflation and string theory suggest, then a few will permit life, and observers will naturally find themselves in one of those. Fine-tuning would then be no more surprising than a lottery having a winner.",
+      "Defenders reply in several ways. Roger White argues that other universes do not raise the probability that this universe permits life. Robin Collins argues that any known mechanism for generating universes would itself need finely set laws. Others note that the multiverse remains a speculative hypothesis with problems of its own, such as Boltzmann brains. Critics answer that a multiverse may still be the better bet, since it is suggested by physics itself."
+    ],
+    "q": [
+      {
+        "q": "Which premise does the multiverse objection attack?",
+        "o": [
+          "Premise 1",
+          "Premise 2",
+          "Premise 3",
+          "The conclusion only"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What does Collins say about universe generators?",
+        "o": [
+          "They prove the universe is eternal",
+          "They would themselves need finely set laws",
+          "They have been observed directly"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What does the lottery comparison suggest?",
+        "o": [
+          "With many universes, a life-permitting one is unsurprising",
+          "God chooses lottery winners",
+          "Fine-tuning is impossible to measure"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

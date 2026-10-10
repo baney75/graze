@@ -1,0 +1,56 @@
+{
+  "title": "Numbers and age",
+  "note": "French gives age with avoir (to have): J'ai vingt ans, \"I am twenty.\" Avoir is irregular: j'ai, tu as, il a, nous avons, vous avez, ils ont. From 70 on, French counts in twenties: 70 is soixante-dix (60 + 10), 80 is quatre-vingts (4 × 20), 90 is quatre-vingt-dix.",
+  "src": { "t": "French OER 1, Unité 3 (numbers, avoir)", "u": "https://human.libretexts.org/Courses/Mount_Saint_Mary's_University_LA/French_OER_1_(Carrasco_Zahedi_and_Parrish)/03%3A_Unite_3_-_La_famille" },
+  "items": [
+    { "c": "un", "a": "1", "d": ["7", "11"] },
+    { "c": "deux", "a": "2", "d": ["10", "12"] },
+    { "c": "trois", "a": "3", "d": ["13", "30"] },
+    { "c": "quatre", "a": "4", "d": ["14", "40"] },
+    { "c": "cinq", "a": "5", "d": ["15", "50"] },
+    { "c": "six", "a": "6", "d": ["16", "60"] },
+    { "c": "sept", "a": "7", "d": ["17", "9"] },
+    { "c": "huit", "a": "8", "d": ["18", "80"] },
+    { "c": "neuf", "a": "9", "d": ["19", "5"] },
+    { "c": "dix", "a": "10", "d": ["6", "12"] },
+    { "c": "onze", "a": "11", "d": ["12", "15"] },
+    { "c": "douze", "a": "12", "d": ["2", "16"] },
+    { "c": "treize", "a": "13", "d": ["3", "30"] },
+    { "c": "quatorze", "a": "14", "d": ["40", "4"] },
+    { "c": "quinze", "a": "15", "d": ["5", "50"] },
+    { "c": "seize", "a": "16", "d": ["6", "60"] },
+    { "c": "dix-sept", "a": "17", "d": ["7", "70"] },
+    { "c": "vingt", "a": "20", "d": ["12", "2"] },
+    { "c": "vingt et un", "a": "21", "d": ["12", "31"] },
+    { "c": "trente", "a": "30", "d": ["13", "3"] },
+    { "c": "quarante", "a": "40", "d": ["14", "4"] },
+    { "c": "cinquante", "a": "50", "d": ["15", "5"] },
+    { "c": "soixante", "a": "60", "d": ["16", "70"] },
+    { "c": "soixante-dix", "a": "70", "d": ["60", "90"] },
+    { "c": "soixante et onze", "a": "71", "d": ["61", "81"] },
+    { "c": "quatre-vingts", "a": "80", "d": ["24", "90"] },
+    { "c": "quatre-vingt-dix", "a": "90", "d": ["80", "70"] },
+    { "c": "cent", "a": "100", "d": ["1,000", "50"] },
+    { "c": "mille", "a": "1,000", "d": ["100", "1,000,000"] },
+    { "c": "Quel âge as-tu ?", "a": "How old are you?", "d": ["What time is it?", "Where are you from?"], "ex": "Quel âge as-tu ? — J'ai dix-huit ans.", "exT": "How old are you? — I'm eighteen." },
+    { "c": "J'ai dix-neuf ans.", "a": "I'm nineteen.", "d": ["I'm nine.", "I have nineteen friends."] },
+    { "c": "il y a", "a": "there is / there are", "d": ["here is / here are", "it is / they are"], "ex": "Il y a vingt étudiants dans la classe.", "exT": "There are twenty students in the class." },
+    { "c": "J'___ vingt ans. (avoir)", "a": "ai", "d": ["suis", "as"] },
+    { "c": "Elle ___ trente ans. (avoir)", "a": "a", "d": ["est", "as"], "ex": "Ma tante a trente ans.", "exT": "My aunt is thirty." },
+    { "c": "Nous ___ deux chats. (avoir)", "a": "avons", "d": ["avez", "ont"] },
+    { "c": "Ils ___ dix ans. (avoir)", "a": "ont", "d": ["sont", "avez"] }
+  ],
+  "read": {
+    "title": "Je me présente",
+    "text": [
+      "Bonjour ! Je m'appelle Léa. Je suis française et j'ai dix-neuf ans. Je suis étudiante à Lyon.",
+      "Mon ami Karim est canadien. Il est de Montréal et il a vingt et un ans. Nous sommes dans la même classe. Dans la classe, il y a vingt-quatre étudiants et un professeur. Le professeur s'appelle Monsieur Duval. Il a cinquante-six ans.",
+      "Et toi, comment tu t'appelles ? Quel âge as-tu ?"
+    ],
+    "q": [
+      { "q": "How old is Léa?", "o": ["21", "19", "24"], "k": 1 },
+      { "q": "Where is Karim from?", "o": ["Lyon", "Paris", "Montreal"], "k": 2 },
+      { "q": "How many students are in the class?", "o": ["24", "21", "56"], "k": 0 }
+    ]
+  }
+}

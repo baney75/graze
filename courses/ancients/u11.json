@@ -1,0 +1,236 @@
+{
+  "title": "Aristotle, Ethics I: happiness and the function of man",
+  "note": "Everyone agrees the highest good is happiness, Aristotle says, but what is it? He answers by asking what work is peculiar to man, as a harper's good lies in harping well.",
+  "src": {
+    "t": "The Nicomachean Ethics, tr. F. H. Peters, Book I, Standard Ebooks",
+    "u": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters/text/book-1"
+  },
+  "items": [
+    {
+      "c": "Aristotle's birthplace",
+      "a": "Stagira",
+      "d": [
+        "Athens",
+        "Pella",
+        "Chalcis"
+      ]
+    },
+    {
+      "c": "Years Aristotle spent in Plato's Academy",
+      "a": "about twenty",
+      "d": [
+        "about two",
+        "about forty"
+      ]
+    },
+    {
+      "c": "Aristotle's school in Athens",
+      "a": "the Lyceum",
+      "d": [
+        "the Academy",
+        "the Stoa",
+        "the Garden"
+      ]
+    },
+    {
+      "c": "the Peripatetics",
+      "a": "followers of Aristotle's school",
+      "d": [
+        "followers of Zeno the Stoic",
+        "followers of Diogenes the Cynic"
+      ]
+    },
+    {
+      "c": "Ethics traditionally named after Aristotle's son",
+      "a": "the Nicomachean Ethics",
+      "d": [
+        "the Eudemian Ethics",
+        "the Magna Moralia"
+      ]
+    },
+    {
+      "c": "Translator of this Nicomachean Ethics",
+      "a": "F. H. Peters",
+      "d": [
+        "W. D. Ross",
+        "Benjamin Jowett",
+        "D. P. Chase"
+      ]
+    },
+    {
+      "c": "Highest human good, per Aristotle",
+      "a": "happiness (eudaimonia)",
+      "d": [
+        "pleasure",
+        "honor",
+        "wealth"
+      ]
+    },
+    {
+      "c": "eudaimonia",
+      "a": "flourishing, living well",
+      "d": [
+        "a pleasant feeling",
+        "good luck"
+      ]
+    },
+    {
+      "c": "Three lives Aristotle weighs in Book I",
+      "a": "of pleasure, of politics, of contemplation",
+      "d": [
+        "of farming, of trade, of war",
+        "of youth, of manhood, of old age"
+      ]
+    },
+    {
+      "c": "self-sufficing (Aristotle)",
+      "a": "making life desirable and lacking nothing",
+      "d": [
+        "living alone without others",
+        "needing no laws or rulers"
+      ]
+    },
+    {
+      "c": "Aristotle's question for defining happiness",
+      "a": "What is the function of man?",
+      "d": [
+        "What do most men enjoy?",
+        "What do the gods command?"
+      ]
+    },
+    {
+      "c": "function (Aristotle's sense)",
+      "a": "the work proper to a thing",
+      "d": [
+        "a public ceremony",
+        "a passing feeling"
+      ]
+    },
+    {
+      "c": "Workers Aristotle says have a function",
+      "a": "the carpenter and the cobbler",
+      "d": [
+        "the king and the priest",
+        "the poet and the seer"
+      ]
+    },
+    {
+      "c": "Life man shares even with plants",
+      "a": "nutrition and growth",
+      "d": [
+        "the life of sense",
+        "the life of reason"
+      ]
+    },
+    {
+      "c": "Life man shares with horses and cattle",
+      "a": "the life of sense",
+      "d": [
+        "the life of reason",
+        "the life of politics"
+      ]
+    },
+    {
+      "c": "What is peculiar to man, per Aristotle",
+      "a": "the life of his rational nature",
+      "d": [
+        "the life of growth",
+        "the life of the senses"
+      ]
+    },
+    {
+      "c": "harper",
+      "a": "a harp player",
+      "d": [
+        "a harpooner",
+        "a herald"
+      ]
+    },
+    {
+      "c": "A good harper's function, per Aristotle",
+      "a": "to harp well",
+      "d": [
+        "to own a fine harp",
+        "to teach many pupils"
+      ]
+    },
+    {
+      "c": "excellence (arete), in Aristotle",
+      "a": "what makes a thing do its work well",
+      "d": [
+        "the fame a thing earns",
+        "the price a thing fetches"
+      ]
+    },
+    {
+      "c": "The good of man, per Aristotle",
+      "a": "exercise of his faculties in accordance with virtue",
+      "d": [
+        "a feeling of bodily pleasure",
+        "the possession of honors"
+      ]
+    },
+    {
+      "c": "one swallow does not make a spring",
+      "a": "happiness needs a full term of years",
+      "d": [
+        "one good act makes a good man",
+        "spring is slow to come"
+      ]
+    },
+    {
+      "c": "Precision to expect in ethics, per Aristotle",
+      "a": "as much as the subject matter admits",
+      "d": [
+        "the exactness of geometry",
+        "none at all"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Nicomachean Ethics, Book I: the function of man",
+    "text": [
+      "This will best be gained, I think, by asking, What is the function of man? For as the goodness and the excellence of a piper or a sculptor, or the practiser of any art, and generally of those who have any function or business to do, lies in that function, so man’s good would seem to lie in his function, if he has one.",
+      "But can we suppose that, while a carpenter and a cobbler has a function and a business of his own, man has no business and no function assigned him by nature? Nay, surely as his several members, eye and hand and foot, plainly have each his own function, so we must suppose that man also has some function over and above all these.",
+      "What then is it?",
+      "Life evidently he has in common even with the plants, but we want that which is peculiar to him. We must exclude, therefore, the life of mere nutrition and growth.",
+      "Next to this comes the life of sense; but this too he plainly shares with horses and cattle and all kinds of animals.",
+      "There remains then the life whereby he acts—the life of his rational nature, with its two sides or divisions, one rational as obeying reason, the other rational as having and exercising reason.",
+      "But as this expression is ambiguous, we must be understood to mean thereby the life that consists in the exercise of the faculties; for this seems to be more properly entitled to the name.",
+      "The function of man, then, is exercise of his vital faculties [or soul] on one side in obedience to reason, and on the other side with reason.",
+      "But what is called the function of a man of any profession and the function of a man who is good in that profession are generically the same, e.g. of a harper and of a good harper; and this holds in all cases without exception, only that in the case of the latter his superior excellence at his work is added; for we say a harper’s function is to harp, and a good harper’s to harp well.",
+      "(Man’s function then being, as we say, a kind of life—that is to say, exercise of his faculties and action of various kinds with reason—the good man’s function is to do this well and beautifully [or nobly]. But the function of anything is done well when it is done in accordance with the proper excellence of that thing.)",
+      "If this be so the result is that the good of man is exercise of his faculties in accordance with excellence or virtue, or, if there be more than one, in accordance with the best and most complete virtue.",
+      "But there must also be a full term of years for this exercise; for one swallow or one fine day does not make a spring, nor does one day or any small space of time make a blessed or happy man."
+    ],
+    "q": [
+      {
+        "q": "Why does Aristotle compare man to a piper or sculptor?",
+        "o": [
+          "Each has a function, and its good lies in doing that function well",
+          "All three are paid for their work",
+          "Each needs a teacher"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why does Aristotle rule out the life of nutrition and of sense as man's function?",
+        "o": [
+          "They are shameful",
+          "Man shares them with plants and animals, so they are not peculiar to him",
+          "Only the gods have them"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What does 'one swallow ... does not make a spring' add to the definition?",
+        "o": [
+          "Happiness is found mainly in spring",
+          "Virtue can be learned in a day",
+          "Happiness requires a full term of years, not a short time"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

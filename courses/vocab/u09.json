@@ -1,0 +1,51 @@
+{
+  "title": "Knowledge and ignorance",
+  "note": "Know the knowers: polymaths range across many fields, autodidacts teach themselves, dilettantes dabble, and neophytes have just begun. Empirical knowledge comes from observation; a priori knowledge comes from reasoning alone, before or apart from experience. Benighted once meant overtaken by night; now it means unenlightened.",
+  "src": { "t": "Merriam-Webster: benighted", "u": "https://www.merriam-webster.com/dictionary/benighted" },
+  "items": [
+    { "c": "polymath", "a": "a person with wide knowledge across many fields", "d": ["a person who dabbles without depth", "a person who has just begun to learn", "a person hostile to culture"], "ex": "A true polymath, she published on botany, music theory and tax law." },
+    { "c": "autodidact", "a": "a self-taught person", "d": ["a person who knows everything", "a narrow, fussy scholar", "a person new to a field"], "ex": "An autodidact, he learned calculus from library books at sixteen." },
+    { "c": "savant", "a": "a learned person, especially an eminent scholar", "d": ["a person who dabbles in an art", "a person who is easily fooled", "an untaught beginner"], "ex": "The savants of the academy spent a year debating a single fossil." },
+    { "c": "pundit", "a": "an expert who gives opinions in public, often on TV", "d": ["a self-taught learner", "a secret adviser to a ruler", "a beginner in a field"], "ex": "Every pundit predicted a landslide; the race came down to a recount." },
+    { "c": "cognoscenti", "a": "people with expert knowledge of a subject", "d": ["people hostile to art and learning", "people new to a subject", "people who teach themselves"], "ex": "The cognoscenti lined up for the small-batch cheese; everyone else bought cheddar." },
+    { "c": "dilettante", "a": "a person who dabbles in a subject without serious study", "d": ["a person with expert knowledge", "a person who teaches for a living", "a person who fears new ideas"], "ex": "Critics dismissed him as a dilettante who painted between polo matches." },
+    { "c": "neophyte", "a": "a beginner or newcomer to a field", "d": ["a seasoned expert", "a self-taught scholar", "a person who knows everything"], "ex": "The climbing gym runs a Saturday class for neophytes." },
+    { "c": "sophomoric", "a": "overconfident of knowledge but immature and poorly informed", "d": ["deeply learned and wise", "humble about one's ignorance", "hostile to all learning"], "ex": "His sophomoric essay solved free will in two pages." },
+    { "c": "ignoramus", "a": "an ignorant or stupid person", "d": ["a learned scholar", "a gifted beginner", "a skeptical critic"], "ex": "Only an ignoramus would call the Pacific a lake." },
+    { "c": "benighted", "a": "in a state of ignorance; unenlightened", "d": ["highly educated", "shrewd and perceptive", "knowing everything"], "ex": "Each generation thinks its grandparents' age was benighted." },
+    { "c": "philistine", "a": "a person hostile or indifferent to culture and the arts", "d": ["a person who studies ancient texts", "a lover and patron of the arts", "a person new to a field"], "ex": "Only a philistine would paint over that mural to sell ad space." },
+    { "c": "obscurantism", "a": "the deliberate withholding of knowledge from people", "d": ["the spread of free education", "the study of how we know things", "learning through direct observation"], "ex": "Burning the library was obscurantism in its crudest form." },
+    { "c": "abstruse", "a": "difficult to understand; obscure", "d": ["plainly obvious", "pleasantly simple", "based on observation"], "ex": "The lecture on tensor calculus was too abstruse for the visitors." },
+    { "c": "arcane", "a": "understood by few; mysterious or secret", "d": ["widely and commonly known", "loud and showy", "recently discovered"], "ex": "Baseball's arcane scoring rules baffle first-time fans." },
+    { "c": "inscrutable", "a": "impossible to understand or interpret", "d": ["easy to read at a glance", "openly hostile", "cheerfully talkative"], "ex": "The poker player's inscrutable face gave nothing away." },
+    { "c": "cryptic", "a": "having a hidden or puzzling meaning", "d": ["perfectly clear", "lengthy and detailed", "loud and blunt"], "ex": "The note said only \"Check the third step,\" which was cryptic until we found the key." },
+    { "c": "perspicacious", "a": "quick to notice and understand things", "d": ["slow to understand", "easily fooled", "hostile to learning"], "ex": "A perspicacious editor spotted the error in the first paragraph." },
+    { "c": "sagacious", "a": "wise and sound in judgment", "d": ["foolish and rash", "cunning and deceitful", "learned but impractical"], "ex": "The sagacious old judge settled the feud with a single question." },
+    { "c": "astute", "a": "shrewd; quick to see an advantage", "d": ["naive and trusting", "slow-witted", "careless with facts"], "ex": "An astute investor, she sold a month before the crash." },
+    { "c": "acumen", "a": "keen insight and good judgment in a field", "d": ["a lack of interest", "a fixed habit", "a slight, superficial knowledge"], "ex": "His business acumen turned one food truck into twelve." },
+    { "c": "omniscient", "a": "knowing everything", "d": ["knowing almost nothing", "present everywhere", "all-powerful"], "ex": "The novel's omniscient narrator knows what every character is thinking." },
+    { "c": "epiphany", "a": "a sudden, striking realization", "d": ["a slow, steady decline", "a careful guess", "a formal proof"], "ex": "Her epiphany came in the shower: the bug was in the date format." },
+    { "c": "intuit", "a": "to know or understand without conscious reasoning", "d": ["to prove by experiment", "to learn by memorizing", "to explain in detail"], "ex": "Good teachers intuit which student is lost before anyone speaks." },
+    { "c": "cognizant", "a": "aware or having knowledge of something", "d": ["unaware of something", "skeptical of something", "hostile to something"], "ex": "The board was cognizant of the risks when it signed the deal." },
+    { "c": "oblivious", "a": "unaware of what is happening around one", "d": ["keenly observant", "deeply learned", "openly suspicious"], "ex": "Lost in his podcast, he was oblivious to the bus pulling away." },
+    { "c": "empirical", "a": "based on observation or experiment", "d": ["based on pure reasoning alone", "based on ancient authority", "based on a hunch"], "ex": "The theory was elegant but lacked empirical support." },
+    { "c": "a priori", "a": "known by reasoning, independent of experience", "d": ["learned through observation", "known after the fact", "accepted on authority"], "ex": "That every triangle has three sides is known a priori." },
+    { "c": "conjecture", "a": "an opinion formed on incomplete information", "d": ["a proven fact", "a formal argument with two premises", "a sudden insight"], "ex": "Without the missing pages, the ending of the diary is pure conjecture." },
+    { "c": "edify", "a": "to instruct and improve, morally or intellectually", "d": ["to confuse deliberately", "to keep in ignorance", "to praise lavishly"], "ex": "The museum aims to edify visitors as well as entertain them." },
+    { "c": "epistemology", "a": "the branch of philosophy that studies knowledge", "d": ["the study of word origins", "the study of right and wrong", "the study of being and existence"], "ex": "Epistemology asks what separates knowing something from merely believing it." }
+  ],
+  "read": {
+    "title": "What the Map Did Not Show",
+    "text": [
+      "For centuries European mapmakers filled the unknown interior of Africa with elephants, rivers and invented kingdoms. The habit was not mere ignorance. A blank space looked like a failure, and a well-drawn guess passed easily for knowledge. Mapmakers copied one another, so a single conjecture could travel through a hundred atlases and acquire the look of empirical fact.",
+      "The most famous example was the Mountains of Kong, a range said to stretch across West Africa. It first appeared on a map in 1798, drawn from a traveler's report and a geographer's theory about where the Niger River must flow. No one had surveyed it, yet for nearly a century savants and atlas makers repeated it.",
+      "Between 1887 and 1889 the French explorer Louis-Gustave Binger traveled through the region and found no great mountain range at all. Mapmakers began to drop the range, slowly: one respected atlas still listed it in its index in 1928.",
+      "The lesson is not that early mapmakers were benighted. Many were astute scholars working with poor evidence. The trouble was that their maps were rarely cognizant of their own limits. A careful map, like a careful mind, marks the line between what is known and what is only supposed."
+    ],
+    "q": [
+      { "q": "Why did the Mountains of Kong persist for so long?", "o": ["Surveyors kept confirming them", "Mapmakers copied an untested guess", "They were visible from the coast", "They were a deliberate hoax"], "k": 1 },
+      { "q": "What did Binger's journey show?", "o": ["The mountains were higher than drawn", "The Niger flowed through the range", "There was no great mountain range", "The maps had the right location"], "k": 2 },
+      { "q": "The passage says the maps were rarely \"cognizant of their own limits,\" meaning they", "o": ["did not show awareness of what was unknown", "were too large to print", "were drawn by self-taught amateurs", "ignored the rivers"], "k": 0 }
+    ]
+  }
+}

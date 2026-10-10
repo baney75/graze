@@ -1,0 +1,33 @@
+{
+  "title": "The Middle East and North Africa on the map",
+  "kind": "map",
+  "set": "world",
+  "note": "This region wraps around the eastern Mediterranean and the Arabian Peninsula. North Africa runs west from Egypt to Morocco along the Mediterranean coast, and the Gulf states sit on the Persian Gulf between Iran and Saudi Arabia.",
+  "src": {
+    "t": "Natural Earth 1:50m boundaries via world-atlas",
+    "u": "https://github.com/topojson/world-atlas"
+  },
+  "items": [
+    { "p": "TR", "a": "Türkiye", "d": ["Lebanon", "Syria", "Palestine"] },
+    { "p": "SY", "a": "Syria", "d": ["Lebanon", "Jordan", "Palestine"] },
+    { "p": "LB", "a": "Lebanon", "d": ["Palestine", "Syria", "Israel"] },
+    { "p": "IL", "a": "Israel", "d": ["Palestine", "Jordan", "Lebanon"] },
+    { "p": "PS", "a": "Palestine", "d": ["Israel", "Jordan", "Lebanon"] },
+    { "p": "JO", "a": "Jordan", "d": ["Israel", "Palestine", "Lebanon"] },
+    { "p": "IQ", "a": "Iraq", "d": ["Syria", "Kuwait", "Jordan"] },
+    { "p": "IR", "a": "Iran", "d": ["Kuwait", "Bahrain", "Qatar"] },
+    { "p": "SA", "a": "Saudi Arabia", "d": ["Bahrain", "Qatar", "Kuwait"] },
+    { "p": "KW", "a": "Kuwait", "d": ["Bahrain", "Iraq", "Iran"] },
+    { "p": "BH", "a": "Bahrain", "d": ["Qatar", "United Arab Emirates", "Kuwait"] },
+    { "p": "QA", "a": "Qatar", "d": ["Bahrain", "United Arab Emirates", "Saudi Arabia"] },
+    { "p": "AE", "a": "United Arab Emirates", "d": ["Qatar", "Bahrain", "Oman"] },
+    { "p": "OM", "a": "Oman", "d": ["United Arab Emirates", "Qatar", "Bahrain"] },
+    { "p": "YE", "a": "Yemen", "d": ["Oman", "Saudi Arabia", "United Arab Emirates"] },
+    { "p": "EG", "a": "Egypt", "d": ["Israel", "Palestine", "Jordan"] },
+    { "p": "LY", "a": "Libya", "d": ["Tunisia", "Egypt", "Algeria"] },
+    { "p": "TN", "a": "Tunisia", "d": ["Algeria", "Libya", "Morocco"] },
+    { "p": "DZ", "a": "Algeria", "d": ["Morocco", "Tunisia", "Libya"] },
+    { "p": "MA", "a": "Morocco", "d": ["Algeria", "Tunisia", "Libya"] },
+    { "p": "SD", "a": "Sudan", "d": ["Egypt", "Saudi Arabia", "Yemen"] }
+  ]
+}

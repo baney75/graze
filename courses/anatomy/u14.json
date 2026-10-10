@@ -1,0 +1,56 @@
+{
+  "title": "The digestive system and metabolism",
+  "note": "Digestion breaks food into absorbable units: starch into monosaccharides, proteins into amino acids, and triglycerides into fatty acids and monoglycerides. Most digestion and absorption happen in the small intestine, driven by pancreatic enzymes and bile. Cells then oxidize glucose through glycolysis, the Krebs cycle, and the electron transport chain.",
+  "src": { "t": "OpenStax A&P 2e, 23.7 Chemical Digestion and Absorption", "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-7-chemical-digestion-and-absorption-a-closer-look" },
+  "items": [
+    { "c": "GI wall layers, lumen outward", "a": "Mucosa, submucosa, muscularis, serosa", "d": ["Serosa, muscularis, submucosa, mucosa", "Mucosa, muscularis, submucosa, serosa"] },
+    { "c": "Peristalsis", "a": "Waves of contraction that push food along", "d": ["Back-and-forth mixing within one segment", "Chemical breakdown by enzymes"] },
+    { "c": "Enzyme that starts starch digestion in the mouth", "a": "Salivary amylase", "d": ["Pepsin", "Pancreatic lipase"] },
+    { "c": "Parietal cells secrete", "a": "HCl and intrinsic factor", "d": ["Pepsinogen", "Gastrin"] },
+    { "c": "Chief cells secrete", "a": "Pepsinogen", "d": ["Hydrochloric acid", "Gastrin"] },
+    { "c": "Stomach hormone that boosts acid secretion", "a": "Gastrin", "d": ["Secretin", "Cholecystokinin"] },
+    { "c": "pH of gastric juice", "a": "About 1.5 to 3.5", "d": ["About 6 to 7", "About 8 to 9"] },
+    { "c": "Chyme", "a": "Semi-liquid mix of food and digestive juices", "d": ["Mucus coating the stomach wall", "Bile stored in the gallbladder"] },
+    { "c": "Small intestine segments, in order", "a": "Duodenum, jejunum, ileum", "d": ["Jejunum, duodenum, ileum", "Duodenum, ileum, jejunum"] },
+    { "c": "Longest part of the small intestine", "a": "Ileum", "d": ["Jejunum", "Duodenum"] },
+    { "c": "Microvilli of the intestinal brush border", "a": "Cell projections bearing digestive enzymes", "d": ["Folds of the mucosa and submucosa", "Glands between the villi"] },
+    { "c": "Duodenal (Brunner) glands", "a": "Secrete alkaline mucus to buffer acid chyme", "d": ["Secrete pepsinogen into the lumen", "Absorb fats into lymph"] },
+    { "c": "Duodenal hormone released by acid chyme", "a": "Secretin", "d": ["Gastrin", "Motilin"], "ex": "Secretin triggers bicarbonate-rich pancreatic juice." },
+    { "c": "Cholecystokinin (CCK)", "a": "Triggers bile release and pancreatic enzyme secretion", "d": ["Triggers stomach acid secretion", "Slows bile flow into the duodenum"] },
+    { "c": "Bile salts", "a": "Emulsify fats into small droplets", "d": ["Split triglycerides into fatty acids", "Activate trypsinogen"] },
+    { "c": "Gallbladder", "a": "Stores and concentrates bile", "d": ["Makes bile", "Makes digestive enzymes"] },
+    { "c": "Hepatic portal vein", "a": "Carries blood from the intestines to the liver", "d": ["Carries blood from the liver to the heart", "Carries bile to the duodenum"] },
+    { "c": "Kupffer cells", "a": "Phagocytes lining liver sinusoids", "d": ["Cells that make bile", "Cells that secrete insulin"] },
+    { "c": "Enzyme that activates trypsinogen", "a": "Enteropeptidase", "d": ["Pepsin", "Chymotrypsin"] },
+    { "c": "Main fat-digesting enzyme", "a": "Pancreatic lipase", "d": ["Lingual lipase", "Gastric lipase"] },
+    { "c": "Lactase splits lactose into", "a": "Glucose and galactose", "d": ["Glucose and fructose", "Two glucose molecules"] },
+    { "c": "How glucose is absorbed by enterocytes", "a": "Secondary active transport with Na+", "d": ["Facilitated diffusion alone", "Simple diffusion"] },
+    { "c": "Chylomicrons first enter", "a": "Lacteals of the lymphatic system", "d": ["The hepatic portal vein", "Intestinal blood capillaries"] },
+    { "c": "Vitamin B12 absorption requires", "a": "Intrinsic factor", "d": ["Bile salts", "Secretin"], "ex": "The B12–intrinsic factor complex is absorbed in the terminal ileum." },
+    { "c": "Main job of the large intestine", "a": "Absorbing water and forming feces", "d": ["Digesting most protein", "Absorbing most nutrients"] },
+    { "c": "External anal sphincter", "a": "Voluntary skeletal muscle", "d": ["Involuntary smooth muscle", "Involuntary cardiac muscle"] },
+    { "c": "Catabolism", "a": "Breaking molecules down, releasing energy", "d": ["Building molecules up, using energy", "Storing glucose as fat"] },
+    { "c": "Where glycolysis occurs", "a": "Cytoplasm", "d": ["Mitochondrial matrix", "Inner mitochondrial membrane"] },
+    { "c": "Net yield of glycolysis per glucose", "a": "2 pyruvate, 2 NADH, 2 ATP", "d": ["2 acetyl CoA, 2 FADH2, 4 ATP", "1 pyruvate, 1 NADH, 36 ATP"] },
+    { "c": "Fate of pyruvate without oxygen", "a": "Converted to lactate", "d": ["Enters the Krebs cycle", "Converted to acetyl CoA"] },
+    { "c": "Where the Krebs cycle occurs", "a": "Mitochondrial matrix", "d": ["Cytoplasm", "Outer mitochondrial membrane"] },
+    { "c": "Final electron acceptor in cellular respiration", "a": "Oxygen", "d": ["NAD+", "Pyruvate"] },
+    { "c": "Gluconeogenesis", "a": "Making new glucose from noncarbohydrate sources", "d": ["Breaking glycogen into glucose", "Storing glucose as glycogen"] },
+    { "c": "Beta-oxidation", "a": "Breaking fatty acids into acetyl CoA", "d": ["Building fatty acids from acetyl CoA", "Breaking glucose into pyruvate"] },
+    { "c": "Ketone bodies are made in", "a": "Liver mitochondria", "d": ["Adipose cell cytoplasm", "Skeletal muscle"] }
+  ],
+  "read": {
+    "title": "The long road of a fat molecule",
+    "text": [
+      "Fat is the hardest nutrient to digest because it does not mix with water. Lipases in the mouth and stomach begin the work, but nearly all fat digestion happens in the small intestine.",
+      "When fatty chyme enters the duodenum, the intestinal wall releases cholecystokinin (CCK). CCK prompts the pancreas to secrete enzyme-rich juice and sends bile, made by the liver and concentrated in the gallbladder, into the duodenum. Bile salts act like a detergent: they break large fat globules into tiny droplets. This emulsification splits no molecules, but it greatly increases the surface area that pancreatic lipase can attack. Lipase then cleaves triglycerides into free fatty acids and monoglycerides.",
+      "These products ride to the brush border inside micelles, tiny clusters of bile salts whose water-friendly surfaces let them move through watery chyme. The lipids slip into the absorptive cells, where they are rebuilt into triglycerides and packaged with protein into chylomicrons.",
+      "Chylomicrons are too large to enter blood capillaries. Instead they pass into the lacteal at the center of each villus, travel through lymphatic vessels, and reach the blood through the thoracic duct. Sugars and amino acids take a different route: they enter blood capillaries and travel first to the liver through the hepatic portal vein."
+    ],
+    "q": [
+      { "q": "What does emulsification by bile salts accomplish?", "o": ["It splits triglycerides into fatty acids", "It increases the surface area for lipase", "It carries fat into the blood"], "k": 1 },
+      { "q": "Why do chylomicrons enter lacteals instead of blood capillaries?", "o": ["They are too large for blood capillaries", "Lacteals contain lipase", "Blood capillaries are closed after meals"], "k": 0 },
+      { "q": "Which hormone triggers bile and pancreatic enzyme release after a fatty meal?", "o": ["Secretin", "Gastrin", "Cholecystokinin (CCK)"], "k": 2 }
+    ]
+  }
+}

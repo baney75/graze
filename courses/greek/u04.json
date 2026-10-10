@@ -1,0 +1,382 @@
+{
+  "title": "Second declension: masculine nouns",
+  "note": "Most second-declension nouns end in -ος and are masculine. λόγος: singular λόγος, λόγου, λόγῳ, λόγον, vocative λόγε; plural λόγοι, λόγων, λόγοις, λόγους. Dictionaries give the nominative, the genitive ending and the article: λόγος, -ου, ὁ. A long final syllable (-ου, -ῳ, -ων, -οις, -ους) can pull the accent forward: ἄνθρωπος, ἀνθρώπου.",
+  "src": {
+    "t": "Dickinson College Commentaries, Greek Core Vocabulary",
+    "u": "https://dcc.dickinson.edu/greek-core-list"
+  },
+  "items": [
+    {
+      "c": "λόγος, -ου, ὁ",
+      "a": "word, speech, reason",
+      "d": [
+        "law, custom",
+        "name, fame"
+      ],
+      "ex": "ὁ λόγος τοῦ θεοῦ",
+      "exT": "the word of God",
+      "r": "logos",
+      "say": "λόγος"
+    },
+    {
+      "c": "θεός, -οῦ, ὁ",
+      "a": "god, God",
+      "d": [
+        "lord, master",
+        "heaven, sky"
+      ],
+      "ex": "ὁ λαὸς τοῦ θεοῦ",
+      "exT": "the people of God",
+      "r": "theos",
+      "say": "θεός"
+    },
+    {
+      "c": "ἄνθρωπος, -ου, ὁ",
+      "a": "human being, man",
+      "d": [
+        "brother",
+        "servant"
+      ],
+      "ex": "ὁ υἱὸς τοῦ ἀνθρώπου",
+      "exT": "the Son of Man",
+      "r": "anthrōpos",
+      "say": "ἄνθρωπος"
+    },
+    {
+      "c": "κύριος, -ου, ὁ",
+      "a": "lord, master",
+      "d": [
+        "slave, servant",
+        "king"
+      ],
+      "r": "kyrios",
+      "say": "κύριος",
+      "ex": "ὁ κύριος τοῦ οἴκου",
+      "exT": "the master of the house"
+    },
+    {
+      "c": "υἱός, -οῦ, ὁ",
+      "a": "son",
+      "d": [
+        "brother",
+        "father"
+      ],
+      "r": "huios",
+      "say": "υἱός",
+      "ex": "ὁ υἱὸς τοῦ θεοῦ",
+      "exT": "the Son of God"
+    },
+    {
+      "c": "ἀδελφός, -οῦ, ὁ",
+      "a": "brother",
+      "d": [
+        "son",
+        "friend"
+      ],
+      "ex": "ὁ ἀδελφὸς τοῦ Πέτρου",
+      "exT": "Peter's brother",
+      "r": "adelphos",
+      "say": "ἀδελφός"
+    },
+    {
+      "c": "οὐρανός, -οῦ, ὁ",
+      "a": "heaven, sky",
+      "d": [
+        "earth, land",
+        "world, order"
+      ],
+      "ex": "ἐν τοῖς οὐρανοῖς",
+      "exT": "in the heavens",
+      "r": "ouranos",
+      "say": "οὐρανός"
+    },
+    {
+      "c": "κόσμος, -ου, ὁ",
+      "a": "world; order, adornment",
+      "d": [
+        "heaven, sky",
+        "people, nation"
+      ],
+      "ex": "τὸ φῶς τοῦ κόσμου",
+      "exT": "the light of the world",
+      "r": "kosmos",
+      "say": "κόσμος"
+    },
+    {
+      "c": "νόμος, -ου, ὁ",
+      "a": "law, custom",
+      "d": [
+        "word, speech",
+        "place"
+      ],
+      "ex": "ὁ νόμος καὶ οἱ προφῆται",
+      "exT": "the law and the prophets",
+      "r": "nomos",
+      "say": "νόμος"
+    },
+    {
+      "c": "οἶκος, -ου, ὁ",
+      "a": "house, household",
+      "d": [
+        "road, way",
+        "field"
+      ],
+      "ex": "ὁ οἶκος τοῦ θεοῦ",
+      "exT": "the house of God",
+      "r": "oikos",
+      "say": "οἶκος"
+    },
+    {
+      "c": "λαός, -οῦ, ὁ",
+      "a": "people",
+      "d": [
+        "crowd",
+        "army"
+      ],
+      "r": "laos",
+      "say": "λαός"
+    },
+    {
+      "c": "ὄχλος, -ου, ὁ",
+      "a": "crowd",
+      "d": [
+        "people, nation",
+        "village"
+      ],
+      "r": "ochlos",
+      "say": "ὄχλος"
+    },
+    {
+      "c": "θάνατος, -ου, ὁ",
+      "a": "death",
+      "d": [
+        "life",
+        "sin"
+      ],
+      "r": "thanatos",
+      "say": "θάνατος",
+      "ex": "ὁ θάνατος καὶ ἡ ζωή",
+      "exT": "death and life"
+    },
+    {
+      "c": "ἄγγελος, -ου, ὁ",
+      "a": "messenger, angel",
+      "d": [
+        "apostle",
+        "prophet"
+      ],
+      "r": "angelos",
+      "say": "ἄγγελος",
+      "ex": "ἄγγελος κυρίου",
+      "exT": "an angel of the Lord"
+    },
+    {
+      "c": "δοῦλος, -ου, ὁ",
+      "a": "slave, servant",
+      "d": [
+        "lord, master",
+        "friend"
+      ],
+      "ex": "Παῦλος δοῦλος Χριστοῦ Ἰησοῦ",
+      "exT": "Paul, a slave of Christ Jesus",
+      "r": "doulos",
+      "say": "δοῦλος"
+    },
+    {
+      "c": "χρόνος, -ου, ὁ",
+      "a": "time",
+      "d": [
+        "place",
+        "day"
+      ],
+      "r": "chronos",
+      "say": "χρόνος",
+      "ex": "πολὺν χρόνον",
+      "exT": "for a long time"
+    },
+    {
+      "c": "τόπος, -ου, ὁ",
+      "a": "place",
+      "d": [
+        "time",
+        "road"
+      ],
+      "r": "topos",
+      "say": "τόπος"
+    },
+    {
+      "c": "ἀπόστολος, -ου, ὁ",
+      "a": "apostle, envoy",
+      "d": [
+        "messenger, angel",
+        "disciple"
+      ],
+      "r": "apostolos",
+      "say": "ἀπόστολος",
+      "ex": "Παῦλος ἀπόστολος",
+      "exT": "Paul, an apostle"
+    },
+    {
+      "c": "Χριστός, -οῦ, ὁ",
+      "a": "Christ, the Anointed One",
+      "d": [
+        "the Lord's servant",
+        "the Holy One"
+      ],
+      "r": "Christos",
+      "say": "Χριστός",
+      "ex": "Ἰησοῦς Χριστός",
+      "exT": "Jesus Christ"
+    },
+    {
+      "c": "ἄρτος, -ου, ὁ",
+      "a": "bread, loaf",
+      "d": [
+        "wine",
+        "fish"
+      ],
+      "ex": "ὁ ἄρτος τῆς ζωῆς",
+      "exT": "the bread of life",
+      "r": "artos",
+      "say": "ἄρτος"
+    },
+    {
+      "c": "ὀφθαλμός, -οῦ, ὁ",
+      "a": "eye",
+      "d": [
+        "ear",
+        "hand"
+      ],
+      "ex": "ὀφθαλμὸν ἀντὶ ὀφθαλμοῦ",
+      "exT": "an eye for an eye",
+      "r": "ophthalmos",
+      "say": "ὀφθαλμός"
+    },
+    {
+      "c": "λίθος, -ου, ὁ",
+      "a": "stone",
+      "d": [
+        "bread",
+        "tree"
+      ],
+      "r": "lithos",
+      "say": "λίθος"
+    },
+    {
+      "c": "ἵππος, -ου, ὁ",
+      "a": "horse",
+      "d": [
+        "sheep",
+        "dog"
+      ],
+      "r": "hippos",
+      "say": "ἵππος"
+    },
+    {
+      "c": "φίλος, -ου, ὁ",
+      "a": "friend",
+      "d": [
+        "enemy",
+        "brother"
+      ],
+      "r": "philos",
+      "say": "φίλος",
+      "ex": "φίλος τοῦ Ἰησοῦ",
+      "exT": "a friend of Jesus"
+    },
+    {
+      "c": "ἥλιος, -ου, ὁ",
+      "a": "sun",
+      "d": [
+        "moon",
+        "star"
+      ],
+      "r": "hēlios",
+      "say": "ἥλιος",
+      "ex": "ὁ ἥλιος καὶ ἡ σελήνη",
+      "exT": "the sun and the moon"
+    },
+    {
+      "c": "πόλεμος, -ου, ὁ",
+      "a": "war",
+      "d": [
+        "city",
+        "peace"
+      ],
+      "r": "polemos",
+      "say": "πόλεμος"
+    },
+    {
+      "c": "ὁ υἱὸς τοῦ ___ (the son of the man; ἄνθρωπος)",
+      "a": "ἀνθρώπου",
+      "d": [
+        "ἄνθρωπον",
+        "ἀνθρώπῳ"
+      ]
+    },
+    {
+      "c": "οἱ ___ τοῦ κυρίου (the lord's slaves; δοῦλος)",
+      "a": "δοῦλοι",
+      "d": [
+        "δούλους",
+        "δούλων"
+      ]
+    },
+    {
+      "c": "ἐν τῷ ___ (in the world; κόσμος)",
+      "a": "κόσμῳ",
+      "d": [
+        "κόσμον",
+        "κόσμου"
+      ]
+    },
+    {
+      "c": "βλέπω τὸν ___. (I see the stone; λίθος)",
+      "a": "λίθον",
+      "d": [
+        "λίθος",
+        "λίθου"
+      ]
+    },
+    {
+      "c": "τοῖς ___ (to the brothers; ἀδελφός)",
+      "a": "ἀδελφοῖς",
+      "d": [
+        "ἀδελφούς",
+        "ἀδελφῶν"
+      ]
+    },
+    {
+      "c": "___, ἐλέησον. (Lord, have mercy; κύριος)",
+      "a": "Κύριε",
+      "d": [
+        "Κύριος",
+        "Κυρίου"
+      ]
+    },
+    {
+      "c": "genitive plural of λόγος",
+      "a": "λόγων",
+      "d": [
+        "λόγοις",
+        "λόγους"
+      ]
+    },
+    {
+      "c": "dative singular of θεός",
+      "a": "θεῷ",
+      "d": [
+        "θεοῦ",
+        "θεόν"
+      ]
+    },
+    {
+      "c": "accusative plural of ἄνθρωπος",
+      "a": "ἀνθρώπους",
+      "d": [
+        "ἄνθρωποι",
+        "ἀνθρώπων"
+      ]
+    }
+  ]
+}

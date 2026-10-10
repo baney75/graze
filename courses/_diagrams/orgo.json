@@ -1,0 +1,189 @@
+[
+ {
+  "title": "Functional groups",
+  "kind": "diagram",
+  "dg": "fg",
+  "note": "A functional group is the part of a molecule that sets how it reacts. In these skeletal drawings each corner or line end is a carbon carrying enough hydrogens to make four bonds; only heteroatoms and their hydrogens are written.",
+  "src": {
+   "t": "OpenStax Organic Chemistry, 3.1 Functional Groups",
+   "u": "https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups"
+  },
+  "items": [
+   {
+    "p": "alkene",
+    "a": "Alkene",
+    "d": [
+     "Alkyne",
+     "Arene"
+    ],
+    "ex": "A carbon-carbon double bond, R₂C=CR₂; names end in -ene."
+   },
+   {
+    "p": "alkyne",
+    "a": "Alkyne",
+    "d": [
+     "Alkene",
+     "Nitrile"
+    ],
+    "ex": "A carbon-carbon triple bond, RC≡CR, linear at each sp carbon; names end in -yne."
+   },
+   {
+    "p": "arene",
+    "a": "Arene",
+    "d": [
+     "Alkene",
+     "Alkyne"
+    ],
+    "ex": "An aromatic benzene-type ring: six carbons drawn with alternating double bonds."
+   },
+   {
+    "p": "alkyl halide",
+    "a": "Alkyl halide",
+    "d": [
+     "Acyl chloride",
+     "Alcohol",
+     "Thiol"
+    ],
+    "ex": "R–X, a halogen (F, Cl, Br, or I) bonded to an sp³ carbon."
+   },
+   {
+    "p": "alcohol",
+    "a": "Alcohol",
+    "d": [
+     "Ether",
+     "Thiol",
+     "Carboxylic acid"
+    ],
+    "ex": "R–OH, a hydroxyl group on an sp³ carbon; names end in -ol."
+   },
+   {
+    "p": "ether",
+    "a": "Ether",
+    "d": [
+     "Alcohol",
+     "Ester",
+     "Epoxide"
+    ],
+    "ex": "R–O–R′, one oxygen bonded to two carbons."
+   },
+   {
+    "p": "thiol",
+    "a": "Thiol",
+    "d": [
+     "Alcohol",
+     "Amine",
+     "Alkyl halide"
+    ],
+    "ex": "R–SH, the sulfur analog of an alcohol; names end in -thiol."
+   },
+   {
+    "p": "amine",
+    "a": "Amine",
+    "d": [
+     "Amide",
+     "Imine",
+     "Alcohol"
+    ],
+    "ex": "RNH₂, R₂NH, or R₃N: nitrogen single-bonded to carbon, with no carbonyl attached."
+   },
+   {
+    "p": "aldehyde",
+    "a": "Aldehyde",
+    "d": [
+     "Ketone",
+     "Carboxylic acid"
+    ],
+    "ex": "RCHO, a carbonyl carbon bonded to at least one hydrogen; names end in -al."
+   },
+   {
+    "p": "ketone",
+    "a": "Ketone",
+    "d": [
+     "Aldehyde",
+     "Ester"
+    ],
+    "ex": "RCOR′, a carbonyl carbon bonded to two carbons; names end in -one."
+   },
+   {
+    "p": "carboxylic acid",
+    "a": "Carboxylic acid",
+    "d": [
+     "Ester",
+     "Aldehyde",
+     "Alcohol"
+    ],
+    "ex": "RCOOH, a carbonyl bonded to a hydroxyl group; names end in -oic acid."
+   },
+   {
+    "p": "ester",
+    "a": "Ester",
+    "d": [
+     "Ether",
+     "Carboxylic acid",
+     "Acid anhydride"
+    ],
+    "ex": "RCOOR′, a carbonyl bonded to an oxygen that carries a carbon; names end in -oate."
+   },
+   {
+    "p": "amide",
+    "a": "Amide",
+    "d": [
+     "Amine",
+     "Imine",
+     "Ester"
+    ],
+    "ex": "RCONR₂, a carbonyl bonded to nitrogen; names end in -amide."
+   },
+   {
+    "p": "acyl chloride",
+    "a": "Acyl chloride",
+    "d": [
+     "Alkyl halide",
+     "Amide",
+     "Carboxylic acid"
+    ],
+    "ex": "RCOCl, a carbonyl bonded to chlorine; names end in -oyl chloride."
+   },
+   {
+    "p": "acid anhydride",
+    "a": "Acid anhydride",
+    "d": [
+     "Ester",
+     "Ether",
+     "Carboxylic acid"
+    ],
+    "ex": "RCO–O–COR′, two acyl groups sharing one oxygen; names end in -oic anhydride."
+   },
+   {
+    "p": "nitrile",
+    "a": "Nitrile",
+    "d": [
+     "Alkyne",
+     "Imine",
+     "Amine"
+    ],
+    "ex": "R–C≡N, a carbon triple-bonded to nitrogen; names end in -nitrile."
+   },
+   {
+    "p": "epoxide",
+    "a": "Epoxide",
+    "d": [
+     "Ether",
+     "Alcohol",
+     "Ketone"
+    ],
+    "ex": "A strained three-membered ring of two carbons and one oxygen: a cyclic ether."
+   },
+   {
+    "p": "imine",
+    "a": "Imine",
+    "d": [
+     "Amine",
+     "Nitrile",
+     "Amide"
+    ],
+    "ex": "R₂C=NR, a carbon-nitrogen double bond, also called a Schiff base."
+   }
+  ]
+ }
+]

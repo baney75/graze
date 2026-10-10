@@ -1,0 +1,209 @@
+{
+  "title": "Lincoln, the Gettysburg Address",
+  "note": "Lincoln spoke these words on November 19, 1863, at the dedication of a soldiers' cemetery at Gettysburg, Pennsylvania, four and a half months after the battle. Read aloud, the whole address takes about two minutes.",
+  "src": {
+    "t": "Lincoln's Gettysburg Address, Project Gutenberg eBook #4",
+    "u": "https://www.gutenberg.org/ebooks/4"
+  },
+  "items": [
+    {
+      "c": "Four score and seven years",
+      "a": "eighty-seven years",
+      "d": [
+        "forty-seven years",
+        "seventy-four years",
+        "one hundred seven years"
+      ],
+      "ex": "A score is twenty, so four score is eighty."
+    },
+    {
+      "c": "1863 minus 'four score and seven' years",
+      "a": "1776, the year of the Declaration",
+      "d": [
+        "1787, the year of the Constitution",
+        "1789, Washington's first inauguration"
+      ]
+    },
+    {
+      "c": "conceived in liberty",
+      "a": "brought into being as a free nation",
+      "d": [
+        "captured in a war for freedom",
+        "imagined but never made real"
+      ]
+    },
+    {
+      "c": "dedicated to the proposition",
+      "a": "committed to the principle",
+      "d": [
+        "opposed to the claim",
+        "unsure about the idea"
+      ]
+    },
+    {
+      "c": "consecrate (Gettysburg)",
+      "a": "make sacred",
+      "d": [
+        "make larger",
+        "make legal"
+      ]
+    },
+    {
+      "c": "hallow (Gettysburg)",
+      "a": "honor as holy",
+      "d": [
+        "dig up and move",
+        "leave empty"
+      ]
+    },
+    {
+      "c": "detract (Gettysburg)",
+      "a": "take away from",
+      "d": [
+        "add to",
+        "point toward"
+      ]
+    },
+    {
+      "c": "'The world will little note, nor long remember'",
+      "a": "people will soon forget what is said here",
+      "d": [
+        "people will soon forget the battle",
+        "people will soon forget the war"
+      ]
+    },
+    {
+      "c": "the last full measure of devotion",
+      "a": "giving one's life",
+      "d": [
+        "one last day of battle",
+        "a final vote in Congress"
+      ]
+    },
+    {
+      "c": "shall not have died in vain",
+      "a": "will not have died for nothing",
+      "d": [
+        "will not have died unknown",
+        "will not have died in defeat"
+      ]
+    },
+    {
+      "c": "a new birth of freedom",
+      "a": "a fresh start for liberty in the nation",
+      "d": [
+        "a new state admitted to the Union",
+        "the founding of a new capital"
+      ]
+    },
+    {
+      "c": "the unfinished work (Gettysburg)",
+      "a": "preserving the nation and its freedom",
+      "d": [
+        "building the cemetery walls",
+        "writing a new constitution"
+      ]
+    },
+    {
+      "c": "of the people, by the people, for the people",
+      "a": "self-government by ordinary citizens",
+      "d": [
+        "rule by an elected king",
+        "government by a few experts"
+      ]
+    },
+    {
+      "c": "'all men are created equal' at Gettysburg echoes",
+      "a": "the Declaration of Independence",
+      "d": [
+        "the Constitution's preamble",
+        "the Emancipation Proclamation",
+        "the Bill of Rights"
+      ]
+    },
+    {
+      "c": "Date of the Gettysburg Address",
+      "a": "November 19, 1863",
+      "d": [
+        "July 4, 1863",
+        "April 9, 1865",
+        "March 4, 1861"
+      ]
+    },
+    {
+      "c": "Occasion of the Gettysburg Address",
+      "a": "dedication of a soldiers' cemetery",
+      "d": [
+        "Lincoln's second inauguration",
+        "a Union victory parade"
+      ]
+    },
+    {
+      "c": "Main orator before Lincoln at Gettysburg",
+      "a": "Edward Everett",
+      "d": [
+        "Frederick Douglass",
+        "Stephen Douglas",
+        "William Seward"
+      ],
+      "ex": "Everett spoke for about two hours; Lincoln for about two minutes."
+    },
+    {
+      "c": "When the Battle of Gettysburg was fought",
+      "a": "July 1 to 3, 1863",
+      "d": [
+        "November 1863",
+        "April 1861",
+        "May 1864"
+      ]
+    },
+    {
+      "c": "Approximate length of the Gettysburg Address",
+      "a": "about 270 words",
+      "d": [
+        "about 1,300 words",
+        "about 2,700 words",
+        "about 90 words"
+      ]
+    }
+  ],
+  "read": {
+    "title": "The Gettysburg Address (1863)",
+    "text": [
+      "Four score and seven years ago, our fathers brought forth upon this continent a new nation: conceived in liberty, and dedicated to the proposition that all men are created equal.",
+      "Now we are engaged in a great civil war. . .testing whether that nation, or any nation so conceived and so dedicated. . . can long endure. We are met on a great battlefield of that war.",
+      "We have come to dedicate a portion of that field as a final resting place for those who here gave their lives that this nation might live. It is altogether fitting and proper that we should do this.",
+      "But, in a larger sense, we cannot dedicate. . .we cannot consecrate. . . we cannot hallow this ground. The brave men, living and dead, who struggled here have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember, what we say here, but it can never forget what they did here.",
+      "It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us. . .that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion. . . that we here highly resolve that these dead shall not have died in vain. . . that this nation, under God, shall have a new birth of freedom. . . and that government of the people. . .by the people. . .for the people. . . shall not perish from this earth."
+    ],
+    "q": [
+      {
+        "q": "What is Lincoln's main point?",
+        "o": [
+          "The living must finish the work the dead began, so that the nation and its freedom endure",
+          "The cemetery is too small to honor all the soldiers",
+          "The war is won, and the nation can now rest"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why does Lincoln say 'we cannot dedicate' the ground?",
+        "o": [
+          "The soldiers' sacrifice has already made it sacred",
+          "The ground still belongs to the Confederacy",
+          "The ceremony had been canceled"
+        ],
+        "k": 0
+      },
+      {
+        "q": "In context, 'testing whether that nation... can long endure' means:",
+        "o": [
+          "seeing whether a nation founded on liberty and equality can survive",
+          "measuring how long the battle will last",
+          "asking whether soldiers can survive the winter"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

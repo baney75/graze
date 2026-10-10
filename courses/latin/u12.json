@@ -1,0 +1,56 @@
+{
+  "title": "Third and fourth conjugations",
+  "note": "Third-conjugation verbs end in -ere with a short e (ducere): duco, ducis, ducit, ducimus, ducitis, ducunt. Fourth-conjugation verbs end in -ire: audio, audis, audit, audimus, auditis, audiunt. Some third-conjugation verbs keep an i like the fourth: capio, capis, capit, capimus, capitis, capiunt (also facio, fugio).",
+  "src": { "t": "Allen and Greenough, The Four Conjugations", "u": "https://dcc.dickinson.edu/grammar/latin/four-conjugations" },
+  "items": [
+    { "c": "dicere", "a": "to say", "d": ["to lead", "to teach"], "ex": "Veritatem dico.", "exT": "I am telling the truth." },
+    { "c": "facere", "a": "to make, to do", "d": ["to take, to seize", "to say, to tell"] },
+    { "c": "venire", "a": "to come", "d": ["to sell", "to see"] },
+    { "c": "scribere", "a": "to write", "d": ["to read", "to send"], "ex": "Epistulam scribo.", "exT": "I am writing a letter." },
+    { "c": "legere", "a": "to read, to choose", "d": ["to write, to draw", "to send, to let go"] },
+    { "c": "audire", "a": "to hear", "d": ["to dare", "to see"] },
+    { "c": "ducere", "a": "to lead", "d": ["to say", "to teach"], "ex": "Dux milites ducit.", "exT": "The general leads the soldiers." },
+    { "c": "capere", "a": "to take, to seize", "d": ["to make, to do", "to fall, to die"] },
+    { "c": "vincere", "a": "to conquer", "d": ["to bind", "to live"] },
+    { "c": "vivere", "a": "to live", "d": ["to see", "to conquer"] },
+    { "c": "currere", "a": "to run", "d": ["to care for", "to walk"] },
+    { "c": "credere", "a": "to believe, to trust", "d": ["to create, to make", "to grow, to increase"], "ex": "Tibi credo.", "exT": "I believe you." },
+    { "c": "mittere", "a": "to send", "d": ["to put", "to lose"] },
+    { "c": "ponere", "a": "to put, place", "d": ["to send", "to carry"] },
+    { "c": "agere", "a": "to drive; to act", "d": ["to carry", "to seek"] },
+    { "c": "quaerere", "a": "to seek, ask", "d": ["to find", "to complain"] },
+    { "c": "discere", "a": "to learn", "d": ["to teach", "to depart"], "ex": "Linguam Latinam disco.", "exT": "I am learning Latin." },
+    { "c": "regere", "a": "to rule", "d": ["to return", "to read"] },
+    { "c": "cadere", "a": "to fall", "d": ["to cut", "to run"] },
+    { "c": "fugere", "a": "to flee", "d": ["to put to flight", "to fight"] },
+    { "c": "accipere", "a": "to receive, accept", "d": ["to send away", "to begin"] },
+    { "c": "cupere", "a": "to desire, want", "d": ["to seize", "to fear"] },
+    { "c": "scire", "a": "to know", "d": ["to write", "to think"] },
+    { "c": "dormire", "a": "to sleep", "d": ["to dream", "to lie down"] },
+    { "c": "sentire", "a": "to feel, perceive", "d": ["to send", "to sit"] },
+    { "c": "invenire", "a": "to find, come upon", "d": ["to come in", "to lose"] },
+    { "c": "aperire", "a": "to open", "d": ["to close", "to appear"] },
+    { "c": "servire", "a": "to serve, be a slave to", "d": ["to save, keep", "to observe"] },
+    { "c": "Magister ___. (dicere)", "a": "dicit", "d": ["dicet", "dicunt"], "ex": "Magister dicit.", "exT": "The teacher speaks." },
+    { "c": "Quid ___? (facere, you singular)", "a": "facis", "d": ["facit", "facio"], "ex": "Quid facis?", "exT": "What are you doing?" },
+    { "c": "Pueri ___. (currere)", "a": "currunt", "d": ["currit", "currint"], "ex": "Pueri currunt.", "exT": "The boys are running." },
+    { "c": "Ego te ___. (audire)", "a": "audio", "d": ["audit", "audis"], "ex": "Ego te audio.", "exT": "I hear you." },
+    { "c": "Nos epistulam ___. (scribere)", "a": "scribimus", "d": ["scribemus", "scribunt"], "ex": "Nos epistulam scribimus.", "exT": "We are writing a letter." },
+    { "c": "Milites ___. (venire)", "a": "veniunt", "d": ["venunt", "venit"], "ex": "Milites veniunt.", "exT": "The soldiers are coming." },
+    { "c": "Hostes ___. (fugere)", "a": "fugiunt", "d": ["fugunt", "fugit"], "ex": "Hostes fugiunt.", "exT": "The enemy flee." }
+  ],
+  "read": {
+    "title": "Nuntius",
+    "text": [
+      "Nuntius in villam currit et clamat: \"Hostes veniunt!\" Agricola nuntium audit, sed non credit.",
+      "Tum filius agricolae epistulam legit. In epistula dux scribit: \"Milites mitto. Servi et agricolae fugere debent.\"",
+      "Nunc agricola credit. Familia aurum et arma capit et in silvam fugit. In silva familia dormit, sed timet.",
+      "Postea milites veniunt et hostes vincunt. Tum familia laeta in villam venit."
+    ],
+    "q": [
+      { "q": "What does the messenger shout?", "o": ["The enemy is coming!", "The soldiers are leaving!", "The farmhouse is on fire!"], "k": 0 },
+      { "q": "Who wrote the letter?", "o": ["The messenger", "The general", "The farmer's son"], "k": 1 },
+      { "q": "Where does the family flee?", "o": ["Into the town", "To the sea", "Into the forest"], "k": 2 }
+    ]
+  }
+}

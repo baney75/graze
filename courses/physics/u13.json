@@ -1,0 +1,50 @@
+{
+  "title": "Magnetism and induction",
+  "note": "Magnetic fields come from moving charges and exert forces only on moving charges, at right angles to both the velocity and the field. A changing magnetic flux through a loop induces an emf (Faraday's law), and the induced current opposes the change that caused it (Lenz's law).",
+  "src": { "t": "College Physics 2e, Ch. 22 Magnetism", "u": "https://openstax.org/books/college-physics-2e/pages/22-introduction-to-magnetism" },
+  "items": [
+    { "c": "Two like magnetic poles", "a": "repel", "d": ["attract", "do not interact"] },
+    { "c": "Field lines outside a bar magnet run", "a": "from the north pole to the south pole", "d": ["from the south pole to the north pole", "in circles around the middle"] },
+    { "c": "Ultimate source of magnetic fields", "a": "moving electric charges", "d": ["stationary electric charges", "magnetic monopoles", "gravitational fields"] },
+    { "c": "Common ferromagnetic material", "a": "iron", "d": ["copper", "aluminum", "glass"] },
+    { "c": "SI unit of magnetic field", "a": "tesla (T)", "d": ["weber (Wb)", "henry (H)", "farad (F)"] },
+    { "c": "Strength of Earth's field at the surface", "a": "about 5 × 10⁻⁵ T", "d": ["about 5 T", "about 5 × 10⁻¹² T", "about 0.5 T"] },
+    { "c": "Magnetic force on a moving charge", "a": "F = qvB sin θ", "d": ["F = qvB cos θ", "F = qB/v", "F = qE"] },
+    { "c": "Direction of magnetic force on a moving charge", "a": "perpendicular to both v and B", "d": ["parallel to B", "parallel to v", "opposite to v"] },
+    { "c": "Work done by a magnetic force on a free charge", "a": "zero, so its speed is unchanged", "d": ["qvB times the distance", "always negative, so it slows"] },
+    { "c": "Radius of a charge's circle in a uniform B", "a": "r = mv/(qB)", "d": ["r = qB/(mv)", "r = mvqB", "r = mv²/(qB)"] },
+    { "c": "Force on a current-carrying wire in B", "a": "F = ILB sin θ", "d": ["F = IL/B", "F = I²LB", "F = ILB cos θ"] },
+    { "c": "Field of a long straight wire", "a": "B = μ₀I/(2πr)", "d": ["B = μ₀I/(2πr²)", "B = μ₀Ir/2π", "B = μ₀nI"] },
+    { "c": "Permeability of free space μ₀", "a": "4π × 10⁻⁷ T·m/A", "d": ["8.85 × 10⁻¹² T·m/A", "4π × 10⁷ T·m/A", "6.67 × 10⁻¹¹ T·m/A"] },
+    { "c": "Right-hand rule for a straight wire", "a": "thumb along current, fingers curl along B", "d": ["fingers along current, thumb along B", "thumb along B, fingers point outward"] },
+    { "c": "Field inside a long solenoid", "a": "B = μ₀nI", "d": ["B = μ₀I/(2πr)", "B = μ₀n/I", "B = nI/μ₀"], "ex": "n is the number of turns per unit length." },
+    { "c": "Parallel wires carrying current the same way", "a": "attract each other", "d": ["repel each other", "exert no force"] },
+    { "c": "Torque on a current loop in B", "a": "τ = NIAB sin θ", "d": ["τ = NIAB cos θ", "τ = NIB/A", "τ = IAB²"] },
+    { "c": "An electric motor converts", "a": "electrical energy into mechanical work", "d": ["mechanical work into electrical energy", "heat into electrical energy"] },
+    { "c": "Magnetic flux", "a": "Φ = BA cos θ", "d": ["Φ = BA sin θ", "Φ = B/A", "Φ = BAt"] },
+    { "c": "Faraday's law of induction", "a": "emf = −N ΔΦ/Δt", "d": ["emf = −N Φ·Δt", "emf = −NΦ", "emf = −N ΔB·A"] },
+    { "c": "Lenz's law", "a": "induced current opposes the change in flux", "d": ["induced current reinforces the change in flux", "induced current flows parallel to B"] },
+    { "c": "Motional emf of a rod moving through B", "a": "emf = BLv", "d": ["emf = BL/v", "emf = Bv/L", "emf = BLv²"] },
+    { "c": "A magnet dropped down a copper pipe", "a": "falls slowly, braked by induced currents", "d": ["falls at the normal free-fall rate", "sticks to the copper"] },
+    { "c": "Eddy currents", "a": "loops of induced current in bulk conductors", "d": ["currents in superconducting wires", "currents flowing only on wire surfaces"] },
+    { "c": "An electric generator converts", "a": "mechanical work into electrical energy", "d": ["electrical energy into mechanical work", "electrical energy into light"] },
+    { "c": "Transformer voltage ratio", "a": "V_s/V_p = N_s/N_p", "d": ["V_s/V_p = N_p/N_s", "V_s·V_p = N_s·N_p"] },
+    { "c": "Why transformers need AC, not steady DC", "a": "only changing current makes changing flux", "d": ["DC would melt the iron core", "DC has no voltage"] },
+    { "c": "A step-up transformer", "a": "raises voltage and lowers current", "d": ["raises both voltage and current", "lowers voltage and raises power"] },
+    { "c": "Why power lines run at high voltage", "a": "lower current means less I²R loss", "d": ["higher voltage means more current", "it makes the wires lighter"] },
+    { "c": "Energy stored in an inductor", "a": "½LI²", "d": ["LI²", "½LI", "½L²I"] }
+  ],
+  "read": {
+    "title": "Currents and changing fields",
+    "text": [
+      "Magnets and electric currents turned out to be two faces of one phenomenon. In 1820 Hans Christian Ørsted noticed that a current in a wire deflects a compass needle. Every magnetic field comes from moving charge, whether a current in a wire or electrons spinning and orbiting inside iron.",
+      "A magnetic field pushes on a moving charge with a force qvB sin θ, perpendicular to both the velocity and the field. Because that force is always sideways, it does no work: it bends a charged particle into a circle without changing its speed. A current-carrying wire in a field feels the same push, and a loop of wire feels a torque. That torque spins every electric motor.",
+      "In 1831 Michael Faraday found the reverse effect. A changing magnetic flux through a loop induces an emf, whether the magnet moves, the loop moves, or the field strength changes. Lenz's law gives the direction: the induced current creates a field that opposes the change. Generators turn mechanical rotation into electricity this way, and transformers use alternating current to step voltages up or down. Power companies send electricity at high voltage because the same power then needs less current, and resistive losses grow with the square of the current."
+    ],
+    "q": [
+      { "q": "Why does a magnetic field not change a charged particle's speed?", "o": ["Its force is always perpendicular to the motion", "It acts only on stationary charges", "It is much weaker than gravity"], "k": 0 },
+      { "q": "What did Faraday discover in 1831?", "o": ["A changing flux induces an emf", "Currents deflect compass needles", "Like poles repel"], "k": 0 },
+      { "q": "Why is electricity sent over long lines at high voltage?", "o": ["Lower current reduces resistive losses", "High voltage increases the current", "Transformers only work at high voltage"], "k": 0 }
+    ]
+  }
+}

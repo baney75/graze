@@ -1,0 +1,58 @@
+{
+  "title": "Judgment: heuristics and biases",
+  "note": "We rarely have the time or information to weigh every option, so we lean on heuristics, fast mental shortcuts that usually work. They also produce biases: systematic, predictable errors. Knowing the common ones (availability, representativeness, anchoring, framing, confirmation) lets you catch them and slow down when a decision matters.",
+  "src": { "t": "NOBA, Judgment and Decision Making (Bazerman)", "u": "https://nobaproject.com/modules/judgment-and-decision-making" },
+  "items": [
+    { "c": "Bounded rationality (Herbert Simon)", "a": "Reasoning limited by time, information and mental capacity", "d": ["Reasoning that weighs every option perfectly", "Reasoning driven only by emotion", "Reasoning that ignores all evidence"] },
+    { "c": "Satisficing", "a": "Choosing the first option that is good enough", "d": ["Searching until the best option is found", "Picking the option others choose", "Refusing to choose at all"], "ex": "Simon's term, a blend of 'satisfy' and 'suffice.'" },
+    { "c": "System 1 thinking", "a": "Fast, automatic and intuitive", "d": ["Slow, deliberate and effortful", "Logical and fully conscious", "Used only for math problems"] },
+    { "c": "System 2 thinking", "a": "Slow, deliberate and effortful", "d": ["Fast, automatic and intuitive", "Emotional and implicit", "Active only during sleep"] },
+    { "c": "Cognitive bias", "a": "A systematic, predictable error in judgment", "d": ["A random mistake with no pattern", "A deliberate lie to others", "A correct rule of thumb"] },
+    { "c": "Why do people keep using heuristics?", "a": "They are fast and usually good enough", "d": ["They always give the correct answer", "They are slower but more accurate", "People are taught them in school"] },
+    { "c": "Availability heuristic", "a": "Judging likelihood by how easily examples come to mind", "d": ["Judging likelihood by resemblance to a typical case", "Sticking close to a first number", "Seeking only agreeing evidence"] },
+    { "c": "Overestimating shark attacks after news stories", "a": "Availability heuristic", "d": ["Anchoring bias", "Hindsight bias", "Endowment effect"] },
+    { "c": "Representativeness heuristic", "a": "Judging by how much something resembles a typical case", "d": ["Judging by how easily examples come to mind", "Judging by the first number you hear", "Judging by what you already own"] },
+    { "c": "Base-rate neglect", "a": "Ignoring how common each category actually is", "d": ["Ignoring how a question is worded", "Overvaluing things you own", "Forgetting the first item in a list"], "ex": "A tall, athletic man is more likely a banker than a pro football player; bankers vastly outnumber players." },
+    { "c": "Conjunction fallacy", "a": "Judging 'A and B' as more likely than 'A' alone", "d": ["Judging a sure gain better than a gamble", "Judging past flips to change future flips", "Judging an event predictable after it happens"] },
+    { "c": "'Feminist teller' judged likelier than 'teller'", "a": "Conjunction fallacy", "d": ["Sunk cost fallacy", "Framing effect", "Self-serving bias"], "ex": "Tversky and Kahneman's Linda problem: adding a detail can only lower probability." },
+    { "c": "Gambler's fallacy", "a": "Believing past random outcomes change future odds", "d": ["Believing losses hurt more than gains", "Believing you knew the outcome all along", "Believing a first number is reasonable"] },
+    { "c": "Chance of tails after five heads (fair coin)", "a": "Still 1 in 2", "d": ["Higher than 1 in 2", "Lower than 1 in 2", "Exactly 1 in 6"] },
+    { "c": "Regression to the mean", "a": "Extreme results tend to be followed by more average ones", "d": ["Averages always rise over time", "Extreme results always repeat", "Group opinions grow more extreme"] },
+    { "c": "Anchoring bias", "a": "Relying too heavily on an initial piece of information", "d": ["Relying on the most vivid example", "Relying on what a group decides", "Relying on how a choice is framed"] },
+    { "c": "Estimates pulled toward an arbitrary number", "a": "Anchoring bias", "d": ["Availability heuristic", "Status quo bias", "Overconfidence"], "ex": "In NOBA's example, a high anchor roughly doubled students' estimates." },
+    { "c": "Confirmation bias", "a": "Favoring information that supports what you already believe", "d": ["Believing an outcome was predictable all along", "Valuing things more because you own them", "Following the crowd to fit in"] },
+    { "c": "Best check against confirmation bias", "a": "Actively look for evidence that you are wrong", "d": ["Reread the evidence that supports you", "Ask only people who agree with you", "Decide quickly to avoid doubt"] },
+    { "c": "Belief perseverance", "a": "Clinging to a belief after its evidence is discredited", "d": ["Changing beliefs with each new fact", "Forgetting where a belief came from", "Adopting the beliefs of a group"] },
+    { "c": "Hindsight bias", "a": "Believing after the fact that an outcome was predictable", "d": ["Underestimating how long a task will take", "Ignoring how common a category is", "Preferring things to stay the same"], "ex": "Often called the 'I knew it all along' effect." },
+    { "c": "Overconfidence", "a": "Being more sure of a judgment than accuracy warrants", "d": ["Doubting judgments that are correct", "Avoiding decisions under pressure", "Copying the confidence of experts"] },
+    { "c": "How often '98% sure' ranges hold the true value", "a": "Usually far less than 98% of the time", "d": ["Almost exactly 98% of the time", "More than 98% of the time", "Never, in any study"] },
+    { "c": "Planning fallacy", "a": "Underestimating how long a task will take", "d": ["Overestimating how long a task will take", "Refusing to make any plan", "Planning only the easiest steps"] },
+    { "c": "Framing effect", "a": "Choices change with how the same facts are worded", "d": ["Choices change with the first number seen", "Choices change with what you own", "Choices stay identical whatever the wording"] },
+    { "c": "'85% survive' vs '15% die' after surgery", "a": "Framing effect", "d": ["Gambler's fallacy", "Anchoring bias", "Belief perseverance"] },
+    { "c": "Options framed as gains make people", "a": "Risk averse, preferring a sure thing", "d": ["Risk seeking, preferring a gamble", "Indifferent between all options", "Unable to choose at all"] },
+    { "c": "Options framed as losses make people", "a": "Risk seeking, preferring a gamble", "d": ["Risk averse, preferring a sure thing", "Unaffected by the framing", "Likely to pick at random"] },
+    { "c": "Loss aversion", "a": "Losses feel stronger than equal-sized gains", "d": ["Gains feel stronger than equal losses", "Losses and gains feel exactly equal", "People ignore small losses entirely"] },
+    { "c": "Prospect theory (Kahneman and Tversky)", "a": "Gains and losses are judged from a reference point", "d": ["People always maximize expected value", "Choices depend only on final wealth", "Groups decide better than individuals"] },
+    { "c": "Field of Daniel Kahneman's 2002 Nobel Prize", "a": "Economics", "d": ["Medicine", "Physics", "Peace"] },
+    { "c": "Endowment effect", "a": "Valuing something more because you own it", "d": ["Valuing something more because it is rare", "Valuing something less after buying it", "Valuing gifts less than purchases"], "ex": "Owners ask more to sell a mug than buyers will pay for it." },
+    { "c": "Status quo bias", "a": "Preferring to keep things as they are", "d": ["Preferring whatever is newest", "Preferring the riskiest option", "Preferring what experts choose"] },
+    { "c": "Sunk cost fallacy", "a": "Continuing because of what you have already spent", "d": ["Quitting because the future looks costly", "Spending more to impress others", "Saving money instead of spending it"] },
+    { "c": "Sitting through a bad movie because you paid", "a": "Sunk cost fallacy", "d": ["Availability heuristic", "Conjunction fallacy", "Regression to the mean"] },
+    { "c": "Nudge (Thaler and Sunstein)", "a": "A design that steers choices without removing options", "d": ["A law that bans a harmful choice", "A large cash reward for compliance", "A hidden fee added at checkout"] },
+    { "c": "Organ donation rates under opt-out defaults", "a": "Far higher than under opt-in", "d": ["Far lower than under opt-in", "About the same as under opt-in", "Too small to measure"], "ex": "Defaults work because of status quo bias." }
+  ],
+  "read": {
+    "title": "Six hundred lives, two frames",
+    "text": [
+      "Imagine an outbreak expected to kill 600 people. Program A will save 200 people for sure. Program B has a one-third chance of saving all 600 and a two-thirds chance of saving no one. Most people choose A, the sure thing.",
+      "Now the same choice is described differently. Under Program C, 400 people will die for sure. Under Program D, there is a one-third chance that nobody dies and a two-thirds chance that all 600 die. This time most people choose D, the gamble.",
+      "Look closely and A is identical to C, and B is identical to D. Only the wording changed. When outcomes are framed as gains, people tend to be risk averse; when the same outcomes are framed as losses, they tend to take risks. Kahneman and Tversky's prospect theory explains this: we judge outcomes as gains or losses from a reference point, and losses loom larger than equal gains.",
+      "Framing is one of many predictable biases. Herbert Simon argued that our rationality is bounded by limited time, information and attention, so we rely on shortcuts. The fix is not to give up shortcuts but to notice when a decision is important, restate the problem in a second way, and see whether your answer survives the change."
+    ],
+    "q": [
+      { "q": "Why are Programs A and C considered identical?", "o": ["Both lead to 200 survivors and 400 deaths", "Both are gambles", "Both save everyone", "Both were chosen by most people"], "k": 0 },
+      { "q": "When the choice was framed in terms of deaths, most people", "o": ["Chose the sure option", "Chose the gamble", "Refused to choose"], "k": 1 },
+      { "q": "What does the reading suggest as a check against framing?", "o": ["Always choose the sure thing", "Restate the problem another way and see if your choice holds", "Decide as fast as possible", "Let a group decide for you"], "k": 1 }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "key": "theism",
+  "name": "Arguments for God",
+  "group": "Mind",
+  "tag": "THEISM",
+  "level": "Intro to advanced",
+  "blurb": "State, defend and debate the classic and contemporary arguments for God's existence, from Anselm, Aquinas and Leibniz to the kalam, fine-tuning, moral and resurrection arguments, each with its main objections, the standard replies, and the problem of evil.",
+  "sources": [
+    { "t": "Stanford Encyclopedia of Philosophy: Ontological Arguments", "u": "https://plato.stanford.edu/entries/ontological-arguments/" },
+    { "t": "Stanford Encyclopedia of Philosophy: Cosmological Argument", "u": "https://plato.stanford.edu/entries/cosmological-argument/" },
+    { "t": "Stanford Encyclopedia of Philosophy: Teleological Arguments for God's Existence", "u": "https://plato.stanford.edu/entries/teleological-arguments/" },
+    { "t": "Internet Encyclopedia of Philosophy: Design Arguments for the Existence of God", "u": "https://iep.utm.edu/design-arguments-for-existence-of-god/" },
+    { "t": "Thomas Aquinas, Summa Theologiae I, q. 2 (New Advent)", "u": "https://www.newadvent.org/summa/1002.htm" },
+    { "t": "David Hume, Dialogues Concerning Natural Religion (Project Gutenberg)", "u": "https://gutenberg.org/ebooks/4583" }
+  ]
+}

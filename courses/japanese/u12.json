@@ -1,0 +1,310 @@
+{
+  "title": "Everyday verbs: ます forms",
+  "note": "Polite verbs end in ます. The ます form covers both present and future: 行きます \"I go\" or \"I will go.\" Negative: ません. Invitation: ませんか \"Won't you...?\" Suggestion: ましょう \"Let's...\" The verb goes at the end of the sentence. 分かります takes が: 日本語が分かります.",
+  "src": {
+    "t": "Tae Kim's Guide: Polite Form and Verb Stems",
+    "u": "https://guidetojapanese.org/learn/grammar/polite"
+  },
+  "items": [
+    {
+      "c": "起きます",
+      "r": "okimasu",
+      "a": "get up, wake up",
+      "d": [
+        "go to bed",
+        "go out"
+      ],
+      "ex": "(おきます) 毎朝六時に起きます。",
+      "exT": "I get up at six every morning."
+    },
+    {
+      "c": "寝ます",
+      "r": "nemasu",
+      "a": "go to bed, sleep",
+      "d": [
+        "get up",
+        "rest"
+      ]
+    },
+    {
+      "c": "見ます",
+      "r": "mimasu",
+      "a": "see, watch, look",
+      "d": [
+        "listen",
+        "read"
+      ],
+      "ex": "(みます) テレビを見ます。",
+      "exT": "I watch TV."
+    },
+    {
+      "c": "聞きます",
+      "r": "kikimasu",
+      "a": "listen; ask",
+      "d": [
+        "speak; say",
+        "watch; see"
+      ],
+      "ex": "(ききます) 音楽を聞きます。",
+      "exT": "I listen to music."
+    },
+    {
+      "c": "読みます",
+      "r": "yomimasu",
+      "a": "read",
+      "d": [
+        "write",
+        "speak"
+      ]
+    },
+    {
+      "c": "書きます",
+      "r": "kakimasu",
+      "a": "write",
+      "d": [
+        "read",
+        "draw a line"
+      ]
+    },
+    {
+      "c": "話します",
+      "r": "hanashimasu",
+      "a": "speak, talk",
+      "d": [
+        "listen",
+        "write"
+      ],
+      "ex": "(はなします) 日本語を話します。",
+      "exT": "I speak Japanese."
+    },
+    {
+      "c": "買います",
+      "r": "kaimasu",
+      "a": "buy",
+      "d": [
+        "sell",
+        "use"
+      ]
+    },
+    {
+      "c": "行きます",
+      "r": "ikimasu",
+      "a": "go",
+      "d": [
+        "come",
+        "return home"
+      ]
+    },
+    {
+      "c": "来ます",
+      "r": "kimasu",
+      "a": "come",
+      "d": [
+        "go",
+        "wear"
+      ]
+    },
+    {
+      "c": "帰ります",
+      "r": "kaerimasu",
+      "a": "go home, return",
+      "d": [
+        "go out",
+        "arrive"
+      ],
+      "ex": "(かえります) 六時にうちへ帰ります。",
+      "exT": "I go home at six."
+    },
+    {
+      "c": "します",
+      "r": "shimasu",
+      "a": "do",
+      "d": [
+        "make",
+        "go"
+      ]
+    },
+    {
+      "c": "勉強します",
+      "r": "benkyō shimasu",
+      "a": "study",
+      "d": [
+        "teach",
+        "work"
+      ]
+    },
+    {
+      "c": "働きます",
+      "r": "hatarakimasu",
+      "a": "work (at a job)",
+      "d": [
+        "study (at school)",
+        "rest (at home)"
+      ]
+    },
+    {
+      "c": "会います",
+      "r": "aimasu",
+      "a": "meet (a person)",
+      "d": [
+        "wait (for someone)",
+        "call (on the phone)"
+      ]
+    },
+    {
+      "c": "待ちます",
+      "r": "machimasu",
+      "a": "wait",
+      "d": [
+        "meet",
+        "hold"
+      ]
+    },
+    {
+      "c": "使います",
+      "r": "tsukaimasu",
+      "a": "use",
+      "d": [
+        "make",
+        "buy"
+      ]
+    },
+    {
+      "c": "遊びます",
+      "r": "asobimasu",
+      "a": "play, hang out",
+      "d": [
+        "study",
+        "work"
+      ]
+    },
+    {
+      "c": "休みます",
+      "r": "yasumimasu",
+      "a": "rest; take a day off",
+      "d": [
+        "work",
+        "hurry"
+      ]
+    },
+    {
+      "c": "分かります",
+      "r": "wakarimasu",
+      "a": "understand",
+      "d": [
+        "know (a person)",
+        "forget"
+      ]
+    },
+    {
+      "c": "テレビ",
+      "r": "terebi",
+      "a": "TV",
+      "d": [
+        "radio",
+        "movie"
+      ]
+    },
+    {
+      "c": "映画",
+      "r": "eiga",
+      "a": "movie",
+      "d": [
+        "music",
+        "photo"
+      ]
+    },
+    {
+      "c": "音楽",
+      "r": "ongaku",
+      "a": "music",
+      "d": [
+        "movie",
+        "sports"
+      ]
+    },
+    {
+      "c": "本",
+      "r": "hon",
+      "a": "book",
+      "d": [
+        "newspaper",
+        "notebook"
+      ]
+    },
+    {
+      "c": "手紙",
+      "r": "tegami",
+      "a": "letter (mail)",
+      "d": [
+        "paper (a sheet)",
+        "postcard"
+      ]
+    },
+    {
+      "c": "新聞",
+      "r": "shinbun",
+      "a": "newspaper",
+      "d": [
+        "magazine",
+        "news on TV"
+      ]
+    },
+    {
+      "c": "食べません",
+      "r": "tabemasen",
+      "a": "don't eat; won't eat",
+      "d": [
+        "ate",
+        "let's eat"
+      ]
+    },
+    {
+      "c": "行きましょう",
+      "r": "ikimashō",
+      "a": "let's go",
+      "d": [
+        "went",
+        "won't go"
+      ]
+    },
+    {
+      "c": "日本語が分かりますか。",
+      "r": "Nihongo ga wakarimasu ka.",
+      "a": "Do you understand Japanese?",
+      "d": [
+        "Do you speak Japanese?",
+        "Are you Japanese?"
+      ]
+    },
+    {
+      "c": "いっしょに行き___。(Let's go together.)",
+      "r": "Issho ni iki___.",
+      "a": "ましょう",
+      "d": [
+        "ません",
+        "ました"
+      ]
+    },
+    {
+      "c": "私は肉を食べ___。(don't eat)",
+      "r": "Watashi wa niku o tabe___.",
+      "a": "ません",
+      "d": [
+        "ます",
+        "ましょう"
+      ]
+    },
+    {
+      "c": "駅で友だち___会います。",
+      "r": "Eki de tomodachi ___ aimasu.",
+      "a": "に",
+      "d": [
+        "を",
+        "で"
+      ],
+      "ex": "駅で友だちに会います。",
+      "exT": "I meet a friend at the station."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Machiavelli: The Prince",
+  "note": "Machiavelli, a Florentine diplomat, wrote The Prince about 1513 as practical advice on gaining and keeping power. He judged actions by their results, urged rulers to rely on their own arms, and set virtù (ability and drive) against fortuna (chance). Quotations follow W. K. Marriott's translation.",
+  "src": {"t": "Machiavelli, The Prince, tr. W. K. Marriott, Project Gutenberg", "u": "https://www.gutenberg.org/ebooks/1232"},
+  "items": [
+    {"c": "Author of The Prince", "a": "Niccolò Machiavelli", "d": ["Francesco Guicciardini", "Baldassare Castiglione"]},
+    {"c": "Machiavelli's home city", "a": "Florence", "d": ["Venice", "Milan", "Naples"]},
+    {"c": "Machiavelli's birth and death years", "a": "1469 to 1527", "d": ["1404 to 1472", "1533 to 1592"]},
+    {"c": "The Prince was written in about", "a": "1513", "d": ["1453", "1588"]},
+    {"c": "The Prince was finally dedicated to", "a": "Lorenzo de' Medici", "d": ["Cesare Borgia", "Pope Julius II"]},
+    {"c": "Machiavelli's model of a bold new prince", "a": "Cesare Borgia", "d": ["Louis XII of France", "Girolamo Savonarola"]},
+    {"c": "What Borgia's cruelty achieved, per Machiavelli", "a": "It unified the Romagna and restored it to peace", "d": ["It drove the Romagna into open revolt", "It cost him the support of the Pope"]},
+    {"c": "Machiavelli: better to be loved or feared?", "a": "Feared, if you cannot be both", "d": ["Loved, since love never fails", "Neither; seek only to be admired"]},
+    {"c": "Why fear outlasts love, per Machiavelli", "a": "Love rests on obligation, which self-interest breaks", "d": ["Love is stronger, but rarer than fear", "Fear is a virtue taught by the Church"]},
+    {"c": "Machiavelli: a feared prince must avoid being", "a": "Hated", "d": ["Respected", "Cautious"]},
+    {"c": "How a prince avoids hatred, per Machiavelli", "a": "Keep his hands off subjects' property and women", "d": ["Give lavish gifts to every subject", "Never punish anyone at all"]},
+    {"c": "Machiavelli's two ways of contesting", "a": "By law and by force", "d": ["By gold and by marriage", "By prayer and by arms"], "ex": "The first is proper to men, the second to beasts."},
+    {"c": "Machiavelli's two animals for a prince", "a": "The fox and the lion", "d": ["The eagle and the wolf", "The bear and the serpent"]},
+    {"c": "Why a prince must be a fox", "a": "To discover the snares", "d": ["To terrify the wolves", "To win the people's love"]},
+    {"c": "Why a prince must be a lion", "a": "To terrify the wolves", "d": ["To discover the snares", "To keep good faith"]},
+    {"c": "Machiavelli on a prince's good qualities", "a": "He need not have them all, but must appear to", "d": ["He must have them all, and hide them", "He should openly reject them all"]},
+    {"c": "\"He who seeks to deceive will always find...\"", "a": "someone who will allow himself to be deceived", "d": ["that the truth comes out in the end", "that deceit is punished by fortune"]},
+    {"c": "Machiavelli: injuries ought to be done", "a": "All at one time", "d": ["Little by little", "Only by deputies"]},
+    {"c": "Machiavelli: benefits ought to be given", "a": "Little by little", "d": ["All at one time", "Only to the nobles"], "ex": "So that the flavor of them may last longer."},
+    {"c": "Machiavelli on mercenaries and auxiliaries", "a": "Useless and dangerous", "d": ["Costly but loyal", "Best for defense"]},
+    {"c": "Machiavelli's preferred soldiers", "a": "The prince's own troops", "d": ["Hired Swiss mercenaries", "Auxiliaries lent by an ally"]},
+    {"c": "A prince's chief study, per Machiavelli", "a": "War and its rules and discipline", "d": ["Law and theology", "Trade and banking"]},
+    {"c": "Machiavelli on troubles foreseen early", "a": "They are easy to remedy before they grow", "d": ["They should be left to fortune", "They cure themselves with time"], "ex": "He compares them to a fever: easy to cure but hard to detect at first."},
+    {"c": "Machiavelli on neutrality between two rivals", "a": "Declaring for one side is better than neutrality", "d": ["Neutrality is always the safest course", "Join whichever side is losing"]},
+    {"c": "Machiavelli: fortune rules what share of acts?", "a": "About one-half", "d": ["All of them", "Almost none"]},
+    {"c": "Machiavelli compares fortune to", "a": "A raging river in flood", "d": ["A slow-turning wheel", "A gentle evening breeze"]},
+    {"c": "Machiavelli's remedy against fortune", "a": "Build defenses and barriers in calm weather", "d": ["Pray for good fortune before acting", "Avoid every risky undertaking"]},
+    {"c": "Virtù, in Machiavelli", "a": "Ability and drive to master events", "d": ["Christian meekness and humility", "Good luck inherited from birth"]},
+    {"c": "Machiavelli's longer work on republics", "a": "Discourses on Livy", "d": ["The Book of the Courtier", "Utopia"]},
+    {"c": "Machiavelli's dialogue on military affairs", "a": "The Art of War", "d": ["The Book of Five Rings", "Leviathan"]},
+    {"c": "\"Machiavellian\" in everyday speech", "a": "Cunning and unscrupulous in seeking power", "d": ["Naive and overly trusting", "Devoted to republican liberty"]}
+  ],
+  "read": {
+    "title": "Fortune and the flood",
+    "text": [
+      "From Chapter XXV, “What Fortune Can Effect in Human Affairs and How to Withstand Her”:",
+      "Nevertheless, not to extinguish our free will, I hold it to be true that Fortune is the arbiter of one-half of our actions, but that she still leaves us to direct the other half, or perhaps a little less.",
+      "I compare her to one of those raging rivers, which when in flood overflows the plains, sweeping away trees and buildings, bearing away the soil from place to place; everything flies before it, all yield to its violence, without being able in any way to withstand it; and yet, though its nature be such, it does not follow therefore that men, when the weather becomes fair, shall not make provision, both with defences and barriers, in such a manner that, rising again, the waters may pass away by canal, and their force be neither so unrestrained nor so dangerous. So it happens with fortune, who shows her power where valour has not prepared to resist her, and thither she turns her forces where she knows that barriers and defences have not been raised to constrain her."
+    ],
+    "q": [
+      {"q": "How much of our actions does Machiavelli leave to fortune?", "o": ["All of them", "About half; we direct the rest, or a little less", "None, since free will governs all"], "k": 1},
+      {"q": "What should people do when the weather is fair?", "o": ["Enjoy it, since floods cannot be resisted", "Move away from the river", "Build defenses and barriers so the flood does less harm"], "k": 2},
+      {"q": "Where does fortune show her power, according to the passage?", "o": ["Where valour has not prepared to resist her", "Only in wartime", "Wherever rulers are cruel"], "k": 0}
+    ]
+  }
+}

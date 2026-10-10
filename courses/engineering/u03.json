@@ -1,0 +1,313 @@
+{
+  "title": "Statics",
+  "note": "A body in static equilibrium has zero net force and zero net moment: ΣF = 0 and ΣM = 0. Start every problem with a free-body diagram that isolates the body and shows all external forces, including support reactions. In 2D that gives three equations, so you can solve for three unknowns.",
+  "src": {
+    "t": "Engineering Statics: Open and Interactive, 5 Rigid Body Equilibrium, Engineering LibreTexts",
+    "u": "https://eng.libretexts.org/Bookshelves/Mechanical_Engineering/Engineering_Statics%3A_Open_and_Interactive_(Baker_and_Haynes)/05%3A_Rigid_Body_Equilibrium"
+  },
+  "items": [
+    {
+      "c": "Statics studies bodies that are",
+      "a": "at rest or moving at constant velocity",
+      "d": [
+        "speeding up or slowing down",
+        "moving along a curved path"
+      ]
+    },
+    {
+      "c": "Conditions for static equilibrium of a rigid body",
+      "a": "ΣF = 0 and ΣM = 0",
+      "d": [
+        "ΣF = 0 only",
+        "ΣM = 0 only",
+        "ΣF = ΣM"
+      ]
+    },
+    {
+      "c": "Free-body diagram",
+      "a": "a sketch of one isolated body with all external forces on it",
+      "d": [
+        "a drawing of a whole machine with dimensions",
+        "a graph of force versus time"
+      ]
+    },
+    {
+      "c": "Forces left off a free-body diagram",
+      "a": "internal forces within the body",
+      "d": [
+        "support reactions",
+        "the body's own weight",
+        "applied loads"
+      ]
+    },
+    {
+      "c": "Moment of a force about a point",
+      "a": "force times perpendicular distance to its line of action",
+      "d": [
+        "force times distance along its line of action",
+        "force divided by distance"
+      ]
+    },
+    {
+      "c": "SI unit of moment",
+      "a": "N·m",
+      "d": [
+        "N/m",
+        "N·m²",
+        "N/m²"
+      ]
+    },
+    {
+      "c": "Moment of 50 N acting 2 m from a pivot, at 90°",
+      "a": "100 N·m",
+      "d": [
+        "25 N·m",
+        "52 N·m",
+        "200 N·m"
+      ]
+    },
+    {
+      "c": "Usual sign convention for 2D moments",
+      "a": "counterclockwise positive",
+      "d": [
+        "clockwise positive",
+        "the larger moment positive"
+      ]
+    },
+    {
+      "c": "Varignon's theorem",
+      "a": "a force's moment equals the sum of its components' moments",
+      "d": [
+        "the sum of forces on a body is zero",
+        "every truss member is a two-force member"
+      ]
+    },
+    {
+      "c": "Couple",
+      "a": "two equal, opposite, parallel forces that make a pure moment",
+      "d": [
+        "two forces acting along the same line",
+        "a single force applied at a pin"
+      ]
+    },
+    {
+      "c": "Net force of a couple",
+      "a": "zero",
+      "d": [
+        "twice one of the forces",
+        "equal to one of the forces"
+      ]
+    },
+    {
+      "c": "600 N at 1 m from a pivot balances what at 2 m?",
+      "a": "300 N",
+      "d": [
+        "1200 N",
+        "600 N",
+        "150 N"
+      ]
+    },
+    {
+      "c": "Pin support in 2D provides",
+      "a": "two force components, no moment",
+      "d": [
+        "one force normal to the surface",
+        "two forces and a moment"
+      ]
+    },
+    {
+      "c": "Roller support in 2D provides",
+      "a": "one force perpendicular to the surface",
+      "d": [
+        "two force components, no moment",
+        "a force and a moment"
+      ]
+    },
+    {
+      "c": "Fixed support in 2D provides",
+      "a": "two force components and a moment",
+      "d": [
+        "one force normal to the surface",
+        "two force components, no moment"
+      ]
+    },
+    {
+      "c": "Equilibrium equations for a 2D rigid body",
+      "a": "3",
+      "d": [
+        "2",
+        "4",
+        "6"
+      ]
+    },
+    {
+      "c": "Equilibrium equations for a 3D rigid body",
+      "a": "6",
+      "d": [
+        "3",
+        "4",
+        "9"
+      ]
+    },
+    {
+      "c": "Statically indeterminate structure",
+      "a": "more unknown reactions than equilibrium equations",
+      "d": [
+        "fewer unknowns than equilibrium equations",
+        "a structure that is accelerating"
+      ]
+    },
+    {
+      "c": "Two-force member",
+      "a": "loaded at only two points, so force runs along the line between them",
+      "d": [
+        "a member carrying two moments and no force",
+        "a member with two supports and a load between"
+      ]
+    },
+    {
+      "c": "Truss",
+      "a": "straight members joined at their ends into triangles",
+      "d": [
+        "a single beam resting on two supports",
+        "a curved member that works in compression"
+      ]
+    },
+    {
+      "c": "Why trusses are built from triangles",
+      "a": "a triangle cannot change shape unless a side changes length",
+      "d": [
+        "triangles carry bending better than any shape",
+        "triangles need no joints"
+      ]
+    },
+    {
+      "c": "Members of an ideal pin-jointed truss carry",
+      "a": "only axial tension or compression",
+      "d": [
+        "mostly bending moments",
+        "mostly torsion"
+      ]
+    },
+    {
+      "c": "Method of joints",
+      "a": "applying ΣF = 0 at each pin to find member forces",
+      "d": [
+        "cutting through the truss and taking moments",
+        "measuring strain in each member"
+      ]
+    },
+    {
+      "c": "Method of sections",
+      "a": "cutting through the truss and applying equilibrium to one side",
+      "d": [
+        "applying ΣF = 0 at every pin in turn",
+        "replacing the truss with a solid beam"
+      ]
+    },
+    {
+      "c": "Zero-force member",
+      "a": "a truss member carrying no force under the given loading",
+      "d": [
+        "a member that has been removed",
+        "a member that carries the largest force"
+      ]
+    },
+    {
+      "c": "Centroid",
+      "a": "the geometric center of an area or volume",
+      "d": [
+        "the point of maximum stress",
+        "the point of greatest density"
+      ]
+    },
+    {
+      "c": "Center of gravity",
+      "a": "the point where a body's total weight effectively acts",
+      "d": [
+        "the point of the body nearest the ground",
+        "the point where the body is strongest"
+      ]
+    },
+    {
+      "c": "Centroid height of a triangle above its base",
+      "a": "one third of the height",
+      "d": [
+        "half of the height",
+        "two thirds of the height"
+      ]
+    },
+    {
+      "c": "Centroid x̄ of a composite area",
+      "a": "Σ(xᵢAᵢ) / ΣAᵢ",
+      "d": [
+        "ΣAᵢ / Σxᵢ",
+        "Σxᵢ / n",
+        "Σ(xᵢAᵢ) · ΣAᵢ"
+      ]
+    },
+    {
+      "c": "Resultant of a uniform distributed load acts",
+      "a": "at the middle of the loaded length",
+      "d": [
+        "at the start of the loaded length",
+        "one third along the loaded length"
+      ]
+    },
+    {
+      "c": "Total force of 2 kN/m spread over 5 m",
+      "a": "10 kN",
+      "d": [
+        "2.5 kN",
+        "7 kN",
+        "0.4 kN"
+      ]
+    },
+    {
+      "c": "Maximum static friction before slipping",
+      "a": "μₛ times the normal force",
+      "d": [
+        "μₛ times the object's mass",
+        "the normal force divided by μₛ"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Drawing the forces first",
+    "text": [
+      "Statics rests on one idea: a body that is not accelerating has no net force and no net moment acting on it. Every bridge, shelf, crane, and ladder that stays put obeys ΣF = 0 and ΣM = 0.",
+      "The tool that turns this idea into answers is the free-body diagram. You draw the body alone, cut free from everything around it, then replace each support and contact with the forces it exerts. A pin can push in any direction, so it becomes two force components. A roller can only push perpendicular to its surface, so it becomes one. A fixed wall can push and also twist, so it adds a moment. Weight acts at the center of gravity, and a spread-out load can be replaced by its total placed at its centroid.",
+      "In two dimensions this gives three equations: forces in x, forces in y, and moments about any point. Choosing that point where unknown forces meet removes them from the moment equation and often solves the problem in one line. If there are more unknowns than equations, the structure is statically indeterminate, and you need its deformations to find the forces.",
+      "Trusses apply the same rules joint by joint. Because their members are pinned at the ends, each carries pure tension or compression."
+    ],
+    "q": [
+      {
+        "q": "How many reaction components does a roller support supply?",
+        "o": [
+          "Three",
+          "Two",
+          "One"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Why take moments about a point where unknown forces meet?",
+        "o": [
+          "Those forces drop out of the moment equation",
+          "It makes the body accelerate",
+          "It doubles the number of equations"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What extra information does a statically indeterminate structure need?",
+        "o": [
+          "Its color and finish",
+          "Its deformations",
+          "A second free-body diagram of the same body"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

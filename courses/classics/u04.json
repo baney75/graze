@@ -1,0 +1,194 @@
+{
+  "title": "Franklin, The Way to Wealth",
+  "note": "Franklin wrote 'The Way to Wealth' as the preface to Poor Richard's Almanack for 1758. At an auction, old Father Abraham strings together the almanac's sayings to preach industry and thrift. This text follows an 1810 London printing, hence 'labour'.",
+  "src": {
+    "t": "Franklin's Way to Wealth, Project Gutenberg eBook #43855",
+    "u": "https://www.gutenberg.org/ebooks/43855"
+  },
+  "items": [
+    {
+      "c": "Speaker of the speech in 'The Way to Wealth'",
+      "a": "Father Abraham",
+      "d": [
+        "Poor Richard",
+        "Father Time",
+        "Uncle Sam"
+      ]
+    },
+    {
+      "c": "Pen name of Poor Richard's supposed author",
+      "a": "Richard Saunders",
+      "d": [
+        "Silence Dogood",
+        "Father Abraham",
+        "Publius"
+      ]
+    },
+    {
+      "c": "Setting of Father Abraham's speech",
+      "a": "an auction of merchants' goods",
+      "d": [
+        "a church service",
+        "a town election"
+      ]
+    },
+    {
+      "c": "Taxes worse than government's, per Franklin",
+      "a": "idleness, pride, and folly",
+      "d": [
+        "rent, tithes, and tariffs",
+        "war, debt, and famine"
+      ]
+    },
+    {
+      "c": "The habit said to tax us four times over",
+      "a": "folly",
+      "d": [
+        "idleness",
+        "pride"
+      ]
+    },
+    {
+      "c": "discharge (a tax)",
+      "a": "pay off",
+      "d": [
+        "refuse to pay",
+        "raise"
+      ]
+    },
+    {
+      "c": "abatement",
+      "a": "a reduction",
+      "d": [
+        "an increase",
+        "a penalty"
+      ]
+    },
+    {
+      "c": "hearken",
+      "a": "listen",
+      "d": [
+        "hurry",
+        "complain"
+      ]
+    },
+    {
+      "c": "sloth",
+      "a": "laziness",
+      "d": [
+        "greed",
+        "anger"
+      ]
+    },
+    {
+      "c": "'the used key is always bright'",
+      "a": "steady use keeps abilities sharp",
+      "d": [
+        "new tools work better than old",
+        "locks should be changed often"
+      ]
+    },
+    {
+      "c": "'the stuff life is made of' (Poor Richard)",
+      "a": "time",
+      "d": [
+        "money",
+        "work"
+      ]
+    },
+    {
+      "c": "prodigality",
+      "a": "reckless wastefulness",
+      "d": [
+        "careful saving",
+        "quiet patience"
+      ]
+    },
+    {
+      "c": "diligence",
+      "a": "steady, careful effort",
+      "d": [
+        "good luck",
+        "quick cleverness"
+      ]
+    },
+    {
+      "c": "perplexity",
+      "a": "confusion and trouble",
+      "d": [
+        "profit",
+        "rest"
+      ]
+    },
+    {
+      "c": "Drive thy business, let not that drive thee",
+      "a": "stay ahead of your work, not rushed by it",
+      "d": [
+        "sell your business before it fails",
+        "work only for others"
+      ]
+    },
+    {
+      "c": "Source of 'God helps them that help themselves'",
+      "a": "an old proverb, not the Bible",
+      "d": [
+        "the Book of Proverbs",
+        "the Sermon on the Mount"
+      ]
+    },
+    {
+      "c": "Early to bed and early to rise makes a man...",
+      "a": "healthy, wealthy, and wise",
+      "d": [
+        "happy, holy, and kind",
+        "strong, rich, and brave"
+      ]
+    },
+    {
+      "c": "Almanac that 'The Way to Wealth' prefaced",
+      "a": "Poor Richard's Almanack for 1758",
+      "d": [
+        "Poor Richard's Almanack for 1733",
+        "The Pennsylvania Gazette of 1776"
+      ]
+    }
+  ],
+  "read": {
+    "title": "The Way to Wealth (1758)",
+    "text": [
+      "'Friends,' says he, 'the taxes are indeed very heavy; and, if those laid on by the government were the only ones we had to pay, we might more easily discharge them; but we have many others, and much more grievous to some of us. We are taxed twice as much by our idleness, three times as much by our pride, and four times as much by our folly; and from these taxes the commissioners cannot ease or deliver us by allowing an abatement. However, let us hearken to good advice, and something may be done for us; \"God helps them that help themselves,\" as Poor Richard says.",
+      "I. 'It would be thought a hard government that should tax its people one-tenth part of their time to be employed in its service: but idleness taxes many of us much more; sloth, by bringing on diseases, absolutely shortens life.",
+      "\"Sloth, like rust, consumes faster than labour wears, while the used key is always bright,\" as Poor Richard says.--\"But, dost thou love life? then do not squander time, for that is the stuff life is made of,\" as Poor Richard says.--How much more than is necessary do we spend in sleep! forgetting that, \"the sleeping fox catches no poultry, and that there will be sleeping enough in the grave,\" as Poor Richard says.",
+      "\"If time be of all things the most precious, wasting time must be\" as Poor Richard says, \"the greatest prodigality;\" since, as he elsewhere tells us, \"Lost time is never found again; and what we call time enough, always proves little enough.\" Let us then up and be doing, and doing to the purpose: so by diligence shall we do more with less perplexity. \"Sloth makes all things difficult, but industry all easy; and he that riseth late, must trot all day, and shall scarce overtake his business at night; while laziness travels so slowly, that poverty soon overtakes him. Drive thy business, let not that drive thee; and early to bed, and early to rise, makes a man healthy, wealthy, and wise,\" as Poor Richard says."
+    ],
+    "q": [
+      {
+        "q": "What is Father Abraham's main point?",
+        "o": [
+          "Our own idleness, pride and folly cost us more than government taxes, so we should work and use time well",
+          "Government taxes are unjust and should be resisted",
+          "Wealth comes mainly from luck and inheritance"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why can the commissioners not ease these taxes?",
+        "o": [
+          "Only people themselves can cut the costs of their own habits",
+          "The commissioners are corrupt",
+          "The taxes have already been reduced"
+        ],
+        "k": 0
+      },
+      {
+        "q": "'The sleeping fox catches no poultry' means:",
+        "o": [
+          "the idle miss their opportunities",
+          "foxes hunt only at night",
+          "rest must come before hard work"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

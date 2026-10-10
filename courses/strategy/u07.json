@@ -1,0 +1,49 @@
+{
+  "title": "The principles of war",
+  "note": "US Army doctrine (FM 3-0) lists nine principles of war: objective, offensive, mass, economy of force, maneuver, unity of command, security, surprise and simplicity, often remembered as MOOSEMUSS. They distill historically successful operations; doctrine stresses they are tools for judgment and analysis, not a checklist.",
+  "src": { "t": "FM 3-0, Operations (March 2025), Table 1-1 and Appendix A", "u": "https://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=1030750" },
+  "items": [
+    { "c": "How many principles of war does FM 3-0 list?", "a": "Nine", "d": ["Five", "Twelve"] },
+    { "c": "MOOSEMUSS is a memory aid for", "a": "The nine US principles of war", "d": ["The steps of the military planning process", "The ranks of US Army officers"] },
+    { "c": "British author of the original principles of war", "a": "J. F. C. Fuller", "d": ["Basil Liddell Hart", "Julian Corbett"] },
+    { "c": "Fuller's three-word summary of the art of war", "a": "Guard, move, hit", "d": ["Find, fix, finish", "Observe, decide, act"] },
+    { "c": "Principle of objective", "a": "Direct every operation toward a clear, decisive, attainable goal", "d": ["Seize, retain and exploit the initiative", "Prevent the enemy from gaining surprise"] },
+    { "c": "Principle of offensive", "a": "Seize, retain and exploit the initiative", "d": ["Prepare clear, uncomplicated plans", "Direct every operation toward a clear goal"] },
+    { "c": "Principle of mass", "a": "Concentrate combat power's effects at the decisive place and time", "d": ["Spread forces evenly along the whole front", "Use minimum force on secondary efforts"] },
+    { "c": "Principle of economy of force", "a": "Minimum-essential power on secondary efforts, maximum on the main", "d": ["Equal power on every effort", "Avoid spending any reserves at all"] },
+    { "c": "Principle of maneuver", "a": "Put the enemy at a disadvantage by flexible use of power", "d": ["Strike where the enemy is unprepared", "Concentrate effects at the decisive point"] },
+    { "c": "Principle of unity of command", "a": "One responsible commander for every objective", "d": ["Every unit commands its own security", "Allies vote on each major decision"] },
+    { "c": "Principle of security", "a": "Prevent the enemy from gaining surprise or unexpected advantage", "d": ["Strike at a time the enemy is unprepared", "Hold the capital at all costs"] },
+    { "c": "Principle of surprise", "a": "Strike at a time, place or manner the enemy is unprepared for", "d": ["Prevent the enemy from achieving surprise", "Seize and exploit the initiative"] },
+    { "c": "Principle of simplicity", "a": "Clear, uncomplicated plans and orders", "d": ["Use the fewest troops possible", "Fight only one battle per campaign"] },
+    { "c": "Principle called the reciprocal of mass", "a": "Economy of force", "d": ["Surprise", "Security"], "ex": "Accepting risk in secondary areas creates relative superiority on the main effort." },
+    { "c": "\"Seize, retain, and exploit the initiative\"", "a": "Offensive", "d": ["Objective", "Maneuver"] },
+    { "c": "\"One responsible commander for every objective\"", "a": "Unity of command", "d": ["Objective", "Simplicity"] },
+    { "c": "FM 3-0: surprise requires the enemy to", "a": "Become aware too late to react effectively", "d": ["Be completely unaware until the end", "Be outnumbered at every point"] },
+    { "c": "FM 3-0: why plans should be simple", "a": "Complicated plans are more vulnerable to friction", "d": ["Simple plans need no commander's judgment", "Simplicity always deceives the enemy"] },
+    { "c": "Are the principles of war a checklist?", "a": "No; they guide judgment and analysis", "d": ["Yes; follow all nine to guarantee victory", "Yes, but only at the tactical level"] },
+    { "c": "Three principles joint doctrine adds", "a": "Restraint, perseverance, legitimacy", "d": ["Speed, firepower, logistics", "Deception, intelligence, morale"] },
+    { "c": "Purpose of the principle of restraint", "a": "Prevent unnecessary use of force", "d": ["Keep reserves out of battle", "Limit the number of allies"] },
+    { "c": "Purpose of the principle of perseverance", "a": "Ensure the commitment needed to reach national objectives", "d": ["Keep fighting each battle to the last man", "Refuse all negotiation with the enemy"] },
+    { "c": "Purpose of the principle of legitimacy", "a": "Maintain legal and moral authority", "d": ["Win the largest share of territory", "Secure a formal declaration of war"] },
+    { "c": "Instruments of national power (DIME)", "a": "Diplomatic, informational, military, economic", "d": ["Defense, intelligence, maneuver, engineering", "Doctrine, industry, manpower, energy"] },
+    { "c": "Operational level of warfare", "a": "Where campaigns link tactical actions to strategic aims", "d": ["Where national policy goals are set", "Where squads fight individual engagements"] },
+    { "c": "Tactical level of warfare", "a": "Where forces plan and fight battles and engagements", "d": ["Where campaigns are designed and sustained", "Where governments set policy goals"] },
+    { "c": "Tempo, in FM 3-0", "a": "Relative speed and rhythm of operations versus the enemy", "d": ["The total number of troops deployed", "The rate at which supplies are consumed"] },
+    { "c": "FM 3-0's four defeat mechanisms", "a": "Destroy, dislocate, disintegrate, isolate", "d": ["Find, fix, flank, finish", "Deter, deny, defend, delay"] },
+    { "c": "Main effort, in FM 3-0", "a": "The unit whose mission is most critical to success at a given time", "d": ["The unit held back as a reserve for emergencies", "The unit that guards the rear area"] }
+  ],
+  "read": {
+    "title": "Nine principles, one judgment",
+    "text": [
+      "The US Army lists nine principles of war. Objective comes first: every operation must aim at a clear, decisive and attainable goal that serves the political purpose of the war. Offensive means seizing and keeping the initiative, so the enemy must react rather than act. Mass concentrates the effects of combat power where and when they decide the issue, and economy of force is its partner: spend the minimum on secondary efforts so the main effort gets the maximum, deliberately accepting risk elsewhere.",
+      "Maneuver places the enemy at a disadvantage through flexible movement and fire. Unity of command gives each objective one responsible commander. Security keeps the enemy from gaining surprise, while surprise strikes the enemy at a time, place or manner he has not prepared for. Simplicity asks for clear, uncomplicated plans, because the more complicated a plan, the more it suffers from friction.",
+      "Doctrine traces the list to the British officer J. F. C. Fuller and insists it is not a checklist. The principles pull against each other: massing for the main blow weakens security somewhere else. Their value lies in helping commanders, and students of history, ask the right questions about why operations succeed or fail."
+    ],
+    "q": [
+      { "q": "Which principle is described as the partner of mass?", "o": ["Simplicity", "Economy of force", "Unity of command"], "k": 1 },
+      { "q": "Why does the reading favor simple plans?", "o": ["Complicated plans suffer more from friction", "Simple plans need fewer soldiers", "Simple plans are easier to keep secret"], "k": 0 },
+      { "q": "What does the reading say about the principles as a list?", "o": ["They guarantee victory if all are followed", "They were invented after 2001", "They are not a checklist and can pull against each other"], "k": 2 }
+    ]
+  }
+}

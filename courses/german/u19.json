@@ -1,0 +1,48 @@
+{
+  "title": "Talking about the past",
+  "note": "The spoken past (Perfekt) = haben or sein in second position + past participle at the end: Ich habe Pizza gegessen. Regular verbs: ge- + stem + -t (gemacht). Many irregular verbs: ge- + stem + -en (gesehen). Use sein for movement or change of state (ich bin gegangen) and with bleiben. For sein and haben, use war and hatte.",
+  "src": { "t": "Grimm Grammar: The conversational past (Perfekt)", "u": "https://coerll.utexas.edu/gg/gr/vcp_01.html" },
+  "items": [
+    { "c": "Ich habe Pizza gegessen.", "a": "I ate pizza.", "d": ["I'm eating pizza.", "I'll eat pizza."] },
+    { "c": "Wir sind nach Berlin gefahren.", "a": "We went to Berlin.", "d": ["We're going to Berlin.", "We want to go to Berlin."] },
+    { "c": "Was hast du gestern gemacht?", "a": "What did you do yesterday?", "d": ["What are you doing tomorrow?", "What did you make today?"] },
+    { "c": "Ich war müde.", "a": "I was tired.", "d": ["I am tired.", "I'll be tired."] },
+    { "c": "Er hatte keine Zeit.", "a": "He had no time.", "d": ["He has no time.", "He had a lot of time."] },
+    { "c": "Ich bin zu Hause geblieben.", "a": "I stayed home.", "d": ["I went home.", "I'm staying home."] },
+    { "c": "Das hat Spaß gemacht.", "a": "That was fun.", "d": ["That was hard work.", "That makes no sense."] },
+    { "c": "letzte Woche", "a": "last week", "d": ["next week", "this week"] },
+    { "c": "letztes Jahr", "a": "last year", "d": ["next year", "every year"] },
+    { "c": "vorgestern", "a": "the day before yesterday", "d": ["the day after tomorrow", "the other day"] },
+    { "c": "früher", "a": "in the past, earlier", "d": ["later", "in the future"], "ex": "Früher habe ich in Bonn gewohnt.", "exT": "I used to live in Bonn." },
+    { "c": "Ich ___ ein Buch gelesen. (haben)", "a": "habe", "d": ["bin", "hat"] },
+    { "c": "Sie ___ nach Hause gegangen. (sein, she)", "a": "ist", "d": ["hat", "sind"], "ex": "Sie ist nach Hause gegangen.", "exT": "She went home." },
+    { "c": "Wir ___ lange geschlafen. (haben)", "a": "haben", "d": ["sind", "hat"] },
+    { "c": "Er ist spät ___. (kommen)", "a": "gekommen", "d": ["gekommt", "kommt"] },
+    { "c": "Ich habe Deutsch ___. (lernen)", "a": "gelernt", "d": ["gelernen", "lernte"] },
+    { "c": "Hast du den Film ___? (sehen)", "a": "gesehen", "d": ["gesieht", "gesehnt"], "ex": "Hast du den Film gesehen?", "exT": "Did you see the movie?" },
+    { "c": "Wir haben Kaffee ___. (trinken)", "a": "getrunken", "d": ["getrinkt", "getranken"] },
+    { "c": "Ich habe einen Brief ___. (schreiben)", "a": "geschrieben", "d": ["geschreibt", "geschrieft"] },
+    { "c": "Was hast du ___? (sagen)", "a": "gesagt", "d": ["gesagen", "sagte"] },
+    { "c": "Er hat viel ___. (arbeiten)", "a": "gearbeitet", "d": ["gearbeitt", "arbeitet"] },
+    { "c": "Ich bin um sieben Uhr ___. (aufstehen)", "a": "aufgestanden", "d": ["geaufstanden", "aufgesteht"] },
+    { "c": "Wo ___ du gewesen? (sein)", "a": "bist", "d": ["hast", "ist"] },
+    { "c": "Ich ___ gestern zu Hause. (sein, past)", "a": "war", "d": ["bin", "wart"] },
+    { "c": "Wir ___ Glück. (haben, past)", "a": "hatten", "d": ["hatte", "habt"] },
+    { "c": "Sie ___ mit dem Zug gefahren. (they)", "a": "sind", "d": ["haben", "seid"] },
+    { "c": "Gestern ___ er Fußball gespielt.", "a": "hat", "d": ["ist", "habt"] },
+    { "c": "Wie war dein Wochenende?", "a": "How was your weekend?", "d": ["Where was your weekend?", "How is your week going?"] }
+  ],
+  "read": {
+    "title": "Mein Wochenende",
+    "text": [
+      "Am Samstag bin ich früh aufgestanden. Zuerst habe ich gefrühstückt: Brot, Käse und Kaffee. Dann bin ich mit dem Fahrrad zum Markt gefahren und habe Obst gekauft.",
+      "Am Nachmittag habe ich meine Großeltern besucht. Wir haben Kuchen gegessen und viel gesprochen. Das hat Spaß gemacht!",
+      "Am Sonntag war das Wetter schlecht. Es hat den ganzen Tag geregnet. Ich bin zu Hause geblieben und habe ein Buch gelesen. Am Abend war ich müde und bin früh ins Bett gegangen."
+    ],
+    "q": [
+      { "q": "How did the narrator get to the market?", "o": ["By bus", "By bike", "On foot"], "k": 1 },
+      { "q": "What did the narrator do on Saturday afternoon?", "o": ["Visited the grandparents", "Read a book", "Bought fruit"], "k": 0 },
+      { "q": "Why did the narrator stay home on Sunday?", "o": ["The narrator was sick", "The narrator had to work", "It rained all day"], "k": 2 }
+    ]
+  }
+}

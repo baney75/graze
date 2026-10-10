@@ -1,0 +1,235 @@
+{
+  "title": "Aristotle, Politics I: man is a political animal",
+  "note": "Politics Book I traces the state from the household and the village. The state arises for the bare needs of life but exists for the sake of a good life; Jowett's 'state' translates the Greek polis, the city-state.",
+  "src": {
+    "t": "Aristotle's Politics, tr. Benjamin Jowett (Oxford: Clarendon Press), Book I, Internet Archive",
+    "u": "https://archive.org/details/aristotlespoliti00arisuoft"
+  },
+  "items": [
+    {
+      "c": "polis (Aristotle)",
+      "a": "a Greek city-state",
+      "d": [
+        "a royal palace",
+        "a village market",
+        "a temple precinct"
+      ]
+    },
+    {
+      "c": "Stages by which the state grows, per Aristotle",
+      "a": "household, village, state",
+      "d": [
+        "tribe, army, empire",
+        "family, guild, kingdom"
+      ]
+    },
+    {
+      "c": "Why the state exists, per Aristotle",
+      "a": "for the sake of a good life",
+      "d": [
+        "for the sake of conquest",
+        "for the sake of trade alone"
+      ]
+    },
+    {
+      "c": "'man is by nature a political animal' (Jowett)",
+      "a": "humans are made to live in a city-state",
+      "d": [
+        "humans naturally crave office",
+        "humans are naturally deceitful"
+      ]
+    },
+    {
+      "c": "A man without a state by nature, per Aristotle",
+      "a": "either above humanity or below it",
+      "d": [
+        "either a slave or a king",
+        "either a child or a fool"
+      ]
+    },
+    {
+      "c": "'Tribeless, lawless, hearthless one'",
+      "a": "Homer's phrase for the outcast",
+      "d": [
+        "Hesiod's phrase for a tyrant",
+        "Plato's phrase for a sophist"
+      ]
+    },
+    {
+      "c": "The outcast compared to a piece in draughts",
+      "a": "an unprotected, isolated piece",
+      "d": [
+        "the king of the board",
+        "a piece that has just won"
+      ]
+    },
+    {
+      "c": "draughts",
+      "a": "a board game like checkers",
+      "d": [
+        "a dice game",
+        "a card game"
+      ]
+    },
+    {
+      "c": "gregarious",
+      "a": "living in flocks or herds",
+      "d": [
+        "living alone",
+        "fierce and wild"
+      ]
+    },
+    {
+      "c": "'Nature makes nothing in vain'",
+      "a": "natural things exist for some purpose",
+      "d": [
+        "nature wastes nothing in war",
+        "nature is ruled by chance"
+      ]
+    },
+    {
+      "c": "Gift that makes man more political than bees",
+      "a": "speech",
+      "d": [
+        "hands",
+        "memory",
+        "fire"
+      ]
+    },
+    {
+      "c": "What mere sound signals, per Aristotle",
+      "a": "pleasure or pain",
+      "d": [
+        "just or unjust",
+        "true or false"
+      ]
+    },
+    {
+      "c": "What speech can set forth, per Aristotle",
+      "a": "the expedient and the just",
+      "d": [
+        "only pleasure and pain",
+        "only hunger and thirst"
+      ]
+    },
+    {
+      "c": "Sense that man alone has, per Aristotle",
+      "a": "of good and evil, just and unjust",
+      "d": [
+        "of hot and cold",
+        "of sweet and bitter"
+      ]
+    },
+    {
+      "c": "Why the state is prior to the individual",
+      "a": "the whole is prior to the part",
+      "d": [
+        "the state is older in years",
+        "the gods founded the state first"
+      ]
+    },
+    {
+      "c": "A 'stone hand', in Aristotle's argument",
+      "a": "a hand in name only, apart from the body",
+      "d": [
+        "a statue of a strong man",
+        "a hand hardened by labor"
+      ]
+    },
+    {
+      "c": "One unable to live in society, per Aristotle",
+      "a": "either a beast or a god",
+      "d": [
+        "either a hermit or a priest",
+        "either a slave or a master"
+      ]
+    },
+    {
+      "c": "He who first founded the state, per Aristotle",
+      "a": "the greatest of benefactors",
+      "d": [
+        "the first of tyrants",
+        "a god in disguise"
+      ]
+    },
+    {
+      "c": "Man separated from law and justice",
+      "a": "the worst of all animals",
+      "d": [
+        "the freest of all animals",
+        "the best of all animals"
+      ]
+    },
+    {
+      "c": "Bond of men in states, per Aristotle",
+      "a": "justice",
+      "d": [
+        "wealth",
+        "fear",
+        "war"
+      ]
+    },
+    {
+      "c": "teleology",
+      "a": "explaining things by their end or purpose",
+      "d": [
+        "explaining things by chance",
+        "explaining things by atoms"
+      ]
+    },
+    {
+      "c": "Aristotle's three good constitutions",
+      "a": "kingship, aristocracy, polity",
+      "d": [
+        "tyranny, oligarchy, democracy",
+        "monarchy, empire, republic"
+      ]
+    },
+    {
+      "c": "Translator of this Politics",
+      "a": "Benjamin Jowett",
+      "d": [
+        "W. D. Ross",
+        "F. H. Peters",
+        "W. Rhys Roberts"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Politics, Book I: the state exists by nature",
+    "text": [
+      "Hence it is evident that the state is a creation of nature, and that man is by nature a political animal. And he who by nature and not by mere accident is without a state, is either above humanity, or below it; he is the ‘Tribeless, lawless, hearthless one,’ whom Homer denounces—the outcast who is a lover of war; he may be compared to an unprotected piece in the game of draughts.",
+      "Now the reason why man is more of a political animal than bees or any other gregarious animals is evident. Nature, as we often say, makes nothing in vain, and man is the only animal whom she has endowed with the gift of speech. And whereas mere sound is but an indication of pleasure or pain, and is therefore found in other animals (for their nature attains to the perception of pleasure and pain and the intimation of them to one another, and no further), the power of speech is intended to set forth the expedient and inexpedient, and likewise the just and the unjust. And it is a characteristic of man that he alone has any sense of good and evil, of just and unjust, and the association of living beings who have this sense makes a family and a state.",
+      "Thus the state is by nature clearly prior to the family and to the individual, since the whole is of necessity prior to the part; for example, if the whole body be destroyed, there will be no foot or hand, except in an equivocal sense, as we might speak of a stone hand; for when destroyed the hand will be no better. But things are defined by their working and power; and we ought not to say that they are the same when they are no longer the same, but only that they have the same name. The proof that the state is a creation of nature and prior to the individual is that the individual, when isolated, is not self-sufficing; and therefore he is like a part in relation to the whole. But he who is unable to live in society, or who has no need because he is sufficient for himself, must be either a beast or a god: he is no part of a state. A social instinct is implanted in all men by nature, and yet he who first founded the state was the greatest of benefactors. For man, when perfected, is the best of animals, but, when separated from law and justice, he is the worst of all; since armed injustice is the more dangerous, and he is equipped at birth with the arms of intelligence and with moral qualities which he may use for the worst ends. Wherefore, if he have not virtue, he is the most unholy and the most savage of animals, and the most full of lust and gluttony."
+    ],
+    "q": [
+      {
+        "q": "Why, for Aristotle, is man more of a political animal than bees?",
+        "o": [
+          "Man alone has speech, which can express the just and the unjust",
+          "Man lives in larger groups",
+          "Bees have no rulers"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does the example of the hand show?",
+        "o": [
+          "Hands are the most useful part of the body",
+          "A part cut off from the whole is no longer truly what it was",
+          "Statues are like living bodies"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why is man 'the worst of all' when separated from law and justice?",
+        "o": [
+          "He has no speech",
+          "He is weaker than other animals",
+          "He is armed with intelligence and qualities he can use for the worst ends"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

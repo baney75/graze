@@ -1,0 +1,55 @@
+{
+  "title": "Ionic and covalent bonding, Lewis structures",
+  "note": "Metals give electrons to nonmetals to form ions held by electrostatic attraction (ionic bonds); nonmetals share electron pairs (covalent bonds). In a Lewis structure, count valence electrons, connect atoms with single bonds, complete octets on outer atoms, then use multiple bonds if the central atom is short. Formal charge = valence − lone-pair electrons − ½ bonding electrons.",
+  "src": { "t": "Chemistry 2e, 7.3 Lewis Symbols and Structures, OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures" },
+  "items": [
+    { "c": "Ionic bond", "a": "attraction between oppositely charged ions", "d": ["a pair of electrons shared by two atoms", "a sea of delocalized electrons"] },
+    { "c": "Covalent bond", "a": "a pair of electrons shared by two atoms", "d": ["attraction between oppositely charged ions", "a sea of delocalized electrons"] },
+    { "c": "Metal atoms usually form ions by", "a": "losing electrons to become cations", "d": ["gaining electrons to become anions", "gaining protons to become cations"] },
+    { "c": "Ion formed by aluminum", "a": "Al³⁺", "d": ["Al³⁻", "Al²⁺"] },
+    { "c": "Ion formed by oxygen", "a": "O²⁻", "d": ["O²⁺", "O⁻"] },
+    { "c": "Ion formed by nitrogen in nitrides", "a": "N³⁻", "d": ["N³⁺", "N⁵⁺"] },
+    { "c": "Formula of calcium chloride", "a": "CaCl₂", "d": ["CaCl", "Ca₂Cl"] },
+    { "c": "Formula of aluminum oxide", "a": "Al₂O₃", "d": ["AlO", "Al₃O₂"] },
+    { "c": "Formula of magnesium nitride", "a": "Mg₃N₂", "d": ["Mg₂N₃", "MgN"] },
+    { "c": "Ionic compounds conduct electricity when", "a": "melted or dissolved in water", "d": ["solid at room temperature", "ground into a fine powder"] },
+    { "c": "Larger lattice energy: NaF or MgO?", "a": "MgO", "d": ["NaF"], "ex": "Ions with 2+ and 2− charges attract far more strongly." },
+    { "c": "Polar covalent bond", "a": "electrons shared unequally", "d": ["electrons shared equally", "electrons fully transferred"] },
+    { "c": "Rough ΔEN range for a polar covalent bond", "a": "about 0.4 to 1.8", "d": ["less than 0.4", "greater than 1.8"] },
+    { "c": "Bond type in Cl₂", "a": "nonpolar covalent", "d": ["polar covalent", "ionic"] },
+    { "c": "Bond type in NaCl", "a": "ionic", "d": ["polar covalent", "nonpolar covalent"] },
+    { "c": "Bond type in HCl", "a": "polar covalent", "d": ["nonpolar covalent", "ionic"] },
+    { "c": "Breaking a chemical bond is always", "a": "endothermic (absorbs energy)", "d": ["exothermic (releases energy)", "neither, with no energy change"] },
+    { "c": "Shortest carbon–carbon bond", "a": "triple bond", "d": ["single bond", "double bond"] },
+    { "c": "Octet rule", "a": "atoms tend to reach eight valence electrons", "d": ["atoms tend to form eight bonds", "molecules contain at most eight atoms"] },
+    { "c": "Lone pairs on each Cl atom in Cl₂", "a": "3", "d": ["1", "4"] },
+    { "c": "Lone pairs on N in NH₃", "a": "1", "d": ["0", "2"] },
+    { "c": "Lone pairs on O in H₂O", "a": "2", "d": ["1", "4"] },
+    { "c": "Total valence electrons in CO₂", "a": "16", "d": ["12", "22"] },
+    { "c": "Total valence electrons in NH₄⁺", "a": "8", "d": ["9", "10"] },
+    { "c": "Total valence electrons in SO₄²⁻", "a": "32", "d": ["30", "24"] },
+    { "c": "Bond between the atoms in N₂", "a": "a triple bond", "d": ["a single bond", "a double bond"] },
+    { "c": "Atoms never central in a Lewis structure", "a": "H and F", "d": ["C and N", "S and P"] },
+    { "c": "Usual central atom in a Lewis structure", "a": "the least electronegative atom", "d": ["the most electronegative atom", "the atom with the most electrons"] },
+    { "c": "Formal charge formula", "a": "valence − lone-pair e⁻ − ½ bonding e⁻", "d": ["valence − bonding e⁻ − ½ lone-pair e⁻", "valence + lone-pair e⁻ − bonds"] },
+    { "c": "Formal charge on N in NH₄⁺", "a": "+1", "d": ["0", "−1"] },
+    { "c": "Equivalent resonance forms of CO₃²⁻", "a": "three", "d": ["two", "four"] },
+    { "c": "A molecule with resonance really is", "a": "an average of its resonance forms", "d": ["flipping rapidly between its forms", "the single form with most double bonds"] },
+    { "c": "Molecule with an incomplete octet on its center", "a": "BF₃", "d": ["NF₃", "CF₄"] },
+    { "c": "Molecule with an expanded octet", "a": "SF₆", "d": ["OF₂", "CH₄"] },
+    { "c": "Odd-electron molecule (free radical)", "a": "NO", "d": ["CO", "N₂"] }
+  ],
+  "read": {
+    "title": "Giving electrons and sharing them",
+    "text": [
+      "Atoms bond because the bonded arrangement has lower energy than the separate atoms. There are two main ways this happens. When a metal meets a nonmetal, the metal tends to lose electrons and the nonmetal tends to gain them. Sodium becomes Na⁺ and chlorine becomes Cl⁻, and the ions attract each other in a rigid crystal. Ionic solids have high melting points and conduct electricity only when melted or dissolved, because only then can their ions move.",
+      "When two nonmetals meet, neither gives up electrons easily, so they share pairs instead. A shared pair is a covalent bond. If the two atoms differ in electronegativity, the pair is pulled toward one side and the bond is polar. Two or three shared pairs make double and triple bonds, which are shorter and stronger than single bonds between the same atoms.",
+      "Lewis structures track the valence electrons. Count them, adding one for each negative charge and removing one for each positive charge. Join the atoms with single bonds, usually around the least electronegative atom, and complete the octets of the outer atoms. Put leftover electrons on the central atom. If it is still short of eight, turn lone pairs into multiple bonds. When several valid structures exist, formal charges help choose the best one, and resonance describes molecules that no single drawing captures."
+    ],
+    "q": [
+      { "q": "Why does solid NaCl fail to conduct electricity?", "o": ["It contains no charged particles", "Its electrons are shared equally", "Its ions are locked in place"], "k": 2 },
+      { "q": "What makes a covalent bond polar?", "o": ["A difference in electronegativity between the atoms", "The presence of a triple bond", "A full transfer of electrons"], "k": 0 },
+      { "q": "If the central atom lacks an octet after placing all electrons, you should", "o": ["add extra electrons to the count", "form multiple bonds from outer lone pairs", "move hydrogen to the center"], "k": 1 }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "The American founding and the young republic",
+  "note": "After declaring independence in 1776, Americans first tried a weak league of states under the Articles of Confederation, then wrote the Constitution of 1787, a federal system of separated powers with a Bill of Rights. The young nation expanded west, while compromises over slavery postponed a reckoning.",
+  "src": { "t": "OpenStax U.S. History, Ch. 6 to 13", "u": "https://openstax.org/books/us-history/pages/7-4-the-constitutional-convention-and-federal-constitution" },
+  "items": [
+    { "c": "Thomas Paine's Common Sense (1776)", "a": "Pamphlet urging independence from Britain", "d": ["Essays defending the Constitution", "Speech on the eve of the Civil War"] },
+    { "c": "Adoption of the Declaration of Independence", "a": "July 4, 1776", "d": ["April 19, 1775", "September 17, 1787", "September 3, 1783"] },
+    { "c": "Main author of the Declaration of Independence", "a": "Thomas Jefferson", "d": ["John Adams", "James Madison", "Benjamin Franklin"] },
+    { "c": "Articles of Confederation", "a": "First US plan of government, with a weak center", "d": ["Treaty of alliance with France", "List of rights added to the Constitution"] },
+    { "c": "Key weakness of the Articles of Confederation", "a": "Congress could not levy taxes", "d": ["The president had too much power", "Small states had no vote"] },
+    { "c": "Shays' Rebellion (1786 to 1787)", "a": "Farmers' revolt that exposed a weak national government", "d": ["Protest against the British tea tax", "Revolt against a federal whiskey tax"] },
+    { "c": "Constitutional Convention", "a": "Philadelphia, 1787", "d": ["Boston, 1776", "New York, 1789", "Philadelphia, 1776"] },
+    { "c": "\"Father of the Constitution\"", "a": "James Madison", "d": ["Alexander Hamilton", "George Washington", "John Jay"] },
+    { "c": "Great (Connecticut) Compromise", "a": "House by population, Senate with equal votes per state", "d": ["Enslaved people counted as three-fifths", "Slave trade allowed until 1808"] },
+    { "c": "Three-Fifths Compromise", "a": "Counted three of every five enslaved people for representation", "d": ["Gave three-fifths of seats to large states", "Required three-fifths of states to ratify"] },
+    { "c": "Separation of powers in the Constitution", "a": "Legislative, executive and judicial branches", "d": ["Federal, state and local governments", "House, Senate and cabinet"] },
+    { "c": "Federalism", "a": "Power divided between national and state governments", "d": ["Power held only by the national government", "Power held only by the states"] },
+    { "c": "The Federalist Papers", "a": "Essays urging ratification of the Constitution", "d": ["Essays opposing the Constitution", "Letters urging independence"] },
+    { "c": "Anti-Federalists demanded", "a": "A bill of rights", "d": ["A stronger president", "An end to state governments"] },
+    { "c": "Bill of Rights ratified", "a": "1791", "d": ["1776", "1787", "1803"] },
+    { "c": "First Amendment protects", "a": "Freedom of religion, speech, press and assembly", "d": ["The right to bear arms", "The right to a jury trial"] },
+    { "c": "First president of the United States", "a": "George Washington", "d": ["John Adams", "Thomas Jefferson", "Benjamin Franklin"] },
+    { "c": "Alexander Hamilton", "a": "Treasury secretary who created a national bank", "d": ["Secretary of state who bought Louisiana", "Chief justice who set judicial review"] },
+    { "c": "Louisiana Purchase", "a": "1803, from France, doubling US territory", "d": ["1819, from Spain, adding Florida", "1848, from Mexico, adding California"] },
+    { "c": "Lewis and Clark", "a": "Led the expedition to the Pacific, 1804 to 1806", "d": ["Negotiated the Treaty of Paris", "Led Texas to independence"] },
+    { "c": "Marbury v. Madison (1803)", "a": "Established judicial review", "d": ["Ruled enslaved people were not citizens", "Upheld segregation as legal"] },
+    { "c": "War of 1812 was fought against", "a": "Britain", "d": ["France", "Spain", "Mexico"] },
+    { "c": "Monroe Doctrine (1823)", "a": "Warned Europe against new colonies in the Americas", "d": ["Declared US neutrality in European wars", "Bought Florida from Spain"] },
+    { "c": "Missouri Compromise (1820)", "a": "Admitted Missouri as slave state, Maine as free", "d": ["Let settlers vote on slavery in Kansas", "Admitted California as a free state"] },
+    { "c": "Indian Removal Act", "a": "1830 law to move Native nations west of the Mississippi", "d": ["1887 law dividing reservations into plots", "1862 law giving free land to settlers"] },
+    { "c": "Trail of Tears", "a": "Forced removal of the Cherokee, 1838 to 1839", "d": ["Route of escape from slavery to Canada", "Wagon road to the Oregon Territory"] },
+    { "c": "President who championed Indian removal", "a": "Andrew Jackson", "d": ["John Quincy Adams", "James Monroe", "Abraham Lincoln"] },
+    { "c": "Eli Whitney's cotton gin (1793)", "a": "Made cotton profitable and expanded slavery", "d": ["Ended the need for enslaved labor", "Moved cotton growing to the North"] },
+    { "c": "Manifest Destiny", "a": "Belief the US was meant to spread across the continent", "d": ["Belief the US should stay out of foreign wars", "Belief that each state could cancel federal laws"] },
+    { "c": "Mexican-American War", "a": "1846 to 1848", "d": ["1812 to 1815", "1836 to 1838", "1861 to 1865"] },
+    { "c": "Treaty of Guadalupe Hidalgo (1848)", "a": "Mexico ceded the Southwest and California", "d": ["Spain ceded Florida", "Britain ceded Oregon"] },
+    { "c": "Seneca Falls Convention (1848)", "a": "First major US women's rights convention", "d": ["Meeting that founded the Republican Party", "Convention that wrote the Bill of Rights"] }
+  ],
+  "read": {
+    "title": "Designing a republic",
+    "text": [
+      "The Declaration of Independence of 1776 claimed that governments get their power from the consent of the governed. Turning that idea into a working government proved hard. Under the Articles of Confederation, Congress could not tax, regulate trade or raise an army on its own. When indebted farmers in Massachusetts rose up in Shays' Rebellion, many leaders concluded that a stronger national government was needed.",
+      "In 1787 delegates met in Philadelphia. They divided power among three branches so each could check the others, and between the national and state governments. The Great Compromise balanced large and small states by basing the House on population and giving every state two senators. Delegates also bargained over slavery, counting three-fifths of enslaved people for representation. Supporters wrote the Federalist Papers to win ratification, and opponents secured a promise of the Bill of Rights, ratified in 1791.",
+      "Under the new government the nation grew quickly. The Louisiana Purchase of 1803 doubled its size, and war with Mexico in the 1840s added the Southwest and California. Expansion came at a heavy price for Native nations forced west. It also reopened the most divisive question of all: whether slavery would spread into the new lands."
+    ],
+    "q": [
+      { "q": "What convinced many leaders that the Articles of Confederation were too weak?", "o": ["Shays' Rebellion", "The Louisiana Purchase", "The War of 1812", "The Monroe Doctrine"], "k": 0 },
+      { "q": "How did the Great Compromise satisfy small states?", "o": ["Each state got two senators", "The House was based on population", "Small states chose the president", "Slavery was banned"], "k": 0 },
+      { "q": "According to the reading, what question did westward expansion reopen?", "o": ["Whether slavery would spread", "Whether to keep the Constitution", "Whether to rejoin Britain", "Whether to tax imports"], "k": 0 }
+    ]
+  }
+}

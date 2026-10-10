@@ -1,0 +1,369 @@
+{
+  "title": "Days, months and telling time",
+  "note": "Days and months are lowercase. Time uses essere + le + the hour: Sono le tre (it's three), but È l'una, È mezzogiorno, È mezzanotte. Add e for past (e un quarto, e mezza) and meno for to. Il lunedì means \"on Mondays.\"",
+  "src": {
+    "t": "Vocabolario Treccani",
+    "u": "https://www.treccani.it/vocabolario/"
+  },
+  "items": [
+    {
+      "c": "lunedì",
+      "a": "Monday",
+      "d": [
+        "Tuesday",
+        "Sunday"
+      ],
+      "ex": "Lunedì ho lezione.",
+      "exT": "On Monday I have class."
+    },
+    {
+      "c": "martedì",
+      "a": "Tuesday",
+      "d": [
+        "Thursday",
+        "Wednesday"
+      ]
+    },
+    {
+      "c": "mercoledì",
+      "a": "Wednesday",
+      "d": [
+        "Tuesday",
+        "Friday"
+      ]
+    },
+    {
+      "c": "giovedì",
+      "a": "Thursday",
+      "d": [
+        "Tuesday",
+        "Saturday"
+      ]
+    },
+    {
+      "c": "venerdì",
+      "a": "Friday",
+      "d": [
+        "Saturday",
+        "Wednesday"
+      ]
+    },
+    {
+      "c": "sabato",
+      "a": "Saturday",
+      "d": [
+        "Sunday",
+        "Friday"
+      ]
+    },
+    {
+      "c": "domenica",
+      "a": "Sunday",
+      "d": [
+        "Saturday",
+        "Monday"
+      ]
+    },
+    {
+      "c": "gennaio",
+      "a": "January",
+      "d": [
+        "June",
+        "February"
+      ]
+    },
+    {
+      "c": "febbraio",
+      "a": "February",
+      "d": [
+        "January",
+        "March"
+      ]
+    },
+    {
+      "c": "marzo",
+      "a": "March",
+      "d": [
+        "May",
+        "April"
+      ]
+    },
+    {
+      "c": "aprile",
+      "a": "April",
+      "d": [
+        "August",
+        "March"
+      ]
+    },
+    {
+      "c": "maggio",
+      "a": "May",
+      "d": [
+        "March",
+        "June"
+      ]
+    },
+    {
+      "c": "giugno",
+      "a": "June",
+      "d": [
+        "July",
+        "January"
+      ]
+    },
+    {
+      "c": "luglio",
+      "a": "July",
+      "d": [
+        "June",
+        "August"
+      ]
+    },
+    {
+      "c": "agosto",
+      "a": "August",
+      "d": [
+        "April",
+        "September"
+      ]
+    },
+    {
+      "c": "settembre",
+      "a": "September",
+      "d": [
+        "July",
+        "November"
+      ]
+    },
+    {
+      "c": "ottobre",
+      "a": "October",
+      "d": [
+        "August",
+        "December"
+      ]
+    },
+    {
+      "c": "novembre",
+      "a": "November",
+      "d": [
+        "September",
+        "December"
+      ]
+    },
+    {
+      "c": "dicembre",
+      "a": "December",
+      "d": [
+        "October",
+        "November"
+      ]
+    },
+    {
+      "c": "il giorno",
+      "a": "day",
+      "d": [
+        "week",
+        "month"
+      ]
+    },
+    {
+      "c": "la settimana",
+      "a": "week",
+      "d": [
+        "weekend",
+        "month"
+      ]
+    },
+    {
+      "c": "il mese",
+      "a": "month",
+      "d": [
+        "week",
+        "year"
+      ]
+    },
+    {
+      "c": "oggi",
+      "a": "today",
+      "d": [
+        "tomorrow",
+        "yesterday"
+      ],
+      "ex": "Oggi è venerdì.",
+      "exT": "Today is Friday."
+    },
+    {
+      "c": "domani",
+      "a": "tomorrow",
+      "d": [
+        "today",
+        "yesterday"
+      ]
+    },
+    {
+      "c": "ieri",
+      "a": "yesterday",
+      "d": [
+        "tomorrow",
+        "today"
+      ]
+    },
+    {
+      "c": "la mattina",
+      "a": "morning",
+      "d": [
+        "afternoon",
+        "evening"
+      ]
+    },
+    {
+      "c": "il pomeriggio",
+      "a": "afternoon",
+      "d": [
+        "morning",
+        "evening"
+      ]
+    },
+    {
+      "c": "la sera",
+      "a": "evening",
+      "d": [
+        "afternoon",
+        "night"
+      ]
+    },
+    {
+      "c": "la notte",
+      "a": "night",
+      "d": [
+        "evening",
+        "noon"
+      ]
+    },
+    {
+      "c": "il lunedì",
+      "a": "on Mondays",
+      "d": [
+        "next Monday",
+        "last Monday"
+      ],
+      "ex": "Il lunedì vado in palestra.",
+      "exT": "On Mondays I go to the gym."
+    },
+    {
+      "c": "Che ore sono?",
+      "a": "What time is it?",
+      "d": [
+        "What day is it?",
+        "How long is it?"
+      ]
+    },
+    {
+      "c": "Sono le tre.",
+      "a": "It's three o'clock.",
+      "d": [
+        "It's one o'clock.",
+        "It's a quarter past three."
+      ]
+    },
+    {
+      "c": "È l'una.",
+      "a": "It's one o'clock.",
+      "d": [
+        "It's eleven o'clock.",
+        "It's noon."
+      ]
+    },
+    {
+      "c": "mezzogiorno",
+      "a": "noon",
+      "d": [
+        "midnight",
+        "morning"
+      ]
+    },
+    {
+      "c": "mezzanotte",
+      "a": "midnight",
+      "d": [
+        "noon",
+        "evening"
+      ]
+    },
+    {
+      "c": "A che ora?",
+      "a": "At what time?",
+      "d": [
+        "For how long?",
+        "Since when?"
+      ],
+      "ex": "A che ora è la cena? Alle otto.",
+      "exT": "What time is dinner? At eight."
+    },
+    {
+      "c": "Sono le due e ___. (half past)",
+      "a": "mezza",
+      "d": [
+        "quarto",
+        "metà"
+      ]
+    },
+    {
+      "c": "Sono le otto ___ un quarto. (quarter to)",
+      "a": "meno",
+      "d": [
+        "e",
+        "per"
+      ]
+    },
+    {
+      "c": "___ l'una e dieci.",
+      "a": "È",
+      "d": [
+        "Sono",
+        "Ha"
+      ]
+    }
+  ],
+  "read": {
+    "title": "La settimana di Luca",
+    "text": [
+      "Luca è uno studente di Bologna. Il lunedì e il mercoledì ha lezione la mattina, dalle nove a mezzogiorno. Il martedì e il giovedì lavora in un bar il pomeriggio.",
+      "Il venerdì sera esce con gli amici. Il sabato dorme fino a tardi, e la domenica pranza con la sua famiglia all'una.",
+      "Oggi è martedì e sono le due: Luca è al bar. Domani ha lezione alle nove."
+    ],
+    "q": [
+      {
+        "q": "When does Luca work at the bar?",
+        "o": [
+          "Monday and Wednesday mornings",
+          "Friday evenings",
+          "Tuesday and Thursday afternoons",
+          "Sunday at one"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What does Luca do on Sundays?",
+        "o": [
+          "He goes out with friends",
+          "He has lunch with his family",
+          "He sleeps late"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What time is it in the last paragraph?",
+        "o": [
+          "Nine o'clock",
+          "Noon",
+          "Two o'clock",
+          "One o'clock"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

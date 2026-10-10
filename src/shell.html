@@ -223,6 +223,122 @@ input[type=text]{width:100%;box-sizing:border-box;background:var(--ink-2);border
 @media (min-width:900px){.upd{left:auto;right:clamp(16px,4vw,56px);transform:none;top:calc(env(safe-area-inset-top,0px) + 16px);bottom:auto}}
 .notes{margin:0;padding-left:1.1em;display:flex;flex-direction:column;gap:6px;font-size:14px;line-height:1.45;color:var(--text)}
 .news .sec-h b{font-family:var(--f-display);font-weight:600;font-size:17px}
+/* Next lesson */
+.next{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:4px 12px;padding:12px;border-radius:14px;border:1px solid rgba(213,182,111,.28);background:rgba(255,255,255,.03)}
+.next .lbl{grid-column:1}
+.next b{grid-column:1;font-family:var(--f-display);font-weight:600;font-size:16px;line-height:1.25;min-width:0}
+.next button{grid-column:2;grid-row:1/3;border:0;border-radius:10px;background:var(--gold);color:var(--ink);font-weight:700;padding:10px 14px;font-size:13px}
+.cta.alt{flex:0 0 auto;background:transparent;color:var(--gold);border:1px solid var(--gold)}
+.cta.alt kbd{background:rgba(213,182,111,.14)}
+
+/* Library */
+.lib-groups{display:flex;flex-direction:column;gap:18px}
+.lib-g h3{margin:0 0 2px;font-family:var(--f-display);font-weight:600;font-size:18px}
+.lib-g>p{margin:0 0 8px;font-size:12.5px;color:var(--muted)}
+.clist{display:grid;grid-template-columns:repeat(auto-fill,minmax(178px,1fr));gap:8px}
+.cc{display:flex;flex-direction:column;align-items:flex-start;gap:4px;padding:12px;border-radius:12px;border:1px solid var(--line);background:rgba(255,255,255,.03);text-align:left;min-width:0;position:relative}
+.cc b{font-family:var(--f-display);font-weight:600;font-size:15.5px;line-height:1.2;padding-right:22px}
+.cc small{font-size:12px;color:var(--muted)}
+.cc .bar{width:100%;height:4px;margin-top:4px}
+.cc.on{border-color:var(--cc,var(--gold));background:rgba(213,182,111,.06)}
+.cc.on::after{content:"";position:absolute;top:12px;right:12px;width:14px;height:14px;border-radius:50%;background:var(--cc,var(--gold));box-shadow:inset 0 0 0 3px var(--ink)}
+.cc.pick{cursor:pointer}
+.cc .rank{position:absolute;top:10px;right:10px;font-size:11px;font-weight:700;color:var(--ink);background:var(--cc,var(--gold));border-radius:999px;min-width:20px;height:20px;display:grid;place-items:center;padding:0 5px;box-sizing:border-box}
+.cc.on.ranked::after{display:none}
+.focus-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px}
+.focus-list li{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:4px 10px;align-items:center;padding:10px 12px;border-radius:12px;background:rgba(255,255,255,.035)}
+.focus-list .no{font-family:var(--f-display);font-weight:600;color:var(--muted);width:2ch;text-align:center}
+.focus-list li:first-child .no{color:var(--gold)}
+.focus-list .nm{display:flex;flex-direction:column;gap:3px;min-width:0;border:0;background:none;text-align:left;padding:0}
+.focus-list .nm b{font-weight:600;font-size:14.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.focus-list .nm small{font-size:12px;color:var(--muted)}
+.focus-list .mv{display:flex;gap:4px}
+.focus-list .mv button{width:32px;height:32px;border-radius:8px;border:1px solid var(--line);background:transparent;color:var(--muted);padding:0;display:grid;place-items:center}
+.focus-list .mv svg{width:16px;height:16px;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.seg{display:flex;gap:4px;flex-wrap:wrap}
+.seg button{padding:7px 11px;border-radius:9px;border:1px solid var(--line);background:transparent;font-size:12.5px;font-weight:600;color:var(--muted)}
+.seg button.on{border-color:var(--gold);color:var(--gold);background:rgba(213,182,111,.08)}
+.setrow{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;font-size:13px}
+.units{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px}
+.units li{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:3px 12px;align-items:center;padding:10px 12px;border-radius:12px;background:rgba(255,255,255,.035);border:1px solid transparent}
+.units li.start{border-color:rgba(213,182,111,.45)}
+.units .no{font-family:var(--f-display);font-weight:600;font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums;width:2.2ch}
+.units .tt{display:flex;flex-direction:column;gap:3px;min-width:0}
+.units .tt b{font-family:var(--f-read);font-weight:600;font-size:15px;line-height:1.25}
+.units .tt small{font-size:12px;color:var(--muted)}
+.units .tt small i{font-style:normal;color:var(--gold)}
+.units .bar{height:3px}
+.units button.go{border:1px solid var(--gold);border-radius:10px;background:transparent;color:var(--gold);font-weight:700;padding:8px 12px;font-size:12.5px}
+.units li.done button.go{border-color:var(--line);color:var(--muted)}
+.srcs{margin:0;padding-left:1.1em;display:flex;flex-direction:column;gap:4px;font-size:13px}
+.srcs a,.src a{color:var(--gold);text-underline-offset:3px}
+.src{font-size:12px;color:var(--muted)}
+.pillrow{display:flex;gap:6px;flex-wrap:wrap}
+.pill{font-size:11px;letter-spacing:.08em;text-transform:uppercase;padding:4px 8px;border-radius:999px;border:1px solid var(--line);color:var(--muted)}
+.pill.g{border-color:rgba(213,182,111,.45);color:var(--gold)}
+
+/* Lesson */
+.teach{display:flex;flex-direction:column;gap:12px;align-items:center;text-align:center;padding:8px 0}
+.teach .cue{font-family:var(--f-display);font-style:italic;font-weight:600;font-size:clamp(28px,7vw,44px);line-height:1.1;text-wrap:balance;margin:0;-webkit-user-select:text;user-select:text}
+.teach .rd{font-size:15px;color:var(--muted);letter-spacing:.02em}
+.teach .ans{font-family:var(--f-read);font-size:21px;color:var(--gold);line-height:1.3;margin:0;text-wrap:balance}
+.teach .ex{font-family:var(--f-read);font-size:16px;line-height:1.45;margin:0;color:var(--text);max-width:46ch;-webkit-user-select:text;user-select:text}
+.teach .ex small{display:block;color:var(--muted);font-family:var(--f-ui);font-size:13px;margin-top:4px}
+.cimg{display:block;width:auto;max-width:100%;max-height:min(38vh,300px);margin:0 auto;border-radius:12px;background:rgba(0,0,0,.18)}
+.voice{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.vbtn{display:inline-flex;align-items:center;gap:7px;padding:9px 13px;border-radius:999px;border:1px solid var(--line);background:rgba(255,255,255,.03);font-size:13px;font-weight:600;color:var(--text)}
+.vbtn svg{width:16px;height:16px;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.vbtn.live{border-color:var(--hazard);color:var(--hazard);animation:pulse 1s ease-in-out infinite}
+@keyframes pulse{50%{box-shadow:0 0 0 6px rgba(238,137,145,.15)}}
+.heard{font-size:13px;color:var(--muted);min-height:1.2em;text-align:center}
+.heard b{color:var(--text)}
+.heard.ok b{color:var(--good)}
+.heard.bad b{color:var(--hazard)}
+.steps{display:flex;gap:4px}
+.steps i{flex:1;height:4px;border-radius:4px;background:rgba(255,255,255,.1)}
+.steps i.on{background:var(--gold)}
+.steps i.ok{background:var(--good)}
+.steps i.bad{background:var(--hazard)}
+
+/* Feed */
+.feed{position:fixed;inset:0;z-index:3;background:radial-gradient(120% 80% at 50% 0%,#33222a 0%,#21191d 55%,#1a1317 100%)}
+.fhud{position:fixed;z-index:4;top:0;left:0;right:0;display:flex;align-items:center;justify-content:space-between;gap:10px;padding:calc(env(safe-area-inset-top,0px) + 10px) 12px 10px;pointer-events:none}
+.fhud>*{pointer-events:auto}
+.fhud .x{background:rgba(33,25,29,.7)}
+.fstats{display:flex;gap:10px;align-items:center;font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums;background:rgba(33,25,29,.7);border:1px solid var(--line);border-radius:999px;padding:7px 12px}
+.fcombo{color:var(--gold);font-weight:700}
+.fcombo:empty,.fgain:empty{display:none}
+.fgain{color:var(--shard);font-weight:700}
+.fscroll{position:absolute;inset:0;overflow-y:auto;scroll-snap-type:y mandatory;overscroll-behavior:contain;scrollbar-width:none}
+.fscroll::-webkit-scrollbar{display:none}
+.fcard{height:100dvh;min-height:100vh;scroll-snap-align:start;scroll-snap-stop:always;box-sizing:border-box;display:flex;align-items:center;justify-content:center;padding:calc(env(safe-area-inset-top,0px) + 66px) 16px calc(env(safe-area-inset-bottom,0px) + 28px)}
+@supports (height:100dvh){.fcard{min-height:0}}
+.fin{width:100%;max-width:560px;max-height:100%;display:flex;flex-direction:column;gap:14px;align-items:stretch}
+.fk{display:flex;justify-content:space-between;align-items:center;gap:8px;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);font-weight:700}
+.fk .t{color:var(--fc,var(--gold))}
+.fcue{font-family:var(--f-display);font-style:italic;font-weight:600;font-size:clamp(28px,8vw,48px);line-height:1.08;text-align:center;margin:0;text-wrap:balance;overflow-wrap:anywhere}
+.fcue.sm{font-size:clamp(22px,6vw,32px)}
+.frd{text-align:center;color:var(--muted);font-size:15px;margin-top:-6px}
+.fopts{display:grid;grid-template-columns:minmax(0,1fr);gap:8px;transition:opacity .25s}
+.fopts.wait{opacity:0;pointer-events:none}
+@media (min-width:560px){.fopts.two{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.fopts button{min-height:54px;padding:12px 14px;border-radius:14px;border:1px solid var(--line);background:rgba(255,255,255,.04);font-size:16px;line-height:1.3;text-align:left;display:flex;gap:10px;align-items:center}
+.fopts button kbd{flex:none;font-family:var(--f-ui);font-size:11px;color:var(--muted);width:18px;height:18px;border-radius:5px;border:1px solid var(--line);display:grid;place-items:center}
+.fopts button.ok{border-color:var(--good);background:rgba(130,200,156,.14)}
+.fopts button.bad{border-color:var(--hazard);background:rgba(238,137,145,.12)}
+.fopts button:disabled{cursor:default}
+.fnote{font-family:var(--f-read);font-size:17px;line-height:1.55;margin:0;text-align:left;-webkit-user-select:text;user-select:text}
+.fex{font-family:var(--f-read);font-size:15px;line-height:1.45;margin:0;color:var(--muted);text-align:center;min-height:1.4em}
+.fex b{color:var(--text);font-weight:400}
+.fans{font-family:var(--f-read);font-size:22px;color:var(--gold);text-align:center;margin:0;text-wrap:balance}
+.fhint{font-size:12px;color:var(--muted);text-align:center;letter-spacing:.06em}
+.fcard.gold .fin{border-radius:20px;box-shadow:0 0 0 1px rgba(213,182,111,.5),0 0 60px rgba(213,182,111,.12);padding:16px}
+.fcard .cimg{max-height:min(40vh,340px)}
+.fbig{font-family:var(--f-display);font-style:italic;font-weight:600;font-size:clamp(40px,12vw,64px);line-height:1;text-align:center;color:var(--gold)}
+.fsum{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.fsheet{position:fixed;z-index:5;left:50%;transform:translateX(-50%);bottom:calc(env(safe-area-inset-bottom,0px) + 16px);width:min(560px,calc(100% - 32px));max-height:80vh;overflow-y:auto;box-sizing:border-box;background:var(--panel);-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px);border:1px solid var(--brass);border-radius:18px;padding:18px;display:flex;flex-direction:column;gap:14px;box-shadow:0 24px 70px rgba(15,9,12,.6)}
+.fread{position:fixed;inset:0;z-index:6;background:var(--ink);overflow-y:auto;padding:calc(env(safe-area-inset-top,0px) + 20px) 16px calc(env(safe-area-inset-bottom,0px) + 24px)}
+.fread>div{max-width:640px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
 @media (max-height:700px){#menu .how,#menu .legend{display:none}.sheet{gap:12px;padding:16px}}
 @media (prefers-reduced-motion:reduce){.bar>i{transition:none}}
 </style>
@@ -260,11 +376,12 @@ input[type=text]{width:100%;box-sizing:border-box;background:var(--ink-2);border
         </select></label>
       </div>
     </div>
-    <div class="row"><button id="play" class="cta">Play <kbd>Space</kbd></button></div>
+    <div class="next" id="mLesson" hidden></div>
+    <div class="row"><button id="play" class="cta">Play <kbd>Space</kbd></button><button id="feedBtn" class="cta alt" title="Feed (F)">Feed <kbd>F</kbd></button></div>
     <div class="tiles">
       <button class="tile" id="bCodex">Codex<small id="tCodex">20 pages</small></button>
       <button class="tile" id="bSigils">Sigils<small id="tSigils">0 mastered</small></button>
-      <button class="tile" id="bForge">Forge<small id="tForge">Packs</small></button>
+      <button class="tile" id="bForge">Library<small id="tForge">Courses</small></button>
       <button class="tile" id="bShop">Workshop<small id="tShop">Upgrades</small></button>
       <button class="tile" id="bSync">Sync<small id="tSync">This device</small></button>
     </div>
@@ -324,11 +441,7 @@ input[type=text]{width:100%;box-sizing:border-box;background:var(--ink-2);border
 <section id="sync" class="ov center" hidden><div class="sheet wide" id="syncBody"></div></section>
 <section id="forge" class="ov center" hidden>
   <div class="sheet wide">
-    <div class="ph"><h2>Forge</h2><button class="x" data-close aria-label="Close">×</button></div>
-    <div class="sec">
-      <span class="lbl">Packs at your gates</span>
-      <div class="checks" id="fPacks"></div>
-    </div>
+    <div class="ph"><div><div class="meta">Library</div><h2>Your own list</h2></div><button class="x" data-close aria-label="Close">×</button></div>
     <div class="sec">
       <span class="lbl">Your own sigils</span>
       <p class="how">Anything you want burned into memory: a language, a course, names, formulas. One per line, prompt then answer, separated by <b>=</b>. Yours come first at gates.</p>
@@ -350,11 +463,23 @@ input[type=text]{width:100%;box-sizing:border-box;background:var(--ink-2);border
   <div class="sheet">
     <div class="meta" id="rvMeta">Second chance</div>
     <p class="rv-cue" id="rvCue"></p>
+    <img class="cimg" id="rvImg" alt="" hidden>
     <div class="timer" aria-hidden="true"><i id="rvTimer"></i></div>
     <div class="opts" id="rvOpts"></div>
   </div>
 </section>
 
+<section id="library" class="ov center" hidden><div class="sheet wide" id="libBody"></div></section>
+<section id="learn" class="ov center" hidden><div class="sheet wide" id="learnBody"></div></section>
+<section id="feed" class="feed" hidden>
+  <div class="fhud">
+    <button class="x" id="fClose" aria-label="Close feed">×</button>
+    <div class="fstats"><span id="fCombo" class="fcombo"></span><span id="fToday"></span><span id="fGain" class="fgain"></span></div>
+    <button class="x" id="fMenu" aria-label="Feed settings" title="Settings">⋯</button>
+  </div>
+  <div class="fscroll" id="fScroll"></div>
+  <div class="fsheet" id="fSheet" hidden></div>
+</section>
 <section id="news" class="ov center" hidden><div class="sheet" id="newsBody"></div></section>
 
 <div id="upd" class="upd" hidden role="status"><span id="updTxt">A new version of Graze is ready.</span><button id="updGo">Update</button><button id="updNews" class="ghost">What’s new</button></div>

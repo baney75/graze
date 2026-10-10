@@ -1,0 +1,16 @@
+{
+  "key": "research",
+  "name": "Research Skills",
+  "group": "Skills",
+  "tag": "RESEARCH",
+  "level": "College",
+  "blurb": "Find, evaluate, read and use evidence like a scholar. By the end you can build a precise search, judge a source in a minute, read a study's design and statistics critically, and cite and synthesize sources honestly and ethically.",
+  "sources": [
+    { "t": "Web Literacy for Student Fact-Checkers, Mike Caulfield (open textbook)", "u": "https://pressbooks.pub/webliteracy/" },
+    { "t": "PubMed Help and MeSH, US National Library of Medicine", "u": "https://pubmed.ncbi.nlm.nih.gov/help/" },
+    { "t": "Introductory Statistics 2e, OpenStax", "u": "https://openstax.org/books/introductory-statistics-2e/pages/8-introduction" },
+    { "t": "APA and MLA Style Guides, Purdue OWL", "u": "https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html" },
+    { "t": "The Belmont Report, US Department of Health and Human Services", "u": "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html" },
+    { "t": "Choosing and Using Sources: A Guide to Academic Research, Lowry, LibreTexts", "u": "https://human.libretexts.org/Bookshelves/Research_and_Information_Literacy/Choosing_and_Using_Sources%3A_A_Guide_to_Academic_Research" }
+  ]
+}

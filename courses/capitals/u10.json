@@ -1,0 +1,24 @@
+{
+  "title": "The Midwest of the United States",
+  "kind": "map",
+  "set": "us",
+  "note": "The Midwest has twelve states: the Great Lakes states (Ohio, Indiana, Illinois, Michigan, Wisconsin) and the plains states west of them, from Minnesota and Iowa to the Dakotas, Nebraska, Kansas and Missouri.",
+  "src": {
+    "t": "US Census Bureau cartographic boundaries via us-atlas",
+    "u": "https://github.com/topojson/us-atlas"
+  },
+  "items": [
+    { "p": "IL", "a": "Illinois", "d": ["Indiana", "Missouri", "Iowa"] },
+    { "p": "IN", "a": "Indiana", "d": ["Illinois", "Ohio", "Missouri"] },
+    { "p": "MI", "a": "Michigan", "d": ["Wisconsin", "Indiana", "Minnesota"] },
+    { "p": "OH", "a": "Ohio", "d": ["Indiana", "Illinois", "Michigan"] },
+    { "p": "WI", "a": "Wisconsin", "d": ["Michigan", "Minnesota", "Iowa"] },
+    { "p": "IA", "a": "Iowa", "d": ["Illinois", "Wisconsin", "Missouri"] },
+    { "p": "KS", "a": "Kansas", "d": ["Nebraska", "Missouri", "Iowa"] },
+    { "p": "MN", "a": "Minnesota", "d": ["Wisconsin", "Iowa", "North Dakota"] },
+    { "p": "MO", "a": "Missouri", "d": ["Illinois", "Iowa", "Kansas"] },
+    { "p": "NE", "a": "Nebraska", "d": ["South Dakota", "Kansas", "Iowa"] },
+    { "p": "ND", "a": "North Dakota", "d": ["South Dakota", "Minnesota", "Nebraska"] },
+    { "p": "SD", "a": "South Dakota", "d": ["Nebraska", "North Dakota", "Minnesota"] }
+  ]
+}

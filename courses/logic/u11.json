@@ -1,0 +1,48 @@
+{
+  "title": "Probability and base rates",
+  "note": "Probabilities run from 0 (impossible) to 1 (certain). Independent events do not affect each other, so past coin flips do not change the next one. Bayes' theorem, in plain words: start from the base rate (the prior), then raise or lower it by how much more likely the evidence is if the hypothesis is true than if it is false.",
+  "src": { "t": "Critical Reasoning (Southworth and Swoyer), Ch. 14 Conditional Probabilities", "u": "https://human.libretexts.org/Bookshelves/Philosophy/Logic_and_Reasoning/Critical_Reasoning%3A_A_User's_Manual_(Southworth_and_Swoyer)/14%3A_Conditional_Probabilities" },
+  "items": [
+    { "c": "Base rate neglect", "a": "ignoring how common something is overall", "d": ["believing past random results change future odds", "judging 'A and B' likelier than A", "trusting the first number you see"] },
+    { "c": "Gambler’s fallacy", "a": "believing past random results change future odds", "d": ["ignoring how common something is overall", "continuing because of what you already spent", "judging only from those who made it"] },
+    { "c": "Probability of an impossible event", "a": "0", "d": ["1", "0.5", "−1"] },
+    { "c": "Probability of a certain event", "a": "1", "d": ["0", "0.5", "0.99"] },
+    { "c": "Probability of heads on one fair coin flip", "a": "1/2", "d": ["1/3", "1/4", "1"] },
+    { "c": "P(not A) equals", "a": "1 − P(A)", "d": ["P(A) − 1", "1 + P(A)", "1 ÷ P(A)"] },
+    { "c": "P(A and B) for independent events", "a": "P(A) × P(B)", "d": ["P(A) + P(B)", "P(A) − P(B)", "P(A) ÷ P(B)"] },
+    { "c": "P(A or B) for mutually exclusive events", "a": "P(A) + P(B)", "d": ["P(A) × P(B)", "P(A) − P(B)", "1 − P(A) × P(B)"] },
+    { "c": "Two fair coin flips: P(at least one head)", "a": "3/4", "d": ["1/2", "1/4", "2/3"] },
+    { "c": "Rolling a 6 on one fair die", "a": "1/6", "d": ["1/5", "1/3", "1/12"] },
+    { "c": "Odds of 3 to 1 against an event: probability", "a": "1/4", "d": ["1/3", "3/4", "2/3"] },
+    { "c": "Fair coin after five heads: P(heads next)", "a": "still 1/2", "d": ["less than 1/2", "more than 1/2", "1/32"] },
+    { "c": "Independent events", "a": "one outcome does not change the other's odds", "d": ["events that cannot both happen", "events that always happen together"] },
+    { "c": "Mutually exclusive events", "a": "events that cannot both happen", "d": ["one outcome does not change the other's odds", "events that must both happen"] },
+    { "c": "Conditional probability P(A | B)", "a": "the probability of A, given that B is true", "d": ["the probability of B, given that A is true", "the probability of A and B together"] },
+    { "c": "Confusing P(A | B) with P(B | A)", "a": "confusion of the inverse", "d": ["gambler's fallacy", "conjunction fallacy", "regression fallacy"] },
+    { "c": "Prior probability", "a": "how likely a hypothesis was before the new evidence", "d": ["how likely it is after the new evidence", "how likely the evidence is overall"] },
+    { "c": "Posterior probability", "a": "how likely a hypothesis is after the evidence", "d": ["how likely it was before the evidence", "how often the evidence occurs"] },
+    { "c": "Evidence strongly supports H when it is", "a": "far more likely if H is true than if H is false", "d": ["merely consistent with H", "believed by most people who hold H"] },
+    { "c": "Bayes' theorem tells you", "a": "how to update a belief in light of evidence", "d": ["how to test an argument for validity", "how to compute an average"] },
+    { "c": "Positive on 99%-accurate test, 1-in-1,000 trait", "a": "still probably false: about a 9% chance it's real", "d": ["about a 99% chance it's real", "certain that the trait is present"], "ex": "Assume 99% of carriers and 1% of non-carriers test positive. Of 100,000 people, about 99 true positives versus about 999 false positives." },
+    { "c": "False positive", "a": "a test says yes when the truth is no", "d": ["a test says no when the truth is yes", "a test says yes when the truth is yes"] },
+    { "c": "False negative", "a": "a test says no when the truth is yes", "d": ["a test says yes when the truth is no", "a test says no when the truth is no"] },
+    { "c": "Conjunction fallacy", "a": "judging 'A and B' more probable than A alone", "d": ["judging A more probable than 'A or B'", "ignoring how common A is overall"] },
+    { "c": "More probable: 'A' or 'A and B'?", "a": "'A' is at least as probable", "d": ["'A and B' can be more probable", "they are always equally probable"] },
+    { "c": "Law of large numbers", "a": "averages approach the true rate as trials grow", "d": ["small samples are as reliable as large ones", "rare events must even out soon"] },
+    { "c": "Expected value", "a": "sum of each outcome times its probability", "d": ["the single most likely outcome", "the best possible outcome"] }
+  ],
+  "read": {
+    "title": "Bayes in plain words",
+    "text": [
+      "Suppose a trait occurs in 1 person in 1,000, and a test for it is 99% accurate: it catches 99% of people who have the trait and wrongly flags 1% of people who do not. You test positive. How likely is it that you have the trait? Most people guess about 99%. The answer is about 9%.",
+      "Picture 100,000 people. About 100 have the trait, and the test flags about 99 of them. Of the 99,900 who lack it, 1% is about 999 false positives. So roughly 1,098 people test positive, and only 99 of them have the trait. The rare trait's low base rate swamps the test's accuracy.",
+      "This is the heart of Bayes' theorem. Start with the prior probability, here 1 in 1,000. Then ask how much more likely the evidence is if the hypothesis is true than if it is false. A positive result is 99 times likelier with the trait than without it, which raises the odds a great deal, but from a very low starting point.",
+      "Ignoring the starting point is base rate neglect. A related slip is confusing the probability of a positive test given the trait with the probability of the trait given a positive test. They are different numbers."
+    ],
+    "q": [
+      { "q": "In the example, about what fraction of positive results are true positives?", "o": ["About 99%", "About 50%", "About 9%", "About 1%"], "k": 2 },
+      { "q": "Why is the answer so low?", "o": ["The trait's base rate is very low", "The test is usually wrong", "Most people have the trait"], "k": 0 },
+      { "q": "What does Bayes' theorem combine, per the reading?", "o": ["Two unrelated tests", "The prior and how strongly the evidence favors the hypothesis", "Only the test's accuracy"], "k": 1 }
+    ]
+  }
+}

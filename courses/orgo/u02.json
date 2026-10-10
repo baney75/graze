@@ -1,0 +1,287 @@
+{
+  "title": "Polar bonds, formal charge and resonance",
+  "note": "Formal charge = valence electrons − nonbonding electrons − ½ bonding electrons. Resonance forms differ only in where π and lone-pair electrons sit; atoms never move. The real species is one hybrid that looks most like its most stable forms: full octets, little charge separation, negative charge on electronegative atoms.",
+  "src": {
+    "t": "LibreTexts, Organic Chemistry (Morsch et al.), Ch. 2 Polar Covalent Bonds; Acids and Bases",
+    "u": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/02%3A_Polar_Covalent_Bonds_Acids_and_Bases"
+  },
+  "items": [
+    {
+      "c": "Most electronegative element",
+      "a": "fluorine",
+      "d": [
+        "oxygen",
+        "chlorine"
+      ]
+    },
+    {
+      "c": "Pauling electronegativity of carbon",
+      "a": "2.5",
+      "d": [
+        "3.5",
+        "2.1"
+      ],
+      "ex": "H 2.1, C 2.5, N 3.0, O 3.5, F 4.0."
+    },
+    {
+      "c": "Partial charge on carbon in a C–Cl bond",
+      "a": "δ+ (partial positive)",
+      "d": [
+        "δ− (partial negative)",
+        "no partial charge"
+      ]
+    },
+    {
+      "c": "Partial charge on carbon in a C–Mg or C–Li bond",
+      "a": "δ− (partial negative)",
+      "d": [
+        "δ+ (partial positive)",
+        "no partial charge"
+      ],
+      "ex": "Carbon is more electronegative than the metal, so it becomes electron-rich."
+    },
+    {
+      "c": "Net dipole moment of CO₂",
+      "a": "zero; the two C=O dipoles cancel",
+      "d": [
+        "large, pointing toward one oxygen",
+        "the same as that of water"
+      ]
+    },
+    {
+      "c": "Why CCl₄ is nonpolar",
+      "a": "its four C–Cl dipoles cancel by symmetry",
+      "d": [
+        "C–Cl bonds are nonpolar",
+        "chlorine is less electronegative than carbon"
+      ]
+    },
+    {
+      "c": "Unit for dipole moments",
+      "a": "debye (D)",
+      "d": [
+        "coulomb (C)",
+        "joule (J)"
+      ]
+    },
+    {
+      "c": "Formal charge formula",
+      "a": "valence e⁻ − nonbonding e⁻ − ½ bonding e⁻",
+      "d": [
+        "valence e⁻ − nonbonding e⁻ + ½ bonding e⁻",
+        "valence e⁻ − bonding e⁻ − ½ nonbonding e⁻"
+      ]
+    },
+    {
+      "c": "Formal charge on N in NH₄⁺",
+      "a": "+1",
+      "d": [
+        "0",
+        "−1"
+      ]
+    },
+    {
+      "c": "Formal charge on O in hydroxide (HO⁻)",
+      "a": "−1",
+      "d": [
+        "0",
+        "+1"
+      ]
+    },
+    {
+      "c": "Formal charge: O with 3 bonds and 1 lone pair",
+      "a": "+1 (as in H₃O⁺)",
+      "d": [
+        "0",
+        "−1"
+      ]
+    },
+    {
+      "c": "Formal charge: N with 2 bonds and 2 lone pairs",
+      "a": "−1 (as in NH₂⁻)",
+      "d": [
+        "0",
+        "+1"
+      ]
+    },
+    {
+      "c": "Carbon with three bonds and no lone pair",
+      "a": "carbocation, charge +1",
+      "d": [
+        "carbanion, charge −1",
+        "radical, charge 0"
+      ]
+    },
+    {
+      "c": "Carbon with three bonds and one lone pair",
+      "a": "carbanion, charge −1",
+      "d": [
+        "carbocation, charge +1",
+        "carbene, charge 0"
+      ]
+    },
+    {
+      "c": "Carbon with 3 bonds and 1 unpaired electron",
+      "a": "radical, charge 0",
+      "d": [
+        "carbocation, charge +1",
+        "carbanion, charge −1"
+      ]
+    },
+    {
+      "c": "Formal charge on N in nitromethane (CH₃NO₂)",
+      "a": "+1 on nitrogen",
+      "d": [
+        "0 on nitrogen",
+        "−1 on nitrogen"
+      ],
+      "ex": "N has four bonds and no lone pair; one O carries −1."
+    },
+    {
+      "c": "Formal charge on C in carbon monoxide (:C≡O:)",
+      "a": "−1 on carbon",
+      "d": [
+        "0 on carbon",
+        "+1 on carbon"
+      ],
+      "ex": "C has three bonds and one lone pair: 4 − 2 − 3 = −1."
+    },
+    {
+      "c": "Resonance forms differ only in",
+      "a": "the placement of π and lone-pair electrons",
+      "d": [
+        "the positions of the atoms",
+        "the total number of electrons"
+      ]
+    },
+    {
+      "c": "A resonance-stabilized species really is",
+      "a": "a single hybrid of its resonance forms",
+      "d": [
+        "flipping rapidly between forms",
+        "only its most stable form"
+      ]
+    },
+    {
+      "c": "The two C–O bonds of the acetate ion",
+      "a": "identical, between single and double",
+      "d": [
+        "one single and one double",
+        "both full double bonds"
+      ]
+    },
+    {
+      "c": "The C–C bonds of benzene",
+      "a": "all equal, between single and double",
+      "d": [
+        "alternating single and double",
+        "three short and three long"
+      ]
+    },
+    {
+      "c": "Best resonance contributor usually has",
+      "a": "full octets and the least charge separation",
+      "d": [
+        "the most charge separation",
+        "a negative charge on carbon instead of oxygen"
+      ]
+    },
+    {
+      "c": "Negative charge is best placed on the",
+      "a": "most electronegative atom",
+      "d": [
+        "least electronegative atom",
+        "atom with the most hydrogens"
+      ]
+    },
+    {
+      "c": "In the allyl cation, the + charge is shared by",
+      "a": "the two end carbons",
+      "d": [
+        "the central carbon only",
+        "all three carbons equally"
+      ]
+    },
+    {
+      "c": "A curved arrow in a resonance form shows",
+      "a": "movement of an electron pair",
+      "d": [
+        "movement of an atom",
+        "movement of a proton"
+      ]
+    },
+    {
+      "c": "Effect of resonance on a species' energy",
+      "a": "lowers it; the hybrid is more stable",
+      "d": [
+        "raises it; the hybrid is less stable",
+        "no effect on stability"
+      ]
+    },
+    {
+      "c": "Hydrogen bonding requires H bonded to",
+      "a": "N, O or F",
+      "d": [
+        "C, S or Cl",
+        "any atom with a lone pair"
+      ]
+    },
+    {
+      "c": "Why ethanol boils far above dimethyl ether",
+      "a": "ethanol's O–H groups hydrogen-bond",
+      "d": [
+        "ethanol has a larger molar mass",
+        "dimethyl ether is ionic"
+      ],
+      "ex": "Both are C₂H₆O; only ethanol has an O–H."
+    },
+    {
+      "c": "London dispersion forces grow with",
+      "a": "larger size and surface area",
+      "d": [
+        "more branching",
+        "fewer electrons"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Bookkeeping electrons",
+    "text": [
+      "Two simple tools let you read charge from a structure. The first is electronegativity. When atoms of different electronegativity share electrons, the bond is polar: the more electronegative atom carries a partial negative charge. In chloromethane, chlorine pulls electron density away from carbon, leaving carbon slightly positive and ready to be attacked by electron-rich species.",
+      "The second tool is formal charge, which treats each bond as split evenly. Take valence electrons, subtract lone-pair electrons, then subtract half the bonding electrons. A nitrogen with four bonds and no lone pair, as in NH₄⁺, comes out +1. An oxygen with one bond and three lone pairs, as in hydroxide, comes out −1.",
+      "Some species cannot be drawn with a single Lewis structure. In the acetate ion, the negative charge can sit on either oxygen. Neither drawing is correct by itself; the real ion is a hybrid, and both C–O bonds have the same length. Resonance forms never move atoms, only π and lone-pair electrons. Spreading charge over several atoms lowers the energy, which is why resonance makes acetate unusually stable."
+    ],
+    "q": [
+      {
+        "q": "In chloromethane, which atom carries a partial positive charge?",
+        "o": [
+          "Chlorine",
+          "Neither atom",
+          "Both atoms",
+          "Carbon"
+        ],
+        "k": 3
+      },
+      {
+        "q": "What is the formal charge on nitrogen in NH₄⁺?",
+        "o": [
+          "+1",
+          "0",
+          "−1",
+          "+2"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What do resonance forms change?",
+        "o": [
+          "The positions of atoms",
+          "Only π and lone-pair electrons",
+          "The molecular formula",
+          "The number of protons"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

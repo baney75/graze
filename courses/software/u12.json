@@ -1,0 +1,310 @@
+{
+  "title": "Security",
+  "note": "Treat every input as hostile and every permission as a liability. Injection and XSS happen when data is interpreted as code, so keep data and code separate with parameterized queries and output encoding. Store passwords with a slow, salted, one-way hash such as Argon2id, and give each component only the access it needs.",
+  "src": {
+    "t": "OWASP Top 10:2025",
+    "u": "https://top10.owasp.org/2025/"
+  },
+  "items": [
+    {
+      "c": "OWASP Top 10:2025, A01",
+      "a": "Broken Access Control",
+      "d": [
+        "Injection",
+        "Security Misconfiguration",
+        "Cryptographic Failures"
+      ]
+    },
+    {
+      "c": "OWASP Top 10:2025, A02",
+      "a": "Security Misconfiguration",
+      "d": [
+        "Broken Access Control",
+        "Insecure Design",
+        "Injection"
+      ]
+    },
+    {
+      "c": "OWASP Top 10:2025, A03",
+      "a": "Software Supply Chain Failures",
+      "d": [
+        "Server-Side Request Forgery",
+        "Insecure Design",
+        "Authentication Failures"
+      ]
+    },
+    {
+      "c": "OWASP Top 10:2025, A10 (new)",
+      "a": "Mishandling of Exceptional Conditions",
+      "d": [
+        "Server-Side Request Forgery",
+        "Security Logging and Alerting Failures",
+        "Software or Data Integrity Failures"
+      ]
+    },
+    {
+      "c": "Where SSRF falls in the OWASP 2025 list",
+      "a": "inside A01 Broken Access Control",
+      "d": [
+        "its own category at A10",
+        "inside A05 Injection"
+      ]
+    },
+    {
+      "c": "IDOR (insecure direct object reference)",
+      "a": "reaching another user's data by changing an ID",
+      "d": [
+        "guessing a weak password",
+        "reading packets on open Wi-Fi"
+      ]
+    },
+    {
+      "c": "SQL injection",
+      "a": "untrusted input changes the structure of a query",
+      "d": [
+        "a slow query exhausts the database",
+        "a script runs in the victim's browser"
+      ]
+    },
+    {
+      "c": "Primary defense against SQL injection",
+      "a": "parameterized queries (prepared statements)",
+      "d": [
+        "hiding database error messages",
+        "escaping quotes by hand",
+        "using HTTPS"
+      ]
+    },
+    {
+      "c": "Cross-site scripting (XSS)",
+      "a": "attacker script runs in other users' browsers",
+      "d": [
+        "forged requests from a logged-in browser",
+        "attacker SQL runs on the server"
+      ]
+    },
+    {
+      "c": "Stored XSS",
+      "a": "malicious script saved by the site and served to others",
+      "d": [
+        "script bounced back from a crafted link",
+        "script injected only by client-side code"
+      ]
+    },
+    {
+      "c": "Reflected XSS",
+      "a": "script echoed from the request, often via a crafted link",
+      "d": [
+        "script saved in the database and served later",
+        "script added by a browser extension"
+      ]
+    },
+    {
+      "c": "DOM-based XSS",
+      "a": "client-side JavaScript writes untrusted data into the page",
+      "d": [
+        "the server stores the payload permanently",
+        "the attacker edits the DNS record"
+      ]
+    },
+    {
+      "c": "Core defense against XSS",
+      "a": "encode output for its context (HTML, attribute, JS)",
+      "d": [
+        "use parameterized SQL queries",
+        "require longer passwords"
+      ]
+    },
+    {
+      "c": "Content Security Policy (CSP)",
+      "a": "a header limiting which scripts a page may run",
+      "d": [
+        "a policy for password length",
+        "a header that forces HTTPS"
+      ]
+    },
+    {
+      "c": "Cross-site request forgery (CSRF)",
+      "a": "tricks a logged-in browser into an unwanted request",
+      "d": [
+        "injects script into a page",
+        "steals a password database"
+      ]
+    },
+    {
+      "c": "Two standard CSRF defenses",
+      "a": "anti-CSRF tokens and SameSite cookies",
+      "d": [
+        "output encoding and CSP",
+        "salting and peppering"
+      ]
+    },
+    {
+      "c": "Hashing versus encryption",
+      "a": "hashing is one-way; encryption is reversible with a key",
+      "d": [
+        "encryption is one-way; hashing is reversible",
+        "both are reversible with the right key"
+      ]
+    },
+    {
+      "c": "Why passwords are hashed, not encrypted",
+      "a": "a stolen hash cannot simply be decrypted",
+      "d": [
+        "hashing makes logins faster",
+        "encryption cannot handle long passwords"
+      ]
+    },
+    {
+      "c": "Password salt",
+      "a": "a unique random value per password, stored with the hash",
+      "d": [
+        "a secret shared by all passwords, stored elsewhere",
+        "a rule requiring special characters"
+      ]
+    },
+    {
+      "c": "Attack that salting defeats",
+      "a": "precomputed rainbow-table lookups",
+      "d": [
+        "phishing emails",
+        "keylogging malware"
+      ]
+    },
+    {
+      "c": "Password pepper",
+      "a": "a secret added to every password, kept outside the database",
+      "d": [
+        "a unique random value stored with each hash",
+        "a second hashing pass with SHA-1"
+      ]
+    },
+    {
+      "c": "OWASP's first-choice password hashing algorithm",
+      "a": "Argon2id",
+      "d": [
+        "SHA-256",
+        "MD5",
+        "PBKDF2"
+      ]
+    },
+    {
+      "c": "Why plain SHA-256 is poor for passwords",
+      "a": "it is fast, so mass guessing is cheap",
+      "d": [
+        "it is reversible",
+        "it produces collisions every time"
+      ]
+    },
+    {
+      "c": "Input length most bcrypt versions truncate at",
+      "a": "72 bytes",
+      "d": [
+        "16 bytes",
+        "256 bytes",
+        "1,024 bytes"
+      ]
+    },
+    {
+      "c": "Principle of least privilege",
+      "a": "grant only the access a task actually needs",
+      "d": [
+        "give admins every permission by default",
+        "share one account to reduce passwords"
+      ]
+    },
+    {
+      "c": "Defense in depth",
+      "a": "layer several independent security controls",
+      "d": [
+        "put all effort into one strong firewall",
+        "keep the design secret"
+      ]
+    },
+    {
+      "c": "Authentication",
+      "a": "verifying who someone is",
+      "d": [
+        "deciding what someone may do",
+        "recording what someone did"
+      ]
+    },
+    {
+      "c": "Authorization",
+      "a": "deciding what an identified user may do",
+      "d": [
+        "verifying who the user is",
+        "encrypting the user's session"
+      ]
+    },
+    {
+      "c": "Multi-factor authentication combines",
+      "a": "different kinds of factor: know, have, are",
+      "d": [
+        "two passwords of different lengths",
+        "a username and a password"
+      ]
+    },
+    {
+      "c": "A symmetric cipher",
+      "a": "AES",
+      "d": [
+        "RSA",
+        "SHA-256"
+      ]
+    },
+    {
+      "c": "Digital signature",
+      "a": "made with a private key, checked with the public key",
+      "d": [
+        "made with a public key, checked with the private key",
+        "a hash with no keys involved"
+      ]
+    },
+    {
+      "c": "The CIA triad",
+      "a": "confidentiality, integrity, availability",
+      "d": [
+        "control, identity, authentication",
+        "certificates, integrity, auditing"
+      ]
+    }
+  ],
+  "read": {
+    "title": "When data becomes code",
+    "text": [
+      "Many classic attacks share one root: the program lets data cross into a place where it is treated as code. In SQL injection, a login form builds a query by pasting in the user's text, and an input like ' OR 1=1 -- rewrites the query's logic. Parameterized queries fix this at the source, because the database receives the query structure and the values separately and never reparses the values as SQL. Cross-site scripting is the same mistake in the browser: unencoded user text becomes a script tag. Encoding output for its context, plus a Content Security Policy, keeps it inert.",
+      "Password storage follows a different rule: never keep anything that can be turned back into the password. A hash is one-way, but fast hashes such as SHA-256 let an attacker test billions of guesses per second. OWASP recommends slow, memory-hard algorithms, Argon2id first, with a unique random salt per password so identical passwords produce different hashes and precomputed tables are useless.",
+      "Finally, assume something will fail. Least privilege limits what a compromised account can touch, and defense in depth means one broken control does not open everything."
+    ],
+    "q": [
+      {
+        "q": "Why do parameterized queries stop SQL injection?",
+        "o": [
+          "They encrypt the input",
+          "Values are sent separately and never parsed as SQL",
+          "They block long inputs"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What makes SHA-256 a poor password hash, per the reading?",
+        "o": [
+          "Its speed lets attackers test huge numbers of guesses",
+          "It can be decrypted with a key",
+          "It produces very long output"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does a unique salt per password achieve?",
+        "o": [
+          "It makes logins faster",
+          "It lets the server recover passwords",
+          "Identical passwords get different hashes"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

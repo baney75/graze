@@ -1,0 +1,47 @@
+{
+  "title": "Causal reasoning and correlation",
+  "note": "A correlation means two variables tend to move together. It is evidence about causes, not proof: the pattern may come from chance, reverse causation, or a confounder that drives both. Mill's methods find causes by comparing cases: what all cases of the effect share, what differs between cases with and without it, and what varies in step with it. Randomized experiments cut the link to confounders.",
+  "src": { "t": "John Stuart Mill, Stanford Encyclopedia of Philosophy (Sec. 3.3)", "u": "https://plato.stanford.edu/entries/mill/" },
+  "items": [
+    { "c": "Post hoc", "a": "assuming cause because one event came first", "d": ["assuming cause because two things correlate", "assuming one cause when there are several", "getting cause and effect backward"] },
+    { "c": "Correlation vs causation", "a": "moving together does not prove one causes the other", "d": ["moving together proves a common cause", "causes never correlate with their effects"] },
+    { "c": "Cum hoc ergo propter hoc", "a": "treating a mere correlation as causation", "d": ["treating a mere sequence as causation", "treating a cause as its own effect"] },
+    { "c": "Positive correlation", "a": "as one variable rises, the other tends to rise", "d": ["as one variable rises, the other tends to fall", "one variable causes the other to rise"] },
+    { "c": "Negative correlation", "a": "as one variable rises, the other tends to fall", "d": ["as one variable rises, the other tends to rise", "the two variables are unrelated"] },
+    { "c": "Correlation coefficient of 0", "a": "no linear relationship", "d": ["a perfect relationship", "a strong negative relationship"] },
+    { "c": "Confounding variable", "a": "a third factor that influences both variables", "d": ["a variable measured with error", "the variable the researcher changes"] },
+    { "c": "Why ice cream sales track drownings", "a": "hot weather drives both", "d": ["ice cream causes drowning", "drownings boost ice cream sales"] },
+    { "c": "Reverse causation", "a": "the supposed effect is actually the cause", "d": ["two effects share one cause", "the cause comes after a delay"] },
+    { "c": "Mill's method of agreement", "a": "find the one factor common to every case of the effect", "d": ["find the one factor that differs between cases", "subtract the known causes from the effect"] },
+    { "c": "Mill's method of difference", "a": "find the lone factor that differs between effect and no-effect cases", "d": ["find the one factor common to every case", "track how the effect varies with a factor"] },
+    { "c": "Mill's joint method", "a": "combine the methods of agreement and difference", "d": ["combine residues and concomitant variation", "repeat one experiment many times"] },
+    { "c": "Mill's method of residues", "a": "subtract known causes; the rest explains the remainder", "d": ["find the factor every case shares", "find the factor that varies with the effect"] },
+    { "c": "Mill's method of concomitant variation", "a": "the effect varies in step with a factor", "d": ["the effect appears whenever a factor is absent", "every case of the effect shares one factor"] },
+    { "c": "Only food shared by all the sick diners: oysters", "a": "method of agreement", "d": ["method of difference", "method of residues", "concomitant variation"] },
+    { "c": "Twin plants, one fertilized; only it grew more", "a": "method of difference", "d": ["method of agreement", "method of residues", "joint method"] },
+    { "c": "More fertilizer, taller plants, step by step", "a": "concomitant variation", "d": ["method of agreement", "method of difference", "method of residues"] },
+    { "c": "Author of the canons of causal inquiry (1843)", "a": "John Stuart Mill", "d": ["David Hume", "Francis Bacon", "Charles Sanders Peirce"], "ex": "They appear in Mill's A System of Logic." },
+    { "c": "Randomized controlled experiment", "a": "random assignment balances confounders across groups", "d": ["subjects choose their own group", "only the treated group is measured"] },
+    { "c": "Control group", "a": "the group that does not get the treatment", "d": ["the group that gets the strongest dose", "the group the researcher likes best"] },
+    { "c": "Regression to the mean", "a": "extreme results tend to be followed by more typical ones", "d": ["averages drift steadily upward over time", "extreme results tend to repeat"] },
+    { "c": "Crediting a fix for a natural return to average", "a": "regression fallacy", "d": ["gambler's fallacy", "reverse causation", "survivorship bias"] },
+    { "c": "Necessary cause", "a": "the effect cannot occur without it", "d": ["it alone is enough for the effect", "it always comes after the effect"] },
+    { "c": "Sufficient cause", "a": "it alone is enough to bring about the effect", "d": ["the effect cannot occur without it", "it occurs at the same time as the effect"] },
+    { "c": "Texas sharpshooter fallacy", "a": "drawing the target around a cluster after the fact", "d": ["shooting first and asking questions later", "judging a cause by one dramatic case"] },
+    { "c": "Does correlation give any evidence of causation?", "a": "some, once other explanations are ruled out", "d": ["none at all", "proof, if the correlation is strong"] },
+    { "c": "Single-cause fallacy", "a": "assuming one cause when an effect has several", "d": ["assuming several causes when there is one", "assuming no cause at all"] }
+  ],
+  "read": {
+    "title": "From pattern to cause",
+    "text": [
+      "Ice cream sales and drownings rise and fall together. Does ice cream cause drowning? No. Hot weather sends more people to buy ice cream and more people into the water. Hot weather is a confounder, a third factor that drives both variables. Correlations can also arise from chance, especially when many variables are searched, or from reverse causation, where the supposed effect is really the cause.",
+      "John Stuart Mill described methods for moving from patterns to causes. The method of agreement looks for the one factor shared by every case of the effect, such as the one dish all sick diners ate. The method of difference compares cases that are alike except for one factor; if the effect appears only where the factor does, that factor is part of the cause. Concomitant variation tracks whether the effect grows and shrinks with a factor.",
+      "Mill's methods are only as good as our list of candidate factors. A hidden factor can fool any of them. That is why randomized experiments are so valuable: by assigning treatment by chance, they spread confounders evenly across groups, so a difference in outcome points to the treatment itself."
+    ],
+    "q": [
+      { "q": "In the ice cream example, what is hot weather?", "o": ["A reverse cause", "A confounder", "A random fluke", "The effect"], "k": 1 },
+      { "q": "Which method compares cases alike except for one factor?", "o": ["Method of agreement", "Concomitant variation", "Method of difference"], "k": 2 },
+      { "q": "Why are randomized experiments valuable, per the reading?", "o": ["Chance assignment spreads confounders evenly across groups", "They need no control group", "They prove every correlation is causal"], "k": 0 }
+    ]
+  }
+}

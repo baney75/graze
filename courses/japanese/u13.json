@@ -1,0 +1,366 @@
+{
+  "title": "Home, things and where they are",
+  "note": "あります is \"there is\" for objects; います is for people and animals. The place takes に: 机の上に本があります \"There is a book on the desk.\" Position words follow の: 机の上 (on), 下 (under), 中 (in). これ, それ, あれ mean this one, that one near you, and that one over there; ここ, そこ, あそこ are the matching places.",
+  "src": {
+    "t": "Tae Kim's Guide: Particles used with verbs (に with ある and いる)",
+    "u": "https://guidetojapanese.org/learn/grammar/verbparticles"
+  },
+  "items": [
+    {
+      "c": "家",
+      "r": "ie",
+      "a": "house, home",
+      "d": [
+        "room",
+        "building"
+      ],
+      "ex": "(いえ) 私の家は古いです。",
+      "exT": "My house is old."
+    },
+    {
+      "c": "部屋",
+      "r": "heya",
+      "a": "room",
+      "d": [
+        "house",
+        "kitchen"
+      ]
+    },
+    {
+      "c": "台所",
+      "r": "daidokoro",
+      "a": "kitchen",
+      "d": [
+        "bathroom",
+        "bedroom"
+      ]
+    },
+    {
+      "c": "トイレ",
+      "r": "toire",
+      "a": "toilet, restroom",
+      "d": [
+        "kitchen",
+        "entrance"
+      ]
+    },
+    {
+      "c": "窓",
+      "r": "mado",
+      "a": "window",
+      "d": [
+        "door",
+        "wall"
+      ]
+    },
+    {
+      "c": "ドア",
+      "r": "doa",
+      "a": "door",
+      "d": [
+        "window",
+        "floor"
+      ]
+    },
+    {
+      "c": "机",
+      "r": "tsukue",
+      "a": "desk",
+      "d": [
+        "chair",
+        "bed"
+      ]
+    },
+    {
+      "c": "いす",
+      "r": "isu",
+      "a": "chair",
+      "d": [
+        "desk",
+        "shelf"
+      ]
+    },
+    {
+      "c": "ベッド",
+      "r": "beddo",
+      "a": "bed",
+      "d": [
+        "sofa",
+        "desk"
+      ]
+    },
+    {
+      "c": "冷蔵庫",
+      "r": "reizōko",
+      "a": "refrigerator",
+      "d": [
+        "oven",
+        "air conditioner"
+      ]
+    },
+    {
+      "c": "電話",
+      "r": "denwa",
+      "a": "telephone",
+      "d": [
+        "television",
+        "computer"
+      ]
+    },
+    {
+      "c": "かばん",
+      "r": "kaban",
+      "a": "bag",
+      "d": [
+        "wallet",
+        "box"
+      ]
+    },
+    {
+      "c": "時計",
+      "r": "tokei",
+      "a": "clock, watch",
+      "d": [
+        "calendar",
+        "mirror"
+      ]
+    },
+    {
+      "c": "かぎ",
+      "r": "kagi",
+      "a": "key",
+      "d": [
+        "door",
+        "bag"
+      ]
+    },
+    {
+      "c": "傘",
+      "r": "kasa",
+      "a": "umbrella",
+      "d": [
+        "hat",
+        "coat"
+      ],
+      "ex": "(かさ) 傘がありますか。",
+      "exT": "Do you have an umbrella?"
+    },
+    {
+      "c": "これ",
+      "r": "kore",
+      "a": "this (one, near me)",
+      "d": [
+        "that (one, near you)",
+        "which one (question)"
+      ],
+      "ex": "これは私のかばんです。",
+      "exT": "This is my bag."
+    },
+    {
+      "c": "それ",
+      "r": "sore",
+      "a": "that (one, near you)",
+      "d": [
+        "this (one, near me)",
+        "that (one, over there)"
+      ]
+    },
+    {
+      "c": "あれ",
+      "r": "are",
+      "a": "that (one, over there)",
+      "d": [
+        "this (one, near me)",
+        "which one (question)"
+      ]
+    },
+    {
+      "c": "この",
+      "r": "kono",
+      "a": "this (+ noun)",
+      "d": [
+        "that (+ noun, over there)",
+        "which (+ noun)"
+      ],
+      "ex": "この時計は新しいです。",
+      "exT": "This watch is new."
+    },
+    {
+      "c": "ここ",
+      "r": "koko",
+      "a": "here",
+      "d": [
+        "there (near you)",
+        "over there"
+      ]
+    },
+    {
+      "c": "そこ",
+      "r": "soko",
+      "a": "there (near you)",
+      "d": [
+        "here (near me)",
+        "where (question)"
+      ]
+    },
+    {
+      "c": "あそこ",
+      "r": "asoko",
+      "a": "over there",
+      "d": [
+        "here",
+        "there (near you)"
+      ]
+    },
+    {
+      "c": "上",
+      "r": "ue",
+      "a": "on, above, top",
+      "d": [
+        "under, below",
+        "inside"
+      ]
+    },
+    {
+      "c": "下",
+      "r": "shita",
+      "a": "under, below",
+      "d": [
+        "on, above",
+        "next to"
+      ]
+    },
+    {
+      "c": "中",
+      "r": "naka",
+      "a": "inside, in",
+      "d": [
+        "outside",
+        "behind"
+      ]
+    },
+    {
+      "c": "前",
+      "r": "mae",
+      "a": "in front of; before",
+      "d": [
+        "behind; after",
+        "next to"
+      ]
+    },
+    {
+      "c": "後ろ",
+      "r": "ushiro",
+      "a": "behind, back",
+      "d": [
+        "in front of",
+        "on top of"
+      ]
+    },
+    {
+      "c": "隣",
+      "r": "tonari",
+      "a": "next to, next door",
+      "d": [
+        "across from",
+        "far from"
+      ],
+      "ex": "(となり) 駅の隣に銀行があります。",
+      "exT": "There is a bank next to the station."
+    },
+    {
+      "c": "あります",
+      "r": "arimasu",
+      "a": "there is; have (things)",
+      "d": [
+        "there is (people, animals)",
+        "is, equals"
+      ]
+    },
+    {
+      "c": "トイレはどこですか。",
+      "r": "Toire wa doko desu ka.",
+      "a": "Where is the restroom?",
+      "d": [
+        "Is there a restroom?",
+        "Whose restroom is this?"
+      ]
+    },
+    {
+      "c": "それは私の傘です。",
+      "r": "Sore wa watashi no kasa desu.",
+      "a": "That is my umbrella.",
+      "d": [
+        "This is my umbrella.",
+        "My umbrella is over there."
+      ]
+    },
+    {
+      "c": "机の上___本があります。",
+      "r": "Tsukue no ue ___ hon ga arimasu.",
+      "a": "に",
+      "d": [
+        "を",
+        "で"
+      ],
+      "ex": "机の上に本があります。",
+      "exT": "There is a book on the desk."
+    },
+    {
+      "c": "部屋に猫が___。",
+      "r": "Heya ni neko ga ___.",
+      "a": "います",
+      "d": [
+        "あります",
+        "です"
+      ]
+    },
+    {
+      "c": "かばんの中にかぎが___。",
+      "r": "Kaban no naka ni kagi ga ___.",
+      "a": "あります",
+      "d": [
+        "います",
+        "します"
+      ]
+    }
+  ],
+  "read": {
+    "title": "わたしの 部屋",
+    "text": [
+      "わたしの 部屋は 小さいです。 でも、 とても きれいです。",
+      "部屋に 机と いすと ベッドが あります。 机の 上に 本と 時計が あります。 ベッドの 下に かばんが あります。 かばんの 中に かぎが あります。",
+      "窓の 前に 猫が います。 猫の 名前は ミミです。 ミミは 白い 猫です。",
+      "台所は 部屋の 隣です。 冷蔵庫の 中に 牛乳と 卵が あります。 テレビは ありません。"
+    ],
+    "q": [
+      {
+        "q": "Where is the key?",
+        "o": [
+          "In the bag",
+          "On the desk",
+          "Under the bed"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What is in front of the window?",
+        "o": [
+          "A dog",
+          "A cat",
+          "A TV"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Which of these is not in the home?",
+        "o": [
+          "A desk",
+          "A bed",
+          "A TV"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "title": "Food and drink",
+  "note": "を (read o) marks the direct object, the thing eaten, drunk or made: パンを食べます \"I eat bread.\" The verb comes last. と joins nouns as \"and\": 肉と魚. To order or ask for something, say the item, then をください or をお願いします.",
+  "src": {
+    "t": "Tae Kim's Guide: Particles used with verbs (を)",
+    "u": "https://guidetojapanese.org/learn/grammar/verbparticles"
+  },
+  "items": [
+    {
+      "c": "食べ物",
+      "r": "tabemono",
+      "a": "food",
+      "d": [
+        "drink",
+        "kitchen"
+      ]
+    },
+    {
+      "c": "飲み物",
+      "r": "nomimono",
+      "a": "drink, beverage",
+      "d": [
+        "food",
+        "dessert"
+      ],
+      "ex": "(のみもの) 飲み物は何がいいですか。",
+      "exT": "What would you like to drink?"
+    },
+    {
+      "c": "ご飯",
+      "r": "gohan",
+      "a": "cooked rice; a meal",
+      "d": [
+        "bread",
+        "noodles"
+      ]
+    },
+    {
+      "c": "パン",
+      "r": "pan",
+      "a": "bread",
+      "d": [
+        "rice",
+        "cake"
+      ]
+    },
+    {
+      "c": "肉",
+      "r": "niku",
+      "a": "meat",
+      "d": [
+        "fish",
+        "vegetables"
+      ]
+    },
+    {
+      "c": "魚",
+      "r": "sakana",
+      "a": "fish",
+      "d": [
+        "meat",
+        "egg"
+      ],
+      "ex": "(さかな) 魚が好きです。",
+      "exT": "I like fish."
+    },
+    {
+      "c": "野菜",
+      "r": "yasai",
+      "a": "vegetables",
+      "d": [
+        "fruit",
+        "meat"
+      ]
+    },
+    {
+      "c": "果物",
+      "r": "kudamono",
+      "a": "fruit",
+      "d": [
+        "vegetables",
+        "sweets"
+      ]
+    },
+    {
+      "c": "りんご",
+      "r": "ringo",
+      "a": "apple",
+      "d": [
+        "orange",
+        "banana"
+      ]
+    },
+    {
+      "c": "卵",
+      "r": "tamago",
+      "a": "egg",
+      "d": [
+        "milk",
+        "rice"
+      ]
+    },
+    {
+      "c": "水",
+      "r": "mizu",
+      "a": "water",
+      "d": [
+        "hot water",
+        "tea"
+      ],
+      "ex": "(みず) 水を飲みます。",
+      "exT": "I drink water."
+    },
+    {
+      "c": "お茶",
+      "r": "ocha",
+      "a": "tea, green tea",
+      "d": [
+        "coffee",
+        "water"
+      ]
+    },
+    {
+      "c": "コーヒー",
+      "r": "kōhī",
+      "a": "coffee",
+      "d": [
+        "tea",
+        "milk"
+      ]
+    },
+    {
+      "c": "牛乳",
+      "r": "gyūnyū",
+      "a": "milk",
+      "d": [
+        "water",
+        "juice"
+      ]
+    },
+    {
+      "c": "お酒",
+      "r": "osake",
+      "a": "alcohol; sake",
+      "d": [
+        "tea",
+        "soup"
+      ]
+    },
+    {
+      "c": "朝ご飯",
+      "r": "asagohan",
+      "a": "breakfast",
+      "d": [
+        "lunch",
+        "dinner"
+      ],
+      "ex": "(あさごはん) 朝ご飯にパンを食べます。",
+      "exT": "I eat bread for breakfast."
+    },
+    {
+      "c": "昼ご飯",
+      "r": "hirugohan",
+      "a": "lunch",
+      "d": [
+        "breakfast",
+        "dinner"
+      ]
+    },
+    {
+      "c": "晩ご飯",
+      "r": "bangohan",
+      "a": "dinner",
+      "d": [
+        "lunch",
+        "breakfast"
+      ]
+    },
+    {
+      "c": "料理",
+      "r": "ryōri",
+      "a": "cooking; a dish, cuisine",
+      "d": [
+        "shopping",
+        "restaurant"
+      ],
+      "ex": "(りょうり) 日本料理はおいしいです。",
+      "exT": "Japanese food is delicious."
+    },
+    {
+      "c": "箸",
+      "r": "hashi",
+      "a": "chopsticks",
+      "d": [
+        "spoon",
+        "plate"
+      ]
+    },
+    {
+      "c": "食べます",
+      "r": "tabemasu",
+      "a": "eat",
+      "d": [
+        "drink",
+        "make"
+      ]
+    },
+    {
+      "c": "飲みます",
+      "r": "nomimasu",
+      "a": "drink",
+      "d": [
+        "eat",
+        "buy"
+      ]
+    },
+    {
+      "c": "作ります",
+      "r": "tsukurimasu",
+      "a": "make",
+      "d": [
+        "eat",
+        "wash"
+      ],
+      "ex": "(つくります) 母は晩ご飯を作ります。",
+      "exT": "My mother makes dinner."
+    },
+    {
+      "c": "おいしい",
+      "r": "oishii",
+      "a": "delicious, tasty",
+      "d": [
+        "expensive",
+        "hot (to the touch)"
+      ]
+    },
+    {
+      "c": "甘い",
+      "r": "amai",
+      "a": "sweet",
+      "d": [
+        "spicy",
+        "salty"
+      ]
+    },
+    {
+      "c": "水をください。",
+      "r": "Mizu o kudasai.",
+      "a": "Water, please.",
+      "d": [
+        "I drink water.",
+        "Is there any water?"
+      ]
+    },
+    {
+      "c": "何を食べますか。",
+      "r": "Nani o tabemasu ka.",
+      "a": "What will you eat?",
+      "d": [
+        "When will you eat?",
+        "Where will you eat?"
+      ]
+    },
+    {
+      "c": "肉は食べません。",
+      "r": "Niku wa tabemasen.",
+      "a": "I don't eat meat.",
+      "d": [
+        "I eat meat.",
+        "There is no meat."
+      ]
+    },
+    {
+      "c": "パン___食べます。",
+      "r": "Pan ___ tabemasu.",
+      "a": "を",
+      "d": [
+        "へ",
+        "の"
+      ],
+      "ex": "パンを食べます。",
+      "exT": "I eat bread."
+    },
+    {
+      "c": "お茶を___。(please give me)",
+      "r": "Ocha o ___.",
+      "a": "ください",
+      "d": [
+        "ます",
+        "です"
+      ]
+    },
+    {
+      "c": "コーヒーを飲み___。(polite, affirmative)",
+      "r": "Kōhī o nomi___.",
+      "a": "ます",
+      "d": [
+        "です",
+        "た"
+      ]
+    },
+    {
+      "c": "肉___魚を食べます。(and)",
+      "r": "Niku ___ sakana o tabemasu.",
+      "a": "と",
+      "d": [
+        "を",
+        "へ"
+      ],
+      "ex": "肉と魚を食べます。",
+      "exT": "I eat meat and fish."
+    }
+  ]
+}

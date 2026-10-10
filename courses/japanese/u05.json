@@ -1,0 +1,310 @@
+{
+  "title": "Greetings and courtesy",
+  "note": "Greetings change with the time of day and the setting. In こんにちは and こんばんは the final は is read wa. Polite forms end in ございます or します; shortened ありがとう and おはよう sound casual. さん after a name means Mr. or Ms., but never use it with your own name.",
+  "src": {
+    "t": "IRODORI: Japanese for Life in Japan (Starter), The Japan Foundation",
+    "u": "https://www.irodori.jpf.go.jp/en/"
+  },
+  "items": [
+    {
+      "c": "おはようございます",
+      "r": "ohayō gozaimasu",
+      "a": "good morning (polite)",
+      "d": [
+        "good evening",
+        "good night (polite)"
+      ],
+      "ex": "先生、おはようございます。",
+      "exT": "Good morning, teacher."
+    },
+    {
+      "c": "こんにちは",
+      "r": "konnichiwa",
+      "a": "hello; good afternoon",
+      "d": [
+        "good morning (polite)",
+        "goodbye"
+      ],
+      "ex": "こんにちは、田中さん。",
+      "exT": "Hello, Mr. Tanaka."
+    },
+    {
+      "c": "こんばんは",
+      "r": "konbanwa",
+      "a": "good evening",
+      "d": [
+        "good night",
+        "good afternoon"
+      ]
+    },
+    {
+      "c": "おやすみなさい",
+      "r": "oyasumi nasai",
+      "a": "good night",
+      "d": [
+        "good evening",
+        "good morning"
+      ]
+    },
+    {
+      "c": "さようなら",
+      "r": "sayōnara",
+      "a": "goodbye",
+      "d": [
+        "excuse me",
+        "welcome back"
+      ]
+    },
+    {
+      "c": "ありがとうございます",
+      "r": "arigatō gozaimasu",
+      "a": "thank you (polite)",
+      "d": [
+        "you're welcome (polite)",
+        "excuse me"
+      ],
+      "ex": "どうも ありがとうございます。",
+      "exT": "Thank you very much."
+    },
+    {
+      "c": "どういたしまして",
+      "r": "dō itashimashite",
+      "a": "you're welcome",
+      "d": [
+        "thank you",
+        "I'm sorry"
+      ]
+    },
+    {
+      "c": "すみません",
+      "r": "sumimasen",
+      "a": "excuse me; I'm sorry",
+      "d": [
+        "you're welcome",
+        "please go ahead"
+      ],
+      "ex": "すみません、トイレはどこですか。",
+      "exT": "Excuse me, where is the restroom?"
+    },
+    {
+      "c": "ごめんなさい",
+      "r": "gomen nasai",
+      "a": "I'm sorry",
+      "d": [
+        "you're welcome",
+        "nice to meet you"
+      ]
+    },
+    {
+      "c": "はじめまして",
+      "r": "hajimemashite",
+      "a": "nice to meet you",
+      "d": [
+        "long time no see",
+        "welcome back"
+      ],
+      "ex": "はじめまして。マリアです。",
+      "exT": "Nice to meet you. I'm Maria."
+    },
+    {
+      "c": "よろしくお願いします",
+      "r": "yoroshiku onegai shimasu",
+      "a": "I look forward to working with you",
+      "d": [
+        "thank you for the meal",
+        "see you tomorrow"
+      ],
+      "ex": "マリアです。よろしくお願いします。",
+      "exT": "I'm Maria. Pleased to meet you."
+    },
+    {
+      "c": "お願いします",
+      "r": "onegai shimasu",
+      "a": "please (when asking for something)",
+      "d": [
+        "please go ahead (when offering)",
+        "no, thank you (when declining)"
+      ],
+      "ex": "コーヒー、お願いします。",
+      "exT": "Coffee, please."
+    },
+    {
+      "c": "どうぞ",
+      "r": "dōzo",
+      "a": "please go ahead; here you are",
+      "d": [
+        "please (asking a favor)",
+        "no, thank you; I'm fine"
+      ]
+    },
+    {
+      "c": "はい",
+      "r": "hai",
+      "a": "yes",
+      "d": [
+        "no",
+        "maybe"
+      ]
+    },
+    {
+      "c": "いいえ",
+      "r": "iie",
+      "a": "no",
+      "d": [
+        "yes",
+        "please"
+      ]
+    },
+    {
+      "c": "いただきます",
+      "r": "itadakimasu",
+      "a": "said before eating",
+      "d": [
+        "said after eating",
+        "said when leaving home"
+      ]
+    },
+    {
+      "c": "ごちそうさまでした",
+      "r": "gochisōsama deshita",
+      "a": "said after eating",
+      "d": [
+        "said before eating",
+        "said on arriving home"
+      ]
+    },
+    {
+      "c": "いってきます",
+      "r": "itte kimasu",
+      "a": "said when leaving home (\"I'm off\")",
+      "d": [
+        "said on arriving home (\"I'm home\")",
+        "said before eating"
+      ]
+    },
+    {
+      "c": "いってらっしゃい",
+      "r": "itte rasshai",
+      "a": "said to someone leaving (\"see you later\")",
+      "d": [
+        "said to someone arriving home",
+        "said to a guest at the door"
+      ]
+    },
+    {
+      "c": "ただいま",
+      "r": "tadaima",
+      "a": "said on arriving home (\"I'm home\")",
+      "d": [
+        "said when leaving home (\"I'm off\")",
+        "said after eating"
+      ]
+    },
+    {
+      "c": "おかえりなさい",
+      "r": "okaeri nasai",
+      "a": "welcome home",
+      "d": [
+        "have a good day",
+        "good night"
+      ]
+    },
+    {
+      "c": "いらっしゃいませ",
+      "r": "irasshaimase",
+      "a": "welcome (said by shop staff)",
+      "d": [
+        "excuse me (calling a waiter)",
+        "thank you for coming again"
+      ]
+    },
+    {
+      "c": "もしもし",
+      "r": "moshimoshi",
+      "a": "hello (on the phone)",
+      "d": [
+        "goodbye (on the phone)",
+        "excuse me (in a shop)"
+      ]
+    },
+    {
+      "c": "失礼します",
+      "r": "shitsurei shimasu",
+      "a": "excuse me (entering or leaving a room)",
+      "d": [
+        "I'm home (on arriving)",
+        "thank you (after a meal)"
+      ],
+      "ex": "(しつれいします) 先生、失礼します。",
+      "exT": "Excuse me, professor (as I come in)."
+    },
+    {
+      "c": "お元気ですか",
+      "r": "ogenki desu ka",
+      "a": "How are you?",
+      "d": [
+        "What is your name?",
+        "Where are you from?"
+      ]
+    },
+    {
+      "c": "はい、元気です。",
+      "r": "Hai, genki desu.",
+      "a": "Yes, I'm fine.",
+      "d": [
+        "Yes, I'm a student.",
+        "Yes, it's delicious."
+      ]
+    },
+    {
+      "c": "じゃあ、また。",
+      "r": "Jā, mata.",
+      "a": "See you. (casual)",
+      "d": [
+        "Thank you. (casual)",
+        "Good morning. (casual)"
+      ]
+    },
+    {
+      "c": "名前",
+      "r": "namae",
+      "a": "name",
+      "d": [
+        "age",
+        "country"
+      ],
+      "ex": "(なまえ) お名前は？",
+      "exT": "What's your name?"
+    },
+    {
+      "c": "〜さん (田中さん)",
+      "r": "-san (Tanaka-san)",
+      "say": "田中さん",
+      "a": "Mr. or Ms. (polite, after a name)",
+      "d": [
+        "used only for children",
+        "used with your own name"
+      ]
+    },
+    {
+      "c": "こんにち___ (hello)",
+      "r": "konnichi___",
+      "a": "は",
+      "d": [
+        "わ",
+        "や"
+      ],
+      "ex": "こんにちは。",
+      "exT": "Hello."
+    },
+    {
+      "c": "ありがとう___。(polite)",
+      "r": "Arigatō ___.",
+      "a": "ございます",
+      "d": [
+        "します",
+        "ください"
+      ]
+    }
+  ]
+}

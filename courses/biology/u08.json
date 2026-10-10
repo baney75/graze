@@ -1,0 +1,51 @@
+{
+  "title": "Cell signaling and the cell cycle",
+  "note": "Cells talk with chemical signals (ligands) that bind receptors and set off relay chains inside the cell. One major outcome is the decision to divide. The cell cycle is interphase (G1, S, G2) followed by mitosis and cytokinesis, and checkpoints run by cyclins and Cdks keep it from moving on until each step is ready.",
+  "src": { "t": "OpenStax Biology 2e, Ch. 9: Cell Communication and Ch. 10: Cell Reproduction", "u": "https://openstax.org/books/biology-2e/pages/10-introduction" },
+  "items": [
+    { "c": "Ligand", "a": "Signaling molecule that binds a specific receptor", "d": ["Receptor that spans the membrane", "Enzyme that removes phosphates"] },
+    { "c": "Paracrine signaling", "a": "Signals act on nearby cells", "d": ["Hormones travel in blood to distant cells", "A cell signals itself"] },
+    { "c": "Endocrine signaling", "a": "Hormones travel in the blood to distant cells", "d": ["Signals act only on nearby cells", "Ions pass directly through gap junctions"] },
+    { "c": "Autocrine signaling", "a": "A cell signals itself or cells of its own type", "d": ["Hormones reach distant cells by blood", "Neurotransmitters cross a synapse"] },
+    { "c": "Synaptic signaling", "a": "Neurotransmitters cross a small gap between nerve cells", "d": ["Hormones circulate through the blood", "Bacteria sense their population density"] },
+    { "c": "Internal (intracellular) receptors bind…", "a": "hydrophobic ligands such as steroid hormones", "d": ["large protein hormones", "charged ions such as Na+"] },
+    { "c": "Activating a G-protein-linked receptor", "a": "The G-protein swaps GDP for GTP", "d": ["The receptor opens an ion pore", "The receptor pair phosphorylates tyrosines"] },
+    { "c": "Transmembrane domains, G-protein-linked receptor", "a": "Seven", "d": ["One", "Twelve"] },
+    { "c": "Receptor tyrosine kinase", "a": "Enzyme-linked receptor that phosphorylates tyrosines", "d": ["Ion channel opened by a ligand", "Intracellular receptor for steroids"] },
+    { "c": "Second messenger", "a": "Small molecule that relays a signal inside the cell", "d": ["Hormone that carries a signal in the blood", "Receptor protein on the cell surface"], "ex": "cAMP and Ca2+ are common second messengers." },
+    { "c": "Adenylyl cyclase", "a": "Enzyme that makes cAMP from ATP", "d": ["Enzyme that breaks down cAMP", "Enzyme that adds phosphate to tyrosine"] },
+    { "c": "Kinase", "a": "Enzyme that adds phosphate groups", "d": ["Enzyme that removes phosphate groups", "Enzyme that breaks peptide bonds"] },
+    { "c": "Phosphatase", "a": "Enzyme that removes phosphate groups", "d": ["Enzyme that adds phosphate groups", "Enzyme that makes cAMP"] },
+    { "c": "Quorum sensing", "a": "Bacteria sense population density with signals", "d": ["Cells divide when crowded", "Plants detect light direction"] },
+    { "c": "Apoptosis", "a": "Programmed cell death", "d": ["Uncontrolled cell division", "Cell swelling from osmosis"] },
+    { "c": "Phases of interphase in order", "a": "G1, S, G2", "d": ["S, G1, G2", "G1, G2, S"] },
+    { "c": "S phase", "a": "DNA is replicated", "d": ["Chromosomes line up at the equator", "The cytoplasm divides"] },
+    { "c": "G0 phase", "a": "Non-dividing state outside the cycle", "d": ["Phase when DNA is replicated", "Final stage of mitosis"], "ex": "Mature nerve and heart muscle cells stay in G0." },
+    { "c": "Prophase", "a": "Chromosomes condense and the spindle starts to form", "d": ["Chromosomes line up at the equator", "Sister chromatids separate"] },
+    { "c": "Prometaphase", "a": "Kinetochores attach to spindle microtubules", "d": ["Nuclear envelopes re-form", "The cleavage furrow forms"] },
+    { "c": "Metaphase", "a": "Chromosomes line up at the metaphase plate", "d": ["Chromatids move to opposite poles", "Chromosomes decondense"] },
+    { "c": "Anaphase", "a": "Sister chromatids separate to opposite poles", "d": ["Chromosomes line up at the equator", "DNA is replicated"] },
+    { "c": "Telophase", "a": "Nuclear envelopes re-form and chromosomes decondense", "d": ["Chromosomes first condense", "Kinetochores first attach to spindles"] },
+    { "c": "Cohesin", "a": "Protein that holds sister chromatids together", "d": ["Protein that pinches the cell in two", "Protein that forms the nuclear envelope"], "ex": "Its breakdown starts anaphase." },
+    { "c": "Kinetochore", "a": "Protein structure at the centromere that binds spindle fibers", "d": ["Ring of actin that divides animal cells", "Pair of centrioles at each pole"] },
+    { "c": "Cytokinesis in animal cells", "a": "An actin ring forms a cleavage furrow", "d": ["Golgi vesicles fuse into a cell plate", "The nucleus pinches in two"] },
+    { "c": "Cytokinesis in plant cells", "a": "Golgi vesicles fuse into a cell plate", "d": ["An actin ring forms a cleavage furrow", "The cell wall dissolves and reseals"] },
+    { "c": "A Cdk becomes active when…", "a": "it binds a cyclin", "d": ["it is digested by a protease", "it leaves the nucleus"] },
+    { "c": "Checkpoint confirming all kinetochores attached", "a": "M checkpoint", "d": ["G1 checkpoint", "G2 checkpoint"] },
+    { "c": "p53", "a": "Tumor-suppressor protein that halts the cycle for DNA damage", "d": ["Cyclin that pushes cells into S phase", "Growth factor that triggers division"] },
+    { "c": "Binary fission", "a": "Cell division in prokaryotes", "d": ["Nuclear division in eukaryotes", "Fusion of two gametes"] }
+  ],
+  "read": {
+    "title": "From signal to division",
+    "text": [
+      "Most cells in the body divide only when told to. The message often arrives as a growth factor, a protein ligand released by a nearby cell. Because it is water-soluble, it cannot cross the membrane, so it binds a receptor on the cell surface. Many growth factor receptors are receptor tyrosine kinases: binding brings two receptors together, and they add phosphate groups to each other. Relay proteins inside the cell pick up the signal, and a chain of kinases carries it to the nucleus, where genes for cell division switch on.",
+      "The cell then moves through its cycle. In G1 it grows. In S it copies its DNA, so each chromosome becomes two identical sister chromatids held together by cohesin. In G2 it prepares for division. Mitosis then separates the copies: chromosomes condense, attach to the spindle at their kinetochores, line up at the center, and are pulled apart when cohesin is cut. Cytokinesis divides the cytoplasm.",
+      "At checkpoints the cell pauses to confirm that conditions are right, that DNA is undamaged, and that every chromosome is attached to the spindle. When these controls fail, cells may divide when they should not."
+    ],
+    "q": [
+      { "q": "Why does a protein growth factor bind a surface receptor?", "o": ["It is water-soluble and cannot cross the membrane", "It is a steroid", "It is made inside the same cell"], "k": 0 },
+      { "q": "When are sister chromatids formed?", "o": ["G1", "S phase", "Anaphase", "Cytokinesis"], "k": 1 },
+      { "q": "What lets sister chromatids separate in mitosis?", "o": ["Cohesin is cut", "The nuclear envelope re-forms", "DNA replicates"], "k": 0 }
+    ]
+  }
+}

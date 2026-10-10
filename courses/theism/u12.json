@@ -1,0 +1,308 @@
+{
+  "title": "The resurrection of Jesus",
+  "note": "The historical argument reasons abductively: certain facts about Jesus's death and its aftermath are granted by most critical historians, and the resurrection is claimed as their best explanation. Rivals include swoon, theft, wrong tomb, legend, and vision hypotheses. Hume's critique of miracle reports and the question of prior probability frame the whole debate.",
+  "src": {
+    "t": "Stanford Encyclopedia of Philosophy: Miracles",
+    "u": "https://plato.stanford.edu/entries/miracles/"
+  },
+  "items": [
+    {
+      "c": "Minimal facts approach (Gary Habermas)",
+      "a": "argue only from facts granted by most critical scholars",
+      "d": [
+        "argue only from the Bible's inerrancy",
+        "argue only from personal religious experience"
+      ]
+    },
+    {
+      "c": "What qualifies a 'minimal fact'",
+      "a": "strong evidence and near-universal scholarly acceptance",
+      "d": [
+        "acceptance by Christian scholars alone",
+        "mention in at least one Gospel"
+      ]
+    },
+    {
+      "c": "Habermas and Licona's 2004 book",
+      "a": "The Case for the Resurrection of Jesus",
+      "d": [
+        "The Resurrection of the Son of God",
+        "The Resurrection of God Incarnate"
+      ]
+    },
+    {
+      "c": "Minimal fact about Jesus's death",
+      "a": "Jesus died by crucifixion",
+      "d": [
+        "Jesus died of natural causes",
+        "Jesus was stoned to death"
+      ]
+    },
+    {
+      "c": "Minimal fact about the disciples",
+      "a": "they believed the risen Jesus appeared to them",
+      "d": [
+        "they admitted inventing the appearances",
+        "they never claimed to see him again"
+      ]
+    },
+    {
+      "c": "Minimal fact about Paul",
+      "a": "a persecutor of the church became a follower",
+      "d": [
+        "a disciple of Jesus from Galilee",
+        "an author of all four Gospels"
+      ]
+    },
+    {
+      "c": "Minimal fact about James",
+      "a": "Jesus's skeptical brother became a believer",
+      "d": [
+        "James wrote the earliest Gospel",
+        "James was the first to deny Jesus"
+      ]
+    },
+    {
+      "c": "Status of the empty tomb among minimal facts",
+      "a": "widely, though not nearly universally, accepted",
+      "d": [
+        "accepted by every critical historian",
+        "rejected by nearly all historians"
+      ]
+    },
+    {
+      "c": "Early creed listing resurrection appearances",
+      "a": "1 Corinthians 15:3-7",
+      "d": [
+        "Romans 8:28-30",
+        "Philippians 2:6-11"
+      ]
+    },
+    {
+      "c": "Number Paul says saw Jesus at one time",
+      "a": "more than five hundred",
+      "d": [
+        "exactly twelve",
+        "about seventy"
+      ]
+    },
+    {
+      "c": "First named witness in Paul's appearance list",
+      "a": "Cephas (Peter)",
+      "d": [
+        "Mary Magdalene",
+        "James"
+      ]
+    },
+    {
+      "c": "Roman historian who records Jesus's execution",
+      "a": "Tacitus",
+      "d": [
+        "Suetonius",
+        "Pliny the Younger"
+      ],
+      "ex": "Annals 15.44."
+    },
+    {
+      "c": "N. T. Wright's 2003 book",
+      "a": "The Resurrection of the Son of God",
+      "d": [
+        "The Case for the Resurrection of Jesus",
+        "Jesus: A Revolutionary Biography"
+      ]
+    },
+    {
+      "c": "Wright: what jointly explains the rise of belief",
+      "a": "the empty tomb and the appearances",
+      "d": [
+        "the appearances alone",
+        "the empty tomb alone"
+      ]
+    },
+    {
+      "c": "Embarrassing detail in the empty-tomb story",
+      "a": "women are its first witnesses",
+      "d": [
+        "Romans guarded the tomb",
+        "Peter ran to the tomb"
+      ]
+    },
+    {
+      "c": "Swoon theory",
+      "a": "Jesus did not die but revived in the tomb",
+      "d": [
+        "the disciples fainted and dreamed",
+        "a twin took Jesus's place"
+      ]
+    },
+    {
+      "c": "Strauss's objection to the swoon theory",
+      "a": "a half-dead Jesus would not seem to have conquered death",
+      "d": [
+        "Romans never crucified anyone",
+        "Jesus had no tomb to revive in"
+      ]
+    },
+    {
+      "c": "Earliest recorded alternative explanation",
+      "a": "the disciples stole the body",
+      "d": [
+        "Jesus only fainted on the cross",
+        "the women went to the wrong tomb"
+      ],
+      "ex": "Reported in Matthew 28:11-15."
+    },
+    {
+      "c": "Deist whose posthumous fragments alleged theft",
+      "a": "Hermann Samuel Reimarus",
+      "d": [
+        "David Friedrich Strauss",
+        "Ernest Renan"
+      ]
+    },
+    {
+      "c": "Objection to the theft theory",
+      "a": "liars rarely suffer for a story they know is false",
+      "d": [
+        "the body could not be moved",
+        "no one ever accused the disciples"
+      ]
+    },
+    {
+      "c": "Vision (hallucination) hypothesis",
+      "a": "the disciples had grief-induced visions of Jesus",
+      "d": [
+        "the disciples met Jesus's twin brother",
+        "the disciples misread Old Testament texts"
+      ]
+    },
+    {
+      "c": "Scholar of a Peter-vision explanation",
+      "a": "Gerd Lüdemann",
+      "d": [
+        "N. T. Wright",
+        "Gary Habermas"
+      ]
+    },
+    {
+      "c": "Objection to the vision hypothesis",
+      "a": "group appearances, and appearances to Paul and James",
+      "d": [
+        "visions never occur to anyone",
+        "the disciples were all skeptics of visions"
+      ]
+    },
+    {
+      "c": "Wrong-tomb theory (Kirsopp Lake, 1907)",
+      "a": "the women went to the wrong tomb",
+      "d": [
+        "the body was moved by gardeners",
+        "the tomb was never sealed at all"
+      ]
+    },
+    {
+      "c": "Objection to the wrong-tomb theory",
+      "a": "opponents could have shown the right tomb",
+      "d": [
+        "the women had never been to Jerusalem",
+        "no tombs existed near Jerusalem"
+      ]
+    },
+    {
+      "c": "Objection to the legend theory",
+      "a": "the 1 Corinthians 15 creed dates within a few years",
+      "d": [
+        "the Gospels were written in the 4th century",
+        "no early Christian ever wrote anything"
+      ]
+    },
+    {
+      "c": "Criteria Craig borrows from C. Behan McCullagh",
+      "a": "explanatory scope, power, plausibility",
+      "d": [
+        "simplicity, beauty, antiquity",
+        "coherence, utility, popularity"
+      ]
+    },
+    {
+      "c": "Hume's maxim on miracle reports",
+      "a": "accept one only if its falsehood would be more miraculous",
+      "d": [
+        "accept one if two witnesses agree",
+        "accept one if it supports true religion"
+      ]
+    },
+    {
+      "c": "Bart Ehrman's objection to the historical case",
+      "a": "historians can't judge a miracle the likeliest event",
+      "d": [
+        "Jesus never existed at all",
+        "Paul never wrote 1 Corinthians"
+      ]
+    },
+    {
+      "c": "Theist reply on prior probability",
+      "a": "background evidence for God raises it",
+      "d": [
+        "miracles need no evidence at all",
+        "probability does not apply to history"
+      ]
+    },
+    {
+      "c": "Swinburne's 2003 Bayesian case",
+      "a": "The Resurrection of God Incarnate",
+      "d": [
+        "The Existence of God",
+        "Is There a God?"
+      ]
+    },
+    {
+      "c": "Michael Licona's 2010 book",
+      "a": "The Resurrection of Jesus: A New Historiographical Approach",
+      "d": [
+        "The Case for Christ",
+        "The Historical Jesus"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Facts and their best explanation",
+    "text": [
+      "Gary Habermas's minimal facts approach does not ask the skeptic to accept the Bible as inspired or even generally reliable. It uses only facts that are well evidenced and granted by the great majority of critical scholars, including skeptical ones. The argument is abductive:",
+      "(1) Jesus died by crucifixion. (2) Soon afterward his disciples sincerely believed that he had risen and appeared to them. (3) Paul, a persecutor of the church, came to believe the same. (4) James, Jesus's skeptical brother, came to believe the same. (5) The best explanation of these facts is that God raised Jesus from the dead.",
+      "Many defenders add the empty tomb, which a majority of scholars, though not all, accept. The creed Paul hands on in 1 Corinthians 15, which most date to within a few years of the crucifixion, lists appearances to Peter, the Twelve, more than five hundred at once, James, and all the apostles; Paul then adds himself.",
+      "The leading naturalistic rival is the vision hypothesis, defended by Gerd Lüdemann: grief and guilt produced visions, first in Peter, then spreading to others.",
+      "Defenders reply that this fits the facts poorly. Visions are private, yet the creed reports group appearances. Paul and James were not grieving followers. And visions alone would not explain an empty tomb. Critics answer that any natural explanation, however strained, is more probable than a miracle; defenders reply that this depends on whether one has independent reason to think God exists."
+    ],
+    "q": [
+      {
+        "q": "What kind of argument is the minimal facts case?",
+        "o": [
+          "Deductive",
+          "Abductive",
+          "A priori",
+          "Practical"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why are Paul and James a problem for the vision hypothesis?",
+        "o": [
+          "They were not grieving followers",
+          "They were never in Jerusalem",
+          "They wrote the Gospels"
+        ],
+        "k": 0
+      },
+      {
+        "q": "On what, say defenders, does the 'more probable than a miracle' reply depend?",
+        "o": [
+          "The date of Mark's Gospel",
+          "Whether visions occur",
+          "Whether one has independent reason to think God exists"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

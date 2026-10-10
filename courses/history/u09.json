@@ -1,0 +1,51 @@
+{
+  "title": "The Scientific Revolution and the Enlightenment",
+  "note": "From Copernicus (1543) to Newton (1687), thinkers replaced ancient authority with observation, experiment and mathematics. Enlightenment writers of the 1700s applied the same faith in reason to government and society, arguing for natural rights, limited government and the separation of powers.",
+  "src": { "t": "Brooks, Western Civilization II (LibreTexts), Ch. 10; OpenStax World History Vol. 2, 7.1", "u": "https://human.libretexts.org/Bookshelves/History/World_History/Western_Civilization_3e%3A_A_Concise_History_II/Chapters_10%3A_The_Scientific_Revolution" },
+  "items": [
+    { "c": "Geocentric model", "a": "Earth at the center of the universe", "d": ["Sun at the center of the universe", "Moon at the center of the universe"] },
+    { "c": "Ancient astronomer of the geocentric system", "a": "Ptolemy", "d": ["Copernicus", "Kepler", "Euclid"] },
+    { "c": "Heliocentric model", "a": "Sun at the center, planets orbiting it", "d": ["Earth at the center, sun orbiting it", "Stars fixed on a crystal sphere around Earth"] },
+    { "c": "Nicolaus Copernicus", "a": "Polish astronomer who proposed a sun-centered system", "d": ["Danish astronomer who mapped the stars precisely", "Italian who built a telescope to see Jupiter's moons"] },
+    { "c": "Copernicus publishes his heliocentric theory", "a": "1543", "d": ["1492", "1633", "1687"] },
+    { "c": "Johannes Kepler", "a": "Showed that planets move in ellipses", "d": ["Showed that blood circulates", "Showed that light is made of colors"] },
+    { "c": "Galileo Galilei", "a": "Used a telescope to support heliocentrism", "d": ["Wrote the laws of planetary ellipses", "Founded the method of doubt"] },
+    { "c": "Galileo tried by the Inquisition", "a": "1633", "d": ["1543", "1687", "1517"] },
+    { "c": "Isaac Newton", "a": "Formulated the laws of motion and universal gravitation", "d": ["Proved that planets orbit in ellipses", "Discovered the moons of Jupiter"] },
+    { "c": "Newton publishes the Principia", "a": "1687", "d": ["1543", "1633", "1776"] },
+    { "c": "Francis Bacon", "a": "Championed experiment and inductive reasoning", "d": ["Championed deduction from first principles", "Championed absolute monarchy"] },
+    { "c": "René Descartes", "a": "Philosopher of \"I think, therefore I am\"", "d": ["Philosopher of the social contract", "Astronomer of elliptical orbits"] },
+    { "c": "Scientific method", "a": "Testing hypotheses by observation and experiment", "d": ["Accepting the teachings of ancient authors", "Reasoning from scripture alone"] },
+    { "c": "William Harvey", "a": "Showed that the heart pumps blood around the body", "d": ["Built the first reflecting telescope", "Wrote the anatomy book On the Fabric of the Human Body"] },
+    { "c": "Absolutism", "a": "Monarch holds unlimited power", "d": ["Monarch shares power with parliament", "People rule through elected leaders"] },
+    { "c": "Divine right of kings", "a": "Belief that monarchs get their authority from God", "d": ["Belief that monarchs rule by the people's consent", "Belief that the pope chooses all kings"] },
+    { "c": "Louis XIV", "a": "French \"Sun King\" who built Versailles", "d": ["English king beheaded in 1649", "Prussian king who hosted Voltaire"] },
+    { "c": "Glorious Revolution", "a": "1688 overthrow of James II in England", "d": ["1649 execution of Charles I", "1066 Norman conquest of England"] },
+    { "c": "English Bill of Rights (1689)", "a": "Limited royal power and protected Parliament", "d": ["Made the king head of the church", "Gave all men the right to vote"] },
+    { "c": "Thomas Hobbes, in Leviathan", "a": "Argued for a strong absolute government", "d": ["Argued for separation of powers", "Argued for free markets"] },
+    { "c": "John Locke", "a": "Argued for natural rights to life, liberty and property", "d": ["Argued for absolute monarchy to prevent chaos", "Argued for the general will of the people"] },
+    { "c": "Social contract", "a": "Agreement by which people form a government", "d": ["Treaty between two monarchs", "Deal between a lord and a vassal"] },
+    { "c": "Montesquieu", "a": "Proposed separating legislative, executive and judicial powers", "d": ["Proposed a single all-powerful legislature", "Proposed rule by enlightened despots"] },
+    { "c": "Voltaire", "a": "French satirist who championed free speech and tolerance", "d": ["Swiss writer of The Social Contract", "Scottish author of The Wealth of Nations"] },
+    { "c": "Jean-Jacques Rousseau", "a": "Wrote The Social Contract on the general will", "d": ["Wrote Leviathan on absolute power", "Wrote Candide mocking optimism"] },
+    { "c": "Adam Smith", "a": "Economist of free markets in The Wealth of Nations", "d": ["Philosopher of the separation of powers", "Pamphleteer of Common Sense"] },
+    { "c": "Mary Wollstonecraft", "a": "Argued for women's education and rights", "d": ["Hosted the leading Paris salon", "Ruled Russia as an enlightened despot"] },
+    { "c": "Salons", "a": "Private gatherings to discuss ideas, often hosted by women", "d": ["Royal courts for trying heretics", "Universities run by the church"] },
+    { "c": "Diderot's Encyclopédie", "a": "Multivolume collection of Enlightenment knowledge", "d": ["Catalog of books banned by the church", "Code of French laws under Napoleon"] },
+    { "c": "Enlightened despot", "a": "Absolute ruler who adopted some reforms", "d": ["Elected leader of a republic", "Rebel who overthrew a king"] },
+    { "c": "Example of an enlightened despot", "a": "Catherine the Great of Russia", "d": ["Louis XVI of France", "George III of Britain"] }
+  ],
+  "read": {
+    "title": "Reason applied to nature and society",
+    "text": [
+      "For centuries, educated Europeans followed ancient authorities such as Aristotle and Ptolemy, who placed Earth at the center of the universe. In 1543 Nicolaus Copernicus argued that the sun was at the center instead. Johannes Kepler showed that planets travel in ellipses, and Galileo's telescope revealed moons circling Jupiter. In 1687 Isaac Newton explained these motions with a single law of gravitation that held on Earth and in the heavens. Thinkers such as Francis Bacon promoted a new method: observe, form a hypothesis, and test it by experiment.",
+      "If reason could uncover the laws of nature, many asked, could it also discover the laws of good government? John Locke argued that people have natural rights to life, liberty and property, and that a government that violates them may be replaced. Montesquieu urged that power be divided among separate branches so that no one could become a tyrant. Voltaire attacked censorship and religious persecution, and Rousseau wrote of a social contract based on the general will.",
+      "These ideas spread through books, newspapers, coffeehouses and salons. Some monarchs, such as Catherine the Great, adopted reforms while keeping absolute power. Others faced revolutions led by people who had read Locke and Montesquieu."
+    ],
+    "q": [
+      { "q": "What did Newton's law of gravitation explain?", "o": ["Motion on Earth and in the heavens", "Only the motion of the moon", "Why planets move in circles", "Why the sun orbits Earth"], "k": 0 },
+      { "q": "Why did Montesquieu want power divided among branches?", "o": ["So no one could become a tyrant", "So kings could rule more efficiently", "So the church could choose judges", "So trade would grow faster"], "k": 0 },
+      { "q": "What question linked the Scientific Revolution to the Enlightenment?", "o": ["Whether reason could find laws of government", "Whether the earth was flat", "Whether Latin should be used", "Whether colonies were profitable"], "k": 0 }
+    ]
+  }
+}

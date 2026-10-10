@@ -1,0 +1,49 @@
+{
+  "title": "Informal fallacies of relevance",
+  "note": "A fallacy of relevance offers premises that may be true, or emotionally moving, but do not bear on whether the conclusion is true. Attacking the arguer, appealing to pity, force, or popularity, and changing the subject all fit here. The test: even if this premise is true, does it give any reason to believe the conclusion?",
+  "src": { "t": "Critical Reasoning (Southworth and Swoyer), Ch. 10 Relevance, Irrelevance, and Fallacies", "u": "https://human.libretexts.org/Bookshelves/Philosophy/Logic_and_Reasoning/Critical_Reasoning%3A_A_User's_Manual_(Southworth_and_Swoyer)/10%3A_Relevance_Irrelevance_and_Fallacies" },
+  "items": [
+    { "c": "Ad hominem", "a": "attacking the person, not the argument", "d": ["distorting an opponent's claim", "appealing to the crowd's opinion", "changing the subject"] },
+    { "c": "Straw man", "a": "refuting a distorted version of a claim", "d": ["attacking the person who made the claim", "assuming the claim in the premises", "citing an unqualified authority"] },
+    { "c": "Red herring", "a": "distracting with an irrelevant point", "d": ["refuting a distorted version of a claim", "offering only two options", "attacking the arguer's motives"] },
+    { "c": "Tu quoque", "a": "dismissing criticism because the critic does it too", "d": ["dismissing a claim because of where it came from", "excusing a wrong by pointing to a worse one", "threatening the critic"] },
+    { "c": "Appeal to popularity", "a": "true because many people believe it", "d": ["true because it has long been believed", "true because an authority said so", "true because it is natural"] },
+    { "c": "Appeal to authority", "a": "true just because an authority said so", "d": ["true because many people believe it", "true because no one has disproved it", "true because it is traditional"], "ex": "Citing a real expert within the expert's field is reasonable; the fallacy is treating any say-so as proof." },
+    { "c": "Circumstantial ad hominem", "a": "dismissing a view by citing the arguer's self-interest", "d": ["dismissing a view by insulting the arguer", "dismissing a view because it is unpopular"] },
+    { "c": "Poisoning the well", "a": "discrediting a speaker in advance of the speech", "d": ["repeating a claim until it is believed", "flattering the audience before arguing"] },
+    { "c": "Genetic fallacy", "a": "judging a claim by its origin, not its merits", "d": ["judging a claim by its popularity", "judging a claim by its consequences"] },
+    { "c": "Appeal to pity (ad misericordiam)", "a": "using sympathy in place of relevant reasons", "d": ["using threats in place of relevant reasons", "using flattery in place of relevant reasons"] },
+    { "c": "Appeal to force (ad baculum)", "a": "using threats in place of relevant reasons", "d": ["using sympathy in place of relevant reasons", "using humor in place of relevant reasons"] },
+    { "c": "Appeal to ignorance (ad ignorantiam)", "a": "true because not proven false, or the reverse", "d": ["true because experts believe it", "true because the arguer is sincere"] },
+    { "c": "Appeal to tradition", "a": "right because it has long been done", "d": ["right because it is new", "right because most people do it now"] },
+    { "c": "Appeal to novelty", "a": "better because it is newer", "d": ["better because it is older", "better because it is natural"] },
+    { "c": "Appeal to nature", "a": "good because it is natural", "d": ["good because it is new", "good because it is popular"] },
+    { "c": "Two wrongs make a right", "a": "excusing a wrong because another wrong was done", "d": ["rejecting a claim because the arguer is a hypocrite", "assuming two options are the only ones"] },
+    { "c": "Irrelevant conclusion (ignoratio elenchi)", "a": "an argument that supports a different point", "d": ["an argument whose premises contradict", "an argument that hides a premise"] },
+    { "c": "Ignore her plan; she's been divorced twice.", "a": "ad hominem (abusive)", "d": ["straw man", "red herring", "appeal to pity"] },
+    { "c": "You say I should quit smoking, but you smoke!", "a": "tu quoque", "d": ["straw man", "appeal to force", "genetic fallacy"] },
+    { "c": "Millions bought this phone, so it's the best.", "a": "appeal to popularity (bandwagon)", "d": ["appeal to tradition", "appeal to authority", "hasty generalization"] },
+    { "c": "No one has disproven ghosts, so they exist.", "a": "appeal to ignorance", "d": ["begging the question", "appeal to popularity", "red herring"] },
+    { "c": "'Trim the military budget' recast as 'disarm us'", "a": "straw man", "d": ["red herring", "ad hominem", "genetic fallacy"] },
+    { "c": "That idea came from a cult, so it's false.", "a": "genetic fallacy", "d": ["appeal to tradition", "straw man", "tu quoque"] },
+    { "c": "Give me an A; I worked so hard this term.", "a": "appeal to pity", "d": ["appeal to force", "appeal to popularity", "red herring"] },
+    { "c": "Agree with my report, or you'll lose your job.", "a": "appeal to force", "d": ["appeal to pity", "appeal to authority", "two wrongs make a right"] },
+    { "c": "We've always done it this way, so it's right.", "a": "appeal to tradition (ad antiquitatem)", "d": ["appeal to novelty", "appeal to popularity", "appeal to nature"] },
+    { "c": "It's all natural, so it must be good for you.", "a": "appeal to nature (fallacy)", "d": ["appeal to tradition", "appeal to novelty", "genetic fallacy"] },
+    { "c": "Test for a fallacy of relevance", "a": "even if the premise is true, does it support the conclusion?", "d": ["is the premise stated politely?", "does the arguer seem confident?"] }
+  ],
+  "read": {
+    "title": "Beside the point",
+    "text": [
+      "Many bad arguments have true premises. Their problem is relevance: the reasons offered, however true or moving, do not bear on whether the conclusion is true. A good test is to grant the premise and ask whether it gives you any reason at all to accept the conclusion.",
+      "The most familiar case is the ad hominem, which attacks the arguer instead of the argument. A senator's divorce tells you nothing about whether her budget plan would work. The circumstantial version points to the arguer's interests, and tu quoque points to hypocrisy: a smoker who urges you to quit may be inconsistent, but the advice is still sound. Interests and hypocrisy can be reasons to check an argument carefully; they are not reasons to reject it.",
+      "Other fallacies of relevance swap reasons for feelings or pressures: pity, fear, threats, or the comfort of doing what everyone else does. A straw man replaces the opponent's view with a weaker one, and a red herring drags the discussion onto a different topic.",
+      "Not every appeal to authority or emotion is fallacious. Trusting a qualified expert inside the expert's field is often reasonable, and emotion is fitting when the facts warrant it. The fallacy lies in letting such appeals substitute for relevant evidence."
+    ],
+    "q": [
+      { "q": "What test does the reading recommend for fallacies of relevance?", "o": ["Check whether the arguer is sincere", "Grant the premise and ask whether it supports the conclusion", "Count how many people agree"], "k": 1 },
+      { "q": "According to the reading, an arguer's hypocrisy is", "o": ["a reason to examine the argument, not to reject it", "proof that the conclusion is false", "irrelevant to every discussion"], "k": 0 },
+      { "q": "When is relying on an authority reasonable, per the reading?", "o": ["Whenever the person is famous", "Never", "When a qualified expert speaks within the expert's field"], "k": 2 }
+    ]
+  }
+}

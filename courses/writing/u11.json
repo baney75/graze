@@ -1,0 +1,45 @@
+{
+  "title": "Usage myths and real rules",
+  "note": "Some school 'rules' are not rules of English. Splitting an infinitive ('to boldly go'), ending a sentence with a preposition, and starting a sentence with And or But are all standard. Real rules, such as subject-verb agreement, describe what careful writers of edited English consistently do.",
+  "src": { "t": "Merriam-Webster, split infinitive (usage note)", "u": "https://www.merriam-webster.com/dictionary/split%20infinitive" },
+  "items": [
+    { "c": "Is 'to boldly go' an error?", "a": "no; split infinitives are standard", "d": ["yes; never split an infinitive"] },
+    { "c": "Split infinitive", "a": "a word placed between 'to' and its verb", "d": ["an infinitive missing its 'to'", "two infinitives joined by 'and'"] },
+    { "c": "When a split infinitive is the better choice", "a": "when moving the adverb would be awkward or unclear", "d": ["never; always move the adverb", "only in poetry"], "ex": "He wants to really understand it." },
+    { "c": "When the split-infinitive ban arose", "a": "the 19th century", "d": ["the 16th century", "the 20th century"] },
+    { "c": "Is 'What are you looking at?' correct?", "a": "yes; ending with a preposition is fine", "d": ["no; never end with a preposition"] },
+    { "c": "Poet who popularized the final-preposition ban", "a": "John Dryden", "d": ["Samuel Johnson", "Noah Webster", "William Shakespeare"], "ex": "In 1672 Dryden faulted Ben Jonson for the habit." },
+    { "c": "Why the preposition ban doesn't fit English", "a": "English grammar is not modeled on Latin", "d": ["prepositions are a recent addition", "dictionaries have banned the rule"] },
+    { "c": "Natural version of 'Of what are you afraid?'", "a": "What are you afraid of?", "d": ["Of what afraid are you?", "What of are you afraid?"] },
+    { "c": "May a sentence begin with 'And' or 'But'?", "a": "yes; good writers have long done so", "d": ["no; it always creates a fragment"] },
+    { "c": "Is 'Because it rained, we left.' correct?", "a": "yes; 'because' may open a full sentence", "d": ["no; never begin with 'because'"] },
+    { "c": "Is 'has always been' a 'split verb' error?", "a": "no; adverbs often sit inside verb phrases", "d": ["yes; keep the verb phrase together"] },
+    { "c": "Real rule or myth: never use passive voice", "a": "myth", "d": ["real rule"] },
+    { "c": "Real rule or myth: subject-verb agreement", "a": "real rule", "d": ["myth"] },
+    { "c": "Rule against comma splices in formal prose", "a": "a real convention of edited English", "d": ["a myth with no basis in usage"] },
+    { "c": "Can 'none' take a plural verb?", "a": "yes, when it means 'not any' of a plural", "d": ["no; 'none' is always singular"], "ex": "None of the cars are new. None of the cake is left." },
+    { "c": "Double negative: 'I didn't see nobody.'", "a": "nonstandard; write 'anybody'", "d": ["standard in formal writing"] },
+    { "c": "Standard spelling: 'a lot' or 'alot'?", "a": "a lot", "d": ["alot"] },
+    { "c": "Standard word: 'regardless' or 'irregardless'?", "a": "regardless", "d": ["irregardless"] },
+    { "c": "Contractions in writing", "a": "a matter of formality, not correctness", "d": ["always grammatical errors", "required in academic papers"] },
+    { "c": "Is first person ever fine in academic writing?", "a": "yes; many fields and style guides allow it", "d": ["no; 'I' is banned in all scholarship"] },
+    { "c": "Must every paragraph have five sentences?", "a": "no; length follows the idea", "d": ["yes; five is the required minimum"] },
+    { "c": "Is 'whom' still standard in formal writing?", "a": "yes, as an object", "d": ["no; 'whom' is obsolete"] },
+    { "c": "Prescriptive grammar", "a": "rules for how language should be used", "d": ["a record of how people actually speak", "the study of word origins"] },
+    { "c": "Descriptive grammar", "a": "an account of how a language is actually used", "d": ["rules for how people ought to write", "a list of banned words"] },
+    { "c": "Best test of a usage 'rule'", "a": "what careful, respected writers actually do", "d": ["whatever sounds most like Latin", "the strictest version you have heard"] }
+  ],
+  "read": {
+    "title": "Rules that never were",
+    "text": [
+      "Many writers carry around rules they learned in school that no serious authority supports. The best known is the ban on splitting infinitives. An infinitive is to plus a verb, and splitting means putting a word between them, as in \"to boldly go.\" English writers have done this since the fourteenth century. Grammarians began to condemn it only in the nineteenth century, and today usage guides accept it, especially when it makes a sentence clearer.",
+      "The ban on ending a sentence with a preposition has a similar history. It was promoted in the seventeenth century, most famously by the poet John Dryden, and it reflects a wish to make English behave like Latin. English is not Latin. \"What are you looking at?\" is natural and correct; \"At what are you looking?\" is stiff.",
+      "None of this means anything goes. Subject-verb agreement, correct pronoun case and clear sentence boundaries are real conventions of edited English, followed by careful writers everywhere. The skill is telling the difference between a rule that describes good practice and a superstition that only makes prose awkward."
+    ],
+    "q": [
+      { "q": "According to the reading, when did grammarians begin to condemn split infinitives?", "o": ["In the fourteenth century", "In the seventeenth century", "In the nineteenth century"], "k": 2 },
+      { "q": "What wish does the reading say lies behind the final-preposition rule?", "o": ["To make English behave like Latin", "To make sentences shorter", "To imitate French poetry"], "k": 0 },
+      { "q": "Which does the reading treat as a real convention?", "o": ["Never ending with a preposition", "Subject-verb agreement", "Never splitting an infinitive"], "k": 1 }
+    ]
+  }
+}

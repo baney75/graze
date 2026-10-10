@@ -1,0 +1,322 @@
+{
+  "title": "Bias and confounding",
+  "note": "Bias is systematic error: it pushes results in one direction, and a bigger sample won't fix it. A confounder is a third factor linked to both the exposure and the outcome, creating a false or distorted link. Randomization, blinding and placebos are the main defenses.",
+  "src": {
+    "t": "OpenStax Introductory Statistics 2e, 1.4 Experimental Design and Ethics",
+    "u": "https://openstax.org/books/introductory-statistics-2e/pages/1-4-experimental-design-and-ethics"
+  },
+  "items": [
+    {
+      "c": "Bias, in research",
+      "a": "Systematic error that pushes results in one direction",
+      "d": [
+        "Random scatter that averages out",
+        "A researcher's honest opinion",
+        "Any result you disagree with"
+      ]
+    },
+    {
+      "c": "Random error",
+      "a": "Unpredictable variation that shrinks with larger samples",
+      "d": [
+        "Error that always pushes results one way",
+        "A deliberate change to the data",
+        "A mistake in the reference list"
+      ]
+    },
+    {
+      "c": "Does a larger sample fix bias?",
+      "a": "No; it shrinks random error, not systematic error",
+      "d": [
+        "Yes, bias disappears above 1,000 people",
+        "Yes, if the study is double-blind",
+        "Only in cross-sectional studies"
+      ]
+    },
+    {
+      "c": "Confounder",
+      "a": "A third factor tied to both exposure and outcome",
+      "d": [
+        "A factor tied only to the outcome",
+        "The treatment being tested",
+        "An error in recording data"
+      ]
+    },
+    {
+      "c": "Smoking, in a coffee and lung cancer link",
+      "a": "A confounder",
+      "d": [
+        "The outcome",
+        "The exposure",
+        "A placebo"
+      ]
+    },
+    {
+      "c": "Lurking variable",
+      "a": "An unmeasured factor that distorts an apparent relationship",
+      "d": [
+        "The variable the researcher manipulates",
+        "The outcome being measured",
+        "A typo in a data table"
+      ]
+    },
+    {
+      "c": "Ways to control confounding",
+      "a": "Randomization, matching, stratification, or adjustment",
+      "d": [
+        "Larger fonts in tables",
+        "Removing the control group",
+        "Reporting only significant results"
+      ]
+    },
+    {
+      "c": "Reverse causation",
+      "a": "The outcome actually causes the supposed exposure",
+      "d": [
+        "Two causes cancel each other out",
+        "A cause that acts only in reverse order",
+        "A study run backward in time"
+      ],
+      "ex": "People may exercise less because they are already ill, not become ill from exercising less."
+    },
+    {
+      "c": "Selection bias",
+      "a": "Groups differ because of how participants were chosen",
+      "d": [
+        "Participants misremember past events",
+        "Researchers know who got treatment",
+        "Only positive studies get published"
+      ]
+    },
+    {
+      "c": "Volunteer (self-selection) bias",
+      "a": "People who volunteer differ from those who don't",
+      "d": [
+        "Volunteers always give false answers",
+        "Volunteers are paid more than others",
+        "Volunteers can never be randomized"
+      ]
+    },
+    {
+      "c": "Healthy user bias",
+      "a": "People who choose a healthy habit tend to be healthier anyway",
+      "d": [
+        "Healthy people are excluded from studies",
+        "Sick people overreport healthy habits",
+        "Doctors prefer healthy patients"
+      ]
+    },
+    {
+      "c": "Survivorship bias",
+      "a": "Studying only those that made it through a filter",
+      "d": [
+        "Studying only those who died",
+        "Studying only those who refused",
+        "Studying everyone equally"
+      ],
+      "ex": "Studying only successful companies hides the failed ones that used the same strategy."
+    },
+    {
+      "c": "Attrition bias",
+      "a": "Distortion when dropouts differ from those who stay",
+      "d": [
+        "Distortion from rounding numbers",
+        "Distortion from small fonts",
+        "Distortion from using a placebo"
+      ]
+    },
+    {
+      "c": "Recall bias",
+      "a": "Groups remember past exposures with different accuracy",
+      "d": [
+        "Researchers recall data incorrectly",
+        "Journals recall published articles",
+        "Participants forget to show up"
+      ],
+      "ex": "A classic threat in case-control studies, where cases may search their memories harder."
+    },
+    {
+      "c": "Social desirability bias",
+      "a": "Answering in ways that look good to others",
+      "d": [
+        "Choosing friends as participants",
+        "Publishing only popular results",
+        "Preferring famous journals"
+      ]
+    },
+    {
+      "c": "Observer (detection) bias",
+      "a": "Outcome assessors' expectations shape what they record",
+      "d": [
+        "Participants watch other participants",
+        "Funders observe the study's progress",
+        "Reviewers read the paper twice"
+      ]
+    },
+    {
+      "c": "Measurement (information) bias",
+      "a": "Systematic error in how exposures or outcomes are measured",
+      "d": [
+        "Random variation between participants",
+        "Choosing the wrong citation style",
+        "Publishing in the wrong journal"
+      ]
+    },
+    {
+      "c": "Publication bias",
+      "a": "Positive results are more likely to be published",
+      "d": [
+        "Journals favor longer articles",
+        "Authors prefer certain publishers",
+        "Older studies are cited more"
+      ]
+    },
+    {
+      "c": "Funnel plot",
+      "a": "A graph used to spot publication bias in a meta-analysis",
+      "d": [
+        "A flowchart of study screening",
+        "A chart of a drug's dose levels",
+        "A diagram of a sampling plan"
+      ]
+    },
+    {
+      "c": "P-hacking",
+      "a": "Trying analyses until something reaches p < 0.05",
+      "d": [
+        "Choosing an analysis plan in advance",
+        "Stealing another lab's p-values",
+        "Reporting every analysis performed"
+      ]
+    },
+    {
+      "c": "Cherry-picking",
+      "a": "Citing only the evidence that supports your claim",
+      "d": [
+        "Citing all relevant evidence fairly",
+        "Using random samples",
+        "Picking a journal by impact factor"
+      ]
+    },
+    {
+      "c": "Outcome switching",
+      "a": "Reporting a different main outcome than was planned",
+      "d": [
+        "Measuring outcomes twice for accuracy",
+        "Changing journals before submitting",
+        "Switching participants between sites"
+      ]
+    },
+    {
+      "c": "Placebo",
+      "a": "An inactive treatment that looks like the real one",
+      "d": [
+        "A treatment twice as strong as usual",
+        "A treatment the participant chooses",
+        "A form participants sign before a study"
+      ]
+    },
+    {
+      "c": "Placebo effect",
+      "a": "Improvement caused by expectations, not the treatment itself",
+      "d": [
+        "Harm caused by an inactive treatment only",
+        "An effect caused by the active drug",
+        "A rise in the number of participants"
+      ]
+    },
+    {
+      "c": "Blinding",
+      "a": "Keeping people unaware of who gets which treatment",
+      "d": [
+        "Hiding the study from reviewers",
+        "Removing names from the reference list",
+        "Running a study in a dark room"
+      ]
+    },
+    {
+      "c": "Double-blind study",
+      "a": "Neither participants nor the researchers working with them know assignments",
+      "d": [
+        "Only the participants are unaware",
+        "Two separate placebo groups are used",
+        "The study is reviewed twice"
+      ]
+    },
+    {
+      "c": "Allocation concealment",
+      "a": "Hiding the next group assignment from those enrolling people",
+      "d": [
+        "Hiding results from the participants",
+        "Hiding the funder's identity",
+        "Hiding the paper from reviewers"
+      ]
+    },
+    {
+      "c": "Hawthorne effect",
+      "a": "People change their behavior because they know they're watched",
+      "d": [
+        "Improvement caused by a sugar pill",
+        "Errors from faulty equipment",
+        "Results fading in later studies"
+      ]
+    },
+    {
+      "c": "Nocebo effect",
+      "a": "Negative symptoms caused by negative expectations",
+      "d": [
+        "Improvement from expecting benefit",
+        "Harm caused by an overdose",
+        "A study with no control group"
+      ]
+    },
+    {
+      "c": "Why use a placebo control group?",
+      "a": "To separate the treatment's effect from expectation effects",
+      "d": [
+        "To make the study cheaper",
+        "To guarantee a significant result",
+        "To avoid needing consent"
+      ]
+    }
+  ],
+  "read": {
+    "title": "When a third factor does the work",
+    "text": [
+      "Imagine a study finds that people who take a daily vitamin live longer. Before concluding that vitamins extend life, ask who chooses to take them. Vitamin users may also exercise more, smoke less, and see doctors more often. Each of these is a confounder: a factor connected to both the exposure and the outcome. Any of them could produce the link even if the vitamin did nothing.",
+      "Confounding is one kind of bias, a systematic error that pushes results in one direction. Others creep in through who gets studied, how outcomes are measured, and what gets published. Unlike random error, bias doesn't shrink as a sample grows. A survey of a million volunteers can be precisely wrong.",
+      "Randomized trials are the strongest defense. When chance assigns the vitamin, health-conscious people land in both groups equally. A placebo keeps both groups' expectations alike, since believing you are treated can itself change how you feel. Blinding keeps participants and researchers from knowing who got what, so hopes can't tilt the measurements.",
+      "Observational studies can adjust for confounders they measured, but never for ones they missed."
+    ],
+    "q": [
+      {
+        "q": "Why might vitamin users live longer even if vitamins do nothing?",
+        "o": [
+          "Vitamin users may also exercise more and smoke less",
+          "Vitamins act as a placebo for doctors",
+          "Longevity causes vitamin use",
+          "The study used random assignment"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does the reading say about a survey of a million volunteers?",
+        "o": [
+          "It eliminates bias",
+          "It always finds the truth",
+          "It can be precisely wrong"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What is the limit of statistical adjustment in observational studies?",
+        "o": [
+          "It works only in small studies",
+          "It cannot handle confounders that weren't measured",
+          "It requires a placebo"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

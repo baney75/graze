@@ -1,0 +1,325 @@
+{
+  "title": "Contract verbs and -μι verbs",
+  "note": "Verbs with stems in α, ε or ο merge the stem vowel with the ending: ποιέω → ποιῶ, ποιεῖς, ποιεῖ, ποιοῦμεν, ποιεῖτε, ποιοῦσι(ν); ἀγαπάω → ἀγαπῶ, ἀγαπᾷς, ἀγαπᾷ, ἀγαπῶμεν. Dictionaries list the uncontracted form. A few common verbs end in -μι instead of -ω: δίδωμι (I give), τίθημι (I put), ἵστημι (I set up).",
+  "src": {
+    "t": "Dickinson College Commentaries, Greek Core Vocabulary",
+    "u": "https://dcc.dickinson.edu/greek-core-list"
+  },
+  "items": [
+    {
+      "c": "ποιέω",
+      "a": "I do, make",
+      "d": [
+        "I speak",
+        "I seek"
+      ],
+      "ex": "ὁ ποιῶν τὸ θέλημα τοῦ θεοῦ",
+      "exT": "the one who does the will of God",
+      "r": "poieō"
+    },
+    {
+      "c": "λαλέω",
+      "a": "I speak",
+      "d": [
+        "I call",
+        "I do, make"
+      ],
+      "r": "laleō",
+      "ex": "Σοφίαν δὲ λαλοῦμεν.",
+      "exT": "But we speak wisdom."
+    },
+    {
+      "c": "ζητέω",
+      "a": "I seek, look for",
+      "d": [
+        "I find",
+        "I keep, guard"
+      ],
+      "ex": "τί ζητεῖτε;",
+      "exT": "What are you looking for?",
+      "r": "zēteō"
+    },
+    {
+      "c": "καλέω",
+      "a": "I call",
+      "d": [
+        "I speak",
+        "I ask (for)"
+      ],
+      "r": "kaleō",
+      "ex": "καλεῖ τοὺς μαθητάς.",
+      "exT": "He calls the disciples."
+    },
+    {
+      "c": "τηρέω",
+      "a": "I keep, guard",
+      "d": [
+        "I seek, look for",
+        "I follow"
+      ],
+      "ex": "τὰς ἐντολὰς τηρεῖν",
+      "exT": "to keep the commandments",
+      "r": "tēreō"
+    },
+    {
+      "c": "φιλέω",
+      "a": "I love (as a friend); kiss",
+      "d": [
+        "I honor",
+        "I fear"
+      ],
+      "r": "phileō",
+      "ex": "φιλῶ σε.",
+      "exT": "I love you."
+    },
+    {
+      "c": "αἰτέω",
+      "a": "I ask (for)",
+      "d": [
+        "I call",
+        "I bear witness"
+      ],
+      "r": "aiteō",
+      "ex": "αἰτεῖτε, καὶ δοθήσεται ὑμῖν.",
+      "exT": "Ask, and it will be given to you."
+    },
+    {
+      "c": "ἀκολουθέω + dative",
+      "a": "I follow",
+      "d": [
+        "I walk; live",
+        "I keep, guard"
+      ],
+      "ex": "ἀκολούθει μοι.",
+      "exT": "Follow me.",
+      "r": "akoloutheō",
+      "say": "ἀκολουθέω"
+    },
+    {
+      "c": "μαρτυρέω",
+      "a": "I bear witness, testify",
+      "d": [
+        "I speak",
+        "I urge, comfort"
+      ],
+      "r": "martyreō",
+      "ex": "μαρτυρεῖ περὶ ἐμοῦ.",
+      "exT": "He testifies about me."
+    },
+    {
+      "c": "περιπατέω",
+      "a": "I walk; live",
+      "d": [
+        "I follow",
+        "I fall"
+      ],
+      "r": "peripateō",
+      "ex": "περιπατεῖ ἐπὶ τῆς θαλάσσης.",
+      "exT": "He walks on the sea."
+    },
+    {
+      "c": "φοβέομαι",
+      "a": "I fear, am afraid",
+      "d": [
+        "I love (as a friend)",
+        "I urge, comfort"
+      ],
+      "ex": "μὴ φοβοῦ.",
+      "exT": "Do not be afraid.",
+      "r": "phobeomai"
+    },
+    {
+      "c": "παρακαλέω",
+      "a": "I urge, encourage, comfort",
+      "d": [
+        "I call",
+        "I bear witness, testify"
+      ],
+      "r": "parakaleō"
+    },
+    {
+      "c": "ἀγαπάω",
+      "a": "I love",
+      "d": [
+        "I honor",
+        "I live"
+      ],
+      "ex": "ἀγαπῶμεν ἀλλήλους.",
+      "exT": "Let us love one another.",
+      "r": "agapaō"
+    },
+    {
+      "c": "ὁράω",
+      "a": "I see",
+      "d": [
+        "I hear",
+        "I ask"
+      ],
+      "r": "horaō"
+    },
+    {
+      "c": "ζάω",
+      "a": "I live",
+      "d": [
+        "I die",
+        "I love"
+      ],
+      "r": "zaō",
+      "ex": "ζῶ δὲ οὐκέτι ἐγώ.",
+      "exT": "It is no longer I who live."
+    },
+    {
+      "c": "γεννάω",
+      "a": "I beget, give birth to",
+      "d": [
+        "I live",
+        "I honor"
+      ],
+      "r": "gennaō"
+    },
+    {
+      "c": "ἐρωτάω",
+      "a": "I ask, request",
+      "d": [
+        "I answer",
+        "I honor"
+      ],
+      "r": "erōtaō",
+      "ex": "ἐρωτῶ σε.",
+      "exT": "I ask you."
+    },
+    {
+      "c": "τιμάω",
+      "a": "I honor",
+      "d": [
+        "I love",
+        "I ask, request"
+      ],
+      "r": "timaō",
+      "ex": "τίμα τὸν πατέρα.",
+      "exT": "Honor your father."
+    },
+    {
+      "c": "πληρόω",
+      "a": "I fill, fulfill",
+      "d": [
+        "I reveal",
+        "I justify"
+      ],
+      "r": "plēroō",
+      "ex": "ἵνα ἡ γραφὴ πληρωθῇ",
+      "exT": "so that the Scripture might be fulfilled"
+    },
+    {
+      "c": "δικαιόω",
+      "a": "I justify, declare righteous",
+      "d": [
+        "I fill, fulfill",
+        "I judge, condemn"
+      ],
+      "r": "dikaioō"
+    },
+    {
+      "c": "φανερόω",
+      "a": "I reveal, make known",
+      "d": [
+        "I hide",
+        "I fill, fulfill"
+      ],
+      "r": "phaneroō"
+    },
+    {
+      "c": "δίδωμι",
+      "a": "I give",
+      "d": [
+        "I put, place",
+        "I take, receive"
+      ],
+      "r": "didōmi",
+      "ex": "ἐντολὴν καινὴν δίδωμι ὑμῖν.",
+      "exT": "I give you a new commandment."
+    },
+    {
+      "c": "τίθημι",
+      "a": "I put, place",
+      "d": [
+        "I give",
+        "I set up, make stand"
+      ],
+      "r": "tithēmi",
+      "ex": "τὴν ψυχὴν αὐτοῦ τίθησιν ὑπὲρ τῶν προβάτων.",
+      "exT": "He lays down his life for the sheep."
+    },
+    {
+      "c": "ἵστημι",
+      "a": "I set up, make stand",
+      "d": [
+        "I put, place",
+        "I let go, forgive"
+      ],
+      "r": "histēmi"
+    },
+    {
+      "c": "ἀφίημι",
+      "a": "I let go, forgive, leave",
+      "d": [
+        "I give",
+        "I set up, make stand"
+      ],
+      "r": "aphiēmi",
+      "ex": "ἀφίενταί σου αἱ ἁμαρτίαι.",
+      "exT": "Your sins are forgiven."
+    },
+    {
+      "c": "φημί",
+      "a": "I say, declare",
+      "d": [
+        "I hear",
+        "I show"
+      ],
+      "r": "phēmi",
+      "ex": "ἔφη αὐτῷ ὁ Ἰησοῦς.",
+      "exT": "Jesus said to him."
+    },
+    {
+      "c": "ὁ θεὸς ___ τὸν κόσμον. (loves; ἀγαπάω)",
+      "a": "ἀγαπᾷ",
+      "d": [
+        "ἀγαπεῖ",
+        "ἀγαπάει"
+      ]
+    },
+    {
+      "c": "τί ___; (what do you do? one person; ποιέω)",
+      "a": "ποιεῖς",
+      "d": [
+        "ποιῶ",
+        "ποιεῖ"
+      ]
+    },
+    {
+      "c": "___ τὸν κύριον. (we seek; ζητέω)",
+      "a": "ζητοῦμεν",
+      "d": [
+        "ζητεῖμεν",
+        "ζητοῦσιν"
+      ]
+    },
+    {
+      "c": "ὁ Ἰησοῦς ___ τοῖς μαθηταῖς. (speaks; λαλέω)",
+      "a": "λαλεῖ",
+      "d": [
+        "λαλῶ",
+        "λαλοῦσιν"
+      ]
+    },
+    {
+      "c": "τί ___; (what do you see? one person; ὁράω)",
+      "a": "ὁρᾷς",
+      "d": [
+        "ὁρεῖς",
+        "ὁρῶμεν"
+      ]
+    }
+  ]
+}

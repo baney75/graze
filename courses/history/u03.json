@@ -1,0 +1,51 @@
+{
+  "title": "Rome and the rise of Christianity",
+  "note": "Rome grew from a city-state into a republic that ruled the Mediterranean, then into an empire under Augustus. Christianity began in Roman Judea, spread along Roman roads, was persecuted, then legalized by Constantine in 313 CE and made the state religion by 380 CE.",
+  "src": { "t": "OpenStax World History Vol. 1, 6.4 to 7.4 and 10.1", "u": "https://openstax.org/books/world-history-volume-1/pages/6-4-the-roman-republic" },
+  "items": [
+    { "c": "Founding of Rome, by tradition", "a": "753 BCE", "d": ["509 BCE", "1200 BCE", "27 BCE"], "ex": "The legend credits the twins Romulus and Remus." },
+    { "c": "Rome expels its last king and becomes a republic", "a": "509 BCE", "d": ["753 BCE", "264 BCE", "44 BCE"] },
+    { "c": "Patricians", "a": "Rome's aristocratic families", "d": ["Rome's common citizens", "Rome's enslaved workers"] },
+    { "c": "Plebeians", "a": "Rome's common citizens", "d": ["Rome's aristocratic families", "Rome's foreign allies"] },
+    { "c": "Consuls", "a": "Two elected chief magistrates of the Republic", "d": ["Officials elected to protect plebeians", "Governors of conquered provinces"] },
+    { "c": "Tribunes", "a": "Officials elected to protect plebeians", "d": ["Two elected chief magistrates of the Republic", "Priests who read omens for the state"] },
+    { "c": "Roman Senate in the Republic", "a": "Council of aristocrats that guided policy", "d": ["Assembly of all citizens that elected kings", "Court of judges appointed by the emperor"] },
+    { "c": "Twelve Tables", "a": "Rome's first written laws", "d": ["Rome's first census of citizens", "Rome's treaty with Carthage"] },
+    { "c": "Punic Wars", "a": "Wars between Rome and Carthage", "d": ["Wars between Rome and Macedon", "Wars between Rome and the Gauls"] },
+    { "c": "Hannibal", "a": "Carthaginian general who crossed the Alps", "d": ["Roman general who conquered Gaul", "Greek king who fought Rome in Italy"] },
+    { "c": "Rome destroys Carthage", "a": "146 BCE", "d": ["264 BCE", "509 BCE", "44 BCE"] },
+    { "c": "Gracchus brothers", "a": "Tribunes who sought land for poor Romans", "d": ["Generals who conquered Carthage", "Consuls who founded the Republic"] },
+    { "c": "Julius Caesar", "a": "General who became dictator of Rome", "d": ["First emperor of Rome", "Carthaginian who invaded Italy"] },
+    { "c": "\"Crossing the Rubicon\"", "a": "Passing a point of no return", "d": ["Making a peace treaty", "Retreating from battle"], "ex": "Caesar led his army across the Rubicon River into Italy in 49 BCE." },
+    { "c": "Assassination of Julius Caesar", "a": "44 BCE", "d": ["27 BCE", "146 BCE", "14 CE"] },
+    { "c": "Octavian takes the title Augustus", "a": "27 BCE", "d": ["44 BCE", "79 CE", "146 BCE"] },
+    { "c": "Pax Romana", "a": "About two centuries of relative peace in the empire", "d": ["Treaty that ended the Punic Wars", "Rome's code of law for its provinces"] },
+    { "c": "Aqueduct", "a": "Channel carrying water to a city", "d": ["Arena for gladiator games", "Road paved for marching armies"] },
+    { "c": "Romance languages descend from", "a": "Latin", "d": ["Greek", "Etruscan", "Gothic"] },
+    { "c": "Jesus of Nazareth", "a": "Jewish teacher crucified under Roman rule", "d": ["Roman emperor who legalized Christianity", "Apostle who preached to the Gentiles"] },
+    { "c": "Apostle Paul", "a": "Spread Christianity to non-Jews across the empire", "d": ["Emperor who called the Council of Nicaea", "Bishop who wrote The City of God"] },
+    { "c": "Diocletian", "a": "Emperor who split rule among four co-emperors", "d": ["Emperor who founded Constantinople", "Emperor who made Christianity official"] },
+    { "c": "Constantine", "a": "First Roman emperor to embrace Christianity", "d": ["Last emperor of the western empire", "Emperor who persecuted Christians most harshly"] },
+    { "c": "Edict of Milan", "a": "313 CE, toleration for Christians", "d": ["380 CE, Christianity made state religion", "325 CE, statement of Christian belief"] },
+    { "c": "Council of Nicaea", "a": "325 CE council on the nature of Christ", "d": ["451 CE council on the papacy", "1054 CE split between East and West"] },
+    { "c": "Theodosius I and the Edict of Thessalonica", "a": "Made Nicene Christianity the state religion", "d": ["Moved the capital to Constantinople", "Divided the empire among four rulers"] },
+    { "c": "Constantinople dedicated as a new capital", "a": "330 CE", "d": ["476 CE", "212 CE", "800 CE"] },
+    { "c": "Visigoths under Alaric sack Rome", "a": "410 CE", "d": ["476 CE", "330 CE", "1453 CE"] },
+    { "c": "Traditional end of the western Roman Empire", "a": "476 CE", "d": ["410 CE", "330 CE", "1453 CE"], "ex": "The general Odoacer deposed the boy emperor Romulus Augustulus." },
+    { "c": "Augustine of Hippo", "a": "North African bishop who wrote The City of God", "d": ["Monk who founded the Benedictine order", "Pope who sent missionaries to England"] },
+    { "c": "Pressure on Rome's western frontiers came from", "a": "Germanic peoples and the Huns", "d": ["The Arab caliphate", "The Mongols", "The Vikings"] }
+  ],
+  "read": {
+    "title": "From republic to Christian empire",
+    "text": [
+      "After expelling its last king around 509 BCE, Rome governed itself as a republic. Two consuls, elected each year, led the state, and the Senate of aristocrats guided policy. Plebeians struggled for a larger voice and won their own officials, the tribunes, and written laws in the Twelve Tables. In three Punic Wars Rome defeated Carthage, and by 146 BCE no power in the Mediterranean could match it.",
+      "Conquest brought wealth but also unrest. Generals with loyal armies fought civil wars, and Julius Caesar made himself dictator before senators killed him in 44 BCE. His heir Octavian defeated his rivals and in 27 BCE took the name Augustus. He kept the forms of the Republic but ruled as the first emperor, opening the long Pax Romana.",
+      "In this peaceful, connected empire, Christianity spread from Judea to cities across the Mediterranean. Emperors at times persecuted Christians for refusing to honor the state gods. Then Constantine embraced the faith and, with the Edict of Milan in 313 CE, made it legal. In 380 CE Theodosius I declared Nicene Christianity the official religion. The western half of the empire weakened under pressure from Germanic peoples and ended in 476 CE, while the eastern half survived for nearly a thousand years."
+    ],
+    "q": [
+      { "q": "How did Augustus rule while keeping the forms of the Republic?", "o": ["He ruled as emperor in fact", "He shared power equally with the Senate", "He let the plebeians elect him king", "He gave power to the tribunes"], "k": 0 },
+      { "q": "Why were Christians sometimes persecuted?", "o": ["They refused to honor the state gods", "They supported Carthage", "They would not pay taxes", "They spoke Greek instead of Latin"], "k": 0 },
+      { "q": "What happened to the eastern half of the empire after 476 CE?", "o": ["It survived for nearly a thousand years", "It fell to the Visigoths", "It became a republic", "It was ruled from Rome"], "k": 0 }
+    ]
+  }
+}

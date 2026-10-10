@@ -1,0 +1,266 @@
+{
+  "title": "Diphthongs, breathings and accents",
+  "note": "Two vowels can blend into one syllable, a diphthong; its breathing and accent sit on the second vowel: εὐ, αἱ. Initial ρ and υ always take a rough breathing. A small ι under a long vowel (ᾳ ῃ ῳ) is iota subscript, silent when read aloud. Words are cited alone with an acute; in running text a final acute becomes grave (´ → `). ; is the question mark.",
+  "src": {
+    "t": "Greek diacritics (Wikipedia)",
+    "u": "https://en.wikipedia.org/wiki/Greek_diacritics"
+  },
+  "items": [
+    {
+      "c": "αι",
+      "a": "ai, as in aisle",
+      "d": [
+        "ei, as in eight",
+        "oi, as in oil"
+      ]
+    },
+    {
+      "c": "ει",
+      "a": "ei, as in eight",
+      "d": [
+        "ai, as in aisle",
+        "oi, as in oil"
+      ]
+    },
+    {
+      "c": "οι",
+      "a": "oi, as in oil",
+      "d": [
+        "ou, as in soup",
+        "ai, as in aisle"
+      ]
+    },
+    {
+      "c": "ου",
+      "a": "ou, as in soup",
+      "d": [
+        "au, as in how",
+        "oi, as in oil"
+      ]
+    },
+    {
+      "c": "αυ",
+      "a": "au, as in how",
+      "d": [
+        "ou, as in soup",
+        "eu, as in feud"
+      ]
+    },
+    {
+      "c": "ευ",
+      "a": "eu, as in feud",
+      "d": [
+        "au, as in how",
+        "ui, as in suite"
+      ]
+    },
+    {
+      "c": "υι",
+      "a": "ui, as in suite",
+      "d": [
+        "oi, as in oil",
+        "eu, as in feud"
+      ]
+    },
+    {
+      "c": "γγ",
+      "a": "ng, as in angel",
+      "d": [
+        "gg, as in egg",
+        "gy, as in gym"
+      ]
+    },
+    {
+      "c": "γκ",
+      "a": "nk, as in ink",
+      "d": [
+        "gk, as in big kite",
+        "ks, as in box"
+      ]
+    },
+    {
+      "c": "ἁ",
+      "a": "ha (rough breathing)",
+      "d": [
+        "a with no h (smooth breathing)",
+        "long ā (circumflex)"
+      ]
+    },
+    {
+      "c": "ἀ",
+      "a": "a with no h (smooth breathing)",
+      "d": [
+        "ha (rough breathing)",
+        "ai (iota subscript)"
+      ]
+    },
+    {
+      "c": "ῥ",
+      "a": "rh, as in rhetoric",
+      "d": [
+        "hr",
+        "rr"
+      ]
+    },
+    {
+      "c": "ᾳ",
+      "a": "long a with a silent iota subscript",
+      "d": [
+        "short a with a rough breathing",
+        "a and i said separately"
+      ]
+    },
+    {
+      "c": "the small ι written under ω in τῷ",
+      "a": "iota subscript",
+      "d": [
+        "diaeresis",
+        "smooth breathing"
+      ]
+    },
+    {
+      "c": "vowels that can take iota subscript",
+      "a": "long α, η and ω",
+      "d": [
+        "ε, ο and υ",
+        "any vowel at all"
+      ]
+    },
+    {
+      "c": "mark ῾ over a first vowel",
+      "a": "rough breathing: say h first",
+      "d": [
+        "smooth breathing: no h",
+        "circumflex accent"
+      ]
+    },
+    {
+      "c": "mark ᾿ over a first vowel",
+      "a": "smooth breathing: no h",
+      "d": [
+        "rough breathing: say h first",
+        "grave accent"
+      ]
+    },
+    {
+      "c": "breathing on every initial υ and ρ",
+      "a": "rough",
+      "d": [
+        "smooth",
+        "none at all"
+      ]
+    },
+    {
+      "c": "accent found only on a long vowel or diphthong",
+      "a": "circumflex (῀)",
+      "d": [
+        "acute (´)",
+        "grave (`)"
+      ]
+    },
+    {
+      "c": "a final acute before another word becomes",
+      "a": "grave (`)",
+      "d": [
+        "circumflex (῀)",
+        "no accent"
+      ]
+    },
+    {
+      "c": "farthest from the end an acute can stand",
+      "a": "third syllable from the end",
+      "d": [
+        "fourth syllable from the end",
+        "second syllable from the end"
+      ]
+    },
+    {
+      "c": "farthest from the end a circumflex can stand",
+      "a": "second syllable from the end",
+      "d": [
+        "third syllable from the end",
+        "last syllable only"
+      ]
+    },
+    {
+      "c": "ϊ or ϋ (two dots: diaeresis)",
+      "a": "said apart from the vowel before it",
+      "d": [
+        "silent",
+        "said with an h"
+      ]
+    },
+    {
+      "c": "; at the end of a Greek sentence",
+      "a": "question mark",
+      "d": [
+        "semicolon",
+        "exclamation mark"
+      ]
+    },
+    {
+      "c": "· (raised dot) in a Greek text",
+      "a": "a pause, like a colon or semicolon",
+      "d": [
+        "question mark",
+        "end of a paragraph"
+      ]
+    },
+    {
+      "c": "ἡμέρα (transliterate)",
+      "a": "hēmera",
+      "d": [
+        "ēmera",
+        "hemēra"
+      ]
+    },
+    {
+      "c": "Χριστός (transliterate)",
+      "a": "Christos",
+      "d": [
+        "Xristos",
+        "Kristos"
+      ]
+    },
+    {
+      "c": "ῥήτωρ (transliterate)",
+      "a": "rhētōr",
+      "d": [
+        "hrētōr",
+        "rētor"
+      ]
+    },
+    {
+      "c": "ὁδός (transliterate)",
+      "a": "hodos",
+      "d": [
+        "odos",
+        "hodōs"
+      ]
+    },
+    {
+      "c": "φιλοσοφία (transliterate)",
+      "a": "philosophia",
+      "d": [
+        "pilosopia",
+        "phylosophia"
+      ]
+    },
+    {
+      "c": "θεός (transliterate)",
+      "a": "theos",
+      "d": [
+        "teos",
+        "pheos"
+      ]
+    },
+    {
+      "c": "εὐαγγέλιον (transliterate)",
+      "a": "euangelion",
+      "d": [
+        "heuangelion",
+        "euankelion"
+      ]
+    }
+  ]
+}

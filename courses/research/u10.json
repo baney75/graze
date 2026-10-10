@@ -1,0 +1,366 @@
+{
+  "title": "Statistics literacy",
+  "note": "A p-value asks how surprising the data would be if there were no real effect; it is not the chance the effect is real. Confidence intervals show the plausible range, and effect sizes show how big an effect is. Always ask for absolute risk, not just relative risk.",
+  "src": {
+    "t": "OpenStax Introductory Statistics 2e, 9.4 Rare Events, the Sample, and the Decision and Conclusion",
+    "u": "https://openstax.org/books/introductory-statistics-2e/pages/9-4-rare-events-the-sample-decision-and-conclusion"
+  },
+  "items": [
+    {
+      "c": "Null hypothesis (H0)",
+      "a": "A statement of no effect or no difference",
+      "d": [
+        "The researcher's predicted effect",
+        "A summary of the final results",
+        "A claim that the data were faked"
+      ]
+    },
+    {
+      "c": "Alternative hypothesis (Ha)",
+      "a": "A claim of an effect that contradicts the null",
+      "d": [
+        "A claim of no difference at all",
+        "A backup plan if data are lost",
+        "A hypothesis from a different field"
+      ]
+    },
+    {
+      "c": "p-value",
+      "a": "Chance of data at least this extreme if the null were true",
+      "d": [
+        "Chance that the null hypothesis is true",
+        "Chance that the result will replicate",
+        "Size of the effect in the population"
+      ]
+    },
+    {
+      "c": "Correct reading of p = 0.03",
+      "a": "A 3% chance of data at least this extreme if H0 were true",
+      "d": [
+        "There is a 3% chance the null is true",
+        "There is a 97% chance the effect is real",
+        "The treatment changed outcomes by 3%"
+      ]
+    },
+    {
+      "c": "Significance level (alpha)",
+      "a": "The preset cutoff for rejecting H0, often 0.05",
+      "d": [
+        "The p-value calculated from the data",
+        "The size of the observed effect",
+        "The number of participants needed"
+      ]
+    },
+    {
+      "c": "If the p-value is below alpha",
+      "a": "Reject H0; the result is statistically significant",
+      "d": [
+        "Accept H0 as proven true",
+        "Repeat the test until p rises",
+        "Conclude the effect is large"
+      ]
+    },
+    {
+      "c": "Failing to reject the null means",
+      "a": "Not enough evidence for an effect, not proof of none",
+      "d": [
+        "The null hypothesis is proven true",
+        "The study was done incorrectly",
+        "The effect is definitely zero"
+      ]
+    },
+    {
+      "c": "Type I error",
+      "a": "Rejecting a true null: a false positive",
+      "d": [
+        "Failing to reject a false null",
+        "Correctly rejecting a false null",
+        "Entering data in the wrong column"
+      ]
+    },
+    {
+      "c": "Type II error",
+      "a": "Failing to reject a false null: a false negative",
+      "d": [
+        "Rejecting a true null hypothesis",
+        "Correctly keeping a true null",
+        "Using the wrong statistical test"
+      ]
+    },
+    {
+      "c": "Statistical power",
+      "a": "Probability of detecting an effect that really exists",
+      "d": [
+        "Probability of a false positive",
+        "The size of the observed effect",
+        "The p-value of the main test"
+      ],
+      "ex": "Power equals 1 minus beta, the Type II error rate."
+    },
+    {
+      "c": "Effect of a larger sample size",
+      "a": "More power and narrower confidence intervals",
+      "d": [
+        "Less power and wider intervals",
+        "Removal of all bias",
+        "A larger true effect"
+      ]
+    },
+    {
+      "c": "Underpowered study",
+      "a": "Likely to miss real effects and exaggerate ones it finds",
+      "d": [
+        "Certain to find a significant result",
+        "Free from all random error",
+        "A study with too many participants"
+      ]
+    },
+    {
+      "c": "Confidence interval",
+      "a": "A range of plausible values for the true value",
+      "d": [
+        "The single best estimate of the effect",
+        "The range of all participants' scores",
+        "The time a study takes to finish"
+      ]
+    },
+    {
+      "c": "What the 95% in a 95% CI describes",
+      "a": "The method captures the true value in 95% of samples",
+      "d": [
+        "A 95% chance this interval is correct",
+        "95% of participants fall in the range",
+        "The effect is 95% likely to be real"
+      ]
+    },
+    {
+      "c": "Raising the confidence level from 95% to 99%",
+      "a": "Makes the interval wider",
+      "d": [
+        "Makes the interval narrower",
+        "Leaves the width unchanged",
+        "Shrinks the sample size"
+      ]
+    },
+    {
+      "c": "95% CI for a difference includes 0",
+      "a": "No significant difference at the 0.05 level",
+      "d": [
+        "A large, important difference",
+        "Proof that the groups are identical",
+        "A calculation error"
+      ]
+    },
+    {
+      "c": "95% CI for a risk ratio includes 1",
+      "a": "Data are consistent with no change in risk",
+      "d": [
+        "Risk is certainly doubled",
+        "Risk is certainly halved",
+        "The study had no participants"
+      ]
+    },
+    {
+      "c": "Effect size",
+      "a": "How large a difference or relationship is",
+      "d": [
+        "How likely the result is by chance",
+        "How many people were studied",
+        "How often the study is cited"
+      ]
+    },
+    {
+      "c": "Cohen's d",
+      "a": "A difference in means measured in standard deviations",
+      "d": [
+        "A count of participants who dropped out",
+        "The probability of a Type I error",
+        "A ratio of two odds"
+      ]
+    },
+    {
+      "c": "Statistical vs practical significance",
+      "a": "Unlikely by chance vs big enough to matter",
+      "d": [
+        "Large effect vs small effect",
+        "Published vs unpublished",
+        "Randomized vs observational"
+      ]
+    },
+    {
+      "c": "Huge sample, tiny difference, p < 0.001",
+      "a": "Significant, but possibly too small to matter",
+      "d": [
+        "A large and important effect",
+        "Proof of a strong causal link",
+        "Evidence the study is biased"
+      ]
+    },
+    {
+      "c": "Absolute risk",
+      "a": "The chance an event happens in a group",
+      "d": [
+        "The ratio of risks in two groups",
+        "The risk in one person's genes",
+        "The risk that a study is biased"
+      ]
+    },
+    {
+      "c": "Relative risk",
+      "a": "Risk in the exposed group divided by risk in the unexposed",
+      "d": [
+        "Risk in one group minus the other",
+        "The chance of an event in one group",
+        "The number of people needed to treat"
+      ]
+    },
+    {
+      "c": "Relative risk reduction, 2% risk to 1%",
+      "a": "50%",
+      "d": [
+        "1%",
+        "2%",
+        "99%"
+      ]
+    },
+    {
+      "c": "Absolute risk reduction, 2% risk to 1%",
+      "a": "1 percentage point",
+      "d": [
+        "50 percentage points",
+        "2 percentage points",
+        "0.5 percentage points"
+      ]
+    },
+    {
+      "c": "Why headlines favor relative risk",
+      "a": "It makes small changes sound large",
+      "d": [
+        "It is the only risk measure",
+        "It is always more accurate",
+        "It accounts for all confounders"
+      ]
+    },
+    {
+      "c": "Number needed to treat (NNT)",
+      "a": "How many must be treated for one extra person to benefit",
+      "d": [
+        "How many must be harmed for one to benefit",
+        "The number of doses in a full course",
+        "The minimum sample size for a trial"
+      ]
+    },
+    {
+      "c": "NNT when absolute risk drops 1 percentage point",
+      "a": "100",
+      "d": [
+        "1",
+        "10",
+        "50"
+      ],
+      "ex": "NNT = 1 / absolute risk reduction = 1 / 0.01."
+    },
+    {
+      "c": "Number needed to harm (NNH)",
+      "a": "How many must be treated for one extra person to be harmed",
+      "d": [
+        "How many are harmed in every trial",
+        "How many doses cause an overdose",
+        "The share of patients who drop out"
+      ]
+    },
+    {
+      "c": "Regression to the mean",
+      "a": "Extreme measurements tend to be followed by less extreme ones",
+      "d": [
+        "Averages always rise over time",
+        "Data drift toward the researcher's hypothesis",
+        "Large samples become more extreme"
+      ]
+    },
+    {
+      "c": "Regression to the mean in uncontrolled trials",
+      "a": "People enroll at their worst and tend to improve anyway",
+      "d": [
+        "Treatments always work at first",
+        "Placebos make people worse",
+        "Large samples hide real effects"
+      ]
+    },
+    {
+      "c": "Multiple comparisons problem",
+      "a": "Running many tests raises the odds of a false positive",
+      "d": [
+        "Comparing two groups is never valid",
+        "More tests always reduce error",
+        "Only one comparison can be published"
+      ]
+    },
+    {
+      "c": "20 tests at alpha 0.05, no real effects",
+      "a": "About one \"significant\" result expected by chance",
+      "d": [
+        "No significant results possible",
+        "About ten significant results",
+        "All twenty will be significant"
+      ]
+    },
+    {
+      "c": "Range of the correlation coefficient r",
+      "a": "From -1 to +1",
+      "d": [
+        "From 0 to 100",
+        "From 0 to 1 only",
+        "From -10 to +10"
+      ]
+    },
+    {
+      "c": "Odds ratio or risk ratio of exactly 1",
+      "a": "No association between exposure and outcome",
+      "d": [
+        "The exposure doubles the risk",
+        "The exposure prevents every case",
+        "The study had a calculation error"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Reading a health headline",
+    "text": [
+      "A headline announces that a new drug cuts heart attack risk in half. The underlying trial found that 2% of people on placebo had a heart attack over five years, compared with 1% of people on the drug. The relative risk reduction is indeed 50%, but the absolute risk reduction is only 1 percentage point. Put another way, about 100 people would need to take the drug for five years for one of them to avoid a heart attack. That is the number needed to treat.",
+      "Neither number is false, but they tell different stories. Relative risk tells you the proportional change; absolute risk tells you how much difference it makes to a typical person. Good reporting gives both.",
+      "Next, look at the uncertainty. Suppose the paper reports a risk ratio of 0.50 with a 95% confidence interval from 0.30 to 0.85. The interval excludes 1, so the reduction is statistically significant, and it shows the true effect could plausibly be modest or large.",
+      "Finally, remember what a small p-value means: the data would be surprising if the drug did nothing. It does not tell you the effect is big, that it will replicate, or that it outweighs side effects."
+    ],
+    "q": [
+      {
+        "q": "In the trial, what was the absolute risk reduction?",
+        "o": [
+          "50 percentage points",
+          "1 percentage point",
+          "2 percentage points",
+          "5 percentage points"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why is the reduction called statistically significant?",
+        "o": [
+          "The confidence interval excludes 1",
+          "The relative risk reduction is 50%",
+          "The trial lasted five years"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does a small p-value NOT tell you, according to the reading?",
+        "o": [
+          "That the data would be surprising if the drug did nothing",
+          "Anything about the null hypothesis",
+          "That the effect is big or outweighs side effects"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

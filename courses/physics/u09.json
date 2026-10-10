@@ -1,0 +1,49 @@
+{
+  "title": "Temperature, heat and thermodynamics",
+  "note": "Temperature measures the average kinetic energy of particles; heat is energy that flows because of a temperature difference. The first law, ΔU = Q − W (W is work done by the system), is energy conservation. The second law says entropy of an isolated system never decreases, which limits every heat engine below 100% efficiency.",
+  "src": { "t": "College Physics 2e, Ch. 15 Thermodynamics", "u": "https://openstax.org/books/college-physics-2e/pages/15-introduction-to-thermodynamics" },
+  "items": [
+    { "c": "Kelvin from Celsius", "a": "T(K) = T(°C) + 273.15", "d": ["T(K) = T(°C) − 273.15", "T(K) = 1.8 T(°C) + 32", "T(K) = T(°C) + 32"] },
+    { "c": "Fahrenheit from Celsius", "a": "T(°F) = 1.8 T(°C) + 32", "d": ["T(°F) = T(°C) + 32", "T(°F) = (T(°C) − 32)/1.8", "T(°F) = 1.8 T(°C) − 32"] },
+    { "c": "Absolute zero in degrees Celsius", "a": "−273.15 °C", "d": ["0 °C", "−459.67 °C", "−100 °C"] },
+    { "c": "Zeroth law of thermodynamics", "a": "if A and B are each in equilibrium with C, A and B are too", "d": ["energy of an isolated system is constant", "entropy of an isolated system never decreases"] },
+    { "c": "Linear thermal expansion", "a": "ΔL = αL₀ΔT", "d": ["ΔL = αL₀/ΔT", "ΔL = αΔT", "ΔL = L₀ΔT/α"] },
+    { "c": "Ideal gas law in moles", "a": "PV = nRT", "d": ["PV = nR/T", "P/V = nRT", "PT = nRV"] },
+    { "c": "Ideal gas law in molecules", "a": "PV = NkT", "d": ["PV = NRT", "PV = kT/N", "PV = NkT²"] },
+    { "c": "Boltzmann constant k", "a": "1.38 × 10⁻²³ J/K", "d": ["8.31 J/K", "6.02 × 10²³ J/K", "1.38 × 10²³ J/K"] },
+    { "c": "Universal gas constant R", "a": "8.31 J/(mol·K)", "d": ["1.38 × 10⁻²³ J/(mol·K)", "0.0821 J/(mol·K)", "6.02 J/(mol·K)"] },
+    { "c": "Avogadro's number", "a": "6.02 × 10²³ per mole", "d": ["6.02 × 10⁻²³ per mole", "1.38 × 10²³ per mole", "3.00 × 10⁸ per mole"] },
+    { "c": "Average translational KE of a gas molecule", "a": "(3/2)kT", "d": ["(1/2)kT", "3kT", "(3/2)RT"] },
+    { "c": "Heat", "a": "energy transferred because of a temperature difference", "d": ["the total energy stored in a hot object", "another name for temperature"] },
+    { "c": "Heat needed to change temperature", "a": "Q = mcΔT", "d": ["Q = mc/ΔT", "Q = mL", "Q = cΔT/m"] },
+    { "c": "Specific heat of liquid water", "a": "about 4186 J/(kg·°C)", "d": ["about 900 J/(kg·°C)", "about 128 J/(kg·°C)", "about 418.6 J/(kg·°C)"] },
+    { "c": "Heat for a phase change", "a": "Q = mL", "d": ["Q = mcΔT", "Q = L/m", "Q = mLΔT"] },
+    { "c": "Temperature of ice water while the ice melts", "a": "stays at 0 °C", "d": ["rises steadily", "falls below 0 °C"] },
+    { "c": "Rate of heat conduction through a slab", "a": "Q/t = kAΔT/d", "d": ["Q/t = kdΔT/A", "Q/t = kAd/ΔT", "Q/t = AΔT/(kd)"] },
+    { "c": "Convection", "a": "heat transfer by bulk motion of a fluid", "d": ["heat transfer through direct molecular contact", "heat transfer by electromagnetic waves"] },
+    { "c": "Power radiated by a hot object", "a": "P = σeAT⁴", "d": ["P = σeAT²", "P = σeAT", "P = σeA/T⁴"] },
+    { "c": "First law of thermodynamics", "a": "ΔU = Q − W", "d": ["ΔU = W − Q", "ΔU = Q/W", "ΔU = QW"], "ex": "Q is heat added to the system; W is work done by the system." },
+    { "c": "Isothermal process", "a": "temperature stays constant", "d": ["no heat is transferred", "volume stays constant", "pressure stays constant"] },
+    { "c": "Adiabatic process", "a": "no heat is transferred, Q = 0", "d": ["temperature stays constant", "no work is done, W = 0"] },
+    { "c": "Work done by a gas at constant pressure", "a": "W = PΔV", "d": ["W = VΔP", "W = P/ΔV", "W = nRΔV"] },
+    { "c": "Work done in a constant-volume process", "a": "zero", "d": ["PV", "nRT", "QΔV"] },
+    { "c": "Second law of thermodynamics (Clausius)", "a": "heat flows spontaneously only from hot to cold", "d": ["heat flows spontaneously from cold to hot", "energy can be neither created nor destroyed"] },
+    { "c": "Efficiency of a heat engine", "a": "Eff = W/Q_h", "d": ["Eff = Q_h/W", "Eff = Q_c/Q_h", "Eff = W·Q_h"] },
+    { "c": "Carnot (maximum) efficiency", "a": "1 − T_c/T_h, temperatures in kelvin", "d": ["1 − T_h/T_c, temperatures in kelvin", "T_c/T_h, temperatures in Celsius"] },
+    { "c": "Entropy change for reversible heat Q at T", "a": "ΔS = Q/T", "d": ["ΔS = QT", "ΔS = T/Q", "ΔS = Q − T"] },
+    { "c": "Entropy of an isolated system", "a": "never decreases", "d": ["never increases", "always stays exactly constant"] }
+  ],
+  "read": {
+    "title": "Heat, work, and the arrow of time",
+    "text": [
+      "Temperature and heat are often confused. Temperature tracks how fast particles jiggle: for an ideal gas, the average translational kinetic energy of a molecule is (3/2)kT, with T in kelvin. Heat is energy in transit from a hotter object to a colder one. Adding heat usually raises temperature by Q = mcΔT, but during melting or boiling the energy goes into breaking bonds and the temperature holds steady.",
+      "The first law of thermodynamics is conservation of energy for thermal systems. The change in a system's internal energy equals the heat added minus the work the system does. A gas that expands against a piston does work and cools unless heat flows in to replace the energy.",
+      "The second law is different in kind. Heat flows on its own only from hot to cold, and the entropy of an isolated system never decreases. One consequence is that no heat engine can turn all of its input heat into work; some must be dumped into a colder reservoir. The best possible efficiency, the Carnot limit, is 1 − T_c/T_h. An engine running between 600 K and 300 K can never exceed 50% efficiency, no matter how cleverly it is built."
+    ],
+    "q": [
+      { "q": "Why does temperature stay constant while ice melts?", "o": ["The energy goes into breaking bonds", "No heat is being added", "Ice cannot absorb energy"], "k": 0 },
+      { "q": "What is the maximum efficiency of an engine between 600 K and 300 K?", "o": ["50%", "100%", "25%"], "k": 0 },
+      { "q": "What happens to a gas that expands and does work with no heat added?", "o": ["It cools", "It heats up", "Its temperature cannot change"], "k": 0 }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "medterm",
+  "name": "Medical Terminology",
+  "group": "Medicine",
+  "tag": "MED",
+  "level": "Intro college",
+  "blurb": "Break medical words into prefixes, roots and suffixes, read terms for every body system, use directional terms, and decode clinical and prescription abbreviations, including the ones on The Joint Commission's Do Not Use list.",
+  "sources": [
+    { "t": "Building a Medical Terminology Foundation 2e (Carter, Rutherford and Stevens), eCampusOntario", "u": "https://ecampusontario.pressbooks.pub/medicalterminology2/" },
+    { "t": "Medical Terminology 2e (Open RN), LibreTexts Medicine", "u": "https://med.libretexts.org/Bookshelves/Medicine/Medical_Terminology_2e_%28OpenRN%29" },
+    { "t": "Medical Terminology for Healthcare Professions (Nelson and Greene), LibreTexts Medicine", "u": "https://med.libretexts.org/Bookshelves/Medicine/Medical_Terminology_for_Healthcare_Professions_(Nelson_and_Greene)" },
+    { "t": "Understanding Medical Words, MedlinePlus (NIH/NLM)", "u": "https://medlineplus.gov/medicalwords.html" },
+    { "t": "The Joint Commission, Do Not Use list of abbreviations (Standards FAQ)", "u": "https://jointcommission.org/standards/standard-faqs/hospital-and-hospital-clinics/information-management-im/000001457" }
+  ]
+}

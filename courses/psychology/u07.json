@@ -1,0 +1,54 @@
+{
+  "title": "Forgetting, false memory and smart study",
+  "note": "Forgetting is fast at first and then levels off, and remembering is reconstruction, not replay. The best-supported study methods use this: retrieval practice (testing yourself), spacing sessions over time, and interleaving problem types. They feel harder than rereading, but they produce more durable learning.",
+  "src": { "t": "NOBA, Factors Influencing Learning (Benjamin)", "u": "https://nobaproject.com/modules/factors-influencing-learning" },
+  "items": [
+    { "c": "Ebbinghaus forgetting curve", "a": "Forgetting is rapid at first, then levels off", "d": ["Forgetting is slow at first, then speeds up", "Forgetting happens at a constant rate", "Nothing is forgotten in the first day"] },
+    { "c": "Encoding failure", "a": "Information was never stored to begin with", "d": ["A stored memory fades with time", "New learning blocks old memories", "A memory is altered by suggestion"], "ex": "Most people cannot draw a penny accurately; they never encoded the details." },
+    { "c": "Proactive interference", "a": "Old learning disrupts recall of new learning", "d": ["New learning disrupts recall of old learning", "A memory fades from disuse", "Stress strengthens a memory"], "ex": "Writing last year's date in January." },
+    { "c": "Retroactive interference", "a": "New learning disrupts recall of old learning", "d": ["Old learning disrupts recall of new learning", "A cue matches the original encoding", "A memory is never encoded"] },
+    { "c": "Transience (Schacter)", "a": "Memories fading over time", "d": ["Lapses from divided attention", "Temporary failure to retrieve a known fact", "Unwanted memories that keep returning"] },
+    { "c": "Absentmindedness (Schacter)", "a": "Lapses caused by divided attention", "d": ["Memories fading over time", "Confusing where a memory came from", "Current beliefs reshaping memories"] },
+    { "c": "Tip-of-the-tongue state", "a": "Blocking: a known item is temporarily unreachable", "d": ["Misattribution: confusing a memory's source", "Persistence: a memory that keeps intruding", "Suggestibility: a memory changed by questions"] },
+    { "c": "Misattribution", "a": "Confusing the source of a memory", "d": ["Forgetting where you put your keys", "Being unable to recall a known name", "Remembering an event too vividly"] },
+    { "c": "Persistence (Schacter)", "a": "Unwanted memories that keep coming back", "d": ["Memories that fade over time", "Memories changed by leading questions", "Memories never encoded"] },
+    { "c": "Misinformation effect", "a": "Misleading information after an event distorts memory", "d": ["Old memories block new ones", "Stressful events are remembered vividly", "Information is lost from sensory memory"] },
+    { "c": "Loftus and Palmer's 'smashed' wording", "a": "Raised speed estimates and false memories of glass", "d": ["Had no effect on witness reports", "Made witnesses more accurate", "Lowered speed estimates for the crash"] },
+    { "c": "Bartlett's view of remembering", "a": "Memory is reconstructed, not replayed", "d": ["Memory is an exact recording", "Memory is stored only in the hippocampus", "Memory cannot be changed after encoding"] },
+    { "c": "DRM word-list studies show", "a": "People falsely remember related words never shown", "d": ["People recall every word presented", "People forget the first words of a list", "People remember unrelated words best"], "ex": "After 'door, glass, pane, sill,' many 'remember' window." },
+    { "c": "Flashbulb memory", "a": "A vivid memory of an emotional event, not always accurate", "d": ["A memory that is always perfectly accurate", "A memory formed during REM sleep", "A memory of a list of numbers"] },
+    { "c": "Why are emotional events often remembered well?", "a": "Arousal and the amygdala strengthen consolidation", "d": ["The cerebellum stores emotions", "Emotion stops interference completely", "Emotional memories skip encoding"] },
+    { "c": "Eyewitness confidence", "a": "Can grow without accuracy improving", "d": ["Always shows the memory is accurate", "Is unaffected by police feedback", "Cannot change after the event"] },
+    { "c": "Retrieval practice", "a": "Studying by recalling information from memory", "d": ["Studying by rereading notes", "Studying by highlighting the text", "Studying by copying definitions"] },
+    { "c": "Testing effect", "a": "Taking a test strengthens later memory", "d": ["Tests only measure what you know", "Tests make students forget material", "Tests help only with multiple choice"], "ex": "Self-testing is a potent, underused way to make learning last." },
+    { "c": "Spacing effect", "a": "Study spread over time beats massed study", "d": ["One long session beats several short ones", "Studying at night beats studying by day", "Rereading beats self-testing"] },
+    { "c": "Distributed practice", "a": "Several short study sessions over days", "d": ["One long session the night before", "Studying two subjects at once", "Reading the same page repeatedly"] },
+    { "c": "Cramming", "a": "Massed study right before a test", "d": ["Spacing study across a week", "Testing yourself with flashcards", "Explaining ideas in your own words"] },
+    { "c": "Interleaving", "a": "Mixing different problem types in one session", "d": ["Practicing one problem type at a time", "Studying only the hardest topic", "Reading chapters in order"], "ex": "Mixed math problems beat blocks of one type on later tests." },
+    { "c": "Blocked practice", "a": "Practicing one skill or type repeatedly before the next", "d": ["Mixing several problem types together", "Spacing practice over several days", "Testing yourself before studying"] },
+    { "c": "Desirable difficulty", "a": "Study that feels harder but builds lasting learning", "d": ["Study so hard it causes forgetting", "Easy study that feels fluent", "Any difficulty caused by distraction"] },
+    { "c": "Transfer-appropriate processing", "a": "Memory is best when the test matches how you studied", "d": ["Memory is best in a quiet room", "Memory is best for the first items", "Memory is best after rereading"] },
+    { "c": "Metacognition", "a": "Monitoring and controlling your own learning", "d": ["Memory for facts and concepts", "Learning by watching others", "Automatic encoding of time and place"] },
+    { "c": "Why rereading can mislead students", "a": "Familiarity feels like mastery without recall", "d": ["It erases earlier memories", "It takes too little time", "It overloads sensory memory"] },
+    { "c": "Highlighting as a study method", "a": "Generally inefficient on its own", "d": ["The most effective method known", "Better than self-testing", "Required for long-term memory"] },
+    { "c": "Mnemonic device", "a": "A memory aid such as an acronym or rhyme", "d": ["A brain region that stores memories", "A false memory planted by suggestion", "A test given before studying"] },
+    { "c": "HOMES for the Great Lakes", "a": "An acronym mnemonic", "d": ["An acrostic sentence", "A jingle", "The method of loci"] },
+    { "c": "Method of loci", "a": "Placing items along a familiar route in imagination", "d": ["Grouping digits into chunks", "Rhyming each item with a number", "Writing the first letter of each item"] },
+    { "c": "Regular aerobic exercise and memory", "a": "Linked to better memory and hippocampal health", "d": ["Has no link to memory", "Impairs long-term memory", "Helps only motor memory"] }
+  ],
+  "read": {
+    "title": "Study the way memory works",
+    "text": [
+      "Most students study by rereading and highlighting. These feel productive because the material grows familiar, but familiarity is not the same as being able to produce an answer on your own. Research points to methods that feel harder and work better.",
+      "The first is retrieval practice. Each time you pull an answer out of memory, you make it easier to retrieve the next time. Flashcards, practice questions, and explaining a topic from memory all count. Tests are not just measurements; they change what you remember.",
+      "The second is spacing. Studying the same material in several shorter sessions spread over days beats one long session, even when total time is equal. A little forgetting between sessions makes the next retrieval effortful, and that effort strengthens the memory.",
+      "The third is interleaving: mixing problem types instead of doing a block of one kind. Mixed practice forces you to decide which method fits each problem, the same choice a real test demands.",
+      "Each of these is a desirable difficulty. Progress can feel slower, but what you learn lasts longer. Check yourself often, so your sense of what you know stays honest, and sleep after studying, since sleep helps consolidate new memories."
+    ],
+    "q": [
+      { "q": "Why can rereading give a false sense of mastery?", "o": ["It makes material familiar without practicing recall", "It causes retroactive interference", "It takes too long", "It skips encoding"], "k": 0 },
+      { "q": "According to the reading, why does spacing help?", "o": ["It reduces total study time", "Some forgetting makes the next retrieval effortful and strengthening", "It avoids sleep", "It removes the need for testing"], "k": 1 },
+      { "q": "Interleaving means", "o": ["Studying one problem type at a time", "Mixing problem types within a session", "Studying only before sleep"], "k": 1 }
+    ]
+  }
+}

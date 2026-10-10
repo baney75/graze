@@ -1,0 +1,54 @@
+{
+  "title": "Essential conversation",
+  "note": "Verb + 得 + adjective says how well an action is done: 你说得很好. Verb + 不懂 means you can't understand by that action: 听不懂 \"can't follow (by listening)\", 看不懂 \"can't read it\". When you're lost in a conversation, slow it down: 请说慢一点儿.",
+  "src": { "t": "Chinese Grammar Wiki: structural particle 得", "u": "https://resources.allsetlearning.com/chinese/grammar/ASG5MOMM" },
+  "items": [
+    { "c": "我听不懂。", "r": "Wǒ tīng bù dǒng.", "a": "I don't understand (what I hear).", "d": ["I can't hear you.", "I didn't listen."], "ex": "对不起，我听不懂。", "exT": "Sorry, I don't understand." },
+    { "c": "请再说一遍。", "r": "Qǐng zài shuō yī biàn.", "a": "Please say that again.", "d": ["Please write that down.", "Please speak louder."] },
+    { "c": "请说慢一点儿。", "r": "Qǐng shuō màn yīdiǎnr.", "a": "Please speak a bit more slowly.", "d": ["Please speak a little louder.", "Please talk a bit less."] },
+    { "c": "这个用汉语怎么说？", "r": "Zhège yòng Hànyǔ zěnme shuō?", "a": "How do you say this in Chinese?", "d": ["How do you write this in Chinese?", "What does this Chinese word mean?"] },
+    { "c": "你会说英语吗？", "r": "Nǐ huì shuō Yīngyǔ ma?", "a": "Can you speak English?", "d": ["Are you English?", "Do you like English?"] },
+    { "c": "我在学汉语。", "r": "Wǒ zài xué Hànyǔ.", "a": "I'm learning Chinese.", "d": ["I teach Chinese.", "I'm at a Chinese school."] },
+    { "c": "你的汉语说得很好。", "r": "Nǐ de Hànyǔ shuō de hěn hǎo.", "a": "You speak Chinese very well.", "d": ["Your Chinese teacher is very good.", "You speak too fast."] },
+    { "c": "哪里哪里。", "r": "Nǎli nǎli.", "a": "Oh, not really. (modest reply to praise)", "d": ["Where? Where?", "Thank you, I know."] },
+    { "c": "没问题。", "r": "Méi wèntí.", "a": "No problem.", "d": ["No questions?", "No way."] },
+    { "c": "没事儿。", "r": "Méi shìr.", "a": "It's nothing; I'm fine.", "d": ["I'm busy.", "There's nobody here."] },
+    { "c": "好的。", "r": "Hǎo de.", "a": "Okay.", "d": ["Not good.", "Is it good?"] },
+    { "c": "是吗？", "r": "Shì ma?", "a": "Really? Is that so?", "d": ["Is it you?", "What is it?"] },
+    { "c": "我不知道。", "r": "Wǒ bù zhīdào.", "a": "I don't know.", "d": ["I didn't say.", "I don't agree."] },
+    { "c": "等一下。", "r": "Děng yīxià.", "a": "Wait a moment.", "d": ["Sit down for a moment.", "Come back later."] },
+    { "c": "你说得对。", "r": "Nǐ shuō de duì.", "a": "You're right.", "d": ["You said it wrong.", "Say it to me."] },
+    { "c": "能帮我一下吗？", "r": "Néng bāng wǒ yīxià ma?", "a": "Could you help me out?", "d": ["Can I help you?", "Could you wait for me?"] },
+    { "c": "我迷路了。", "r": "Wǒ mílù le.", "a": "I'm lost.", "d": ["I'm late.", "I'm leaving."] },
+    { "c": "我的手机没电了。", "r": "Wǒ de shǒujī méi diàn le.", "a": "My phone's battery is dead.", "d": ["My phone is lost.", "My phone is new."] },
+    { "c": "小心！", "r": "Xiǎoxīn!", "a": "Be careful!", "d": ["Hurry up!", "Calm down!"] },
+    { "c": "加油！", "r": "Jiāyóu!", "a": "Go for it! You can do it!", "d": ["Slow down!", "Be quiet!"] },
+    { "c": "慢走。", "r": "Màn zǒu.", "a": "Take care. (to a departing guest)", "d": ["Walk faster.", "Please come in."] },
+    { "c": "随便。", "r": "Suíbiàn.", "a": "Whatever you like; I don't mind.", "d": ["Of course not.", "Right away."] },
+    { "c": "干杯！", "r": "Gānbēi!", "a": "Cheers! (a toast)", "d": ["Enjoy your meal!", "Congratulations!"] },
+    { "c": "恭喜！", "r": "Gōngxǐ!", "a": "Congratulations!", "d": ["Cheers!", "Excuse me!"] },
+    { "c": "一路平安！", "r": "Yīlù píng'ān!", "a": "Have a safe trip!", "d": ["Welcome back!", "Good luck on your exam!"] },
+    { "c": "你说___很好。", "r": "Nǐ shuō ___ hěn hǎo.", "a": "得", "d": ["的", "了"], "ex": "你说得很好。", "exT": "You speak very well." },
+    { "c": "我听___懂。(can't)", "r": "Wǒ tīng ___ dǒng.", "a": "不", "d": ["没", "别"] },
+    { "c": "请说___一点儿。(slower)", "r": "Qǐng shuō ___ yīdiǎnr.", "a": "慢", "d": ["快", "多"] },
+    { "c": "___问题！(No problem!)", "r": "___ wèntí!", "a": "没", "d": ["不", "别"] }
+  ],
+  "read": {
+    "title": "在北京问路",
+    "text": [
+      "安娜：请问，地铁站在哪儿？",
+      "老人：地铁站？你一直往前走，然后往右拐，就到了。",
+      "安娜：对不起，我听不懂。请说慢一点儿。",
+      "老人：没问题。一直往前走，往右拐。地铁站在银行对面。",
+      "安娜：谢谢您！离这儿远吗？",
+      "老人：不远，走路五分钟。你的汉语说得很好！",
+      "安娜：哪里哪里，我在学汉语。谢谢您！",
+      "老人：不客气。慢走！"
+    ],
+    "q": [
+      { "q": "What is Anna looking for?", "o": ["The bank", "The subway station", "A restaurant"], "k": 1 },
+      { "q": "Where is it?", "o": ["Across from the bank", "Next to the hospital", "Behind the school"], "k": 0 },
+      { "q": "How far is it?", "o": ["Very far", "Twenty minutes by bus", "A five-minute walk"], "k": 2 }
+    ]
+  }
+}

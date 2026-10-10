@@ -1,0 +1,38 @@
+{
+  "title": "Flags of Asia",
+  "kind": "flag",
+  "note": "Asian flags often carry a sun, moon or star: a red disc for Japan, a red disc on green for Bangladesh, a yellow star on red for Vietnam, the crescent for Pakistan and the Maldives. Indonesia’s red-over-white bands match Monaco’s and invert Poland’s.",
+  "src": {
+    "t": "flag-icons (MIT)",
+    "u": "https://github.com/lipis/flag-icons"
+  },
+  "items": [
+    { "p": "pk", "a": "Pakistan", "d": ["Algeria", "Türkiye", "Maldives"] },
+    { "p": "in", "a": "India", "d": ["Niger", "Ireland", "Côte d'Ivoire"] },
+    { "p": "np", "a": "Nepal", "d": ["Bhutan", "Bangladesh", "India"] },
+    { "p": "bd", "a": "Bangladesh", "d": ["Japan", "Palau", "Bhutan"] },
+    { "p": "mv", "a": "Maldives", "d": ["Sri Lanka", "India", "Myanmar"] },
+    { "p": "kz", "a": "Kazakhstan", "d": ["Uzbekistan", "Turkmenistan", "Kyrgyzstan"] },
+    { "p": "uz", "a": "Uzbekistan", "d": ["Turkmenistan", "Kazakhstan", "Tajikistan"] },
+    { "p": "kg", "a": "Kyrgyzstan", "d": ["Tajikistan", "Uzbekistan", "Afghanistan"] },
+    { "p": "tj", "a": "Tajikistan", "d": ["Hungary", "Iran", "Bulgaria"] },
+    { "p": "ge", "a": "Georgia", "d": ["Armenia", "Azerbaijan", "Turkmenistan"] },
+    { "p": "am", "a": "Armenia", "d": ["Azerbaijan", "Georgia", "Turkmenistan"] },
+    { "p": "az", "a": "Azerbaijan", "d": ["Armenia", "Georgia", "Turkmenistan"] },
+    { "p": "cn", "a": "China", "d": ["Bhutan", "Nepal", "Mongolia"] },
+    { "p": "mn", "a": "Mongolia", "d": ["China", "Kyrgyzstan", "Bhutan"] },
+    { "p": "kp", "a": "North Korea", "d": ["Costa Rica", "Thailand", "Laos"] },
+    { "p": "kr", "a": "South Korea", "d": ["North Korea", "Japan", "China"] },
+    { "p": "jp", "a": "Japan", "d": ["Bangladesh", "Palau", "South Korea"] },
+    { "p": "vn", "a": "Vietnam", "d": ["China", "Somalia", "Laos"] },
+    { "p": "la", "a": "Laos", "d": ["Palau", "Japan", "Bangladesh"] },
+    { "p": "kh", "a": "Cambodia", "d": ["Thailand", "Vietnam", "Laos"] },
+    { "p": "th", "a": "Thailand", "d": ["Costa Rica", "North Korea", "Laos"] },
+    { "p": "mm", "a": "Myanmar", "d": ["Lithuania", "Ghana", "Ethiopia"] },
+    { "p": "my", "a": "Malaysia", "d": ["United States", "Liberia", "Brunei"] },
+    { "p": "sg", "a": "Singapore", "d": ["Indonesia", "Monaco", "Türkiye"] },
+    { "p": "id", "a": "Indonesia", "d": ["Monaco", "Poland", "Singapore"] },
+    { "p": "tl", "a": "Timor-Leste", "d": ["Indonesia", "Brunei", "Malaysia"] },
+    { "p": "ph", "a": "Philippines", "d": ["Czechia", "Cuba", "Bahamas"] }
+  ]
+}

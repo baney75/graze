@@ -1,0 +1,55 @@
+{
+  "title": "Integumentary system: skin, hair and nails",
+  "note": "The skin has a Greek root (derm/o, dermat/o) and a Latin one (cutane/o). Hair is pil/o or trich/o, and nail is onych/o or ungu/o. Color roots appear across the body: erythr/o red, leuk/o white, melan/o black, cyan/o blue, xanth/o yellow.",
+  "src": { "t": "Medical Terminology 2e (Open RN), 3.2 Word Components Related to the Integumentary System", "u": "https://med.libretexts.org/Bookshelves/Medicine/Medical_Terminology_2e_(OpenRN)/03%3A_Integumentary_System_Terminology/3.02%3A_Word_Components_Related_to_the_Integumentary_System" },
+  "items": [
+    { "c": "derm/o, dermat/o", "a": "skin", "d": ["hair", "nail"], "ex": "Dermatology is the study of the skin." },
+    { "c": "sub/cutane/ous", "a": "pertaining to beneath the skin", "d": ["pertaining to upon the skin", "pertaining to within a vein"], "ex": "cutane/o is the Latin root for skin." },
+    { "c": "intra/derm/al", "a": "pertaining to within the skin", "d": ["pertaining to beneath the skin", "pertaining to around a nail"] },
+    { "c": "pil/o, trich/o", "a": "hair", "d": ["nail", "sweat"] },
+    { "c": "onych/o, ungu/o", "a": "nail", "d": ["hair", "eyelid"] },
+    { "c": "hidr/o", "a": "sweat", "d": ["water", "sebum"], "ex": "Do not confuse with hydr/o, which means water." },
+    { "c": "seb/o", "a": "sebum, skin oil", "d": ["sweat", "pus"] },
+    { "c": "kerat/o (in skin terms)", "a": "hard, horny tissue (keratin)", "d": ["fat", "wrinkles"], "ex": "In eye terms kerat/o means cornea." },
+    { "c": "lip/o, adip/o", "a": "fat", "d": ["muscle", "sweat"] },
+    { "c": "rhytid/o", "a": "wrinkle", "d": ["scar", "scale"] },
+    { "c": "xer/o", "a": "dry", "d": ["thick", "hard"] },
+    { "c": "necr/o", "a": "death", "d": ["life", "hardening"], "ex": "Necrosis is the death of tissue." },
+    { "c": "myc/o", "a": "fungus", "d": ["bacterium", "virus"] },
+    { "c": "py/o", "a": "pus", "d": ["fire", "blood"], "ex": "Do not confuse with pyr/o, which means fire or fever." },
+    { "c": "erythr/o", "a": "red", "d": ["white", "yellow"] },
+    { "c": "leuk/o", "a": "white", "d": ["black", "red"] },
+    { "c": "melan/o", "a": "black, dark", "d": ["white", "blue"] },
+    { "c": "cyan/o", "a": "blue", "d": ["red", "yellow"] },
+    { "c": "xanth/o", "a": "yellow", "d": ["blue", "black"] },
+    { "c": "melan/o/cyte", "a": "skin cell that produces dark pigment", "d": ["skin cell that produces keratin", "cell that stores fat"] },
+    { "c": "epi/derm/is", "a": "outermost layer of the skin", "d": ["fatty layer beneath the dermis", "middle layer of the skin"] },
+    { "c": "dermis", "a": "skin layer beneath the epidermis", "d": ["outermost layer of the skin", "membrane lining a body cavity"], "ex": "It holds blood vessels, nerves, glands and hair follicles." },
+    { "c": "Fatty layer beneath the dermis", "a": "subcutaneous layer (hypodermis)", "d": ["epidermis", "stratum corneum"] },
+    { "c": "Integumentary system includes", "a": "skin, hair, nails and skin glands", "d": ["bones, joints and cartilage", "heart, vessels and blood"] },
+    { "c": "dermat/itis", "a": "inflammation of the skin", "d": ["fungal condition of the skin", "hardening of the skin"] },
+    { "c": "onych/o/myc/osis", "a": "fungal condition of the nails", "d": ["fungal condition of the hair", "softening of the nails"] },
+    { "c": "lip/oma", "a": "tumor made of fat", "d": ["tumor of a gland", "tumor of the nail bed"] },
+    { "c": "xer/o/derma", "a": "dry skin", "d": ["red skin", "thick skin"] },
+    { "c": "cyan/osis", "a": "bluish discoloration of skin", "d": ["yellowish discoloration of skin", "reddening of the skin"] },
+    { "c": "hyper/hidr/osis", "a": "excessive sweating", "d": ["absence of sweating", "excessive oil production"] },
+    { "c": "an/hidr/osis", "a": "absence of sweating", "d": ["excessive sweating", "absence of hair"] },
+    { "c": "seb/o/rrhea", "a": "excessive discharge of sebum", "d": ["excessive discharge of sweat", "bleeding from the skin"] },
+    { "c": "rhytid/ectomy", "a": "surgical removal of wrinkles (face-lift)", "d": ["surgical repair of a nail", "incision into the skin"] },
+    { "c": "dermat/o/plasty", "a": "surgical repair of the skin", "d": ["surgical removal of skin", "visual examination of the skin"] },
+    { "c": "bi/opsy", "a": "removal of living tissue for examination", "d": ["surgical removal of a whole organ", "visual examination with a scope"], "ex": "bi/o (life) + -opsy (viewing)" }
+  ],
+  "read": {
+    "title": "Reading the skin",
+    "text": [
+      "The integumentary system is the skin together with the hair, nails, and the sweat and oil glands. Its outer layer, the epidermis, is built mainly of cells filled with keratin, a tough protein, which is why kerat/o means hard or horny tissue in skin terms. Pigment cells in the epidermis, the melanocytes, make the dark pigment melanin. Beneath lies the dermis, which carries blood vessels, nerves, glands and hair follicles, and below that a subcutaneous layer of fat.",
+      "Skin vocabulary rewards learning a few small sets. Each structure has two roots, one Greek and one Latin: derm/o and cutane/o for skin, trich/o and pil/o for hair, onych/o and ungu/o for nail. Glands are named by what they release: hidr/o is sweat and seb/o is sebum, the oil that keeps skin and hair supple.",
+      "Color roots are also worth knowing early because they recur in every system. Erythr/o is red, leuk/o white, melan/o black, cyan/o blue and xanth/o yellow. Combine them with suffixes you already know and many terms decode themselves: cyanosis is an abnormal bluish color, and xeroderma is dry skin."
+    ],
+    "q": [
+      { "q": "Which cells make the pigment melanin?", "o": ["Melanocytes", "Keratin-filled surface cells", "Fat cells", "Sweat gland cells"], "k": 0 },
+      { "q": "Which layer contains blood vessels, nerves and hair follicles?", "o": ["The dermis", "The epidermis", "The outer keratin layer"], "k": 0 },
+      { "q": "Which pair are both roots for hair?", "o": ["trich/o and pil/o", "onych/o and ungu/o", "hidr/o and seb/o", "derm/o and cutane/o"], "k": 0 }
+    ]
+  }
+}

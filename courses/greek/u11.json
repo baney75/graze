@@ -1,0 +1,357 @@
+{
+  "title": "Third declension: πόλις, βασιλεύς, γένος",
+  "note": "Some third-declension stems end in a vowel or in σ, and their endings contract. πόλις (city): πόλεως, πόλει, πόλιν; plural πόλεις, πόλεων, πόλεσι(ν), πόλεις. βασιλεύς (king): βασιλέως, βασιλεῖ, βασιλέα. Neuter nouns in -ος are third declension, not second: γένος, γένους, γένει, γένος; plural γένη.",
+  "src": {
+    "t": "Ancient Greek nouns, third declension (Wikipedia)",
+    "u": "https://en.wikipedia.org/wiki/Ancient_Greek_nouns"
+  },
+  "items": [
+    {
+      "c": "πόλις, -εως, ἡ",
+      "a": "city, city-state",
+      "d": [
+        "village",
+        "land, country"
+      ],
+      "ex": "ἡ πόλις τοῦ θεοῦ",
+      "exT": "the city of God",
+      "r": "polis",
+      "say": "πόλις"
+    },
+    {
+      "c": "δύναμις, -εως, ἡ",
+      "a": "power; miracle",
+      "d": [
+        "authority; right",
+        "glory; opinion"
+      ],
+      "ex": "ἡ δύναμις τοῦ θεοῦ",
+      "exT": "the power of God",
+      "r": "dynamis",
+      "say": "δύναμις"
+    },
+    {
+      "c": "πίστις, -εως, ἡ",
+      "a": "faith, trust",
+      "d": [
+        "hope",
+        "truth"
+      ],
+      "ex": "ἡ πίστις σου σέσωκέν σε.",
+      "exT": "Your faith has saved you.",
+      "r": "pistis",
+      "say": "πίστις"
+    },
+    {
+      "c": "φύσις, -εως, ἡ",
+      "a": "nature",
+      "d": [
+        "custom, law",
+        "power"
+      ],
+      "r": "physis",
+      "say": "φύσις",
+      "ex": "κατὰ φύσιν",
+      "exT": "according to nature"
+    },
+    {
+      "c": "ἀνάστασις, -εως, ἡ",
+      "a": "resurrection",
+      "d": [
+        "judgment",
+        "crucifixion"
+      ],
+      "r": "anastasis",
+      "say": "ἀνάστασις",
+      "ex": "ἡ ἀνάστασις τῶν νεκρῶν",
+      "exT": "the resurrection of the dead"
+    },
+    {
+      "c": "κρίσις, -εως, ἡ",
+      "a": "judgment, decision",
+      "d": [
+        "resurrection",
+        "knowledge"
+      ],
+      "r": "krisis",
+      "say": "κρίσις",
+      "ex": "ἡμέρα κρίσεως",
+      "exT": "a day of judgment"
+    },
+    {
+      "c": "γνῶσις, -εως, ἡ",
+      "a": "knowledge",
+      "d": [
+        "wisdom",
+        "faith"
+      ],
+      "r": "gnōsis",
+      "say": "γνῶσις",
+      "ex": "ἡ γνῶσις τοῦ θεοῦ",
+      "exT": "the knowledge of God"
+    },
+    {
+      "c": "βασιλεύς, -έως, ὁ",
+      "a": "king",
+      "d": [
+        "kingdom",
+        "priest"
+      ],
+      "ex": "ὁ βασιλεὺς τῶν Ἰουδαίων",
+      "exT": "the king of the Jews",
+      "r": "basileus",
+      "say": "βασιλεύς"
+    },
+    {
+      "c": "ἱερεύς, -έως, ὁ",
+      "a": "priest",
+      "d": [
+        "prophet",
+        "scribe"
+      ],
+      "r": "hiereus",
+      "say": "ἱερεύς"
+    },
+    {
+      "c": "ἀρχιερεύς, -έως, ὁ",
+      "a": "high priest, chief priest",
+      "d": [
+        "ruler of a synagogue",
+        "king"
+      ],
+      "r": "archiereus",
+      "say": "ἀρχιερεύς",
+      "ex": "οἱ ἀρχιερεῖς καὶ οἱ γραμματεῖς",
+      "exT": "the chief priests and the scribes"
+    },
+    {
+      "c": "γραμματεύς, -έως, ὁ",
+      "a": "scribe",
+      "d": [
+        "priest",
+        "teacher of children"
+      ],
+      "ex": "οἱ γραμματεῖς καὶ οἱ Φαρισαῖοι",
+      "exT": "the scribes and the Pharisees",
+      "r": "grammateus",
+      "say": "γραμματεύς"
+    },
+    {
+      "c": "γένος, -ους, τό",
+      "a": "race, family; kind",
+      "d": [
+        "part; share",
+        "end; goal"
+      ],
+      "r": "genos",
+      "say": "γένος"
+    },
+    {
+      "c": "ἔθνος, -ους, τό",
+      "a": "nation; (plural) Gentiles",
+      "d": [
+        "city; (plural) towns",
+        "year; (plural) ages"
+      ],
+      "ex": "πάντα τὰ ἔθνη",
+      "exT": "all the nations",
+      "r": "ethnos",
+      "say": "ἔθνος"
+    },
+    {
+      "c": "ἔτος, -ους, τό",
+      "a": "year",
+      "d": [
+        "day",
+        "age"
+      ],
+      "r": "etos",
+      "say": "ἔτος",
+      "ex": "δώδεκα ἔτη",
+      "exT": "twelve years"
+    },
+    {
+      "c": "μέρος, -ους, τό",
+      "a": "part, share",
+      "d": [
+        "end, goal",
+        "kind, family"
+      ],
+      "r": "meros",
+      "say": "μέρος"
+    },
+    {
+      "c": "ὄρος, -ους, τό",
+      "a": "mountain, hill",
+      "d": [
+        "island",
+        "desert"
+      ],
+      "r": "oros",
+      "say": "ὄρος",
+      "ex": "ἐπὶ τὸ ὄρος",
+      "exT": "onto the mountain"
+    },
+    {
+      "c": "τέλος, -ους, τό",
+      "a": "end, goal",
+      "d": [
+        "beginning; rule",
+        "part, share"
+      ],
+      "r": "telos",
+      "say": "τέλος",
+      "ex": "εἰς τέλος",
+      "exT": "to the end"
+    },
+    {
+      "c": "πλῆθος, -ους, τό",
+      "a": "crowd, multitude",
+      "d": [
+        "people",
+        "army"
+      ],
+      "r": "plēthos",
+      "say": "πλῆθος"
+    },
+    {
+      "c": "σκότος, -ους, τό",
+      "a": "darkness",
+      "d": [
+        "light",
+        "night"
+      ],
+      "r": "skotos",
+      "say": "σκότος",
+      "ex": "τὸ σκότος καὶ τὸ φῶς",
+      "exT": "the darkness and the light"
+    },
+    {
+      "c": "πάθος, -ους, τό",
+      "a": "suffering; experience, passion",
+      "d": [
+        "character; custom",
+        "death; murder"
+      ],
+      "r": "pathos",
+      "say": "πάθος"
+    },
+    {
+      "c": "ἦθος, -ους, τό",
+      "a": "character; custom",
+      "d": [
+        "suffering; experience",
+        "nature; growth"
+      ],
+      "r": "ēthos",
+      "say": "ἦθος"
+    },
+    {
+      "c": "ἰχθύς, -ύος, ὁ",
+      "a": "fish",
+      "d": [
+        "bread",
+        "bird"
+      ],
+      "r": "ichthys",
+      "say": "ἰχθύς",
+      "ex": "πέντε ἄρτους καὶ δύο ἰχθύας",
+      "exT": "five loaves and two fish"
+    },
+    {
+      "c": "Σωκράτης, -ους, ὁ",
+      "a": "Socrates",
+      "d": [
+        "Plato",
+        "Aristotle"
+      ],
+      "r": "Sōkratēs",
+      "say": "Σωκράτης"
+    },
+    {
+      "c": "genitive singular of πόλις",
+      "a": "πόλεως",
+      "d": [
+        "πόλιδος",
+        "πόλει"
+      ]
+    },
+    {
+      "c": "dative singular of πίστις",
+      "a": "πίστει",
+      "d": [
+        "πίστεως",
+        "πίστιν"
+      ]
+    },
+    {
+      "c": "accusative singular of βασιλεύς",
+      "a": "βασιλέα",
+      "d": [
+        "βασιλεῦ",
+        "βασιλέως"
+      ]
+    },
+    {
+      "c": "nominative plural of ἔθνος",
+      "a": "ἔθνη",
+      "d": [
+        "ἔθνοι",
+        "ἔθνα"
+      ]
+    },
+    {
+      "c": "genitive singular of ὄρος",
+      "a": "ὄρους",
+      "d": [
+        "ὄρου",
+        "ὄροι"
+      ]
+    },
+    {
+      "c": "τὰ ___ (the mountains; ὄρος)",
+      "a": "ὄρη",
+      "d": [
+        "ὄροι",
+        "ὄρας"
+      ]
+    }
+  ],
+  "read": {
+    "title": "The king and the priest",
+    "text": [
+      "Ὁ βασιλεὺς ἐν τῇ πόλει μένει καὶ κρίνει τὸν λαόν. οἱ πολῖται ἀκούουσι τὰ ῥήματα τοῦ βασιλέως, ἀλλὰ οὐ πιστεύουσιν.",
+      "Ἐν δὲ τῷ ὄρει ἐστὶν ἱερόν. ἐκεῖ ὁ ἱερεὺς διδάσκει τοὺς νεανίας· Ὁ ἄνθρωπος ψυχὴν καὶ σῶμα ἔχει. τὸ σῶμα ἀποθνῄσκει, ἡ δὲ ψυχὴ μένει.",
+      "Οἱ νεανίαι ἀκούουσι καὶ γράφουσι τοὺς λόγους ἐν βιβλίῳ. ὁ δὲ βασιλεὺς λέγει· Ἐγὼ βασιλεύς εἰμι καὶ κρίνω τὴν πόλιν. ὁ δὲ ἱερεὺς λέγει· Ὁ θεὸς κρίνει καὶ τοὺς βασιλεῖς."
+    ],
+    "q": [
+      {
+        "q": "What does the king do in the city?",
+        "o": [
+          "He teaches the young men.",
+          "He judges the people.",
+          "He writes books."
+        ],
+        "k": 1
+      },
+      {
+        "q": "According to the priest, what remains when the body dies?",
+        "o": [
+          "the soul",
+          "the name",
+          "the city"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Whom does the priest say God judges?",
+        "o": [
+          "only the citizens",
+          "only the young men",
+          "even the kings"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

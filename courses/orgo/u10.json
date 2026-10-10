@@ -1,0 +1,300 @@
+{
+  "title": "Alkyl halides: SN1, SN2, E1, E2",
+  "note": "Methyl and primary halides favor SN2; tertiary halides give SN1/E1 with weak nucleophiles and E2 with strong bases. Strong, bulky bases push E2. Polar aprotic solvents speed SN2; polar protic solvents stabilize the carbocation for SN1. Good leaving groups are weak bases: I⁻ > Br⁻ > Cl⁻ ≫ F⁻.",
+  "src": {
+    "t": "LibreTexts, Organic Chemistry (Morsch et al.), Ch. 11 Reactions of Alkyl Halides",
+    "u": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/11%3A_Reactions_of_Alkyl_Halides-_Nucleophilic_Substitutions_and_Eliminations"
+  },
+  "items": [
+    {
+      "c": "SN2",
+      "a": "one step, backside attack, inversion",
+      "d": [
+        "carbocation intermediate, racemization",
+        "two steps, frontside attack, retention"
+      ]
+    },
+    {
+      "c": "SN1",
+      "a": "carbocation intermediate, racemization",
+      "d": [
+        "one step, backside attack, inversion",
+        "carbanion intermediate, retention"
+      ]
+    },
+    {
+      "c": "E2",
+      "a": "one-step anti-periplanar elimination",
+      "d": [
+        "two-step elimination via a carbocation",
+        "one-step syn addition"
+      ]
+    },
+    {
+      "c": "E1",
+      "a": "carbocation forms, then H⁺ is lost",
+      "d": [
+        "H⁺ and leaving group leave in one step",
+        "carbanion forms, then the leaving group leaves"
+      ]
+    },
+    {
+      "c": "SN2 rate law",
+      "a": "rate = k[substrate][nucleophile]",
+      "d": [
+        "rate = k[substrate]",
+        "rate = k[nucleophile]"
+      ]
+    },
+    {
+      "c": "SN1 rate law",
+      "a": "rate = k[substrate]",
+      "d": [
+        "rate = k[substrate][nucleophile]",
+        "rate = k[nucleophile]²"
+      ]
+    },
+    {
+      "c": "SN2 reactivity by substrate",
+      "a": "methyl > 1° > 2° (3° does not react)",
+      "d": [
+        "3° > 2° > 1° > methyl",
+        "2° > 1° > methyl > 3°"
+      ]
+    },
+    {
+      "c": "SN1 reactivity by substrate",
+      "a": "3° > 2°; 1° and methyl barely react",
+      "d": [
+        "methyl > 1° > 2° > 3°",
+        "1° > 2° > 3°"
+      ]
+    },
+    {
+      "c": "Best leaving group: I⁻, Br⁻, Cl⁻ or F⁻?",
+      "a": "I⁻",
+      "d": [
+        "F⁻",
+        "Cl⁻"
+      ]
+    },
+    {
+      "c": "Good leaving groups are",
+      "a": "weak bases (conjugate bases of strong acids)",
+      "d": [
+        "strong bases",
+        "strong nucleophiles"
+      ]
+    },
+    {
+      "c": "Solvent that speeds SN2",
+      "a": "polar aprotic (DMSO, DMF, acetone)",
+      "d": [
+        "polar protic (water, methanol)",
+        "nonpolar (hexane)"
+      ]
+    },
+    {
+      "c": "Solvent that favors SN1",
+      "a": "polar protic (water, alcohols)",
+      "d": [
+        "polar aprotic (DMSO, DMF)",
+        "nonpolar (hexane)"
+      ]
+    },
+    {
+      "c": "Strong nucleophile but weak base",
+      "a": "iodide (I⁻)",
+      "d": [
+        "tert-butoxide (t-BuO⁻)",
+        "hydride (H⁻, from NaH)"
+      ]
+    },
+    {
+      "c": "Strong, bulky base, poor nucleophile",
+      "a": "potassium tert-butoxide (KOtBu)",
+      "d": [
+        "sodium iodide (NaI)",
+        "sodium cyanide (NaCN)"
+      ]
+    },
+    {
+      "c": "(R)-2-bromobutane + NaOH (SN2)",
+      "a": "(S)-2-butanol",
+      "d": [
+        "(R)-2-butanol",
+        "racemic 2-butanol"
+      ]
+    },
+    {
+      "c": "1-bromobutane + NaCN in DMSO",
+      "a": "pentanenitrile by SN2",
+      "d": [
+        "1-butene by E2",
+        "butanenitrile by SN1"
+      ]
+    },
+    {
+      "c": "1-chloropropane + NaI in acetone",
+      "a": "1-iodopropane by SN2",
+      "d": [
+        "propene by E2",
+        "2-iodopropane by SN1"
+      ],
+      "ex": "NaCl is insoluble in acetone, which drives the reaction."
+    },
+    {
+      "c": "(CH₃)₃CBr warmed in water",
+      "a": "tert-butyl alcohol by SN1 (some E1)",
+      "d": [
+        "isobutyl alcohol by SN2",
+        "no reaction"
+      ]
+    },
+    {
+      "c": "(CH₃)₃CBr + NaOCH₃",
+      "a": "2-methylpropene by E2",
+      "d": [
+        "tert-butyl methyl ether by SN2",
+        "isobutane by reduction"
+      ]
+    },
+    {
+      "c": "Zaitsev’s rule",
+      "a": "the more substituted alkene is favored",
+      "d": [
+        "the less substituted alkene is favored",
+        "the cis alkene is always favored"
+      ]
+    },
+    {
+      "c": "Hofmann product",
+      "a": "less substituted alkene (bulky base)",
+      "d": [
+        "more substituted alkene (small base)",
+        "substitution product"
+      ]
+    },
+    {
+      "c": "2-bromo-2-methylbutane + NaOEt, heat",
+      "a": "mainly 2-methyl-2-butene (Zaitsev)",
+      "d": [
+        "mainly 2-methyl-1-butene",
+        "mainly an ether by SN2"
+      ]
+    },
+    {
+      "c": "2-bromo-2-methylbutane + KOtBu, heat",
+      "a": "mainly 2-methyl-1-butene (Hofmann)",
+      "d": [
+        "mainly 2-methyl-2-butene",
+        "mainly a tert-butyl ether"
+      ]
+    },
+    {
+      "c": "E2 on a cyclohexane needs H and leaving group",
+      "a": "trans-diaxial",
+      "d": [
+        "both equatorial",
+        "cis, one axial and one equatorial"
+      ]
+    },
+    {
+      "c": "Deuterium isotope effect in E2 shows",
+      "a": "C–H breaks in the rate-determining step",
+      "d": [
+        "a carbocation forms first",
+        "the leaving group leaves last"
+      ]
+    },
+    {
+      "c": "E1cB mechanism",
+      "a": "carbanion forms first, then the leaving group leaves",
+      "d": [
+        "carbocation forms first, then H⁺ leaves",
+        "all bonds change in one step"
+      ]
+    },
+    {
+      "c": "Neopentyl bromide in SN2",
+      "a": "very slow; the β carbon blocks backside attack",
+      "d": [
+        "very fast; it is a primary halide",
+        "fast by SN1 instead"
+      ]
+    },
+    {
+      "c": "Vinyl and aryl halides in SN1 or SN2",
+      "a": "essentially unreactive",
+      "d": [
+        "very fast by SN2",
+        "very fast by SN1"
+      ]
+    },
+    {
+      "c": "Allylic and benzylic halides",
+      "a": "react readily by both SN1 and SN2",
+      "d": [
+        "react by neither SN1 nor SN2",
+        "react only by E1cB"
+      ]
+    },
+    {
+      "c": "Alkyl halide + Mg in dry ether",
+      "a": "Grignard reagent, R–MgX",
+      "d": [
+        "Gilman reagent, R₂CuLi",
+        "alkene by E2"
+      ]
+    },
+    {
+      "c": "Gilman reagent R₂CuLi + R′–X",
+      "a": "coupled alkane R–R′",
+      "d": [
+        "alkene by E2",
+        "alcohol R–OH"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Choosing among four paths",
+    "text": [
+      "An alkyl halide meeting a nucleophile or base can react in four main ways. In SN2, the nucleophile attacks from the side opposite the leaving group in one step, so the carbon's configuration inverts. Crowding blocks that backside approach, so SN2 is fastest at methyl and primary carbons and fails at tertiary ones. Polar aprotic solvents such as DMSO help, because they leave anionic nucleophiles unsolvated and reactive.",
+      "In SN1, the leaving group departs first to form a carbocation, and the nucleophile adds afterward to either face, which scrambles stereochemistry. The rate depends only on the substrate, and tertiary halides react fastest because they form the most stable cations. Polar protic solvents stabilize the ions. E1 shares the same carbocation and simply loses a proton instead.",
+      "E2 is a one-step elimination in which a base removes a hydrogen anti-periplanar to the leaving group as the π bond forms. Strong bases favor it, especially with secondary and tertiary halides. Small bases such as ethoxide give mainly the more substituted Zaitsev alkene; bulky bases such as tert-butoxide pull off the more accessible hydrogen and give the less substituted Hofmann alkene.",
+      "A practical summary: identify the substrate class, then ask whether the reagent is a strong base, a good nucleophile, or neither."
+    ],
+    "q": [
+      {
+        "q": "Why does SN2 fail at tertiary carbons?",
+        "o": [
+          "Tertiary cations are unstable",
+          "The leaving group is too good",
+          "The solvent is protic",
+          "Crowding blocks backside attack"
+        ],
+        "k": 3
+      },
+      {
+        "q": "Which mechanisms share a carbocation intermediate?",
+        "o": [
+          "SN1 and E1",
+          "SN2 and E2",
+          "SN2 and E1",
+          "E2 and E1cB"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why does tert-butoxide give the Hofmann alkene?",
+        "o": [
+          "It is a weak base",
+          "Its bulk favors the more accessible hydrogen",
+          "It forms a carbocation",
+          "It adds syn"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

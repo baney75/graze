@@ -1,0 +1,316 @@
+{
+  "title": "Imperfect and future tenses",
+  "note": "The imperfect shows ongoing or repeated past action with -ba-: amabam, I was loving or used to love; monebam, regebam, audiebam. The future of the first and second conjugations uses -bo, -bis, -bit: amabo, I will love. The third and fourth use -am, -es, -et: regam, reges, reget; audiam, audies, audiet. Sum has eram (I was) and ero (I will be).",
+  "src": {
+    "t": "Allen and Greenough, Tenses",
+    "u": "https://dcc.dickinson.edu/grammar/latin/tenses"
+  },
+  "items": [
+    {
+      "c": "amabam",
+      "a": "I was loving, I used to love",
+      "d": [
+        "I will love",
+        "I have loved"
+      ]
+    },
+    {
+      "c": "amabo",
+      "a": "I will love",
+      "d": [
+        "I was loving",
+        "I love"
+      ]
+    },
+    {
+      "c": "eram",
+      "a": "I was",
+      "d": [
+        "I will be",
+        "I am"
+      ],
+      "ex": "Puer eram.",
+      "exT": "I was a boy."
+    },
+    {
+      "c": "erat",
+      "a": "he/she/it was",
+      "d": [
+        "he/she/it will be",
+        "he/she/it is"
+      ]
+    },
+    {
+      "c": "erant",
+      "a": "they were",
+      "d": [
+        "they will be",
+        "they are"
+      ]
+    },
+    {
+      "c": "ero",
+      "a": "I will be",
+      "d": [
+        "I was",
+        "I am"
+      ]
+    },
+    {
+      "c": "erit",
+      "a": "he/she/it will be",
+      "d": [
+        "he/she/it was",
+        "he/she/it goes"
+      ]
+    },
+    {
+      "c": "erunt",
+      "a": "they will be",
+      "d": [
+        "they were",
+        "they are"
+      ]
+    },
+    {
+      "c": "videbat",
+      "a": "he/she was seeing",
+      "d": [
+        "he/she will see",
+        "he/she sees"
+      ]
+    },
+    {
+      "c": "videbit",
+      "a": "he/she will see",
+      "d": [
+        "he/she was seeing",
+        "he/she saw"
+      ]
+    },
+    {
+      "c": "regebant",
+      "a": "they were ruling",
+      "d": [
+        "they will rule",
+        "they rule"
+      ]
+    },
+    {
+      "c": "reget",
+      "a": "he/she will rule",
+      "d": [
+        "he/she rules",
+        "he/she was ruling"
+      ]
+    },
+    {
+      "c": "regam",
+      "a": "I will rule",
+      "d": [
+        "I rule",
+        "I was ruling"
+      ]
+    },
+    {
+      "c": "audiet",
+      "a": "he/she will hear",
+      "d": [
+        "he/she hears",
+        "he/she was hearing"
+      ]
+    },
+    {
+      "c": "audiebamus",
+      "a": "we were hearing",
+      "d": [
+        "we will hear",
+        "we hear"
+      ]
+    },
+    {
+      "c": "Olim Romani in Italia ___. (habitare, imperfect)",
+      "a": "habitabant",
+      "d": [
+        "habitabunt",
+        "habitant"
+      ],
+      "ex": "Olim Romani in Italia habitabant.",
+      "exT": "Long ago the Romans lived in Italy."
+    },
+    {
+      "c": "Cras ___. (laborare, I, future)",
+      "a": "laborabo",
+      "d": [
+        "laborabam",
+        "laboro"
+      ],
+      "ex": "Cras laborabo.",
+      "exT": "Tomorrow I will work."
+    },
+    {
+      "c": "Heri Marcus in villa ___. (esse)",
+      "a": "erat",
+      "d": [
+        "erit",
+        "est"
+      ],
+      "ex": "Heri Marcus in villa erat.",
+      "exT": "Yesterday Marcus was at the farmhouse."
+    },
+    {
+      "c": "Cras amici ___. (venire)",
+      "a": "venient",
+      "d": [
+        "venibunt",
+        "veniunt"
+      ],
+      "ex": "Cras amici venient.",
+      "exT": "Tomorrow the friends will come."
+    },
+    {
+      "c": "Cras puer librum ___. (legere)",
+      "a": "leget",
+      "d": [
+        "legit",
+        "legebit"
+      ],
+      "ex": "Cras puer librum leget.",
+      "exT": "Tomorrow the boy will read the book."
+    },
+    {
+      "c": "Cras ubi ___? (esse, you singular)",
+      "a": "eris",
+      "d": [
+        "eras",
+        "es"
+      ],
+      "ex": "Cras ubi eris?",
+      "exT": "Where will you be tomorrow?"
+    },
+    {
+      "c": "semper",
+      "a": "always",
+      "d": [
+        "never",
+        "sometimes"
+      ],
+      "ex": "Semper fidelis.",
+      "exT": "Always faithful."
+    },
+    {
+      "c": "numquam",
+      "a": "never",
+      "d": [
+        "always",
+        "now"
+      ],
+      "ex": "Numquam timeo.",
+      "exT": "I am never afraid."
+    },
+    {
+      "c": "heri",
+      "a": "yesterday",
+      "d": [
+        "tomorrow",
+        "today"
+      ],
+      "ex": "Heri in foro eram.",
+      "exT": "Yesterday I was in the forum."
+    },
+    {
+      "c": "hodie",
+      "a": "today",
+      "d": [
+        "yesterday",
+        "tomorrow"
+      ],
+      "ex": "Hodie laboro.",
+      "exT": "Today I am working."
+    },
+    {
+      "c": "cras",
+      "a": "tomorrow",
+      "d": [
+        "yesterday",
+        "soon"
+      ]
+    },
+    {
+      "c": "nunc",
+      "a": "now",
+      "d": [
+        "then",
+        "never"
+      ]
+    },
+    {
+      "c": "tum",
+      "a": "then, at that time",
+      "d": [
+        "now",
+        "soon"
+      ]
+    },
+    {
+      "c": "iam",
+      "a": "already; now",
+      "d": [
+        "not yet",
+        "never"
+      ],
+      "ex": "Iam nox est.",
+      "exT": "It is already night."
+    },
+    {
+      "c": "mox",
+      "a": "soon",
+      "d": [
+        "late",
+        "already"
+      ]
+    },
+    {
+      "c": "saepe",
+      "a": "often",
+      "d": [
+        "rarely",
+        "always"
+      ],
+      "ex": "Saepe in silva ambulamus.",
+      "exT": "We often walk in the forest."
+    },
+    {
+      "c": "olim",
+      "a": "once, long ago",
+      "d": [
+        "soon",
+        "never"
+      ]
+    },
+    {
+      "c": "diu",
+      "a": "for a long time",
+      "d": [
+        "for a short time",
+        "daily"
+      ]
+    },
+    {
+      "c": "postea",
+      "a": "afterward",
+      "d": [
+        "before",
+        "meanwhile"
+      ]
+    },
+    {
+      "c": "deinde",
+      "a": "next, after that",
+      "d": [
+        "before that",
+        "at the same time"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "The chemistry of life",
+  "note": "Atoms bond according to their outer (valence) electrons. Water is polar, so its molecules hydrogen-bond to one another, which explains cohesion, high specific heat, and floating ice. Carbon forms four covalent bonds, so it can build the long, branched skeletons of organic molecules.",
+  "src": { "t": "OpenStax Biology 2e, Ch. 2: The Chemical Foundation of Life", "u": "https://openstax.org/books/biology-2e/pages/2-introduction" },
+  "items": [
+    { "c": "Atomic number", "a": "Number of protons in an atom", "d": ["Number of neutrons in an atom", "Protons plus neutrons in an atom"] },
+    { "c": "Mass number", "a": "Protons plus neutrons in the nucleus", "d": ["Protons plus electrons in the atom", "Number of electrons in the outer shell"] },
+    { "c": "Isotopes", "a": "Same element, different numbers of neutrons", "d": ["Same element, different numbers of protons", "Different elements, same number of neutrons"], "ex": "Carbon-12 and carbon-14 both have 6 protons." },
+    { "c": "Radioisotope", "a": "Isotope whose unstable nucleus decays, giving off radiation", "d": ["Isotope with a full valence shell", "Isotope that has lost its electrons"] },
+    { "c": "Carbon-14 dating works because C-14…", "a": "decays at a steady, known rate", "d": ["is only absorbed after death", "slowly gains protons over time"] },
+    { "c": "Ion", "a": "Atom or molecule with a net electric charge", "d": ["Atom with extra neutrons in its nucleus", "Atom with a full valence shell"] },
+    { "c": "Cation", "a": "Positively charged ion", "d": ["Negatively charged ion", "Neutral atom with extra neutrons"], "ex": "Na+ forms when sodium loses one electron." },
+    { "c": "Anion", "a": "Negatively charged ion", "d": ["Positively charged ion", "Atom with an unstable nucleus"], "ex": "Cl− forms when chlorine gains one electron." },
+    { "c": "Valence electrons", "a": "Electrons in the outermost shell", "d": ["Electrons in the innermost shell", "Electrons held inside the nucleus"] },
+    { "c": "Ionic bond", "a": "Attraction between oppositely charged ions", "d": ["Equal sharing of an electron pair", "Attraction between two polar molecules"] },
+    { "c": "Covalent bond", "a": "Two atoms share pairs of electrons", "d": ["One atom gives electrons to another", "Partial charges attract between molecules"] },
+    { "c": "Nonpolar covalent bond", "a": "Electrons shared equally", "d": ["Electrons shared unequally", "Electrons transferred completely"], "ex": "The C–H bond and the O=O bond in O2 are nonpolar." },
+    { "c": "Polar covalent bond", "a": "Electrons shared unequally", "d": ["Electrons shared equally", "Electrons held only by the nucleus"], "ex": "The O–H bonds in water are polar." },
+    { "c": "Electronegativity", "a": "An atom's pull on shared electrons", "d": ["An atom's number of neutrons", "An atom's rate of radioactive decay"] },
+    { "c": "Hydrogen bond", "a": "Weak attraction of a partly positive H to a nearby O or N", "d": ["Electron pair shared between two hydrogen atoms", "Full transfer of an electron to hydrogen"] },
+    { "c": "Van der Waals interactions", "a": "Weak attractions from fleeting uneven electron distribution", "d": ["Strong bonds from shared electron pairs", "Attractions between fully charged ions"] },
+    { "c": "Why is water a polar molecule?", "a": "Oxygen pulls the shared electrons more than hydrogen", "d": ["Hydrogen pulls the shared electrons more than oxygen", "Its atoms carry full ionic charges"] },
+    { "c": "Why does ice float on liquid water?", "a": "Hydrogen bonds lock ice into a less dense lattice", "d": ["Ice traps air bubbles as it freezes", "Ice molecules contain fewer hydrogen atoms"] },
+    { "c": "High specific heat of water", "a": "Water resists changes in temperature", "d": ["Water boils at an unusually low temperature", "Water warms quickly in sunlight"] },
+    { "c": "Sweat cools the body due to water's high…", "a": "heat of vaporization", "d": ["density as a solid", "cohesion at the surface"] },
+    { "c": "Cohesion", "a": "Attraction of water molecules to each other", "d": ["Attraction of water to other substances", "Repulsion of water by nonpolar substances"], "ex": "Cohesion produces surface tension." },
+    { "c": "Adhesion", "a": "Attraction of water to other substances", "d": ["Attraction of water molecules to each other", "Breaking of hydrogen bonds by heat"], "ex": "Adhesion helps water climb thin tubes against gravity." },
+    { "c": "Hydrophilic", "a": "Attracted to or dissolves in water", "d": ["Repels or does not mix with water", "Breaks down in the presence of water"] },
+    { "c": "Hydrophobic", "a": "Does not mix with water", "d": ["Dissolves readily in water", "Forms hydrogen bonds with water"], "ex": "Oils are hydrophobic because they are nonpolar." },
+    { "c": "A solution with pH below 7 is…", "a": "acidic", "d": ["basic", "neutral"] },
+    { "c": "H+ concentration at pH 3 vs pH 5", "a": "100 times higher at pH 3", "d": ["2 times higher at pH 3", "100 times higher at pH 5"], "ex": "Each pH unit is a tenfold change in H+ concentration." },
+    { "c": "Acid", "a": "Substance that releases H+ into solution", "d": ["Substance that removes H+ from solution", "Substance that resists any pH change"] },
+    { "c": "Buffer", "a": "Solution that resists changes in pH", "d": ["Solution that is always exactly pH 7", "Solution that releases only OH−"] },
+    { "c": "Main pH buffer in human blood", "a": "Carbonic acid and bicarbonate", "d": ["Hydrochloric acid and chloride", "Sodium and potassium ions"] },
+    { "c": "Covalent bonds a carbon atom forms", "a": "Four", "d": ["Two", "Six"] },
+    { "c": "Hydrocarbon", "a": "Molecule made only of carbon and hydrogen", "d": ["Molecule of carbon, hydrogen, and oxygen", "Molecule of carbon and nitrogen only"] },
+    { "c": "Isomers", "a": "Same molecular formula, different arrangement", "d": ["Same arrangement, different molecular formula", "Same element, different neutron number"] },
+    { "c": "Enantiomers", "a": "Isomers that are mirror images", "d": ["Isomers that differ around a double bond", "Isomers with different formulas"] },
+    { "c": "Functional group –OH", "a": "Hydroxyl", "d": ["Carboxyl", "Amino"] },
+    { "c": "Functional group –COOH", "a": "Carboxyl", "d": ["Hydroxyl", "Carbonyl"], "ex": "Carboxyl groups act as acids, releasing H+." },
+    { "c": "Functional group –NH2", "a": "Amino", "d": ["Sulfhydryl", "Methyl"], "ex": "Amino groups act as bases, picking up H+." }
+  ],
+  "read": {
+    "title": "Water, the molecule that makes life possible",
+    "text": [
+      "A water molecule is small, but its shape and charge make it unusual. Oxygen is more electronegative than hydrogen, so it pulls the shared electrons toward itself. The oxygen end carries a partial negative charge and the hydrogen ends carry partial positive charges. Water is therefore polar.",
+      "Because of this polarity, the hydrogen of one water molecule is attracted to the oxygen of a neighbor. Each attraction, a hydrogen bond, is weak and short-lived, but liquid water contains enormous numbers of them. Together they explain water's key properties. Cohesion lets water form surface tension and pull up through plant tissues. A high specific heat means a lake or a body warms and cools slowly. A high heat of vaporization means evaporating sweat carries away a lot of heat.",
+      "Hydrogen bonds also explain why ice floats. As water freezes, the bonds lock each molecule into an open lattice that is less dense than the liquid. A layer of ice insulates the water beneath it, so ponds rarely freeze solid.",
+      "Finally, polarity makes water an excellent solvent. Ions and other polar molecules dissolve readily, while nonpolar substances such as oils stay separate."
+    ],
+    "q": [
+      { "q": "What makes a water molecule polar?", "o": ["Oxygen pulls shared electrons more strongly than hydrogen", "Water contains ionic bonds", "Hydrogen is more electronegative than oxygen"], "k": 0 },
+      { "q": "Why does ice float, according to the reading?", "o": ["It contains trapped air", "Hydrogen bonds hold it in a less dense lattice", "Freezing removes hydrogen atoms"], "k": 1 },
+      { "q": "Which property explains why evaporating sweat cools the body?", "o": ["Cohesion", "High heat of vaporization", "Low density of ice"], "k": 1 }
+    ]
+  }
+}

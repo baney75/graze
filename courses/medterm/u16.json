@@ -1,0 +1,56 @@
+{
+  "title": "Clinical and prescription abbreviations",
+  "note": "Many dosing abbreviations come from Latin: bid (bis in die, twice a day), prn (pro re nata, as needed), po (per os, by mouth). The Joint Commission's Do Not Use list bans U, IU, QD, QOD, trailing zeros, missing leading zeros, and MS, MSO4 and MgSO4 in medication documentation; write the full term instead.",
+  "src": { "t": "The Joint Commission, Do Not Use list of abbreviations (Standards FAQ)", "u": "https://jointcommission.org/standards/standard-faqs/hospital-and-hospital-clinics/information-management-im/000001457" },
+  "items": [
+    { "c": "PO", "a": "by mouth", "d": ["into a muscle", "under the tongue"], "ex": "Latin per os." },
+    { "c": "NPO", "a": "nothing by mouth", "d": ["by mouth as needed", "no pain observed"] },
+    { "c": "bid", "a": "twice a day", "d": ["three times a day", "every other day"] },
+    { "c": "tid", "a": "three times a day", "d": ["twice a day", "every three hours"] },
+    { "c": "qid", "a": "four times a day", "d": ["every four hours", "once a day"], "ex": "qid is not on the Do Not Use list; QD and QOD are." },
+    { "c": "q4h", "a": "every 4 hours", "d": ["four times a day", "for 4 hours only"] },
+    { "c": "prn", "a": "as needed", "d": ["immediately", "before meals"] },
+    { "c": "stat", "a": "immediately", "d": ["as needed", "at bedtime"] },
+    { "c": "ac (in a prescription)", "a": "before meals", "d": ["after meals", "with meals"], "ex": "Latin ante cibum." },
+    { "c": "pc (in a prescription)", "a": "after meals", "d": ["before meals", "at bedtime"], "ex": "Latin post cibum." },
+    { "c": "IV", "a": "intravenous, into a vein", "d": ["intramuscular, into a muscle", "intradermal, into the skin"] },
+    { "c": "IM", "a": "intramuscular, into a muscle", "d": ["intravenous, into a vein", "subcutaneous, under the skin"] },
+    { "c": "subcut", "a": "subcutaneous, under the skin", "d": ["sublingual, under the tongue", "intramuscular, into a muscle"] },
+    { "c": "SL", "a": "sublingual, under the tongue", "d": ["subcutaneous, under the skin", "by mouth, swallowed"] },
+    { "c": "gtt", "a": "drops", "d": ["grams", "tablets"] },
+    { "c": "mcg", "a": "microgram", "d": ["milligram", "milliliter"], "ex": "1 mg = 1,000 mcg." },
+    { "c": "Rx", "a": "prescription", "d": ["diagnosis", "history"] },
+    { "c": "Dx", "a": "diagnosis", "d": ["prescription", "treatment"] },
+    { "c": "Hx", "a": "history", "d": ["hospital", "prescription"] },
+    { "c": "U for 'unit' (Do Not Use list)", "a": "misread as 0, 4 or cc; write 'unit'", "d": ["misread as IV; write 'intravenous'", "misread as mg; write 'mcg'"] },
+    { "c": "IU (Do Not Use list)", "a": "misread as IV or 10; write 'International Unit'", "d": ["misread as 0 or 4; write 'unit'", "confused with QD; write 'daily'"] },
+    { "c": "QD (Do Not Use list): write instead", "a": "daily", "d": ["every other day", "four times a day"] },
+    { "c": "QOD (Do Not Use list): write instead", "a": "every other day", "d": ["daily", "every hour"] },
+    { "c": "MS, MSO4, MgSO4 (Do Not Use list)", "a": "can mean morphine sulfate or magnesium sulfate", "d": ["can be misread as 0 or 4", "can be misread as IV or 10"] },
+    { "c": "Safe way to write five milligrams", "a": "5 mg", "d": ["5.0 mg"], "ex": "A trailing zero is on the Do Not Use list: 5.0 mg can be misread as 50 mg." },
+    { "c": "Safe way to write half a milligram", "a": "0.5 mg", "d": [".5 mg", "0.50 mg"], "ex": "A missing leading zero is on the Do Not Use list: .5 mg can be misread as 5 mg." },
+    { "c": "BP", "a": "blood pressure", "d": ["body position", "bowel pattern"] },
+    { "c": "HR", "a": "heart rate", "d": ["hospital record", "high risk"] },
+    { "c": "RR (vital signs)", "a": "respiratory rate", "d": ["resting rhythm", "renal rate"] },
+    { "c": "CBC", "a": "complete blood count", "d": ["calcium blood chemistry", "cardiac blood culture"] },
+    { "c": "ECG, EKG", "a": "electrocardiogram", "d": ["echocardiogram", "electroencephalogram"] },
+    { "c": "SOB (clinical notes)", "a": "shortness of breath", "d": ["sudden onset bleeding", "side of body"] },
+    { "c": "NKDA", "a": "no known drug allergies", "d": ["no kidney disease apparent", "normal kidney and digestive activity"] },
+    { "c": "c/o", "a": "complains of", "d": ["change of orders", "cause of"] },
+    { "c": "DNR", "a": "do not resuscitate", "d": ["did not respond", "daily nursing report"] }
+  ],
+  "read": {
+    "title": "Why some abbreviations are banned",
+    "text": [
+      "Abbreviations save time, but a misread abbreviation can deliver the wrong drug, the wrong dose or the wrong schedule. The Joint Commission, which accredits hospitals in the United States, keeps a short Do Not Use list that applies to medication orders and other medication documentation, whether handwritten or on pre-printed forms.",
+      "Each item is on the list because it is easily misread. A handwritten U for unit can look like a 0 or a 4, so 4U can be read as 40; the word unit is written out instead. IU can be read as IV. QD (daily) and QOD (every other day) are easily confused with each other, so daily and every other day are spelled out. MS and its variants can mean either morphine sulfate or magnesium sulfate, two very different drugs.",
+      "Two rules concern decimal points. A trailing zero, as in 5.0 mg, is not used in medication orders because a missed decimal turns it into 50 mg. A leading zero is always required before a decimal, as in 0.5 mg, because .5 mg can be read as 5 mg.",
+      "Standard abbreviations such as bid, tid, prn, PO and NPO remain in common use, and many organizations also keep their own lists of approved abbreviations."
+    ],
+    "q": [
+      { "q": "Why is a trailing zero (5.0 mg) avoided in medication orders?", "o": ["A missed decimal turns it into 50 mg", "It looks like the letter U", "It means every other day"], "k": 0 },
+      { "q": "What problem does MS create?", "o": ["It can mean morphine sulfate or magnesium sulfate", "It can be read as IV", "It is mistaken for a leading zero"], "k": 0 },
+      { "q": "How should one half milligram be written?", "o": ["0.5 mg", ".5 mg", "0.50 mg", "1/2 mg"], "k": 0 }
+    ]
+  }
+}

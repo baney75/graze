@@ -1,0 +1,314 @@
+{
+  "title": "Questions, pointers and connectors",
+  "note": "Questions start with a question word or add -ne to the first word. Nonne expects the answer yes; num expects no. Hic, haec, hoc means this; ille, illa, illud means that. -que (and) attaches to the second word joined: senatus populusque Romanus, the senate and the Roman people. Nam, enim, ergo and tamen link sentences.",
+  "src": {
+    "t": "D'Ooge, Latin for Beginners, Lessons XXXVIII and LII: Relative, Interrogative and Demonstrative Pronouns",
+    "u": "https://www.gutenberg.org/ebooks/18251"
+  },
+  "items": [
+    {
+      "c": "quis?",
+      "a": "who?",
+      "d": [
+        "what?",
+        "which?"
+      ],
+      "ex": "Quis est ille?",
+      "exT": "Who is that man?"
+    },
+    {
+      "c": "quid?",
+      "a": "what?",
+      "d": [
+        "who?",
+        "why?"
+      ],
+      "ex": "Quid facis?",
+      "exT": "What are you doing?"
+    },
+    {
+      "c": "ubi?",
+      "a": "where?",
+      "d": [
+        "when?",
+        "where to?"
+      ],
+      "ex": "Ubi est Iulia?",
+      "exT": "Where is Julia?"
+    },
+    {
+      "c": "cur?",
+      "a": "why?",
+      "d": [
+        "how?",
+        "when?"
+      ],
+      "ex": "Cur rides?",
+      "exT": "Why are you laughing?"
+    },
+    {
+      "c": "quando?",
+      "a": "when?",
+      "d": [
+        "where?",
+        "how many?"
+      ],
+      "ex": "Quando venis?",
+      "exT": "When are you coming?"
+    },
+    {
+      "c": "quomodo?",
+      "a": "how?",
+      "d": [
+        "why?",
+        "how much?"
+      ]
+    },
+    {
+      "c": "unde?",
+      "a": "from where?",
+      "d": [
+        "to where?",
+        "where?"
+      ]
+    },
+    {
+      "c": "quo?",
+      "a": "where to? to what place?",
+      "d": [
+        "from where?",
+        "how?"
+      ],
+      "ex": "Quo vadis?",
+      "exT": "Where are you going?"
+    },
+    {
+      "c": "qualis?",
+      "a": "what kind of?",
+      "d": [
+        "how many?",
+        "how big?"
+      ]
+    },
+    {
+      "c": "Nonne vides?",
+      "a": "You see, don't you?",
+      "d": [
+        "You don't see, do you?",
+        "Why don't you see?"
+      ]
+    },
+    {
+      "c": "Num times?",
+      "a": "You're not afraid, are you?",
+      "d": [
+        "You're afraid, aren't you?",
+        "Why are you afraid?"
+      ]
+    },
+    {
+      "c": "sed",
+      "a": "but",
+      "d": [
+        "and",
+        "or"
+      ],
+      "ex": "Aeger sum, sed laetus.",
+      "exT": "I am sick, but happy."
+    },
+    {
+      "c": "aut",
+      "a": "or",
+      "d": [
+        "and",
+        "but"
+      ],
+      "ex": "Aut Caesar aut nihil.",
+      "exT": "Either Caesar or nothing."
+    },
+    {
+      "c": "nam",
+      "a": "for (because)",
+      "d": [
+        "therefore",
+        "although"
+      ]
+    },
+    {
+      "c": "ergo",
+      "a": "therefore",
+      "d": [
+        "because",
+        "however"
+      ],
+      "ex": "Cogito, ergo sum.",
+      "exT": "I think, therefore I am."
+    },
+    {
+      "c": "Gaudeo quod venis.",
+      "a": "I'm glad (that) you are coming.",
+      "d": [
+        "I'm glad you are leaving.",
+        "I'm sad that you are coming."
+      ]
+    },
+    {
+      "c": "si",
+      "a": "if",
+      "d": [
+        "unless",
+        "whether"
+      ],
+      "ex": "Si vales, bene est.",
+      "exT": "If you are well, that is good."
+    },
+    {
+      "c": "nisi",
+      "a": "unless, if not",
+      "d": [
+        "if",
+        "although"
+      ]
+    },
+    {
+      "c": "dum",
+      "a": "while",
+      "d": [
+        "because",
+        "if"
+      ]
+    },
+    {
+      "c": "etiam",
+      "a": "also, even",
+      "d": [
+        "however",
+        "therefore"
+      ],
+      "ex": "Ego etiam venio.",
+      "exT": "I am also coming."
+    },
+    {
+      "c": "tamen",
+      "a": "however, nevertheless",
+      "d": [
+        "therefore",
+        "also"
+      ],
+      "ex": "Aeger est; tamen laborat.",
+      "exT": "He is sick; nevertheless he works."
+    },
+    {
+      "c": "atque",
+      "a": "and, and also",
+      "d": [
+        "or",
+        "but"
+      ]
+    },
+    {
+      "c": "-que (as in populusque)",
+      "a": "and (attached to the second word)",
+      "d": [
+        "or (attached to the second word)",
+        "not (attached to the verb)"
+      ]
+    },
+    {
+      "c": "neque",
+      "a": "and not, nor",
+      "d": [
+        "or",
+        "unless"
+      ],
+      "ex": "Neque Marcus neque Iulia ridet.",
+      "exT": "Neither Marcus nor Julia is laughing."
+    },
+    {
+      "c": "hic, haec, hoc",
+      "a": "this",
+      "d": [
+        "that",
+        "who, which"
+      ],
+      "ex": "Hic liber est meus.",
+      "exT": "This book is mine."
+    },
+    {
+      "c": "ille, illa, illud",
+      "a": "that",
+      "d": [
+        "this",
+        "the same"
+      ]
+    },
+    {
+      "c": "qui, quae, quod",
+      "a": "who, which (relative)",
+      "d": [
+        "this, these",
+        "each, every"
+      ],
+      "ex": "Puer qui currit est Marcus.",
+      "exT": "The boy who is running is Marcus."
+    },
+    {
+      "c": "SPQR",
+      "a": "the Senate and the Roman People",
+      "d": [
+        "the Senate of the Roman Republic",
+        "the Roman Senate and Army"
+      ]
+    },
+    {
+      "c": "Quid est hoc?",
+      "a": "What is this?",
+      "d": [
+        "Who is this?",
+        "Where is this?"
+      ]
+    },
+    {
+      "c": "Quis est ille?",
+      "a": "Who is that man?",
+      "d": [
+        "What is that?",
+        "Where is that man?"
+      ]
+    },
+    {
+      "c": "interdum",
+      "a": "sometimes",
+      "d": [
+        "always",
+        "often"
+      ]
+    },
+    {
+      "c": "fortasse",
+      "a": "perhaps",
+      "d": [
+        "certainly",
+        "by chance"
+      ]
+    },
+    {
+      "c": "valde",
+      "a": "very, very much",
+      "d": [
+        "a little",
+        "hardly"
+      ],
+      "ex": "Valde gaudeo.",
+      "exT": "I am very glad."
+    },
+    {
+      "c": "vix",
+      "a": "hardly, scarcely",
+      "d": [
+        "very much",
+        "quickly"
+      ]
+    }
+  ]
+}

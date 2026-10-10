@@ -1,0 +1,318 @@
+{
+  "title": "The middle and passive voice",
+  "note": "In the middle voice the subject acts on or for itself; in the passive it receives the action. In the present they share one set of forms: λύομαι, λύῃ, λύεται, λυόμεθα, λύεσθε, λύονται, 'I am loosed' (or 'I loose for myself'). The agent of a passive is ὑπό + genitive. Deponent verbs have middle forms but active meanings: ἔρχομαι, I come.",
+  "src": {
+    "t": "Perseus Digital Library (Smyth, Greek Grammar: voices)",
+    "u": "https://www.perseus.tufts.edu/"
+  },
+  "items": [
+    {
+      "c": "λύομαι",
+      "a": "I am loosed",
+      "d": [
+        "I loose",
+        "they are loosed"
+      ],
+      "r": "lyomai"
+    },
+    {
+      "c": "λύῃ",
+      "a": "you (one person) are loosed",
+      "d": [
+        "he, she, it is loosed",
+        "you (one person) loose"
+      ],
+      "r": "lyē"
+    },
+    {
+      "c": "λύεται",
+      "a": "he, she, it is loosed",
+      "d": [
+        "they are loosed",
+        "he, she, it looses"
+      ],
+      "r": "lyetai",
+      "ex": "ὁ ἵππος λύεται.",
+      "exT": "The horse is being untied."
+    },
+    {
+      "c": "λυόμεθα",
+      "a": "we are loosed",
+      "d": [
+        "you (plural) are loosed",
+        "we loose"
+      ],
+      "r": "lyometha"
+    },
+    {
+      "c": "λύεσθε",
+      "a": "you (plural) are loosed",
+      "d": [
+        "we are loosed",
+        "they are loosed"
+      ],
+      "r": "lyesthe"
+    },
+    {
+      "c": "λύονται",
+      "a": "they are loosed",
+      "d": [
+        "they loose",
+        "we are loosed"
+      ],
+      "r": "lyontai"
+    },
+    {
+      "c": "λύειν",
+      "a": "to loose",
+      "d": [
+        "to be loosed",
+        "loosing"
+      ],
+      "r": "lyein"
+    },
+    {
+      "c": "λύεσθαι",
+      "a": "to be loosed",
+      "d": [
+        "to loose",
+        "being loosed"
+      ],
+      "r": "lyesthai"
+    },
+    {
+      "c": "ἔρχομαι",
+      "a": "I come, go",
+      "d": [
+        "I remain, stay",
+        "I answer"
+      ],
+      "ex": "ἔρχεται ὥρα.",
+      "exT": "An hour is coming.",
+      "r": "erchomai"
+    },
+    {
+      "c": "γίνομαι (Attic γίγνομαι)",
+      "a": "I become, happen, am born",
+      "d": [
+        "I come, go",
+        "I am able, can"
+      ],
+      "r": "ginomai",
+      "say": "γίνομαι"
+    },
+    {
+      "c": "δύναμαι",
+      "a": "I am able, can",
+      "d": [
+        "I wish, want",
+        "I become, happen"
+      ],
+      "ex": "οὐ δύναμαι.",
+      "exT": "I cannot.",
+      "r": "dynamai"
+    },
+    {
+      "c": "πορεύομαι",
+      "a": "I go, travel",
+      "d": [
+        "I pray",
+        "I fight"
+      ],
+      "r": "poreuomai",
+      "ex": "πρὸς τὸν πατέρα πορεύομαι.",
+      "exT": "I am going to the Father."
+    },
+    {
+      "c": "ἀποκρίνομαι",
+      "a": "I answer",
+      "d": [
+        "I judge",
+        "I ask"
+      ],
+      "r": "apokrinomai",
+      "ex": "ἀποκρίνεται ὁ Ἰησοῦς.",
+      "exT": "Jesus answers."
+    },
+    {
+      "c": "βούλομαι",
+      "a": "I wish, want",
+      "d": [
+        "I am able, can",
+        "I work"
+      ],
+      "r": "boulomai",
+      "ex": "βούλομαι γράφειν.",
+      "exT": "I want to write."
+    },
+    {
+      "c": "προσεύχομαι",
+      "a": "I pray",
+      "d": [
+        "I greet",
+        "I answer"
+      ],
+      "r": "proseuchomai",
+      "ex": "προσεύχεται ἐν τῷ ἱερῷ.",
+      "exT": "He prays in the temple."
+    },
+    {
+      "c": "δέχομαι",
+      "a": "I receive, welcome",
+      "d": [
+        "I send",
+        "I touch"
+      ],
+      "r": "dechomai",
+      "ex": "δέχεται τὸν λόγον.",
+      "exT": "He receives the word."
+    },
+    {
+      "c": "ἐργάζομαι",
+      "a": "I work",
+      "d": [
+        "I fight",
+        "I pray"
+      ],
+      "r": "ergazomai",
+      "ex": "ὁ πατήρ μου ἐργάζεται.",
+      "exT": "My Father is working."
+    },
+    {
+      "c": "εὐαγγελίζομαι",
+      "a": "I proclaim good news",
+      "d": [
+        "I give thanks",
+        "I pray"
+      ],
+      "r": "euangelizomai"
+    },
+    {
+      "c": "μάχομαι",
+      "a": "I fight",
+      "d": [
+        "I work",
+        "I travel"
+      ],
+      "r": "machomai"
+    },
+    {
+      "c": "ἅπτομαι + genitive",
+      "a": "I touch",
+      "d": [
+        "I take, receive",
+        "I greet"
+      ],
+      "r": "haptomai",
+      "say": "ἅπτομαι",
+      "ex": "ἅπτεται τῶν ὀφθαλμῶν.",
+      "exT": "He touches the eyes."
+    },
+    {
+      "c": "πείθομαι + dative",
+      "a": "I obey, trust",
+      "d": [
+        "I persuade",
+        "I fear"
+      ],
+      "r": "peithomai",
+      "say": "πείθομαι"
+    },
+    {
+      "c": "ἀσπάζομαι",
+      "a": "I greet",
+      "d": [
+        "I receive, welcome",
+        "I pray"
+      ],
+      "r": "aspazomai",
+      "ex": "ἀσπάζονται ὑμᾶς.",
+      "exT": "They greet you."
+    },
+    {
+      "c": "ὁ λόγος ___ ὑπὸ τοῦ προφήτου. (is written)",
+      "a": "γράφεται",
+      "d": [
+        "γράφει",
+        "γράφονται"
+      ]
+    },
+    {
+      "c": "οἱ ἄνθρωποι ___ ὑπὸ τοῦ θεοῦ. (are saved; σῴζω)",
+      "a": "σῴζονται",
+      "d": [
+        "σῴζουσιν",
+        "σῴζεται"
+      ]
+    },
+    {
+      "c": "ὁ Ἰησοῦς ___ εἰς τὴν πόλιν. (comes)",
+      "a": "ἔρχεται",
+      "d": [
+        "ἔρχει",
+        "ἔρχονται"
+      ]
+    },
+    {
+      "c": "οὐ ___ ἐλθεῖν. (we cannot come; δύναμαι)",
+      "a": "δυνάμεθα",
+      "d": [
+        "δύνανται",
+        "δύναται"
+      ]
+    },
+    {
+      "c": "voice for acting on or for oneself",
+      "a": "middle",
+      "d": [
+        "passive",
+        "active"
+      ]
+    },
+    {
+      "c": "verb with middle forms but an active meaning",
+      "a": "deponent",
+      "d": [
+        "contract verb",
+        "enclitic"
+      ]
+    }
+  ],
+  "read": {
+    "title": "The blind man on the road",
+    "text": [
+      "Ὁ Ἰησοῦς μετὰ τῶν μαθητῶν πορεύεται εἰς κώμην. ἐν δὲ τῇ ὁδῷ ἄνθρωπος τυφλὸς μένει καὶ προσεύχεται.",
+      "Ὁ ὄχλος ἔρχεται πρὸς τὸν Ἰησοῦν, καὶ ὁ τυφλὸς ἀκούει τὴν φωνὴν τοῦ ὄχλου. ὁ τυφλὸς λέγει· Κύριε, ὁ θεὸς δύναται σῴζειν, καὶ ἐγὼ πιστεύω.",
+      "Ὁ δὲ Ἰησοῦς ἅπτεται τῶν ὀφθαλμῶν τοῦ τυφλοῦ, καὶ ὁ ἄνθρωπος βλέπει. ὁ ἄνθρωπος σῴζεται ὑπὸ τοῦ κυρίου, καὶ ὁ λαὸς λέγει· Μέγας ἐστὶν ὁ θεός."
+    ],
+    "q": [
+      {
+        "q": "Where does the blind man wait?",
+        "o": [
+          "in the temple",
+          "on the road",
+          "in a house"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What does the blind man say?",
+        "o": [
+          "God is able to save, and I believe.",
+          "Where are you going, Lord?",
+          "I am not able to see."
+        ],
+        "k": 0
+      },
+      {
+        "q": "What do the people say at the end?",
+        "o": [
+          "The man is blind.",
+          "The Lord is coming.",
+          "God is great."
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

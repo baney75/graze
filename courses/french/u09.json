@@ -1,0 +1,55 @@
+{
+  "title": "Home and household",
+  "note": "Chez + a person means \"at (or to) someone's home\": chez moi, chez Paul, chez mes parents. Faire covers many chores: faire le ménage, faire la vaisselle, faire la cuisine. In France the ground floor is le rez-de-chaussée, so le premier étage is one floor up.",
+  "src": { "t": "Français interactif, Chapitre 8 vocabulaire", "u": "https://laits.utexas.edu/fi/voc/08/" },
+  "items": [
+    { "c": "la maison", "a": "house", "d": ["apartment", "room"], "ex": "Ma maison a un grand jardin.", "exT": "My house has a big yard." },
+    { "c": "l'appartement (m)", "a": "apartment", "d": ["house", "building"], "say": "l'appartement" },
+    { "c": "l'immeuble (m)", "a": "apartment building", "d": ["house", "neighborhood"], "say": "l'immeuble" },
+    { "c": "la pièce", "a": "room", "d": ["floor", "wall"] },
+    { "c": "la chambre", "a": "bedroom", "d": ["bathroom", "living room"], "ex": "Ma chambre est petite.", "exT": "My bedroom is small." },
+    { "c": "la cuisine", "a": "kitchen / cooking", "d": ["dining room", "cleaning"] },
+    { "c": "la salle de bains", "a": "bathroom", "d": ["bedroom", "laundry room"] },
+    { "c": "le salon", "a": "living room", "d": ["dining room", "kitchen"] },
+    { "c": "la salle à manger", "a": "dining room", "d": ["kitchen", "living room"] },
+    { "c": "les toilettes (f)", "a": "toilet / restroom", "d": ["bathtub", "shower"], "say": "les toilettes" },
+    { "c": "le jardin", "a": "yard / garden", "d": ["balcony", "garage"] },
+    { "c": "le garage", "a": "garage", "d": ["cellar", "attic"] },
+    { "c": "l'escalier (m)", "a": "staircase", "d": ["hallway", "elevator"], "say": "l'escalier" },
+    { "c": "le rez-de-chaussée", "a": "ground floor", "d": ["basement", "top floor"] },
+    { "c": "l'étage (m)", "a": "floor (story)", "d": ["ceiling", "ground"], "say": "l'étage" },
+    { "c": "la porte", "a": "door", "d": ["window", "wall"] },
+    { "c": "la fenêtre", "a": "window", "d": ["door", "mirror"] },
+    { "c": "le lit", "a": "bed", "d": ["couch", "desk"] },
+    { "c": "la table", "a": "table", "d": ["chair", "shelf"] },
+    { "c": "la chaise", "a": "chair", "d": ["armchair", "table"] },
+    { "c": "le canapé", "a": "couch", "d": ["armchair", "bed"] },
+    { "c": "le fauteuil", "a": "armchair", "d": ["couch", "chair"] },
+    { "c": "la lampe", "a": "lamp", "d": ["mirror", "clock"] },
+    { "c": "le frigo", "a": "fridge", "d": ["oven", "sink"] },
+    { "c": "la douche", "a": "shower", "d": ["bathtub", "sink"] },
+    { "c": "la clé", "a": "key", "d": ["lock", "door"], "ex": "Où est la clé de la maison ?", "exT": "Where is the house key?" },
+    { "c": "faire le ménage", "a": "to do housework", "d": ["to do the dishes", "to go shopping"] },
+    { "c": "faire la vaisselle", "a": "to do the dishes", "d": ["to do the laundry", "to set the table"] },
+    { "c": "faire la cuisine", "a": "to cook", "d": ["to clean the kitchen", "to eat out"] },
+    { "c": "ranger", "a": "to tidy up", "d": ["to move out", "to break"], "ex": "Je range ma chambre le samedi.", "exT": "I tidy my room on Saturdays." },
+    { "c": "chez moi", "a": "at my place", "d": ["near me", "with me"], "ex": "Tu viens chez moi ce soir ?", "exT": "Are you coming to my place tonight?" },
+    { "c": "Le chat est ___ la table. (under)", "a": "sous", "d": ["sur", "dans"] },
+    { "c": "Le livre est ___ le lit. (on)", "a": "sur", "d": ["sous", "dans"] },
+    { "c": "Les assiettes sont ___ le placard. (in)", "a": "dans", "d": ["sur", "sous"] },
+    { "c": "Je suis ___ mes parents. (at the home of)", "a": "chez", "d": ["à", "dans"] }
+  ],
+  "read": {
+    "title": "L'appartement de Sophie",
+    "text": [
+      "Sophie habite dans un petit appartement à Bordeaux. L'appartement est au deuxième étage. Il y a deux pièces : un salon et une chambre. Il y a aussi une cuisine et une petite salle de bains avec une douche.",
+      "Dans le salon, il y a un canapé bleu, une table et deux chaises. La chambre est petite, mais la fenêtre est grande. Sophie n'a pas de jardin, mais elle a un balcon avec des fleurs.",
+      "Le samedi matin, elle fait le ménage et elle range sa chambre. Après, elle invite ses amis chez elle."
+    ],
+    "q": [
+      { "q": "Where does Sophie live?", "o": ["In a big house in Bordeaux", "In a small apartment in Bordeaux", "In a small apartment in Paris"], "k": 1 },
+      { "q": "What does Sophie's home NOT have?", "o": ["A yard", "A shower", "A couch"], "k": 0 },
+      { "q": "What does Sophie do on Saturday mornings?", "o": ["She goes to the market", "She works at a café", "She cleans and tidies up"], "k": 2 }
+    ]
+  }
+}

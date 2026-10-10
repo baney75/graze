@@ -1,0 +1,303 @@
+{
+  "title": "Search strategy and operators",
+  "note": "Search tools match words, not ideas. Split your question into two or three main concepts, list synonyms for each, join synonyms with OR inside parentheses, and join different concepts with AND. Quotation marks keep a phrase together; truncation catches word endings.",
+  "src": {
+    "t": "Choosing and Using Sources, Ch. 4 Precision Searching, LibreTexts",
+    "u": "https://human.libretexts.org/Bookshelves/Research_and_Information_Literacy/Choosing_and_Using_Sources%3A_A_Guide_to_Academic_Research/04%3A_Precision_Searching"
+  },
+  "items": [
+    {
+      "c": "Boolean AND",
+      "a": "Returns only records that contain every term",
+      "d": [
+        "Returns records that contain any of the terms",
+        "Removes records that contain the second term",
+        "Treats the terms as one exact phrase"
+      ]
+    },
+    {
+      "c": "Boolean OR",
+      "a": "Returns records that contain any of the terms",
+      "d": [
+        "Returns only records containing every term",
+        "Removes records containing the second term",
+        "Searches only the title field"
+      ]
+    },
+    {
+      "c": "Boolean NOT",
+      "a": "Removes records that contain the term",
+      "d": [
+        "Adds records that contain the term",
+        "Requires the term in every record",
+        "Finds words that share the term's root"
+      ]
+    },
+    {
+      "c": "Adding another concept with AND usually gives",
+      "a": "Fewer, more focused results",
+      "d": [
+        "More, broader results",
+        "The same results in a new order",
+        "Results from one year only"
+      ]
+    },
+    {
+      "c": "Adding a synonym with OR usually gives",
+      "a": "More results",
+      "d": [
+        "Fewer results",
+        "Exactly the same results",
+        "Only results with both words"
+      ]
+    },
+    {
+      "c": "OR is best used to join",
+      "a": "Synonyms for the same concept",
+      "d": [
+        "Two different main concepts",
+        "A word and its opposite",
+        "An author name and a year"
+      ]
+    },
+    {
+      "c": "Main risk of using NOT",
+      "a": "It can drop relevant records that mention both terms",
+      "d": [
+        "It always returns zero results",
+        "It doubles the number of results",
+        "It only works on author names"
+      ]
+    },
+    {
+      "c": "Parentheses in (teen OR adolescent) AND sleep",
+      "a": "Group the synonyms so they are processed together",
+      "d": [
+        "Mark the words as optional",
+        "Exclude both words from results",
+        "Limit results to article titles"
+      ]
+    },
+    {
+      "c": "Quotation marks around \"climate change\"",
+      "a": "Find the words together, in that order",
+      "d": [
+        "Find either word, anywhere",
+        "Exclude pages with both words",
+        "Find synonyms of the phrase"
+      ]
+    },
+    {
+      "c": "Truncation, as in educat*",
+      "a": "Finds words sharing the root, like education",
+      "d": [
+        "Finds only the exact string educat",
+        "Removes words that begin with educat",
+        "Finds synonyms such as schooling"
+      ]
+    },
+    {
+      "c": "In many databases, wom?n matches",
+      "a": "Both woman and women",
+      "d": [
+        "Only the word wom",
+        "Neither woman nor women",
+        "Any word ending in -man"
+      ],
+      "ex": "Wildcard and truncation symbols vary by database; check its help page."
+    },
+    {
+      "c": "site:nih.gov in a Google search",
+      "a": "Limits results to pages on that domain",
+      "d": [
+        "Finds pages that link to nih.gov",
+        "Excludes all pages from nih.gov",
+        "Finds pages that mention the NIH"
+      ]
+    },
+    {
+      "c": "site:.gov in a Google search",
+      "a": "Limits results to US government domains",
+      "d": [
+        "Finds any page about government",
+        "Limits results to news sites",
+        "Excludes official sources"
+      ]
+    },
+    {
+      "c": "filetype:pdf in a Google search",
+      "a": "Limits results to PDF files",
+      "d": [
+        "Converts results into PDF files",
+        "Excludes all PDF files",
+        "Finds pages about the PDF format"
+      ]
+    },
+    {
+      "c": "jaguar -car in a Google search",
+      "a": "Excludes pages that contain the word car",
+      "d": [
+        "Requires pages to contain car",
+        "Finds pages about jaguar cars",
+        "Treats jaguar car as a phrase"
+      ]
+    },
+    {
+      "c": "Keyword search",
+      "a": "Matches your words wherever they appear in a record",
+      "d": [
+        "Matches only assigned subject headings",
+        "Matches only the author field",
+        "Ranks results by publication year"
+      ]
+    },
+    {
+      "c": "Field searching",
+      "a": "Restricting a term to one field, such as title",
+      "d": [
+        "Searching every database at once",
+        "Combining synonyms with OR",
+        "Saving a search for later alerts"
+      ]
+    },
+    {
+      "c": "Search filters (limits)",
+      "a": "Narrow results by date, language, type, and so on",
+      "d": [
+        "Add synonyms to every concept",
+        "Translate results into English",
+        "Correct spelling in your search"
+      ]
+    },
+    {
+      "c": "Concept (in search planning)",
+      "a": "One main idea from your question",
+      "d": [
+        "One database you plan to search",
+        "One source you already found",
+        "One citation style rule"
+      ]
+    },
+    {
+      "c": "Why brainstorm synonyms before searching?",
+      "a": "Authors may use different words for the same idea",
+      "d": [
+        "Databases only accept synonyms",
+        "It makes every search return fewer results",
+        "Synonyms replace the need for AND"
+      ]
+    },
+    {
+      "c": "Too many irrelevant results: try",
+      "a": "Adding a concept with AND or a phrase in quotes",
+      "d": [
+        "Adding more synonyms with OR",
+        "Using truncation on every word",
+        "Removing your most specific term"
+      ]
+    },
+    {
+      "c": "Too few results: try",
+      "a": "Adding synonyms with OR or broadening a term",
+      "d": [
+        "Adding another concept with AND",
+        "Putting every word in quotes",
+        "Using NOT to drop more records"
+      ]
+    },
+    {
+      "c": "Precision of a search",
+      "a": "The share of results that are relevant",
+      "d": [
+        "The total number of results returned",
+        "How recent the results are",
+        "How fast the database responds"
+      ]
+    },
+    {
+      "c": "Recall of a search",
+      "a": "The share of all relevant records that you found",
+      "d": [
+        "The share of results that are irrelevant",
+        "How well you remember the sources",
+        "How often the search is repeated"
+      ]
+    },
+    {
+      "c": "Search log",
+      "a": "A record of searches run, where, and what they found",
+      "d": [
+        "A list of the final sources only",
+        "A database's internal error report",
+        "A journal's list of new issues"
+      ]
+    },
+    {
+      "c": "Search alert",
+      "a": "An automatic notice when new results match a search",
+      "d": [
+        "A warning that a source is unreliable",
+        "A message that a search has a typo",
+        "A notice that an article was retracted"
+      ]
+    },
+    {
+      "c": "Mining useful terms from a good result",
+      "a": "Reusing its words and subject terms in new searches",
+      "d": [
+        "Copying its abstract into your notes",
+        "Searching only its author's name",
+        "Citing it without reading it"
+      ]
+    },
+    {
+      "c": "Search engine results are ranked by",
+      "a": "Algorithms that estimate relevance and popularity",
+      "d": [
+        "Accuracy checks by expert editors",
+        "Publication date, newest first",
+        "Alphabetical order of titles"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Building a search string",
+    "text": [
+      "Suppose your question is whether exercise improves sleep in older adults. A database does not understand that sentence; it matches words. So first pull out the main concepts: exercise, sleep, older adults. Leave out filler words like \"whether\" and \"improves\" that authors may not use.",
+      "Next, list synonyms for each concept, because authors describe the same idea in different ways. Exercise might appear as physical activity or training; older adults as elderly or aged. Join the synonyms for one concept with OR and wrap them in parentheses. Then join the concepts with AND:",
+      "(exercise OR \"physical activity\") AND sleep AND (\"older adults\" OR elderly OR aged)",
+      "OR widens each concept, and AND requires every concept to be present, so the results are both broad and on target. Quotation marks keep phrases together, and a truncation symbol such as sleep* would also catch sleeping and sleepiness.",
+      "Then judge the results. If you get thousands of loosely related records, add a concept or use filters such as date or study type. If you get only a few, add synonyms or broaden a term. Keep a short log of each search so you can repeat it and report it later."
+    ],
+    "q": [
+      {
+        "q": "Why are words like \"whether\" and \"improves\" left out of the search?",
+        "o": [
+          "Databases reject verbs",
+          "Authors may not use them, so they can block relevant records",
+          "They make the search too broad",
+          "They count as Boolean operators"
+        ],
+        "k": 1
+      },
+      {
+        "q": "In the search string, what does AND do?",
+        "o": [
+          "Requires every concept to be present",
+          "Adds synonyms for one concept",
+          "Keeps a phrase together"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does the reading suggest when a search returns only a few results?",
+        "o": [
+          "Add another concept with AND",
+          "Switch to a stricter date filter",
+          "Add synonyms or broaden a term"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

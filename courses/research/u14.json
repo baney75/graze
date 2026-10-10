@@ -1,0 +1,54 @@
+{
+  "title": "Research ethics",
+  "note": "The Belmont Report (1979) rests US human-research ethics on three principles: respect for persons, beneficence, and justice. They are applied through informed consent, careful weighing of risks and benefits, and fair selection of participants. An IRB reviews studies before they begin.",
+  "src": { "t": "The Belmont Report, HHS Office for Human Research Protections", "u": "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html" },
+  "items": [
+    { "c": "Belmont Report", "a": "A 1979 US statement of ethical principles for human research", "d": ["A 1947 code from the Nazi doctors' trials", "A 1964 declaration by world physicians", "A 2015 report on failed replications"] },
+    { "c": "Three principles of the Belmont Report", "a": "Respect for persons, beneficence, justice", "d": ["Honesty, accuracy, objectivity", "Consent, privacy, publication", "Autonomy, efficiency, profit"] },
+    { "c": "Body that wrote the Belmont Report", "a": "National Commission for the Protection of Human Subjects", "d": ["The World Medical Association", "The National Library of Medicine", "The American Psychological Association"] },
+    { "c": "Respect for persons", "a": "Treat people as autonomous and protect those with less autonomy", "d": ["Spread research burdens and benefits fairly", "Maximize benefits and minimize harms", "Publish every result regardless of outcome"] },
+    { "c": "Beneficence", "a": "Do no harm, and maximize benefits while minimizing risks", "d": ["Let participants choose freely", "Distribute research burdens fairly", "Pay every participant equally"] },
+    { "c": "Justice, in the Belmont Report", "a": "Fair distribution of research burdens and benefits", "d": ["Punishing researchers who break rules", "Protecting the privacy of records", "Getting written consent from everyone"] },
+    { "c": "Belmont application of respect for persons", "a": "Informed consent", "d": ["Assessment of risks and benefits", "Selection of subjects", "Peer review"] },
+    { "c": "Belmont application of beneficence", "a": "Assessment of risks and benefits", "d": ["Informed consent", "Selection of subjects", "Open data"] },
+    { "c": "Belmont application of justice", "a": "Fair selection of subjects", "d": ["Informed consent", "Assessment of risks and benefits", "Preregistration"] },
+    { "c": "Three elements of informed consent (Belmont)", "a": "Information, comprehension, voluntariness", "d": ["Signature, witness, date", "Payment, privacy, publication", "Risk, benefit, cost"] },
+    { "c": "Voluntariness, in informed consent", "a": "Agreement free of coercion and undue influence", "d": ["Agreement given by a family member", "Agreement after the study ends", "Agreement given in exchange for a grade"] },
+    { "c": "Coercion, in the Belmont Report", "a": "An overt threat of harm to get someone to comply", "d": ["An excessive reward offered for joining", "A clear explanation of risks", "A fair payment for time spent"] },
+    { "c": "Undue influence", "a": "An excessive or improper reward to win compliance", "d": ["An overt threat of harm", "A reasonable payment for travel", "A request to sign a form"] },
+    { "c": "Right to withdraw", "a": "Participants may leave a study at any time without penalty", "d": ["Researchers may remove anyone without reason", "Funders may cancel a study's results", "Journals may retract a paper"] },
+    { "c": "Research vs practice, per Belmont", "a": "Research aims at generalizable knowledge; practice at one person's benefit", "d": ["Research is always riskier than practice", "Practice must always be approved by an IRB", "They are the same activity"] },
+    { "c": "Institutional Review Board (IRB)", "a": "A committee that reviews research to protect participants", "d": ["A panel that grades journal articles", "A board that funds university research", "A committee that hires faculty"] },
+    { "c": "When IRB approval is required", "a": "Before a human-subjects study begins", "d": ["After the data are collected", "Only after publication", "Only if participants complain"] },
+    { "c": "Assent", "a": "A child's own agreement, alongside parental permission", "d": ["A parent's signature alone", "An IRB's final approval", "A researcher's promise of results"] },
+    { "c": "Tuskegee syphilis study", "a": "US study that withheld effective treatment from Black men", "d": ["A trial that first tested penicillin", "A WWII study of soldiers' vaccines", "A 1990s study of smartphone use"], "ex": "Run by the US Public Health Service from 1932 to 1972." },
+    { "c": "Nuremberg Code (1947)", "a": "Ethics rules stating voluntary consent is essential", "d": ["A citation style for legal research", "A treaty on chemical weapons", "The first peer-reviewed journal"] },
+    { "c": "Declaration of Helsinki", "a": "World Medical Association's ethics principles for medical research", "d": ["A Finnish law on data privacy", "A UN treaty on human rights", "A European journal's style guide"] },
+    { "c": "The Common Rule", "a": "US federal regulations protecting human research subjects", "d": ["A citation rule shared by APA and MLA", "A rule that all studies must be published", "A statistics rule for p-values"] },
+    { "c": "Minimal risk", "a": "Harm no greater than in ordinary daily life", "d": ["No possible risk of any kind", "Risk accepted only by experts", "Risk below 5% of participants"] },
+    { "c": "Debriefing", "a": "Explaining a study's true purpose to participants afterward", "d": ["Summarizing a paper for a journal", "Shortening a consent form", "Training research assistants"] },
+    { "c": "Deception in research", "a": "Withholding or misstating a study's purpose, allowed only with justification", "d": ["Always forbidden in every study", "Allowed whenever it saves money", "Required in all psychology studies"] },
+    { "c": "Confidentiality", "a": "Researchers know identities but protect them", "d": ["Researchers never learn identities", "Identities are published with results", "Participants choose their own data"] },
+    { "c": "Anonymity", "a": "Not even the researchers can link data to a person", "d": ["Researchers know but don't disclose identities", "Names appear only in the appendix", "Data are deleted after analysis"] },
+    { "c": "Research misconduct (US federal definition)", "a": "Fabrication, falsification, or plagiarism", "d": ["Honest error or difference of opinion", "Low citation counts", "Publishing a null result"] },
+    { "c": "Fabrication vs falsification", "a": "Making up data vs manipulating real data", "d": ["Copying words vs copying ideas", "Honest error vs deliberate error", "Publishing vs not publishing"] },
+    { "c": "Clinical equipoise", "a": "Genuine expert uncertainty about which treatment is better", "d": ["Equal pay for all trial participants", "Equal numbers in every trial arm", "Certainty that the new drug works"] },
+    { "c": "Henrietta Lacks", "a": "Woman whose cells were taken in 1951 without her consent", "d": ["Author of the Belmont Report", "First director of the NIH", "Founder of PubMed"], "ex": "Her cells became the HeLa line, still used in labs worldwide." },
+    { "c": "IACUC", "a": "Committee that reviews research using animals", "d": ["Committee that reviews human studies", "Agency that approves new drugs", "Board that ranks journals"] },
+    { "c": "The 3Rs of animal research", "a": "Replace, Reduce, Refine", "d": ["Review, Revise, Resubmit", "Recruit, Randomize, Report", "Read, Record, Repeat"] }
+  ],
+  "read": {
+    "title": "Why the rules exist",
+    "text": [
+      "Modern research ethics grew out of abuses. After World War II, the trials of Nazi doctors produced the Nuremberg Code, whose first principle is that voluntary consent is essential. In the United States, the Tuskegee study ran from 1932 to 1972: government researchers followed Black men with syphilis without treating them, even after penicillin became standard care.",
+      "Public outrage over Tuskegee led Congress to create a national commission, which issued the Belmont Report in 1979. It names three principles. Respect for persons means treating people as able to make their own choices and protecting those who can't fully do so, such as children. Beneficence means not harming people and weighing risks against benefits. Justice means that no group should bear the burdens of research while others reap its rewards.",
+      "Each principle has a practical form. Informed consent requires that people get the relevant information, understand it, and agree freely, without threats or excessive rewards. A systematic risk-benefit assessment asks whether the knowledge gained justifies what participants face. Fair selection keeps researchers from recruiting people just because they are easy to reach or to pressure.",
+      "Today, an Institutional Review Board checks these points before a study involving people can begin."
+    ],
+    "q": [
+      { "q": "What event most directly led to the Belmont Report?", "o": ["The Nuremberg trials", "Public outrage over the Tuskegee study", "The replication crisis", "The founding of PubMed"], "k": 1 },
+      { "q": "Which principle says no group should bear research burdens while others get the benefits?", "o": ["Respect for persons", "Beneficence", "Justice"], "k": 2 },
+      { "q": "What does informed consent require, according to the reading?", "o": ["Information, understanding, and free agreement", "A payment and a signature", "Approval from a family member"], "k": 0 }
+    ]
+  }
+}

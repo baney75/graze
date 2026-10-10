@@ -1,0 +1,266 @@
+{
+  "title": "Fourth and fifth declensions",
+  "note": "Fourth-declension nouns have genitive -us: manus, manus (f), hand. Most are masculine, but manus and domus are feminine, and cornu and genu are neuter. Fifth-declension nouns end in -es, genitive -ei: res, rei (f), thing. They are feminine except dies, day, usually masculine. Res is everywhere: res publica, the state.",
+  "src": {
+    "t": "Allen and Greenough, 4th Declension",
+    "u": "https://dcc.dickinson.edu/grammar/latin/4th-declension-stem-paradigm-and-gender"
+  },
+  "items": [
+    {
+      "c": "manus",
+      "a": "hand",
+      "d": [
+        "foot",
+        "mind"
+      ],
+      "ex": "Manus manum lavat.",
+      "exT": "One hand washes the other."
+    },
+    {
+      "c": "dies",
+      "a": "day",
+      "d": [
+        "night",
+        "hour"
+      ]
+    },
+    {
+      "c": "fides",
+      "a": "faith, trust",
+      "d": [
+        "hope",
+        "doubt"
+      ],
+      "ex": "bona fide",
+      "exT": "in good faith"
+    },
+    {
+      "c": "spes",
+      "a": "hope",
+      "d": [
+        "faith",
+        "fear"
+      ]
+    },
+    {
+      "c": "domus (f)",
+      "a": "house, home",
+      "d": [
+        "master",
+        "garden"
+      ],
+      "ex": "Domus mea est parva.",
+      "exT": "My house is small."
+    },
+    {
+      "c": "exercitus (m)",
+      "a": "army",
+      "d": [
+        "exercise",
+        "camp"
+      ],
+      "ex": "Caesar exercitum ducit.",
+      "exT": "Caesar leads the army."
+    },
+    {
+      "c": "senatus (m)",
+      "a": "senate",
+      "d": [
+        "old age",
+        "people"
+      ]
+    },
+    {
+      "c": "fructus (m)",
+      "a": "fruit; profit",
+      "d": [
+        "grain",
+        "flight"
+      ]
+    },
+    {
+      "c": "spiritus (m)",
+      "a": "breath, spirit",
+      "d": [
+        "blood",
+        "body"
+      ]
+    },
+    {
+      "c": "sensus (m)",
+      "a": "feeling, sense",
+      "d": [
+        "senate",
+        "speech"
+      ]
+    },
+    {
+      "c": "metus (m)",
+      "a": "fear, dread",
+      "d": [
+        "hope",
+        "measure"
+      ]
+    },
+    {
+      "c": "cursus (m)",
+      "a": "course, running",
+      "d": [
+        "chariot",
+        "curse"
+      ]
+    },
+    {
+      "c": "impetus (m)",
+      "a": "attack, charge",
+      "d": [
+        "retreat",
+        "weapon"
+      ]
+    },
+    {
+      "c": "portus (m)",
+      "a": "harbor",
+      "d": [
+        "gate",
+        "ship"
+      ]
+    },
+    {
+      "c": "lacus (m)",
+      "a": "lake",
+      "d": [
+        "sea",
+        "forest"
+      ]
+    },
+    {
+      "c": "cornu (n)",
+      "a": "horn",
+      "d": [
+        "crown",
+        "heart"
+      ]
+    },
+    {
+      "c": "genu (n)",
+      "a": "knee",
+      "d": [
+        "race, kind",
+        "cheek"
+      ]
+    },
+    {
+      "c": "res (f)",
+      "a": "thing, matter",
+      "d": [
+        "king",
+        "day"
+      ]
+    },
+    {
+      "c": "res publica (f)",
+      "a": "the state, the republic",
+      "d": [
+        "the people",
+        "the senate"
+      ],
+      "ex": "res publica Romana",
+      "exT": "the Roman Republic"
+    },
+    {
+      "c": "facies (f)",
+      "a": "face, appearance",
+      "d": [
+        "deed",
+        "torch"
+      ]
+    },
+    {
+      "c": "acies (f)",
+      "a": "battle line; sharp edge",
+      "d": [
+        "army camp",
+        "sharp sword"
+      ]
+    },
+    {
+      "c": "meridies (m)",
+      "a": "noon, midday",
+      "d": [
+        "evening",
+        "midnight"
+      ]
+    },
+    {
+      "c": "manus, ___ (genitive singular)",
+      "a": "manus",
+      "d": [
+        "mani",
+        "manis"
+      ],
+      "ex": "digitus manus",
+      "exT": "a finger of the hand"
+    },
+    {
+      "c": "res, ___ (genitive singular)",
+      "a": "rei",
+      "d": [
+        "rem",
+        "rerum"
+      ],
+      "ex": "causa rei",
+      "exT": "the cause of the thing"
+    },
+    {
+      "c": "exercitus ___ (army of the senate; senatus)",
+      "a": "senatus",
+      "d": [
+        "senati",
+        "senatui"
+      ],
+      "ex": "exercitus senatus",
+      "exT": "the senate's army"
+    },
+    {
+      "c": "multae ___ (res, plural)",
+      "a": "res",
+      "d": [
+        "rei",
+        "rerum"
+      ],
+      "ex": "multae res",
+      "exT": "many things"
+    },
+    {
+      "c": "spes ___ (hope of the republic; res publica)",
+      "a": "rei publicae",
+      "d": [
+        "rem publicam",
+        "res publica"
+      ],
+      "ex": "spes rei publicae",
+      "exT": "the hope of the republic"
+    },
+    {
+      "c": "Video ___ tuam. (facies)",
+      "a": "faciem",
+      "d": [
+        "facies",
+        "faciei"
+      ],
+      "ex": "Video faciem tuam.",
+      "exT": "I see your face."
+    },
+    {
+      "c": "in ___ (in his hand; manus)",
+      "a": "manu",
+      "d": [
+        "manum",
+        "manus"
+      ],
+      "ex": "Gladium in manu tenet.",
+      "exT": "He holds a sword in his hand."
+    }
+  ]
+}

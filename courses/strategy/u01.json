@@ -1,0 +1,58 @@
+{
+  "title": "Sun Tzu: The Art of War",
+  "note": "The Art of War is a short Chinese treatise in thirteen chapters, traditionally credited to the general Sun Tzu. Its core ideas: war is ruinous, so win by planning, knowledge and deception, ideally without battle; avoid the enemy's strength and strike his weakness. Quotations here follow Lionel Giles's 1910 translation.",
+  "src": {"t": "Sun Tzu, The Art of War, tr. Lionel Giles, Project Gutenberg", "u": "https://www.gutenberg.org/ebooks/132"},
+  "items": [
+    {"c": "The Art of War is traditionally attributed to", "a": "Sun Tzu, a Chinese general", "d": ["Confucius, a Chinese philosopher", "Kautilya, an Indian minister"]},
+    {"c": "Number of chapters in The Art of War", "a": "Thirteen", "d": ["Seven", "Twenty-four"]},
+    {"c": "Translator of the 1910 English Art of War", "a": "Lionel Giles", "d": ["J. J. Graham", "W. K. Marriott"]},
+    {"c": "Traditional dating of Sun Tzu", "a": "6th century BCE", "d": ["2nd century CE", "10th century CE"]},
+    {"c": "Sun Tzu's opening claim about the art of war", "a": "It is of vital importance to the State", "d": ["It is a contest of courage alone", "It is a pastime for nobles"], "ex": "\"It is a matter of life and death, a road either to safety or to ruin.\""},
+    {"c": "\"All warfare is based on ___\" (Sun Tzu)", "a": "deception", "d": ["courage", "numbers"]},
+    {"c": "Sun Tzu: when able to attack, we must", "a": "Seem unable", "d": ["Attack at once", "Announce our strength"]},
+    {"c": "Sun Tzu: when we are near, we must", "a": "Make the enemy believe we are far away", "d": ["Make the enemy believe we are near", "Retreat before he sees us"]},
+    {"c": "Sun Tzu's five constant factors", "a": "Moral Law, Heaven, Earth, Commander, Method and discipline", "d": ["Speed, Mass, Surprise, Supply, Morale", "Ruler, Army, People, Treasury, Allies"]},
+    {"c": "Sun Tzu's \"Moral Law\" makes the people", "a": "Be in complete accord with their ruler", "d": ["Fear the enemy's generals", "Obey omens and diviners"]},
+    {"c": "In Sun Tzu, \"Heaven\" signifies", "a": "Night and day, cold and heat, times and seasons", "d": ["The ruler's divine right to rule", "Distances, passes and open ground"]},
+    {"c": "In Sun Tzu, \"Earth\" comprises", "a": "Distances, danger and security, open ground and passes", "d": ["Night and day, heat and cold, seasons", "Ranks, supply roads and military spending"]},
+    {"c": "Sun Tzu's virtues of the Commander", "a": "Wisdom, sincerity, benevolence, courage, strictness", "d": ["Wealth, birth, eloquence, piety, beauty", "Speed, cunning, cruelty, pride, luck"]},
+    {"c": "Sun Tzu's \"Method and discipline\" covers", "a": "Organization, ranks, supply roads and expenditure", "d": ["Seasons, weather and the times", "Wisdom, courage and strictness"]},
+    {"c": "Sun Tzu on the general who wins a battle", "a": "He makes many calculations before it is fought", "d": ["He trusts in omens and spirits", "He makes few plans and improvises"]},
+    {"c": "Sun Tzu on prolonged warfare", "a": "No country has ever benefited from it", "d": ["It builds a nation's strength", "It always favors the defender"]},
+    {"c": "\"Let your great object be victory, not ___\"", "a": "lengthy campaigns", "d": ["easy conquests", "rich plunder"]},
+    {"c": "Why forage on the enemy, per Sun Tzu", "a": "One cartload of his food equals twenty of your own", "d": ["It frightens his farmers into surrender", "It hides the army's route from scouts"], "ex": "Hauling supplies from home over long distances impoverishes the people."},
+    {"c": "Sun Tzu: what is supreme excellence?", "a": "Breaking the enemy's resistance without fighting", "d": ["Winning every battle you fight", "Destroying the enemy's army entirely"]},
+    {"c": "Sun Tzu: the highest form of generalship", "a": "To baulk the enemy's plans", "d": ["To besiege his walled cities", "To attack his army in the field"]},
+    {"c": "Sun Tzu: the worst policy of all", "a": "To besiege walled cities", "d": ["To baulk the enemy's plans", "To prevent his forces from joining"]},
+    {"c": "Sun Tzu: forces ten to the enemy's one", "a": "Surround him", "d": ["Avoid him", "Divide your army in two"]},
+    {"c": "Sun Tzu: if the enemy is in superior strength", "a": "Evade him", "d": ["Attack him at once", "Surround him"]},
+    {"c": "Sun Tzu's \"hobbling the army\"", "a": "A ruler ordering moves the army cannot make", "d": ["A general defying the ruler's orders", "Cutting the enemy's supply roads"]},
+    {"c": "Sun Tzu: he will win who knows", "a": "When to fight and when not to fight", "d": ["How to fight without rest", "How to win the ruler's favor"]},
+    {"c": "\"If you know the enemy and know yourself...\"", "a": "You need not fear the result of a hundred battles", "d": ["You will win without any allies", "You will never need an army"]},
+    {"c": "Sun Tzu: know yourself but not the enemy", "a": "For every victory you will also suffer a defeat", "d": ["You will succumb in every battle", "You need not fear a hundred battles"]},
+    {"c": "Sun Tzu compares military tactics to", "a": "Water", "d": ["A mountain", "A fortress wall"]},
+    {"c": "Like water, an army should", "a": "Avoid what is strong and strike at what is weak", "d": ["Strike the strongest point to prove its power", "Keep one fixed shape in every situation"]},
+    {"c": "Sun Tzu's cheng and ch'i", "a": "Direct and indirect (surprise) forces", "d": ["Attack and defense", "Land and river warfare"], "ex": "Combined, the direct and the indirect give rise to endless maneuvers."},
+    {"c": "Sun Tzu on an opponent of choleric temper", "a": "Seek to irritate him", "d": ["Avoid provoking him", "Offer him gifts"]},
+    {"c": "Sun Tzu: pretend to be weak, that the enemy", "a": "May grow arrogant", "d": ["May grow merciful", "May retreat in fear"]}
+  ],
+  "read": {
+    "title": "Sun Tzu in his own words",
+    "text": [
+      "1. Sun Tzŭ said: The art of war is of vital importance to the State. 2. It is a matter of life and death, a road either to safety or to ruin. Hence it is a subject of inquiry which can on no account be neglected.",
+      "18. All warfare is based on deception.",
+      "19. Hence, when able to attack, we must seem unable; when using our forces, we must seem inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near.",
+      "2. Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy’s resistance without fighting.",
+      "18. Hence the saying: If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat.",
+      "If you know neither the enemy nor yourself, you will succumb in every battle.",
+      "29. Military tactics are like unto water; for water in its natural course runs away from high places and hastens downwards.",
+      "30. So in war, the way is to avoid what is strong and to strike at what is weak.",
+      "32. Therefore, just as water retains no constant shape, so in warfare there are no constant conditions."
+    ],
+    "q": [
+      {"q": "According to the passage, what is supreme excellence in war?", "o": ["Fighting and conquering in every battle", "Breaking the enemy's resistance without fighting", "Making the enemy believe you are near"], "k": 1},
+      {"q": "What happens if you know yourself but not the enemy?", "o": ["You succumb in every battle", "You need not fear a hundred battles", "Each victory is matched by a defeat"], "k": 2},
+      {"q": "What lesson does Sun Tzu draw from water?", "o": ["War has no constant conditions, so avoid strength and strike weakness", "An army should always hold the high ground", "Rivers make the best defensive lines"], "k": 0}
+    ]
+  }
+}

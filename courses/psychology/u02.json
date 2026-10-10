@@ -1,0 +1,61 @@
+{
+  "title": "Biopsychology: neurons and the brain",
+  "note": "Neurons signal electrically within the cell and chemically between cells. An action potential runs down the axon; at the synapse, neurotransmitters cross the gap and bind to receptors. Brain regions specialize, but most behavior depends on many regions working together.",
+  "src": { "t": "OpenStax Psychology 2e, 3.2 Cells of the Nervous System", "u": "https://openstax.org/books/psychology-2e/pages/3-2-cells-of-the-nervous-system" },
+  "items": [
+    { "c": "Dendrites", "a": "Branches that receive signals from other neurons", "d": ["Fiber that carries signals away from the cell body", "Fatty layer that insulates the axon", "Sacs that store neurotransmitters"] },
+    { "c": "Axon", "a": "Fiber that carries the signal away from the cell body", "d": ["Branches that receive signals from other neurons", "Gaps in the insulation along a neuron", "Cell body that holds the nucleus"] },
+    { "c": "Soma", "a": "The cell body, which holds the nucleus", "d": ["The gap between two neurons", "The fatty coating on the axon", "The ending that releases chemicals"] },
+    { "c": "Myelin sheath", "a": "Fatty insulation that speeds signals along the axon", "d": ["Receptor sites on the dendrites", "Fluid that fills the synaptic gap", "Structure that stores neurotransmitters"] },
+    { "c": "Nodes of Ranvier", "a": "Gaps in the myelin along the axon", "d": ["Branches at the end of the dendrites", "Receptors on the cell body", "Sacs of neurotransmitter"], "ex": "The action potential jumps from node to node." },
+    { "c": "Terminal buttons", "a": "Axon endings that release neurotransmitters", "d": ["Branches that receive incoming signals", "Cells that insulate the axon", "Proteins that bind neurotransmitters"] },
+    { "c": "Synaptic cleft", "a": "The tiny gap between communicating neurons", "d": ["The fatty coating around an axon", "The center of the cell body", "The membrane's resting charge"] },
+    { "c": "Glial cells", "a": "Cells that support, insulate and nourish neurons", "d": ["Neurons that carry signals to muscles", "Neurons that carry signals from the senses", "Hormone-releasing cells in the blood"] },
+    { "c": "Resting potential of a neuron", "a": "About -70 mV", "d": ["About +30 mV", "About -55 mV", "About 0 mV"] },
+    { "c": "Charge a neuron must reach to fire", "a": "About -55 mV", "d": ["About -70 mV", "About +30 mV", "About -90 mV"], "ex": "This level is called the threshold of excitation." },
+    { "c": "All-or-none principle", "a": "A neuron fires at full strength or not at all", "d": ["Stronger stimuli make bigger action potentials", "Neurons fire only when all dendrites are active", "Every neuron releases every neurotransmitter"] },
+    { "c": "Reuptake", "a": "Neurotransmitter pumped back into the sending neuron", "d": ["Neurotransmitter binding to a receptor", "Myelin forming around an axon", "A neuron returning to resting potential"] },
+    { "c": "Agonist", "a": "A chemical that mimics a neurotransmitter", "d": ["A chemical that blocks a receptor", "A cell that insulates neurons", "A hormone made by the pituitary"] },
+    { "c": "Antagonist", "a": "A chemical that blocks a neurotransmitter's effect", "d": ["A chemical that mimics a neurotransmitter", "A neuron that carries motor signals", "A gap in the myelin sheath"] },
+    { "c": "Neurotransmitter for muscle action and memory", "a": "Acetylcholine", "d": ["Serotonin", "GABA", "Dopamine"] },
+    { "c": "Main inhibitory neurotransmitter", "a": "GABA", "d": ["Glutamate", "Acetylcholine", "Norepinephrine"] },
+    { "c": "Main excitatory neurotransmitter", "a": "Glutamate", "d": ["GABA", "Serotonin", "Endorphin"] },
+    { "c": "Neurotransmitter central to reward and movement", "a": "Dopamine", "d": ["Serotonin", "GABA", "Glutamate"] },
+    { "c": "Neurotransmitter tied to mood and sleep", "a": "Serotonin", "d": ["Acetylcholine", "Glutamate"] },
+    { "c": "Body's natural pain-relieving chemicals", "a": "Endorphins", "d": ["Glial cells", "Androgens", "Neurotransmitter receptors"] },
+    { "c": "Central nervous system", "a": "The brain and spinal cord", "d": ["Nerves running to muscles and organs", "The endocrine glands", "The sensory organs"] },
+    { "c": "Somatic nervous system", "a": "Carries voluntary movement and sensory signals", "d": ["Controls organs and glands automatically", "Releases hormones into the blood", "Returns the body to calm after stress"] },
+    { "c": "Autonomic nervous system", "a": "Controls organs and glands without conscious effort", "d": ["Carries voluntary movement signals", "Consists of the brain and spinal cord", "Coordinates balance and posture"] },
+    { "c": "Sympathetic nervous system", "a": "Prepares the body for fight or flight", "d": ["Returns the body to resting functions", "Controls voluntary movement", "Relays smells to the cortex"] },
+    { "c": "Parasympathetic nervous system", "a": "Returns the body to calm, everyday functioning", "d": ["Prepares the body for fight or flight", "Sends sensory signals to the brain", "Releases melatonin at night"] },
+    { "c": "Corpus callosum", "a": "Thick band connecting the two hemispheres", "d": ["Outer layer of the cerebrum", "Relay station for the senses", "Structure that controls breathing"] },
+    { "c": "Lobe containing the primary visual cortex", "a": "Occipital lobe", "d": ["Temporal lobe", "Parietal lobe", "Frontal lobe"] },
+    { "c": "Lobe containing the auditory cortex", "a": "Temporal lobe", "d": ["Occipital lobe", "Parietal lobe", "Frontal lobe"] },
+    { "c": "Lobe containing the somatosensory cortex", "a": "Parietal lobe", "d": ["Temporal lobe", "Occipital lobe", "Frontal lobe"], "ex": "It processes touch, temperature and pain." },
+    { "c": "Lobe with the motor and prefrontal cortex", "a": "Frontal lobe", "d": ["Parietal lobe", "Occipital lobe", "Temporal lobe"] },
+    { "c": "Broca's area", "a": "Frontal region for producing speech", "d": ["Temporal region for understanding language", "Occipital region for reading", "Parietal region for touch"] },
+    { "c": "Wernicke's area", "a": "Temporal region for understanding language", "d": ["Frontal region for producing speech", "Midbrain region that makes dopamine", "Hindbrain region for balance"] },
+    { "c": "Thalamus", "a": "Relays all senses except smell to the cortex", "d": ["Forms new long-term memories", "Controls breathing and heart rate", "Coordinates balance and movement"] },
+    { "c": "Hypothalamus", "a": "Regulates hunger, temperature and hormones", "d": ["Relays sensory signals to the cortex", "Coordinates fine movement", "Links the two hemispheres"] },
+    { "c": "Hippocampus", "a": "Key structure for forming new memories", "d": ["Key structure for fear responses", "Key structure for balance", "Key structure for breathing"] },
+    { "c": "Amygdala", "a": "Links emotion, especially fear, to memories", "d": ["Relays vision to the cortex", "Controls heart rate and breathing", "Produces melatonin"] },
+    { "c": "Cerebellum", "a": "Coordinates balance and smooth movement", "d": ["Controls breathing and heart rate", "Regulates hunger and thirst", "Relays senses to the cortex"] },
+    { "c": "Medulla", "a": "Controls breathing, heart rate and blood pressure", "d": ["Coordinates balance and posture", "Forms new explicit memories", "Plans voluntary movement"] },
+    { "c": "Reticular formation", "a": "Regulates sleep, wakefulness and alertness", "d": ["Stores long-term memories", "Produces speech", "Processes color vision"] },
+    { "c": "Brain scan that tracks blood oxygen over time", "a": "fMRI", "d": ["CT", "EEG"], "ex": "fMRI shows which areas grow more active during a task." }
+  ],
+  "read": {
+    "title": "How one neuron talks to the next",
+    "text": [
+      "A neuron at rest holds a small negative charge inside, about -70 millivolts. Signals arriving at its dendrites nudge that charge up or down. If the charge at the start of the axon reaches threshold, about -55 millivolts, the neuron fires an action potential: a brief spike that races down the axon.",
+      "Firing is all-or-none. A stronger stimulus does not make a bigger spike; instead, it makes the neuron fire more often. Myelin, a fatty wrapping made by glial cells, speeds the trip, because the signal jumps between the gaps in the myelin called nodes of Ranvier.",
+      "At the end of the axon, the terminal buttons release neurotransmitters into the synaptic cleft. These chemicals bind to receptors on the next neuron like a key in a lock, making that neuron more or less likely to fire. Glutamate usually excites; GABA usually inhibits.",
+      "The signal must then be cleared. Leftover neurotransmitter is pumped back into the sending neuron, a process called reuptake. Many drugs work at this step, or by mimicking a neurotransmitter (agonists) or blocking its receptor (antagonists)."
+    ],
+    "q": [
+      { "q": "What happens when a stronger stimulus reaches a neuron above threshold?", "o": ["The spike gets taller", "The neuron fires more often", "The myelin thickens", "The resting charge becomes positive"], "k": 1 },
+      { "q": "Why does myelin speed up the signal?", "o": ["It releases extra neurotransmitter", "It lets the signal jump between gaps", "It removes the resting charge"], "k": 1 },
+      { "q": "What is reuptake?", "o": ["Binding of a chemical to a receptor", "Pumping leftover neurotransmitter back into the sender", "Firing of an action potential", "Growth of new dendrites"], "k": 1 }
+    ]
+  }
+}

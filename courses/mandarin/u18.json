@@ -1,0 +1,47 @@
+{
+  "title": "The past: 了, 过 and 没",
+  "note": "Verb + 了 marks a completed action: 我买了一本书. Verb + 过 means you have ever done something: 我去过中国. Negate past actions with 没 (méi) and drop 了: 我没去. Keep 过 in the negative: 我没去过. 不 is not used for past events.",
+  "src": { "t": "Chinese Grammar Wiki: negation of past actions with 没有", "u": "https://resources.allsetlearning.com/chinese/grammar/ASGAUCXK" },
+  "items": [
+    { "c": "了", "r": "le", "a": "marks a completed action or a change", "d": ["marks a question", "marks possession"] },
+    { "c": "过", "r": "guo", "a": "marks past experience (have ever done)", "d": ["marks an action in progress", "marks a future plan"], "ex": "你吃过饺子吗？", "exT": "Have you ever had dumplings?" },
+    { "c": "没", "r": "méi", "a": "did not; have not", "d": ["will not", "do not (habitually)"] },
+    { "c": "已经", "r": "yǐjīng", "a": "already", "d": ["not yet", "just now"], "ex": "他已经走了。", "exT": "He has already left." },
+    { "c": "刚才", "r": "gāngcái", "a": "just now, a moment ago", "d": ["right away, soon", "long ago"] },
+    { "c": "以前", "r": "yǐqián", "a": "before; in the past", "d": ["after; later", "now; these days"] },
+    { "c": "以后", "r": "yǐhòu", "a": "after; later", "d": ["before; earlier", "meanwhile"] },
+    { "c": "去年", "r": "qùnián", "a": "last year", "d": ["next year", "this year"] },
+    { "c": "上个月", "r": "shàng ge yuè", "a": "last month", "d": ["next month", "last week"] },
+    { "c": "上个星期", "r": "shàng ge xīngqī", "a": "last week", "d": ["next week", "last month"] },
+    { "c": "前天", "r": "qiántiān", "a": "the day before yesterday", "d": ["the day after tomorrow", "the other day, recently"] },
+    { "c": "次", "r": "cì", "a": "time, occurrence (measure word)", "d": ["hour (measure word)", "day (measure word)"], "ex": "我去过两次。", "exT": "I've been there twice." },
+    { "c": "完", "r": "wán", "a": "to finish", "d": ["to begin", "to play"] },
+    { "c": "见面", "r": "jiànmiàn", "a": "to meet (each other)", "d": ["to say goodbye", "to call"] },
+    { "c": "长城", "r": "Chángchéng", "a": "the Great Wall", "d": ["the Forbidden City", "the Yangtze River"] },
+    { "c": "我昨天买了一本书。", "r": "Wǒ zuótiān mǎi le yī běn shū.", "a": "I bought a book yesterday.", "d": ["I'll buy a book tomorrow.", "I didn't buy a book yesterday."] },
+    { "c": "我去过中国。", "r": "Wǒ qù guo Zhōngguó.", "a": "I've been to China.", "d": ["I'm going to China.", "I'm in China now."] },
+    { "c": "我没去过上海。", "r": "Wǒ méi qù guo Shànghǎi.", "a": "I've never been to Shanghai.", "d": ["I just came back from Shanghai.", "I don't want to go to Shanghai."] },
+    { "c": "你吃饭了吗？", "r": "Nǐ chīfàn le ma?", "a": "Have you eaten?", "d": ["Do you want to eat?", "Are you eating?"] },
+    { "c": "我还没吃饭。", "r": "Wǒ hái méi chīfàn.", "a": "I haven't eaten yet.", "d": ["I've already eaten.", "I don't eat rice."] },
+    { "c": "我看完了。", "r": "Wǒ kàn wán le.", "a": "I've finished reading it.", "d": ["I haven't started reading it.", "I'm still reading it."] },
+    { "c": "我昨天没去了。", "r": "Wǒ zuótiān méi qù le.", "a": "Wrong: drop 了 after 没", "d": ["Correct as written", "Wrong: use 不 instead of 没"], "ex": "我昨天没去。", "exT": "I didn't go yesterday." },
+    { "c": "我昨天买___一本书。", "r": "Wǒ zuótiān mǎi ___ yī běn shū.", "a": "了", "d": ["着", "吗"] },
+    { "c": "我___去过北京。(never)", "r": "Wǒ ___ qù guo Běijīng.", "a": "没", "d": ["不", "别"], "ex": "我没去过北京。", "exT": "I've never been to Beijing." },
+    { "c": "我去___长城。(have been)", "r": "Wǒ qù ___ Chángchéng.", "a": "过", "d": ["着", "在"] },
+    { "c": "他___走了。(already)", "r": "Tā ___ zǒu le.", "a": "已经", "d": ["正在", "还没"] },
+    { "c": "我___没吃饭。(still)", "r": "Wǒ ___ méi chīfàn.", "a": "还", "d": ["再", "就"] },
+    { "c": "我明天___去学校。(won't)", "r": "Wǒ míngtiān ___ qù xuéxiào.", "a": "不", "d": ["没", "别"] }
+  ],
+  "read": {
+    "title": "去长城",
+    "text": [
+      "上个星期六，我和朋友去了长城。我们早上七点出发，坐了两个小时的车。我以前没去过长城，我朋友已经去过三次了。",
+      "那天天气很好，不冷也不热。我们在长城上走了三个小时，我很累，但是很高兴。中午我们吃了饺子。晚上回家以后，我给妈妈打了电话。"
+    ],
+    "q": [
+      { "q": "How many times had the friend been to the Great Wall before?", "o": ["Never", "Once", "Three times"], "k": 2 },
+      { "q": "How long did they walk on the Wall?", "o": ["Two hours", "Three hours", "All day"], "k": 1 },
+      { "q": "What did the narrator do in the evening?", "o": ["Called Mom", "Ate dumplings", "Went to the library"], "k": 0 }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Suffixes: conditions, procedures and specialties",
+  "note": "A suffix usually tells you what kind of term you have: a condition (-itis, -osis, -megaly), a surgical procedure (-ectomy, -tomy, -stomy, -plasty), a test or instrument (-gram, -graph, -scope), or a field of study (-logy, -logist). Endings such as -al, -ic and -ous simply mean 'pertaining to.'",
+  "src": { "t": "Medical Terminology 2e (Open RN), 1.5 Common Suffixes", "u": "https://med.libretexts.org/Bookshelves/Medicine/Medical_Terminology_2e_(OpenRN)/01%3A_Foundational_Concepts_-_Identifying_Word_Parts/1.05%3A_Common_Suffixes" },
+  "items": [
+    { "c": "-itis", "a": "inflammation", "d": ["enlargement", "softening"], "ex": "Tonsillitis: inflammation of the tonsils." },
+    { "c": "-osis", "a": "abnormal condition", "d": ["surgical repair", "inflammation"], "ex": "Necrosis: condition of tissue death." },
+    { "c": "-megaly", "a": "enlargement", "d": ["hardening", "narrowing"], "ex": "Cardiomegaly: enlarged heart." },
+    { "c": "-algia", "a": "pain", "d": ["paralysis", "bleeding"], "ex": "Neuralgia: nerve pain." },
+    { "c": "-emia", "a": "blood condition", "d": ["urine condition", "breathing condition"], "ex": "Anemia: a deficiency in the blood's red cells or hemoglobin." },
+    { "c": "-oma", "a": "tumor, mass", "d": ["drooping, sagging", "flow, discharge"], "ex": "Lipoma: a fatty tumor." },
+    { "c": "-pathy", "a": "disease", "d": ["study of", "removal"], "ex": "Neuropathy: disease of the nerves." },
+    { "c": "-malacia", "a": "softening", "d": ["hardening", "swelling"], "ex": "Osteomalacia: softening of bone." },
+    { "c": "-sclerosis", "a": "hardening", "d": ["softening", "crushing"], "ex": "Arteriosclerosis: hardening of the arteries." },
+    { "c": "-stenosis", "a": "narrowing, constriction", "d": ["widening, dilation", "rupture, bursting"], "ex": "Aortic stenosis: narrowing of the aortic valve opening." },
+    { "c": "-ectasis", "a": "dilation, expansion", "d": ["narrowing, constriction", "breakdown, destruction"], "ex": "Bronchiectasis: dilation of the bronchi." },
+    { "c": "-rrhea", "a": "flow, discharge", "d": ["suturing", "bursting forth of blood"], "ex": "Rhinorrhea: discharge from the nose." },
+    { "c": "-rrhage", "a": "excessive bleeding, bursting forth", "d": ["flow, discharge", "drooping, prolapse"], "ex": "Hemorrhage: heavy loss of blood." },
+    { "c": "-penia", "a": "deficiency, decrease", "d": ["excess, increase", "formation, production"], "ex": "Leukopenia: too few white blood cells." },
+    { "c": "-plegia", "a": "paralysis", "d": ["weakness", "seizure"], "ex": "Paraplegia: paralysis of the lower body." },
+    { "c": "-ptosis", "a": "drooping, prolapse", "d": ["narrowing", "inflammation"], "ex": "Blepharoptosis: drooping of the eyelid." },
+    { "c": "-lysis", "a": "breakdown, destruction", "d": ["formation, production", "fixation, suspension"], "ex": "Hemolysis: breakdown of red blood cells." },
+    { "c": "-cele", "a": "hernia, protrusion", "d": ["puncture", "stone"], "ex": "A cystocele is a protrusion of the bladder." },
+    { "c": "-ectomy", "a": "surgical removal, excision", "d": ["incision, cutting into", "creation of an opening"], "ex": "Appendectomy: removal of the appendix." },
+    { "c": "-tomy", "a": "incision, cutting into", "d": ["surgical removal, excision", "surgical repair"], "ex": "Craniotomy: incision into the skull." },
+    { "c": "-stomy", "a": "surgical creation of an opening", "d": ["incision, cutting into", "surgical fixation"], "ex": "Colostomy: an opening from the colon to the body surface." },
+    { "c": "-plasty", "a": "surgical repair, reconstruction", "d": ["surgical removal", "visual examination"], "ex": "Rhinoplasty: surgical repair of the nose." },
+    { "c": "-rrhaphy", "a": "suturing", "d": ["bleeding", "crushing"], "ex": "Herniorrhaphy: suture repair of a hernia." },
+    { "c": "-pexy", "a": "surgical fixation, suspension", "d": ["surgical crushing", "surgical puncture"], "ex": "Nephropexy: surgical fixation of a kidney." },
+    { "c": "-centesis", "a": "surgical puncture to remove fluid", "d": ["surgical crushing of a stone", "surgical fixation of an organ"], "ex": "Amniocentesis: removing amniotic fluid with a needle." },
+    { "c": "-tripsy", "a": "crushing", "d": ["suturing", "fusing"], "ex": "Lithotripsy: crushing a stone." },
+    { "c": "-gram", "a": "record, image", "d": ["instrument that records", "process of recording"], "ex": "Mammogram: an X-ray image of the breast." },
+    { "c": "-graph", "a": "instrument that records", "d": ["record, image", "instrument for viewing"], "ex": "An electrocardiograph produces the electrocardiogram." },
+    { "c": "-graphy", "a": "process of recording", "d": ["instrument that records", "process of measuring"], "ex": "Angiography: imaging of blood vessels." },
+    { "c": "-scope", "a": "instrument for viewing", "d": ["process of viewing", "instrument for cutting"], "ex": "An otoscope is used to look into the ear." },
+    { "c": "-scopy", "a": "visual examination", "d": ["instrument for viewing", "surgical repair"], "ex": "Colonoscopy: visual examination of the colon." },
+    { "c": "-meter", "a": "instrument for measuring", "d": ["instrument for cutting", "record, image"], "ex": "A spirometer measures breathing volumes." },
+    { "c": "-logy", "a": "study of", "d": ["specialist in", "disease of"], "ex": "Cardiology: study of the heart." },
+    { "c": "-logist", "a": "specialist in a field of study", "d": ["the field of study itself", "instrument used to view"], "ex": "A dermatologist specializes in the skin." },
+    { "c": "-al, -ic, -ous", "a": "pertaining to", "d": ["inflammation of", "removal of"], "ex": "Cardiac, renal and cutaneous are all adjectives." }
+  ],
+  "read": {
+    "title": "Four families of suffixes",
+    "text": [
+      "The quickest way to get the gist of an unfamiliar term is to look at its ending. Most suffixes fall into a few families, and once you know the family you know what kind of word you are reading.",
+      "Condition suffixes describe a state of the body. Some are general, such as -osis (abnormal condition) and -pathy (disease). Others are specific: -itis is inflammation, -megaly is enlargement, -malacia is softening and -stenosis is narrowing.",
+      "Surgical suffixes describe what a surgeon does, and three of them are easy to mix up. An -ectomy removes something, a -tomy cuts into it, and a -stomy creates a new opening. A -plasty repairs or rebuilds a structure, and a -rrhaphy sutures it.",
+      "Diagnostic suffixes come in sets. A -graph is the instrument that records, the -gram is the record it produces, and -graphy is the process of recording. In the same way, a -scope is the viewing instrument and -scopy is the examination.",
+      "Finally, -logy names a field of study and -logist names the specialist. Adjective endings such as -al, -ic, -ar and -ous add only 'pertaining to.'"
+    ],
+    "q": [
+      { "q": "A procedure that creates a new opening ends in which suffix?", "o": ["-stomy", "-tomy", "-ectomy", "-plasty"], "k": 0 },
+      { "q": "In the -graph, -gram, -graphy set, which one is the record itself?", "o": ["-gram", "-graph", "-graphy"], "k": 0 },
+      { "q": "Which suffix belongs to the condition family?", "o": ["-malacia", "-rrhaphy", "-scope", "-logist"], "k": 0 }
+    ]
+  }
+}

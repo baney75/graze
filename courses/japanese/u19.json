@@ -1,0 +1,334 @@
+{
+  "title": "Weather, nature and seasons",
+  "note": "Past of い-adjectives: drop い, add かったです (寒い → 寒かったです); いい becomes よかったです. Never say 寒いでした. Nouns and な-adjectives use でした (雨でした). Sentence-final ね asks for agreement (\"isn't it?\"); よ tells the listener something new.",
+  "src": {
+    "t": "Tae Kim's Guide: Adjectives (past forms)",
+    "u": "https://guidetojapanese.org/learn/grammar/adjectives"
+  },
+  "items": [
+    {
+      "c": "天気",
+      "r": "tenki",
+      "a": "weather",
+      "d": [
+        "season",
+        "sky"
+      ],
+      "ex": "(てんき) 今日はいい天気ですね。",
+      "exT": "Nice weather today, isn't it?"
+    },
+    {
+      "c": "晴れ",
+      "r": "hare",
+      "a": "sunny weather, clear skies",
+      "d": [
+        "cloudy weather",
+        "rain"
+      ]
+    },
+    {
+      "c": "曇り",
+      "r": "kumori",
+      "a": "cloudy weather",
+      "d": [
+        "sunny weather",
+        "snow"
+      ]
+    },
+    {
+      "c": "雨",
+      "r": "ame",
+      "a": "rain",
+      "d": [
+        "snow",
+        "wind"
+      ]
+    },
+    {
+      "c": "雪",
+      "r": "yuki",
+      "a": "snow",
+      "d": [
+        "rain",
+        "ice"
+      ],
+      "ex": "(ゆき) 雪が降っています。",
+      "exT": "It's snowing."
+    },
+    {
+      "c": "雲",
+      "r": "kumo",
+      "a": "cloud",
+      "d": [
+        "sky",
+        "rain"
+      ]
+    },
+    {
+      "c": "風",
+      "r": "kaze",
+      "a": "wind",
+      "d": [
+        "cloud",
+        "storm"
+      ]
+    },
+    {
+      "c": "暑い",
+      "r": "atsui",
+      "a": "hot (weather)",
+      "d": [
+        "cold (weather)",
+        "hot (to the touch)"
+      ],
+      "ex": "(あつい) 夏は暑いです。",
+      "exT": "Summer is hot."
+    },
+    {
+      "c": "熱い",
+      "r": "atsui",
+      "a": "hot (to the touch)",
+      "d": [
+        "hot (weather)",
+        "cold (to the touch)"
+      ],
+      "ex": "(あつい) このお茶は熱いです。",
+      "exT": "This tea is hot."
+    },
+    {
+      "c": "寒い",
+      "r": "samui",
+      "a": "cold (weather)",
+      "d": [
+        "cold (to the touch)",
+        "cool (weather)"
+      ]
+    },
+    {
+      "c": "冷たい",
+      "r": "tsumetai",
+      "a": "cold (to the touch)",
+      "d": [
+        "cold (weather)",
+        "warm (to the touch)"
+      ]
+    },
+    {
+      "c": "暖かい",
+      "r": "atatakai",
+      "a": "warm (weather)",
+      "d": [
+        "cool (weather)",
+        "hot (to the touch)"
+      ]
+    },
+    {
+      "c": "涼しい",
+      "r": "suzushii",
+      "a": "cool (weather)",
+      "d": [
+        "warm (weather)",
+        "cold (to the touch)"
+      ]
+    },
+    {
+      "c": "春",
+      "r": "haru",
+      "a": "spring",
+      "d": [
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "c": "夏",
+      "r": "natsu",
+      "a": "summer",
+      "d": [
+        "winter",
+        "spring"
+      ]
+    },
+    {
+      "c": "秋",
+      "r": "aki",
+      "a": "autumn, fall",
+      "d": [
+        "spring",
+        "winter"
+      ]
+    },
+    {
+      "c": "冬",
+      "r": "fuyu",
+      "a": "winter",
+      "d": [
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "c": "山",
+      "r": "yama",
+      "a": "mountain",
+      "d": [
+        "river",
+        "sea"
+      ]
+    },
+    {
+      "c": "川",
+      "r": "kawa",
+      "a": "river",
+      "d": [
+        "mountain",
+        "lake"
+      ]
+    },
+    {
+      "c": "海",
+      "r": "umi",
+      "a": "sea, ocean",
+      "d": [
+        "lake",
+        "river"
+      ]
+    },
+    {
+      "c": "空",
+      "r": "sora",
+      "a": "sky",
+      "d": [
+        "cloud",
+        "sea"
+      ]
+    },
+    {
+      "c": "花",
+      "r": "hana",
+      "a": "flower",
+      "d": [
+        "tree",
+        "nose"
+      ]
+    },
+    {
+      "c": "木",
+      "r": "ki",
+      "a": "tree",
+      "d": [
+        "flower",
+        "grass"
+      ]
+    },
+    {
+      "c": "〜ね (end of a sentence)",
+      "r": "ne",
+      "say": "ね",
+      "a": "isn't it? (seeks agreement)",
+      "d": [
+        "you know (tells new information)",
+        "question marker"
+      ]
+    },
+    {
+      "c": "〜よ (end of a sentence)",
+      "r": "yo",
+      "say": "よ",
+      "a": "you know; I tell you (new information)",
+      "d": [
+        "isn't it? (seeks agreement)",
+        "polite question marker"
+      ]
+    },
+    {
+      "c": "雨が降ります。",
+      "r": "Ame ga furimasu.",
+      "a": "It rains. / It will rain.",
+      "d": [
+        "It stopped raining.",
+        "It's not raining."
+      ]
+    },
+    {
+      "c": "昨日は寒かったです。",
+      "r": "Kinō wa samukatta desu.",
+      "a": "It was cold yesterday.",
+      "d": [
+        "It's cold today.",
+        "It wasn't cold yesterday."
+      ]
+    },
+    {
+      "c": "昨日は暑___です。(was hot)",
+      "r": "Kinō wa atsu___ desu.",
+      "a": "かった",
+      "d": [
+        "いでした",
+        "くない"
+      ],
+      "ex": "昨日は暑かったです。",
+      "exT": "It was hot yesterday."
+    },
+    {
+      "c": "天気が___です。(was good)",
+      "r": "Tenki ga ___ desu.",
+      "a": "よかった",
+      "d": [
+        "いかった",
+        "いいでした"
+      ],
+      "ex": "天気がよかったです。",
+      "exT": "The weather was good."
+    },
+    {
+      "c": "昨日は雨___。(was rain)",
+      "r": "Kinō wa ame ___.",
+      "a": "でした",
+      "d": [
+        "かった",
+        "ました"
+      ],
+      "ex": "昨日は雨でした。",
+      "exT": "It rained yesterday."
+    }
+  ],
+  "read": {
+    "title": "日本の 季節",
+    "text": [
+      "日本には 四つの 季節が あります。 春、 夏、 秋、 冬です。",
+      "春は 暖かいです。 きれいな 花が たくさん あります。 夏は とても 暑いです。 雨も 多いです。 わたしは 夏に 海へ 行きます。",
+      "秋は 涼しいです。 山の 木は 赤いです。 とても きれいです。 冬は 寒いです。 北の 町では 雪が たくさん 降ります。",
+      "去年の 冬は とても 寒かったです。 雪も 多かったです。 でも、 雪の 山は きれいでした。 楽しかったです。"
+    ],
+    "q": [
+      {
+        "q": "Which season does the writer describe as warm?",
+        "o": [
+          "Spring",
+          "Autumn",
+          "Winter"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does the writer do in summer?",
+        "o": [
+          "Goes to the mountains",
+          "Goes to the sea",
+          "Goes to Hokkaido"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What was last winter like?",
+        "o": [
+          "Warm and dry",
+          "Rainy but short",
+          "Very cold, with lots of snow"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

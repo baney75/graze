@@ -1,0 +1,15 @@
+{
+  "key": "writing",
+  "name": "Grammar, Writing & Style",
+  "group": "Skills",
+  "tag": "WRITING",
+  "level": "All levels",
+  "blurb": "Write clearly, correctly and well: grammar and agreement, American punctuation, commonly confused words, usage myths, concise and clear sentences, paragraphs, arguments, Strunk's classic rules, and how to revise.",
+  "sources": [
+    { "t": "Purdue Online Writing Lab (OWL), General Writing: Grammar", "u": "https://owl.purdue.edu/owl/general_writing/grammar/index.html" },
+    { "t": "William Strunk Jr., The Elements of Style (1918), Project Gutenberg", "u": "https://www.gutenberg.org/ebooks/37134" },
+    { "t": "Writing for Success, LibreTexts Humanities", "u": "https://human.libretexts.org/Courses/Gateway_Technical_College/Book%3A_Writing_for_Success" },
+    { "t": "Merriam-Webster Dictionary, usage notes", "u": "https://www.merriam-webster.com/dictionary/split%20infinitive" },
+    { "t": "Sentence Clarity (after Joseph M. Williams), Boston University", "u": "https://www.bu.edu/teaching-writing/files/2020/03/Sentence-Clarity-Script.pdf" }
+  ]
+}

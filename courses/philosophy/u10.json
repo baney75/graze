@@ -1,0 +1,50 @@
+{
+  "title": "Kant",
+  "note": "Kant argued that the mind supplies the forms of experience: space, time, and concepts like cause. So we can know some things a priori about appearances, but not things as they are in themselves. In ethics, the moral law is a categorical imperative that reason gives itself, binding all rational beings regardless of their desires.",
+  "src": { "t": "Stanford Encyclopedia of Philosophy, Kant's Moral Philosophy", "u": "https://plato.stanford.edu/entries/kant-moral/" },
+  "items": [
+    { "c": "City where Kant lived and taught", "a": "Königsberg", "d": ["Berlin", "Vienna", "Jena"] },
+    { "c": "Who woke Kant from his 'dogmatic slumber'", "a": "Hume", "d": ["Leibniz", "Descartes", "Locke"] },
+    { "c": "First edition of the Critique of Pure Reason", "a": "1781", "d": ["1741", "1807", "1859"] },
+    { "c": "Analytic judgment, for Kant", "a": "predicate is contained in the subject concept", "d": ["predicate adds to the subject concept", "known only through experience"] },
+    { "c": "Synthetic judgment, for Kant", "a": "predicate adds something beyond the subject", "d": ["predicate is contained in the subject", "denial is self-contradictory"] },
+    { "c": "'All bodies are extended,' for Kant", "a": "analytic", "d": ["synthetic a posteriori", "synthetic a priori"] },
+    { "c": "'7 + 5 = 12,' for Kant", "a": "synthetic a priori", "d": ["analytic a priori", "synthetic a posteriori"] },
+    { "c": "Central question of the first Critique", "a": "how are synthetic a priori judgments possible?", "d": ["does God exist?", "what is the highest good?"] },
+    { "c": "Kant's 'Copernican revolution'", "a": "objects conform to our cognition", "d": ["cognition simply copies objects", "the sun is the center of knowledge"] },
+    { "c": "Kant's forms of intuition", "a": "space and time", "d": ["cause and effect", "substance and accident"] },
+    { "c": "Kant's categories", "a": "pure concepts of the understanding, such as cause", "d": ["classes of physical objects", "kinds of moral duty"] },
+    { "c": "Phenomena, for Kant", "a": "things as they appear to us", "d": ["things as they are in themselves", "ideas with no object"] },
+    { "c": "Noumena, or things in themselves", "a": "things as they are apart from our experience", "d": ["things as they appear to us", "mental images in dreams"] },
+    { "c": "Transcendental idealism", "a": "we know appearances, not things in themselves", "d": ["only minds and ideas exist", "we know things exactly as they are"] },
+    { "c": "'Thoughts without content are empty...'", "a": "'...intuitions without concepts are blind'", "d": ["'...concepts without reason are lost'", "'...reason without faith is dead'"] },
+    { "c": "Antinomies of pure reason", "a": "opposed claims reason seems to prove equally", "d": ["rules for valid syllogisms", "the forms of intuition"] },
+    { "c": "Kant's objection to the ontological argument", "a": "existence is not a real predicate", "d": ["the idea of God is incoherent", "infinite regress is possible"] },
+    { "c": "'I had to deny knowledge to make room for faith'", "a": "Kant, Critique of Pure Reason", "d": ["Kierkegaard, Fear and Trembling", "Pascal, Pensées"] },
+    { "c": "God, freedom, and immortality, for Kant", "a": "postulates of practical reason", "d": ["objects of sense experience", "illusions to be discarded"] },
+    { "c": "The only thing good without qualification", "a": "a good will", "d": ["happiness", "intelligence", "courage"] },
+    { "c": "Hypothetical imperative", "a": "if you want an end, take the means", "d": ["do this whatever you want", "never lie under any conditions"] },
+    { "c": "Kant's universal law formula", "a": "act only on maxims you could will as universal law", "d": ["act to produce the most happiness", "act as a virtuous person would"] },
+    { "c": "Kant's humanity formula", "a": "treat humanity never merely as a means", "d": ["never use anyone in any way", "seek the greatest good for humanity"] },
+    { "c": "Maxim, for Kant", "a": "the personal principle on which one acts", "d": ["a law of nature", "a command from the state"] },
+    { "c": "Acting from duty, for Kant", "a": "doing right out of respect for the moral law", "d": ["doing right because it pays", "doing right from sympathy alone"] },
+    { "c": "Kant on the shopkeeper who is honest for profit", "a": "acts in accord with duty but not from duty", "d": ["acts from duty and earns moral worth", "acts wrongly by seeking profit"] },
+    { "c": "Why a lying promise fails Kant's test", "a": "universalized, it would make promising itself impossible", "d": ["it harms more people than it helps", "God forbids lying"] },
+    { "c": "Autonomy, for Kant", "a": "the will giving the moral law to itself", "d": ["doing whatever one desires", "obeying the state's laws"] },
+    { "c": "Kant's Groundwork appeared in", "a": "1785", "d": ["1651", "1739", "1861"] },
+    { "c": "Kant's Enlightenment motto, sapere aude", "a": "dare to know", "d": ["seize the day", "know thyself"] }
+  ],
+  "read": {
+    "title": "The mind's contribution",
+    "text": [
+      "Hume had shown that experience never reveals necessary connection, yet mathematics and physics seem to give necessary truths about the world. Kant proposed a reversal. Instead of assuming our knowledge must conform to objects, suppose objects as we experience them must conform to the structure of our minds. Space and time are the forms of all our sensing, and concepts like substance and cause are the rules by which understanding organizes what we sense. Because we supply these forms, we can know a priori that every experienced event has a cause.",
+      "The price is a limit. We know things as they appear to us, phenomena, not as they are in themselves. When reason tries to go beyond possible experience, to prove or disprove God, freedom, or the soul's immortality, it reaches no knowledge. Kant said he had to deny knowledge to make room for faith.",
+      "In ethics, Kant held that the moral law does not depend on our desires. Its command is categorical: act only on a maxim you could will as a universal law. The same law demands that we treat every person always as an end, never merely as a means, because rational beings have dignity, not a price."
+    ],
+    "q": [
+      { "q": "What reversal did Kant propose?", "o": ["Objects as experienced conform to the mind's structure", "The mind simply copies objects", "Only objects exist, not minds"], "k": 0 },
+      { "q": "What can reason not reach, according to Kant?", "o": ["Knowledge of things beyond possible experience", "Knowledge of mathematics", "Knowledge that events have causes"], "k": 0 },
+      { "q": "Why must persons be treated as ends?", "o": ["They make us happy", "Rational beings have dignity, not a price", "The law of the state requires it"], "k": 1 }
+    ]
+  }
+}

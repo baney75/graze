@@ -1,0 +1,49 @@
+{
+  "title": "Circular motion and gravitation",
+  "note": "An object moving in a circle at constant speed is still accelerating, toward the center, at a_c = v²/r. Some real force, such as tension, friction, or gravity, must supply this inward net force. Gravity between any two masses follows an inverse-square law, F = Gm₁m₂/r².",
+  "src": { "t": "College Physics 2e, Ch. 6 Uniform Circular Motion and Gravitation", "u": "https://openstax.org/books/college-physics-2e/pages/6-introduction-to-uniform-circular-motion-and-gravitation" },
+  "items": [
+    { "c": "Arc length from angle and radius", "a": "s = rθ, with θ in radians", "d": ["s = r/θ, with θ in radians", "s = rθ, with θ in degrees"] },
+    { "c": "One full revolution in radians", "a": "2π rad", "d": ["π rad", "360 rad", "π/2 rad"] },
+    { "c": "Angular velocity", "a": "ω = Δθ/Δt", "d": ["ω = Δv/Δt", "ω = rΔθ", "ω = Δt/Δθ"] },
+    { "c": "Linear speed from angular speed", "a": "v = rω", "d": ["v = ω/r", "v = rω²", "v = r/ω"] },
+    { "c": "Period of uniform circular motion", "a": "T = 2πr/v", "d": ["T = v/2πr", "T = 2πv/r", "T = πr²/v"] },
+    { "c": "Centripetal acceleration", "a": "a_c = v²/r", "d": ["a_c = v/r", "a_c = v²r", "a_c = r/v²"] },
+    { "c": "Centripetal acceleration in terms of ω", "a": "a_c = rω²", "d": ["a_c = ω²/r", "a_c = rω", "a_c = r²ω"] },
+    { "c": "Direction of centripetal acceleration", "a": "toward the center of the circle", "d": ["away from the center", "along the direction of motion"] },
+    { "c": "Centripetal force", "a": "the net inward force, mv²/r", "d": ["an extra outward force, mv²/r", "the force along the velocity, mv/r"] },
+    { "c": "String breaks while whirling a ball: its path", "a": "a straight line tangent to the circle", "d": ["straight outward along the radius", "a spiral away from the center"] },
+    { "c": "Force that turns a car on a flat curve", "a": "static friction from the road", "d": ["kinetic friction from the road", "the normal force", "centrifugal force"] },
+    { "c": "Ideal banking angle for speed v on radius r", "a": "tan θ = v²/(rg)", "d": ["sin θ = v²/(rg)", "tan θ = rg/v²", "tan θ = v/(rg)"] },
+    { "c": "Centrifugal force", "a": "apparent outward force felt in a rotating frame", "d": ["real outward force that balances gravity", "the inward force on a circling object"] },
+    { "c": "Newton's law of universal gravitation", "a": "F = Gm₁m₂/r²", "d": ["F = Gm₁m₂/r", "F = Gm₁m₂r²", "F = G(m₁ + m₂)/r²"] },
+    { "c": "Universal gravitational constant G", "a": "6.67 × 10⁻¹¹ N·m²/kg²", "d": ["9.80 N·m²/kg²", "6.67 × 10¹¹ N·m²/kg²", "8.99 × 10⁹ N·m²/kg²"] },
+    { "c": "Double the distance: gravitational force becomes", "a": "one-fourth as large", "d": ["one-half as large", "twice as large", "unchanged"] },
+    { "c": "Surface gravity from a planet's mass and radius", "a": "g = GM/R²", "d": ["g = GM/R", "g = GMR²", "g = GR/M"] },
+    { "c": "Earth's mean radius", "a": "about 6.4 × 10⁶ m", "d": ["about 6.4 × 10⁴ m", "about 6.4 × 10⁸ m", "about 1.5 × 10¹¹ m"] },
+    { "c": "Earth's mass", "a": "about 6.0 × 10²⁴ kg", "d": ["about 6.0 × 10²⁰ kg", "about 2.0 × 10³⁰ kg", "about 7.3 × 10²² kg"] },
+    { "c": "Gravitational acceleration at the Moon's surface", "a": "about 1.6 m/s²", "d": ["about 9.8 m/s²", "about 3.7 m/s²", "about 0.16 m/s²"] },
+    { "c": "Why orbiting astronauts feel weightless", "a": "they and their craft are in free fall together", "d": ["there is no gravity at that altitude", "the craft's engines cancel gravity"] },
+    { "c": "Speed of a circular orbit of radius r", "a": "v = √(GM/r)", "d": ["v = √(2GM/r)", "v = GM/r", "v = √(GMr)"] },
+    { "c": "Kepler's first law", "a": "planets orbit in ellipses with the Sun at one focus", "d": ["planets orbit in circles centered on the Sun", "planets orbit in ellipses with the Sun at the center"] },
+    { "c": "Kepler's second law", "a": "a planet sweeps equal areas in equal times", "d": ["a planet moves at constant speed", "a planet covers equal distances in equal times"] },
+    { "c": "Kepler's third law", "a": "T² ∝ r³", "d": ["T ∝ r²", "T³ ∝ r²", "T ∝ r"] },
+    { "c": "A planet's orbital speed is greatest", "a": "nearest the Sun (perihelion)", "d": ["farthest from the Sun (aphelion)", "the same everywhere on its orbit"] },
+    { "c": "Gravitational potential energy at distance r", "a": "U = −GMm/r", "d": ["U = GMm/r²", "U = mgr", "U = −GMm/r²"] },
+    { "c": "Escape speed from a planet's surface", "a": "v = √(2GM/R)", "d": ["v = √(GM/R)", "v = 2GM/R", "v = √(GM/2R)"] },
+    { "c": "Escape speed from Earth", "a": "about 11.2 km/s", "d": ["about 7.9 km/s", "about 3.0 km/s", "about 340 m/s"] }
+  ],
+  "read": {
+    "title": "Falling around the Earth",
+    "text": [
+      "An object moving in a circle at constant speed is accelerating, because its direction keeps changing. That centripetal acceleration points toward the center and equals v²/r. By Newton's second law, something must provide a net inward force of mv²/r. For a car on a flat curve it is static friction; for a ball on a string it is tension; for the Moon it is gravity. If the force disappears, the object continues in a straight line tangent to the circle, not straight outward.",
+      "Newton realized that the force pulling an apple down is the same force holding the Moon in orbit. Every mass attracts every other mass with a force Gm₁m₂/r². The constant G is tiny, 6.67 × 10⁻¹¹ N·m²/kg², which is why we notice gravity only when at least one mass is enormous.",
+      "An orbiting spacecraft is not beyond gravity's reach; at the altitude of the International Space Station, gravity is still about 90% of its surface value. The craft is falling toward Earth the whole time, but it moves sideways fast enough that the surface curves away beneath it. Astronauts feel weightless because they fall along with their ship."
+    ],
+    "q": [
+      { "q": "What path does a whirled ball follow if its string breaks?", "o": ["A straight line tangent to the circle", "A line straight away from the center", "A widening spiral"], "k": 0 },
+      { "q": "Why do astronauts in orbit feel weightless?", "o": ["They fall together with their craft", "There is no gravity in orbit", "The Moon's gravity cancels Earth's"], "k": 0 },
+      { "q": "What supplies the centripetal force for the Moon?", "o": ["Earth's gravity", "Tension", "Static friction"], "k": 0 }
+    ]
+  }
+}

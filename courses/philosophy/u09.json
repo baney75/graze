@@ -1,0 +1,50 @@
+{
+  "title": "Locke, Berkeley, Hume, and empiricism",
+  "note": "Empiricists held that all ideas come from experience. Locke called the newborn mind a blank slate; Berkeley concluded that physical things are collections of ideas, sustained by God's perception; Hume traced causation to habit and argued that reason cannot justify inferences from past to future.",
+  "src": { "t": "Stanford Encyclopedia of Philosophy, David Hume", "u": "https://plato.stanford.edu/entries/hume/" },
+  "items": [
+    { "c": "Locke's image for the mind at birth", "a": "a blank slate (tabula rasa)", "d": ["a block of veined marble", "a theater of perceptions"] },
+    { "c": "Locke's two sources of ideas", "a": "sensation and reflection", "d": ["reason and revelation", "memory and imagination"] },
+    { "c": "Locke's main work on knowledge", "a": "An Essay Concerning Human Understanding", "d": ["A Treatise of Human Nature", "Principles of Human Knowledge"] },
+    { "c": "Locke's primary qualities", "a": "shape, size, motion, solidity, number", "d": ["color, taste, smell, sound", "goodness, beauty, truth"] },
+    { "c": "Locke's secondary qualities", "a": "powers in objects to cause color, taste, sound", "d": ["shape, size, motion, and number", "the essences of things in themselves"] },
+    { "c": "Locke on substance", "a": "an unknown support, 'something I know not what'", "d": ["a bundle of perceptions", "the only thing we know directly"] },
+    { "c": "Locke's criterion of personal identity", "a": "continuity of consciousness, as in memory", "d": ["sameness of body", "sameness of soul-substance"] },
+    { "c": "Thought experiment of the prince and the cobbler", "a": "Locke, on personal identity", "d": ["Hume, on causation", "Berkeley, on matter"] },
+    { "c": "Berkeley's slogan esse est percipi", "a": "to be is to be perceived", "d": ["to be is to think", "to be is to be caused"] },
+    { "c": "Berkeley's immaterialism", "a": "only minds and their ideas exist", "d": ["only matter in motion exists", "minds and matter are equally real"] },
+    { "c": "Characters in Berkeley's Three Dialogues", "a": "Hylas and Philonous", "d": ["Cleanthes and Philo", "Glaucon and Thrasymachus"] },
+    { "c": "For Berkeley, what sustains unperceived things", "a": "God's perception", "d": ["material substance", "our memories of them"] },
+    { "c": "Berkeley's objection to Locke's qualities", "a": "primary qualities are as mind-dependent as secondary", "d": ["secondary qualities exist outside minds", "there are no qualities at all"] },
+    { "c": "Church office Berkeley held", "a": "Anglican Bishop of Cloyne", "d": ["Archbishop of Canterbury", "Bishop of Hippo"] },
+    { "c": "Hume's impressions versus ideas", "a": "ideas are fainter copies of impressions", "d": ["impressions are copies of ideas", "ideas are innate, impressions learned"] },
+    { "c": "Hume's copy principle", "a": "every simple idea copies a prior simple impression", "d": ["every event has a cause", "every idea is innate"] },
+    { "c": "Hume's 'missing shade of blue'", "a": "a possible exception to the copy principle", "d": ["proof that colors are innate", "an example of a miracle"] },
+    { "c": "The two sides of Hume's fork", "a": "relations of ideas and matters of fact", "d": ["mind and body", "faith and reason"] },
+    { "c": "'Three times five is half of thirty,' for Hume", "a": "a relation of ideas", "d": ["a matter of fact", "an impression of reflection"] },
+    { "c": "Hume: origin of the idea of necessary connection", "a": "habit formed by constant conjunction", "d": ["direct perception of causal power", "an innate idea from God"] },
+    { "c": "Hume's billiard balls show we observe", "a": "one event following another, not causal power", "d": ["the force passing between them", "the necessity of their motion"] },
+    { "c": "Why Hume says reason can't justify induction", "a": "any argument would assume nature is uniform", "d": ["the senses always deceive", "God could change the laws"] },
+    { "c": "Hume's view of the self", "a": "a bundle of perceptions, not a substance", "d": ["a thinking substance", "a monad"] },
+    { "c": "Hume's argument on miracles", "a": "no testimony suffices unless its falsehood would be more miraculous", "d": ["miracles are logically impossible", "miracles are proven by any sincere witness"] },
+    { "c": "Skeptic critic of design in Hume's Dialogues", "a": "Philo", "d": ["Cleanthes", "Demea", "Pamphilus"] },
+    { "c": "Design argument's defender in Hume's Dialogues", "a": "Cleanthes", "d": ["Philo", "Demea", "Hylas"] },
+    { "c": "'Reason is... the slave of the passions'", "a": "Hume, A Treatise of Human Nature", "d": ["Locke, Essay", "Berkeley, Principles"] },
+    { "c": "Books Hume would 'commit to the flames'", "a": "those with neither math nor experimental reasoning", "d": ["those that question religion", "those written in Latin"] },
+    { "c": "Hume's view of the basis of morality", "a": "sentiment, not reason alone", "d": ["divine command", "pure reason alone"] },
+    { "c": "Thomas Reid's answer to Hume's skepticism", "a": "philosophy of common sense", "d": ["absolute idealism", "logical positivism"] }
+  ],
+  "read": {
+    "title": "Experience and its limits",
+    "text": [
+      "John Locke argued that there are no innate ideas. The mind begins like blank paper, and every idea comes from sensation of the outer world or reflection on our own mental acts. He distinguished qualities really in bodies, such as shape and motion, from colors and tastes, which are powers in bodies to produce sensations in us.",
+      "George Berkeley pushed further. If shape is known only through sensations, as color is, then shape too exists only in being perceived. Talk of matter existing outside every mind is empty. Things are collections of ideas, and their regular order comes from God, who perceives all things and causes our ideas in us.",
+      "David Hume asked where our idea of cause comes from. When one billiard ball strikes another, we see only one motion followed by another. After seeing such pairs repeatedly, the mind expects the second event when it sees the first, and this felt expectation is the source of our idea of necessary connection. He also argued that no argument can show the future will resemble the past without assuming it. Hume concluded that such beliefs rest on custom, a natural habit we cannot live without, not on reason."
+    ],
+    "q": [
+      { "q": "Why did Berkeley say shape exists only in being perceived?", "o": ["Shape, like color, is known only through sensation", "God told him so", "Shape cannot be measured"], "k": 0 },
+      { "q": "According to Hume, what do we actually observe when billiard balls collide?", "o": ["A necessary force", "One motion followed by another", "A power passing between them"], "k": 1 },
+      { "q": "On what, for Hume, do beliefs about the future rest?", "o": ["Reason", "Custom or habit", "Innate ideas"], "k": 1 }
+    ]
+  }
+}

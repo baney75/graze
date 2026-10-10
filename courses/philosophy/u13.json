@@ -1,0 +1,55 @@
+{
+  "title": "Kierkegaard, Nietzsche, existentialism, analytic philosophy",
+  "note": "Kierkegaard defended passionate, personal faith against Hegel's system. Nietzsche announced the death of God and called for a revaluation of values. Existentialists stressed freedom and responsibility. Analytic philosophers, from Frege and Russell to Wittgenstein, turned to logic and language, while thinkers like Plantinga brought those tools to the philosophy of religion.",
+  "src": { "t": "Stanford Encyclopedia of Philosophy, Existentialism", "u": "https://plato.stanford.edu/entries/existentialism/" },
+  "items": [
+    { "c": "Kierkegaard's three spheres of existence", "a": "aesthetic, ethical, religious", "d": ["reason, spirit, appetite", "thesis, antithesis, synthesis"] },
+    { "c": "Central figure of Fear and Trembling", "a": "Abraham, the knight of faith", "d": ["Socrates, the gadfly", "Job, the patient sufferer"] },
+    { "c": "Pseudonymous author of Fear and Trembling", "a": "Johannes de silentio", "d": ["Johannes Climacus", "Anti-Climacus", "Victor Eremita"] },
+    { "c": "Teleological suspension of the ethical", "a": "a duty to God that overrides universal ethics", "d": ["giving up religion for ethics", "pleasure taking priority over duty"] },
+    { "c": "Kierkegaard's description of anxiety", "a": "the dizziness of freedom", "d": ["the fear of punishment", "the will to power"] },
+    { "c": "System Kierkegaard most attacked", "a": "Hegel's", "d": ["Kant's", "Aquinas's", "Spinoza's"] },
+    { "c": "Nietzsche book that first says 'God is dead'", "a": "The Gay Science", "d": ["The Birth of Tragedy", "Beyond Good and Evil"] },
+    { "c": "Nietzsche's Übermensch, or overman", "a": "an ideal who creates his own values", "d": ["a ruler chosen by the general will", "a saint who denies all desire"] },
+    { "c": "Nietzsche's test of eternal recurrence", "a": "could you will your life to repeat forever?", "d": ["could your maxim be a universal law?", "would you act if never caught?"] },
+    { "c": "Master morality's basic contrast", "a": "good versus bad", "d": ["good versus evil", "pleasure versus pain"] },
+    { "c": "Slave morality's basic contrast", "a": "good versus evil", "d": ["good versus bad", "true versus false"] },
+    { "c": "Ressentiment, in the Genealogy of Morality", "a": "the weak's resentment that revalues values", "d": ["the strong's love of their fate", "the dizziness of freedom"] },
+    { "c": "Nietzsche's amor fati", "a": "love of one's fate", "d": ["fear of death", "love of God"] },
+    { "c": "Nietzsche's perspectivism", "a": "all knowing is from some perspective", "d": ["only one perspective is true", "nothing at all can be known"] },
+    { "c": "'Existence precedes essence'", "a": "Sartre", "d": ["Kierkegaard", "Heidegger", "Nietzsche"] },
+    { "c": "Sartre's bad faith", "a": "self-deception that denies one's freedom", "d": ["breaking a promise", "loss of religious belief"] },
+    { "c": "Sartre: we are 'condemned to be free' means", "a": "we cannot escape responsibility for choosing", "d": ["freedom is a punishment from God", "only prisoners are truly free"] },
+    { "c": "Author of The Second Sex (1949)", "a": "Simone de Beauvoir", "d": ["Hannah Arendt", "Iris Murdoch", "Simone Weil"] },
+    { "c": "Camus's image of the absurd hero", "a": "Sisyphus rolling his boulder", "d": ["Abraham on the mountain", "Prometheus stealing fire"] },
+    { "c": "Heidegger's term for human existence", "a": "Dasein", "d": ["Geist", "Übermensch", "Weltanschauung"] },
+    { "c": "Heidegger's Being and Time appeared in", "a": "1927", "d": ["1807", "1883", "1953"] },
+    { "c": "Founder of phenomenology", "a": "Edmund Husserl", "d": ["Gottlob Frege", "Bertrand Russell", "Martin Buber"] },
+    { "c": "Catholic credited with coining 'existentialism'", "a": "Gabriel Marcel", "d": ["Jacques Maritain", "Blaise Pascal", "G. K. Chesterton"] },
+    { "c": "Frege's Morning Star and Evening Star show", "a": "same reference, different sense", "d": ["different reference, same sense", "names have no meaning"] },
+    { "c": "Russell on 'the present King of France'", "a": "a hidden claim of existence and uniqueness", "d": ["a name for a real person", "a meaningless string of words"] },
+    { "c": "Last proposition of Wittgenstein's Tractatus", "a": "whereof one cannot speak, one must be silent", "d": ["the meaning of a word is its use", "the world is all that is the case"] },
+    { "c": "Picture theory of the Tractatus", "a": "propositions picture possible states of affairs", "d": ["words get meaning from use", "images in the mind give meaning"] },
+    { "c": "Later Wittgenstein on meaning", "a": "meaning is use in a language-game", "d": ["meaning is the object named", "meaning is a private mental image"] },
+    { "c": "Wittgenstein's family resemblance", "a": "overlapping similarities with no single essence", "d": ["a shared essence defining a kind", "the bond between parents and children"] },
+    { "c": "Wittgenstein's private language argument", "a": "meaning needs public criteria of correctness", "d": ["each mind has its own language", "language is innate"] },
+    { "c": "Logical positivists' verification principle", "a": "meaningful only if empirically verifiable or analytic", "d": ["true only if it is useful", "meaningful only if believed"] },
+    { "c": "Gettier cases show", "a": "justified true belief may fall short of knowledge", "d": ["knowledge needs no justification", "all beliefs are uncertain"] },
+    { "c": "Plantinga's reformed epistemology", "a": "belief in God can be properly basic", "d": ["belief in God needs proof from science", "belief in God is meaningless"] },
+    { "c": "Plantinga's free will defense", "a": "God and evil are consistent given free creatures", "d": ["evil is an illusion", "God is not all-powerful"] }
+  ],
+  "read": {
+    "title": "The single individual and the limits of language",
+    "text": [
+      "In the nineteenth century, Hegel built a vast system in which history unfolds as reason coming to know itself. Søren Kierkegaard protested that no system can live a human life. Truth that matters most must be appropriated by a particular person in passion and decision. In Fear and Trembling he pictures Abraham, who trusts God's promise even when commanded to give up Isaac, as a knight of faith whose relation to God cannot be reduced to universal ethical rules.",
+      "Friedrich Nietzsche drew the opposite conclusion about religion. Declaring that God is dead, he meant that belief in God had lost its cultural authority, and he warned that the morality built on it would collapse too. He hoped for new values that affirm life.",
+      "Twentieth-century existentialists such as Sartre held that humans have no fixed nature given in advance; we define ourselves by our choices and are responsible for them. Others, like Gabriel Marcel, developed existential themes within Christian faith.",
+      "Meanwhile analytic philosophers turned to logic and language. Wittgenstein first argued that sentences picture facts, then later that meaning lies in the use of words within shared forms of life."
+    ],
+    "q": [
+      { "q": "What was Kierkegaard's complaint about Hegel's system?", "o": ["No system can live a human life", "It ignored logic", "It was too religious"], "k": 0 },
+      { "q": "What did Nietzsche mean by 'God is dead'?", "o": ["Belief in God had lost its cultural authority", "God had been proven not to exist by science", "Christianity had never been believed"], "k": 0 },
+      { "q": "How did the later Wittgenstein locate meaning?", "o": ["In mental pictures", "In the use of words in shared life", "In logical atoms"], "k": 1 }
+    ]
+  }
+}

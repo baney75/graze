@@ -1,0 +1,306 @@
+{
+  "title": "Stereochemistry",
+  "note": "Rank the four groups on a stereocenter by atomic number (Cahn–Ingold–Prelog). With the lowest-priority group pointing away, 1→2→3 clockwise is R and counterclockwise is S. Enantiomers differ at every stereocenter; diastereomers differ at some but not all. For alkenes, Z means the higher-priority groups are on the same side.",
+  "src": {
+    "t": "LibreTexts, Organic Chemistry (Morsch et al.), Ch. 5 Stereochemistry at Tetrahedral Centers",
+    "u": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/05%3A_Stereochemistry_at_Tetrahedral_Centers"
+  },
+  "items": [
+    {
+      "c": "Chiral (molecule)",
+      "a": "not superimposable on its mirror image",
+      "d": [
+        "identical to its mirror image",
+        "containing a double bond"
+      ]
+    },
+    {
+      "c": "Chiral center",
+      "a": "carbon bearing four different groups",
+      "d": [
+        "carbon bearing two identical groups",
+        "any sp² carbon"
+      ]
+    },
+    {
+      "c": "Enantiomers",
+      "a": "non-superimposable mirror images",
+      "d": [
+        "stereoisomers that are not mirror images",
+        "same formula, different connectivity"
+      ]
+    },
+    {
+      "c": "Diastereomers",
+      "a": "stereoisomers that are not mirror images",
+      "d": [
+        "non-superimposable mirror images",
+        "different conformations of one molecule"
+      ]
+    },
+    {
+      "c": "Meso compound",
+      "a": "has stereocenters but is achiral",
+      "d": [
+        "has one stereocenter and is chiral",
+        "a 50:50 mix of enantiomers"
+      ]
+    },
+    {
+      "c": "What makes most meso compounds achiral",
+      "a": "an internal mirror plane",
+      "d": [
+        "a single stereocenter",
+        "a double bond"
+      ]
+    },
+    {
+      "c": "Is 2-butanol chiral?",
+      "a": "yes; C2 bears four different groups",
+      "d": [
+        "no; it has a mirror plane",
+        "no; it has no stereocenter"
+      ]
+    },
+    {
+      "c": "Is 2-propanol chiral?",
+      "a": "no; C2 has two identical CH₃ groups",
+      "d": [
+        "yes; C2 bears four different groups",
+        "yes; the OH makes it chiral"
+      ]
+    },
+    {
+      "c": "Cahn–Ingold–Prelog priority is based on",
+      "a": "atomic number of attached atoms",
+      "d": [
+        "the size of the whole group",
+        "the number of hydrogens"
+      ]
+    },
+    {
+      "c": "Highest priority: –OH, –NH₂, –CH₃ or –H?",
+      "a": "–OH",
+      "d": [
+        "–NH₂",
+        "–CH₃"
+      ]
+    },
+    {
+      "c": "Higher priority: –CH₂OH or –CH(CH₃)₂?",
+      "a": "–CH₂OH; O outranks C",
+      "d": [
+        "–CH(CH₃)₂; it has more carbons",
+        "they tie"
+      ]
+    },
+    {
+      "c": "Higher priority: –CHO or –CH₂OH?",
+      "a": "–CHO; C=O counts as two O's",
+      "d": [
+        "–CH₂OH; it has more H's",
+        "they tie"
+      ]
+    },
+    {
+      "c": "1→2→3 clockwise, lowest priority away",
+      "a": "R",
+      "d": [
+        "S",
+        "Z"
+      ]
+    },
+    {
+      "c": "1→2→3 counterclockwise, lowest priority away",
+      "a": "S",
+      "d": [
+        "R",
+        "E"
+      ]
+    },
+    {
+      "c": "Assigning R/S with lowest priority toward you",
+      "a": "reverse the apparent direction",
+      "d": [
+        "keep the apparent direction",
+        "the center cannot be assigned"
+      ]
+    },
+    {
+      "c": "Swapping any two groups on a stereocenter",
+      "a": "inverts it (R becomes S)",
+      "d": [
+        "leaves it unchanged",
+        "makes it meso"
+      ]
+    },
+    {
+      "c": "Maximum stereoisomers with n stereocenters",
+      "a": "2ⁿ",
+      "d": [
+        "2n",
+        "n²"
+      ]
+    },
+    {
+      "c": "Number of stereoisomers of tartaric acid",
+      "a": "three: two enantiomers and a meso form",
+      "d": [
+        "four: two pairs of enantiomers",
+        "two: one pair of enantiomers"
+      ]
+    },
+    {
+      "c": "Physical properties of two enantiomers",
+      "a": "identical, except sign of optical rotation",
+      "d": [
+        "different boiling and melting points",
+        "different molecular masses"
+      ]
+    },
+    {
+      "c": "Physical properties of two diastereomers",
+      "a": "different (bp, mp, solubility)",
+      "d": [
+        "identical in every way",
+        "identical except optical rotation"
+      ]
+    },
+    {
+      "c": "Racemic mixture",
+      "a": "50:50 enantiomers; no net rotation",
+      "d": [
+        "a single pure enantiomer",
+        "50:50 mixture of diastereomers"
+      ]
+    },
+    {
+      "c": "Dextrorotatory (+) compound",
+      "a": "rotates plane-polarized light clockwise",
+      "d": [
+        "rotates plane-polarized light counterclockwise",
+        "always has the R configuration"
+      ]
+    },
+    {
+      "c": "Does R always mean (+) rotation?",
+      "a": "no; R/S and +/− are unrelated",
+      "d": [
+        "yes; R is always (+)",
+        "only for alcohols"
+      ]
+    },
+    {
+      "c": "Enantiomeric excess of a 75:25 mixture",
+      "a": "50%",
+      "d": [
+        "75%",
+        "25%"
+      ]
+    },
+    {
+      "c": "Epimers",
+      "a": "diastereomers that differ at one stereocenter",
+      "d": [
+        "enantiomers with one stereocenter",
+        "conformers of a sugar ring"
+      ]
+    },
+    {
+      "c": "Fischer projection: horizontal lines point",
+      "a": "toward the viewer",
+      "d": [
+        "away from the viewer",
+        "in the plane of the page"
+      ]
+    },
+    {
+      "c": "Why an amine RR′R″N usually cannot be resolved",
+      "a": "rapid pyramidal inversion at nitrogen",
+      "d": [
+        "nitrogen cannot be a stereocenter",
+        "amines are always meso"
+      ]
+    },
+    {
+      "c": "Resolving a racemic carboxylic acid usually uses",
+      "a": "a chiral amine to form separable salts",
+      "d": [
+        "distillation of the enantiomers",
+        "an achiral base such as NaOH"
+      ]
+    },
+    {
+      "c": "Condition for E/Z isomers of an alkene",
+      "a": "each sp² carbon has two different groups",
+      "d": [
+        "both carbons carry identical groups",
+        "the alkene is terminal"
+      ]
+    },
+    {
+      "c": "Z alkene",
+      "a": "higher-priority groups on the same side",
+      "d": [
+        "higher-priority groups on opposite sides",
+        "any alkene with a ring"
+      ]
+    },
+    {
+      "c": "E alkene",
+      "a": "higher-priority groups on opposite sides",
+      "d": [
+        "higher-priority groups on the same side",
+        "any terminal alkene"
+      ]
+    },
+    {
+      "c": "cis- and trans-2-butene are",
+      "a": "diastereomers",
+      "d": [
+        "enantiomers",
+        "constitutional isomers"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Left hands and right hands",
+    "text": [
+      "A molecule is chiral when it cannot be superimposed on its mirror image, the way a left hand cannot fit a right glove. The usual cause is a carbon with four different groups. 2-Butanol has such a carbon; 2-propanol does not, because its central carbon carries two identical methyl groups.",
+      "To label a stereocenter, rank its groups by the atomic number of the atom directly attached. If two atoms tie, move outward until a difference appears, and count each double bond as two single bonds to that atom. Point the lowest-priority group away from you and trace 1 to 2 to 3. Clockwise is R, counterclockwise is S. These labels describe geometry only; they do not predict whether a sample rotates light clockwise (+) or counterclockwise (−).",
+      "Mirror-image stereoisomers are enantiomers. They have identical melting points and solubilities, and they differ only in how they interact with polarized light and other chiral things, such as enzymes. Stereoisomers that are not mirror images are diastereomers, and they have different physical properties. A molecule with two stereocenters can have up to four stereoisomers, but tartaric acid has only three: its R,S form contains a mirror plane and is an achiral meso compound."
+    ],
+    "q": [
+      {
+        "q": "Why is 2-propanol not chiral?",
+        "o": [
+          "It has no oxygen",
+          "It is a meso compound",
+          "It rotates light",
+          "Its central carbon has two identical groups"
+        ],
+        "k": 3
+      },
+      {
+        "q": "What does the R or S label tell you about optical rotation?",
+        "o": [
+          "Nothing; they are unrelated",
+          "R is always (+)",
+          "S is always (+)",
+          "R means no rotation"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why does tartaric acid have only three stereoisomers?",
+        "o": [
+          "It has only one stereocenter",
+          "One form is an achiral meso compound",
+          "Its enantiomers are identical",
+          "It has a double bond"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

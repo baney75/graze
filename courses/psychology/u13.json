@@ -1,0 +1,61 @@
+{
+  "title": "Social psychology",
+  "note": "Social psychology studies how other people and the situation shape what we think, feel and do. A recurring lesson is that situations are more powerful than we expect: ordinary people conform, obey and fail to help under the right pressures, while we tend to blame other people's behavior on their character.",
+  "src": { "t": "OpenStax Psychology 2e, 12.4 Conformity, Compliance, and Obedience", "u": "https://openstax.org/books/psychology-2e/pages/12-4-conformity-compliance-and-obedience" },
+  "items": [
+    { "c": "Social psychology", "a": "Study of how others and situations shape individuals", "d": ["Study of how neurons transmit signals", "Study of change across the lifespan", "Study of inborn temperament"] },
+    { "c": "Situationism", "a": "Behavior is shaped mainly by the immediate situation", "d": ["Behavior is shaped mainly by inner traits", "Behavior is shaped mainly by genes", "Behavior is random and unpredictable"] },
+    { "c": "Dispositional attribution", "a": "Explaining behavior by a person's traits", "d": ["Explaining behavior by the situation", "Explaining behavior by luck", "Explaining behavior by the weather"] },
+    { "c": "Fundamental attribution error", "a": "Overweighting traits and underweighting situations for others", "d": ["Blaming your failures on the situation", "Believing people get what they deserve", "Preferring your own group"] },
+    { "c": "Where the attribution error is strongest", "a": "Individualistic cultures", "d": ["Collectivistic cultures", "All cultures equally", "Cultures with no written language"] },
+    { "c": "Actor-observer bias", "a": "Situations explain my acts; traits explain yours", "d": ["Traits explain my acts; situations explain yours", "Success is mine, failure is the world's", "Everyone gets what they deserve"] },
+    { "c": "Self-serving bias", "a": "Crediting yourself for success, blaming situations for failure", "d": ["Blaming yourself for every failure", "Crediting luck for all your successes", "Assuming others think like you"] },
+    { "c": "Just-world hypothesis", "a": "Belief that people get what they deserve", "d": ["Belief that luck decides everything", "Belief that groups decide better than individuals", "Belief that the situation explains all behavior"], "ex": "It can lead people to blame victims." },
+    { "c": "Social norm", "a": "A group's expectations for appropriate behavior", "d": ["A person's stable personality trait", "A belief about a whole group", "A shortcut for estimating odds"] },
+    { "c": "Stanford prison experiment (Zimbardo, 1971)", "a": "Ended after six days as guards grew abusive", "d": ["Ran for two full years without problems", "Found that roles have no effect on behavior", "Showed that prisoners became the guards' leaders"] },
+    { "c": "Attitude", "a": "An evaluation of a person, idea or object", "d": ["A belief that cannot change", "A reflex triggered by others", "A trait inherited from parents"] },
+    { "c": "Three components of an attitude (ABC)", "a": "Affective, behavioral and cognitive", "d": ["Attention, belief and conformity", "Arousal, bias and control", "Anchor, base rate and choice"] },
+    { "c": "Cognitive dissonance", "a": "Discomfort from holding inconsistent beliefs or acts", "d": ["Pleasure from agreeing with a group", "Confusion caused by a noisy room", "Stress from too many choices"] },
+    { "c": "Festinger-Carlsmith: who liked the dull task?", "a": "Those paid $1 to praise it", "d": ["Those paid $20 to praise it", "Those paid nothing and told nothing", "Both paid groups equally"], "ex": "A tiny payment could not justify the lie, so attitudes shifted instead." },
+    { "c": "Effort justification", "a": "Valuing something more because it cost effort", "d": ["Working less in a large group", "Giving reasons for a choice afterward", "Agreeing to a small favor first"] },
+    { "c": "Central route to persuasion", "a": "Persuasion through strong arguments and evidence", "d": ["Persuasion through celebrity appeal", "Persuasion through repetition alone", "Persuasion through catchy music"], "ex": "It tends to produce more lasting attitude change." },
+    { "c": "Peripheral route to persuasion", "a": "Persuasion through cues like attractiveness or mood", "d": ["Persuasion through careful data", "Persuasion through logical debate", "Persuasion through personal experience"] },
+    { "c": "Foot-in-the-door technique", "a": "A small request first makes a large one more likely", "d": ["A huge request first makes a smaller one likely", "A gift first makes people feel obligated", "A deadline makes people decide quickly"] },
+    { "c": "Door-in-the-face technique", "a": "A large refused request makes a smaller one likely", "d": ["A small request first makes a large one likely", "A scarce item seems more valuable", "An expert's backing raises compliance"] },
+    { "c": "Asch: share who conformed at least once", "a": "About 76%", "d": ["About 5%", "About 35%", "About 99%"] },
+    { "c": "Effect of one dissenter in Asch's studies", "a": "Conformity dropped sharply", "d": ["Conformity doubled", "Conformity did not change", "Participants left the study"] },
+    { "c": "Normative social influence", "a": "Going along with a group to be accepted", "d": ["Going along because the group seems correct", "Obeying a legitimate authority", "Working less when effort is pooled"] },
+    { "c": "Informational social influence", "a": "Going along because the group seems to know best", "d": ["Going along to avoid being rejected", "Doing more work when watched", "Feeling anonymous in a crowd"], "ex": "It is strongest when a situation is ambiguous." },
+    { "c": "Milgram: share who went to the maximum 450 volts", "a": "About 65%", "d": ["About 1%", "About 25%", "About 95%"] },
+    { "c": "Milgram variation that cut obedience most", "a": "Experimenter gave orders by phone", "d": ["Study moved to an office building", "Experimenter wore a lab coat", "Learner stayed in another room"], "ex": "Obedience fell to about 23%." },
+    { "c": "Groupthink", "a": "Seeking group harmony at the cost of critical thinking", "d": ["A group's views becoming more extreme", "Working harder when others watch", "Losing self-awareness in a crowd"] },
+    { "c": "Group polarization", "a": "Discussion strengthens a group's initial leaning", "d": ["Discussion moves a group to the middle", "Groups always choose the safest option", "Members drop out of the group"] },
+    { "c": "Social facilitation", "a": "Better performance on easy tasks when others watch", "d": ["Worse performance on easy tasks when watched", "Less effort on pooled group tasks", "Copying the choices of a crowd"] },
+    { "c": "Social loafing", "a": "Less individual effort when work is pooled", "d": ["More effort when others are watching", "Following a leader without question", "Helping a stranger in need"] },
+    { "c": "Deindividuation", "a": "Loss of self-awareness and restraint in an anonymous group", "d": ["Greater self-awareness in front of a mirror", "Belief in your own uniqueness", "Leaving a group to stand alone"] },
+    { "c": "Stereotype, prejudice, discrimination", "a": "Belief, feeling and action toward a group", "d": ["Action, belief and feeling toward a group", "Feeling, action and belief toward a group", "Three words for the same thing"] },
+    { "c": "In-group bias", "a": "Favoring the group you belong to", "d": ["Favoring groups you do not belong to", "Treating every group equally", "Blaming yourself for a group's failure"] },
+    { "c": "Scapegoating", "a": "Blaming an out-group for your group's frustrations", "d": ["Favoring your own group's members", "Expecting a group to fail", "Copying a group's behavior"] },
+    { "c": "Self-fulfilling prophecy", "a": "An expectation that causes itself to come true", "d": ["An expectation that is always false", "A prediction made after the outcome", "A belief that people deserve their fate"] },
+    { "c": "Bystander effect", "a": "Each person is less likely to help when others are present", "d": ["People help more when in large crowds", "Bystanders always intervene quickly", "Victims refuse help from strangers"] },
+    { "c": "Diffusion of responsibility", "a": "Feeling less personal duty to act when others are present", "d": ["Feeling more duty when alone with others", "Spreading blame onto an out-group", "Sharing credit for a group success"] },
+    { "c": "Instrumental aggression", "a": "Harm used as a means to reach a goal", "d": ["Harm driven by anger itself", "Harm done by accident", "Harm caused by a crowd"] },
+    { "c": "Altruism", "a": "Helping others even when it costs you", "d": ["Helping only for a reward", "Helping only people you know", "Refusing to help strangers"] },
+    { "c": "Mere exposure effect", "a": "Liking something more after repeated exposure", "d": ["Tiring of something after one exposure", "Preferring things that are rare", "Disliking anything new"] },
+    { "c": "Sternberg's consummate love", "a": "Intimacy, passion and commitment together", "d": ["Passion alone", "Commitment alone", "Intimacy and commitment only"] }
+  ],
+  "read": {
+    "title": "The power of the situation",
+    "text": [
+      "In the 1950s Solomon Asch asked people to match the length of a line, a task with an obvious answer. Each real participant sat with actors who, on some trials, all gave the same wrong answer. About three quarters of participants conformed at least once. The task was clear, so this was mostly normative influence: people went along to avoid standing out. When even one other person broke from the group, conformity dropped sharply.",
+      "A decade later Stanley Milgram asked participants to give a 'learner' electric shocks of rising strength whenever he made a mistake. The learner was an actor and no real shocks were delivered, but participants did not know that. About 65 percent continued to the maximum of 450 volts at the experimenter's urging. Obedience fell when the experimenter gave orders by phone or when the learner was close by.",
+      "Neither study shows that people are weak or cruel. They show how strongly a situation can shape behavior, more strongly than most of us predict. That is also why we commit the fundamental attribution error, blaming other people's actions on their character while overlooking the pressures they faced.",
+      "The lesson is practical. Knowing these pressures exist makes it easier to be the one dissenter, the one who asks a question, or the bystander who steps in."
+    ],
+    "q": [
+      { "q": "Why was conformity in Asch's study mostly normative?", "o": ["The task was ambiguous", "The answer was obvious, so people went along to fit in", "Participants were paid to agree", "The actors were experts"], "k": 1 },
+      { "q": "What reduced obedience in Milgram's research?", "o": ["Using larger shocks", "The experimenter giving orders by phone", "Telling participants the shocks were real"], "k": 1 },
+      { "q": "According to the reading, these studies mainly show that", "o": ["Most people are cruel", "Situations shape behavior more than we expect", "Conformity never happens in private", "Traits explain all behavior"], "k": 1 }
+    ]
+  }
+}

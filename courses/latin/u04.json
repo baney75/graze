@@ -1,0 +1,280 @@
+{
+  "title": "Numbers and counting",
+  "note": "Only unus, duo and tres change form to match their noun (unus, una, unum; duo, duae, duo; tres, tria); quattuor to centum never change. Roman numerals: I 1, V 5, X 10, L 50, C 100, D 500, M 1000; a smaller numeral before a larger one subtracts: IV is 4, XC is 90.",
+  "src": {
+    "t": "D'Ooge, Latin for Beginners, Lessons LVIII-LIX: Numerals",
+    "u": "https://www.gutenberg.org/ebooks/18251"
+  },
+  "items": [
+    {
+      "c": "unus",
+      "a": "one",
+      "d": [
+        "two",
+        "eleven"
+      ],
+      "ex": "unus vir",
+      "exT": "one man"
+    },
+    {
+      "c": "duo",
+      "a": "two",
+      "d": [
+        "twelve",
+        "three"
+      ]
+    },
+    {
+      "c": "tres",
+      "a": "three",
+      "d": [
+        "thirteen",
+        "thirty"
+      ],
+      "ex": "Tres puellae cantant.",
+      "exT": "Three girls are singing."
+    },
+    {
+      "c": "quattuor",
+      "a": "four",
+      "d": [
+        "forty",
+        "fourteen"
+      ]
+    },
+    {
+      "c": "quinque",
+      "a": "five",
+      "d": [
+        "fifteen",
+        "fifty"
+      ]
+    },
+    {
+      "c": "sex",
+      "a": "six",
+      "d": [
+        "sixteen",
+        "seven"
+      ]
+    },
+    {
+      "c": "septem",
+      "a": "seven",
+      "d": [
+        "six",
+        "seventeen"
+      ],
+      "ex": "September erat mensis septimus.",
+      "exT": "September was the seventh month."
+    },
+    {
+      "c": "octo",
+      "a": "eight",
+      "d": [
+        "eighty",
+        "eighteen"
+      ]
+    },
+    {
+      "c": "novem",
+      "a": "nine",
+      "d": [
+        "new",
+        "ten"
+      ]
+    },
+    {
+      "c": "decem",
+      "a": "ten",
+      "d": [
+        "twelve",
+        "nine"
+      ],
+      "ex": "Decem amicos habeo.",
+      "exT": "I have ten friends."
+    },
+    {
+      "c": "undecim",
+      "a": "eleven",
+      "d": [
+        "twelve",
+        "one"
+      ]
+    },
+    {
+      "c": "duodecim",
+      "a": "twelve",
+      "d": [
+        "twenty",
+        "eleven"
+      ]
+    },
+    {
+      "c": "viginti",
+      "a": "twenty",
+      "d": [
+        "twelve",
+        "thirty"
+      ]
+    },
+    {
+      "c": "centum",
+      "a": "a hundred",
+      "d": [
+        "a thousand",
+        "ten"
+      ],
+      "ex": "centum milites",
+      "exT": "a hundred soldiers"
+    },
+    {
+      "c": "mille",
+      "a": "a thousand",
+      "d": [
+        "a hundred",
+        "a million"
+      ],
+      "ex": "mille passus",
+      "exT": "a thousand paces (a Roman mile)"
+    },
+    {
+      "c": "primus, prima, primum",
+      "a": "first",
+      "d": [
+        "second",
+        "one"
+      ]
+    },
+    {
+      "c": "secundus, secunda, secundum",
+      "a": "second",
+      "d": [
+        "first",
+        "third"
+      ]
+    },
+    {
+      "c": "tertius, tertia, tertium",
+      "a": "third",
+      "d": [
+        "second",
+        "thirty"
+      ]
+    },
+    {
+      "c": "Quot?",
+      "a": "How many?",
+      "d": [
+        "How much?",
+        "Which one?"
+      ],
+      "ex": "Quot sunt?",
+      "exT": "How many are there?"
+    },
+    {
+      "c": "___ puella (unus)",
+      "a": "una",
+      "d": [
+        "unus",
+        "unum"
+      ],
+      "ex": "una puella",
+      "exT": "one girl"
+    },
+    {
+      "c": "___ puellae (duo)",
+      "a": "duae",
+      "d": [
+        "duo",
+        "duos"
+      ],
+      "ex": "duae puellae",
+      "exT": "two girls"
+    },
+    {
+      "c": "___ dona (tres)",
+      "a": "tria",
+      "d": [
+        "tres",
+        "tribus"
+      ],
+      "ex": "tria dona",
+      "exT": "three gifts"
+    },
+    {
+      "c": "XL (Roman numeral)",
+      "a": "40",
+      "d": [
+        "60",
+        "90"
+      ]
+    },
+    {
+      "c": "IX (Roman numeral)",
+      "a": "9",
+      "d": [
+        "11",
+        "4"
+      ]
+    },
+    {
+      "c": "MCM (Roman numeral)",
+      "a": "1900",
+      "d": [
+        "2100",
+        "1100"
+      ]
+    },
+    {
+      "c": "D (Roman numeral)",
+      "a": "500",
+      "d": [
+        "50",
+        "1000"
+      ]
+    },
+    {
+      "c": "nihil",
+      "a": "nothing",
+      "d": [
+        "no one",
+        "never"
+      ],
+      "ex": "Nihil timeo.",
+      "exT": "I fear nothing."
+    },
+    {
+      "c": "annus (m)",
+      "a": "year",
+      "d": [
+        "month",
+        "day"
+      ]
+    },
+    {
+      "c": "Quot annos natus es?",
+      "a": "How old are you? (to a male)",
+      "d": [
+        "How many years did you work?",
+        "When were you born?"
+      ]
+    },
+    {
+      "c": "Viginti annos natus sum.",
+      "a": "I am twenty years old.",
+      "d": [
+        "I have worked for twenty years.",
+        "I am twelve years old."
+      ]
+    },
+    {
+      "c": "Sex et quattuor sunt decem.",
+      "a": "Six and four are ten.",
+      "d": [
+        "Seven and four are eleven.",
+        "Six and three are nine."
+      ]
+    }
+  ]
+}

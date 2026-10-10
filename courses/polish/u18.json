@@ -1,0 +1,288 @@
+{
+  "title": "Future and plans, wanting and being able",
+  "note": "The future of być is będę, będziesz, będzie, będziemy, będziecie, będą. Imperfective verbs form the future with będę + infinitive: będę pracować (I'll be working). Modal verbs take an infinitive: chcieć (chcę, chcesz, chce … chcą), móc (mogę, możesz, może … mogą), musieć (muszę, musisz, musi … muszą).",
+  "src": {
+    "t": "Polish grammar: future tense, Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Polish_grammar"
+  },
+  "items": [
+    {
+      "c": "będę",
+      "a": "I will be",
+      "d": [
+        "I was",
+        "they will be"
+      ],
+      "ex": "Jutro będę w domu.",
+      "exT": "Tomorrow I'll be at home."
+    },
+    {
+      "c": "będziesz",
+      "a": "you will be (one person)",
+      "d": [
+        "you were (one person)",
+        "we will be"
+      ]
+    },
+    {
+      "c": "będzie",
+      "a": "he/she/it will be",
+      "d": [
+        "he/she/it was",
+        "they will be"
+      ],
+      "ex": "Jutro będzie ładna pogoda.",
+      "exT": "Tomorrow the weather will be nice."
+    },
+    {
+      "c": "będziemy",
+      "a": "we will be",
+      "d": [
+        "you (plural) will be",
+        "we were"
+      ]
+    },
+    {
+      "c": "będą",
+      "a": "they will be",
+      "d": [
+        "they are",
+        "we will be"
+      ]
+    },
+    {
+      "c": "chcieć",
+      "a": "to want",
+      "d": [
+        "to be able to",
+        "to have to"
+      ]
+    },
+    {
+      "c": "móc",
+      "a": "to be able to, can",
+      "d": [
+        "to want",
+        "to have to"
+      ]
+    },
+    {
+      "c": "musieć",
+      "a": "to have to, must",
+      "d": [
+        "to be able to",
+        "to want"
+      ],
+      "ex": "Musisz to zobaczyć!",
+      "exT": "You have to see this!"
+    },
+    {
+      "c": "pojutrze",
+      "a": "the day after tomorrow",
+      "d": [
+        "the day before yesterday",
+        "next week"
+      ]
+    },
+    {
+      "c": "za tydzień",
+      "a": "in a week",
+      "d": [
+        "a week ago",
+        "every week"
+      ]
+    },
+    {
+      "c": "w przyszłym roku",
+      "a": "next year",
+      "d": [
+        "last year",
+        "every year"
+      ]
+    },
+    {
+      "c": "plan (m)",
+      "a": "plan",
+      "d": [
+        "map",
+        "trip"
+      ],
+      "say": "plan"
+    },
+    {
+      "c": "Chcę iść do kina.",
+      "a": "I want to go to the cinema.",
+      "d": [
+        "I went to the cinema.",
+        "I have to go to the cinema."
+      ]
+    },
+    {
+      "c": "Nie mogę.",
+      "a": "I can't.",
+      "d": [
+        "I don't want to.",
+        "I don't have to."
+      ]
+    },
+    {
+      "c": "Muszę już iść.",
+      "a": "I have to go now.",
+      "d": [
+        "I want to go now.",
+        "I'm already here."
+      ]
+    },
+    {
+      "c": "Co będziesz robić w weekend?",
+      "a": "What will you do on the weekend?",
+      "d": [
+        "What did you do on the weekend?",
+        "Do you work on the weekend?"
+      ]
+    },
+    {
+      "c": "Zobaczymy.",
+      "a": "We'll see.",
+      "d": [
+        "See you!",
+        "Let's go."
+      ]
+    },
+    {
+      "c": "Zadzwonię jutro.",
+      "a": "I'll call tomorrow.",
+      "d": [
+        "I called yesterday.",
+        "Call me tomorrow."
+      ]
+    },
+    {
+      "c": "Jutro ___ w pracy. (być, ja)",
+      "a": "będę",
+      "d": [
+        "byłem",
+        "będzie"
+      ],
+      "ex": "Jutro będę w pracy.",
+      "exT": "Tomorrow I'll be at work."
+    },
+    {
+      "c": "Co ___ robić jutro? (być, ty)",
+      "a": "będziesz",
+      "d": [
+        "będę",
+        "będzie"
+      ],
+      "ex": "Co będziesz robić jutro?",
+      "exT": "What will you do tomorrow?"
+    },
+    {
+      "c": "Oni ___ pracować w sobotę. (być)",
+      "a": "będą",
+      "d": [
+        "będzie",
+        "będziemy"
+      ],
+      "ex": "Oni będą pracować w sobotę.",
+      "exT": "They will work on Saturday."
+    },
+    {
+      "c": "Ja ___ pić kawę. (chcieć)",
+      "a": "chcę",
+      "d": [
+        "chce",
+        "chcesz"
+      ],
+      "ex": "Ja chcę pić kawę.",
+      "exT": "I want to drink coffee."
+    },
+    {
+      "c": "Czy ___ mi pomóc? (móc, ty)",
+      "a": "możesz",
+      "d": [
+        "mogę",
+        "może"
+      ],
+      "ex": "Czy możesz mi pomóc?",
+      "exT": "Can you help me?"
+    },
+    {
+      "c": "Ja ___ pracować. (musieć)",
+      "a": "muszę",
+      "d": [
+        "musi",
+        "musisz"
+      ],
+      "ex": "Ja muszę pracować.",
+      "exT": "I have to work."
+    },
+    {
+      "c": "Oni nie ___ przyjść. (móc)",
+      "a": "mogą",
+      "d": [
+        "może",
+        "możemy"
+      ],
+      "ex": "Oni nie mogą przyjść.",
+      "exT": "They can't come."
+    },
+    {
+      "c": "Ona ___ iść do lekarza. (musieć)",
+      "a": "musi",
+      "d": [
+        "muszę",
+        "muszą"
+      ],
+      "ex": "Ona musi iść do lekarza.",
+      "exT": "She has to go to the doctor."
+    },
+    {
+      "c": "Czy ___ coś do picia? (chcieć, ty)",
+      "a": "chcesz",
+      "d": [
+        "chcę",
+        "chcą"
+      ],
+      "ex": "Czy chcesz coś do picia?",
+      "exT": "Do you want something to drink?"
+    }
+  ],
+  "read": {
+    "title": "Plany na weekend",
+    "text": [
+      "Ania pisze do Kuby: Cześć! Co będziesz robić w weekend? W sobotę rano muszę pracować, ale po południu jestem wolna. Chcesz iść do kina?",
+      "Kuba odpisuje: Cześć, Aniu! W sobotę nie mogę, bo jadę do babci. Wracam w niedzielę rano. Możemy iść do kina w niedzielę wieczorem. Będzie nowy film o Krakowie.",
+      "Ania: Super! W niedzielę będę w domu, więc mogę. Film jest o siódmej? Kuba: Tak. Zadzwonię w niedzielę. Do zobaczenia!"
+    ],
+    "q": [
+      {
+        "q": "What does Ania have to do on Saturday morning?",
+        "o": [
+          "Visit her grandmother",
+          "Work",
+          "Go to the cinema"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why can't Kuba go on Saturday?",
+        "o": [
+          "He has to work",
+          "He is sick",
+          "He is going to his grandmother's"
+        ],
+        "k": 2
+      },
+      {
+        "q": "When will they go to the cinema?",
+        "o": [
+          "Saturday afternoon",
+          "Sunday morning",
+          "Sunday evening"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

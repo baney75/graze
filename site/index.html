@@ -93,6 +93,13 @@ section.band + section.band{border-top:1px solid var(--line)}
 .pack{padding:10px 16px;border-radius:999px;background:var(--surface);border:1px solid var(--line);font-size:15px;font-weight:600}
 .pack small{color:var(--muted);font-weight:500;margin-left:6px}
 .pack.opt{border-style:dashed}
+.lib{display:flex;flex-direction:column;gap:22px}
+.lib-row{display:grid;grid-template-columns:minmax(0,180px) minmax(0,1fr);gap:20px;align-items:start;padding-top:18px;border-top:1px solid var(--line)}
+@media (max-width:760px){.lib-row{grid-template-columns:minmax(0,1fr);gap:10px}}
+.lib-row h3{font-size:20px}
+.lib-row p{font-size:14px;color:var(--muted);margin-top:4px}
+.list.two{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 40px}
+@media (max-width:760px){.list.two{grid-template-columns:minmax(0,1fr)}}
 .split{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:48px;align-items:start}
 @media (max-width:880px){.split{grid-template-columns:minmax(0,1fr)}}
 .list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:14px}
@@ -119,14 +126,14 @@ footer a{color:var(--on-slab)}
   <div class="wrap">
     <div class="top">
       <a class="mark" href="./">Gra<span>z</span>e</a>
-      <nav aria-label="Sections"><a href="#how">How it plays</a><a href="#evidence">The science</a><a href="#updates">Updates</a><a class="keep" href="play/">Play</a><a class="keep" href="https://github.com/baney75/graze">Source</a></nav>
+      <nav aria-label="Sections"><a href="#how">How it plays</a><a href="#library">Library</a><a href="#evidence">The science</a><a href="#updates">Updates</a><a class="keep" href="play/">Play</a><a class="keep" href="https://github.com/baney75/graze">Source</a></nav>
     </div>
     <div class="hero-grid">
       <div>
         <p class="eyebrow" style="color:var(--gold-on-slab)">An orbit arcade game</p>
         <h1>Gra<span>z</span>e</h1>
-        <p class="lead">One tap, two orbits. Dodge as late as you dare, and come away remembering things.</p>
-        <p class="sub">Recall gates slow time and ask you to steer into the right answer. What you learn returns on a spaced schedule until it sticks.</p>
+        <p class="lead">One tap, two orbits, and a library of real courses: languages, sciences, medicine, logic and the great books.</p>
+        <p class="sub">Learn it in a lesson, recall it at a gate, keep it in an endless Feed that replaces scrolling. Everything returns on a spaced schedule until it sticks.</p>
         <div class="actions">
           <a class="btn btn-gold" href="play/">Play in your browser <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
           <a class="btn btn-line" href="https://github.com/baney75/graze">View the source <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"/></svg></a>
@@ -150,36 +157,49 @@ footer a{color:var(--on-slab)}
     </div>
   </section>
 
+  <section class="band" id="ways">
+    <div class="wrap">
+      <div class="head"><p class="eyebrow">Three ways to learn</p><h2>A lesson, a run, <i>a feed.</i></h2><p>The same memory engine sits under all three, so a word you learn in a lesson comes back at a gate tomorrow and in the Feed next week.</p></div>
+      <div class="steps">
+        <div class="step"><figure><img src="assets/way-lesson.jpg" alt="A Spanish lesson card showing adiós, goodbye, an example sentence and Listen, Slow and Say it buttons" width="780" height="975" loading="lazy"></figure><span class="n">Learn</span><h3>Short lessons</h3><p>Eight new sigils at a time, each with an example, a picture where it helps, and audio. Say it back and the microphone checks you. Then a quick check, and into your schedule.</p></div>
+        <div class="step"><figure><img src="assets/way-feed.jpg" alt="A Feed card asking whose flag this is, with four answers" width="780" height="975" loading="lazy"></figure><span class="n">Scroll</span><h3>The Feed</h3><p>Swipe up through an endless stream of recall cards, new sigils, quick math, speaking and readings. Combos, golden cards and your streak keep it moving; every card is spaced review.</p></div>
+        <div class="step"><figure><img src="assets/way-picture.jpg" alt="A heart diagram with one chamber highlighted and three answers" width="780" height="975" loading="lazy"></figure><span class="n">See</span><h3>Pictures and maps</h3><p>Name the highlighted part of the heart, a cell, the eye or a nephron. Find countries and states on the map, read the periodic table, and tell flags apart.</p></div>
+      </div>
+    </div>
+  </section>
+
   <section class="band" id="evidence">
     <div class="wrap">
       <div class="head"><p class="eyebrow">The science, honestly</p><h2>What a game can <i>actually</i> do for a mind.</h2><p>Graze is built on the parts of learning research that hold up, and leaves out the parts that don't.</p></div>
       <div class="evidence">
         <div class="ev"><span class="tag yes">Built in</span><h3>Spaced retrieval</h3><p>Pulling an answer out of memory strengthens it more than rereading, and spreading reviews out beats cramming. Gates follow a review clock from ten minutes to six months. <a href="https://www.psychologicalscience.org/news/releases/which-study-strategies-make-the-grade.html">Dunlosky et al., 2013</a></p></div>
-        <div class="ev"><span class="tag yes">Built in</span><h3>Vocabulary and word roots</h3><p>Knowing words and how they're built is a main driver of reading comprehension. Graze ships with Latin and Greek roots and a set of high-value words.</p></div>
-        <div class="ev"><span class="tag yes">Built in</span><h3>Reading with comprehension</h3><p>Twenty short Codex pages, each followed by questions you answer after the page closes. Reading pace only counts alongside understanding. <a href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html">Rayner et al., 2016</a></p></div>
+        <div class="ev"><span class="tag yes">Built in</span><h3>Vocabulary and word roots</h3><p>Knowing words and how they're built is a main driver of reading comprehension. Graze ships with Greek and Latin roots, 600 advanced words, and whole beginner courses in ten languages.</p></div>
+        <div class="ev"><span class="tag yes">Built in</span><h3>Saying it aloud</h3><p>Words you say aloud are remembered better than words you read silently, an effect known as the production effect (MacLeod and colleagues, 2010). Lessons and the Feed ask you to say words back, and check you with the microphone where the browser supports it.</p></div>
+        <div class="ev"><span class="tag yes">Built in</span><h3>Reading with comprehension</h3><p>Nearly four hundred readings, from textbook-style explainers to exact passages from Plato, Augustine and Lincoln, each followed by questions you answer after the page closes. Reading pace only counts alongside understanding. <a href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html">Rayner et al., 2016</a></p></div>
         <div class="ev"><span class="tag yes">Built in</span><h3>If-then habits</h3><p>A daily ritual of twelve gates, anchored to a moment you choose. If-then plans have a medium-to-large effect on reaching goals across 94 studies.</p></div>
         <div class="ev"><span class="tag no">Left out</span><h3>Brain-training IQ claims</h3><p>Practicing a cognitive game makes you better at that game, with little transfer to anything else. Graze makes no such claim. <a href="https://news.illinois.edu/review-finds-little-evidence-that-brain-training-games-yield-real-world-benefits/">Simons et al., 2016</a></p></div>
         <div class="ev"><span class="tag no">Left out</span><h3>Speed reading</h3><p>Flashing words faster trades away comprehension. Graze rewards reading that you understand.</p></div>
       </div>
-      <p class="note"><strong>What to expect:</strong> about ten new items a day, held on a schedule that keeps most of them for months. Graze makes no promise about intelligence; it helps you remember what you practice. To check it yourself, test a set of words before and after a month of daily play against a set you never saw in the game.</p>
+      <p class="note"><strong>What to expect:</strong> five to thirty new items a day, at the pace you choose, held on a schedule that keeps most of them for months. Graze makes no promise about intelligence; it helps you remember what you practice. To check it yourself, test a set of words before and after a month of daily play against a set you never saw in the game.</p>
+    </div>
+  </section>
+
+  <section class="band" id="library">
+    <div class="wrap">
+      <div class="head"><p class="eyebrow">The Library</p><h2>__NCOURSES__ courses, <i>your</i> order.</h2><p>Pick what you want to learn and put it in order: your first course is your focus, and the rest mix in. Courses are written against free, reputable sources: OpenStax and LibreTexts textbooks, COERLL language courses from UT Austin, the Dickinson College Commentaries, Perseus, MedlinePlus, the Stanford Encyclopedia of Philosophy and Project Gutenberg. Each course lists its sources and was checked item by item, and most of the language and science courses had a second, independent review.</p></div>
+      <div class="lib"><!--__PACKS__--></div>
     </div>
   </section>
 
   <section class="band" id="content">
-    <div class="wrap split">
-      <div>
-        <div class="head" style="margin-bottom:24px"><p class="eyebrow">What you learn</p><h2>Eleven packs, twenty pages, <i>and yours.</i></h2><p>Choose which packs appear at your gates. Dashed packs are off until you turn them on. Paste your own lists into the Forge and they come first.</p></div>
-        <div class="packs"><!--__PACKS__--></div>
-      </div>
-      <div>
-        <div class="head" style="margin-bottom:24px"><p class="eyebrow">Your progress</p><h2>Yours, on <i>your</i> devices.</h2></div>
-        <ul class="list">
+    <div class="wrap">
+      <div class="head" style="margin-bottom:24px"><p class="eyebrow">Your progress</p><h2>Yours, on <i>your</i> devices.</h2></div>
+      <ul class="list two">
           <li><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="11" width="16" height="9" rx="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3"/></svg><div><b>Saved on your device</b><span>No account, no tracking, no ads. Progress lives in your browser.</span></div></li>
           <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 7h8M8 12h8M8 17h5"/><rect x="4" y="3" width="16" height="18" rx="2"/></svg><div><b>Transfer codes and backups</b><span>Move progress between devices with a code you copy, or a file you keep. Everything merges; nothing is overwritten.</span></div></li>
           <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14a4 4 0 0 0 5.66 0l3-3a4 4 0 0 0-5.66-5.66l-1 1"/><path d="M14 10a4 4 0 0 0-5.66 0l-3 3a4 4 0 0 0 5.66 5.66l1-1"/></svg><div><b>Encrypted link codes</b><span>In the Claude-hosted version, devices pair with a 12-character code. Progress is encrypted with a key made from the code before it leaves your device.</span></div></li>
           <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12M7 10l5 5 5-5"/><path d="M5 21h14"/></svg><div><b>Install and play offline</b><span>Add it to your home screen. Updates download in the background and wait for you to tap Update.</span></div></li>
-        </ul>
-      </div>
+      </ul>
     </div>
   </section>
 

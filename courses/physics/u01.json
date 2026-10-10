@@ -1,0 +1,52 @@
+{
+  "title": "Units, dimensions and vectors",
+  "note": "Every physical quantity is a number times a unit. SI builds all units from a few base units (m, kg, s, A, K, mol, cd). A scalar has only size; a vector has size and direction, and you add vectors by adding their components.",
+  "src": { "t": "College Physics 2e, 1.2 Physical Quantities and Units", "u": "https://openstax.org/books/college-physics-2e/pages/1-2-physical-quantities-and-units" },
+  "items": [
+    { "c": "SI base unit of mass", "a": "kilogram (kg)", "d": ["gram (g)", "newton (N)", "pound (lb)"], "ex": "The kilogram is the only SI base unit with a prefix built into its name." },
+    { "c": "SI base unit of electric current", "a": "ampere (A)", "d": ["volt (V)", "coulomb (C)", "ohm (Ω)"] },
+    { "c": "SI base unit of temperature", "a": "kelvin (K)", "d": ["degree Celsius (°C)", "joule (J)", "degree Fahrenheit (°F)"] },
+    { "c": "SI base unit for amount of substance", "a": "mole (mol)", "d": ["liter (L)", "kilogram (kg)", "molecule"] },
+    { "c": "The newton (N) in SI base units", "a": "kg·m/s²", "d": ["kg·m/s", "kg·m²/s²", "kg/(m·s²)"] },
+    { "c": "The joule (J) in SI base units", "a": "kg·m²/s²", "d": ["kg·m/s²", "kg·m²/s³", "kg·m/s"] },
+    { "c": "The watt (W) in SI base units", "a": "kg·m²/s³", "d": ["kg·m²/s²", "kg·m/s²", "kg·m/s³"], "ex": "A watt is a joule per second." },
+    { "c": "One pascal (Pa) equals", "a": "1 N/m²", "d": ["1 N·m", "1 J/s", "1 N/m"] },
+    { "c": "Metric prefix micro (µ)", "a": "10⁻⁶", "d": ["10⁻³", "10⁻⁹", "10⁻¹²"] },
+    { "c": "Metric prefix nano (n)", "a": "10⁻⁹", "d": ["10⁻⁶", "10⁻¹²", "10⁻³"] },
+    { "c": "Metric prefix mega (M)", "a": "10⁶", "d": ["10³", "10⁹", "10¹²"] },
+    { "c": "Metric prefix giga (G)", "a": "10⁹", "d": ["10⁶", "10¹²", "10³"] },
+    { "c": "Dimensions of speed", "a": "[L]/[T]", "d": ["[L]·[T]", "[L]/[T]²", "[M]·[L]/[T]"] },
+    { "c": "Dimensions of acceleration", "a": "[L]/[T]²", "d": ["[L]/[T]", "[M]·[L]/[T]²", "[L]²/[T]"] },
+    { "c": "An error dimensional analysis cannot catch", "a": "a missing dimensionless factor such as ½", "d": ["adding a length to a time", "a speed written in kilograms"] },
+    { "c": "Which is a scalar quantity?", "a": "temperature", "d": ["force", "displacement", "acceleration"] },
+    { "c": "Which is a vector quantity?", "a": "momentum", "d": ["energy", "mass", "time"] },
+    { "c": "Speed or velocity: which is a vector?", "a": "velocity", "d": ["speed"] },
+    { "c": "x-component of vector A at angle θ above +x", "a": "A cos θ", "d": ["A sin θ", "A tan θ", "A/cos θ"] },
+    { "c": "y-component of vector A at angle θ above +x", "a": "A sin θ", "d": ["A cos θ", "A tan θ", "A/sin θ"] },
+    { "c": "Magnitude of a vector from components Ax, Ay", "a": "√(Ax² + Ay²)", "d": ["Ax + Ay", "√(Ax + Ay)", "Ax² + Ay²"] },
+    { "c": "Direction angle from components Ax, Ay", "a": "θ = tan⁻¹(Ay/Ax)", "d": ["θ = tan⁻¹(Ax/Ay)", "θ = sin⁻¹(Ay/Ax)", "θ = cos⁻¹(Ay/Ax)"] },
+    { "c": "Resultant of 3 m east plus 4 m north", "a": "5 m", "d": ["7 m", "1 m", "12 m"], "ex": "√(3² + 4²) = 5, pointing about 53° north of east." },
+    { "c": "Largest possible magnitude of A + B", "a": "|A| + |B|, when A and B are parallel", "d": ["√(A² + B²), when A and B are perpendicular", "|A| − |B|, when A and B are antiparallel"] },
+    { "c": "Scalar (dot) product A·B", "a": "AB cos θ", "d": ["AB sin θ", "AB tan θ", "A + B cos θ"] },
+    { "c": "Magnitude of the cross product A × B", "a": "AB sin θ", "d": ["AB cos θ", "AB tan θ", "A + B sin θ"] },
+    { "c": "A·B when A is perpendicular to B", "a": "zero", "d": ["AB", "−AB", "A + B"] },
+    { "c": "Significant figures in 0.00450", "a": "3", "d": ["5", "2", "6"], "ex": "Leading zeros only place the decimal; the trailing zero after 5 counts." },
+    { "c": "Converting km/h to m/s", "a": "divide by 3.6", "d": ["multiply by 3.6", "divide by 60", "multiply by 1000"] },
+    { "c": "Accuracy of a measurement", "a": "how close it is to the true value", "d": ["how close repeated results are to each other", "how many digits the instrument shows"] },
+    { "c": "Precision of a measurement", "a": "how closely repeated results agree", "d": ["how close the result is to the true value", "how large the measured value is"] },
+    { "c": "The SI meter is defined using", "a": "the distance light travels in 1/299,792,458 s", "d": ["one ten-millionth of the pole-to-equator distance", "a platinum bar kept near Paris"] }
+  ],
+  "read": {
+    "title": "Why units and vectors come first",
+    "text": [
+      "A number in physics means nothing until it has a unit. Saying a car travels \"30\" could mean 30 meters per second or 30 miles per hour, and those differ by more than a factor of two. The SI system avoids confusion by building every unit from a handful of base units. A newton is a kg·m/s², a joule is a newton times a meter, and a watt is a joule per second. Prefixes such as milli (10⁻³), micro (10⁻⁶), and mega (10⁶) scale those units up or down by powers of ten.",
+      "Units also give a free check. In a correct equation every term has the same dimensions, so you can never add a length to a time. If an answer for a speed comes out in kilograms, something went wrong. Dimensional analysis cannot catch a missing pure number such as ½, though.",
+      "Many quantities need a direction as well as a size. Displacement, velocity, force, and momentum are vectors; mass, time, energy, and temperature are scalars. To add vectors, break each one into components, add the x parts and the y parts separately, then rebuild the result with the Pythagorean theorem and an inverse tangent. Walking 3 m east and 4 m north leaves you 5 m from where you started, not 7 m."
+    ],
+    "q": [
+      { "q": "What can dimensional analysis NOT detect?", "o": ["A missing factor of ½", "Adding a length to a time", "A speed expressed in kilograms"], "k": 0 },
+      { "q": "How should two vectors be added?", "o": ["Add their components separately, then combine", "Add their magnitudes directly", "Multiply their magnitudes"], "k": 0 },
+      { "q": "Which of these is a scalar?", "o": ["Energy", "Force", "Displacement"], "k": 0 }
+    ]
+  }
+}

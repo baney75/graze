@@ -1,0 +1,50 @@
+{
+  "title": "The three cases side by side",
+  "note": "Nominative = subject (der, ein, er). Accusative = direct object (den, einen, ihn). Dative = indirect object, the receiver (dem, einem, ihm). Pronouns: ich/mich/mir, du/dich/dir, er/ihn/ihm, sie/sie/ihr, wir/uns/uns, Sie/Sie/Ihnen. A dative noun usually comes before an accusative noun: Ich gebe dem Kind den Ball.",
+  "src": { "t": "Grimm Grammar: Cases overview and dative pronouns", "u": "https://coerll.utexas.edu/gg/gr/pro_04.html" },
+  "items": [
+    { "c": "___ Hund schläft. (the, subject)", "a": "Der", "d": ["Den", "Dem"] },
+    { "c": "Ich sehe ___ Hund. (the)", "a": "den", "d": ["der", "dem"], "ex": "Ich sehe den Hund.", "exT": "I see the dog." },
+    { "c": "Ich gebe ___ Hund Wasser. (the)", "a": "dem", "d": ["den", "der"], "ex": "Ich gebe dem Hund Wasser.", "exT": "I'm giving the dog water." },
+    { "c": "Ich wohne bei ___ Freundin. (a)", "a": "einer", "d": ["eine", "einem"] },
+    { "c": "Ich besuche ___ Freund. (my)", "a": "meinen", "d": ["meinem", "mein"] },
+    { "c": "Ich danke ___ Freund. (my)", "a": "meinem", "d": ["meinen", "mein"] },
+    { "c": "Er hilft den ___. (die Männer)", "a": "Männern", "d": ["Männer", "Manns"] },
+    { "c": "Siehst du ___? (ich)", "a": "mich", "d": ["mir", "ich"] },
+    { "c": "Kannst du ___ helfen? (ich)", "a": "mir", "d": ["mich", "mein"] },
+    { "c": "Ich kenne ___. (er)", "a": "ihn", "d": ["ihm", "er"], "ex": "Ich kenne ihn gut.", "exT": "I know him well." },
+    { "c": "Ich gebe ___ das Buch. (er)", "a": "ihm", "d": ["ihn", "er"] },
+    { "c": "Ich liebe ___. (du)", "a": "dich", "d": ["dir", "du"] },
+    { "c": "Wir besuchen ___ morgen. (sie, she)", "a": "sie", "d": ["ihr", "ihnen"] },
+    { "c": "Wir danken ___. (sie, she)", "a": "ihr", "d": ["sie", "ihnen"] },
+    { "c": "Er ruft ___ an. (wir)", "a": "uns", "d": ["unser", "wir"] },
+    { "c": "Ich schreibe ___ eine E-Mail. (Sie)", "a": "Ihnen", "d": ["Sie", "Ihr"] },
+    { "c": "___ gehört das Auto? (who)", "a": "Wem", "d": ["Wen", "Wer"], "ex": "Wem gehört das Auto? – Mir.", "exT": "Who does the car belong to? – Me." },
+    { "c": "___ siehst du? (who)", "a": "Wen", "d": ["Wem", "Wer"] },
+    { "c": "___ kommt heute? (who)", "a": "Wer", "d": ["Wen", "Wem"] },
+    { "c": "Ich kaufe Blumen ___ meine Mutter.", "a": "für", "d": ["mit", "von"] },
+    { "c": "Wir gehen ___ den Park.", "a": "durch", "d": ["mit", "nach"] },
+    { "c": "geben", "a": "to give", "d": ["to take", "to go"], "ex": "Er gibt mir das Geld.", "exT": "He gives me the money." },
+    { "c": "schenken", "a": "to give (as a gift)", "d": ["to lend", "to sell"] },
+    { "c": "danken", "a": "to thank", "d": ["to think", "to drink"] },
+    { "c": "gehören", "a": "to belong to", "d": ["to hear", "to listen to"], "ex": "Das Buch gehört mir.", "exT": "The book belongs to me." },
+    { "c": "antworten", "a": "to answer", "d": ["to ask", "to call"] },
+    { "c": "zeigen", "a": "to show", "d": ["to draw", "to hide"] },
+    { "c": "besuchen", "a": "to visit", "d": ["to look for", "to invite"] },
+    { "c": "es gibt", "a": "there is, there are", "d": ["it gives", "it is"], "ex": "Hier gibt es einen Park.", "exT": "There's a park here." },
+    { "c": "Er schenkt der Mutter eine Blume.", "a": "He gives the mother a flower.", "d": ["The mother gives him a flower.", "He buys the mother a flower."] }
+  ],
+  "read": {
+    "title": "Das Geschenk",
+    "text": [
+      "Morgen hat meine Schwester Geburtstag. Sie wird zwanzig. Ich kaufe ihr ein Geschenk.",
+      "Zuerst gehe ich mit meinem Bruder in die Stadt. Wir sehen einen schönen Schal. Er ist blau, und Blau ist ihre Lieblingsfarbe. Ich kaufe den Schal für sie.",
+      "Mein Bruder schenkt ihr ein Buch. Am Abend geben wir ihr die Geschenke. Sie dankt uns und sagt: \"Der Schal gefällt mir sehr!\""
+    ],
+    "q": [
+      { "q": "Who is having a birthday?", "o": ["The narrator's brother", "The narrator's sister", "The narrator"], "k": 1 },
+      { "q": "Why does the narrator choose the scarf?", "o": ["It is cheap", "It is blue, her favorite color", "Her brother likes it"], "k": 1 },
+      { "q": "What does the brother give?", "o": ["A book", "A scarf", "Flowers"], "k": 0 }
+    ]
+  }
+}

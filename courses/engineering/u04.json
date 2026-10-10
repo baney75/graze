@@ -1,0 +1,341 @@
+{
+  "title": "Strength of materials",
+  "note": "Stress σ = F/A is internal force per area; strain ε = ΔL/L is stretch per length. In the elastic range σ = Eε (Hooke's law), and E measures stiffness. Past the yield strength a part deforms permanently; the ultimate strength is the peak of the stress-strain curve. Parts can also fail by fatigue under repeated loads or by buckling in compression.",
+  "src": {
+    "t": "Mechanics of Materials (Roylance), 1 Tensile Response of Materials, Engineering LibreTexts",
+    "u": "https://eng.libretexts.org/Bookshelves/Mechanical_Engineering/Mechanics_of_Materials_(Roylance)/01%3A_Tensile_Response_of_Materials"
+  },
+  "items": [
+    {
+      "c": "Normal stress σ",
+      "a": "force divided by cross-sectional area (F/A)",
+      "d": [
+        "force times cross-sectional area",
+        "area divided by force"
+      ]
+    },
+    {
+      "c": "Normal strain ε",
+      "a": "change in length divided by original length",
+      "d": [
+        "original length divided by change in length",
+        "force divided by change in length"
+      ]
+    },
+    {
+      "c": "Units of strain",
+      "a": "none; strain is dimensionless",
+      "d": [
+        "pascals",
+        "meters",
+        "newtons per meter"
+      ]
+    },
+    {
+      "c": "Hooke's law for an elastic material",
+      "a": "σ = Eε",
+      "d": [
+        "σ = ε/E",
+        "ε = Eσ",
+        "σ = E + ε"
+      ]
+    },
+    {
+      "c": "Young's modulus E measures",
+      "a": "stiffness, the resistance to elastic stretching",
+      "d": [
+        "strength, the stress at fracture",
+        "toughness, the energy to fracture"
+      ]
+    },
+    {
+      "c": "Young's modulus of steel",
+      "a": "about 200 GPa",
+      "d": [
+        "about 70 GPa",
+        "about 20 GPa",
+        "about 2 GPa"
+      ]
+    },
+    {
+      "c": "Young's modulus of aluminum",
+      "a": "about 70 GPa",
+      "d": [
+        "about 200 GPa",
+        "about 7 GPa",
+        "about 700 GPa"
+      ]
+    },
+    {
+      "c": "Same rod in steel or aluminum, same load: more stretch?",
+      "a": "aluminum, about three times as much",
+      "d": [
+        "steel, about three times as much",
+        "both stretch the same amount"
+      ]
+    },
+    {
+      "c": "A 2 m rod stretches 1 mm. Strain?",
+      "a": "0.0005",
+      "d": [
+        "0.002",
+        "0.5",
+        "2"
+      ]
+    },
+    {
+      "c": "10 kN on a rod of 100 mm² cross-section. Stress?",
+      "a": "100 MPa",
+      "d": [
+        "1 MPa",
+        "10 MPa",
+        "1000 MPa"
+      ]
+    },
+    {
+      "c": "Slope of the linear part of a stress-strain curve",
+      "a": "Young's modulus",
+      "d": [
+        "yield strength",
+        "toughness",
+        "Poisson's ratio"
+      ]
+    },
+    {
+      "c": "Elastic deformation",
+      "a": "deformation that disappears when the load is removed",
+      "d": [
+        "deformation that remains after unloading",
+        "deformation that occurs only at fracture"
+      ]
+    },
+    {
+      "c": "Plastic deformation",
+      "a": "permanent deformation that remains after unloading",
+      "d": [
+        "deformation that disappears on unloading",
+        "deformation caused only by heating"
+      ]
+    },
+    {
+      "c": "Yield strength",
+      "a": "stress at which permanent deformation begins",
+      "d": [
+        "the maximum stress before fracture",
+        "the stress at which stiffness is measured"
+      ]
+    },
+    {
+      "c": "0.2% offset method is used to find",
+      "a": "yield strength when there is no sharp yield point",
+      "d": [
+        "ultimate tensile strength",
+        "Young's modulus",
+        "fatigue life"
+      ]
+    },
+    {
+      "c": "Ultimate tensile strength",
+      "a": "the highest engineering stress a material reaches in tension",
+      "d": [
+        "the stress where yielding begins",
+        "the stress at which a column buckles"
+      ]
+    },
+    {
+      "c": "Necking",
+      "a": "local narrowing of a ductile specimen after ultimate strength",
+      "d": [
+        "sudden sideways bowing of a column",
+        "cracking at a weld under cyclic load"
+      ]
+    },
+    {
+      "c": "Ductile material",
+      "a": "one that deforms plastically a lot before fracture",
+      "d": [
+        "one that fractures with little deformation",
+        "one that cannot be loaded in tension"
+      ]
+    },
+    {
+      "c": "Brittle material",
+      "a": "one that fractures with little plastic deformation",
+      "d": [
+        "one that stretches a lot before breaking",
+        "one with a very low Young's modulus"
+      ]
+    },
+    {
+      "c": "A typically brittle material",
+      "a": "glass",
+      "d": [
+        "copper",
+        "low-carbon steel",
+        "gold"
+      ]
+    },
+    {
+      "c": "A typically ductile material",
+      "a": "low-carbon steel",
+      "d": [
+        "gray cast iron",
+        "glass",
+        "concrete"
+      ]
+    },
+    {
+      "c": "Toughness",
+      "a": "energy a material absorbs before fracturing",
+      "d": [
+        "resistance to elastic stretching",
+        "resistance to surface scratching"
+      ]
+    },
+    {
+      "c": "Poisson's ratio ν",
+      "a": "negative ratio of lateral strain to axial strain",
+      "d": [
+        "ratio of stress to strain",
+        "ratio of yield to ultimate strength"
+      ]
+    },
+    {
+      "c": "Typical Poisson's ratio for metals",
+      "a": "about 0.3",
+      "d": [
+        "about 0.05",
+        "about 1.5",
+        "exactly 0"
+      ]
+    },
+    {
+      "c": "Shear stress τ",
+      "a": "force parallel to a surface divided by its area",
+      "d": [
+        "force perpendicular to a surface divided by area",
+        "twisting moment times radius"
+      ]
+    },
+    {
+      "c": "Fatigue",
+      "a": "failure from repeated loads below the static strength",
+      "d": [
+        "failure from a single large overload",
+        "slow stretching under constant load"
+      ]
+    },
+    {
+      "c": "S-N curve plots",
+      "a": "stress amplitude against cycles to failure",
+      "d": [
+        "stress against strain",
+        "strength against temperature"
+      ]
+    },
+    {
+      "c": "Endurance limit of steel",
+      "a": "stress amplitude below which it survives unlimited cycles",
+      "d": [
+        "stress at which it first yields",
+        "the highest stress it can ever carry"
+      ]
+    },
+    {
+      "c": "Common metal with no clear endurance limit",
+      "a": "aluminum",
+      "d": [
+        "low-carbon steel",
+        "most structural steels"
+      ]
+    },
+    {
+      "c": "Where fatigue cracks usually start",
+      "a": "at surface notches, holes, or sharp corners",
+      "d": [
+        "at the center of smooth sections",
+        "at the neutral axis of a beam"
+      ]
+    },
+    {
+      "c": "Stress concentration",
+      "a": "a local rise in stress at a hole, notch, or sharp corner",
+      "d": [
+        "a uniform stress across a smooth bar",
+        "the average stress in a member"
+      ]
+    },
+    {
+      "c": "Creep",
+      "a": "slow deformation over time under constant load, worse when hot",
+      "d": [
+        "failure under repeated cyclic loading",
+        "sudden sideways failure of a column"
+      ]
+    },
+    {
+      "c": "Buckling",
+      "a": "sudden sideways failure of a slender member in compression",
+      "d": [
+        "crushing of a short, stocky block",
+        "stretching of a cable until it snaps"
+      ]
+    },
+    {
+      "c": "Euler critical buckling load",
+      "a": "P = π²EI / (KL)²",
+      "d": [
+        "P = σA",
+        "P = EI / L",
+        "P = π²EI · L²"
+      ]
+    },
+    {
+      "c": "Doubling column length multiplies Euler load by",
+      "a": "a factor of 1/4",
+      "d": [
+        "a factor of 1/2",
+        "a factor of 2",
+        "nothing"
+      ]
+    }
+  ],
+  "read": {
+    "title": "What the tensile test tells you",
+    "text": [
+      "The basic experiment of strength of materials is simple: grip a bar and pull it while measuring force and stretch. Dividing force by area gives stress, and dividing stretch by original length gives strain. Plotting one against the other gives the stress-strain curve.",
+      "At first the curve is a straight line. Stress is proportional to strain, the bar springs back fully when released, and the slope is Young's modulus, the material's stiffness. Steel's is about 200 GPa, aluminum's about 70 GPa, so an aluminum rod stretches about three times as much as an identical steel rod under the same load.",
+      "At the yield strength the line bends over and the bar begins to deform permanently. A ductile metal keeps stretching and hardening until it reaches its ultimate tensile strength, then narrows locally, or necks, and breaks. A brittle material such as glass gives almost no warning and snaps near the end of its straight line.",
+      "Two failure modes never show up in a single pull. Fatigue cracks grow under millions of load cycles well below yield, usually from a notch or sharp corner. Buckling makes a slender column bow sideways at a load set by its stiffness and length, not by its strength."
+    ],
+    "q": [
+      {
+        "q": "What does the slope of the straight part of the curve represent?",
+        "o": [
+          "Ultimate strength",
+          "Young's modulus",
+          "Toughness"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What happens to a ductile bar after its ultimate tensile strength?",
+        "o": [
+          "It springs back fully",
+          "It necks and then breaks",
+          "It becomes stiffer"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What mainly sets the buckling load of a slender column?",
+        "o": [
+          "Its stiffness and length",
+          "Its yield strength alone",
+          "Its color and surface finish"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

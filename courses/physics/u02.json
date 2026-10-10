@@ -1,0 +1,50 @@
+{
+  "title": "Kinematics in one and two dimensions",
+  "note": "Kinematics describes motion without asking what causes it. With constant acceleration, four equations link x, v, a, and t. In projectile motion the horizontal and vertical motions are independent: horizontal velocity stays constant while gravity accelerates the vertical motion at g = 9.80 m/s².",
+  "src": { "t": "College Physics 2e, Ch. 2 One-Dimensional Kinematics", "u": "https://openstax.org/books/college-physics-2e/pages/2-introduction-to-one-dimensional-kinematics" },
+  "items": [
+    { "c": "Kinematics", "a": "describing motion without its causes", "d": ["explaining motion in terms of forces", "the study of energy in moving systems"] },
+    { "c": "Displacement", "a": "change in position, Δx = x_f − x₀", "d": ["total path length traveled", "distance from the origin at the end"] },
+    { "c": "Average velocity", "a": "Δx/Δt", "d": ["total distance ÷ Δt", "Δv/Δt", "x·t"] },
+    { "c": "Average speed", "a": "total distance ÷ elapsed time", "d": ["displacement ÷ elapsed time", "change in velocity ÷ elapsed time"] },
+    { "c": "Acceleration", "a": "rate of change of velocity, Δv/Δt", "d": ["rate of change of position, Δx/Δt", "velocity times time, v·t"] },
+    { "c": "SI unit of acceleration", "a": "m/s²", "d": ["m/s", "m²/s", "N·s"] },
+    { "c": "Velocity vs time at constant acceleration", "a": "v = v₀ + at", "d": ["v = v₀ + ½at²", "v = v₀t + at", "v = at²"] },
+    { "c": "Position vs time at constant acceleration", "a": "x = x₀ + v₀t + ½at²", "d": ["x = x₀ + v₀t + at²", "x = x₀ + ½v₀t + at", "x = x₀ + at"] },
+    { "c": "Constant-acceleration equation without t", "a": "v² = v₀² + 2a(x − x₀)", "d": ["v² = v₀² + a(x − x₀)", "v = v₀ + 2a(x − x₀)", "v² = v₀² − ½a(x − x₀)"] },
+    { "c": "Average velocity when acceleration is constant", "a": "(v₀ + v)/2", "d": ["(v − v₀)/2", "v₀ + v", "v·v₀"] },
+    { "c": "Slope of a position–time graph", "a": "velocity", "d": ["acceleration", "displacement", "force"] },
+    { "c": "Slope of a velocity–time graph", "a": "acceleration", "d": ["position", "displacement", "speed"] },
+    { "c": "Area under a velocity–time graph", "a": "displacement", "d": ["acceleration", "average speed", "force"] },
+    { "c": "Instantaneous velocity", "a": "velocity at one instant, dx/dt", "d": ["Δx divided by a long time interval", "the largest velocity during a trip"] },
+    { "c": "Value of g near Earth's surface", "a": "9.80 m/s²", "d": ["9.80 m/s", "1.62 m/s²", "98.0 m/s²"] },
+    { "c": "Velocity at the top of a straight-up toss", "a": "zero", "d": ["9.80 m/s downward", "equal to the launch speed"] },
+    { "c": "Acceleration at the top of a straight-up toss", "a": "9.80 m/s² downward", "d": ["zero", "9.80 m/s² upward"] },
+    { "c": "Heavy and light ball dropped together (no air)", "a": "they land at the same time", "d": ["the heavy ball lands first", "the light ball lands first"] },
+    { "c": "Time to fall height h from rest", "a": "t = √(2h/g)", "d": ["t = √(h/2g)", "t = 2h/g", "t = h/g"] },
+    { "c": "Speed after falling height h from rest", "a": "v = √(2gh)", "d": ["v = √(gh)", "v = 2gh", "v = gh²"] },
+    { "c": "Horizontal acceleration of a projectile, no air", "a": "zero, since no horizontal force acts", "d": ["g, the same as vertically", "g/2, half the vertical value"] },
+    { "c": "Horizontal velocity of a projectile, no air", "a": "stays constant", "d": ["decreases steadily", "increases steadily", "is zero at the top"] },
+    { "c": "Ball rolled off a table vs one dropped beside it", "a": "both hit the floor at the same time", "d": ["the dropped ball lands first", "the rolled ball lands first"] },
+    { "c": "Launch angle for maximum range on level ground", "a": "45°", "d": ["30°", "60°", "90°"] },
+    { "c": "Range of a projectile on level ground", "a": "R = v₀² sin 2θ / g", "d": ["R = v₀² sin θ / g", "R = v₀ sin 2θ / g", "R = v₀² cos θ / g"] },
+    { "c": "Launch angles of 30° and 60°, same speed", "a": "give the same range on level ground", "d": ["60° goes twice as far", "30° goes twice as far"] },
+    { "c": "Relative velocity of A with respect to C", "a": "v_AC = v_AB + v_BC", "d": ["v_AC = v_AB − v_BC", "v_AC = v_AB · v_BC"] },
+    { "c": "Moving in +x while slowing down: sign of a", "a": "negative", "d": ["positive"] },
+    { "c": "Ball thrown up at 9.8 m/s: time to the top", "a": "1.0 s", "d": ["2.0 s", "0.5 s", "9.8 s"] },
+    { "c": "72 km/h expressed in m/s", "a": "20 m/s", "d": ["26 m/s", "7.2 m/s", "259 m/s"] }
+  ],
+  "read": {
+    "title": "Two motions at once",
+    "text": [
+      "Kinematics is the bookkeeping of motion: where an object is, how fast it moves, and how that changes. Velocity is the rate of change of position, and acceleration is the rate of change of velocity. On a graph, the slope of position versus time gives velocity, and the slope of velocity versus time gives acceleration. The area under a velocity–time graph gives displacement.",
+      "When acceleration is constant, a short set of equations predicts everything. The most useful are v = v₀ + at, x = x₀ + v₀t + ½at², and v² = v₀² + 2aΔx, which skips time entirely.",
+      "Projectile motion looks curved, but it is really two simple motions happening at once. Ignoring air resistance, nothing pushes the projectile sideways, so its horizontal velocity never changes. Vertically, gravity gives it a constant downward acceleration of 9.80 m/s², exactly as if it had been dropped. That is why a ball rolled off a table and a ball dropped from the same height hit the floor together: their vertical motions are identical. The horizontal speed only decides how far away the rolled ball lands. On level ground the range is greatest at a 45° launch, and complementary angles such as 30° and 60° land at the same spot."
+    ],
+    "q": [
+      { "q": "Why do a rolled ball and a dropped ball land together?", "o": ["Their vertical motions are identical", "The rolled ball has no acceleration", "Air resistance balances them"], "k": 0 },
+      { "q": "What happens to a projectile's horizontal velocity without air resistance?", "o": ["It stays constant", "It decreases to zero at the top", "It increases by g each second"], "k": 0 },
+      { "q": "Which equation lets you solve a problem without knowing the time?", "o": ["v² = v₀² + 2aΔx", "v = v₀ + at", "x = x₀ + v₀t + ½at²"], "k": 0 }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "key": "psychology",
+  "name": "Psychology",
+  "group": "Mind",
+  "tag": "PSYCH",
+  "level": "Intro college",
+  "blurb": "The core of introductory psychology, with extra depth on how the mind learns, remembers and decides. By the end you can explain research findings, the brain's basic machinery, memory and study science, common thinking errors, development, personality and social influence.",
+  "sources": [
+    { "t": "Psychology 2e, OpenStax (Spielman, Jenkins, Lovett et al.)", "u": "https://openstax.org/books/psychology-2e/pages/1-introduction" },
+    { "t": "Factors Influencing Learning, Aaron Benjamin, NOBA Project", "u": "https://nobaproject.com/modules/factors-influencing-learning" },
+    { "t": "Memory (Encoding, Storage, Retrieval), McDermott and Roediger, NOBA Project", "u": "https://nobaproject.com/modules/memory-encoding-storage-retrieval" },
+    { "t": "Judgment and Decision Making, Max Bazerman, NOBA Project", "u": "https://nobaproject.com/modules/judgment-and-decision-making" },
+    { "t": "Statistical Thinking, Chance and Rossman, NOBA Project", "u": "https://nobaproject.com/modules/statistical-thinking" },
+    { "t": "Research Methods in Psychology, Jhangiani et al., LibreTexts", "u": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/12%3A_Descriptive_Statistics/12.05%3A_Descriptive_Statistics_(Summary)" }
+  ]
+}

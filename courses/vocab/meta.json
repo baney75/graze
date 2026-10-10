@@ -1,0 +1,13 @@
+{
+  "key": "vocab",
+  "name": "Advanced Vocabulary",
+  "group": "Reading",
+  "tag": "LEXICON",
+  "level": "Advanced",
+  "blurb": "About 600 words that serious books, journalism, and the SAT, GRE and LSAT expect you to know, grouped by theme, with the classic confusions (venal or venial, imply or infer) sorted out.",
+  "sources": [
+    { "t": "Merriam-Webster Dictionary", "u": "https://www.merriam-webster.com/" },
+    { "t": "Wiktionary, the free dictionary", "u": "https://en.wiktionary.org/wiki/prodigal" },
+    { "t": "WordNet, Princeton University", "u": "https://wordnet.princeton.edu/" }
+  ]
+}

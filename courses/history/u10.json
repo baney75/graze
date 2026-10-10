@@ -1,0 +1,53 @@
+{
+  "title": "The Atlantic revolutions",
+  "note": "Between 1775 and 1825, revolutions swept the Atlantic world. Inspired by Enlightenment ideas of natural rights and popular sovereignty, Americans, French, Haitians and Latin Americans overthrew colonial or royal rule. Each revolution also raised the question of who counted as a citizen.",
+  "src": { "t": "OpenStax World History Vol. 2, 7.3 to 8.4; OpenStax U.S. History, Ch. 5 to 6", "u": "https://openstax.org/books/world-history-volume-2/pages/7-3-revolutions-america-france-and-haiti" },
+  "items": [
+    { "c": "War whose debt led Britain to tax its colonies", "a": "The French and Indian War", "d": ["The Thirty Years' War", "The War of 1812", "The Napoleonic Wars"] },
+    { "c": "Stamp Act (1765)", "a": "British tax on printed paper in the colonies", "d": ["British tax on imported tea", "British law closing Boston Harbor"] },
+    { "c": "\"No taxation without representation\"", "a": "Colonists' claim that only their own assemblies could tax them", "d": ["Colonists' demand to elect the king", "Parliament's claim to tax all subjects"] },
+    { "c": "Boston Tea Party (1773)", "a": "Protest destroying taxed British tea", "d": ["Riot in which British troops killed colonists", "First battle of the Revolutionary War"] },
+    { "c": "Coercive (Intolerable) Acts", "a": "British laws punishing Massachusetts", "d": ["British laws repealing the Stamp Act", "Colonial laws banning British goods"] },
+    { "c": "First battles of the American Revolution", "a": "Lexington and Concord, 1775", "d": ["Saratoga and Yorktown, 1777", "Bunker Hill and Trenton, 1781"] },
+    { "c": "Battle of Saratoga (1777) mattered because", "a": "It persuaded France to ally with the Americans", "d": ["It ended the war outright", "It made Washington commander"] },
+    { "c": "Final major battle of the American Revolution", "a": "Yorktown, 1781", "d": ["Saratoga, 1777", "Lexington, 1775", "Trenton, 1776"] },
+    { "c": "Treaty recognizing American independence", "a": "Treaty of Paris, 1783", "d": ["Treaty of Ghent, 1814", "Treaty of Versailles, 1919"] },
+    { "c": "Three Estates of old-regime France", "a": "Clergy, nobility and commoners", "d": ["King, parliament and courts", "Lords, knights and serfs"] },
+    { "c": "Why Louis XVI called the Estates-General", "a": "A royal debt crisis", "d": ["A foreign invasion", "A peasant revolt in Brittany"] },
+    { "c": "Tennis Court Oath", "a": "Third Estate vowed to write a constitution", "d": ["King vowed to share power with nobles", "Army vowed loyalty to Napoleon"] },
+    { "c": "Storming of the Bastille", "a": "July 14, 1789", "d": ["January 21, 1793", "June 18, 1815", "July 4, 1776"] },
+    { "c": "Declaration of the Rights of Man (France)", "a": "1789 French statement of natural rights", "d": ["1791 French law abolishing the monarchy", "1804 French civil law code"] },
+    { "c": "Execution of Louis XVI", "a": "1793", "d": ["1789", "1799", "1815"] },
+    { "c": "Reign of Terror", "a": "Mass executions of suspected enemies, 1793 to 1794", "d": ["Napoleon's invasion of Russia", "Peasant attacks on noble estates in 1789"] },
+    { "c": "Maximilien Robespierre", "a": "Leader of the Committee of Public Safety", "d": ["General who became emperor", "King overthrown in 1792"] },
+    { "c": "Napoleon crowns himself emperor", "a": "1804", "d": ["1799", "1789", "1815"] },
+    { "c": "Napoleonic Code", "a": "French law code of legal equality for men", "d": ["Treaty dividing Europe after 1815", "Rules for France's revolutionary army"] },
+    { "c": "Napoleon's final defeat", "a": "Waterloo, 1815", "d": ["Trafalgar, 1805", "Austerlitz, 1805", "Leipzig, 1813"] },
+    { "c": "Congress of Vienna (1814 to 1815)", "a": "Restored monarchies and a balance of power", "d": ["United Germany under Prussia", "Spread revolution across Europe"] },
+    { "c": "Saint-Domingue", "a": "French sugar colony that became Haiti", "d": ["Spanish silver colony that became Bolivia", "British colony that became Jamaica"] },
+    { "c": "Toussaint Louverture", "a": "Formerly enslaved leader of the Haitian Revolution", "d": ["Priest who began Mexico's revolt", "Liberator of northern South America"] },
+    { "c": "Leader who declared Haiti independent in 1804", "a": "Jean-Jacques Dessalines", "d": ["Toussaint Louverture", "Simón Bolívar", "Miguel Hidalgo"], "ex": "Toussaint had been captured by the French and died in prison in 1803." },
+    { "c": "Why Haiti's independence was unique", "a": "It was won by a revolt of enslaved people", "d": ["It was granted peacefully by France", "It was led by European-born settlers"] },
+    { "c": "Creoles (criollos)", "a": "American-born people of Spanish descent", "d": ["Spanish-born officials in the colonies", "People of mixed Native and Spanish descent"] },
+    { "c": "Peninsulares", "a": "Spanish-born officials in the colonies", "d": ["American-born people of Spanish descent", "Enslaved Africans in Spanish America"] },
+    { "c": "What set off Spanish American independence", "a": "Napoleon's invasion of Spain in 1808", "d": ["The Congress of Vienna in 1815", "The Haitian Revolution in 1791"] },
+    { "c": "Miguel Hidalgo", "a": "Priest whose 1810 call began Mexico's revolt", "d": ["Emperor of an independent Brazil", "General who freed Chile and Peru"] },
+    { "c": "Simón Bolívar", "a": "Liberator of northern South America", "d": ["Liberator of Argentina, Chile and Peru", "Leader of Mexico's first revolt"] },
+    { "c": "José de San Martín", "a": "General who freed Argentina, Chile and Peru", "d": ["General who freed Venezuela and Colombia", "Priest who began Mexico's revolt"] },
+    { "c": "How Brazil became independent in 1822", "a": "The Portuguese prince Pedro declared it", "d": ["A slave revolt drove out Portugal", "Bolívar's armies conquered it"] }
+  ],
+  "read": {
+    "title": "An age of revolution",
+    "text": [
+      "In 1775 thirteen British colonies in North America took up arms against new taxes and laws passed without their consent. With French help, they won independence in 1783. Their success, and the language of natural rights in their Declaration of Independence, inspired others.",
+      "France was next. Deeply in debt, Louis XVI summoned the Estates-General in 1789. The Third Estate, representing commoners, declared itself a National Assembly, and Parisians stormed the Bastille. The Assembly abolished noble privileges and proclaimed the Rights of Man. As war and fear of counterrevolution grew, radicals executed the king in 1793 and launched the Reign of Terror. Exhausted by turmoil, France accepted the rule of Napoleon Bonaparte, who kept some revolutionary reforms in his law code but crowned himself emperor.",
+      "In Saint-Domingue, France's richest colony, enslaved people rose up in 1791. Led by Toussaint Louverture and then Jean-Jacques Dessalines, they defeated French, British and Spanish forces and founded Haiti in 1804, the first nation born of a successful slave revolt.",
+      "When Napoleon invaded Spain in 1808, Spain's American colonies began to govern themselves. Creole leaders such as Simón Bolívar and José de San Martín led armies of independence, and by the mid-1820s nearly all of Spanish and Portuguese America was free of European rule."
+    ],
+    "q": [
+      { "q": "What immediate problem led Louis XVI to call the Estates-General?", "o": ["Debt", "A slave revolt", "A Spanish invasion", "Napoleon's coup"], "k": 0 },
+      { "q": "What opened the way for Spanish American independence?", "o": ["Napoleon's invasion of Spain", "The Treaty of Paris", "The Reign of Terror", "The Congress of Vienna"], "k": 0 },
+      { "q": "What made Haiti's founding unique?", "o": ["It came from a successful slave revolt", "It was a gift from Britain", "It was the first colony in the Americas", "It followed a peaceful vote"], "k": 0 }
+    ]
+  }
+}

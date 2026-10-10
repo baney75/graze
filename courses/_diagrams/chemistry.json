@@ -1,0 +1,970 @@
+[
+ {
+  "title": "Elements 1 to 20",
+  "kind": "diagram",
+  "dg": "ptable",
+  "note": "Atomic number rises by one from each cell to the next. Periods are rows and groups are columns; elements in the same group share similar chemistry because they have the same number of valence electrons.",
+  "src": {
+   "t": "OpenStax Chemistry 2e, 2.5 The Periodic Table",
+   "u": "https://openstax.org/books/chemistry-2e/pages/2-5-the-periodic-table"
+  },
+  "items": [
+   {
+    "p": "H",
+    "a": "Hydrogen (H)",
+    "d": [
+     "Lithium (Li)"
+    ],
+    "ex": "The lightest element; its most common atom is one proton and one electron."
+   },
+   {
+    "p": "He",
+    "a": "Helium (He)",
+    "d": [
+     "Neon (Ne)"
+    ],
+    "ex": "A noble gas and the second most abundant element in the universe."
+   },
+   {
+    "p": "Li",
+    "a": "Lithium (Li)",
+    "d": [
+     "Beryllium (Be)",
+     "Hydrogen (H)",
+     "Sodium (Na)"
+    ],
+    "ex": "The lightest metal, used in rechargeable lithium-ion batteries."
+   },
+   {
+    "p": "Be",
+    "a": "Beryllium (Be)",
+    "d": [
+     "Lithium (Li)",
+     "Magnesium (Mg)"
+    ],
+    "ex": "A light, stiff alkaline earth metal used in aerospace parts and X-ray windows."
+   },
+   {
+    "p": "B",
+    "a": "Boron (B)",
+    "d": [
+     "Carbon (C)",
+     "Aluminum (Al)"
+    ],
+    "ex": "A metalloid used to make heat-resistant borosilicate glass."
+   },
+   {
+    "p": "C",
+    "a": "Carbon (C)",
+    "d": [
+     "Nitrogen (N)",
+     "Boron (B)",
+     "Silicon (Si)"
+    ],
+    "ex": "The backbone of organic molecules; diamond and graphite are both pure carbon."
+   },
+   {
+    "p": "N",
+    "a": "Nitrogen (N)",
+    "d": [
+     "Oxygen (O)",
+     "Carbon (C)",
+     "Phosphorus (P)"
+    ],
+    "ex": "Makes up about 78 percent of Earth’s atmosphere as N₂."
+   },
+   {
+    "p": "O",
+    "a": "Oxygen (O)",
+    "d": [
+     "Fluorine (F)",
+     "Nitrogen (N)",
+     "Sulfur (S)"
+    ],
+    "ex": "About 21 percent of air and the most abundant element in Earth’s crust by mass."
+   },
+   {
+    "p": "F",
+    "a": "Fluorine (F)",
+    "d": [
+     "Neon (Ne)",
+     "Oxygen (O)",
+     "Chlorine (Cl)"
+    ],
+    "ex": "The most electronegative element."
+   },
+   {
+    "p": "Ne",
+    "a": "Neon (Ne)",
+    "d": [
+     "Fluorine (F)",
+     "Helium (He)",
+     "Argon (Ar)"
+    ],
+    "ex": "A noble gas that glows red-orange in discharge signs."
+   },
+   {
+    "p": "Na",
+    "a": "Sodium (Na)",
+    "d": [
+     "Magnesium (Mg)",
+     "Lithium (Li)",
+     "Potassium (K)"
+    ],
+    "ex": "A soft alkali metal that reacts vigorously with water; half of table salt, NaCl."
+   },
+   {
+    "p": "Mg",
+    "a": "Magnesium (Mg)",
+    "d": [
+     "Sodium (Na)",
+     "Beryllium (Be)",
+     "Calcium (Ca)"
+    ],
+    "ex": "The metal ion at the center of every chlorophyll molecule."
+   },
+   {
+    "p": "Al",
+    "a": "Aluminum (Al)",
+    "d": [
+     "Silicon (Si)",
+     "Boron (B)",
+     "Gallium (Ga)"
+    ],
+    "ex": "The most abundant metal in Earth’s crust."
+   },
+   {
+    "p": "Si",
+    "a": "Silicon (Si)",
+    "d": [
+     "Phosphorus (P)",
+     "Aluminum (Al)",
+     "Carbon (C)"
+    ],
+    "ex": "The metalloid at the heart of computer chips; second most abundant element in the crust."
+   },
+   {
+    "p": "P",
+    "a": "Phosphorus (P)",
+    "d": [
+     "Sulfur (S)",
+     "Silicon (Si)",
+     "Nitrogen (N)"
+    ],
+    "ex": "Part of the sugar-phosphate backbone of DNA and of ATP."
+   },
+   {
+    "p": "S",
+    "a": "Sulfur (S)",
+    "d": [
+     "Chlorine (Cl)",
+     "Phosphorus (P)",
+     "Oxygen (O)"
+    ],
+    "ex": "A yellow nonmetal found in the amino acids cysteine and methionine."
+   },
+   {
+    "p": "Cl",
+    "a": "Chlorine (Cl)",
+    "d": [
+     "Argon (Ar)",
+     "Sulfur (S)",
+     "Fluorine (F)"
+    ],
+    "ex": "A yellow-green halogen gas used to disinfect drinking water."
+   },
+   {
+    "p": "Ar",
+    "a": "Argon (Ar)",
+    "d": [
+     "Chlorine (Cl)",
+     "Neon (Ne)",
+     "Krypton (Kr)"
+    ],
+    "ex": "The most abundant noble gas in air, a little under 1 percent."
+   },
+   {
+    "p": "K",
+    "a": "Potassium (K)",
+    "d": [
+     "Calcium (Ca)",
+     "Sodium (Na)",
+     "Rubidium (Rb)"
+    ],
+    "ex": "An alkali metal; K⁺ is the main positive ion inside cells."
+   },
+   {
+    "p": "Ca",
+    "a": "Calcium (Ca)",
+    "d": [
+     "Scandium (Sc)",
+     "Potassium (K)",
+     "Magnesium (Mg)"
+    ],
+    "ex": "An alkaline earth metal and the main mineral element in bones and teeth."
+   }
+  ]
+ },
+ {
+  "title": "Transition metals",
+  "kind": "diagram",
+  "dg": "ptable",
+  "note": "Groups 3 to 12 hold the transition metals. Period 4 runs from scandium to zinc; below them sit heavier relatives such as silver, platinum, and gold.",
+  "src": {
+   "t": "OpenStax Chemistry 2e, 2.5 The Periodic Table",
+   "u": "https://openstax.org/books/chemistry-2e/pages/2-5-the-periodic-table"
+  },
+  "items": [
+   {
+    "p": "Sc",
+    "a": "Scandium (Sc)",
+    "d": [
+     "Titanium (Ti)",
+     "Calcium (Ca)",
+     "Yttrium (Y)"
+    ],
+    "ex": "The first transition metal; small amounts strengthen aluminum alloys."
+   },
+   {
+    "p": "Ti",
+    "a": "Titanium (Ti)",
+    "d": [
+     "Vanadium (V)",
+     "Scandium (Sc)",
+     "Zirconium (Zr)"
+    ],
+    "ex": "Strong, light, and corrosion-resistant, so it is used in implants and aircraft."
+   },
+   {
+    "p": "V",
+    "a": "Vanadium (V)",
+    "d": [
+     "Chromium (Cr)",
+     "Titanium (Ti)",
+     "Niobium (Nb)"
+    ],
+    "ex": "Added to steel for toughness and used in vanadium redox flow batteries."
+   },
+   {
+    "p": "Cr",
+    "a": "Chromium (Cr)",
+    "d": [
+     "Manganese (Mn)",
+     "Vanadium (V)",
+     "Molybdenum (Mo)"
+    ],
+    "ex": "Gives stainless steel its corrosion resistance and chrome plating its shine."
+   },
+   {
+    "p": "Mn",
+    "a": "Manganese (Mn)",
+    "d": [
+     "Iron (Fe)",
+     "Chromium (Cr)",
+     "Technetium (Tc)"
+    ],
+    "ex": "Essential in steelmaking; a cluster of manganese atoms splits water in photosynthesis."
+   },
+   {
+    "p": "Fe",
+    "a": "Iron (Fe)",
+    "d": [
+     "Cobalt (Co)",
+     "Manganese (Mn)",
+     "Ruthenium (Ru)"
+    ],
+    "ex": "The most-used metal; it binds oxygen in the heme groups of hemoglobin."
+   },
+   {
+    "p": "Co",
+    "a": "Cobalt (Co)",
+    "d": [
+     "Nickel (Ni)",
+     "Iron (Fe)",
+     "Rhodium (Rh)"
+    ],
+    "ex": "The metal at the center of vitamin B₁₂."
+   },
+   {
+    "p": "Ni",
+    "a": "Nickel (Ni)",
+    "d": [
+     "Copper (Cu)",
+     "Cobalt (Co)",
+     "Palladium (Pd)"
+    ],
+    "ex": "A magnetic metal used in stainless steel and coins."
+   },
+   {
+    "p": "Cu",
+    "a": "Copper (Cu)",
+    "d": [
+     "Zinc (Zn)",
+     "Nickel (Ni)",
+     "Silver (Ag)"
+    ],
+    "ex": "An excellent electrical conductor used in most wiring."
+   },
+   {
+    "p": "Zn",
+    "a": "Zinc (Zn)",
+    "d": [
+     "Gallium (Ga)",
+     "Copper (Cu)",
+     "Cadmium (Cd)"
+    ],
+    "ex": "A cofactor in many enzymes; coats steel in galvanizing."
+   },
+   {
+    "p": "Zr",
+    "a": "Zirconium (Zr)",
+    "d": [
+     "Niobium (Nb)",
+     "Yttrium (Y)",
+     "Titanium (Ti)"
+    ],
+    "ex": "Absorbs few neutrons, so it clads nuclear fuel rods."
+   },
+   {
+    "p": "Mo",
+    "a": "Molybdenum (Mo)",
+    "d": [
+     "Technetium (Tc)",
+     "Niobium (Nb)",
+     "Chromium (Cr)"
+    ],
+    "ex": "Hardens steel and sits at the active site of nitrogenase."
+   },
+   {
+    "p": "Rh",
+    "a": "Rhodium (Rh)",
+    "d": [
+     "Palladium (Pd)",
+     "Ruthenium (Ru)",
+     "Cobalt (Co)"
+    ],
+    "ex": "A rare platinum-group metal used in catalytic converters."
+   },
+   {
+    "p": "Pd",
+    "a": "Palladium (Pd)",
+    "d": [
+     "Silver (Ag)",
+     "Rhodium (Rh)",
+     "Nickel (Ni)"
+    ],
+    "ex": "Can absorb hundreds of times its own volume of hydrogen gas."
+   },
+   {
+    "p": "Ag",
+    "a": "Silver (Ag)",
+    "d": [
+     "Cadmium (Cd)",
+     "Palladium (Pd)",
+     "Copper (Cu)"
+    ],
+    "ex": "Has the highest electrical conductivity of any element."
+   },
+   {
+    "p": "Cd",
+    "a": "Cadmium (Cd)",
+    "d": [
+     "Indium (In)",
+     "Silver (Ag)",
+     "Zinc (Zn)"
+    ],
+    "ex": "A toxic metal once common in nickel-cadmium batteries."
+   },
+   {
+    "p": "W",
+    "a": "Tungsten (W)",
+    "d": [
+     "Rhenium (Re)",
+     "Tantalum (Ta)",
+     "Molybdenum (Mo)"
+    ],
+    "ex": "Has the highest melting point of any metal, about 3,400 °C."
+   },
+   {
+    "p": "Os",
+    "a": "Osmium (Os)",
+    "d": [
+     "Iridium (Ir)",
+     "Rhenium (Re)",
+     "Ruthenium (Ru)"
+    ],
+    "ex": "The densest naturally occurring element."
+   },
+   {
+    "p": "Ir",
+    "a": "Iridium (Ir)",
+    "d": [
+     "Platinum (Pt)",
+     "Osmium (Os)",
+     "Rhodium (Rh)"
+    ],
+    "ex": "An iridium-rich clay layer marks the asteroid impact at the end of the Cretaceous."
+   },
+   {
+    "p": "Pt",
+    "a": "Platinum (Pt)",
+    "d": [
+     "Gold (Au)",
+     "Iridium (Ir)",
+     "Palladium (Pd)"
+    ],
+    "ex": "An unreactive precious metal in catalytic converters and the cancer drug cisplatin."
+   },
+   {
+    "p": "Au",
+    "a": "Gold (Au)",
+    "d": [
+     "Mercury (Hg)",
+     "Platinum (Pt)",
+     "Silver (Ag)"
+    ],
+    "ex": "Very unreactive and the most malleable metal."
+   },
+   {
+    "p": "Hg",
+    "a": "Mercury (Hg)",
+    "d": [
+     "Thallium (Tl)",
+     "Gold (Au)",
+     "Cadmium (Cd)"
+    ],
+    "ex": "The only metal that is liquid at room temperature."
+   }
+  ]
+ },
+ {
+  "title": "Heavier main-group elements",
+  "kind": "diagram",
+  "dg": "ptable",
+  "note": "Groups 1, 2, and 13 to 18 are the main-group elements. Moving down a group, atoms get larger and more metallic: carbon is a nonmetal, but tin and lead are metals.",
+  "src": {
+   "t": "OpenStax Chemistry 2e, 2.5 The Periodic Table",
+   "u": "https://openstax.org/books/chemistry-2e/pages/2-5-the-periodic-table"
+  },
+  "items": [
+   {
+    "p": "Ga",
+    "a": "Gallium (Ga)",
+    "d": [
+     "Germanium (Ge)",
+     "Zinc (Zn)",
+     "Aluminum (Al)"
+    ],
+    "ex": "Melts at about 30 °C, so it can melt in your hand."
+   },
+   {
+    "p": "Ge",
+    "a": "Germanium (Ge)",
+    "d": [
+     "Arsenic (As)",
+     "Gallium (Ga)",
+     "Silicon (Si)"
+    ],
+    "ex": "A metalloid Mendeleev predicted as eka-silicon; used in early transistors."
+   },
+   {
+    "p": "As",
+    "a": "Arsenic (As)",
+    "d": [
+     "Selenium (Se)",
+     "Germanium (Ge)",
+     "Phosphorus (P)"
+    ],
+    "ex": "A toxic metalloid long infamous as a poison."
+   },
+   {
+    "p": "Se",
+    "a": "Selenium (Se)",
+    "d": [
+     "Bromine (Br)",
+     "Arsenic (As)",
+     "Sulfur (S)"
+    ],
+    "ex": "A trace element built into antioxidant enzymes as selenocysteine."
+   },
+   {
+    "p": "Br",
+    "a": "Bromine (Br)",
+    "d": [
+     "Krypton (Kr)",
+     "Selenium (Se)",
+     "Chlorine (Cl)"
+    ],
+    "ex": "The only nonmetal that is liquid at room temperature."
+   },
+   {
+    "p": "Kr",
+    "a": "Krypton (Kr)",
+    "d": [
+     "Bromine (Br)",
+     "Argon (Ar)",
+     "Xenon (Xe)"
+    ],
+    "ex": "A noble gas whose light defined the meter from 1960 to 1983."
+   },
+   {
+    "p": "Rb",
+    "a": "Rubidium (Rb)",
+    "d": [
+     "Strontium (Sr)",
+     "Potassium (K)",
+     "Cesium (Cs)"
+    ],
+    "ex": "An alkali metal used in compact atomic clocks."
+   },
+   {
+    "p": "Sr",
+    "a": "Strontium (Sr)",
+    "d": [
+     "Yttrium (Y)",
+     "Rubidium (Rb)",
+     "Calcium (Ca)"
+    ],
+    "ex": "Its salts give fireworks a bright red color."
+   },
+   {
+    "p": "In",
+    "a": "Indium (In)",
+    "d": [
+     "Tin (Sn)",
+     "Cadmium (Cd)",
+     "Gallium (Ga)"
+    ],
+    "ex": "Indium tin oxide is the transparent conductor coating touchscreens."
+   },
+   {
+    "p": "Sn",
+    "a": "Tin (Sn)",
+    "d": [
+     "Antimony (Sb)",
+     "Indium (In)",
+     "Germanium (Ge)"
+    ],
+    "ex": "Alloyed with copper to make bronze; used to coat steel cans."
+   },
+   {
+    "p": "Sb",
+    "a": "Antimony (Sb)",
+    "d": [
+     "Tellurium (Te)",
+     "Tin (Sn)",
+     "Arsenic (As)"
+    ],
+    "ex": "A metalloid used in flame retardants and lead-acid battery alloys."
+   },
+   {
+    "p": "Te",
+    "a": "Tellurium (Te)",
+    "d": [
+     "Iodine (I)",
+     "Antimony (Sb)",
+     "Selenium (Se)"
+    ],
+    "ex": "A metalloid used in cadmium telluride solar cells."
+   },
+   {
+    "p": "I",
+    "a": "Iodine (I)",
+    "d": [
+     "Xenon (Xe)",
+     "Tellurium (Te)",
+     "Bromine (Br)"
+    ],
+    "ex": "A halogen the thyroid needs to make its hormones."
+   },
+   {
+    "p": "Xe",
+    "a": "Xenon (Xe)",
+    "d": [
+     "Iodine (I)",
+     "Krypton (Kr)",
+     "Radon (Rn)"
+    ],
+    "ex": "A noble gas that still forms compounds such as XeF₄."
+   },
+   {
+    "p": "Cs",
+    "a": "Cesium (Cs)",
+    "d": [
+     "Barium (Ba)",
+     "Rubidium (Rb)",
+     "Francium (Fr)"
+    ],
+    "ex": "An atomic transition in cesium-133 defines the SI second."
+   },
+   {
+    "p": "Ba",
+    "a": "Barium (Ba)",
+    "d": [
+     "Lanthanum (La)",
+     "Cesium (Cs)",
+     "Strontium (Sr)"
+    ],
+    "ex": "Barium sulfate is swallowed as a contrast agent for X-rays of the gut."
+   },
+   {
+    "p": "Tl",
+    "a": "Thallium (Tl)",
+    "d": [
+     "Lead (Pb)",
+     "Mercury (Hg)",
+     "Indium (In)"
+    ],
+    "ex": "A highly toxic metal once used in rat poison."
+   },
+   {
+    "p": "Pb",
+    "a": "Lead (Pb)",
+    "d": [
+     "Bismuth (Bi)",
+     "Thallium (Tl)",
+     "Tin (Sn)"
+    ],
+    "ex": "A dense, toxic metal and the stable end of uranium and thorium decay chains."
+   },
+   {
+    "p": "Bi",
+    "a": "Bismuth (Bi)",
+    "d": [
+     "Polonium (Po)",
+     "Lead (Pb)",
+     "Antimony (Sb)"
+    ],
+    "ex": "The heavy metal in the stomach remedy bismuth subsalicylate."
+   },
+   {
+    "p": "Po",
+    "a": "Polonium (Po)",
+    "d": [
+     "Astatine (At)",
+     "Bismuth (Bi)",
+     "Tellurium (Te)"
+    ],
+    "ex": "A radioactive element discovered by Marie and Pierre Curie and named for Poland."
+   },
+   {
+    "p": "At",
+    "a": "Astatine (At)",
+    "d": [
+     "Radon (Rn)",
+     "Polonium (Po)",
+     "Iodine (I)"
+    ],
+    "ex": "A radioactive halogen so rare that Earth’s crust holds well under a gram at any time."
+   },
+   {
+    "p": "Rn",
+    "a": "Radon (Rn)",
+    "d": [
+     "Astatine (At)",
+     "Xenon (Xe)",
+     "Oganesson (Og)"
+    ],
+    "ex": "A radioactive noble gas that can build up in basements."
+   },
+   {
+    "p": "Fr",
+    "a": "Francium (Fr)",
+    "d": [
+     "Radium (Ra)",
+     "Cesium (Cs)"
+    ],
+    "ex": "A highly radioactive alkali metal discovered by Marguerite Perey in 1939."
+   },
+   {
+    "p": "Ra",
+    "a": "Radium (Ra)",
+    "d": [
+     "Actinium (Ac)",
+     "Francium (Fr)",
+     "Barium (Ba)"
+    ],
+    "ex": "A radioactive alkaline earth metal discovered by the Curies; once painted on glowing watch dials."
+   }
+  ]
+ },
+ {
+  "title": "Lanthanides, actinides, and other notables",
+  "kind": "diagram",
+  "dg": "ptable",
+  "note": "The two rows set below the table are the inner transition metals: the lanthanide row follows lanthanum and the actinide row follows actinium. Nearly every element past uranium is made in reactors or accelerators.",
+  "src": {
+   "t": "OpenStax Chemistry 2e, 2.5 The Periodic Table",
+   "u": "https://openstax.org/books/chemistry-2e/pages/2-5-the-periodic-table"
+  },
+  "items": [
+   {
+    "p": "Y",
+    "a": "Yttrium (Y)",
+    "d": [
+     "Zirconium (Zr)",
+     "Strontium (Sr)",
+     "Scandium (Sc)"
+    ],
+    "ex": "Part of yttrium barium copper oxide, a high-temperature superconductor."
+   },
+   {
+    "p": "Nb",
+    "a": "Niobium (Nb)",
+    "d": [
+     "Molybdenum (Mo)",
+     "Zirconium (Zr)",
+     "Vanadium (V)"
+    ],
+    "ex": "Niobium-titanium wire forms the superconducting magnets in MRI scanners."
+   },
+   {
+    "p": "Tc",
+    "a": "Technetium (Tc)",
+    "d": [
+     "Ruthenium (Ru)",
+     "Molybdenum (Mo)",
+     "Manganese (Mn)"
+    ],
+    "ex": "The lightest element with no stable isotope; Tc-99m is a common imaging tracer."
+   },
+   {
+    "p": "Hf",
+    "a": "Hafnium (Hf)",
+    "d": [
+     "Tantalum (Ta)",
+     "Lanthanum (La)",
+     "Zirconium (Zr)"
+    ],
+    "ex": "Absorbs neutrons strongly, so it is used in nuclear control rods."
+   },
+   {
+    "p": "Ta",
+    "a": "Tantalum (Ta)",
+    "d": [
+     "Tungsten (W)",
+     "Hafnium (Hf)",
+     "Niobium (Nb)"
+    ],
+    "ex": "A corrosion-resistant metal used in tiny capacitors in phones."
+   },
+   {
+    "p": "Re",
+    "a": "Rhenium (Re)",
+    "d": [
+     "Osmium (Os)",
+     "Tungsten (W)",
+     "Technetium (Tc)"
+    ],
+    "ex": "One of the rarest elements in the crust; used in jet-engine superalloys."
+   },
+   {
+    "p": "La",
+    "a": "Lanthanum (La)",
+    "d": [
+     "Hafnium (Hf)",
+     "Barium (Ba)",
+     "Yttrium (Y)"
+    ],
+    "ex": "Gives its name to the lanthanide series."
+   },
+   {
+    "p": "Ce",
+    "a": "Cerium (Ce)",
+    "d": [
+     "Praseodymium (Pr)",
+     "Thorium (Th)"
+    ],
+    "ex": "The most abundant lanthanide; cerium oxide polishes glass."
+   },
+   {
+    "p": "Nd",
+    "a": "Neodymium (Nd)",
+    "d": [
+     "Promethium (Pm)",
+     "Praseodymium (Pr)",
+     "Uranium (U)"
+    ],
+    "ex": "Neodymium-iron-boron magnets are the strongest permanent magnets."
+   },
+   {
+    "p": "Eu",
+    "a": "Europium (Eu)",
+    "d": [
+     "Gadolinium (Gd)",
+     "Samarium (Sm)",
+     "Americium (Am)"
+    ],
+    "ex": "Europium phosphors supply the red in many screens and lamps."
+   },
+   {
+    "p": "Gd",
+    "a": "Gadolinium (Gd)",
+    "d": [
+     "Terbium (Tb)",
+     "Europium (Eu)",
+     "Curium (Cm)"
+    ],
+    "ex": "Gadolinium compounds are used as MRI contrast agents."
+   },
+   {
+    "p": "Ac",
+    "a": "Actinium (Ac)",
+    "d": [
+     "Rutherfordium (Rf)",
+     "Radium (Ra)",
+     "Lanthanum (La)"
+    ],
+    "ex": "Gives its name to the actinide series."
+   },
+   {
+    "p": "Th",
+    "a": "Thorium (Th)",
+    "d": [
+     "Protactinium (Pa)",
+     "Cerium (Ce)"
+    ],
+    "ex": "A radioactive metal that can breed fissile uranium-233 in reactors."
+   },
+   {
+    "p": "U",
+    "a": "Uranium (U)",
+    "d": [
+     "Neptunium (Np)",
+     "Protactinium (Pa)",
+     "Neodymium (Nd)"
+    ],
+    "ex": "Fission of uranium-235 powers most nuclear reactors."
+   },
+   {
+    "p": "Np",
+    "a": "Neptunium (Np)",
+    "d": [
+     "Plutonium (Pu)",
+     "Uranium (U)",
+     "Promethium (Pm)"
+    ],
+    "ex": "The first transuranium element, made in 1940."
+   },
+   {
+    "p": "Pu",
+    "a": "Plutonium (Pu)",
+    "d": [
+     "Americium (Am)",
+     "Neptunium (Np)",
+     "Samarium (Sm)"
+    ],
+    "ex": "Plutonium-238 heat powers generators on deep-space probes."
+   },
+   {
+    "p": "Am",
+    "a": "Americium (Am)",
+    "d": [
+     "Curium (Cm)",
+     "Plutonium (Pu)",
+     "Europium (Eu)"
+    ],
+    "ex": "Americium-241 is the radiation source in many smoke detectors."
+   },
+   {
+    "p": "Cm",
+    "a": "Curium (Cm)",
+    "d": [
+     "Berkelium (Bk)",
+     "Americium (Am)",
+     "Gadolinium (Gd)"
+    ],
+    "ex": "Named for Marie and Pierre Curie."
+   },
+   {
+    "p": "Cf",
+    "a": "Californium (Cf)",
+    "d": [
+     "Einsteinium (Es)",
+     "Berkelium (Bk)",
+     "Dysprosium (Dy)"
+    ],
+    "ex": "Californium-252 is a strong neutron source."
+   },
+   {
+    "p": "Es",
+    "a": "Einsteinium (Es)",
+    "d": [
+     "Fermium (Fm)",
+     "Californium (Cf)",
+     "Holmium (Ho)"
+    ],
+    "ex": "First found in the debris of the 1952 hydrogen bomb test."
+   },
+   {
+    "p": "Md",
+    "a": "Mendelevium (Md)",
+    "d": [
+     "Nobelium (No)",
+     "Fermium (Fm)",
+     "Thulium (Tm)"
+    ],
+    "ex": "Named for Dmitri Mendeleev, who built the periodic table."
+   },
+   {
+    "p": "No",
+    "a": "Nobelium (No)",
+    "d": [
+     "Lawrencium (Lr)",
+     "Mendelevium (Md)",
+     "Ytterbium (Yb)"
+    ],
+    "ex": "Named for Alfred Nobel."
+   },
+   {
+    "p": "Rf",
+    "a": "Rutherfordium (Rf)",
+    "d": [
+     "Dubnium (Db)",
+     "Actinium (Ac)",
+     "Hafnium (Hf)"
+    ],
+    "ex": "Element 104, named for Ernest Rutherford."
+   },
+   {
+    "p": "Cn",
+    "a": "Copernicium (Cn)",
+    "d": [
+     "Nihonium (Nh)",
+     "Roentgenium (Rg)",
+     "Mercury (Hg)"
+    ],
+    "ex": "Element 112, named for Nicolaus Copernicus."
+   },
+   {
+    "p": "Fl",
+    "a": "Flerovium (Fl)",
+    "d": [
+     "Moscovium (Mc)",
+     "Nihonium (Nh)",
+     "Lead (Pb)"
+    ],
+    "ex": "Element 114, named for the Flerov Laboratory in Dubna, Russia."
+   },
+   {
+    "p": "Ts",
+    "a": "Tennessine (Ts)",
+    "d": [
+     "Oganesson (Og)",
+     "Livermorium (Lv)",
+     "Astatine (At)"
+    ],
+    "ex": "Element 117, named for the state of Tennessee."
+   },
+   {
+    "p": "Og",
+    "a": "Oganesson (Og)",
+    "d": [
+     "Tennessine (Ts)",
+     "Radon (Rn)"
+    ],
+    "ex": "Element 118, the heaviest known; it sits in group 18 under radon."
+   }
+  ]
+ }
+]

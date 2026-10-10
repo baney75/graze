@@ -1,0 +1,268 @@
+{
+  "title": "The order of the New Testament books",
+  "note": "The New Testament runs Gospels (Matthew, Mark, Luke, John), then Acts, then Paul's 13 letters (to churches first, then to individuals, each group roughly longest to shortest), then Hebrews and the general letters, and finally Revelation.",
+  "src": {
+    "t": "The King James Version of the Bible, list of books, Project Gutenberg eBook #10",
+    "u": "https://www.gutenberg.org/ebooks/10"
+  },
+  "items": [
+    {
+      "c": "First book of the New Testament",
+      "a": "Matthew",
+      "d": [
+        "Mark",
+        "Luke"
+      ]
+    },
+    {
+      "c": "Second Gospel in canonical order",
+      "a": "Mark",
+      "d": [
+        "Luke",
+        "John"
+      ]
+    },
+    {
+      "c": "Matthew, Mark, ___",
+      "a": "Luke",
+      "d": [
+        "John",
+        "Acts"
+      ]
+    },
+    {
+      "c": "Mark, Luke, ___",
+      "a": "John",
+      "d": [
+        "Acts",
+        "Romans"
+      ]
+    },
+    {
+      "c": "Book between the Gospels and Paul's letters",
+      "a": "Acts",
+      "d": [
+        "Hebrews",
+        "James"
+      ]
+    },
+    {
+      "c": "John, Acts, ___",
+      "a": "Romans",
+      "d": [
+        "Galatians",
+        "1 Corinthians"
+      ]
+    },
+    {
+      "c": "Romans, ___, 2 Corinthians",
+      "a": "1 Corinthians",
+      "d": [
+        "Galatians",
+        "Ephesians"
+      ]
+    },
+    {
+      "c": "Romans, 1 Corinthians, ___",
+      "a": "2 Corinthians",
+      "d": [
+        "Galatians",
+        "Ephesians"
+      ]
+    },
+    {
+      "c": "2 Corinthians, ___, Ephesians",
+      "a": "Galatians",
+      "d": [
+        "Philippians",
+        "Colossians"
+      ]
+    },
+    {
+      "c": "Galatians, ___, Philippians",
+      "a": "Ephesians",
+      "d": [
+        "Colossians",
+        "Romans"
+      ]
+    },
+    {
+      "c": "Galatians, Ephesians, ___",
+      "a": "Philippians",
+      "d": [
+        "Colossians",
+        "Philemon"
+      ]
+    },
+    {
+      "c": "Philippians, ___, 1 Thessalonians",
+      "a": "Colossians",
+      "d": [
+        "Ephesians",
+        "1 Timothy"
+      ]
+    },
+    {
+      "c": "Colossians, ___, 2 Thessalonians",
+      "a": "1 Thessalonians",
+      "d": [
+        "1 Timothy",
+        "Philippians"
+      ]
+    },
+    {
+      "c": "Colossians, 1 Thessalonians, ___",
+      "a": "2 Thessalonians",
+      "d": [
+        "1 Timothy",
+        "Titus"
+      ]
+    },
+    {
+      "c": "2 Thessalonians, ___, 2 Timothy",
+      "a": "1 Timothy",
+      "d": [
+        "Titus",
+        "Philemon"
+      ]
+    },
+    {
+      "c": "1 Timothy, ___, Titus",
+      "a": "2 Timothy",
+      "d": [
+        "Philemon",
+        "2 Thessalonians"
+      ]
+    },
+    {
+      "c": "1 Timothy, 2 Timothy, ___",
+      "a": "Titus",
+      "d": [
+        "Philemon",
+        "Hebrews"
+      ]
+    },
+    {
+      "c": "Titus, ___, Hebrews",
+      "a": "Philemon",
+      "d": [
+        "James",
+        "Philippians"
+      ]
+    },
+    {
+      "c": "Philemon, ___, James",
+      "a": "Hebrews",
+      "d": [
+        "1 Peter",
+        "Titus"
+      ]
+    },
+    {
+      "c": "Philemon, Hebrews, ___",
+      "a": "James",
+      "d": [
+        "1 Peter",
+        "Jude"
+      ]
+    },
+    {
+      "c": "James, ___, 2 Peter",
+      "a": "1 Peter",
+      "d": [
+        "1 John",
+        "Jude"
+      ]
+    },
+    {
+      "c": "James, 1 Peter, ___",
+      "a": "2 Peter",
+      "d": [
+        "1 John",
+        "Jude"
+      ]
+    },
+    {
+      "c": "1 Peter, 2 Peter, ___",
+      "a": "1 John",
+      "d": [
+        "Jude",
+        "James"
+      ]
+    },
+    {
+      "c": "1 John, ___, 3 John",
+      "a": "2 John",
+      "d": [
+        "2 Peter",
+        "Jude"
+      ]
+    },
+    {
+      "c": "2 John, 3 John, ___",
+      "a": "Jude",
+      "d": [
+        "Revelation",
+        "1 Peter"
+      ]
+    },
+    {
+      "c": "Jude, ___ (the last book)",
+      "a": "Revelation",
+      "d": [
+        "Hebrews",
+        "Acts"
+      ]
+    },
+    {
+      "c": "How Paul's letters are ordered in the canon",
+      "a": "churches first, then individuals, roughly by length",
+      "d": [
+        "by the date each was written",
+        "alphabetically by recipient"
+      ]
+    },
+    {
+      "c": "Pastoral Epistles",
+      "a": "1 Timothy, 2 Timothy and Titus",
+      "d": [
+        "Romans, Galatians and Hebrews",
+        "James, Jude and 1 Peter"
+      ],
+      "ex": "Called pastoral because they guide church leaders."
+    },
+    {
+      "c": "Prison Epistles",
+      "a": "Ephesians, Philippians, Colossians, Philemon",
+      "d": [
+        "Romans, 1 and 2 Corinthians, Galatians",
+        "1 and 2 Thessalonians, Titus, Jude"
+      ],
+      "ex": "Each presents Paul as writing in chains or bonds."
+    },
+    {
+      "c": "One-chapter books of the New Testament",
+      "a": "Philemon, 2 John, 3 John, Jude",
+      "d": [
+        "Titus, James, Jude, Hebrews",
+        "Philemon, Titus, 1 John, Jude"
+      ]
+    },
+    {
+      "c": "Number of New Testament letters",
+      "a": "21",
+      "d": [
+        "13",
+        "27"
+      ]
+    },
+    {
+      "c": "Books traditionally credited to John",
+      "a": "a Gospel, three letters and Revelation",
+      "d": [
+        "a Gospel and Acts",
+        "two letters and Hebrews"
+      ]
+    }
+  ]
+}

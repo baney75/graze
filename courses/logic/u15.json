@@ -1,0 +1,46 @@
+{
+  "title": "Rhetoric and debate",
+  "note": "Aristotle named three technical means of persuasion: ethos, the speaker's character as shown in the speech; pathos, the hearers' emotions; and logos, the argument itself. In fair debate, whoever makes a claim bears the burden of proof, objections aim at the strongest version of a view, and questions expose hidden assumptions.",
+  "src": { "t": "Aristotle's Rhetoric, Stanford Encyclopedia of Philosophy", "u": "https://plato.stanford.edu/entries/aristotle-rhetoric/" },
+  "items": [
+    { "c": "Burden of proof", "a": "whoever makes a claim must support it", "d": ["whoever doubts a claim must disprove it", "the larger side need not argue", "the oldest view wins by default"] },
+    { "c": "Motte-and-bailey", "a": "retreating to a safer claim when challenged", "d": ["attacking a distorted version of a claim", "raising the bar after it is met", "flooding a debate with weak claims"] },
+    { "c": "Ethos", "a": "persuasion through the speaker's character", "d": ["persuasion through the audience's emotions", "persuasion through the argument itself"] },
+    { "c": "Pathos", "a": "persuasion through the audience's emotions", "d": ["persuasion through the speaker's character", "persuasion through the argument itself"] },
+    { "c": "Logos", "a": "persuasion through the argument itself", "d": ["persuasion through the speaker's character", "persuasion through the audience's emotions"] },
+    { "c": "'As a nurse for 20 years, I can tell you...'", "a": "an appeal to ethos", "d": ["an appeal to pathos", "an appeal to logos"] },
+    { "c": "'Picture these families, their homes flooded...'", "a": "an appeal to pathos", "d": ["an appeal to ethos", "an appeal to logos"] },
+    { "c": "'Costs fell 20% after the change. See the data.'", "a": "an appeal to logos", "d": ["an appeal to ethos", "an appeal to pathos"] },
+    { "c": "What Aristotle called the 'body of persuasion'", "a": "the enthymeme, a rhetorical deduction", "d": ["the example, a rhetorical induction", "the speaker's delivery", "the emotional appeal"] },
+    { "c": "Deliberative rhetoric concerns", "a": "the future: what we should do", "d": ["the past: what was just or unjust", "the present: praise or blame"] },
+    { "c": "Judicial (forensic) rhetoric concerns", "a": "the past: what was just or unjust", "d": ["the future: what we should do", "the present: praise or blame"] },
+    { "c": "Epideictic (ceremonial) rhetoric concerns", "a": "the present: praise or blame", "d": ["the future: what we should do", "the past: what was just or unjust"] },
+    { "c": "Socratic method (elenchus)", "a": "questioning that tests a view for inconsistency", "d": ["lecturing until the listener agrees", "voting on which view is best"] },
+    { "c": "Aporia", "a": "puzzlement when a view collapses under questioning", "d": ["confidence after winning a debate", "the conclusion of a proof"] },
+    { "c": "Shifting the burden of proof", "a": "demanding others disprove your claim", "d": ["offering evidence for your own claim", "conceding a point to an opponent"] },
+    { "c": "Refuting 'All swans are white' takes", "a": "one genuine counterexample", "d": ["many confirming cases", "an expert's opinion", "a majority vote"] },
+    { "c": "Refuting a view by showing it implies absurdity", "a": "reductio ad absurdum refutation", "d": ["ad hominem refutation", "appeal to ridicule"] },
+    { "c": "Rebutting defeater", "a": "evidence that the conclusion is false", "d": ["evidence the premises don't support the conclusion", "a premise that is irrelevant"] },
+    { "c": "Undercutting defeater", "a": "evidence that the premises don't support the conclusion", "d": ["evidence that the conclusion is false", "a premise that restates the conclusion"] },
+    { "c": "Concession", "a": "granting part of an opponent's point", "d": ["withdrawing your whole position", "ignoring an opponent's point"] },
+    { "c": "Gish gallop", "a": "flooding a debate with many weak claims", "d": ["retreating to a safer claim when challenged", "repeating one claim louder"] },
+    { "c": "Moving the goalposts", "a": "raising the bar after the evidence meets it", "d": ["retreating to a safer claim when challenged", "lowering the bar for your own side"] },
+    { "c": "Loaded language", "a": "emotive words passed off as neutral description", "d": ["technical words used precisely", "a question that hides an assumption"] },
+    { "c": "Kairos, in rhetoric", "a": "the timely or fitting moment for a message", "d": ["the speaker's character", "the logical structure of a speech"] },
+    { "c": "Rogerian argument", "a": "seek common ground before stating disagreement", "d": ["attack the opponent's weakest point first", "concede nothing to the opponent"] }
+  ],
+  "read": {
+    "title": "Persuading fairly",
+    "text": [
+      "Aristotle defined rhetoric as the ability to see the available means of persuasion in each case. He named three that the speaker supplies. Ethos is the speaker's character as it comes across in the speech: good sense, good will, and virtue. Pathos is putting the audience in a fitting frame of mind. Logos is the argument itself, and Aristotle considered the enthymeme, a deduction from premises the audience already accepts, the 'body' of persuasion.",
+      "None of these is a trick in itself. Emotion is fitting when the facts warrant it, and a speaker's track record is real evidence. They become manipulation when they replace reasons rather than accompany them.",
+      "Fair debate has rules of its own. Whoever makes a claim carries the burden of proof; demanding that others disprove it shifts that burden unfairly. Socrates showed the power of questions: by drawing out what a person already believed, he exposed contradictions and left the confident puzzled, a state called aporia.",
+      "Good refutation aims at the strongest form of a view. One clear counterexample can refute a universal claim, and showing that a view implies something absurd can refute it outright. Conceding what is true in an opponent's case usually makes your remaining objections more credible."
+    ],
+    "q": [
+      { "q": "Which means of persuasion did Aristotle call the 'body' of persuasion?", "o": ["Ethos", "The enthymeme", "Pathos"], "k": 1 },
+      { "q": "According to the reading, when do emotional appeals become manipulation?", "o": ["Whenever they are used", "Only in written speeches", "When they replace reasons rather than accompany them"], "k": 2 },
+      { "q": "What is aporia?", "o": ["Puzzlement after one's beliefs are exposed as contradictory", "A deduction from accepted premises", "A shift in the burden of proof"], "k": 0 }
+    ]
+  }
+}

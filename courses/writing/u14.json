@@ -1,0 +1,43 @@
+{
+  "title": "Paragraphs, coherence and transitions",
+  "note": "A paragraph develops one main idea, usually announced in a topic sentence near the start. It has unity when every sentence serves that idea, and coherence when the sentences connect through repeated key terms, pronouns, parallel structure and transitions such as however, therefore and for example.",
+  "src": { "t": "Purdue OWL, On Paragraphs", "u": "https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html" },
+  "items": [
+    { "c": "Paragraph", "a": "a group of related sentences on one main idea", "d": ["any five sentences in a row", "a section of an essay with a heading"] },
+    { "c": "Topic sentence", "a": "the sentence stating a paragraph's main idea", "d": ["the final sentence of an essay", "a sentence that gives a statistic"] },
+    { "c": "Usual place for a topic sentence", "a": "at or near the beginning", "d": ["always the last sentence", "hidden in the middle"] },
+    { "c": "Unity (in a paragraph)", "a": "every sentence supports the main idea", "d": ["every sentence is the same length", "every sentence starts with a transition"] },
+    { "c": "Coherence (in a paragraph)", "a": "sentences connect so readers can follow", "d": ["each sentence makes a new point", "the paragraph has a single sentence"] },
+    { "c": "Paragraph that lacks unity", "a": "one that drifts to an unrelated point", "d": ["one that gives three examples", "one that ends with a transition"] },
+    { "c": "Verbal bridges that build coherence", "a": "repeated key words, pronouns, transitions", "d": ["longer words and rarer synonyms", "headings and bullet points"] },
+    { "c": "Pronouns aid coherence by", "a": "pointing back to nouns already named", "d": ["replacing every noun in the paragraph", "introducing new characters"] },
+    { "c": "Link sentences within a paragraph by", "a": "opening each with something already mentioned", "d": ["opening each with a brand-new term", "repeating the topic sentence each time"] },
+    { "c": "Transition showing contrast", "a": "however", "d": ["moreover", "therefore", "for example"] },
+    { "c": "Transition showing a result", "a": "therefore", "d": ["however", "similarly", "meanwhile"] },
+    { "c": "Transition adding a point", "a": "moreover", "d": ["nevertheless", "consequently", "instead"] },
+    { "c": "Transition introducing an example", "a": "for instance", "d": ["in contrast", "as a result", "finally"] },
+    { "c": "Transition showing similarity", "a": "likewise", "d": ["instead", "thus", "otherwise"] },
+    { "c": "Transition showing events at the same time", "a": "meanwhile", "d": ["likewise", "thus", "otherwise"] },
+    { "c": "Transition that concedes a point", "a": "admittedly", "d": ["consequently", "furthermore", "likewise"] },
+    { "c": "He studied. ___, he failed. (Nevertheless/Thus)", "a": "Nevertheless", "d": ["Thus"] },
+    { "c": "Snow fell. ___, we stayed in. (Thus/However)", "a": "Thus", "d": ["However"] },
+    { "c": "When to start a new paragraph", "a": "when you move to a new idea", "d": ["after every three sentences", "whenever a sentence runs long"] },
+    { "c": "Sign of an underdeveloped paragraph", "a": "a claim with little or no support", "d": ["a topic sentence at the start", "a transition in the first line"] },
+    { "c": "Ways to develop a paragraph", "a": "examples, data, analysis, comparison", "d": ["repeating the topic sentence", "adding adjectives and adverbs"] },
+    { "c": "Signpost (in writing)", "a": "a sentence telling readers where the text is going", "d": ["a citation after a quotation", "a heading in bold type"], "ex": "Having seen the causes, we can now turn to the cures." },
+    { "c": "Concluding sentence of a paragraph", "a": "wraps up the idea or links to the next", "d": ["introduces a brand-new topic", "repeats the first sentence word for word"] }
+  ],
+  "read": {
+    "title": "Building a paragraph",
+    "text": [
+      "A paragraph is a unit of thought, not a unit of length. It should make one point and make it fully. Consider this example: \"City trees do more than decorate streets. They cool the air by shading pavement and releasing water vapor. They also absorb rainwater that would otherwise flood storm drains. For these reasons, planting trees is one of the cheapest ways a city can prepare for hotter summers.\"",
+      "The first sentence is the topic sentence; it announces the claim. Each following sentence supports that claim, so the paragraph has unity. The sentences also connect. The pronoun they points back to trees, the word also signals an added point, and \"For these reasons\" gathers the evidence into a conclusion. These links give the paragraph coherence.",
+      "A paragraph loses unity when it drifts. If a sentence about the history of a city's parks appeared in the middle of the example, it would be interesting but off topic, and it would belong in a different paragraph. When you revise, read each paragraph's first sentence, then check every other sentence against it."
+    ],
+    "q": [
+      { "q": "In the example, what does the topic sentence claim?", "o": ["City trees do more than decorate streets", "Trees release water vapor", "Parks have a long history"], "k": 0 },
+      { "q": "Which feature of the example builds coherence?", "o": ["Its sentences are all the same length", "It mentions the history of parks", "The pronoun they points back to trees"], "k": 2 },
+      { "q": "Why would a sentence on park history hurt the example?", "o": ["It would make the paragraph too long", "It would break the paragraph's unity", "It would need a citation"], "k": 1 }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Food and drink",
+  "note": "想 + verb means \"would like to\": 我想喝茶. 要 + noun asks for something: 我要一杯咖啡. To offer a choice in a question, use 还是: 茶还是咖啡？ An adjective with 了 shows a new state: 我饿了 \"I'm hungry (now).\"",
+  "src": { "t": "Chinese Grammar Wiki: offering choices with 还是", "u": "https://resources.allsetlearning.com/chinese/grammar/ASGA8NIB" },
+  "items": [
+    { "c": "吃", "r": "chī", "a": "to eat", "d": ["to drink", "to cook"], "ex": "我们去吃饭吧。", "exT": "Let's go eat." },
+    { "c": "喝", "r": "hē", "a": "to drink", "d": ["to eat", "to buy"], "ex": "你喝水吗？", "exT": "Do you want water?" },
+    { "c": "米饭", "r": "mǐfàn", "a": "cooked rice", "d": ["noodles", "bread"] },
+    { "c": "早饭", "r": "zǎofàn", "a": "breakfast", "d": ["lunch", "dinner"] },
+    { "c": "午饭", "r": "wǔfàn", "a": "lunch", "d": ["breakfast", "snack"] },
+    { "c": "晚饭", "r": "wǎnfàn", "a": "dinner", "d": ["lunch", "breakfast"], "ex": "我们七点吃晚饭。", "exT": "We eat dinner at seven." },
+    { "c": "面条", "r": "miàntiáo", "a": "noodles", "d": ["dumplings", "rice"] },
+    { "c": "饺子", "r": "jiǎozi", "a": "dumplings", "d": ["noodles", "buns"] },
+    { "c": "菜", "r": "cài", "a": "dish (of food); vegetable", "d": ["fruit; snack", "meat; fish"] },
+    { "c": "水", "r": "shuǐ", "a": "water", "d": ["tea", "milk"] },
+    { "c": "茶", "r": "chá", "a": "tea", "d": ["coffee", "juice"] },
+    { "c": "咖啡", "r": "kāfēi", "a": "coffee", "d": ["tea", "cola"] },
+    { "c": "牛奶", "r": "niúnǎi", "a": "milk", "d": ["beer", "water"] },
+    { "c": "鸡蛋", "r": "jīdàn", "a": "egg", "d": ["chicken", "bread"] },
+    { "c": "苹果", "r": "píngguǒ", "a": "apple", "d": ["banana", "watermelon"], "ex": "我想吃苹果。", "exT": "I'd like an apple." },
+    { "c": "水果", "r": "shuǐguǒ", "a": "fruit", "d": ["vegetable", "juice"] },
+    { "c": "西瓜", "r": "xīguā", "a": "watermelon", "d": ["apple", "pumpkin"] },
+    { "c": "鱼", "r": "yú", "a": "fish", "d": ["lamb", "chicken"] },
+    { "c": "羊肉", "r": "yángròu", "a": "lamb, mutton", "d": ["beef", "pork"] },
+    { "c": "好吃", "r": "hǎochī", "a": "tasty (food)", "d": ["easy to make", "hungry"], "ex": "这个菜很好吃。", "exT": "This dish is delicious." },
+    { "c": "饿", "r": "è", "a": "hungry", "d": ["thirsty", "full"] },
+    { "c": "渴", "r": "kě", "a": "thirsty", "d": ["hungry", "tired"] },
+    { "c": "饭店", "r": "fàndiàn", "a": "restaurant; hotel", "d": ["store; market", "kitchen; dining room"] },
+    { "c": "服务员", "r": "fúwùyuán", "a": "waiter, server", "d": ["cook, chef", "customer, guest"] },
+    { "c": "菜单", "r": "càidān", "a": "menu", "d": ["bill", "receipt"] },
+    { "c": "一点儿", "r": "yīdiǎnr", "a": "a little, a bit", "d": ["very much", "one o'clock"], "ex": "我想喝一点儿水。", "exT": "I'd like a little water." },
+    { "c": "我饿了。", "r": "Wǒ è le.", "a": "I'm hungry.", "d": ["I'm full.", "I already ate."] },
+    { "c": "你想吃什么？", "r": "Nǐ xiǎng chī shénme?", "a": "What would you like to eat?", "d": ["What did you eat?", "Do you want to eat?"] },
+    { "c": "我要一杯咖啡。", "r": "Wǒ yào yī bēi kāfēi.", "a": "I'd like a cup of coffee.", "d": ["I drank one coffee.", "I have a coffee cup."] },
+    { "c": "服务员，买单！", "r": "Fúwùyuán, mǎidān!", "a": "Waiter, the check please!", "d": ["Waiter, the menu please!", "Waiter, more water please!"] },
+    { "c": "我___喝茶。(would like to)", "r": "Wǒ ___ hē chá.", "a": "想", "d": ["会", "是"], "ex": "我想喝茶。", "exT": "I'd like to drink tea." },
+    { "c": "你喝茶___喝咖啡？", "r": "Nǐ hē chá ___ hē kāfēi?", "a": "还是", "d": ["或者", "和"], "ex": "你喝茶还是喝咖啡？", "exT": "Will you have tea or coffee?" },
+    { "c": "你要___？(What do you want?)", "r": "Nǐ yào ___?", "a": "什么", "d": ["谁", "哪"] },
+    { "c": "我饿___。(hungry now)", "r": "Wǒ è ___.", "a": "了", "d": ["的", "是"] }
+  ],
+  "read": {
+    "title": "在饭店",
+    "text": [
+      "服务员：你们好！你们想吃什么？",
+      "大卫：我想吃饺子。小王，你呢？",
+      "小王：我不太饿，我想吃一点儿面条。",
+      "服务员：你们想喝什么？茶还是咖啡？",
+      "大卫：我要一杯咖啡。",
+      "小王：我不喝咖啡，我要一杯茶。",
+      "大卫：这里的饺子很好吃！服务员，买单！"
+    ],
+    "q": [
+      { "q": "What does David eat?", "o": ["Noodles", "Dumplings", "Rice and fish"], "k": 1 },
+      { "q": "What does Xiao Wang drink?", "o": ["Coffee", "Water", "Tea"], "k": 2 },
+      { "q": "Why does Xiao Wang order only a little noodles?", "o": ["He isn't very hungry", "He doesn't like dumplings", "The restaurant is expensive"], "k": 0 }
+    ]
+  }
+}

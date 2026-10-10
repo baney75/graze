@@ -1,0 +1,52 @@
+{
+  "title": "Molecular geometry (VSEPR) and polarity",
+  "note": "VSEPR: electron regions around a central atom (bonds of any order, or lone pairs) spread as far apart as possible. The electron-pair geometry counts all regions; the molecular shape names only where atoms are. Lone pairs take more room and squeeze bond angles. A molecule is polar if it has polar bonds whose dipoles do not cancel.",
+  "src": { "t": "Chemistry 2e, 7.6 Molecular Structure and Polarity, OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity" },
+  "items": [
+    { "c": "Electron-pair geometry with 3 regions", "a": "trigonal planar", "d": ["tetrahedral", "trigonal pyramidal"] },
+    { "c": "Electron-pair geometry with 4 regions", "a": "tetrahedral", "d": ["square planar", "trigonal planar"] },
+    { "c": "Electron-pair geometry with 5 regions", "a": "trigonal bipyramidal", "d": ["octahedral", "square pyramidal"] },
+    { "c": "Electron-pair geometry with 6 regions", "a": "octahedral", "d": ["trigonal bipyramidal", "hexagonal planar"] },
+    { "c": "Bond angle in CH₄", "a": "109.5°", "d": ["120°", "90°"] },
+    { "c": "Bond angle in BF₃", "a": "120°", "d": ["109.5°", "180°"] },
+    { "c": "Bond angle in CO₂", "a": "180°", "d": ["120°", "109.5°"] },
+    { "c": "H–O–H bond angle in water", "a": "about 104.5°", "d": ["about 109.5°", "about 120°"] },
+    { "c": "Molecular shape of NH₃", "a": "trigonal pyramidal", "d": ["trigonal planar", "T-shaped"] },
+    { "c": "Molecular shape of H₂O", "a": "bent", "d": ["linear", "trigonal pyramidal"] },
+    { "c": "Molecular shape of SF₄", "a": "seesaw", "d": ["tetrahedral", "square planar"] },
+    { "c": "Molecular shape of ClF₃", "a": "T-shaped", "d": ["trigonal planar", "trigonal pyramidal"] },
+    { "c": "Molecular shape of XeF₄", "a": "square planar", "d": ["tetrahedral", "seesaw"] },
+    { "c": "Molecular shape of XeF₂", "a": "linear", "d": ["bent", "T-shaped"] },
+    { "c": "Molecular shape of BrF₅", "a": "square pyramidal", "d": ["trigonal bipyramidal", "octahedral"] },
+    { "c": "A double bond in VSEPR counts as", "a": "one electron region", "d": ["two electron regions", "half an electron region"] },
+    { "c": "Why lone pairs shrink bond angles", "a": "they take up more space than bonding pairs", "d": ["they take up less space than bonding pairs", "they attract the bonded atoms"] },
+    { "c": "Lone pairs in a trigonal bipyramid sit", "a": "in equatorial positions", "d": ["in axial positions", "evenly in axial and equatorial sites"] },
+    { "c": "VSEPR notation AX₃E", "a": "3 bonded atoms and 1 lone pair on the center", "d": ["3 lone pairs and 1 bonded atom", "3 electron regions and no lone pairs"] },
+    { "c": "Which molecule is polar?", "a": "NH₃", "d": ["CH₄", "BF₃"] },
+    { "c": "Why CO₂ is nonpolar", "a": "its two bond dipoles cancel", "d": ["its C=O bonds are nonpolar", "it has no lone pairs anywhere"] },
+    { "c": "Polarity of CCl₄", "a": "nonpolar", "d": ["polar"], "ex": "Four identical C–Cl dipoles cancel in a tetrahedron." },
+    { "c": "Polarity of CH₃Cl", "a": "polar", "d": ["nonpolar"] },
+    { "c": "Larger dipole moment: HF or HCl?", "a": "HF", "d": ["HCl"] },
+    { "c": "Hybridization of C in CH₄", "a": "sp³", "d": ["sp²", "sp"] },
+    { "c": "Hybridization of B in BF₃", "a": "sp²", "d": ["sp³", "sp"] },
+    { "c": "Hybridization of C in CO₂", "a": "sp", "d": ["sp²", "sp³"] },
+    { "c": "Bonds that make up a double bond", "a": "one sigma and one pi bond", "d": ["two sigma bonds", "two pi bonds"] },
+    { "c": "Bonds that make up a triple bond", "a": "one sigma and two pi bonds", "d": ["three sigma bonds", "two sigma and one pi bond"] },
+    { "c": "Strongest intermolecular force in water", "a": "hydrogen bonding", "d": ["London dispersion forces", "ion–dipole forces"] },
+    { "c": "Only force attracting nonpolar molecules", "a": "London dispersion forces", "d": ["dipole–dipole forces", "hydrogen bonding"] },
+    { "c": "Hydrogen bonding needs H bonded to", "a": "N, O, or F", "d": ["C, N, or O", "any halogen"] }
+  ],
+  "read": {
+    "title": "Shape decides polarity",
+    "text": [
+      "Valence shell electron-pair repulsion (VSEPR) theory predicts shape from a simple count. Around a central atom, every bond and every lone pair is one region of electron density, whether the bond is single, double, or triple. These regions repel each other and spread as far apart as they can. Two regions give a straight line at 180°, three give a flat triangle at 120°, four give a tetrahedron at 109.5°, five give a trigonal bipyramid, and six give an octahedron.",
+      "The shape we name, though, describes only the atoms. Ammonia has four regions, three bonds and one lone pair, so its electron-pair geometry is tetrahedral, but its molecular shape is a trigonal pyramid. Water has two bonds and two lone pairs, so it is bent. Lone pairs spread out more than bonding pairs, pushing the bonds closer together: water's angle is about 104.5°, not 109.5°.",
+      "Shape matters because it decides polarity. Each polar bond has a dipole, an arrow of charge separation. In linear CO₂ the two C=O dipoles point in opposite directions and cancel, so the molecule is nonpolar. In bent water the O–H dipoles do not cancel, so water is polar. That polarity is why water dissolves salts and has such a high boiling point for its size."
+    ],
+    "q": [
+      { "q": "How many electron regions does a triple bond count as in VSEPR?", "o": ["Two", "One", "Three"], "k": 1 },
+      { "q": "Why is water's bond angle smaller than 109.5°?", "o": ["Oxygen has only two electron regions", "Its hydrogen atoms attract each other", "Its lone pairs spread out more than bonding pairs"], "k": 2 },
+      { "q": "CO₂ has polar bonds but is nonpolar because", "o": ["its linear shape makes the dipoles cancel", "carbon and oxygen have equal electronegativity", "it has lone pairs on carbon"], "k": 0 }
+    ]
+  }
+}

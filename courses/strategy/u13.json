@@ -1,0 +1,53 @@
+{
+  "title": "Game theory for strategists",
+  "note": "Game theory studies choices whose results depend on what others choose. Its key tools: the Nash equilibrium (no player gains by changing alone), the prisoner's dilemma (individually rational moves leave both worse off), commitment (binding yourself to change a rival's incentives) and focal points (obvious solutions people coordinate on without talking).",
+  "src": { "t": "Game Theory, Stanford Encyclopedia of Philosophy", "u": "https://plato.stanford.edu/entries/game-theory/" },
+  "items": [
+    { "c": "Game theory studies", "a": "Choices whose outcomes depend on others' choices", "d": ["How to win games of pure chance", "The history of board games"] },
+    { "c": "Founding book of game theory (1944)", "a": "Theory of Games and Economic Behavior", "d": ["The Strategy of Conflict", "The Wealth of Nations"] },
+    { "c": "Authors of Theory of Games and Economic Behavior", "a": "John von Neumann and Oskar Morgenstern", "d": ["John Nash and Thomas Schelling", "Adam Smith and David Ricardo"] },
+    { "c": "Nash equilibrium", "a": "No player can gain by changing strategy alone", "d": ["Every player gets an equal payoff", "The outcome best for all players together"] },
+    { "c": "Mathematician who generalized equilibrium (1950)", "a": "John Nash", "d": ["Alan Turing", "Kenneth Arrow"] },
+    { "c": "Zero-sum game", "a": "One player gains only if the other loses", "d": ["Both players can gain together", "No player can ever win"] },
+    { "c": "Simple example of a zero-sum game", "a": "Tic-tac-toe", "d": ["Trade between two nations", "Two drivers choosing a side of the road"] },
+    { "c": "Positive-sum (non-zero-sum) game", "a": "Cooperation can leave both sides better off", "d": ["Every gain is matched by a loss", "Neither side can affect the outcome"] },
+    { "c": "Dominant strategy", "a": "Best for you whatever the others do", "d": ["Best only if others cooperate", "The strategy that hurts rivals most"] },
+    { "c": "Strictly dominated strategy", "a": "Always worse than some other option, so never rational", "d": ["The safest option in every game", "A strategy used only by the leader"] },
+    { "c": "Prisoner's dilemma: each player's dominant move", "a": "Defect (confess)", "d": ["Cooperate (stay silent)", "Flip a coin"] },
+    { "c": "The core lesson of the prisoner's dilemma", "a": "Individually rational choices can leave both worse off", "d": ["Cooperation is always rational", "The stronger player always wins"] },
+    { "c": "One-shot prisoner's dilemma: mutual defection", "a": "The unique Nash equilibrium", "d": ["The best outcome for both", "Impossible if players are rational"] },
+    { "c": "Repeated games can sustain cooperation because", "a": "Today's defection can be punished tomorrow", "d": ["Players forget past moves", "Payoffs shrink to zero"] },
+    { "c": "Tit-for-tat", "a": "Cooperate first, then copy the rival's last move", "d": ["Always defect, never cooperate", "Cooperate until the final round, then defect"] },
+    { "c": "Ran the 1980 tournaments that tit-for-tat won", "a": "Robert Axelrod", "d": ["Thomas Schelling", "Herbert Simon"] },
+    { "c": "Maximin strategy", "a": "Choose the move with the best worst-case payoff", "d": ["Choose the move with the best possible payoff", "Copy the opponent's last move"] },
+    { "c": "Mixed strategy", "a": "Choosing moves at random with set probabilities", "d": ["Changing sides partway through a game", "Using two players on one team"], "ex": "A penalty kicker who always shoots left is easy to read." },
+    { "c": "Backward induction", "a": "Solving a sequential game from the last move back", "d": ["Guessing an opponent's first move", "Repeating the opening move each round"] },
+    { "c": "Commitment, in game theory", "a": "Limiting your own options to change a rival's incentives", "d": ["Promising to cooperate without any binding", "Keeping every option open as long as possible"] },
+    { "c": "Classic commitment by Cortés in Mexico", "a": "Destroying his own ships so retreat was impossible", "d": ["Signing a treaty with the Aztecs", "Sending half his army home"] },
+    { "c": "Incredible threat (\"cheap talk\")", "a": "A threat it would not pay you to carry out", "d": ["A threat backed by a binding contract", "A threat made in secret"] },
+    { "c": "Coordination game", "a": "Players gain most by choosing the same thing", "d": ["Players gain most by choosing differently", "One player's gain is the other's loss"], "ex": "Everyone driving on the left, or everyone on the right, both work." },
+    { "c": "Focal point (Schelling point)", "a": "A choice people expect each other to pick without talking", "d": ["The point where a game ends in a draw", "The highest payoff in a matrix"] },
+    { "c": "Focal answer for strangers meeting in a city", "a": "The most prominent landmark at noon", "d": ["The cheapest café at dawn", "A random street corner at midnight"] },
+    { "c": "Thomas Schelling's classic book (1960)", "a": "The Strategy of Conflict", "d": ["Theory of Games and Economic Behavior", "Arms and the Man"] },
+    { "c": "Deterrence", "a": "Preventing an action by threatening unacceptable costs", "d": ["Forcing an enemy to undo an action", "Disarming an enemy before he acts"] },
+    { "c": "Compellence (Schelling's term)", "a": "Using threats to make an adversary do something", "d": ["Using threats to stop an adversary acting", "Making peace by mutual disarmament"] },
+    { "c": "Game of chicken", "a": "Each side wants the other to back down first", "d": ["Both sides gain by moving together", "Players take turns to cooperate"] },
+    { "c": "Brinkmanship", "a": "Raising the shared risk of disaster to force the rival to yield", "d": ["Building defenses along a border", "Negotiating only through allies"] },
+    { "c": "Second-strike capability", "a": "Ability to retaliate after absorbing a first strike", "d": ["Ability to strike first and disarm a rival", "A backup plan for a failed invasion"] },
+    { "c": "Mutually assured destruction (MAD)", "a": "Both sides can destroy each other even after being hit", "d": ["Neither side has nuclear weapons", "One side can disarm the other first"] },
+    { "c": "Stag hunt (assurance game)", "a": "Cooperation pays most, but only if you trust the other", "d": ["Defection always pays most", "Players can never cooperate"] }
+  ],
+  "read": {
+    "title": "Thinking one move ahead of the other side",
+    "text": [
+      "A game, in game theory, is any situation where your best choice depends on what others choose. Generals, firms, negotiators and nations all play games in this sense. The central idea is the Nash equilibrium: a set of strategies in which no player could do better by changing course alone, given what the others are doing.",
+      "The prisoner's dilemma shows how equilibrium can be bad for everyone. Two suspects are questioned separately. Whatever the other does, each does better by confessing, so both confess, and both end up worse off than if both had stayed silent. Arms races and price wars have the same shape. When the game repeats, though, cooperation can survive, because defection today invites punishment tomorrow.",
+      "Thomas Schelling showed that strategy is often bargaining, not just fighting. A threat works only if it is credible, and it is credible only if carrying it out would be in your interest. So a player may deliberately limit his own options, burning his bridges, to make a threat or promise believable. Schelling also noticed that people can coordinate without talking by picking a focal point, an option that stands out to everyone, such as meeting at the main landmark at noon."
+    ],
+    "q": [
+      { "q": "Why do both suspects confess in the prisoner's dilemma?", "o": ["Confessing is better for each whatever the other does", "They agreed to confess beforehand", "Staying silent is illegal"], "k": 0 },
+      { "q": "When can cooperation survive, according to the reading?", "o": ["When one player is much stronger", "When the game repeats, so defection invites punishment", "When the stakes are very high"], "k": 1 },
+      { "q": "Why might a player deliberately limit his own options?", "o": ["To save money", "To confuse his own allies", "To make a threat or promise credible"], "k": 2 }
+    ]
+  }
+}

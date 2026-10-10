@@ -1,0 +1,50 @@
+{
+  "title": "Word parts and breaking terms down",
+  "note": "Most medical terms are built from a word root plus a prefix, a suffix, or both. A combining form is a root plus a linking vowel, usually o (gastr/o). To define a term, start with the suffix, then read the remaining parts from left to right.",
+  "src": { "t": "Medical Terminology 2e (Open RN), 1.2 Components and Categories of Medical Terms", "u": "https://med.libretexts.org/Bookshelves/Medicine/Medical_Terminology_2e_(OpenRN)/01%3A_Foundational_Concepts_-_Identifying_Word_Parts/1.02%3A_Components_and_Categories_of_Medical_Terms" },
+  "items": [
+    { "c": "word root", "a": "core part that carries a term's main meaning", "d": ["part placed before a root to modify it", "ending that names a procedure or condition"], "ex": "In hepatitis, the root hepat means liver." },
+    { "c": "prefix", "a": "part placed before a root to modify its meaning", "d": ["core part that carries a term's main meaning", "vowel that links a root to a suffix"], "ex": "Sub- in subhepatic means below." },
+    { "c": "suffix", "a": "part added at the end of a term", "d": ["part placed at the start of a term", "vowel that joins two roots"], "ex": "-itis in tonsillitis means inflammation." },
+    { "c": "combining vowel", "a": "linking vowel, usually o, between word parts", "d": ["first letter of every suffix", "silent letter at the end of a prefix"], "ex": "The o in gastr/o/scope is the combining vowel." },
+    { "c": "combining form", "a": "a word root plus a combining vowel", "d": ["a prefix plus a suffix", "two suffixes joined together"], "ex": "hepat + o = hepat/o" },
+    { "c": "Most common combining vowel", "a": "o", "d": ["a", "e"], "ex": "Less often the vowel is i, as in pelv/i (pelvis)." },
+    { "c": "Which word part do you define first?", "a": "the suffix", "d": ["the prefix", "the first root"], "ex": "Gastr/o/enter/o/logy: study of (-logy) the stomach and intestines." },
+    { "c": "Combining vowel before a vowel-initial suffix", "a": "dropped", "d": ["kept", "doubled"], "ex": "gastr/o + -itis = gastritis" },
+    { "c": "Combining vowel before a consonant suffix", "a": "kept", "d": ["dropped", "doubled"], "ex": "gastr/o + -scope = gastroscope" },
+    { "c": "Combining vowel between two roots", "a": "kept, even before a vowel", "d": ["always dropped", "replaced by a hyphen"], "ex": "oste/o + arthr/o: osteoarthritis keeps the o." },
+    { "c": "Does a prefix take a combining vowel?", "a": "no, it attaches directly", "d": ["yes, it always ends in o", "only before a suffix"], "ex": "intra- + ven + -ous = intravenous" },
+    { "c": "hepat/itis", "a": "inflammation of the liver", "d": ["enlargement of the liver", "surgical removal of the liver"] },
+    { "c": "oste/o/arthr/itis", "a": "inflammation of bone and joint", "d": ["softening of bone and cartilage", "pain in muscle and joint"] },
+    { "c": "gastr/o/enter/o/logy", "a": "study of the stomach and intestines", "d": ["study of the liver and gallbladder", "study of the stomach and esophagus"] },
+    { "c": "intra/ven/ous", "a": "pertaining to within a vein", "d": ["pertaining to around an artery", "pertaining to below the skin"] },
+    { "c": "arthr/o/pathy", "a": "disease of a joint", "d": ["incision into a joint", "repair of a joint"] },
+    { "c": "tonsill/ectomy", "a": "surgical removal of the tonsils", "d": ["inflammation of the tonsils", "incision into the tonsils"] },
+    { "c": "Root in 'nephritis'", "a": "nephr", "d": ["nephri", "itis"], "ex": "nephr/o (kidney) + -itis (inflammation)" },
+    { "c": "Suffix in 'appendectomy'", "a": "-ectomy", "d": ["-tomy", "-dectomy"], "ex": "append + -ectomy: removal of the appendix" },
+    { "c": "Prefix in 'subhepatic'", "a": "sub-", "d": ["hepat-", "-ic"] },
+    { "c": "Why 'gastritis', not 'gastroitis'?", "a": "-itis starts with a vowel, so the o drops", "d": ["roots never take a combining vowel", "the o is silent, so it is left out"] },
+    { "c": "Why is the o kept in 'gastroscope'?", "a": "-scope starts with a consonant", "d": ["-scope is a prefix", "stomach roots always keep o"] },
+    { "c": "eponym", "a": "term named after a person", "d": ["term formed from initial letters", "term built from Greek roots"], "ex": "Parkinson disease is named for James Parkinson." },
+    { "c": "acronym", "a": "abbreviation pronounced as a word", "d": ["term named after its describer", "root plus a combining vowel"], "ex": "AIDS: acquired immunodeficiency syndrome" },
+    { "c": "Parkinson disease is an example of a(n)", "a": "eponym", "d": ["acronym", "combining form"] },
+    { "c": "Main source languages of medical word parts", "a": "Greek and Latin", "d": ["German and French", "Arabic and Hebrew"] },
+    { "c": "Plural of 'vertebra'", "a": "vertebrae", "d": ["vertebras", "vertebri"], "ex": "Rule: -a becomes -ae." },
+    { "c": "Plural of 'diagnosis'", "a": "diagnoses", "d": ["diagnosises", "diagnosi"], "ex": "Rule: -is becomes -es." },
+    { "c": "Plural of 'bronchus'", "a": "bronchi", "d": ["bronchuses", "bronchae"], "ex": "Rule: -us becomes -i." },
+    { "c": "Plural of 'ovum'", "a": "ova", "d": ["ovums", "ovi"], "ex": "Rule: -um becomes -a." }
+  ],
+  "read": {
+    "title": "Reading a term from the end",
+    "text": [
+      "Medical words look long, but most are assembled from a small set of reusable parts. The word root carries the core meaning, often a body part: hepat means liver, nephr means kidney, oste means bone. A prefix can sit in front of the root to change its meaning, and a suffix sits at the end to say what is happening to it, such as inflammation, removal, or a recording.",
+      "Roots are usually learned as combining forms, which add a linking vowel, almost always o. The vowel is kept between two roots and before a suffix that starts with a consonant, so gastr/o plus -scope gives gastroscope. It is dropped before a suffix that starts with a vowel, so gastr/o plus -itis gives gastritis. Prefixes never need a linking vowel.",
+      "To define a term, read the suffix first, then go back to the beginning and read left to right. Osteoarthritis splits into oste/o, arthr/o and -itis: inflammation of bone and joint. Some terms, such as eponyms named for people and acronyms such as AIDS, cannot be decoded this way and simply have to be memorized."
+    ],
+    "q": [
+      { "q": "In which order should you define the parts of a built term?", "o": ["Suffix first, then the rest from left to right", "Prefix first, then the suffix, then the root", "Root first, then the prefix", "Right to left through every part"], "k": 0 },
+      { "q": "Why does gastritis have no o between gastr and -itis?", "o": ["The suffix begins with a vowel", "Gastr is a prefix", "The o is used only after prefixes"], "k": 0 },
+      { "q": "Which kind of term cannot be decoded from its parts?", "o": ["An eponym", "A term with two roots", "A term with a prefix", "A term ending in -itis"], "k": 0 }
+    ]
+  }
+}

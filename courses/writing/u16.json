@@ -1,0 +1,54 @@
+{
+  "title": "Strunk's Elements of Style",
+  "note": "William Strunk Jr., who taught English at Cornell, wrote The Elements of Style as a short handbook of rules for plain English; the 1918 text is in the public domain. His student E. B. White later revised and expanded it. Quotations here follow the Project Gutenberg text exactly.",
+  "src": { "t": "William Strunk Jr., The Elements of Style, Project Gutenberg", "u": "https://www.gutenberg.org/ebooks/37134" },
+  "items": [
+    { "c": "Strunk 13: 'Omit ___ words.'", "a": "needless", "d": ["long", "abstract"] },
+    { "c": "Strunk 10: 'Use the ___ voice.'", "a": "active", "d": ["passive", "plain"] },
+    { "c": "Strunk 11: 'Put statements in ___ form.'", "a": "positive", "d": ["simple", "brief"] },
+    { "c": "Strunk 12: 'Use definite, specific, ___ language.'", "a": "concrete", "d": ["formal", "simple"] },
+    { "c": "Strunk 16: 'Keep ___ words together.'", "a": "related", "d": ["short", "familiar"] },
+    { "c": "Strunk 15: 'Express co-ordinate ideas in ___ form.'", "a": "similar", "d": ["separate", "varied"] },
+    { "c": "Strunk 17: 'In summaries, keep to one ___.'", "a": "tense", "d": ["voice", "person"] },
+    { "c": "Strunk 14: 'Avoid a succession of ___ sentences'", "a": "loose", "d": ["short", "periodic"] },
+    { "c": "Strunk 18: 'Place the ___ words of a sentence at the end.'", "a": "emphatic", "d": ["shortest", "familiar"] },
+    { "c": "Strunk 8: 'Make the paragraph the unit of ___'", "a": "composition", "d": ["thought", "argument"], "ex": "The rule continues: 'one paragraph to each topic.'" },
+    { "c": "Strunk 9: 'As a rule, begin each paragraph with a ___'", "a": "topic sentence", "d": ["short sentence", "transition"] },
+    { "c": "Strunk 5: 'Do not join independent clauses by a ___.'", "a": "comma", "d": ["semicolon", "conjunction"] },
+    { "c": "Strunk 3: 'Enclose ___ expressions between commas.'", "a": "parenthetic", "d": ["introductory", "quoted"] },
+    { "c": "Strunk 4: comma before a conjunction introducing a", "a": "co-ordinate clause", "d": ["dependent clause", "prepositional phrase"] },
+    { "c": "Strunk 7: an opening participial phrase refers to", "a": "the grammatical subject", "d": ["the nearest noun", "the object of the verb"] },
+    { "c": "Strunk 6, 'Do not break sentences in two', targets", "a": "punctuating a fragment as a sentence", "d": ["joining clauses with a comma", "splitting infinitives"] },
+    { "c": "Strunk 1: the possessive singular of nouns", "a": "add 's, whatever the final consonant", "d": ["add only an apostrophe after s", "add 's only after vowels"] },
+    { "c": "Strunk's possessive of 'Charles'", "a": "Charles's", "d": ["Charles'", "Charle's"] },
+    { "c": "Ancient-name exception Strunk allows", "a": "Jesus'", "d": ["Jesus's"] },
+    { "c": "Strunk 2: series of three or more, one conjunction", "a": "a comma after each term except the last", "d": ["a comma only between the first two terms", "no comma before the conjunction"] },
+    { "c": "Strunk's example for rule 2", "a": "red, white, and blue", "d": ["red, white and blue"] },
+    { "c": "Strunk: 'Vigorous writing is ___.'", "a": "concise", "d": ["forceful", "colorful"] },
+    { "c": "Strunk: concision requires that the writer", "a": "make every word tell", "d": ["make all his sentences short", "avoid all detail"] },
+    { "c": "Strunk on the expression 'the fact that'", "a": "revise it out of every sentence", "d": ["use it to introduce evidence", "keep it in formal writing"] },
+    { "c": "Strunk's advice on the word 'very'", "a": "use it sparingly", "d": ["use it often for emphasis", "never use it at all"] },
+    { "c": "Strunk: 'like' should not be misused for", "a": "as", "d": ["such as", "than"] },
+    { "c": "Strunk: 'less' should not be misused for", "a": "fewer", "d": ["smaller", "lower"] },
+    { "c": "Strunk on 'data'", "a": "a plural, like 'phenomena'", "d": ["a singular mass noun"], "ex": "His example: 'These data were tabulated.'" },
+    { "c": "Strunk 12: 'Prefer the specific to the ___'", "a": "general", "d": ["concrete", "definite"] },
+    { "c": "Strunk: active voice is usually more", "a": "direct and vigorous", "d": ["polite and formal", "precise and technical"] },
+    { "c": "University where Strunk taught", "a": "Cornell University", "d": ["Harvard University", "Yale University"] },
+    { "c": "Strunk's student who revised the book in 1959", "a": "E. B. White", "d": ["Joseph M. Williams", "H. L. Mencken"] }
+  ],
+  "read": {
+    "title": "A little book of rules",
+    "text": [
+      "William Strunk Jr. wrote The Elements of Style for his English students, and its opening line states its aim: \"This book aims to give in brief space the principal requirements of plain English style.\" The book is famous for its short, commanding rules.",
+      "Some rules govern usage and punctuation. Rule 5 reads \"Do not join independent clauses by a comma,\" which is the ban on the comma splice. Rule 7 reads \"A participial phrase at the beginning of a sentence must refer to the grammatical subject,\" which is the rule against dangling modifiers.",
+      "Others govern composition. \"Use the active voice.\" \"Put statements in positive form.\" \"Use definite, specific, concrete language.\" And the most quoted of all: \"Omit needless words.\"",
+      "Strunk was less rigid than his reputation. He wrote that the active voice is usually more direct, but that a writer should not entirely discard \"the passive voice, which is frequently convenient and sometimes necessary.\" And his case for concision was not a demand for short sentences. What he asked was that the writer \"make every word tell.\"",
+      "Read this way, the book is less a list of laws than a set of strong defaults: start from them, and break one only when you know why."
+    ],
+    "q": [
+      { "q": "Which Strunk rule forbids the comma splice?", "o": ["Omit needless words.", "Do not join independent clauses by a comma.", "Use the active voice."], "k": 1 },
+      { "q": "What did Strunk say about the passive voice?", "o": ["It should never be used", "It is always weaker than the active", "It is frequently convenient and sometimes necessary"], "k": 2 },
+      { "q": "According to the reading, Strunk's rules are best treated as...", "o": ["strong defaults", "laws without exceptions", "suggestions for poetry only"], "k": 0 }
+    ]
+  }
+}

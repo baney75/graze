@@ -1,0 +1,258 @@
+[
+ {
+  "title": "Inside an animal cell",
+  "kind": "diagram",
+  "dg": "cell",
+  "note": "An animal cell is wrapped in a plasma membrane and keeps its DNA in a nucleus. Membrane-bound organelles divide the work: the ER and Golgi build and ship, mitochondria supply ATP, and lysosomes and peroxisomes break things down.",
+  "src": {
+   "t": "OpenStax Biology 2e, 4.3 Eukaryotic Cells",
+   "u": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells"
+  },
+  "items": [
+   {
+    "p": "membrane",
+    "a": "Plasma membrane",
+    "d": [
+     "Nuclear envelope",
+     "Cytoplasm"
+    ],
+    "ex": "A phospholipid bilayer that controls what enters and leaves the cell."
+   },
+   {
+    "p": "cytoplasm",
+    "a": "Cytoplasm",
+    "d": [
+     "Nucleus",
+     "Plasma membrane"
+    ],
+    "ex": "Everything between the plasma membrane and the nuclear envelope: the cytosol and its organelles."
+   },
+   {
+    "p": "nucleus",
+    "a": "Nucleus",
+    "d": [
+     "Nucleolus",
+     "Nuclear envelope",
+     "Cytoplasm"
+    ],
+    "ex": "Holds the cell’s DNA as chromatin and directs protein synthesis."
+   },
+   {
+    "p": "nucleolus",
+    "a": "Nucleolus",
+    "d": [
+     "Nucleus",
+     "Lysosome"
+    ],
+    "ex": "A dense region of the nucleus where ribosomal RNA is made and ribosome subunits are assembled."
+   },
+   {
+    "p": "envelope",
+    "a": "Nuclear envelope",
+    "d": [
+     "Rough endoplasmic reticulum",
+     "Plasma membrane",
+     "Nucleolus"
+    ],
+    "ex": "A double membrane whose pores control traffic between the nucleus and the cytoplasm."
+   },
+   {
+    "p": "rer",
+    "a": "Rough endoplasmic reticulum",
+    "d": [
+     "Smooth endoplasmic reticulum",
+     "Golgi apparatus",
+     "Nuclear envelope"
+    ],
+    "ex": "Ribosome-studded membranes that make proteins for secretion, membranes, and lysosomes."
+   },
+   {
+    "p": "ser",
+    "a": "Smooth endoplasmic reticulum",
+    "d": [
+     "Rough endoplasmic reticulum",
+     "Golgi apparatus",
+     "Mitochondrion"
+    ],
+    "ex": "ER without ribosomes; it makes lipids and steroids, detoxifies drugs, and stores calcium."
+   },
+   {
+    "p": "golgi",
+    "a": "Golgi apparatus",
+    "d": [
+     "Rough endoplasmic reticulum",
+     "Smooth endoplasmic reticulum",
+     "Mitochondrion"
+    ],
+    "ex": "Stacked sacs that modify, sort, and package proteins and lipids into vesicles."
+   },
+   {
+    "p": "mitochondrion",
+    "a": "Mitochondrion",
+    "d": [
+     "Lysosome",
+     "Golgi apparatus",
+     "Peroxisome"
+    ],
+    "ex": "Double-membraned site of aerobic respiration, which makes most of the cell’s ATP."
+   },
+   {
+    "p": "ribosome",
+    "a": "Ribosomes",
+    "d": [
+     "Vesicle",
+     "Lysosome",
+     "Centrosome"
+    ],
+    "ex": "Made of RNA and protein, they translate mRNA into protein, free or bound to the rough ER."
+   },
+   {
+    "p": "lysosome",
+    "a": "Lysosome",
+    "d": [
+     "Peroxisome",
+     "Vesicle",
+     "Nucleolus"
+    ],
+    "ex": "Holds acid-loving digestive enzymes that break down worn-out organelles and debris."
+   },
+   {
+    "p": "peroxisome",
+    "a": "Peroxisome",
+    "d": [
+     "Lysosome",
+     "Vesicle",
+     "Mitochondrion"
+    ],
+    "ex": "Breaks down fatty acids and detoxifies poisons, destroying the hydrogen peroxide it makes."
+   },
+   {
+    "p": "vesicle",
+    "a": "Vesicle",
+    "d": [
+     "Lysosome",
+     "Peroxisome",
+     "Ribosomes"
+    ],
+    "ex": "A small membrane sac that carries cargo between organelles or to the cell surface."
+   },
+   {
+    "p": "centrosome",
+    "a": "Centrosome",
+    "d": [
+     "Golgi apparatus",
+     "Nucleolus",
+     "Peroxisome"
+    ],
+    "ex": "The microtubule-organizing center near the nucleus, with two centrioles at right angles."
+   }
+  ]
+ },
+ {
+  "title": "Inside a plant cell",
+  "kind": "diagram",
+  "dg": "plantcell",
+  "note": "A plant cell has the same core organelles as an animal cell, plus a cellulose cell wall, chloroplasts, and a large central vacuole. It has no centrosome, and lysosome-like digestion happens in the vacuole.",
+  "src": {
+   "t": "OpenStax Biology 2e, 4.3 Eukaryotic Cells",
+   "u": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells"
+  },
+  "items": [
+   {
+    "p": "wall",
+    "a": "Cell wall",
+    "d": [
+     "Plasma membrane",
+     "Central vacuole"
+    ],
+    "ex": "A rigid layer made mainly of cellulose, outside the plasma membrane, that supports and shapes the cell."
+   },
+   {
+    "p": "membrane",
+    "a": "Plasma membrane",
+    "d": [
+     "Cell wall",
+     "Central vacuole"
+    ],
+    "ex": "The phospholipid bilayer just inside the cell wall that controls what enters and leaves."
+   },
+   {
+    "p": "vacuole",
+    "a": "Central vacuole",
+    "d": [
+     "Nucleus",
+     "Plasma membrane"
+    ],
+    "ex": "A large water-filled sac whose pressure against the wall keeps the plant firm; losing water makes it wilt."
+   },
+   {
+    "p": "chloroplast",
+    "a": "Chloroplast",
+    "d": [
+     "Mitochondrion",
+     "Golgi apparatus",
+     "Nucleus"
+    ],
+    "ex": "The site of photosynthesis; its stacked thylakoids, called grana, hold chlorophyll."
+   },
+   {
+    "p": "nucleus",
+    "a": "Nucleus",
+    "d": [
+     "Nucleolus",
+     "Central vacuole",
+     "Chloroplast"
+    ],
+    "ex": "Holds the cell’s DNA inside a double nuclear envelope."
+   },
+   {
+    "p": "nucleolus",
+    "a": "Nucleolus",
+    "d": [
+     "Nucleus",
+     "Chloroplast"
+    ],
+    "ex": "Makes ribosomal RNA and assembles ribosome subunits inside the nucleus."
+   },
+   {
+    "p": "mitochondrion",
+    "a": "Mitochondrion",
+    "d": [
+     "Chloroplast",
+     "Golgi apparatus",
+     "Rough endoplasmic reticulum"
+    ],
+    "ex": "Plant cells have mitochondria too; they make ATP by cellular respiration."
+   },
+   {
+    "p": "rer",
+    "a": "Rough endoplasmic reticulum",
+    "d": [
+     "Golgi apparatus",
+     "Nucleus",
+     "Mitochondrion"
+    ],
+    "ex": "Ribosome-studded membranes, continuous with the nuclear envelope, that make proteins."
+   },
+   {
+    "p": "golgi",
+    "a": "Golgi apparatus",
+    "d": [
+     "Rough endoplasmic reticulum",
+     "Mitochondrion",
+     "Chloroplast"
+    ],
+    "ex": "Processes and packages proteins, and in plants also makes polysaccharides for the cell wall."
+   },
+   {
+    "p": "plasmodesmata",
+    "a": "Plasmodesmata",
+    "d": [
+     "Cell wall",
+     "Plasma membrane"
+    ],
+    "ex": "Channels through the cell wall that link the cytoplasm of neighboring plant cells."
+   }
+  ]
+ }
+]

@@ -1,0 +1,14 @@
+{
+  "key": "history",
+  "name": "World History",
+  "group": "World",
+  "tag": "HISTORY",
+  "level": "Survey",
+  "blurb": "A survey of world history from the first farmers and cities to the present, with the key events of US history. Learn the dates, people, places, causes and consequences that structure the human story.",
+  "sources": [
+    { "t": "World History, Volume 1: to 1500, OpenStax", "u": "https://openstax.org/details/books/world-history-volume-1" },
+    { "t": "World History, Volume 2: from 1400, OpenStax", "u": "https://openstax.org/details/books/world-history-volume-2" },
+    { "t": "U.S. History, OpenStax", "u": "https://openstax.org/details/books/us-history" },
+    { "t": "Western Civilization: A Concise History II (Brooks), LibreTexts Humanities", "u": "https://human.libretexts.org/Bookshelves/History/World_History/Western_Civilization_3e%3A_A_Concise_History_II" }
+  ]
+}

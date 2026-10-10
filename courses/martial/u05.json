@@ -1,0 +1,287 @@
+{
+  "title": "Wrestling: shots, sprawls, and scoring",
+  "note": "A takedown starts with a level change, dropping the hips, and a penetration step that drives through the opponent. The defense is the sprawl. Under United World Wrestling rules, freestyle allows leg attacks while Greco-Roman forbids holds below the waist; a fall or a big enough lead ends the bout early.",
+  "src": {
+    "t": "United World Wrestling, International Wrestling Rules (January 2026)",
+    "u": "https://cdn.uww.org/2026-01/wrestling_rules.pdf"
+  },
+  "items": [
+    {
+      "c": "Level change",
+      "a": "dropping the hips before shooting a takedown",
+      "d": [
+        "switching from orthodox to southpaw",
+        "standing up from the bottom position"
+      ]
+    },
+    {
+      "c": "Penetration step",
+      "a": "a deep step in under the opponent to drive through",
+      "d": [
+        "a small step backward to reset",
+        "a hop to the side to circle away"
+      ]
+    },
+    {
+      "c": "Double-leg takedown",
+      "a": "a takedown attacking both legs at once",
+      "d": [
+        "a takedown controlling one leg",
+        "a throw over the hip"
+      ]
+    },
+    {
+      "c": "Single-leg takedown",
+      "a": "a takedown controlling one of the opponent's legs",
+      "d": [
+        "a takedown attacking both legs",
+        "a throw from a body lock"
+      ]
+    },
+    {
+      "c": "Sprawl",
+      "a": "shooting the legs back and dropping the hips on a shot",
+      "d": [
+        "diving forward onto both knees",
+        "rolling backward onto the shoulders"
+      ]
+    },
+    {
+      "c": "Why does a sprawl stop a shot?",
+      "a": "it takes the legs away and loads weight on the shooter",
+      "d": [
+        "it pins the shooter's shoulders",
+        "it scores a point for the defender"
+      ]
+    },
+    {
+      "c": "Whizzer",
+      "a": "an overhook used to defend a leg attack",
+      "d": [
+        "a quick double-leg from the knees",
+        "a choke used in folkstyle"
+      ]
+    },
+    {
+      "c": "Underhook",
+      "a": "your arm under the opponent's armpit",
+      "d": [
+        "your arm over the opponent's arm",
+        "your hand behind the opponent's neck"
+      ]
+    },
+    {
+      "c": "Overhook",
+      "a": "your arm wrapped over the opponent's arm",
+      "d": [
+        "your arm under the opponent's armpit",
+        "your arm around the opponent's waist"
+      ]
+    },
+    {
+      "c": "Collar tie",
+      "a": "a hand cupped behind the opponent's neck",
+      "d": [
+        "a grip on the opponent's wrist",
+        "an arm locked around the waist"
+      ]
+    },
+    {
+      "c": "Snap-down",
+      "a": "pulling the head down to break the opponent's posture",
+      "d": [
+        "lifting the opponent off the mat",
+        "dropping to a knee for a shot"
+      ]
+    },
+    {
+      "c": "Front headlock",
+      "a": "controlling head and arm from in front",
+      "d": [
+        "controlling the hips from behind",
+        "holding both legs from the side"
+      ]
+    },
+    {
+      "c": "Hand fighting",
+      "a": "battling for grips and arm position before attacking",
+      "d": [
+        "striking with the open hand",
+        "shaking hands before the bout"
+      ]
+    },
+    {
+      "c": "Why keep the head up during a shot?",
+      "a": "it keeps the spine aligned behind the drive",
+      "d": [
+        "it is required to score points",
+        "it lets you see the scoreboard"
+      ]
+    },
+    {
+      "c": "Par terre",
+      "a": "the ground position in international wrestling",
+      "d": [
+        "the standing neutral position",
+        "the edge of the mat"
+      ]
+    },
+    {
+      "c": "Gut wrench",
+      "a": "turning the opponent across the back from par terre",
+      "d": [
+        "a standing throw over the hip",
+        "a defense against the single leg"
+      ]
+    },
+    {
+      "c": "Danger position, in UWW rules",
+      "a": "the defender's back under 90 degrees to the mat",
+      "d": [
+        "any contact with the edge of the mat",
+        "both wrestlers standing in a clinch"
+      ]
+    },
+    {
+      "c": "Fall, or pin",
+      "a": "holding both shoulders to the mat; ends the bout",
+      "d": [
+        "touching one shoulder to the mat",
+        "forcing the opponent out of bounds"
+      ]
+    },
+    {
+      "c": "Does a brief two-shoulder touch count as a fall?",
+      "a": "no, control must be clear",
+      "d": [
+        "yes, any touch ends the bout",
+        "only in freestyle"
+      ]
+    },
+    {
+      "c": "UWW technical superiority margin, freestyle",
+      "a": "a 10-point lead",
+      "d": [
+        "an 8-point lead",
+        "a 15-point lead"
+      ]
+    },
+    {
+      "c": "UWW technical superiority margin, Greco-Roman",
+      "a": "an 8-point lead",
+      "d": [
+        "a 10-point lead",
+        "a 5-point lead"
+      ]
+    },
+    {
+      "c": "Greco-Roman wrestling forbids",
+      "a": "holds below the waist and active use of the legs",
+      "d": [
+        "throws of any kind",
+        "holds above the waist"
+      ]
+    },
+    {
+      "c": "Women's Olympic wrestling follows the rules of",
+      "a": "freestyle",
+      "d": [
+        "Greco-Roman",
+        "folkstyle"
+      ]
+    },
+    {
+      "c": "Senior UWW bout length",
+      "a": "two 3-minute periods with a 30-second break",
+      "d": [
+        "three 2-minute periods with no break",
+        "one 5-minute period"
+      ]
+    },
+    {
+      "c": "UWW: stepping out without a hold in progress",
+      "a": "1 point to the opponent",
+      "d": [
+        "2 points to the opponent",
+        "an immediate loss"
+      ]
+    },
+    {
+      "c": "UWW: passing behind and taking control",
+      "a": "2 points",
+      "d": [
+        "1 point",
+        "5 points"
+      ]
+    },
+    {
+      "c": "UWW: grand-amplitude throw into direct danger",
+      "a": "5 points",
+      "d": [
+        "2 points",
+        "3 points"
+      ]
+    },
+    {
+      "c": "First UWW tiebreaker on equal points",
+      "a": "the higher-value hold scored",
+      "d": [
+        "the lighter wrestler at weigh-in",
+        "the wrestler with more step-outs"
+      ]
+    },
+    {
+      "c": "Folkstyle wrestling",
+      "a": "the scholastic and college style in the United States",
+      "d": [
+        "the Olympic style for women",
+        "a Turkish oil-wrestling style"
+      ]
+    },
+    {
+      "c": "Passivity, in wrestling rules",
+      "a": "a call against a wrestler who is not attacking",
+      "d": [
+        "a hold that is not yet complete",
+        "the rest period between periods"
+      ]
+    }
+  ],
+  "read": {
+    "title": "The shot and the sprawl",
+    "text": [
+      "Most takedowns begin before contact. The attacker changes levels, bending the knees and dropping the hips while keeping the back straight and the head up. From that low position a penetration step carries the hips in under the opponent, so the drive comes from the legs rather than the arms. A double-leg attacks both legs at once; a single-leg isolates one.",
+      "The answer to the shot is the sprawl. The defender throws the legs back and drops the hips onto the attacker's head and shoulders. Taking the legs out of reach removes the target, and the defender's weight now presses down on the shooter.",
+      "International wrestling runs on United World Wrestling rules. Freestyle, used for men and women, allows leg attacks. Greco-Roman forbids holds below the waist and active use of the legs, so it rewards upper-body throws and lifts. A senior bout lasts two three-minute periods. It ends early with a fall, both shoulders clearly controlled on the mat, or with technical superiority, a lead of 10 points in freestyle or 8 in Greco-Roman."
+    ],
+    "q": [
+      {
+        "q": "Where should a wrestler's drive come from during a penetration step?",
+        "o": [
+          "The arms",
+          "The legs",
+          "The neck"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Which style forbids holds below the waist?",
+        "o": [
+          "Greco-Roman",
+          "Freestyle",
+          "Women's wrestling"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What lead ends a freestyle bout by technical superiority?",
+        "o": [
+          "5 points",
+          "8 points",
+          "10 points"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

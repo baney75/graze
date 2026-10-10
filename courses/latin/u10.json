@@ -1,0 +1,258 @@
+{
+  "title": "Third declension: family and people",
+  "note": "Third-declension nouns have genitive -is, and the nominative often hides the stem, so learn both forms: rex, regis (m), stem reg-. Singular: (varies), -is, -i, -em, -e. Plural: -es, -um, -ibus, -es, -ibus. Gender is learned word by word, but words for men are masculine and words for women feminine.",
+  "src": {
+    "t": "Allen and Greenough, 3rd Declension",
+    "u": "https://dcc.dickinson.edu/grammar/latin/3rd-declension-classes"
+  },
+  "items": [
+    {
+      "c": "rex, regis",
+      "a": "king",
+      "d": [
+        "queen",
+        "reading"
+      ],
+      "ex": "Rex regnum habet.",
+      "exT": "The king has a kingdom."
+    },
+    {
+      "c": "pater, patris (m)",
+      "a": "father",
+      "d": [
+        "brother",
+        "master"
+      ],
+      "ex": "Pater meus est agricola.",
+      "exT": "My father is a farmer."
+    },
+    {
+      "c": "mater, matris (f)",
+      "a": "mother",
+      "d": [
+        "sister",
+        "wife"
+      ],
+      "ex": "Mater filiam amat.",
+      "exT": "The mother loves her daughter."
+    },
+    {
+      "c": "frater, fratris (m)",
+      "a": "brother",
+      "d": [
+        "father",
+        "friend"
+      ]
+    },
+    {
+      "c": "soror, sororis (f)",
+      "a": "sister",
+      "d": [
+        "mother",
+        "daughter"
+      ]
+    },
+    {
+      "c": "homo, hominis (m)",
+      "a": "human being, person",
+      "d": [
+        "god",
+        "citizen"
+      ],
+      "ex": "Homo sum.",
+      "exT": "I am human."
+    },
+    {
+      "c": "uxor, uxoris (f)",
+      "a": "wife",
+      "d": [
+        "sister",
+        "daughter"
+      ]
+    },
+    {
+      "c": "coniunx, coniugis (m/f)",
+      "a": "spouse",
+      "d": [
+        "companion",
+        "parent"
+      ]
+    },
+    {
+      "c": "parens, parentis (m/f)",
+      "a": "parent",
+      "d": [
+        "child",
+        "spouse"
+      ]
+    },
+    {
+      "c": "infans, infantis (m/f)",
+      "a": "infant, small child",
+      "d": [
+        "young man",
+        "old man"
+      ]
+    },
+    {
+      "c": "iuvenis, iuvenis (m)",
+      "a": "young man",
+      "d": [
+        "old man",
+        "boy"
+      ]
+    },
+    {
+      "c": "senex, senis (m)",
+      "a": "old man",
+      "d": [
+        "young man",
+        "senator"
+      ]
+    },
+    {
+      "c": "miles, militis (m)",
+      "a": "soldier",
+      "d": [
+        "sailor",
+        "general"
+      ],
+      "ex": "Milites pugnant.",
+      "exT": "The soldiers are fighting."
+    },
+    {
+      "c": "dux, ducis (m)",
+      "a": "leader",
+      "d": [
+        "soldier",
+        "citizen"
+      ]
+    },
+    {
+      "c": "civis, civis (m/f)",
+      "a": "citizen",
+      "d": [
+        "city",
+        "enemy"
+      ],
+      "ex": "Civis Romanus sum.",
+      "exT": "I am a Roman citizen."
+    },
+    {
+      "c": "hospes, hospitis (m)",
+      "a": "guest; host",
+      "d": [
+        "enemy",
+        "slave"
+      ]
+    },
+    {
+      "c": "imperator, imperatoris (m)",
+      "a": "commander; emperor",
+      "d": [
+        "senator",
+        "messenger"
+      ]
+    },
+    {
+      "c": "consul, consulis (m)",
+      "a": "consul (one of Rome's two chief magistrates)",
+      "d": [
+        "senator (member of the senate)",
+        "tribune (officer of the plebs)"
+      ]
+    },
+    {
+      "c": "sacerdos, sacerdotis (m/f)",
+      "a": "priest",
+      "d": [
+        "prophet",
+        "king"
+      ]
+    },
+    {
+      "c": "virgo, virginis (f)",
+      "a": "maiden, virgin",
+      "d": [
+        "matron, wife",
+        "queen"
+      ]
+    },
+    {
+      "c": "princeps, principis (m)",
+      "a": "chief, first citizen",
+      "d": [
+        "soldier",
+        "slave"
+      ]
+    },
+    {
+      "c": "hostis, hostis (m)",
+      "a": "(public) enemy",
+      "d": [
+        "guest; host",
+        "citizen"
+      ]
+    },
+    {
+      "c": "canis, canis (m/f)",
+      "a": "dog",
+      "d": [
+        "wolf",
+        "cat"
+      ],
+      "ex": "Cave canem!",
+      "exT": "Beware of the dog!"
+    },
+    {
+      "c": "pater, ___ (genitive singular)",
+      "a": "patris",
+      "d": [
+        "patri",
+        "patrum"
+      ],
+      "ex": "villa patris",
+      "exT": "the father's farmhouse"
+    },
+    {
+      "c": "filius ___ (the king's son; rex)",
+      "a": "regis",
+      "d": [
+        "regi",
+        "rex"
+      ],
+      "ex": "filius regis",
+      "exT": "the king's son"
+    },
+    {
+      "c": "Puer ___ amat. (mater)",
+      "a": "matrem",
+      "d": [
+        "mater",
+        "matris"
+      ],
+      "ex": "Puer matrem amat.",
+      "exT": "The boy loves his mother."
+    },
+    {
+      "c": "___ pugnant. (miles, plural)",
+      "a": "milites",
+      "d": [
+        "militis",
+        "miles"
+      ],
+      "ex": "Milites fortiter pugnant.",
+      "exT": "The soldiers fight bravely."
+    },
+    {
+      "c": "arma ___ (the soldiers' weapons; miles)",
+      "a": "militum",
+      "d": [
+        "militis",
+        "militibus"
+      ],
+      "ex": "arma militum",
+      "exT": "the weapons of the soldiers"
+    }
+  ]
+}

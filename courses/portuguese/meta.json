@@ -1,0 +1,32 @@
+{
+  "key": "portuguese",
+  "name": "Portuguese (Brazil)",
+  "group": "Languages",
+  "tag": "PORTUGUÊS",
+  "lang": "pt-BR",
+  "speak": "recognize",
+  "level": "Beginner to A2",
+  "blurb": "Learn everyday Brazilian Portuguese: greet people, talk about family, food, home, work and plans, ask for directions and prices, and read short simple texts in the present, past and near future.",
+  "sources": [
+    {
+      "t": "Língua da Gente, COERLL, University of Texas at Austin",
+      "u": "https://linguadagente.coerll.utexas.edu/"
+    },
+    {
+      "t": "Tá Falado (Brazilpod), COERLL, University of Texas at Austin",
+      "u": "https://coerll.utexas.edu/brazilpod/tafalado/index.php"
+    },
+    {
+      "t": "Tá Falado grammar lessons, COERLL",
+      "u": "https://coerll.utexas.edu/brazilpod/tafalado/sitemap.php"
+    },
+    {
+      "t": "Wiktionary, Portuguese entries",
+      "u": "https://en.wiktionary.org/wiki/fazer"
+    },
+    {
+      "t": "Dicionário Priberam da Língua Portuguesa",
+      "u": "https://dicionario.priberam.org/chover"
+    }
+  ]
+}

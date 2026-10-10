@@ -1,0 +1,52 @@
+{
+  "title": "Mendelian genetics",
+  "note": "Each organism carries two alleles per gene, which separate into different gametes (segregation). Genes on different chromosomes sort independently (independent assortment). For independent events, multiply probabilities; for mutually exclusive outcomes, add them.",
+  "src": { "t": "OpenStax Biology 2e, Ch. 12: Mendel's Experiments and Heredity", "u": "https://openstax.org/books/biology-2e/pages/12-introduction" },
+  "items": [
+    { "c": "Gregor Mendel's experimental organism", "a": "Garden pea", "d": ["Fruit fly", "Corn"] },
+    { "c": "True-breeding plant", "a": "Always produces offspring with the same trait when selfed", "d": ["Always produces a 3:1 ratio of offspring", "Cannot self-fertilize"] },
+    { "c": "F1 generation", "a": "Offspring of the parental (P) cross", "d": ["Offspring of two F2 plants", "The original true-breeding parents"] },
+    { "c": "Allele", "a": "One version of a gene", "d": ["The position of a gene on a chromosome", "An organism's observable trait"] },
+    { "c": "Genotype", "a": "An organism's combination of alleles", "d": ["An organism's observable traits", "The number of chromosomes in a cell"] },
+    { "c": "Phenotype", "a": "An organism's observable traits", "d": ["An organism's combination of alleles", "The DNA sequence of one gene"] },
+    { "c": "Homozygous", "a": "Two identical alleles for a gene", "d": ["Two different alleles for a gene", "Only one allele for a gene"] },
+    { "c": "Heterozygous", "a": "Two different alleles for a gene", "d": ["Two identical alleles for a gene", "Two copies of every chromosome"] },
+    { "c": "Dominant allele", "a": "Allele expressed in the heterozygote", "d": ["Allele masked in the heterozygote", "Allele found only on the Y chromosome"] },
+    { "c": "Recessive allele", "a": "Allele masked in the heterozygote", "d": ["Allele expressed in the heterozygote", "Allele that blends with its partner"] },
+    { "c": "Law of segregation", "a": "The two alleles of a gene separate into different gametes", "d": ["Alleles of different genes sort independently", "Dominant alleles are always more common"] },
+    { "c": "Law of independent assortment", "a": "Alleles of different genes sort into gametes independently", "d": ["The two alleles of one gene go to separate gametes", "Linked genes are always inherited together"] },
+    { "c": "Phenotype ratio of Aa × Aa (complete dominance)", "a": "3:1", "d": ["1:2:1", "9:3:3:1"] },
+    { "c": "Genotype ratio of Aa × Aa", "a": "1 AA : 2 Aa : 1 aa", "d": ["3 AA : 1 aa", "1 AA : 1 aa"] },
+    { "c": "Phenotype ratio of AaBb × AaBb", "a": "9:3:3:1", "d": ["3:1", "1:1:1:1"] },
+    { "c": "Probability of aa from Aa × Aa", "a": "1/4", "d": ["1/2", "3/4"] },
+    { "c": "Probability of AABB from AaBb × AaBb", "a": "1/16", "d": ["1/4", "1/8"], "ex": "1/4 × 1/4 = 1/16 (product rule)." },
+    { "c": "Product rule", "a": "Multiply probabilities of independent events", "d": ["Add probabilities of exclusive outcomes", "Subtract the dominant probability from 1"] },
+    { "c": "Sum rule", "a": "Add probabilities of mutually exclusive outcomes", "d": ["Multiply probabilities of independent events", "Divide offspring number by four"] },
+    { "c": "Test cross", "a": "Cross with a homozygous recessive to reveal a genotype", "d": ["Cross of two heterozygotes", "Cross of two true-breeding dominants"] },
+    { "c": "Offspring ratio of Aa × aa", "a": "1 Aa : 1 aa", "d": ["3 Aa : 1 aa", "All Aa"] },
+    { "c": "Incomplete dominance", "a": "Heterozygote shows an intermediate phenotype", "d": ["Both alleles fully shown in the heterozygote", "One gene masks a different gene"], "ex": "Red × white snapdragons give pink flowers." },
+    { "c": "Codominance", "a": "Both alleles fully expressed in the heterozygote", "d": ["Heterozygote shows an intermediate phenotype", "Only the dominant allele is expressed"] },
+    { "c": "Human AB blood type illustrates…", "a": "codominance", "d": ["incomplete dominance", "epistasis"] },
+    { "c": "Multiple alleles", "a": "More than two alleles exist for a gene in the population", "d": ["One gene affects several traits", "Several genes affect one trait"], "ex": "The ABO gene has three common alleles." },
+    { "c": "Epistasis", "a": "One gene masks or modifies another gene's effect", "d": ["Both alleles are fully expressed", "One gene has several alleles"] },
+    { "c": "Why X-linked recessive traits show more in males", "a": "Males have only one X chromosome", "d": ["Males have two X chromosomes", "The Y carries a dominant copy of every X gene"] },
+    { "c": "Hemizygous", "a": "Having only one copy of a gene", "d": ["Having two identical alleles", "Having two different alleles"], "ex": "Males are hemizygous for most X-linked genes." },
+    { "c": "Thomas Hunt Morgan's organism", "a": "Fruit fly (Drosophila)", "d": ["Garden pea", "Bread mold"] },
+    { "c": "Linked genes", "a": "Genes close together on one chromosome, often inherited together", "d": ["Genes on different chromosomes", "Genes that code for the same protein"] },
+    { "c": "Recombination frequency between linked genes", "a": "Rises with the distance between them", "d": ["Falls as the distance between them grows", "Is always exactly 50 percent"] },
+    { "c": "Continuous variation", "a": "Trait varies across a smooth range, like human height", "d": ["Trait has only two distinct forms", "Trait is never inherited"] }
+  ],
+  "read": {
+    "title": "Mendel's peas",
+    "text": [
+      "In the 1850s and 1860s, Gregor Mendel crossed garden peas that bred true for contrasting traits, such as purple versus white flowers. All the first-generation (F1) offspring had purple flowers. White seemed to vanish. But when Mendel let the F1 plants self-fertilize, white flowers returned in about one quarter of the second generation. Across thousands of plants, the ratio of purple to white was close to 3:1.",
+      "Mendel explained this with units of inheritance that we now call genes. Each plant carries two copies, or alleles, one from each parent. The purple allele is dominant, so a plant with even one copy is purple. The white allele is recessive and shows only when a plant has two copies. When a plant makes gametes, its two alleles separate, so each gamete carries just one. This is the law of segregation.",
+      "A Punnett square shows the outcome of crossing two heterozygotes (Pp × Pp): one PP, two Pp, and one pp. Three of the four combinations look purple. Mendel then followed two traits at once and found they were inherited independently, giving a 9:3:3:1 ratio. We now know this holds for genes on different chromosomes, but not for genes close together on the same one."
+    ],
+    "q": [
+      { "q": "Why did all F1 plants have purple flowers?", "o": ["The white allele was lost", "Purple is dominant and each F1 plant had one purple allele", "Peas cannot make white pigment"], "k": 1 },
+      { "q": "What fraction of the F2 from Pp × Pp is expected to be white?", "o": ["1/2", "1/4", "3/4", "0"], "k": 1 },
+      { "q": "When does independent assortment fail?", "o": ["For genes close together on one chromosome", "For dominant alleles", "For genes on different chromosomes"], "k": 0 }
+    ]
+  }
+}

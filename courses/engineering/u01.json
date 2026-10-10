@@ -1,0 +1,299 @@
+{
+  "title": "The engineering design process",
+  "note": "Design is iterative: define the problem as measurable requirements within constraints, generate several concepts, choose by weighing trade-offs, then prototype, test, and refine. A factor of safety (failure load ÷ working load) adds margin for what you cannot know exactly.",
+  "src": {
+    "t": "Design and Manufacturing I (2.007), MIT OpenCourseWare",
+    "u": "https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/"
+  },
+  "items": [
+    {
+      "c": "First step of the engineering design process",
+      "a": "define the problem and its requirements",
+      "d": [
+        "build a full-scale prototype",
+        "choose the cheapest material",
+        "test the final product"
+      ]
+    },
+    {
+      "c": "Design constraint",
+      "a": "a limit the solution must stay within, like budget or mass",
+      "d": [
+        "a feature that is nice to have but optional",
+        "the concept finally chosen for production"
+      ]
+    },
+    {
+      "c": "Design criteria",
+      "a": "the measures used to judge how well a design succeeds",
+      "d": [
+        "the parts list needed to build the design",
+        "the order of steps in assembly"
+      ]
+    },
+    {
+      "c": "Engineering specification",
+      "a": "a precise, measurable target the design must meet",
+      "d": [
+        "a rough concept sketch",
+        "an informal customer wish"
+      ],
+      "ex": "\"Lift 20 kg to 1.5 m in under 4 s\" is testable; \"lift heavy things fast\" is not."
+    },
+    {
+      "c": "Why requirements should be measurable",
+      "a": "so a test can show whether they are met",
+      "d": [
+        "so the design can be patented",
+        "so the design costs less to build"
+      ]
+    },
+    {
+      "c": "Why the design process is called iterative",
+      "a": "steps repeat as testing reveals improvements",
+      "d": [
+        "each step is done exactly once, in order",
+        "designs are copied from earlier products"
+      ]
+    },
+    {
+      "c": "Unlike pure science, engineering mainly aims to",
+      "a": "solve a practical problem under constraints",
+      "d": [
+        "discover a universal law of nature",
+        "prove a hypothesis false"
+      ]
+    },
+    {
+      "c": "Trade-off",
+      "a": "giving up some of one quality to gain another",
+      "d": [
+        "meeting every requirement at no cost",
+        "a test that destroys the prototype"
+      ]
+    },
+    {
+      "c": "Adding material to make a part stiffer usually costs",
+      "a": "more weight",
+      "d": [
+        "lower strength",
+        "a shorter fatigue life"
+      ]
+    },
+    {
+      "c": "Brainstorming rule during concept generation",
+      "a": "defer judgment and aim for many ideas",
+      "d": [
+        "critique each idea as it is proposed",
+        "stop at the first workable idea"
+      ]
+    },
+    {
+      "c": "Concept selection should come after",
+      "a": "generating several alternative concepts",
+      "d": [
+        "ordering production tooling",
+        "writing the user manual"
+      ]
+    },
+    {
+      "c": "Weighted decision matrix",
+      "a": "scores concepts against weighted criteria",
+      "d": [
+        "lists parts in assembly order",
+        "plots stress against strain"
+      ]
+    },
+    {
+      "c": "Prototype",
+      "a": "an early model built to test a design idea",
+      "d": [
+        "the final mass-produced product",
+        "a written list of requirements"
+      ]
+    },
+    {
+      "c": "Low-fidelity prototype",
+      "a": "a quick, cheap mockup, such as cardboard or foam",
+      "d": [
+        "a production part from final tooling",
+        "a certified flight-ready unit"
+      ]
+    },
+    {
+      "c": "Main benefit of prototyping early",
+      "a": "finding problems while changes are still cheap",
+      "d": [
+        "avoiding the need for any analysis",
+        "fixing the final price of the product"
+      ]
+    },
+    {
+      "c": "Engineering model",
+      "a": "a simplified representation used to predict behavior",
+      "d": [
+        "the most expensive version of a product",
+        "a legal description of a patent"
+      ]
+    },
+    {
+      "c": "Finite element analysis (FEA)",
+      "a": "dividing a part into small elements to compute stresses",
+      "d": [
+        "loading a real part until it breaks",
+        "estimating a product's market price"
+      ]
+    },
+    {
+      "c": "CAD",
+      "a": "computer-aided design",
+      "d": [
+        "calculated assembly drawing",
+        "component analysis database"
+      ]
+    },
+    {
+      "c": "Design for manufacturability (DFM)",
+      "a": "shaping a design so it is easy and cheap to make",
+      "d": [
+        "designing only for the best performance",
+        "manufacturing before any design is done"
+      ]
+    },
+    {
+      "c": "Benchmarking in design",
+      "a": "studying existing products to compare performance",
+      "d": [
+        "choosing the heaviest material available",
+        "testing a part until it fails"
+      ]
+    },
+    {
+      "c": "Verification asks",
+      "a": "did we build it right, meeting the spec?",
+      "d": [
+        "did we build the right thing for the user?"
+      ]
+    },
+    {
+      "c": "Validation asks",
+      "a": "did we build the right thing for the user's need?",
+      "d": [
+        "did we build it right, meeting the spec?"
+      ]
+    },
+    {
+      "c": "Design review",
+      "a": "a structured check of a design by others before moving on",
+      "d": [
+        "a customer review posted after sale",
+        "the final production run"
+      ]
+    },
+    {
+      "c": "Factor of safety (FoS)",
+      "a": "failure load divided by expected working load",
+      "d": [
+        "working load divided by failure load",
+        "failure load minus working load"
+      ]
+    },
+    {
+      "c": "Fails at 12 kN, carries 4 kN: factor of safety?",
+      "a": "3",
+      "d": [
+        "8",
+        "0.33",
+        "48"
+      ]
+    },
+    {
+      "c": "A factor of safety below 1 means",
+      "a": "failure is expected under the working load",
+      "d": [
+        "the part is overdesigned",
+        "the part is sized exactly right"
+      ]
+    },
+    {
+      "c": "Why engineers use a factor of safety",
+      "a": "to cover uncertainty in loads, materials, and models",
+      "d": [
+        "to make parts cheaper to produce",
+        "to remove the need for testing"
+      ]
+    },
+    {
+      "c": "Cost of an unnecessarily large factor of safety",
+      "a": "heavier, more expensive designs",
+      "d": [
+        "more frequent failures",
+        "less margin against overload"
+      ]
+    },
+    {
+      "c": "Standard factor of safety on aircraft limit loads (FAA)",
+      "a": "1.5",
+      "d": [
+        "4.0",
+        "1.0",
+        "10"
+      ],
+      "ex": "Aircraft structures must carry 1.5 times the largest load expected in service."
+    },
+    {
+      "c": "Why aircraft can use a low factor of safety",
+      "a": "loads and materials are rigorously analyzed and tested",
+      "d": [
+        "aircraft loads never vary in flight",
+        "aircraft metals cannot fatigue"
+      ]
+    },
+    {
+      "c": "Overengineering",
+      "a": "adding capability or margin beyond what is needed",
+      "d": [
+        "leaving out a required feature",
+        "designing exactly to the specification"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Designing under constraints",
+    "text": [
+      "Engineering starts with a need, not a solution. A team that wants a lighter wheelchair first turns the need into requirements it can test: a maximum mass, a rated load, a folded size, a target cost. Some of these are constraints, hard limits the design may not cross. Others are criteria, measures that let the team say one design is better than another.",
+      "With the problem defined, the team generates many concepts before judging any of them, then compares them, often with a weighted decision matrix. Every choice is a trade-off. Aluminum is light but less stiff than steel; carbon fiber is lighter and stiffer but costs far more.",
+      "Next comes a prototype, which may be cardboard on day one and machined metal a month later. Tests reveal problems, and the team loops back to change the design. That loop, not a straight line, is the engineering design process.",
+      "Because loads, material properties, and models are never known exactly, engineers add a factor of safety: the load that would cause failure divided by the load expected in use. Too little margin invites failure; too much wastes weight and money. Aircraft use about 1.5 because extra weight is so costly and their loads are studied so carefully."
+    ],
+    "q": [
+      {
+        "q": "In the wheelchair example, what is a constraint?",
+        "o": [
+          "A hard limit the design may not cross",
+          "A concept chosen by the team",
+          "A prototype made of cardboard"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why is the design process described as a loop?",
+        "o": [
+          "Teams must buy new tools each round",
+          "Test results send the team back to change the design",
+          "Requirements are written last"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why do aircraft use a factor of safety near 1.5?",
+        "o": [
+          "Their materials never fail",
+          "Regulations forbid higher values",
+          "Weight is costly and their loads are well studied"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

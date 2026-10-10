@@ -1,0 +1,301 @@
+{
+  "title": "Peer review and how journals work",
+  "note": "In peer review, an editor sends a manuscript to independent experts, whose reports guide the editor's decision. It filters out much weak work but does not prove a result true. Journal metrics such as the impact factor are rough signals about a journal, never verdicts on a single article.",
+  "src": {
+    "t": "Web Literacy for Student Fact-Checkers, Finding a Journal's Impact Factor",
+    "u": "https://pressbooks.pub/webliteracy/chapter/finding-a-journals-impact-factor/"
+  },
+  "items": [
+    {
+      "c": "Peer review",
+      "a": "Experts in the field evaluate a manuscript before publication",
+      "d": [
+        "Readers vote on articles after they appear",
+        "Editors check only grammar and format",
+        "Authors rate one another's papers online"
+      ]
+    },
+    {
+      "c": "Who makes the final accept-or-reject decision?",
+      "a": "The journal's editor, guided by reviewers",
+      "d": [
+        "The reviewers, by majority vote",
+        "The authors' home university",
+        "The publisher's marketing team"
+      ]
+    },
+    {
+      "c": "Single-anonymous (single-blind) review",
+      "a": "Reviewers know the authors; authors don't know reviewers",
+      "d": [
+        "Neither side knows the other's identity",
+        "Both sides know each other's identity",
+        "Authors choose their own reviewers"
+      ]
+    },
+    {
+      "c": "Double-anonymous (double-blind) review",
+      "a": "Neither authors nor reviewers know each other's identity",
+      "d": [
+        "Reviewers know the authors' names",
+        "Reviews are posted publicly with names",
+        "Only the editor reads the paper"
+      ]
+    },
+    {
+      "c": "Open peer review",
+      "a": "Reviewer names or reports are made public",
+      "d": [
+        "Any reader can edit the article",
+        "No reviewers are used at all",
+        "The article is free to read"
+      ]
+    },
+    {
+      "c": "Desk rejection",
+      "a": "Editor declines a paper without sending it to reviewers",
+      "d": [
+        "Reviewers reject a paper after two rounds",
+        "A paper is withdrawn after publication",
+        "An author pulls a paper before review"
+      ]
+    },
+    {
+      "c": "Revise and resubmit",
+      "a": "A decision asking authors to make changes and resubmit",
+      "d": [
+        "Final acceptance with no changes",
+        "Permanent rejection of the paper",
+        "A notice that the paper is retracted"
+      ]
+    },
+    {
+      "c": "What peer review often fails to catch",
+      "a": "Fabricated data that looks plausible",
+      "d": [
+        "Missing reference lists",
+        "A paper outside the journal's subject",
+        "An abstract that is far too long"
+      ]
+    },
+    {
+      "c": "Passing peer review means a finding is",
+      "a": "Vetted by experts, but not proven true",
+      "d": [
+        "Proven true beyond doubt",
+        "Certain to replicate",
+        "Free of any conflict of interest"
+      ]
+    },
+    {
+      "c": "Post-publication peer review",
+      "a": "Critique of a paper after it is published",
+      "d": [
+        "Review done before a study starts",
+        "A second review by the same reviewers",
+        "Editing for grammar after acceptance"
+      ]
+    },
+    {
+      "c": "Journal Impact Factor",
+      "a": "Average yearly citations to a journal's past two years of items",
+      "d": [
+        "The number of articles a journal prints yearly",
+        "A rating of one article's quality",
+        "The share of submissions a journal accepts"
+      ]
+    },
+    {
+      "c": "Company that publishes the Journal Impact Factor",
+      "a": "Clarivate, in Journal Citation Reports",
+      "d": [
+        "Google, in Google Scholar",
+        "NLM, in PubMed",
+        "Elsevier, in ScienceDirect"
+      ]
+    },
+    {
+      "c": "Why impact factor can't rate a single article",
+      "a": "A few highly cited papers drive the average",
+      "d": [
+        "It counts only retracted papers",
+        "It is calculated for authors, not journals",
+        "It changes every day"
+      ]
+    },
+    {
+      "c": "Comparing impact factors across fields",
+      "a": "Misleading, since citation habits differ by field",
+      "d": [
+        "The most reliable way to rank journals",
+        "Required by most universities",
+        "Valid only for medical journals"
+      ]
+    },
+    {
+      "c": "h-index",
+      "a": "Largest h such that h papers each have at least h citations",
+      "d": [
+        "Total citations divided by years active",
+        "Number of papers in high-impact journals",
+        "Average citations per paper"
+      ]
+    },
+    {
+      "c": "Predatory journal",
+      "a": "Charges authors fees but skips genuine peer review",
+      "d": [
+        "A selective journal with a low acceptance rate",
+        "A journal that publishes only preprints",
+        "A journal owned by a university press"
+      ]
+    },
+    {
+      "c": "Warning sign of a predatory journal",
+      "a": "Spam emails promising very fast acceptance",
+      "d": [
+        "A long, rigorous review process",
+        "A listing in a vetted index like DOAJ",
+        "Clearly named, reachable editors"
+      ]
+    },
+    {
+      "c": "Another warning sign of a predatory journal",
+      "a": "An editorial board you can't verify",
+      "d": [
+        "A clear policy on corrections",
+        "Articles with DOIs that resolve",
+        "Indexing in MEDLINE"
+      ]
+    },
+    {
+      "c": "Hijacked journal",
+      "a": "A fake website impersonating a real journal",
+      "d": [
+        "A journal bought by a new publisher",
+        "A journal that changed its name",
+        "A journal that stopped publishing"
+      ]
+    },
+    {
+      "c": "Paper mill",
+      "a": "A business selling fabricated or ghostwritten papers",
+      "d": [
+        "A factory that prints journals",
+        "A university's thesis archive",
+        "Software that formats manuscripts"
+      ]
+    },
+    {
+      "c": "Article processing charge (APC)",
+      "a": "A fee some journals charge authors to publish open access",
+      "d": [
+        "A fee readers pay to download an article",
+        "A charge for requesting a correction",
+        "A library's yearly subscription cost"
+      ]
+    },
+    {
+      "c": "Gold open access",
+      "a": "The final article is free on the publisher's site",
+      "d": [
+        "The author posts a copy in a repository",
+        "Only the abstract is free",
+        "Access is free only on campus"
+      ]
+    },
+    {
+      "c": "Green open access",
+      "a": "The author posts a version in a repository",
+      "d": [
+        "The publisher makes the final version free",
+        "The article is printed on recycled paper",
+        "The article is about the environment"
+      ]
+    },
+    {
+      "c": "DOAJ",
+      "a": "Directory of Open Access Journals, a vetted index",
+      "d": [
+        "Database of Outdated Academic Journals",
+        "A list of predatory publishers",
+        "A citation style for open journals"
+      ]
+    },
+    {
+      "c": "Journal selected for MEDLINE",
+      "a": "Accepted by NLM after a review of its quality",
+      "d": [
+        "Any journal that pays a listing fee",
+        "Any journal with a website",
+        "Only journals published in the US"
+      ]
+    },
+    {
+      "c": "Corresponding author",
+      "a": "The author who handles communication about the paper",
+      "d": [
+        "The author who did the statistics",
+        "The reviewer who wrote the longest report",
+        "The editor who handled the paper"
+      ]
+    },
+    {
+      "c": "Last author, in many biomedical fields",
+      "a": "Often the senior researcher who leads the lab",
+      "d": [
+        "Always the most junior student",
+        "The person who wrote the abstract",
+        "The journal's managing editor"
+      ]
+    },
+    {
+      "c": "Supplementary materials",
+      "a": "Extra data and methods posted alongside an article",
+      "d": [
+        "Ads printed in the journal issue",
+        "Reviewers' confidential comments",
+        "A list of the journal's editors"
+      ]
+    }
+  ],
+  "read": {
+    "title": "What a journal adds",
+    "text": [
+      "When researchers finish a study, they submit a manuscript to a journal. An editor first decides whether it fits the journal and is worth reviewing; many papers are declined at this stage. The rest go to two or three independent experts who judge whether the methods are sound, the analysis fits the data, and the conclusions follow. Their reports guide the editor, who may accept, reject, or ask for revisions.",
+      "This filter is valuable but limited. Reviewers rarely see raw data, so plausible fabrication can slip through, and honest errors survive too. Peer review means a paper was checked by experts, not that its conclusions are true.",
+      "Readers often judge journals by the impact factor, the average number of citations a journal's recent articles receive. It is a rough signal at best. A few blockbuster papers can lift the average, fields cite at very different rates, and it says nothing about any one article.",
+      "The worst outlets imitate journals without doing the work. Predatory journals collect publication fees while skipping real review. Spam invitations, promises of acceptance in days, and editorial boards that can't be verified are warning signs."
+    ],
+    "q": [
+      {
+        "q": "Why can fabricated data slip through peer review?",
+        "o": [
+          "Editors never read the papers",
+          "Reviewers rarely see the raw data",
+          "Fabrication is legal in most journals",
+          "Reviewers are not experts"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Which is a reason the impact factor is only a rough signal?",
+        "o": [
+          "A few highly cited papers can lift the average",
+          "It is set by the authors",
+          "It is only reported for preprints"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What do predatory journals do?",
+        "o": [
+          "Publish only replications",
+          "Collect fees while skipping real peer review",
+          "Reject most submissions after strict review"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

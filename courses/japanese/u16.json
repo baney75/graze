@@ -1,0 +1,316 @@
+{
+  "title": "Body and daily care",
+  "note": "To describe a person's features, say Person は Part が Adjective: 妹は髪が長いです \"My sister has long hair.\" The same pattern gives 頭が痛いです \"My head hurts.\" Daily-care verbs take を for the thing washed or brushed: 顔を洗います, 歯を磨きます. Entering a bath uses に: お風呂に入ります.",
+  "src": {
+    "t": "Tae Kim's Guide: Introduction to Particles (は and が)",
+    "u": "https://guidetojapanese.org/learn/grammar/particlesintro"
+  },
+  "items": [
+    {
+      "c": "体",
+      "r": "karada",
+      "a": "body",
+      "d": [
+        "head",
+        "face"
+      ],
+      "ex": "(からだ) 野菜は体にいいです。",
+      "exT": "Vegetables are good for your body."
+    },
+    {
+      "c": "頭",
+      "r": "atama",
+      "a": "head",
+      "d": [
+        "face",
+        "stomach"
+      ]
+    },
+    {
+      "c": "顔",
+      "r": "kao",
+      "a": "face",
+      "d": [
+        "head",
+        "neck"
+      ]
+    },
+    {
+      "c": "目",
+      "r": "me",
+      "a": "eye",
+      "d": [
+        "ear",
+        "mouth"
+      ]
+    },
+    {
+      "c": "耳",
+      "r": "mimi",
+      "a": "ear",
+      "d": [
+        "eye",
+        "nose"
+      ]
+    },
+    {
+      "c": "鼻",
+      "r": "hana",
+      "a": "nose",
+      "d": [
+        "mouth",
+        "flower"
+      ]
+    },
+    {
+      "c": "口",
+      "r": "kuchi",
+      "a": "mouth",
+      "d": [
+        "nose",
+        "tooth"
+      ]
+    },
+    {
+      "c": "歯",
+      "r": "ha",
+      "a": "tooth, teeth",
+      "d": [
+        "tongue",
+        "lip"
+      ]
+    },
+    {
+      "c": "手",
+      "r": "te",
+      "a": "hand",
+      "d": [
+        "foot, leg",
+        "arm"
+      ]
+    },
+    {
+      "c": "足",
+      "r": "ashi",
+      "a": "foot, leg",
+      "d": [
+        "hand",
+        "back"
+      ]
+    },
+    {
+      "c": "お腹",
+      "r": "onaka",
+      "a": "stomach, belly",
+      "d": [
+        "back",
+        "chest"
+      ]
+    },
+    {
+      "c": "髪",
+      "r": "kami",
+      "a": "hair",
+      "d": [
+        "face",
+        "paper"
+      ]
+    },
+    {
+      "c": "声",
+      "r": "koe",
+      "a": "voice",
+      "d": [
+        "ear",
+        "song"
+      ],
+      "ex": "(こえ) 大きい声で話してください。",
+      "exT": "Please speak in a loud voice."
+    },
+    {
+      "c": "痛い",
+      "r": "itai",
+      "a": "painful, sore",
+      "d": [
+        "tired",
+        "itchy"
+      ]
+    },
+    {
+      "c": "大丈夫",
+      "r": "daijōbu",
+      "a": "all right, OK",
+      "d": [
+        "dangerous",
+        "busy"
+      ]
+    },
+    {
+      "c": "背が高い",
+      "r": "se ga takai",
+      "a": "tall (of a person)",
+      "d": [
+        "short (of a person)",
+        "has a long back"
+      ]
+    },
+    {
+      "c": "洗います",
+      "r": "araimasu",
+      "a": "wash",
+      "d": [
+        "brush",
+        "dry"
+      ]
+    },
+    {
+      "c": "入ります",
+      "r": "hairimasu",
+      "a": "enter, go in",
+      "d": [
+        "leave, go out",
+        "sit down"
+      ]
+    },
+    {
+      "c": "歯を磨きます",
+      "r": "ha o migakimasu",
+      "a": "brush one's teeth",
+      "d": [
+        "wash one's face",
+        "comb one's hair"
+      ]
+    },
+    {
+      "c": "シャワーを浴びます",
+      "r": "shawā o abimasu",
+      "a": "take a shower",
+      "d": [
+        "take a bath",
+        "wash the dishes"
+      ]
+    },
+    {
+      "c": "疲れました。",
+      "r": "Tsukaremashita.",
+      "a": "I'm tired.",
+      "d": [
+        "I'm hungry.",
+        "I'm fine."
+      ]
+    },
+    {
+      "c": "髪が長いです。",
+      "r": "Kami ga nagai desu.",
+      "a": "(She) has long hair.",
+      "d": [
+        "(She) has short hair.",
+        "(She) has black hair."
+      ]
+    },
+    {
+      "c": "頭が痛いです。",
+      "r": "Atama ga itai desu.",
+      "a": "My head hurts.",
+      "d": [
+        "My stomach hurts.",
+        "My head is big."
+      ]
+    },
+    {
+      "c": "大丈夫ですか。",
+      "r": "Daijōbu desu ka.",
+      "a": "Are you all right?",
+      "d": [
+        "Are you busy?",
+        "Is it far?"
+      ]
+    },
+    {
+      "c": "お大事に。",
+      "r": "Odaiji ni.",
+      "a": "Get well soon. / Take care.",
+      "d": [
+        "Welcome back.",
+        "Good luck."
+      ]
+    },
+    {
+      "c": "手を上げてください。",
+      "r": "Te o agete kudasai.",
+      "a": "Please raise your hand.",
+      "d": [
+        "Please wash your hands.",
+        "Please lower your hand."
+      ]
+    },
+    {
+      "c": "お腹___痛いです。",
+      "r": "Onaka ___ itai desu.",
+      "a": "が",
+      "d": [
+        "を",
+        "で"
+      ],
+      "ex": "お腹が痛いです。",
+      "exT": "My stomach hurts."
+    },
+    {
+      "c": "朝、顔___洗います。",
+      "r": "Asa, kao ___ araimasu.",
+      "a": "を",
+      "d": [
+        "が",
+        "で"
+      ]
+    },
+    {
+      "c": "毎晩お風呂___入ります。",
+      "r": "Maiban ofuro ___ hairimasu.",
+      "a": "に",
+      "d": [
+        "を",
+        "で"
+      ],
+      "ex": "毎晩お風呂に入ります。",
+      "exT": "I take a bath every night."
+    }
+  ],
+  "read": {
+    "title": "わたしの 朝",
+    "text": [
+      "わたしは 毎朝 六時に 起きます。 顔を 洗います。 歯を 磨きます。 それから、 シャワーを 浴びます。 七時に 朝ご飯を 食べます。",
+      "わたしの 妹は 十二歳です。 妹は 髪が 長いです。 目が 大きいです。 背は 高くないです。 妹は 毎晩 九時に お風呂に 入ります。 十時に 寝ます。",
+      "今日、 妹は 頭が 痛いです。 学校を 休みます。 家で 寝ます。 母は 「大丈夫？」と 聞きます。 妹は 「大丈夫です。」と 言います。"
+    ],
+    "q": [
+      {
+        "q": "In the morning, what comes right after washing the face?",
+        "o": [
+          "Brushing teeth",
+          "Taking a shower",
+          "Eating breakfast"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Which describes the younger sister?",
+        "o": [
+          "Short hair and tall",
+          "Long hair and big eyes",
+          "Short hair and small eyes"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why does the sister stay home today?",
+        "o": [
+          "It is Sunday",
+          "She is tired",
+          "Her head hurts"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Descartes and the rationalists",
+  "note": "Rationalists held that reason, not the senses alone, is the main source of knowledge, and that some ideas are innate. Descartes doubted everything he could, found his own thinking existence certain, and rebuilt knowledge on God's existence and clear and distinct ideas. Spinoza and Leibniz built rival systems on similar principles.",
+  "src": { "t": "Stanford Encyclopedia of Philosophy, René Descartes", "u": "https://plato.stanford.edu/entries/descartes/" },
+  "items": [
+    { "c": "Publication year of Descartes's Meditations", "a": "1641", "d": ["1610", "1687", "1739"] },
+    { "c": "Descartes's 1637 book with the cogito", "a": "Discourse on the Method", "d": ["Principles of Philosophy", "Passions of the Soul", "Pensées"] },
+    { "c": "Descartes's method of doubt", "a": "set aside any belief open to the slightest doubt", "d": ["accept whatever most people believe", "trust the senses unless proven wrong"] },
+    { "c": "Descartes's dream argument", "a": "no sure sign tells waking from dreaming", "d": ["dreams are messages from God", "dreams prove the soul is immortal"] },
+    { "c": "Descartes's evil deceiver hypothesis", "a": "a powerful being might deceive me about everything", "d": ["the senses are always reliable", "God punishes those who doubt"] },
+    { "c": "First certainty of Meditation II", "a": "I am, I exist, whenever I think it", "d": ["God exists", "the external world exists"] },
+    { "c": "Descartes's mark of truth", "a": "clear and distinct perception", "d": ["agreement with tradition", "repeated sense experience"] },
+    { "c": "Descartes's wax example shows", "a": "bodies are grasped by the intellect, not the senses", "d": ["only the senses reveal bodies", "wax is not a real substance"] },
+    { "c": "Descartes's trademark argument for God", "a": "my idea of an infinite being must come from God", "d": ["the world's design needs a designer", "the moral law needs a lawgiver"] },
+    { "c": "Ontological argument of Meditation V", "a": "existence belongs to the essence of a perfect being", "d": ["motion requires an unmoved mover", "contingent things need a necessary one"] },
+    { "c": "The Cartesian circle", "a": "proving God by clear ideas, trusting clear ideas by God", "d": ["doubting all, then believing all", "moving from mind to body and back"] },
+    { "c": "Philosopher who raised the Cartesian circle", "a": "Antoine Arnauld", "d": ["Thomas Hobbes", "Blaise Pascal", "John Locke"] },
+    { "c": "Essence of mind, for Descartes", "a": "thought", "d": ["extension", "motion", "sensation"] },
+    { "c": "Essence of body, for Descartes", "a": "extension", "d": ["thought", "color", "life"] },
+    { "c": "Princess Elisabeth's challenge to Descartes", "a": "how can an unextended mind move a body?", "d": ["how can God allow evil?", "how can we know other minds exist?"] },
+    { "c": "Gland Descartes linked to mind-body interaction", "a": "the pineal gland", "d": ["the pituitary gland", "the thyroid gland"] },
+    { "c": "Spinoza's phrase Deus sive Natura", "a": "God, or Nature", "d": ["God above Nature", "God against Nature"] },
+    { "c": "Spinoza on substance", "a": "there is only one substance, God", "d": ["there are two substances, mind and body", "there are infinitely many monads"] },
+    { "c": "Form in which Spinoza wrote his Ethics", "a": "geometrical order, like Euclid", "d": ["dialogues, like Plato", "aphorisms, like Pascal"] },
+    { "c": "Spinoza on free will", "a": "it is an illusion from ignorance of causes", "d": ["it is the soul's highest power", "it is granted only to the wise"] },
+    { "c": "Leibniz's simple substances", "a": "monads", "d": ["atoms", "modes", "forms"] },
+    { "c": "Principle of sufficient reason", "a": "nothing is so without a reason why it is so", "d": ["the simplest explanation is best", "whatever is perceived exists"] },
+    { "c": "Leibniz's account of mind-body agreement", "a": "pre-established harmony set by God", "d": ["constant interaction through a gland", "God acting on each occasion"] },
+    { "c": "Leibniz's claim about the actual world", "a": "it is the best of all possible worlds", "d": ["it is the only possible world", "it is a dream of God"] },
+    { "c": "Leibniz's identity of indiscernibles", "a": "no two things share all their properties", "d": ["everything is identical to itself", "nothing is without a reason"] },
+    { "c": "Leibniz's veined marble image", "a": "the mind has innate tendencies shaping its ideas", "d": ["the mind is a blank slate", "the mind is a bundle of perceptions"] },
+    { "c": "Malebranche's occasionalism", "a": "God is the only true cause", "d": ["matter causes all thought", "minds cause all events"] },
+    { "c": "Core claim of rationalist epistemology", "a": "some knowledge comes from reason independent of sense", "d": ["all knowledge comes from sense experience", "no knowledge is possible"] },
+    { "c": "Innate idea", "a": "an idea the mind has by its own nature", "d": ["an idea copied from sensation", "an idea taught by parents"] },
+    { "c": "Source of 'the heart has its reasons'", "a": "Pascal, Pensées", "d": ["Descartes, Meditations", "Spinoza, Ethics"] },
+    { "c": "Leibniz shares credit for inventing", "a": "calculus", "d": ["analytic geometry", "the telescope"] }
+  ],
+  "read": {
+    "title": "Doubt as a road to certainty",
+    "text": [
+      "René Descartes wanted knowledge as secure as geometry. In the Meditations he resolved to set aside any belief he could find the least reason to doubt. The senses sometimes deceive, and he could not be sure he was not dreaming. He even imagined a powerful deceiver bent on fooling him about everything.",
+      "Yet one thing survived. However much he was deceived, he had to exist in order to be deceived. 'I am, I exist' is certain whenever he thinks it. He then asked what he was, and answered: a thinking thing, one that doubts, understands, wills, and imagines.",
+      "From this foundation Descartes argued that he has an idea of an infinite, perfect being, and that a finite mind could not produce such an idea by itself, so God exists. A perfect God would not deceive, so whatever we perceive clearly and distinctly is true. On that basis he restored knowledge of the physical world and concluded that mind, whose nature is thought, is distinct from body, whose nature is extension.",
+      "Critics pressed him. Arnauld asked whether the argument runs in a circle, and Princess Elisabeth asked how an unextended mind could move an extended body."
+    ],
+    "q": [
+      { "q": "Why could Descartes not doubt his own existence?", "o": ["The senses confirmed it", "Being deceived requires existing", "God revealed it to him"], "k": 1 },
+      { "q": "What role does God's perfection play in Descartes's argument?", "o": ["It guarantees that clear and distinct perceptions are true", "It proves that the senses never err", "It shows that mind and body are one"], "k": 0 },
+      { "q": "What did Princess Elisabeth question?", "o": ["How mind and body interact", "Whether God exists", "Whether dreams are real"], "k": 0 }
+    ]
+  }
+}

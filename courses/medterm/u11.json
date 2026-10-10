@@ -1,0 +1,54 @@
+{
+  "title": "Nervous system: brain, cord and nerves",
+  "note": "neur/o means nerve; encephal/o is the whole brain, cerebr/o the cerebrum and cerebell/o the cerebellum; mening/o names the protective membranes. Function suffixes: -plegia paralysis, -paresis slight paralysis or weakness, -phasia speech, -esthesia sensation, -algesia sensitivity to pain.",
+  "src": { "t": "Medical Terminology 2e (Open RN), 16.2 Word Components Related to the Nervous System", "u": "https://med.libretexts.org/Bookshelves/Medicine/Medical_Terminology_2e_(OpenRN)/16%3A_Nervous_System_Terminology/16.02%3A_Word_Components_Related_to_the_Nervous_System" },
+  "items": [
+    { "c": "neur/o", "a": "nerve", "d": ["brain", "muscle"] },
+    { "c": "encephal/o", "a": "brain", "d": ["head", "spinal cord"] },
+    { "c": "cephal/o", "a": "head", "d": ["brain", "neck"] },
+    { "c": "cerebr/o", "a": "cerebrum, the largest part of the brain", "d": ["cerebellum, the hindbrain below it", "brainstem, linking brain and cord"] },
+    { "c": "cerebell/o", "a": "cerebellum", "d": ["cerebrum", "thalamus"], "ex": "The cerebellum coordinates balance and movement." },
+    { "c": "mening/o, meningi/o", "a": "meninges, membranes around brain and cord", "d": ["ventricles, fluid spaces in the brain", "ganglia, clusters of nerve cell bodies"] },
+    { "c": "dur/o", "a": "dura mater; hard", "d": ["gray matter; soft", "nerve root; sheath"] },
+    { "c": "radicul/o, rhiz/o", "a": "nerve root", "d": ["spinal cord", "nerve ending"] },
+    { "c": "gangli/o, ganglion/o", "a": "ganglion, a cluster of nerve cell bodies", "d": ["glia, supporting cells", "meninges, protective membranes"] },
+    { "c": "gli/o", "a": "glia, supporting cells; glue", "d": ["ganglion, cluster of cell bodies", "gray matter"] },
+    { "c": "poli/o", "a": "gray matter", "d": ["white matter", "nerve root"] },
+    { "c": "ment/o, psych/o", "a": "mind", "d": ["brain tissue", "nerve"] },
+    { "c": "esthesi/o", "a": "sensation, feeling", "d": ["speech", "movement"] },
+    { "c": "-phasia", "a": "speech", "d": ["swallowing", "sensation"] },
+    { "c": "-paresis", "a": "slight paralysis, weakness", "d": ["complete paralysis", "seizure"] },
+    { "c": "-lepsy", "a": "seizure", "d": ["sleep", "speech"] },
+    { "c": "an/esthesia", "a": "absence of sensation", "d": ["absence of speech", "excessive sensation"] },
+    { "c": "an/algesia", "a": "absence of sensitivity to pain", "d": ["excessive sensitivity to pain", "absence of movement"], "ex": "An analgesic is a drug that relieves pain." },
+    { "c": "a/phasia", "a": "loss of the ability to use or understand language", "d": ["difficulty swallowing", "loss of muscle coordination"] },
+    { "c": "hemi/paresis", "a": "weakness of one side of the body", "d": ["paralysis of the lower body", "paralysis of all four limbs"] },
+    { "c": "mening/itis", "a": "inflammation of the meninges", "d": ["inflammation of the brain", "inflammation of a nerve root"] },
+    { "c": "encephal/itis", "a": "inflammation of the brain", "d": ["inflammation of the meninges", "inflammation of the spinal cord"] },
+    { "c": "poli/o/myel/itis", "a": "inflammation of the gray matter of the spinal cord", "d": ["inflammation of the brain's white matter", "inflammation of many nerves"] },
+    { "c": "poly/neur/o/pathy", "a": "disease of many nerves", "d": ["inflammation of one nerve", "disease of a nerve root"] },
+    { "c": "radicul/o/pathy", "a": "disease of a nerve root", "d": ["disease of many nerves", "disease of the meninges"] },
+    { "c": "electr/o/encephal/o/gram", "a": "record of the brain's electrical activity", "d": ["record of the heart's electrical activity", "image of the brain's blood vessels"] },
+    { "c": "sub/dur/al", "a": "pertaining to below the dura mater", "d": ["pertaining to above the dura mater", "pertaining to within the brain tissue"] },
+    { "c": "epi/dur/al", "a": "pertaining to above (outside) the dura mater", "d": ["pertaining to below the dura mater", "pertaining to within the spinal cord"] },
+    { "c": "neur/o/logist", "a": "physician specializing in the nervous system", "d": ["physician specializing in the heart", "surgeon specializing in bones and joints"] },
+    { "c": "Central nervous system consists of", "a": "the brain and spinal cord", "d": ["the cranial and spinal nerves", "the brain and cranial nerves"] },
+    { "c": "Peripheral nervous system consists of", "a": "nerves outside the brain and spinal cord", "d": ["the brain and spinal cord", "only the spinal cord"] },
+    { "c": "Cell that conducts nerve impulses", "a": "neuron", "d": ["glial cell", "myocyte"] },
+    { "c": "CSF", "a": "cerebrospinal fluid", "d": ["central spinal fiber", "cranial sensory function"], "ex": "It cushions the brain and spinal cord." }
+  ],
+  "read": {
+    "title": "Coverings, parts and functions",
+    "text": [
+      "The nervous system has two divisions. The central nervous system is the brain (encephal/o) and spinal cord (myel/o). The peripheral nervous system is every nerve (neur/o) outside them, including the nerve roots (radicul/o) that leave the cord. The working cells are neurons, supported by glial cells, named from gli/o, meaning glue.",
+      "The brain and cord are wrapped in three membranes, the meninges (mening/o), and cushioned by cerebrospinal fluid. The outermost and toughest membrane is the dura mater, from dur/o, meaning hard. Prefixes place things relative to it: an epidural space lies outside the dura and a subdural space lies beneath it.",
+      "Inside the skull, cerebr/o refers to the cerebrum, the large upper part of the brain, and cerebell/o to the cerebellum, which coordinates balance and movement.",
+      "Function suffixes describe what the nervous system does. Sensation is esthesi/o, so anesthesia is the absence of sensation. Speech is -phasia, so aphasia is the loss of language ability. Movement problems use -plegia for paralysis and -paresis for partial paralysis or weakness, often with hemi- for one side of the body."
+    ],
+    "q": [
+      { "q": "Which structures make up the central nervous system?", "o": ["The brain and spinal cord", "All nerves outside the skull", "The nerve roots and ganglia"], "k": 0 },
+      { "q": "Why is the dura mater named with dur/o?", "o": ["It is the tough, hard outer membrane", "It produces cerebrospinal fluid", "It lies deep inside the brain"], "k": 0 },
+      { "q": "How does -paresis differ from -plegia?", "o": ["-paresis is partial paralysis or weakness", "-paresis refers only to the face", "-paresis means sensation, not movement", "They mean exactly the same"], "k": 0 }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "title": "Boxing: stance, punches, defense, and rules",
+  "note": "Boxing uses four punches: jab, cross, hook, and uppercut. Power comes from the legs and hip rotation, not the arm alone. Footwork keeps the base under you, and defense moves the head or deflects the glove. Bouts are scored round by round on the ten-point must system.",
+  "src": {
+    "t": "Amateur combative sport rules: boxing (World Boxing scoring), Ontario",
+    "u": "https://www.ontario.ca/document/amateur-combative-sport-rules-boxing/part-iv-competition-requirements"
+  },
+  "items": [
+    {
+      "c": "Orthodox stance",
+      "a": "left foot and left hand forward",
+      "d": [
+        "right foot and right hand forward",
+        "feet level and square to the opponent"
+      ]
+    },
+    {
+      "c": "Southpaw stance",
+      "a": "right foot and right hand forward",
+      "d": [
+        "left foot and left hand forward",
+        "switching feet every round"
+      ]
+    },
+    {
+      "c": "Jab",
+      "a": "a straight punch with the lead hand",
+      "d": [
+        "a straight punch with the rear hand",
+        "a curved punch with the lead hand"
+      ]
+    },
+    {
+      "c": "Cross",
+      "a": "a straight punch with the rear hand",
+      "d": [
+        "a straight punch with the lead hand",
+        "a rising punch with the rear hand"
+      ]
+    },
+    {
+      "c": "Hook",
+      "a": "a short curved punch from the side with a bent arm",
+      "d": [
+        "a rising punch from below",
+        "a straight punch down the middle"
+      ]
+    },
+    {
+      "c": "Uppercut",
+      "a": "a rising punch driven upward from below",
+      "d": [
+        "a curved punch from the side",
+        "a straight punch from the rear hand"
+      ]
+    },
+    {
+      "c": "Main jobs of the jab",
+      "a": "measure distance, set up punches, keep the opponent off",
+      "d": [
+        "end the fight with one blow",
+        "defend against body shots"
+      ]
+    },
+    {
+      "c": "Power in the cross comes mostly from",
+      "a": "pushing off the rear foot and turning the rear hip",
+      "d": [
+        "extending the elbow as hard as possible",
+        "leaning the head forward"
+      ]
+    },
+    {
+      "c": "The 1-2 combination",
+      "a": "jab followed by cross",
+      "d": [
+        "cross followed by jab",
+        "jab followed by lead hook"
+      ]
+    },
+    {
+      "c": "Basic boxing step rule",
+      "a": "move first the foot nearest the direction of travel",
+      "d": [
+        "cross the feet to move faster",
+        "always lead with the rear foot"
+      ]
+    },
+    {
+      "c": "Why avoid crossing the feet?",
+      "a": "it narrows the base and wrecks balance",
+      "d": [
+        "it is an automatic foul",
+        "it shortens the reach of the jab"
+      ]
+    },
+    {
+      "c": "Slip",
+      "a": "moving the head aside so a straight punch misses",
+      "d": [
+        "dipping under a hook",
+        "catching a punch on the glove"
+      ]
+    },
+    {
+      "c": "Bob and weave",
+      "a": "dipping under a hook and rising on the other side",
+      "d": [
+        "moving the head aside from a jab",
+        "stepping straight out of range"
+      ]
+    },
+    {
+      "c": "Parry",
+      "a": "a small hand deflection that redirects a punch",
+      "d": [
+        "absorbing a punch on the forearms",
+        "stepping out of range"
+      ]
+    },
+    {
+      "c": "Block, in boxing",
+      "a": "absorbing a punch on the gloves, arms, or shoulders",
+      "d": [
+        "moving the head so a punch misses",
+        "holding the opponent's arms"
+      ]
+    },
+    {
+      "c": "Shoulder roll",
+      "a": "turning so the lead shoulder deflects a punch",
+      "d": [
+        "hunching both shoulders to rest",
+        "dropping the lead shoulder to punch"
+      ]
+    },
+    {
+      "c": "Clinch, in boxing",
+      "a": "tying up the arms at close range to stop punching",
+      "d": [
+        "a punch thrown during a break",
+        "a defensive step to the side"
+      ]
+    },
+    {
+      "c": "Why tuck the chin?",
+      "a": "it shields the jaw behind the shoulder and glove",
+      "d": [
+        "it increases punching reach",
+        "it improves the view of the feet"
+      ]
+    },
+    {
+      "c": "Counterpuncher",
+      "a": "a boxer who scores off the opponent's attacks",
+      "d": [
+        "a boxer who presses forward nonstop",
+        "a boxer who fights only in the clinch"
+      ]
+    },
+    {
+      "c": "Swarmer, or pressure fighter",
+      "a": "a boxer who pushes forward with volume up close",
+      "d": [
+        "a boxer who stays long with the jab",
+        "a boxer who waits to counter"
+      ]
+    },
+    {
+      "c": "Out-boxer",
+      "a": "a boxer who fights from range with reach and movement",
+      "d": [
+        "a boxer who smothers punches up close",
+        "a boxer who relies on one big punch"
+      ]
+    },
+    {
+      "c": "Ring generalship",
+      "a": "controlling the pace and space of the bout",
+      "d": [
+        "the referee's authority in the ring",
+        "the number of punches thrown"
+      ]
+    },
+    {
+      "c": "Cutting off the ring",
+      "a": "moving to trap an opponent rather than chase",
+      "d": [
+        "leaning on the ropes to rest",
+        "leaving the ring between rounds"
+      ]
+    },
+    {
+      "c": "Marquess of Queensberry Rules (1867) brought in",
+      "a": "gloves, three-minute rounds, and the ten count",
+      "d": [
+        "headgear, two-minute rounds, and judges",
+        "bare knuckles and unlimited rounds"
+      ]
+    },
+    {
+      "c": "Ten-point must system",
+      "a": "the round winner gets 10, the loser 9 or fewer",
+      "d": [
+        "each clean punch scores 10 points",
+        "the first to 10 points wins"
+      ]
+    },
+    {
+      "c": "Score of a close round under the ten-point must",
+      "a": "10-9",
+      "d": [
+        "10-10",
+        "10-8"
+      ]
+    },
+    {
+      "c": "Knockout (KO)",
+      "a": "a downed boxer fails to resume before a count of ten",
+      "d": [
+        "the referee stops a one-sided round",
+        "the judges score a wide decision"
+      ]
+    },
+    {
+      "c": "Standing eight count",
+      "a": "a count given to a hurt boxer who is still upright",
+      "d": [
+        "the rest period between rounds",
+        "a count of punches by the judges"
+      ]
+    },
+    {
+      "c": "Elite World Boxing bout format",
+      "a": "three rounds of three minutes",
+      "d": [
+        "twelve rounds of three minutes",
+        "five rounds of two minutes"
+      ]
+    },
+    {
+      "c": "Length of a men's pro world title bout",
+      "a": "up to 12 rounds of three minutes",
+      "d": [
+        "up to 15 rounds of two minutes",
+        "three rounds of three minutes"
+      ]
+    },
+    {
+      "c": "Low blow",
+      "a": "a foul punch landing below the belt line",
+      "d": [
+        "a legal body punch to the ribs",
+        "a punch thrown from a crouch"
+      ]
+    },
+    {
+      "c": "Rabbit punch",
+      "a": "a foul blow to the back of the head or neck",
+      "d": [
+        "a legal quick jab",
+        "a punch to the liver"
+      ]
+    },
+    {
+      "c": "Body governing Olympic boxing for LA 2028",
+      "a": "World Boxing",
+      "d": [
+        "the International Boxing Association (IBA)",
+        "the World Boxing Council (WBC)"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Why the jab comes first",
+    "text": [
+      "Boxing has only four punches, yet it is endlessly varied. The jab is a straight punch with the lead hand; the cross, a straight punch with the rear hand; the hook, a short curved punch from the side; the uppercut, a rising punch from below. Orthodox boxers lead with the left side, southpaws with the right.",
+      "Coaches teach the jab first because it does so many jobs. It is the closest weapon to the target, so it measures distance, disturbs the opponent's view, and opens the way for the cross. The cross carries more power because the rear foot pushes and the rear hip turns, sending the weight of the body through the fist.",
+      "Footwork protects that power. Boxers step first with the foot nearest the direction they want to go and avoid crossing their feet, so the base stays wide enough to punch and absorb punches. Defense uses the same economy: a slip moves the head off a straight punch, a roll dips under a hook, and a parry turns a punch aside with a small touch.",
+      "Judges score each round separately on the ten-point must system, rewarding clean punches, control of the pace and space, and competitiveness."
+    ],
+    "q": [
+      {
+        "q": "Why does the cross usually hit harder than the jab?",
+        "o": [
+          "It is thrown with a bent arm",
+          "Rear-foot push and hip turn put body weight behind it",
+          "It travels a shorter distance"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What does a slip defend against?",
+        "o": [
+          "A straight punch",
+          "A hook",
+          "A body uppercut"
+        ],
+        "k": 0
+      },
+      {
+        "q": "How are boxing rounds scored, per the reading?",
+        "o": [
+          "By the total number of punches thrown",
+          "Only by knockdowns",
+          "Each round separately on the ten-point must"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

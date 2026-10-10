@@ -1,0 +1,299 @@
+{
+  "title": "Testing",
+  "note": "Tests are an executable record of what the code should do. Unit tests check small pieces in isolation, integration tests check that pieces work together, and end-to-end tests drive the whole system. The test pyramid says to write many fast unit tests and progressively fewer slow, broad ones.",
+  "src": {
+    "t": "The Practical Test Pyramid (Ham Vocke), martinfowler.com",
+    "u": "https://martinfowler.com/articles/practical-test-pyramid.html"
+  },
+  "items": [
+    {
+      "c": "Unit test",
+      "a": "checks one small piece of code in isolation",
+      "d": [
+        "checks that services work together",
+        "drives the whole app through its UI"
+      ]
+    },
+    {
+      "c": "Integration test",
+      "a": "checks that components work correctly together",
+      "d": [
+        "checks one function in isolation",
+        "checks only the visual layout"
+      ]
+    },
+    {
+      "c": "End-to-end test",
+      "a": "drives the whole system the way a user would",
+      "d": [
+        "checks one class with mocked collaborators",
+        "checks code style and formatting"
+      ]
+    },
+    {
+      "c": "Shape of the test pyramid",
+      "a": "many unit tests, fewer integration, fewest end-to-end",
+      "d": [
+        "many end-to-end tests, fewest unit tests",
+        "equal numbers of every kind of test"
+      ]
+    },
+    {
+      "c": "Test pyramid creator (Succeeding with Agile)",
+      "a": "Mike Cohn",
+      "d": [
+        "Kent Beck",
+        "Gerard Meszaros",
+        "Linus Torvalds"
+      ]
+    },
+    {
+      "c": "Why end-to-end tests sit at the pyramid's top",
+      "a": "they are slow, brittle, and costly to maintain",
+      "d": [
+        "they find no real bugs",
+        "they cannot run automatically"
+      ]
+    },
+    {
+      "c": "The TDD cycle",
+      "a": "red, green, refactor",
+      "d": [
+        "green, red, refactor",
+        "code, test, ship"
+      ]
+    },
+    {
+      "c": "First step in test-driven development",
+      "a": "write a test that fails",
+      "d": [
+        "write the production code",
+        "refactor the existing code"
+      ]
+    },
+    {
+      "c": "Engineer most associated with TDD",
+      "a": "Kent Beck",
+      "d": [
+        "Mike Cohn",
+        "Fred Brooks",
+        "Edsger Dijkstra"
+      ]
+    },
+    {
+      "c": "Test double",
+      "a": "any stand-in for a real dependency in a test",
+      "d": [
+        "a test that runs twice to check for flakiness",
+        "a second copy of production data"
+      ]
+    },
+    {
+      "c": "Coined the term test double",
+      "a": "Gerard Meszaros",
+      "d": [
+        "Martin Fowler",
+        "Kent Beck",
+        "Mike Cohn"
+      ]
+    },
+    {
+      "c": "Stub",
+      "a": "a double that returns canned answers",
+      "d": [
+        "a double that verifies expected calls",
+        "a working in-memory implementation"
+      ]
+    },
+    {
+      "c": "Mock",
+      "a": "a double that verifies the calls it expects",
+      "d": [
+        "a double that only returns canned answers",
+        "a double passed in but never used"
+      ]
+    },
+    {
+      "c": "Fake",
+      "a": "a working but simplified implementation",
+      "d": [
+        "a double that verifies the calls it expects",
+        "a double that records calls for later"
+      ],
+      "ex": "An in-memory database used in tests is a classic fake."
+    },
+    {
+      "c": "Spy",
+      "a": "a double that records how it was called",
+      "d": [
+        "a double that returns fixed data only",
+        "a full copy of the real service"
+      ]
+    },
+    {
+      "c": "Dummy",
+      "a": "a double passed in but never actually used",
+      "d": [
+        "a double that records every call",
+        "a double with a real implementation"
+      ]
+    },
+    {
+      "c": "Arrange–Act–Assert",
+      "a": "set up, perform the action, check the result",
+      "d": [
+        "write, review, merge",
+        "build, deploy, monitor"
+      ]
+    },
+    {
+      "c": "Line coverage measures",
+      "a": "the share of lines that tests execute",
+      "d": [
+        "the share of requirements tested",
+        "the share of tests that pass"
+      ]
+    },
+    {
+      "c": "Branch coverage measures",
+      "a": "whether each outcome of each decision ran",
+      "d": [
+        "how many git branches have tests",
+        "how many lines each test touches"
+      ]
+    },
+    {
+      "c": "What 100% line coverage proves",
+      "a": "every line ran, not that the results are right",
+      "d": [
+        "the program has no bugs",
+        "every input has been tested"
+      ]
+    },
+    {
+      "c": "Mutation testing",
+      "a": "plant small bugs and check the tests catch them",
+      "d": [
+        "randomize the order tests run in",
+        "rewrite tests in another language"
+      ]
+    },
+    {
+      "c": "Regression test",
+      "a": "guards against a fixed bug coming back",
+      "d": [
+        "measures how code speed changes",
+        "tests only the newest feature"
+      ]
+    },
+    {
+      "c": "Flaky test",
+      "a": "passes or fails with no change to the code",
+      "d": [
+        "fails every time it runs",
+        "takes over an hour to run"
+      ]
+    },
+    {
+      "c": "Property-based testing",
+      "a": "checks invariants against many generated inputs",
+      "d": [
+        "checks one hand-picked example per case",
+        "checks object properties are public"
+      ]
+    },
+    {
+      "c": "Dijkstra: testing can show the presence of bugs",
+      "a": "but never their absence",
+      "d": [
+        "and always their absence",
+        "but only in compiled code"
+      ]
+    },
+    {
+      "c": "Boundary value analysis",
+      "a": "test at and just beyond the edges of valid ranges",
+      "d": [
+        "test only typical middle values",
+        "test every possible input value"
+      ]
+    },
+    {
+      "c": "Equivalence partitioning",
+      "a": "test one representative per class of inputs",
+      "d": [
+        "split the test suite across machines",
+        "run each test in its own process"
+      ]
+    },
+    {
+      "c": "Black-box testing",
+      "a": "testing from the specification, not the code",
+      "d": [
+        "testing designed from the code's structure",
+        "testing only on production servers"
+      ]
+    },
+    {
+      "c": "White-box testing",
+      "a": "tests designed from the code's internal structure",
+      "d": [
+        "tests written only from the spec",
+        "tests run with the screen turned off"
+      ]
+    },
+    {
+      "c": "Smoke test",
+      "a": "a quick check that the main functions work at all",
+      "d": [
+        "a stress test run until hardware overheats",
+        "an exhaustive test of every path"
+      ]
+    },
+    {
+      "c": "Fuzzing",
+      "a": "feeding random or malformed input to find failures",
+      "d": [
+        "blurring screenshots for UI tests",
+        "running tests in random order"
+      ]
+    }
+  ],
+  "read": {
+    "title": "What tests can and cannot tell you",
+    "text": [
+      "A unit test runs in milliseconds and points straight at the broken function. An end-to-end test clicks through the real application and catches problems no unit test can see, such as two services disagreeing about a date format, but it is slow and breaks when the UI shifts. The test pyramid balances these costs: a wide base of unit tests, a middle layer of integration tests, and a thin top of end-to-end tests.",
+      "To isolate a unit, tests replace its dependencies with test doubles. A stub returns canned answers. A mock also checks that it was called in the expected way. A fake is a real but lightweight implementation, such as an in-memory database. Overusing mocks ties tests to implementation details, so a harmless refactor can break dozens of them.",
+      "Coverage tools report which lines or branches the tests executed. That is useful for finding untested code, but a line can run without any assertion checking its result. As Dijkstra observed, testing can show the presence of bugs but never their absence. Mutation testing gives a sharper signal: it deliberately breaks the code in small ways and asks whether any test notices."
+    ],
+    "q": [
+      {
+        "q": "What risk comes with overusing mocks?",
+        "o": [
+          "Tests become too fast to measure",
+          "Tests get tied to implementation details",
+          "Coverage drops to zero"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why can high coverage still miss bugs?",
+        "o": [
+          "A line can run without anything checking its result",
+          "Coverage tools ignore branches",
+          "Coverage only counts end-to-end tests"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does mutation testing check?",
+        "o": [
+          "Whether the UI layout changed",
+          "How long each test takes",
+          "Whether tests notice deliberately planted bugs"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Socrates and Plato",
+  "note": "Socrates wrote nothing; he questioned Athenians about virtue and was executed in 399 BCE. His student Plato wrote dialogues, mostly with Socrates as speaker, and taught that eternal, unchanging Forms are the true objects of knowledge, while the changing things we see only participate in them.",
+  "src": { "t": "Stanford Encyclopedia of Philosophy, Plato", "u": "https://plato.stanford.edu/entries/plato/" },
+  "items": [
+    { "c": "What Socrates wrote", "a": "nothing; others recorded his thought", "d": ["a long series of dialogues", "a single treatise on virtue"] },
+    { "c": "Chief surviving sources on Socrates", "a": "Plato, Xenophon, and Aristophanes", "d": ["Homer, Hesiod, and Pindar", "Epicurus, Zeno, and Pyrrho"] },
+    { "c": "Charges against Socrates in 399 BCE", "a": "impiety and corrupting the youth", "d": ["treason and theft", "bribery and desertion"] },
+    { "c": "How Socrates was executed", "a": "by drinking hemlock", "d": ["by exile at sea", "by stoning"] },
+    { "c": "Elenchus", "a": "Socratic cross-examination that exposes contradictions", "d": ["a speech praising a god", "Plato's proof of the soul's immortality"] },
+    { "c": "What the Delphic oracle said of Socrates", "a": "no one was wiser than he", "d": ["he would die for his city", "he was a son of Apollo"] },
+    { "c": "Socrates's wisdom, as he explains it", "a": "he did not think he knew what he did not know", "d": ["he knew the Forms directly", "he knew every art and craft"] },
+    { "c": "'The unexamined life is not worth living'", "a": "Socrates, in Plato's Apology", "d": ["Aristotle, in the Ethics", "Epicurus, to Menoeceus"] },
+    { "c": "Daimonion of Socrates", "a": "an inner divine sign that held him back", "d": ["his student and recorder", "his theory of the Forms"] },
+    { "c": "Aporia", "a": "puzzlement when no definition survives inquiry", "d": ["a proof that settles a question", "a speech given in court"] },
+    { "c": "Socratic claim about wrongdoing", "a": "no one does wrong knowingly", "d": ["everyone does wrong knowingly", "wrongdoing is caused by the gods"] },
+    { "c": "Euthyphro dilemma", "a": "is the pious loved by gods because it is pious?", "d": ["is the soul immortal or mortal?", "is justice good for the just person?"], "ex": "Or is it pious because the gods love it?" },
+    { "c": "Dialogue of Socrates's defense at trial", "a": "Apology", "d": ["Crito", "Phaedo", "Meno"] },
+    { "c": "Dialogue where Socrates refuses to escape", "a": "Crito", "d": ["Apology", "Symposium", "Republic"] },
+    { "c": "Dialogue of Socrates's death and the soul", "a": "Phaedo", "d": ["Crito", "Meno", "Timaeus"] },
+    { "c": "Dialogue where a slave boy recalls geometry", "a": "Meno", "d": ["Phaedo", "Euthyphro", "Laws"] },
+    { "c": "Dialogue of speeches about eros, or love", "a": "Symposium", "d": ["Republic", "Crito", "Sophist"] },
+    { "c": "Plato's school in Athens", "a": "the Academy", "d": ["the Lyceum", "the Garden", "the Stoa"] },
+    { "c": "Plato's usual literary form", "a": "the dialogue", "d": ["the treatise", "the epic poem", "the aphorism"] },
+    { "c": "Plato's Forms", "a": "eternal, unchanging realities like Beauty itself", "d": ["the shapes of physical atoms", "mental pictures in each person's mind"] },
+    { "c": "How particular things relate to Forms", "a": "they participate in or imitate them", "d": ["they create them", "they are identical to them"] },
+    { "c": "Doctrine of recollection (anamnesis)", "a": "learning is recalling what the soul knew before birth", "d": ["learning is copying sense impressions", "learning is obeying authorities"] },
+    { "c": "Allegory of the Cave depicts", "a": "the soul's ascent from shadows to truth", "d": ["the origin of the city", "the creation of the cosmos"] },
+    { "c": "What the sun stands for in the Republic", "a": "the Form of the Good", "d": ["the philosopher-king", "the human soul"] },
+    { "c": "Three parts of the soul in the Republic", "a": "reason, spirit, and appetite", "d": ["body, mind, and spirit", "memory, will, and intellect"] },
+    { "c": "Justice in the soul, per the Republic", "a": "each part doing its own work, reason ruling", "d": ["appetite freely satisfied", "obeying whatever the law says"] },
+    { "c": "Plato's ideal rulers", "a": "philosopher-kings who know the Good", "d": ["elected generals", "wealthy merchants"] },
+    { "c": "Ring of Gyges asks", "a": "would you be just if never caught?", "d": ["can virtue be taught?", "is the soul immortal?"] },
+    { "c": "'Justice is the advantage of the stronger'", "a": "Thrasymachus, in the Republic", "d": ["Socrates, in the Crito", "Protagoras, in the Meno"] },
+    { "c": "Highest level of Plato's Divided Line", "a": "understanding of the Forms", "d": ["belief about visible things", "imagining shadows and images"] },
+    { "c": "Demiurge in Plato's Timaeus", "a": "a divine craftsman who orders the cosmos", "d": ["the lowest part of the soul", "a Sophist who opposes Socrates"] },
+    { "c": "Third man argument targets", "a": "Plato's theory of Forms", "d": ["Socrates's trial defense", "atomist physics"] }
+  ],
+  "read": {
+    "title": "The gadfly and the Forms",
+    "text": [
+      "Socrates spent his life in the public places of Athens asking people what courage, piety, or justice is. When someone offered a definition, he drew out its consequences until the speaker contradicted himself. He said the oracle at Delphi had called him the wisest of men, and he concluded that his wisdom lay in recognizing his own ignorance. In 399 BCE a jury convicted him of impiety and corrupting the young, and he chose death over abandoning philosophy.",
+      "Plato, his student, turned these questions into a theory. If we can know what justice is, there must be something stable to know, yet every just act we see is partial and changing. Plato concluded that the true objects of knowledge are Forms, perfect and unchanging realities such as Justice itself and Beauty itself. Visible things participate in the Forms and so resemble them imperfectly.",
+      "In the Republic's Allegory of the Cave, prisoners take shadows on a wall for reality. A freed prisoner climbs out, sees real things in sunlight, and finally the sun itself, which stands for the Form of the Good. For Plato, education is this turning of the soul toward what is most real."
+    ],
+    "q": [
+      { "q": "How did Socrates understand the oracle's claim about him?", "o": ["He alone knew the Forms", "He recognized his own ignorance", "He was the best speaker in Athens"], "k": 1 },
+      { "q": "Why did Plato think there must be Forms?", "o": ["Knowledge needs stable objects, but visible things change", "The gods told him so at Delphi", "The senses give perfect knowledge"], "k": 0 },
+      { "q": "In the allegory, what does the sun represent?", "o": ["The philosopher-king", "The Form of the Good", "The visible world"], "k": 1 }
+    ]
+  }
+}

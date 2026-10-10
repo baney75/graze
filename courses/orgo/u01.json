@@ -1,0 +1,308 @@
+{
+  "title": "Structure, bonding and hybridization",
+  "note": "Count electron domains (bonded atoms plus lone pairs) around an atom: four domains means sp³ and about 109.5°, three means sp² and 120°, two means sp and 180°. Every single bond is a σ bond; a double bond is one σ plus one π; a triple bond is one σ plus two π.",
+  "src": {
+    "t": "LibreTexts, Organic Chemistry (Morsch et al.), Ch. 1 Structure and Bonding",
+    "u": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/01%3A_Structure_and_Bonding"
+  },
+  "items": [
+    {
+      "c": "Hybridization of carbon in methane (CH₄)",
+      "a": "sp³",
+      "d": [
+        "sp²",
+        "sp"
+      ]
+    },
+    {
+      "c": "Bond angle around an sp³ carbon",
+      "a": "about 109.5°",
+      "d": [
+        "about 120°",
+        "180°"
+      ]
+    },
+    {
+      "c": "Hybridization of each carbon in ethylene (C₂H₄)",
+      "a": "sp²",
+      "d": [
+        "sp³",
+        "sp"
+      ]
+    },
+    {
+      "c": "Bond angle around an sp² carbon",
+      "a": "about 120°",
+      "d": [
+        "about 109.5°",
+        "180°"
+      ]
+    },
+    {
+      "c": "Hybridization of each carbon in acetylene (C₂H₂)",
+      "a": "sp",
+      "d": [
+        "sp²",
+        "sp³"
+      ]
+    },
+    {
+      "c": "Bond angle around an sp carbon",
+      "a": "180°",
+      "d": [
+        "about 120°",
+        "about 109.5°"
+      ]
+    },
+    {
+      "c": "Shape around an sp² carbon",
+      "a": "trigonal planar",
+      "d": [
+        "tetrahedral",
+        "linear"
+      ]
+    },
+    {
+      "c": "A C=C double bond is made of",
+      "a": "one σ bond and one π bond",
+      "d": [
+        "two σ bonds",
+        "two π bonds"
+      ]
+    },
+    {
+      "c": "A C≡C triple bond is made of",
+      "a": "one σ bond and two π bonds",
+      "d": [
+        "three σ bonds",
+        "two σ bonds and one π bond"
+      ]
+    },
+    {
+      "c": "A π bond forms by",
+      "a": "side-by-side overlap of p orbitals",
+      "d": [
+        "head-on overlap of hybrid orbitals",
+        "overlap of two s orbitals"
+      ]
+    },
+    {
+      "c": "A σ bond forms by",
+      "a": "head-on overlap along the bond axis",
+      "d": [
+        "side-by-side overlap of p orbitals",
+        "sharing of a lone pair with no overlap"
+      ]
+    },
+    {
+      "c": "Unhybridized p orbitals on an sp² carbon",
+      "a": "one",
+      "d": [
+        "two",
+        "none"
+      ]
+    },
+    {
+      "c": "Unhybridized p orbitals on an sp carbon",
+      "a": "two",
+      "d": [
+        "one",
+        "three"
+      ]
+    },
+    {
+      "c": "Percent s character of an sp hybrid orbital",
+      "a": "50%",
+      "d": [
+        "33%",
+        "25%"
+      ]
+    },
+    {
+      "c": "Percent s character of an sp³ hybrid orbital",
+      "a": "25%",
+      "d": [
+        "50%",
+        "33%"
+      ]
+    },
+    {
+      "c": "Shortest, strongest C–H bond is on",
+      "a": "an sp carbon, as in ethyne",
+      "d": [
+        "an sp³ carbon, as in ethane",
+        "an sp² carbon, as in ethene"
+      ],
+      "ex": "More s character holds the bonding electrons closer to the nucleus."
+    },
+    {
+      "c": "Shortest carbon–carbon bond type",
+      "a": "C≡C triple bond",
+      "d": [
+        "C=C double bond",
+        "C–C single bond"
+      ]
+    },
+    {
+      "c": "Rotation about a C=C double bond",
+      "a": "restricted; it would break the π bond",
+      "d": [
+        "free at room temperature",
+        "easier than about a C–C single bond"
+      ]
+    },
+    {
+      "c": "Hybridization of nitrogen in ammonia (NH₃)",
+      "a": "sp³, with the lone pair in a hybrid orbital",
+      "d": [
+        "sp², with the lone pair in a p orbital",
+        "sp, with two lone pairs"
+      ],
+      "ex": "Three N–H bonds plus one lone pair make four electron domains."
+    },
+    {
+      "c": "Shape of ammonia (NH₃)",
+      "a": "trigonal pyramidal, about 107°",
+      "d": [
+        "trigonal planar, 120°",
+        "bent, about 104.5°"
+      ]
+    },
+    {
+      "c": "Shape of water (H₂O)",
+      "a": "bent, about 104.5°",
+      "d": [
+        "linear, 180°",
+        "trigonal pyramidal, about 107°"
+      ]
+    },
+    {
+      "c": "Hybridization and shape of a carbonyl carbon",
+      "a": "sp², trigonal planar",
+      "d": [
+        "sp³, tetrahedral",
+        "sp, linear"
+      ]
+    },
+    {
+      "c": "Shape of CO₂ and hybridization of its carbon",
+      "a": "linear; sp",
+      "d": [
+        "bent; sp²",
+        "bent; sp³"
+      ]
+    },
+    {
+      "c": "Hybridization of nitrogen in a nitrile (C≡N)",
+      "a": "sp, like the nitrile carbon",
+      "d": [
+        "sp², like a carbonyl carbon",
+        "sp³, like an amine nitrogen"
+      ]
+    },
+    {
+      "c": "Valence electrons in a neutral carbon atom",
+      "a": "four",
+      "d": [
+        "six",
+        "two"
+      ]
+    },
+    {
+      "c": "Ground-state electron configuration of carbon",
+      "a": "1s² 2s² 2p²",
+      "d": [
+        "1s² 2s¹ 2p³",
+        "1s² 2p⁴"
+      ]
+    },
+    {
+      "c": "Usual bonding of a neutral nitrogen atom",
+      "a": "three bonds and one lone pair",
+      "d": [
+        "four bonds and no lone pairs",
+        "two bonds and two lone pairs"
+      ]
+    },
+    {
+      "c": "Usual bonding of a neutral oxygen atom",
+      "a": "two bonds and two lone pairs",
+      "d": [
+        "three bonds and one lone pair",
+        "one bond and three lone pairs"
+      ]
+    },
+    {
+      "c": "Each vertex or line end in a skeletal structure",
+      "a": "a carbon atom",
+      "d": [
+        "a hydrogen atom",
+        "a lone pair"
+      ]
+    },
+    {
+      "c": "C–H hydrogens in a skeletal structure are",
+      "a": "not drawn; each C is filled to four bonds",
+      "d": [
+        "always drawn as short lines",
+        "drawn only on ring carbons"
+      ]
+    },
+    {
+      "c": "Electrons in an antibonding molecular orbital",
+      "a": "weaken the bond between the atoms",
+      "d": [
+        "strengthen the bond between the atoms",
+        "have no effect on bond strength"
+      ]
+    },
+    {
+      "c": "Covalent bond",
+      "a": "an electron pair shared between two atoms",
+      "d": [
+        "electrons transferred to form ions",
+        "attraction between two separate molecules"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Why carbon mixes its orbitals",
+    "text": [
+      "A carbon atom has four valence electrons: two in a 2s orbital and two in 2p orbitals. Yet methane has four identical C–H bonds pointing to the corners of a tetrahedron. Valence bond theory explains this with hybridization: the 2s orbital and all three 2p orbitals mix to form four equivalent sp³ hybrid orbitals, about 109.5° apart, each holding one electron for bonding.",
+      "When carbon forms a double bond, it mixes the 2s with only two of its p orbitals. The three sp² hybrids lie in a plane at 120°, and the leftover p orbital stands perpendicular to that plane. In ethylene, the sp² orbitals form σ bonds by head-on overlap, while the two leftover p orbitals overlap side by side to make a π bond. Twisting one end would pull the p orbitals apart and break the π bond, so rotation about C=C is restricted.",
+      "In a triple bond, carbon is sp: two hybrids point 180° apart, and two p orbitals remain to form two π bonds. Because sp orbitals have more s character, they hold electrons closer to the nucleus. That is why the C–H bond of ethyne is shorter and stronger than the C–H bonds of ethane."
+    ],
+    "q": [
+      {
+        "q": "How many p orbitals does an sp² carbon leave unhybridized?",
+        "o": [
+          "One",
+          "Two",
+          "None",
+          "Three"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why is rotation about a C=C bond restricted?",
+        "o": [
+          "The σ bond is too short",
+          "Twisting would break the π bond",
+          "The carbons are sp³",
+          "Hydrogen atoms collide"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why is the C–H bond of ethyne shorter than that of ethane?",
+        "o": [
+          "Ethyne has more hydrogens",
+          "Ethyne's carbons are sp³",
+          "Its sp orbital has more s character",
+          "Its π bonds pull on the hydrogen"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

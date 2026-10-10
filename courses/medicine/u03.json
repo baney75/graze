@@ -1,0 +1,329 @@
+{
+ "title": "Genetics in medicine: inheritance, mutations and screening",
+ "note": "Each person carries two copies of most genes, one from each parent. Whether one altered copy is enough (dominant) or both must be altered (recessive), and whether the gene is on an autosome, the X chromosome or mitochondrial DNA, sets the pattern a trait follows through a family.",
+ "src": {
+  "t": "MedlinePlus Genetics, Inheritance Patterns",
+  "u": "https://medlineplus.gov/genetics/understanding/inheritance/inheritancepatterns/"
+ },
+ "items": [
+  {
+   "c": "Gene",
+   "a": "A DNA segment that codes for a functional product",
+   "d": [
+    "A whole pair of chromosomes",
+    "A single DNA base"
+   ]
+  },
+  {
+   "c": "Allele",
+   "a": "One version of a gene",
+   "d": [
+    "A matched pair of chromosomes",
+    "The protein a gene produces"
+   ]
+  },
+  {
+   "c": "Genotype",
+   "a": "The alleles a person carries",
+   "d": [
+    "The trait a person shows",
+    "The number of chromosomes a person has"
+   ]
+  },
+  {
+   "c": "Phenotype",
+   "a": "The observable trait or characteristic",
+   "d": [
+    "The alleles carried at a gene",
+    "The sequence of a chromosome"
+   ]
+  },
+  {
+   "c": "Heterozygous",
+   "a": "Having two different alleles of a gene",
+   "d": [
+    "Having two identical alleles of a gene",
+    "Having only one chromosome of a pair"
+   ]
+  },
+  {
+   "c": "Chromosomes in a typical human body cell",
+   "a": "46, in 23 pairs",
+   "d": [
+    "23, unpaired",
+    "48, in 24 pairs"
+   ]
+  },
+  {
+   "c": "Inheritance where one altered copy causes the trait",
+   "a": "Autosomal dominant",
+   "d": [
+    "Autosomal recessive",
+    "Mitochondrial"
+   ]
+  },
+  {
+   "c": "Autosomal dominant, one affected parent: each child",
+   "a": "50% for each child",
+   "d": [
+    "25% for each child",
+    "100% for each child"
+   ]
+  },
+  {
+   "c": "Recessive, two carrier parents: child affected",
+   "a": "25% chance each pregnancy",
+   "d": [
+    "50% chance each pregnancy",
+    "75% chance each pregnancy"
+   ]
+  },
+  {
+   "c": "Recessive, two carrier parents: child a carrier",
+   "a": "50% chance each pregnancy",
+   "d": [
+    "25% chance each pregnancy",
+    "100% chance each pregnancy"
+   ]
+  },
+  {
+   "c": "X-linked recessive conditions mostly affect",
+   "a": "Males, who have one X chromosome",
+   "d": [
+    "Females, who have two X chromosomes",
+    "Both sexes equally"
+   ]
+  },
+  {
+   "c": "Can a father pass an X-linked variant to a son?",
+   "a": "No; sons receive his Y chromosome",
+   "d": [
+    "Yes, to every son",
+    "Yes, to about half of his sons"
+   ]
+  },
+  {
+   "c": "Father with an X-linked variant: his daughters",
+   "a": "All inherit the variant",
+   "d": [
+    "None inherit the variant",
+    "About half inherit the variant"
+   ]
+  },
+  {
+   "c": "Mitochondrial DNA is inherited from",
+   "a": "The mother only",
+   "d": [
+    "The father only",
+    "Both parents equally"
+   ]
+  },
+  {
+   "c": "Y-linked variants pass from",
+   "a": "Father to son only",
+   "d": [
+    "Mother to daughter only",
+    "Either parent to any child"
+   ]
+  },
+  {
+   "c": "Codominance example in blood typing",
+   "a": "Type AB blood (A and B both expressed)",
+   "d": [
+    "Type O blood (no antigens expressed)",
+    "Rh-negative blood"
+   ]
+  },
+  {
+   "c": "Huntington disease inheritance pattern",
+   "a": "Autosomal dominant (CAG repeat expansion)",
+   "d": [
+    "Autosomal recessive (point deletion)",
+    "X-linked recessive (missense change)"
+   ]
+  },
+  {
+   "c": "Cystic fibrosis inheritance pattern",
+   "a": "Autosomal recessive",
+   "d": [
+    "Autosomal dominant",
+    "Y-linked"
+   ]
+  },
+  {
+   "c": "Hemophilia inheritance pattern",
+   "a": "X-linked recessive",
+   "d": [
+    "Autosomal dominant",
+    "Mitochondrial"
+   ]
+  },
+  {
+   "c": "Missense mutation",
+   "a": "A base change that swaps one amino acid for another",
+   "d": [
+    "A base change that creates an early stop codon",
+    "A base change that leaves the protein unchanged"
+   ]
+  },
+  {
+   "c": "Nonsense mutation",
+   "a": "A base change that creates a premature stop codon",
+   "d": [
+    "A base change that swaps one amino acid",
+    "An insertion that shifts the reading frame"
+   ]
+  },
+  {
+   "c": "Silent mutation",
+   "a": "A base change that does not change the amino acid",
+   "d": [
+    "A base change that creates a stop codon",
+    "A deletion of an entire gene"
+   ]
+  },
+  {
+   "c": "Frameshift mutation",
+   "a": "An insertion or deletion that shifts the reading frame",
+   "d": [
+    "A single amino acid substitution",
+    "A copy of a whole chromosome"
+   ]
+  },
+  {
+   "c": "Deleting exactly 3 bases inside a coding region",
+   "a": "Keeps the reading frame intact",
+   "d": [
+    "Always shifts the reading frame",
+    "Always deletes the whole protein"
+   ]
+  },
+  {
+   "c": "Repeat expansion mutation",
+   "a": "A short repeated DNA sequence grows longer",
+   "d": [
+    "A whole chromosome is duplicated",
+    "A single base is swapped"
+   ]
+  },
+  {
+   "c": "Sickle cell variant in the beta-globin gene",
+   "a": "A missense change: glutamate to valine",
+   "d": [
+    "A nonsense change: early stop codon",
+    "A frameshift from a 1-base deletion"
+   ]
+  },
+  {
+   "c": "Usual cause of trisomy 21",
+   "a": "Nondisjunction of chromosomes during meiosis",
+   "d": [
+    "A point mutation in a single gene",
+    "A deletion in mitochondrial DNA"
+   ]
+  },
+  {
+   "c": "Somatic mutation",
+   "a": "Arises in body cells and is not passed to children",
+   "d": [
+    "Arises in eggs or sperm and can be inherited",
+    "Is present in every cell from conception"
+   ]
+  },
+  {
+   "c": "Penetrance",
+   "a": "Share of people with a variant who show the trait",
+   "d": [
+    "Range of severity among affected people",
+    "Number of copies of a gene in a cell"
+   ]
+  },
+  {
+   "c": "Variable expressivity",
+   "a": "Range of features among people with the same variant",
+   "d": [
+    "Share of variant carriers who show any trait",
+    "Change in a gene from one generation to the next"
+   ]
+  },
+  {
+   "c": "Hardy-Weinberg term for heterozygote frequency",
+   "a": "2pq",
+   "d": [
+    "p²",
+    "q²"
+   ]
+  },
+  {
+   "c": "Newborn heel-prick blood screening looks for",
+   "a": "Treatable inherited conditions, before symptoms",
+   "d": [
+    "Every possible genetic variant",
+    "Infections acquired during birth"
+   ]
+  },
+  {
+   "c": "Screening test vs diagnostic test",
+   "a": "Screening flags higher risk; diagnosis confirms",
+   "d": [
+    "Screening confirms; diagnosis flags risk",
+    "They are the same thing"
+   ]
+  },
+  {
+   "c": "Carrier testing",
+   "a": "Checks for one copy of a recessive variant",
+   "d": [
+    "Checks for an extra chromosome in a fetus",
+    "Measures a drug's level in the blood"
+   ]
+  },
+  {
+   "c": "Pharmacogenomics",
+   "a": "How genetic variation affects drug response",
+   "d": [
+    "How drugs cause new mutations",
+    "How genes are inserted into viruses"
+   ]
+  }
+ ],
+ "read": {
+  "title": "Reading a family tree",
+  "text": [
+   "Genetic counselors and physicians often draw a pedigree, a family tree marking who shows a trait. The pattern of affected relatives gives strong clues about how the trait is inherited.",
+   "An autosomal dominant trait usually appears in every generation, affects males and females alike, and passes from an affected parent to about half of the children. An autosomal recessive trait often skips generations. Two unaffected parents who each carry one altered copy have a 25 percent chance with each pregnancy of having an affected child, and a 50 percent chance of a child who is an unaffected carrier.",
+   "X-linked recessive traits show a sex difference. Because males have only one X chromosome, a single altered copy is enough to affect them, so far more males than females are affected. A father never passes an X-linked variant to his sons, because sons inherit his Y chromosome, but he passes it to every daughter. Mitochondrial traits follow yet another rule: they pass only through mothers, though both sons and daughters can be affected.",
+   "Real families are messier. Reduced penetrance and variable expressivity can hide a trait in a carrier, which is why pedigrees are clues, not proof."
+  ],
+  "q": [
+   {
+    "q": "A trait appears in every generation and affects both sexes, with about half the children of affected parents affected. The likeliest pattern is",
+    "o": [
+     "Autosomal recessive",
+     "X-linked recessive",
+     "Autosomal dominant",
+     "Mitochondrial"
+    ],
+    "k": 2
+   },
+   {
+    "q": "Why can't a father pass an X-linked variant to his son?",
+    "o": [
+     "Sons receive his Y chromosome, not his X",
+     "X-linked variants are never inherited",
+     "Sons inherit only mitochondrial DNA"
+    ],
+    "k": 0
+   },
+   {
+    "q": "Why might a dominant trait seem to skip a generation?",
+    "o": [
+     "Dominant traits always skip generations",
+     "Reduced penetrance can hide the trait in a carrier",
+     "The variant switches to recessive"
+    ],
+    "k": 1
+   }
+  ]
+ }
+}

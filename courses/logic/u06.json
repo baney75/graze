@@ -1,0 +1,47 @@
+{
+  "title": "Formal fallacies",
+  "note": "A formal fallacy is an invalid argument form, detectable from structure alone. Affirming the consequent and denying the antecedent imitate modus ponens and modus tollens, but 'If P then Q' makes P sufficient for Q, not necessary. In a categorical syllogism the middle term must be distributed at least once, and any term distributed in the conclusion must be distributed in its premise.",
+  "src": { "t": "Fallacies, Internet Encyclopedia of Philosophy", "u": "https://iep.utm.edu/fallacy/" },
+  "items": [
+    { "c": "Affirming the consequent", "a": "If P then Q; Q; so P (invalid)", "d": ["If P then Q; P; so Q", "If P then Q; not Q; so not P"] },
+    { "c": "Denying the antecedent", "a": "If P then Q; not P; so not Q (invalid)", "d": ["If P then Q; not Q; so not P", "P or Q; not P; so Q"] },
+    { "c": "If P then Q; Q; therefore P", "a": "Affirming the consequent", "d": ["Modus ponens", "Denying the antecedent", "Modus tollens"] },
+    { "c": "If P then Q; not P; therefore not Q", "a": "Denying the antecedent", "d": ["Modus tollens", "Affirming the consequent", "Disjunctive syllogism"] },
+    { "c": "If I win, I'm happy. I'm happy. So I won. Valid?", "a": "no; I could be happy for other reasons", "d": ["yes; it is modus ponens", "yes; it is modus tollens"] },
+    { "c": "If I win, I smile. I lost. So no smile. Valid?", "a": "no; I might smile for some other reason", "d": ["yes; it is modus tollens", "yes; it is disjunctive syllogism"] },
+    { "c": "In 'If P then Q', P is stated to be", "a": "sufficient for Q", "d": ["necessary for Q", "both necessary and sufficient for Q"] },
+    { "c": "Valid rule mimicked by affirming the consequent", "a": "modus ponens", "d": ["modus tollens", "disjunctive syllogism"] },
+    { "c": "Valid rule mimicked by denying the antecedent", "a": "modus tollens", "d": ["modus ponens", "hypothetical syllogism"] },
+    { "c": "Undistributed middle", "a": "All A are C; all B are C; so all A are B", "d": ["All A are B; all B are C; so all A are C", "No A are B; all C are A; so no C are B"] },
+    { "c": "All crooks lie; Al lies; so Al is a crook", "a": "Undistributed middle", "d": ["Illicit major", "Exclusive premises", "Four terms"] },
+    { "c": "Illicit major", "a": "major term distributed in the conclusion, not its premise", "d": ["minor term distributed in the conclusion, not its premise", "middle term never distributed"] },
+    { "c": "Illicit minor", "a": "minor term distributed in the conclusion, not its premise", "d": ["major term distributed in the conclusion, not its premise", "both premises negative"] },
+    { "c": "Fallacy of exclusive premises", "a": "a syllogism with two negative premises", "d": ["a syllogism with two particular premises", "a syllogism with four terms"] },
+    { "c": "Fallacy of four terms", "a": "a syllogism that uses four terms instead of three", "d": ["a syllogism with four premises", "a syllogism with two negative premises"], "ex": "Often the fourth term is a word used in two senses, so it is also an equivocation." },
+    { "c": "Existential fallacy (modern reading)", "a": "a particular conclusion from only universal premises", "d": ["a universal conclusion from particular premises", "a negative conclusion from affirmative premises"] },
+    { "c": "Illicit conversion", "a": "All A are B, so all B are A", "d": ["No A are B, so no B are A", "Some A are B, so some B are A"] },
+    { "c": "Affirming a disjunct", "a": "P or Q; P; so not Q (invalid for inclusive 'or')", "d": ["P or Q; not P; so Q", "If P then Q; P; so Q"] },
+    { "c": "A or B; A; therefore not B", "a": "Affirming a disjunct", "d": ["Disjunctive syllogism", "Denying the antecedent", "Modus tollens"] },
+    { "c": "Denying a conjunct", "a": "Not both P and Q; not P; so Q (invalid)", "d": ["Not both P and Q; P; so not Q", "P and Q; so P"] },
+    { "c": "Quantifier shift fallacy", "a": "every x has some y, so one y fits every x", "d": ["all x are y, so all y are x", "some x are y, so some y are x"], "ex": "Everyone has a mother, so someone is everyone's mother." },
+    { "c": "Formal fallacy", "a": "an error detectable from the argument's form alone", "d": ["an error that depends on the topic", "any argument with a false premise"] },
+    { "c": "Informal fallacy", "a": "an error that depends on content or context", "d": ["an error in logical form alone", "a valid argument with a false premise"] },
+    { "c": "Is any argument with a false premise a fallacy?", "a": "not necessarily; it may be valid but unsound", "d": ["yes, it is always a formal fallacy", "yes, it is always an informal fallacy"] },
+    { "c": "Does a true conclusion rescue a fallacious form?", "a": "no; the form is still invalid", "d": ["yes; a true conclusion makes it valid", "yes, if the premises are also true"] },
+    { "c": "Fallacy fallacy (argument from fallacy)", "a": "concluding a claim is false because one argument for it is bad", "d": ["accusing others of fallacies too often", "using a fallacy on purpose to win"] }
+  ],
+  "read": {
+    "title": "Look-alikes that fail",
+    "text": [
+      "A formal fallacy is an argument whose form is invalid, so you can spot it without knowing anything about the subject. The two most common imitate valid rules. Modus ponens says: if P then Q; P; so Q. Its look-alike, affirming the consequent, says: if P then Q; Q; so P. Suppose that if it rained, the street is wet. The street is wet. Did it rain? Not necessarily; a street sweeper may have passed.",
+      "Modus tollens says: if P then Q; not Q; so not P. Its look-alike, denying the antecedent, says: if P then Q; not P; so not Q. It did not rain, so the street is dry? Again, the sweeper shows the gap. The underlying lesson is that 'If P then Q' makes P sufficient for Q, not necessary for it.",
+      "Categorical syllogisms have their own formal fallacies. 'All crooks lie; Al lies; so Al is a crook' commits the undistributed middle: the middle term, 'liars', is never used to say something about every liar, so crooks and Al might occupy different parts of that class.",
+      "Remember that a bad argument does not prove its conclusion false. Al might be a crook after all. Concluding that a claim is false just because one argument for it fails is itself a mistake."
+    ],
+    "q": [
+      { "q": "What does the street sweeper show in the reading?", "o": ["That rain is necessary for a wet street", "That the street can be wet without rain", "That modus ponens is invalid"], "k": 1 },
+      { "q": "Why is 'All crooks lie; Al lies; so Al is a crook' invalid?", "o": ["It has four terms", "Its premises are negative", "Its middle term is never distributed", "Its conclusion is particular"], "k": 2 },
+      { "q": "If an argument for a claim commits a formal fallacy, then", "o": ["the claim may still be true", "the claim must be false", "the claim must be true"], "k": 0 }
+    ]
+  }
+}

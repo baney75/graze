@@ -1,0 +1,323 @@
+{
+  "title": "Weather, nature and seasons",
+  "note": "Much weather talk uses fare: Fa caldo, Fa freddo, Fa bel tempo. Rain and snow are verbs: piove, nevica. With seasons use in: in primavera, in estate, in autunno, in inverno. To go to the seaside is andare al mare; to the mountains, andare in montagna.",
+  "src": {
+    "t": "Voci, Unità 4: Com'è il tempo oggi?",
+    "u": "https://human.libretexts.org/Bookshelves/Languages/Italian/Voci%3A_Corso_elementare_di_lingua_e_culture_italiane_I_(Bozzato_Benetollo_and_Mugnai)/04%3A_Unita_4"
+  },
+  "items": [
+    {
+      "c": "Che tempo fa?",
+      "a": "What's the weather like?",
+      "d": [
+        "What time is it?",
+        "How long does it take?"
+      ],
+      "ex": "Che tempo fa a Roma? Fa caldo.",
+      "exT": "What's the weather like in Rome? It's hot."
+    },
+    {
+      "c": "Fa caldo.",
+      "a": "It's hot.",
+      "d": [
+        "It's cold.",
+        "It's windy."
+      ]
+    },
+    {
+      "c": "Fa freddo.",
+      "a": "It's cold.",
+      "d": [
+        "It's hot.",
+        "It's cloudy."
+      ]
+    },
+    {
+      "c": "Fa bel tempo.",
+      "a": "The weather is nice.",
+      "d": [
+        "The weather is bad.",
+        "It's raining."
+      ]
+    },
+    {
+      "c": "Fa brutto tempo.",
+      "a": "The weather is bad.",
+      "d": [
+        "The weather is nice.",
+        "It's sunny."
+      ]
+    },
+    {
+      "c": "Piove.",
+      "a": "It's raining.",
+      "d": [
+        "It's snowing.",
+        "It's sunny."
+      ]
+    },
+    {
+      "c": "Nevica.",
+      "a": "It's snowing.",
+      "d": [
+        "It's raining.",
+        "It's foggy."
+      ]
+    },
+    {
+      "c": "C'è il sole.",
+      "a": "It's sunny.",
+      "d": [
+        "It's windy.",
+        "It's hot."
+      ]
+    },
+    {
+      "c": "C'è vento.",
+      "a": "It's windy.",
+      "d": [
+        "It's sunny.",
+        "It's raining."
+      ]
+    },
+    {
+      "c": "È nuvoloso.",
+      "a": "It's cloudy.",
+      "d": [
+        "It's snowing.",
+        "It's clear."
+      ]
+    },
+    {
+      "c": "la pioggia",
+      "a": "rain",
+      "d": [
+        "snow",
+        "storm"
+      ]
+    },
+    {
+      "c": "la neve",
+      "a": "snow",
+      "d": [
+        "rain",
+        "ice"
+      ]
+    },
+    {
+      "c": "il sole",
+      "a": "sun",
+      "d": [
+        "moon",
+        "sky"
+      ]
+    },
+    {
+      "c": "il vento",
+      "a": "wind",
+      "d": [
+        "cloud",
+        "storm"
+      ]
+    },
+    {
+      "c": "la primavera",
+      "a": "spring",
+      "d": [
+        "summer",
+        "fall"
+      ],
+      "ex": "In primavera ci sono molti fiori.",
+      "exT": "In spring there are many flowers."
+    },
+    {
+      "c": "l'estate",
+      "a": "summer",
+      "d": [
+        "spring",
+        "winter"
+      ]
+    },
+    {
+      "c": "l'autunno",
+      "a": "fall; autumn",
+      "d": [
+        "winter",
+        "spring"
+      ]
+    },
+    {
+      "c": "l'inverno",
+      "a": "winter",
+      "d": [
+        "fall",
+        "summer"
+      ]
+    },
+    {
+      "c": "il mare",
+      "a": "sea; seaside",
+      "d": [
+        "lake",
+        "river"
+      ]
+    },
+    {
+      "c": "la montagna",
+      "a": "mountain; the mountains",
+      "d": [
+        "hill",
+        "valley"
+      ]
+    },
+    {
+      "c": "il lago",
+      "a": "lake",
+      "d": [
+        "sea",
+        "pond"
+      ]
+    },
+    {
+      "c": "il fiume",
+      "a": "river",
+      "d": [
+        "lake",
+        "waterfall"
+      ]
+    },
+    {
+      "c": "la spiaggia",
+      "a": "beach",
+      "d": [
+        "island",
+        "harbor"
+      ]
+    },
+    {
+      "c": "l'isola",
+      "a": "island",
+      "d": [
+        "peninsula",
+        "beach"
+      ]
+    },
+    {
+      "c": "l'albero",
+      "a": "tree",
+      "d": [
+        "flower",
+        "bush"
+      ]
+    },
+    {
+      "c": "il fiore",
+      "a": "flower",
+      "d": [
+        "tree",
+        "leaf"
+      ]
+    },
+    {
+      "c": "il cielo",
+      "a": "sky",
+      "d": [
+        "sun",
+        "cloud"
+      ]
+    },
+    {
+      "c": "la luna",
+      "a": "moon",
+      "d": [
+        "star",
+        "sun"
+      ]
+    },
+    {
+      "c": "la stella",
+      "a": "star",
+      "d": [
+        "moon",
+        "planet"
+      ]
+    },
+    {
+      "c": "la campagna",
+      "a": "countryside",
+      "d": [
+        "suburbs",
+        "city"
+      ]
+    },
+    {
+      "c": "___ freddo oggi.",
+      "a": "Fa",
+      "d": [
+        "È",
+        "Ha"
+      ]
+    },
+    {
+      "c": "In inverno ___ spesso. (nevicare)",
+      "a": "nevica",
+      "d": [
+        "neva",
+        "nevicano"
+      ]
+    },
+    {
+      "c": "D'estate andiamo ___ mare.",
+      "a": "al",
+      "d": [
+        "su",
+        "di"
+      ]
+    },
+    {
+      "c": "In agosto vado ___ montagna.",
+      "a": "in",
+      "d": [
+        "a",
+        "su"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Le stagioni in Italia",
+    "text": [
+      "In Italia ci sono quattro stagioni. In primavera fa bel tempo e ci sono molti fiori. In estate fa molto caldo, soprattutto al sud, e molti italiani vanno al mare.",
+      "In autunno piove spesso e gli alberi cambiano colore: le foglie diventano gialle, rosse e marroni. In inverno fa freddo e in montagna nevica.",
+      "Io preferisco l'inverno perché amo la neve. Mia sorella invece preferisce l'estate: per lei la spiaggia è il posto più bello del mondo."
+    ],
+    "q": [
+      {
+        "q": "What happens often in autumn?",
+        "o": [
+          "It snows at the beach",
+          "It is very hot",
+          "It rains"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Why does the writer prefer winter?",
+        "o": [
+          "Because it is warm",
+          "Because he or she loves snow",
+          "Because of the flowers"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Where does it snow in winter?",
+        "o": [
+          "In the mountains",
+          "At the sea",
+          "Everywhere in the south"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

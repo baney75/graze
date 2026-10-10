@@ -1,0 +1,45 @@
+{
+  "title": "Deduction, induction and abduction",
+  "note": "A deductive argument aims to guarantee its conclusion: if the premises are true, the conclusion must be. An inductive argument aims only to make its conclusion probable, as when we generalize from a sample. Abduction, or inference to the best explanation, accepts the hypothesis that would best explain the evidence. Induction and abduction are ampliative and can be overturned by new evidence.",
+  "src": { "t": "Abduction, Stanford Encyclopedia of Philosophy", "u": "https://plato.stanford.edu/entries/abduction/" },
+  "items": [
+    { "c": "Deductive argument", "a": "aims for a conclusion that must follow from the premises", "d": ["aims for a conclusion that is merely probable", "reasons from a sample to a whole population"] },
+    { "c": "Inductive argument", "a": "aims to make its conclusion probable, not certain", "d": ["aims to make its conclusion certain", "proves its conclusion from definitions alone"] },
+    { "c": "Abduction", "a": "inference to the best explanation", "d": ["inference from a general rule to a case", "inference from a sample to a population", "inference by restating a premise"] },
+    { "c": "Must deduction go from general to particular?", "a": "no; that is a popular myth", "d": ["yes; that is its definition", "yes, and induction always goes the other way"], "ex": "'Socrates is a man and Plato is a man, so both are men' is deductive yet goes from particular to particular." },
+    { "c": "Pragmatist who named abductive reasoning", "a": "Charles Sanders Peirce", "d": ["John Stuart Mill", "David Hume", "Francis Bacon"] },
+    { "c": "Ampliative inference", "a": "the conclusion goes beyond what the premises contain", "d": ["the conclusion merely restates the premises", "the conclusion is contained in the premises"] },
+    { "c": "Which kinds of inference are ampliative?", "a": "induction and abduction", "d": ["deduction only", "deduction and induction"] },
+    { "c": "Every swan seen was white: all swans are white", "a": "inductive generalization", "d": ["deductive syllogism", "inference to the best explanation", "modus ponens"] },
+    { "c": "Ball by a broken window: kids must have hit it", "a": "abduction (best explanation)", "d": ["deduction", "statistical syllogism", "argument from analogy"] },
+    { "c": "All A are B; x is an A; so x is a B", "a": "deduction", "d": ["induction", "abduction", "analogy"] },
+    { "c": "Argument from analogy", "a": "alike in known ways, so likely alike in another", "d": ["one case proves a universal rule", "a general rule applied to a case"] },
+    { "c": "Argument from analogy is strengthened by", "a": "relevant similarities between the cases", "d": ["many irrelevant similarities", "vivid, memorable wording"] },
+    { "c": "Statistical syllogism", "a": "most A are B; this is an A; so it is probably B", "d": ["all A are B; this is an A; so it is B", "this A is B; so all A are B"] },
+    { "c": "The sun has risen daily, so it will tomorrow", "a": "induction from past cases", "d": ["deduction from a definition", "abduction from a single clue"] },
+    { "c": "Hume's problem of induction", "a": "no non-circular way to justify trusting induction", "d": ["induction never produces any beliefs", "deduction cannot reach any new truths"] },
+    { "c": "Can new evidence weaken good inductive support?", "a": "yes; inductive support is defeasible", "d": ["no; its strength never changes", "only if a premise is shown false"] },
+    { "c": "Adding a premise to a valid argument", "a": "leaves it valid", "d": ["may make it invalid", "turns it into induction"] },
+    { "c": "Occam’s razor", "a": "prefer the simplest adequate explanation", "d": ["prefer the most detailed explanation", "prefer the oldest explanation", "prefer the most popular explanation"] },
+    { "c": "Virtues used to pick the best explanation", "a": "simplicity, scope, and fit with known facts", "d": ["popularity, age, and authority", "length, novelty, and drama"] },
+    { "c": "Fictional detectives' 'deductions' are mostly", "a": "abductions: best explanations of clues", "d": ["strict deductions from definitions", "statistical samples of suspects"] },
+    { "c": "Is the best available explanation always true?", "a": "no; abduction is fallible", "d": ["yes, if it is the simplest", "yes, if no one objects to it"] },
+    { "c": "Representative sample", "a": "one that mirrors the population in relevant ways", "d": ["one that is simply as large as possible", "one hand-picked to match the hypothesis"] },
+    { "c": "Effect of a larger, unbiased sample", "a": "stronger inductive support", "d": ["a deductively valid conclusion", "weaker inductive support"] },
+    { "c": "Is mathematical induction inductive reasoning?", "a": "no; proof by induction is deductive", "d": ["yes; it generalizes from cases", "yes; its result is only probable"] },
+    { "c": "European belief overturned by black swans", "a": "that all swans are white", "d": ["that birds cannot swim", "that swans live only in Europe"], "ex": "Dutch explorers found black swans in Australia in 1697." }
+  ],
+  "read": {
+    "title": "Three ways to reach a conclusion",
+    "text": [
+      "Deduction aims at certainty. In a good deductive argument, the truth of the premises guarantees the truth of the conclusion: if all mammals breathe air and whales are mammals, whales breathe air. Nothing in the conclusion goes beyond what the premises already commit you to. That is also its limit: deduction unpacks information rather than adding new facts about the world.",
+      "Induction reaches further. From many observed cases we conclude something about unobserved ones: every swan Europeans had seen was white, so they concluded all swans were white. Such reasoning is ampliative, meaning its conclusion says more than its premises, and so it can fail. Black swans were found in Australia. A good inductive argument makes its conclusion probable, and more and better evidence can strengthen or weaken it.",
+      "Abduction, a term from Charles Sanders Peirce, is inference to the best explanation. A ball lies inside a room beneath a broken window, so you conclude someone threw or hit it through. You choose the hypothesis that would best explain the evidence, judging rivals by simplicity, how much they explain, and fit with what you already know. Scientists, mechanics, and detectives reason this way constantly, and like induction it can be overturned by new facts."
+    ],
+    "q": [
+      { "q": "Why can inductive conclusions turn out false even from true premises?", "o": ["They are ampliative: they say more than the premises", "They always contain a formal fallacy", "They use only definitions"], "k": 0 },
+      { "q": "Which example in the reading illustrates abduction?", "o": ["Whales breathing air", "A ball beneath a broken window", "White swans in Europe"], "k": 1 },
+      { "q": "What limit of deduction does the reading mention?", "o": ["It cannot be valid", "It is always uncertain", "It unpacks information rather than adding new facts"], "k": 2 }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "calculus",
+  "name": "Calculus",
+  "group": "Math",
+  "tag": "CALC",
+  "level": "Precalc to Calc II",
+  "blurb": "Build instant recall of the rules, values, and results that carry you from precalculus through limits, derivatives, integrals, and the start of series. Recognize a derivative, limit, or integral on sight so problem solving is about ideas, not lookups.",
+  "sources": [
+    { "t": "Calculus Volume 1, OpenStax", "u": "https://openstax.org/details/books/calculus-volume-1" },
+    { "t": "Calculus Volume 2, OpenStax", "u": "https://openstax.org/details/books/calculus-volume-2" },
+    { "t": "Precalculus 2e, OpenStax", "u": "https://openstax.org/details/books/precalculus-2e" },
+    { "t": "Mathematics LibreTexts", "u": "https://math.libretexts.org/" }
+  ]
+}

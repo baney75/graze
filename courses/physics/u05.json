@@ -1,0 +1,278 @@
+{
+  "title": "Momentum and collisions",
+  "note": "Momentum p = mv is a vector. Impulse FΔt equals the change in momentum, so spreading a collision over more time lowers the force. When the net external force on a system is zero, its total momentum is conserved in every collision; kinetic energy is conserved only in elastic ones.",
+  "src": {
+    "t": "College Physics 2e, Ch. 8 Linear Momentum and Collisions",
+    "u": "https://openstax.org/books/college-physics-2e/pages/8-introduction-to-linear-momentum-and-collisions"
+  },
+  "items": [
+    {
+      "c": "Linear momentum",
+      "a": "p = mv",
+      "d": [
+        "p = ½mv²",
+        "p = ma",
+        "p = m/v"
+      ]
+    },
+    {
+      "c": "SI unit of momentum",
+      "a": "kg·m/s",
+      "d": [
+        "kg·m/s²",
+        "kg·m²/s²",
+        "N/s"
+      ]
+    },
+    {
+      "c": "Impulse",
+      "a": "FΔt, equal to the change in momentum",
+      "d": [
+        "FΔx, equal to the change in kinetic energy",
+        "F/Δt, equal to the power delivered"
+      ]
+    },
+    {
+      "c": "Newton's second law in momentum form",
+      "a": "F_net = Δp/Δt",
+      "d": [
+        "F_net = pΔt",
+        "F_net = Δp·Δx",
+        "F_net = p/m"
+      ]
+    },
+    {
+      "c": "Impulse equals the area under",
+      "a": "a force–time graph",
+      "d": [
+        "a force–displacement graph",
+        "a velocity–time graph",
+        "a position–time graph"
+      ]
+    },
+    {
+      "c": "Impulse of a 20 N force for 0.5 s",
+      "a": "10 N·s",
+      "d": [
+        "40 N·s",
+        "20.5 N·s",
+        "0.025 N·s"
+      ]
+    },
+    {
+      "c": "How an airbag reduces injury",
+      "a": "it lengthens the stopping time, lowering the force",
+      "d": [
+        "it reduces the change in momentum",
+        "it adds momentum in the forward direction"
+      ]
+    },
+    {
+      "c": "Momentum of a 1500 kg car at 20 m/s",
+      "a": "3.0 × 10⁴ kg·m/s",
+      "d": [
+        "3.0 × 10⁵ kg·m/s",
+        "1.5 × 10³ kg·m/s",
+        "7.5 × 10¹ kg·m/s"
+      ]
+    },
+    {
+      "c": "Kinetic energy in terms of momentum",
+      "a": "KE = p²/2m",
+      "d": [
+        "KE = p²/m",
+        "KE = p/2m",
+        "KE = 2mp²"
+      ]
+    },
+    {
+      "c": "Total momentum of a system is conserved when",
+      "a": "the net external force is zero",
+      "d": [
+        "there is no friction inside it",
+        "the collision is elastic",
+        "no objects stick together"
+      ]
+    },
+    {
+      "c": "Internal forces within a system",
+      "a": "cannot change its total momentum",
+      "d": [
+        "always increase its total momentum",
+        "always decrease its total momentum"
+      ]
+    },
+    {
+      "c": "Elastic collision",
+      "a": "momentum and kinetic energy both conserved",
+      "d": [
+        "momentum conserved, kinetic energy lost",
+        "kinetic energy conserved, momentum lost"
+      ]
+    },
+    {
+      "c": "Inelastic collision",
+      "a": "momentum conserved, some kinetic energy lost",
+      "d": [
+        "momentum and kinetic energy both conserved",
+        "neither momentum nor energy conserved"
+      ]
+    },
+    {
+      "c": "Perfectly inelastic collision",
+      "a": "the objects stick together",
+      "d": [
+        "the objects exchange velocities",
+        "no kinetic energy is lost"
+      ]
+    },
+    {
+      "c": "Elastic head-on hit, equal masses, one at rest",
+      "a": "they exchange velocities",
+      "d": [
+        "both move together at half speed",
+        "both stop"
+      ]
+    },
+    {
+      "c": "Equal masses stick, one was at rest: KE lost",
+      "a": "one half",
+      "d": [
+        "one quarter",
+        "all of it",
+        "none of it"
+      ],
+      "ex": "Speed halves, mass doubles, so KE goes from ½mv² to ¼mv²."
+    },
+    {
+      "c": "2 kg at 3 m/s sticks to 1 kg at rest: final v",
+      "a": "2 m/s",
+      "d": [
+        "3 m/s",
+        "1.5 m/s",
+        "1 m/s"
+      ]
+    },
+    {
+      "c": "Ball hits a wall at 5 m/s, rebounds at 5 m/s",
+      "a": "its velocity changes by 10 m/s",
+      "d": [
+        "its velocity does not change",
+        "its velocity changes by 5 m/s"
+      ]
+    },
+    {
+      "c": "Bigger impulse on a wall: bouncing or sticking?",
+      "a": "the bouncing ball",
+      "d": [
+        "the sticking ball",
+        "they are equal"
+      ]
+    },
+    {
+      "c": "Why a rifle recoils when fired",
+      "a": "total momentum must stay zero",
+      "d": [
+        "the bullet pushes on the air",
+        "kinetic energy must stay zero"
+      ]
+    },
+    {
+      "c": "Skaters 50 kg and 100 kg push apart from rest",
+      "a": "the 50 kg skater moves twice as fast",
+      "d": [
+        "both move at the same speed",
+        "the 100 kg skater moves twice as fast"
+      ]
+    },
+    {
+      "c": "How a rocket accelerates in space",
+      "a": "ejecting exhaust backward pushes it forward",
+      "d": [
+        "its exhaust pushes against the air",
+        "it needs a surface to push against"
+      ]
+    },
+    {
+      "c": "Momentum in a two-dimensional collision",
+      "a": "conserved separately in x and in y",
+      "d": [
+        "conserved only along the original motion",
+        "conserved only as a total magnitude"
+      ]
+    },
+    {
+      "c": "Center of mass, m₁ at x₁ and m₂ at x₂",
+      "a": "(m₁x₁ + m₂x₂)/(m₁ + m₂)",
+      "d": [
+        "(x₁ + x₂)/2",
+        "(m₁x₁ − m₂x₂)/(m₁ + m₂)",
+        "(m₁ + m₂)/(x₁ + x₂)"
+      ]
+    },
+    {
+      "c": "Center of mass of two equal point masses",
+      "a": "midway between them",
+      "d": [
+        "at the heavier one",
+        "at either mass",
+        "outside both"
+      ]
+    },
+    {
+      "c": "Velocity of an isolated system's center of mass",
+      "a": "stays constant",
+      "d": [
+        "always zero",
+        "increases over time",
+        "follows the lighter object"
+      ]
+    },
+    {
+      "c": "1D elastic collision: relative speed of approach",
+      "a": "equals the relative speed of separation",
+      "d": [
+        "is twice the relative speed of separation",
+        "becomes zero afterward"
+      ]
+    }
+  ],
+  "read": {
+    "title": "What collisions keep",
+    "text": [
+      "Momentum is mass times velocity, a vector that captures how hard it is to stop something. Newton originally wrote his second law in terms of momentum: the net force equals the rate of change of momentum. Rearranged, the impulse FΔt equals the change in momentum Δp.",
+      "That relation explains much of safety engineering. A car stopping in a crash must lose its momentum no matter what. Airbags, crumple zones, and padded dashboards cannot change Δp, but they stretch out Δt, so the average force on the passenger drops.",
+      "The real power of momentum is conservation. Inside any system, forces come in third-law pairs that cancel when summed, so internal forces cannot change the total momentum. If the net external force is zero, the momentum before a collision equals the momentum after, whether objects bounce, stick, or explode apart.",
+      "Kinetic energy is less reliable. In an elastic collision, such as between hard steel balls, kinetic energy is also conserved. In an inelastic collision some kinetic energy becomes heat, sound, or deformation. When objects stick together the collision is perfectly inelastic and loses the most kinetic energy that momentum conservation allows."
+    ],
+    "q": [
+      {
+        "q": "How do airbags protect passengers?",
+        "o": [
+          "They increase the stopping time",
+          "They reduce the momentum change",
+          "They increase the passenger's mass"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why can't internal forces change a system's total momentum?",
+        "o": [
+          "They come in pairs that cancel",
+          "They are always small",
+          "They do no work"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Which quantity is conserved in an inelastic collision with no external force?",
+        "o": [
+          "Momentum",
+          "Kinetic energy",
+          "Both momentum and kinetic energy"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

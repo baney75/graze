@@ -1,0 +1,56 @@
+{
+  "title": "Acids and bases: pH, Ka and buffers",
+  "note": "A Brønsted–Lowry acid donates H⁺ and a base accepts it; each acid has a conjugate base one proton lighter. pH = −log[H₃O⁺], and at 25 °C Kw = 1.0 × 10⁻¹⁴, so pH + pOH = 14.00. Weak acids ionize partly, measured by Ka. A buffer, a weak acid plus its conjugate base, resists pH change: pH = pKa + log([A⁻]/[HA]).",
+  "src": { "t": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases, OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases" },
+  "items": [
+    { "c": "Brønsted–Lowry acid", "a": "proton (H⁺) donor", "d": ["proton (H⁺) acceptor", "electron-pair donor"] },
+    { "c": "Brønsted–Lowry base", "a": "proton (H⁺) acceptor", "d": ["proton (H⁺) donor", "electron-pair acceptor"] },
+    { "c": "Lewis acid", "a": "electron-pair acceptor", "d": ["electron-pair donor", "hydroxide donor"] },
+    { "c": "Conjugate base of H₂SO₄", "a": "HSO₄⁻", "d": ["SO₄²⁻", "H₃SO₄⁺"] },
+    { "c": "Conjugate acid of NH₃", "a": "NH₄⁺", "d": ["NH₂⁻", "N₂H₄"] },
+    { "c": "Conjugate base of H₂O", "a": "OH⁻", "d": ["H₃O⁺", "O²⁻"] },
+    { "c": "Which species is amphiprotic?", "a": "HCO₃⁻", "d": ["CO₃²⁻", "NH₄⁺"], "ex": "It can donate H⁺ to become CO₃²⁻ or accept H⁺ to become H₂CO₃." },
+    { "c": "Kw at 25 °C", "a": "1.0 × 10⁻¹⁴", "d": ["1.0 × 10⁻⁷", "1.0 × 10⁻¹²"] },
+    { "c": "Definition of pH", "a": "pH = −log[H₃O⁺]", "d": ["pH = log[H₃O⁺]", "pH = −log[OH⁻]"] },
+    { "c": "pH + pOH at 25 °C", "a": "14.00", "d": ["7.00", "1.00"] },
+    { "c": "pH of pure water at 25 °C", "a": "7.00", "d": ["0.00", "14.00"] },
+    { "c": "pH of 0.010 M HCl", "a": "2.00", "d": ["1.00", "12.00"] },
+    { "c": "pH of 0.0010 M NaOH", "a": "11.00", "d": ["3.00", "10.00"] },
+    { "c": "[H₃O⁺] of a solution at pH 4.00", "a": "1.0 × 10⁻⁴ M", "d": ["4.0 M", "1.0 × 10⁻¹⁰ M"] },
+    { "c": "[H₃O⁺] at pH 3 compared with pH 5", "a": "100 times greater", "d": ["2 times greater", "100 times smaller"] },
+    { "c": "Strong acid", "a": "ionizes completely in water", "d": ["ionizes only slightly in water", "has a very high pH"] },
+    { "c": "Which is a weak acid?", "a": "HF", "d": ["HCl", "HNO₃"] },
+    { "c": "Which is a strong base?", "a": "Ba(OH)₂", "d": ["NH₃", "CH₃NH₂"] },
+    { "c": "Acid ionization constant Ka", "a": "equilibrium constant for a weak acid's ionization", "d": ["rate constant for proton transfer", "pH at which an acid is half ionized"] },
+    { "c": "A larger Ka means", "a": "a stronger acid", "d": ["a weaker acid", "a more concentrated acid"] },
+    { "c": "pKa", "a": "−log Ka", "d": ["log Ka", "1/Ka"] },
+    { "c": "Ka × Kb for a conjugate acid–base pair", "a": "Kw", "d": ["1", "Ka ÷ Kb"] },
+    { "c": "The conjugate base of a stronger acid is", "a": "a weaker base", "d": ["a stronger base", "always a strong base"] },
+    { "c": "pH of 0.10 M weak acid with Ka = 1.0 × 10⁻⁵", "a": "3.00", "d": ["5.00", "1.00"] },
+    { "c": "Percent ionization as [HA] increases", "a": "decreases", "d": ["increases", "stays the same"] },
+    { "c": "A solution of NH₄Cl is", "a": "acidic", "d": ["basic", "neutral"] },
+    { "c": "A solution of sodium acetate is", "a": "basic", "d": ["acidic", "neutral"] },
+    { "c": "A solution of NaCl is", "a": "neutral", "d": ["acidic", "basic"] },
+    { "c": "Buffer", "a": "a weak acid with its conjugate base", "d": ["a strong acid with its conjugate base", "a strong acid with a strong base"] },
+    { "c": "Henderson–Hasselbalch equation", "a": "pH = pKa + log([A⁻]/[HA])", "d": ["pH = pKa + log([HA]/[A⁻])", "pH = Ka × [A⁻]/[HA]"] },
+    { "c": "Buffer pH when [A⁻] = [HA]", "a": "pH = pKa", "d": ["pH = 7.00", "pH = 2 × pKa"] },
+    { "c": "Acetate buffer, pKa 4.74, [A⁻]/[HA] = 10", "a": "pH 5.74", "d": ["pH 3.74", "pH 14.74"] },
+    { "c": "Buffer capacity rises with", "a": "higher concentrations of both components", "d": ["a larger [A⁻]/[HA] ratio only", "adding a strong acid"] },
+    { "c": "Main buffer pair in blood", "a": "H₂CO₃ / HCO₃⁻", "d": ["H₃PO₄ / PO₄³⁻", "HCl / Cl⁻"] },
+    { "c": "pH at equivalence, weak acid titrated by NaOH", "a": "above 7", "d": ["exactly 7", "below 7"] }
+  ],
+  "read": {
+    "title": "Protons on the move",
+    "text": [
+      "In the Brønsted–Lowry picture, an acid gives away a proton and a base takes one. When hydrogen fluoride meets water, HF hands a proton to H₂O, forming H₃O⁺ and F⁻. Fluoride is the conjugate base of HF, and hydronium is the conjugate acid of water. Every acid–base reaction is a contest between two such pairs.",
+      "Strong acids, such as HCl and HNO₃, give up their protons completely in water. Weak acids, such as HF and acetic acid, react only partly and reach an equilibrium described by Ka. The larger Ka is, the stronger the acid, and the weaker its conjugate base. For any conjugate pair, Ka × Kb equals Kw, 1.0 × 10⁻¹⁴ at 25 °C.",
+      "The pH scale compresses huge ranges of [H₃O⁺] into small numbers: pH = −log[H₃O⁺]. Each unit is a factor of ten, so a pH 3 solution has 100 times more hydronium than a pH 5 solution.",
+      "A buffer holds pH steady. It contains a weak acid and its conjugate base in similar amounts. Added hydroxide is used up by the weak acid, and added hydronium is used up by the base, so the ratio of the two changes only a little. The Henderson–Hasselbalch equation, pH = pKa + log([A⁻]/[HA]), shows that when the two are equal the pH equals the pKa. Blood relies on the carbonic acid and bicarbonate pair."
+    ],
+    "q": [
+      { "q": "When HF reacts with water, what is the conjugate base?", "o": ["H₃O⁺", "H₂O", "F⁻"], "k": 2 },
+      { "q": "How much more hydronium does pH 3 have than pH 5?", "o": ["100 times", "2 times", "20 times"], "k": 0 },
+      { "q": "Why does a buffer resist pH change?", "o": ["It contains no water", "Its weak acid and base consume added OH⁻ and H₃O⁺", "It is a strong acid"], "k": 1 }
+    ]
+  }
+}

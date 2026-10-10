@@ -1,0 +1,282 @@
+{
+  "title": "Reactions and mechanisms",
+  "note": "A curved arrow starts at electrons (a lone pair or a bond) and points where they go; a full arrowhead moves a pair, a fishhook moves one electron. Polar reactions bond an electron-rich nucleophile to an electron-poor electrophile. Carbocations and radicals are stabilized by alkyl groups: 3° > 2° > 1° > methyl.",
+  "src": {
+    "t": "LibreTexts, Organic Chemistry (Morsch et al.), Ch. 6 An Overview of Organic Reactions",
+    "u": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/06%3A_An_Overview_of_Organic_Reactions"
+  },
+  "items": [
+    {
+      "c": "Nucleophile",
+      "a": "electron-rich species that donates a pair",
+      "d": [
+        "electron-poor species that accepts a pair",
+        "species with an unpaired electron"
+      ]
+    },
+    {
+      "c": "Electrophile",
+      "a": "electron-poor species that accepts a pair",
+      "d": [
+        "electron-rich species that donates a pair",
+        "species that donates a proton only"
+      ]
+    },
+    {
+      "c": "Role of a carbocation in a polar reaction",
+      "a": "electrophile",
+      "d": [
+        "nucleophile",
+        "radical initiator"
+      ]
+    },
+    {
+      "c": "Electrophilic atom of a C=O group",
+      "a": "the carbonyl carbon (δ+)",
+      "d": [
+        "the carbonyl oxygen (δ−)",
+        "the α-hydrogen"
+      ]
+    },
+    {
+      "c": "A curved arrow's tail starts at",
+      "a": "an electron pair (lone pair or bond)",
+      "d": [
+        "the atom receiving electrons",
+        "a positive charge"
+      ]
+    },
+    {
+      "c": "A fishhook (half-headed) arrow shows",
+      "a": "movement of one electron",
+      "d": [
+        "movement of an electron pair",
+        "movement of a proton"
+      ]
+    },
+    {
+      "c": "Homolytic bond cleavage gives",
+      "a": "two radicals",
+      "d": [
+        "a cation and an anion",
+        "two anions"
+      ]
+    },
+    {
+      "c": "Heterolytic bond cleavage gives",
+      "a": "a cation and an anion",
+      "d": [
+        "two radicals",
+        "two neutral molecules"
+      ]
+    },
+    {
+      "c": "Two reactants combine into one product",
+      "a": "addition reaction",
+      "d": [
+        "elimination reaction",
+        "substitution reaction"
+      ]
+    },
+    {
+      "c": "Loss of a small molecule to form a π bond",
+      "a": "elimination reaction",
+      "d": [
+        "addition reaction",
+        "rearrangement"
+      ]
+    },
+    {
+      "c": "Two reactants trade parts",
+      "a": "substitution reaction",
+      "d": [
+        "addition reaction",
+        "rearrangement"
+      ]
+    },
+    {
+      "c": "Bonds reorganize within one molecule",
+      "a": "rearrangement",
+      "d": [
+        "substitution reaction",
+        "elimination reaction"
+      ]
+    },
+    {
+      "c": "Carbocation stability order",
+      "a": "3° > 2° > 1° > methyl",
+      "d": [
+        "methyl > 1° > 2° > 3°",
+        "2° > 3° > 1° > methyl"
+      ]
+    },
+    {
+      "c": "Why alkyl groups stabilize a carbocation",
+      "a": "hyperconjugation and inductive donation",
+      "d": [
+        "they give carbon a full octet",
+        "they withdraw electron density"
+      ]
+    },
+    {
+      "c": "Carbocation hybridization and shape",
+      "a": "sp², trigonal planar, empty p orbital",
+      "d": [
+        "sp³, tetrahedral, filled orbital",
+        "sp, linear, two empty p orbitals"
+      ]
+    },
+    {
+      "c": "Most stable simple alkyl radical",
+      "a": "tertiary (3°)",
+      "d": [
+        "methyl",
+        "primary (1°)"
+      ]
+    },
+    {
+      "c": "Carbocation rearrangement",
+      "a": "1,2-hydride or alkyl shift to a more stable cation",
+      "d": [
+        "loss of H⁺ to form an alkene",
+        "attack by a nucleophile"
+      ]
+    },
+    {
+      "c": "Transition state",
+      "a": "an energy maximum that cannot be isolated",
+      "d": [
+        "an energy minimum between steps",
+        "the final product of a step"
+      ]
+    },
+    {
+      "c": "Reaction intermediate",
+      "a": "a species at an energy minimum between steps",
+      "d": [
+        "the highest point on the energy diagram",
+        "the starting material"
+      ]
+    },
+    {
+      "c": "Rate-determining step",
+      "a": "the step with the highest-energy transition state",
+      "d": [
+        "the fastest step",
+        "always the last step"
+      ]
+    },
+    {
+      "c": "Activation energy (Ea or ΔG‡)",
+      "a": "energy from reactants up to the transition state",
+      "d": [
+        "energy difference between reactants and products",
+        "energy released by the reaction"
+      ]
+    },
+    {
+      "c": "Negative ΔG° means the reaction is",
+      "a": "exergonic; products favored",
+      "d": [
+        "endergonic; reactants favored",
+        "necessarily fast"
+      ]
+    },
+    {
+      "c": "Keq greater than 1 means",
+      "a": "products are favored at equilibrium",
+      "d": [
+        "reactants are favored at equilibrium",
+        "the reaction is fast"
+      ]
+    },
+    {
+      "c": "A catalyst",
+      "a": "lowers Ea without changing ΔG°",
+      "d": [
+        "makes ΔG° more negative",
+        "raises Ea"
+      ]
+    },
+    {
+      "c": "Hammond postulate",
+      "a": "a TS resembles the species nearest it in energy",
+      "d": [
+        "a TS always resembles the products",
+        "intermediates have no energy"
+      ]
+    },
+    {
+      "c": "Three stages of a radical chain reaction",
+      "a": "initiation, propagation, termination",
+      "d": [
+        "addition, elimination, substitution",
+        "protonation, attack, deprotonation"
+      ]
+    },
+    {
+      "c": "More selective radical halogenation: Cl₂ or Br₂?",
+      "a": "Br₂; strongly favors 3° C–H",
+      "d": [
+        "Cl₂; strongly favors 3° C–H",
+        "equally selective"
+      ]
+    },
+    {
+      "c": "Bond dissociation energy",
+      "a": "energy to break a bond homolytically",
+      "d": [
+        "energy to break a bond heterolytically",
+        "energy released when ions form"
+      ]
+    },
+    {
+      "c": "First step of HBr adding to ethylene",
+      "a": "the π bond takes H from HBr, giving a carbocation",
+      "d": [
+        "Br⁻ attacks a carbon of the alkene",
+        "the π bond breaks into two radicals"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Arrows that push electrons",
+    "text": [
+      "Most organic reactions are polar: an electron-rich nucleophile donates a pair of electrons to an electron-poor electrophile. Chemists show this with curved arrows. Each arrow starts at a lone pair or a bond, the electrons that move, and ends at the atom that receives them. A fishhook arrow, with half a head, moves a single electron and is used for radical reactions.",
+      "Consider HBr adding to ethylene. The C=C π bond is electron-rich, so it acts as the nucleophile and attacks the hydrogen of HBr, pushing the H–Br electrons onto bromine. The result is a carbocation intermediate and a bromide ion. In a second step bromide, now the nucleophile, attacks the positively charged carbon to give bromoethane.",
+      "An energy diagram tracks such a reaction. Each step passes over a transition state, a fleeting energy maximum, and the carbocation sits in a valley between them as an intermediate. The highest barrier sets the rate. By the Hammond postulate, an uphill step has a transition state that looks like the high-energy carbocation, so anything that stabilizes the cation, such as extra alkyl groups, also speeds the step. That idea explains a great deal of the selectivity you will see in later chapters."
+    ],
+    "q": [
+      {
+        "q": "In the first step of HBr addition, what acts as the nucleophile?",
+        "o": [
+          "Bromide ion",
+          "The H atom",
+          "The C=C π bond",
+          "The carbocation"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What is the carbocation in this reaction?",
+        "o": [
+          "A transition state",
+          "The product",
+          "A catalyst",
+          "An intermediate"
+        ],
+        "k": 3
+      },
+      {
+        "q": "By the Hammond postulate, what speeds formation of a carbocation?",
+        "o": [
+          "Stabilizing the cation",
+          "Destabilizing the cation",
+          "Removing bromide",
+          "Lowering the temperature"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "title": "Home and household",
+  "note": "C'è means \"there is\" and ci sono \"there are.\" In and su merge with the article: nel frigorifero, nella stanza, sul tavolo, sulla sedia. Rooms often take in with no article: in cucina, in bagno, in camera.",
+  "src": {
+    "t": "Voci, Unità 7: Grammatica (preposizioni articolate)",
+    "u": "https://human.libretexts.org/Bookshelves/Languages/Italian/Voci%3A_Corso_elementare_di_lingua_e_culture_italiane_I_(Bozzato_Benetollo_and_Mugnai)/07%3A_Unita_7/7.02%3A_Unita_7_-_Grammatica"
+  },
+  "items": [
+    {
+      "c": "la casa",
+      "a": "house; home",
+      "d": [
+        "room",
+        "building"
+      ],
+      "ex": "Torno a casa alle sei.",
+      "exT": "I go back home at six."
+    },
+    {
+      "c": "l'appartamento",
+      "a": "apartment",
+      "d": [
+        "house",
+        "office"
+      ]
+    },
+    {
+      "c": "la stanza",
+      "a": "room",
+      "d": [
+        "floor (story)",
+        "hallway"
+      ]
+    },
+    {
+      "c": "la camera da letto",
+      "a": "bedroom",
+      "d": [
+        "living room",
+        "bathroom"
+      ]
+    },
+    {
+      "c": "la cucina",
+      "a": "kitchen; cooking",
+      "d": [
+        "dining room",
+        "pantry"
+      ]
+    },
+    {
+      "c": "il bagno",
+      "a": "bathroom",
+      "d": [
+        "bedroom",
+        "basement"
+      ]
+    },
+    {
+      "c": "il soggiorno",
+      "a": "living room",
+      "d": [
+        "bedroom",
+        "kitchen"
+      ]
+    },
+    {
+      "c": "la finestra",
+      "a": "window",
+      "d": [
+        "door",
+        "wall"
+      ]
+    },
+    {
+      "c": "la porta",
+      "a": "door",
+      "d": [
+        "window",
+        "floor"
+      ]
+    },
+    {
+      "c": "il letto",
+      "a": "bed",
+      "d": [
+        "sofa",
+        "pillow"
+      ]
+    },
+    {
+      "c": "il tavolo",
+      "a": "table",
+      "d": [
+        "chair",
+        "desk lamp"
+      ]
+    },
+    {
+      "c": "la sedia",
+      "a": "chair",
+      "d": [
+        "table",
+        "bench"
+      ]
+    },
+    {
+      "c": "il divano",
+      "a": "sofa; couch",
+      "d": [
+        "bed",
+        "armchair"
+      ]
+    },
+    {
+      "c": "l'armadio",
+      "a": "wardrobe; closet",
+      "d": [
+        "drawer",
+        "shelf"
+      ]
+    },
+    {
+      "c": "la lampada",
+      "a": "lamp",
+      "d": [
+        "light bulb",
+        "candle"
+      ]
+    },
+    {
+      "c": "il frigorifero",
+      "a": "refrigerator",
+      "d": [
+        "oven",
+        "dishwasher"
+      ]
+    },
+    {
+      "c": "lo specchio",
+      "a": "mirror",
+      "d": [
+        "window",
+        "picture"
+      ]
+    },
+    {
+      "c": "la doccia",
+      "a": "shower",
+      "d": [
+        "bathtub",
+        "sink"
+      ]
+    },
+    {
+      "c": "la vasca",
+      "a": "bathtub",
+      "d": [
+        "shower",
+        "sink"
+      ]
+    },
+    {
+      "c": "le scale",
+      "a": "stairs",
+      "d": [
+        "floors",
+        "walls"
+      ]
+    },
+    {
+      "c": "il piano (of a building)",
+      "a": "floor; story",
+      "d": [
+        "roof",
+        "room"
+      ],
+      "ex": "Abito al terzo piano.",
+      "exT": "I live on the third floor."
+    },
+    {
+      "c": "il giardino",
+      "a": "garden; yard",
+      "d": [
+        "balcony",
+        "garage"
+      ]
+    },
+    {
+      "c": "la chiave",
+      "a": "key",
+      "d": [
+        "lock",
+        "door"
+      ]
+    },
+    {
+      "c": "pulire",
+      "a": "to clean",
+      "d": [
+        "to cook",
+        "to paint"
+      ]
+    },
+    {
+      "c": "cucinare",
+      "a": "to cook",
+      "d": [
+        "to clean",
+        "to eat"
+      ]
+    },
+    {
+      "c": "Abito in un appartamento.",
+      "a": "I live in an apartment.",
+      "d": [
+        "I'm looking for an apartment.",
+        "I work in an apartment."
+      ]
+    },
+    {
+      "c": "___ un divano in soggiorno.",
+      "a": "C'è",
+      "d": [
+        "Ci sono",
+        "È"
+      ]
+    },
+    {
+      "c": "___ due bagni in casa.",
+      "a": "Ci sono",
+      "d": [
+        "C'è",
+        "Sono"
+      ]
+    },
+    {
+      "c": "Il libro è ___ tavolo. (on the)",
+      "a": "sul",
+      "d": [
+        "sulla",
+        "nel"
+      ]
+    },
+    {
+      "c": "Il latte è ___ frigorifero. (in the)",
+      "a": "nel",
+      "d": [
+        "nello",
+        "nella"
+      ]
+    },
+    {
+      "c": "Le chiavi sono ___ borsa. (in the)",
+      "a": "nella",
+      "d": [
+        "nel",
+        "sulla"
+      ]
+    },
+    {
+      "c": "Mamma è ___ cucina.",
+      "a": "in",
+      "d": [
+        "a",
+        "su"
+      ]
+    }
+  ],
+  "read": {
+    "title": "La casa di Giulia",
+    "text": [
+      "Giulia abita in un appartamento al secondo piano, vicino al centro. L'appartamento non è grande, ma è bello e nuovo.",
+      "C'è una cucina piccola e c'è un soggiorno con un divano verde. Ci sono anche due camere da letto. Nel bagno c'è una doccia, ma non c'è la vasca.",
+      "Giulia ama il soggiorno: ci sono due finestre grandi e c'è sempre il sole. La sera legge un libro sul divano con il suo gatto."
+    ],
+    "q": [
+      {
+        "q": "Which floor is Giulia's apartment on?",
+        "o": [
+          "The first floor",
+          "The third floor",
+          "The ground floor",
+          "The second floor"
+        ],
+        "k": 3
+      },
+      {
+        "q": "What is in the bathroom?",
+        "o": [
+          "A bathtub but no shower",
+          "A shower and a bathtub",
+          "A shower but no bathtub"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Why does Giulia love the living room?",
+        "o": [
+          "It has a new TV",
+          "It has big windows and lots of sun",
+          "It is the biggest room"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

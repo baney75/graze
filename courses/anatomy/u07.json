@@ -1,0 +1,59 @@
+{
+  "title": "Nervous tissue and the action potential",
+  "note": "A neuron rests near −70 mV. If graded inputs bring the trigger zone to threshold (about −55 mV), voltage-gated Na+ channels open and Na+ rushes in (depolarization, peaking near +30 mV); then voltage-gated K+ channels let K+ out (repolarization). Action potentials are all-or-none.",
+  "src": { "t": "OpenStax A&P 2e, 12.4 The Action Potential", "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-4-the-action-potential" },
+  "items": [
+    { "c": "Central nervous system (CNS)", "a": "Brain and spinal cord", "d": ["Cranial and spinal nerves", "Brain and cranial nerves"] },
+    { "c": "Peripheral nervous system (PNS)", "a": "Nerves and ganglia outside the brain and cord", "d": ["Brain and spinal cord", "Spinal cord and its meninges"] },
+    { "c": "Dendrite", "a": "Branch that receives input from other neurons", "d": ["Process that carries the impulse away", "Cell body with the nucleus"] },
+    { "c": "Soma", "a": "Neuron cell body containing the nucleus", "d": ["Branch that receives input", "End bulb that releases transmitter"] },
+    { "c": "Axon hillock and initial segment", "a": "Trigger zone where action potentials begin", "d": ["Site of neurotransmitter release", "Gap between myelin segments"] },
+    { "c": "Axon terminal", "a": "Ending that releases neurotransmitter", "d": ["Branch that receives input", "Trigger zone of the neuron"] },
+    { "c": "Multipolar neuron", "a": "One axon and two or more dendrites", "d": ["One axon and one dendrite", "A single process that splits in two"], "ex": "Most neurons, including motor neurons, are multipolar." },
+    { "c": "Bipolar neurons are found in", "a": "The retina and olfactory epithelium", "d": ["The anterior horn of the spinal cord", "The cerebellar cortex"] },
+    { "c": "Pseudo-unipolar neurons are", "a": "Sensory neurons with cell bodies in ganglia", "d": ["Motor neurons in the anterior horn", "Interneurons in the brain"] },
+    { "c": "Astrocyte", "a": "CNS glia that supports neurons and the blood-brain barrier", "d": ["CNS glia that forms myelin", "CNS glia that acts as a phagocyte"] },
+    { "c": "Oligodendrocyte", "a": "Forms myelin in the CNS", "d": ["Forms myelin in the PNS", "Lines the brain ventricles"] },
+    { "c": "Schwann cell", "a": "Forms myelin on one PNS axon segment", "d": ["Forms myelin on many CNS axons", "Surrounds cell bodies in ganglia"] },
+    { "c": "Microglia", "a": "Phagocytic immune cells of the CNS", "d": ["Myelinating cells of the CNS", "Cells lining the ventricles"] },
+    { "c": "Ependymal cell", "a": "Lines the ventricles and helps make CSF", "d": ["Forms myelin in the CNS", "Supports cell bodies in ganglia"] },
+    { "c": "Satellite cell (nervous system)", "a": "Supports neuron cell bodies in ganglia", "d": ["Forms myelin in the PNS", "Acts as a CNS phagocyte"] },
+    { "c": "Typical resting membrane potential", "a": "About −70 mV", "d": ["About −55 mV", "About +30 mV"] },
+    { "c": "Threshold potential", "a": "About −55 mV", "d": ["About −70 mV", "About −90 mV"] },
+    { "c": "Peak of the action potential", "a": "About +30 mV", "d": ["About 0 mV", "About −55 mV"] },
+    { "c": "Depolarization is caused by", "a": "Na+ flowing into the cell", "d": ["K+ flowing out of the cell", "Cl− flowing into the cell"] },
+    { "c": "Repolarization is caused by", "a": "K+ flowing out of the cell", "d": ["Na+ flowing into the cell", "Ca2+ flowing into the cell"] },
+    { "c": "Cause of the brief hyperpolarization", "a": "K+ channels close slowly", "d": ["Na+ channels reopen", "The Na+/K+ pump stops"] },
+    { "c": "Na+/K+ pump, per ATP", "a": "Moves 3 Na+ out and 2 K+ in", "d": ["Moves 2 Na+ out and 3 K+ in", "Moves 3 K+ out and 2 Na+ in"] },
+    { "c": "Absolute refractory period", "a": "No stimulus can start a new action potential", "d": ["A stronger stimulus can start a new one", "Any stimulus starts a new one"], "ex": "It is caused by inactivated voltage-gated Na+ channels." },
+    { "c": "Relative refractory period", "a": "Only a stronger stimulus can start a new one", "d": ["No stimulus can start a new one", "The membrane sits exactly at rest"] },
+    { "c": "All-or-none principle", "a": "Every action potential reaches the same peak", "d": ["Bigger stimuli make taller action potentials", "Action potentials fade with distance"] },
+    { "c": "Saltatory conduction", "a": "Impulse jumps from node to node along myelin", "d": ["Impulse spreads along every patch of membrane", "Impulse travels backward to the soma"] },
+    { "c": "Node of Ranvier", "a": "Gap in the myelin rich in Na+ channels", "d": ["Swelling at the axon terminal", "Junction between two neurons"] },
+    { "c": "Two features that speed axonal conduction", "a": "Myelination and a wider axon", "d": ["Thinner axon and less myelin", "More dendrites and a larger soma"] },
+    { "c": "Trigger for neurotransmitter release", "a": "Ca2+ entry into the axon terminal", "d": ["K+ entry into the axon terminal", "Na+ exit from the axon terminal"] },
+    { "c": "EPSP", "a": "Graded depolarization toward threshold", "d": ["Graded hyperpolarization from threshold", "Full action potential in a dendrite"] },
+    { "c": "IPSP", "a": "Graded hyperpolarization away from threshold", "d": ["Graded depolarization toward threshold", "Refractory period after a spike"] },
+    { "c": "Spatial summation", "a": "Adding inputs that arrive at different sites", "d": ["Adding rapid repeated inputs at one site", "Spreading a spike along the axon"] },
+    { "c": "Temporal summation", "a": "Adding rapid repeated inputs at one site", "d": ["Adding inputs that arrive at different sites", "Cancelling an EPSP with an IPSP"] },
+    { "c": "Major excitatory neurotransmitter of the CNS", "a": "Glutamate", "d": ["GABA", "Glycine"] },
+    { "c": "Major inhibitory neurotransmitter of the brain", "a": "GABA", "d": ["Glutamate", "Acetylcholine"] },
+    { "c": "Acetylcholinesterase", "a": "Enzyme that breaks down ACh in the synaptic cleft", "d": ["Enzyme that makes ACh in the terminal", "Receptor that binds ACh"] },
+    { "c": "Amino acid precursor of serotonin", "a": "Tryptophan", "d": ["Tyrosine", "Glutamate"] },
+    { "c": "Amino acid precursor of dopamine", "a": "Tyrosine", "d": ["Tryptophan", "Glycine"] }
+  ],
+  "read": {
+    "title": "Anatomy of a spike",
+    "text": [
+      "A resting neuron is electrically charged, with the inside about 70 millivolts more negative than the outside. Leak channels and the sodium-potassium pump keep sodium concentrated outside the cell and potassium inside, ready to move.",
+      "Incoming signals at the dendrites produce small graded potentials that spread toward the trigger zone at the axon hillock. Excitatory inputs depolarize the membrane; inhibitory inputs hyperpolarize it. They add together, and if the sum lifts the trigger zone to threshold, about −55 mV, voltage-gated sodium channels snap open. Sodium rushes in, and the inside swings positive to about +30 mV.",
+      "Two things then end the spike. Sodium channels inactivate, and voltage-gated potassium channels open, letting potassium flow out and returning the membrane toward rest. The potassium channels close a little late, so the membrane briefly dips below −70 mV before settling.",
+      "Because every spike reaches the same peak, a neuron cannot signal a stronger stimulus with a bigger spike. It signals with more spikes per second instead. While the sodium channels are inactivated, no new spike can begin, which keeps the impulse moving forward. In myelinated axons, the spike is regenerated only at the nodes of Ranvier, so it jumps from node to node and travels much faster."
+    ],
+    "q": [
+      { "q": "What opens at threshold to start the action potential?", "o": ["Voltage-gated sodium channels", "Voltage-gated potassium channels", "Leak potassium channels"], "k": 0 },
+      { "q": "How does a neuron signal a stronger stimulus?", "o": ["With taller spikes", "With more spikes per second", "With longer spikes"], "k": 1 },
+      { "q": "Why does the membrane briefly dip below −70 mV?", "o": ["Potassium channels close a little late", "Sodium channels reopen", "The pump reverses"], "k": 0 }
+    ]
+  }
+}

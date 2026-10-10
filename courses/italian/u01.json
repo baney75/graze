@@ -1,0 +1,296 @@
+{
+  "title": "Sounds, greetings and courtesy",
+  "note": "Italian is spelled almost exactly as it sounds. C and g are hard before a, o, u and soft before e, i; adding h (ch, gh) keeps them hard. Use tu with friends and family and Lei with strangers or in formal settings.",
+  "src": {
+    "t": "Voci, Unità 1: Benvenuti! and Grammatica",
+    "u": "https://human.libretexts.org/Bookshelves/Languages/Italian/Voci%3A_Corso_elementare_di_lingua_e_culture_italiane_I_(Bozzato_Benetollo_and_Mugnai)/01%3A_Unita_1"
+  },
+  "items": [
+    {
+      "c": "ciao",
+      "a": "hi; bye (informal)",
+      "d": [
+        "good evening",
+        "thank you"
+      ],
+      "ex": "Ciao, Giulia! Come stai?",
+      "exT": "Hi, Giulia! How are you?"
+    },
+    {
+      "c": "buongiorno",
+      "a": "good morning; hello (daytime)",
+      "d": [
+        "good night",
+        "good evening"
+      ],
+      "ex": "Buongiorno, signora Rossi.",
+      "exT": "Good morning, Mrs. Rossi."
+    },
+    {
+      "c": "buonasera",
+      "a": "good evening",
+      "d": [
+        "good morning",
+        "good night"
+      ]
+    },
+    {
+      "c": "buonanotte",
+      "a": "good night",
+      "d": [
+        "good evening",
+        "good afternoon"
+      ]
+    },
+    {
+      "c": "arrivederci",
+      "a": "goodbye",
+      "d": [
+        "welcome",
+        "excuse me"
+      ],
+      "ex": "Arrivederci e grazie!",
+      "exT": "Goodbye and thanks!"
+    },
+    {
+      "c": "a presto",
+      "a": "see you soon",
+      "d": [
+        "see you tomorrow",
+        "good luck"
+      ]
+    },
+    {
+      "c": "a domani",
+      "a": "see you tomorrow",
+      "d": [
+        "see you soon",
+        "see you tonight"
+      ]
+    },
+    {
+      "c": "per favore",
+      "a": "please",
+      "d": [
+        "thank you",
+        "you're welcome"
+      ],
+      "ex": "Un caffè, per favore.",
+      "exT": "A coffee, please."
+    },
+    {
+      "c": "grazie",
+      "a": "thank you",
+      "d": [
+        "please",
+        "sorry"
+      ]
+    },
+    {
+      "c": "grazie mille",
+      "a": "thanks a lot",
+      "d": [
+        "no, thanks",
+        "you're welcome"
+      ]
+    },
+    {
+      "c": "prego",
+      "a": "you're welcome",
+      "d": [
+        "thank you",
+        "excuse me"
+      ],
+      "ex": "Grazie! Prego.",
+      "exT": "Thank you! You're welcome."
+    },
+    {
+      "c": "scusa",
+      "a": "sorry; excuse me (informal)",
+      "d": [
+        "thank you (informal)",
+        "please (informal)"
+      ]
+    },
+    {
+      "c": "scusi",
+      "a": "excuse me (formal)",
+      "d": [
+        "goodbye (formal)",
+        "you're welcome (formal)"
+      ],
+      "ex": "Scusi, dov'è la stazione?",
+      "exT": "Excuse me, where is the station?"
+    },
+    {
+      "c": "mi dispiace",
+      "a": "I'm sorry",
+      "d": [
+        "I'm fine",
+        "I don't know"
+      ]
+    },
+    {
+      "c": "Come stai?",
+      "a": "How are you? (informal)",
+      "d": [
+        "What's your name?",
+        "Where are you from?"
+      ]
+    },
+    {
+      "c": "Come sta?",
+      "a": "How are you? (formal)",
+      "d": [
+        "Where are you going? (formal)",
+        "Who is it?"
+      ]
+    },
+    {
+      "c": "Sto bene, grazie.",
+      "a": "I'm fine, thanks.",
+      "d": [
+        "I'm tired, thanks.",
+        "I'm sorry, thanks."
+      ]
+    },
+    {
+      "c": "Come ti chiami?",
+      "a": "What's your name?",
+      "d": [
+        "How old are you?",
+        "Where do you live?"
+      ]
+    },
+    {
+      "c": "Mi chiamo Luca.",
+      "a": "My name is Luca.",
+      "d": [
+        "I live with Luca.",
+        "I'm calling Luca."
+      ]
+    },
+    {
+      "c": "Piacere! (on meeting someone)",
+      "a": "Nice to meet you!",
+      "d": [
+        "Please!",
+        "You're welcome!"
+      ]
+    },
+    {
+      "c": "benvenuto",
+      "a": "welcome",
+      "d": [
+        "goodbye",
+        "good luck"
+      ]
+    },
+    {
+      "c": "sì",
+      "a": "yes",
+      "d": [
+        "no",
+        "maybe"
+      ]
+    },
+    {
+      "c": "va bene",
+      "a": "okay; all right",
+      "d": [
+        "of course not",
+        "not at all"
+      ],
+      "ex": "Ci vediamo alle otto? Va bene.",
+      "exT": "See you at eight? Okay."
+    },
+    {
+      "c": "signore",
+      "a": "sir; gentleman",
+      "d": [
+        "madam; lady",
+        "miss"
+      ]
+    },
+    {
+      "c": "signora",
+      "a": "madam; Mrs.",
+      "d": [
+        "sir; Mr.",
+        "young man"
+      ]
+    },
+    {
+      "c": "Ciao, ___ stai?",
+      "a": "come",
+      "d": [
+        "cosa",
+        "chi"
+      ]
+    },
+    {
+      "c": "The c in \"cena\" sounds like",
+      "a": "ch as in church",
+      "d": [
+        "k as in kite",
+        "sh as in ship"
+      ]
+    },
+    {
+      "c": "The ch in \"chiesa\" sounds like",
+      "a": "k as in kite",
+      "d": [
+        "ch as in church",
+        "sh as in ship"
+      ]
+    },
+    {
+      "c": "The g in \"gelato\" sounds like",
+      "a": "j as in jet",
+      "d": [
+        "g as in go",
+        "y as in yes"
+      ]
+    },
+    {
+      "c": "The gn in \"gnocchi\" sounds like",
+      "a": "ny as in canyon",
+      "d": [
+        "ng as in sing",
+        "gn as in signal"
+      ]
+    },
+    {
+      "c": "The sc in \"scienza\" sounds like",
+      "a": "sh as in ship",
+      "d": [
+        "sk as in skip",
+        "s as in sun"
+      ]
+    },
+    {
+      "c": "The h in \"ho\" (I have) is",
+      "a": "silent",
+      "d": [
+        "like English h",
+        "like k"
+      ]
+    },
+    {
+      "c": "The double nn in \"nonno\" is",
+      "a": "held longer than a single n",
+      "d": [
+        "silent",
+        "pronounced like m"
+      ]
+    },
+    {
+      "c": "Lei (formal \"you\") is used with",
+      "a": "strangers and in formal settings",
+      "d": [
+        "close friends",
+        "children and family"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "title": "Fluid mechanics",
+  "note": "Pressure grows with depth: p = p₀ + ρgh. For steady, incompressible, frictionless flow along a streamline, Bernoulli's equation keeps p + ½ρv² + ρgh constant, so faster flow means lower pressure. The Reynolds number Re = ρVL/μ compares inertial to viscous forces and predicts laminar or turbulent flow.",
+  "src": {
+    "t": "University Physics Volume 1, 14.6 Bernoulli's Equation, OpenStax",
+    "u": "https://openstax.org/books/university-physics-volume-1/pages/14-6-bernoullis-equation"
+  },
+  "items": [
+    {
+      "c": "Hydrostatic pressure at depth h below a surface at p₀",
+      "a": "p = p₀ + ρgh",
+      "d": [
+        "p = p₀ − ρgh",
+        "p = p₀ + ρgh²",
+        "p = p₀ + ½ρh"
+      ]
+    },
+    {
+      "c": "Gauge pressure 10 m deep in fresh water",
+      "a": "about 98 kPa, roughly 1 atm",
+      "d": [
+        "about 9.8 kPa",
+        "about 980 kPa",
+        "about 1 kPa"
+      ]
+    },
+    {
+      "c": "Gauge pressure",
+      "a": "pressure measured relative to the atmosphere",
+      "d": [
+        "pressure measured relative to a vacuum",
+        "pressure of a fluid in motion only"
+      ]
+    },
+    {
+      "c": "Absolute pressure",
+      "a": "gauge pressure plus atmospheric pressure",
+      "d": [
+        "gauge pressure minus atmospheric pressure",
+        "pressure at the top of a column"
+      ]
+    },
+    {
+      "c": "Pascal's principle",
+      "a": "pressure on a confined fluid is transmitted undiminished",
+      "d": [
+        "buoyant force equals the weight of displaced fluid",
+        "faster flow has lower pressure"
+      ]
+    },
+    {
+      "c": "Hydraulic pistons of 1 cm² and 100 cm²: force gain",
+      "a": "100 times",
+      "d": [
+        "10 times",
+        "1 time",
+        "10,000 times"
+      ]
+    },
+    {
+      "c": "Archimedes' principle",
+      "a": "buoyant force equals the weight of fluid displaced",
+      "d": [
+        "pressure is transmitted equally in all directions",
+        "flow rate is the same at every section"
+      ]
+    },
+    {
+      "c": "Continuity equation for incompressible flow",
+      "a": "A₁v₁ = A₂v₂",
+      "d": [
+        "A₁/v₁ = A₂/v₂",
+        "p₁A₁ = p₂A₂",
+        "A₁v₁² = A₂v₂²"
+      ]
+    },
+    {
+      "c": "A pipe narrows to half its area. Flow speed?",
+      "a": "doubles",
+      "d": [
+        "halves",
+        "stays the same",
+        "quadruples"
+      ]
+    },
+    {
+      "c": "Bernoulli's equation",
+      "a": "p + ½ρv² + ρgh = constant along a streamline",
+      "d": [
+        "p + ρv + gh = constant everywhere",
+        "pV = constant for a flowing gas"
+      ]
+    },
+    {
+      "c": "Assumptions behind Bernoulli's equation",
+      "a": "steady, incompressible, frictionless flow on a streamline",
+      "d": [
+        "unsteady, turbulent, viscous flow",
+        "compressible flow faster than sound"
+      ]
+    },
+    {
+      "c": "Where fluid speeds up in a horizontal pipe, pressure",
+      "a": "drops",
+      "d": [
+        "rises",
+        "stays the same"
+      ]
+    },
+    {
+      "c": "Venturi meter measures flow rate from",
+      "a": "the pressure drop at a narrowed throat",
+      "d": [
+        "the temperature rise in the pipe",
+        "the spin rate of a paddle"
+      ]
+    },
+    {
+      "c": "Pitot tube measures",
+      "a": "flow speed from stagnation minus static pressure",
+      "d": [
+        "fluid density from buoyancy",
+        "viscosity from drag on a sphere"
+      ]
+    },
+    {
+      "c": "Viscosity",
+      "a": "a fluid's resistance to shearing flow",
+      "d": [
+        "a fluid's mass per unit volume",
+        "a fluid's resistance to compression"
+      ]
+    },
+    {
+      "c": "Reynolds number Re",
+      "a": "ρVL/μ",
+      "d": [
+        "μVL/ρ",
+        "ρV²/μ",
+        "ρgL/μ"
+      ]
+    },
+    {
+      "c": "Reynolds number physically compares",
+      "a": "inertial forces to viscous forces",
+      "d": [
+        "pressure forces to gravity",
+        "gravity to surface tension"
+      ]
+    },
+    {
+      "c": "Laminar flow",
+      "a": "smooth flow in orderly parallel layers",
+      "d": [
+        "chaotic flow full of eddies",
+        "flow faster than the speed of sound"
+      ]
+    },
+    {
+      "c": "Turbulent flow",
+      "a": "chaotic, swirling flow with strong mixing",
+      "d": [
+        "smooth flow in parallel layers",
+        "flow with zero viscosity"
+      ]
+    },
+    {
+      "c": "Low Reynolds number flow tends to be",
+      "a": "laminar",
+      "d": [
+        "turbulent",
+        "supersonic"
+      ]
+    },
+    {
+      "c": "Pipe flow is usually laminar below Re of about",
+      "a": "2,300",
+      "d": [
+        "23",
+        "230,000",
+        "2.3 million"
+      ]
+    },
+    {
+      "c": "No-slip condition",
+      "a": "fluid touching a wall moves with the wall",
+      "d": [
+        "fluid slides freely along a wall",
+        "fluid cannot touch a solid wall"
+      ]
+    },
+    {
+      "c": "Boundary layer",
+      "a": "thin region near a surface where viscosity slows the flow",
+      "d": [
+        "the outer edge of a pipe's wall",
+        "the free surface of a liquid"
+      ]
+    },
+    {
+      "c": "Flow separation",
+      "a": "the boundary layer leaving a surface, forming a wake",
+      "d": [
+        "the flow splitting evenly around a pipe bend",
+        "a liquid separating into two layers"
+      ]
+    },
+    {
+      "c": "Drag equation",
+      "a": "D = ½ Cd ρ V² A",
+      "d": [
+        "D = Cd ρ V A",
+        "D = ½ Cd ρ V A²",
+        "D = Cd ρ V³ A"
+      ]
+    },
+    {
+      "c": "Doubling speed at constant Cd changes drag by",
+      "a": "a factor of 4",
+      "d": [
+        "a factor of 2",
+        "a factor of 8",
+        "nothing"
+      ]
+    },
+    {
+      "c": "Drag coefficient Cd depends on",
+      "a": "shape and orientation, plus Re and Mach effects",
+      "d": [
+        "only the object's mass",
+        "only the fluid's temperature"
+      ]
+    },
+    {
+      "c": "Skin friction drag",
+      "a": "drag from shear stress of fluid along the surface",
+      "d": [
+        "drag from the pressure difference across a wake",
+        "drag from shock waves at high speed"
+      ]
+    },
+    {
+      "c": "Streamlining a car mainly reduces",
+      "a": "pressure drag from flow separation",
+      "d": [
+        "skin friction to zero",
+        "the car's weight"
+      ]
+    },
+    {
+      "c": "Why golf balls have dimples",
+      "a": "a turbulent boundary layer delays separation, cutting drag",
+      "d": [
+        "dimples make the flow fully laminar",
+        "dimples reduce the ball's mass"
+      ]
+    },
+    {
+      "c": "Mach number",
+      "a": "flow speed divided by the speed of sound",
+      "d": [
+        "speed of sound divided by flow speed",
+        "flow speed divided by the speed of light"
+      ]
+    },
+    {
+      "c": "Cavitation",
+      "a": "vapor bubbles forming in low-pressure liquid and collapsing",
+      "d": [
+        "air leaking into a pipe joint",
+        "ice forming in a cold pipe"
+      ]
+    },
+    {
+      "c": "Head loss in a pipe",
+      "a": "energy lost to friction as fluid flows",
+      "d": [
+        "gain in pressure from a pump",
+        "the height of the pipe's outlet"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Speed, pressure, and drag",
+    "text": [
+      "Fluids push on everything they touch. In a still liquid the pressure rises with depth, about one atmosphere for every 10 m of water, which is why dams are thicker at the bottom.",
+      "When a fluid moves, mass must be conserved. In a pipe that narrows, the same volume must pass every second, so the fluid speeds up. Bernoulli's equation then says its pressure falls, because for steady, frictionless, incompressible flow the sum of pressure, kinetic energy per volume, and potential energy per volume stays constant along a streamline. A Venturi meter uses that pressure drop to measure flow.",
+      "Real fluids are viscous. Right at a surface the fluid sticks, so a thin boundary layer forms where speed rises from zero. The Reynolds number, ρVL/μ, compares the inertia of the flow with its viscous forces. At low Reynolds number viscosity wins and the flow is smooth and laminar; at high Reynolds number it becomes turbulent.",
+      "Drag on a body follows D = ½ Cd ρ V² A, so doubling speed quadruples drag. Much of the drag on a blunt car comes from the wake behind it where flow separates, which is why streamlining helps so much."
+    ],
+    "q": [
+      {
+        "q": "Why does fluid pressure drop in a pipe's narrow section?",
+        "o": [
+          "The fluid speeds up there",
+          "The fluid cools there",
+          "The fluid becomes denser there"
+        ],
+        "k": 0
+      },
+      {
+        "q": "At high Reynolds number, flow tends to be",
+        "o": [
+          "laminar",
+          "turbulent",
+          "motionless"
+        ],
+        "k": 1
+      },
+      {
+        "q": "If a car's speed doubles, its drag becomes about",
+        "o": [
+          "twice as large",
+          "half as large",
+          "four times as large"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

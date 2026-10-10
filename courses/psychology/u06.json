@@ -1,0 +1,56 @@
+{
+  "title": "Memory: encoding, storage, retrieval",
+  "note": "Memory has three jobs: encoding gets information in, storage keeps it, and retrieval brings it back. Information moves from brief sensory memory to limited short-term memory to long-term memory. Processing meaning deeply, and linking new facts to what you already know, makes them easier to retrieve.",
+  "src": { "t": "OpenStax Psychology 2e, 8.1 How Memory Functions", "u": "https://openstax.org/books/psychology-2e/pages/8-1-how-memory-functions" },
+  "items": [
+    { "c": "Encoding", "a": "Getting information into memory", "d": ["Keeping information over time", "Bringing information back to awareness", "Losing information from memory"] },
+    { "c": "Storage (memory)", "a": "Retaining encoded information over time", "d": ["Getting information into memory", "Bringing information back to awareness", "Grouping items into chunks"] },
+    { "c": "Retrieval", "a": "Getting information back out of memory", "d": ["Getting information into memory", "Holding information for seconds", "Linking new facts to old ones"] },
+    { "c": "Automatic processing", "a": "Effortless encoding of details like time and place", "d": ["Deliberate encoding that takes attention", "Repeating a list until it sticks", "Grouping digits into chunks"] },
+    { "c": "Effortful processing", "a": "Encoding that requires attention and work", "d": ["Encoding that happens without effort", "Forgetting caused by new learning", "Recall triggered by a smell"] },
+    { "c": "Best-remembered encoding (Craik and Tulving)", "a": "Semantic encoding of meaning", "d": ["Acoustic encoding of sound", "Visual encoding of appearance", "Encoding of letter case"] },
+    { "c": "Self-reference effect", "a": "Better memory for information tied to yourself", "d": ["Better memory for the first items in a list", "Better memory in the place you learned", "Worse memory for related information"] },
+    { "c": "Three stages in the Atkinson-Shiffrin model", "a": "Sensory, short-term, long-term memory", "d": ["Encoding, storage, retrieval", "Episodic, semantic, procedural memory", "Recall, recognition, relearning"] },
+    { "c": "How long sensory memory lasts", "a": "A few seconds at most", "d": ["About 15 to 30 seconds", "About 10 minutes", "Several days"] },
+    { "c": "How long short-term memory lasts unrehearsed", "a": "About 15 to 30 seconds", "d": ["Under half a second", "About an hour", "About a week"] },
+    { "c": "Miller's estimate of short-term capacity", "a": "7 plus or minus 2 items", "d": ["2 plus or minus 1 items", "20 plus or minus 5 items", "An unlimited number of items"], "ex": "Later work (Cowan) suggests closer to 4 plus or minus 1." },
+    { "c": "Capacity of long-term memory", "a": "Essentially unlimited", "d": ["About 7 items", "About 4 items", "About 1,000 facts"] },
+    { "c": "Chunking", "a": "Grouping items into larger meaningful units", "d": ["Repeating items over and over", "Linking items to a location", "Forgetting items in the middle of a list"], "ex": "5205550467 becomes 520-555-0467." },
+    { "c": "Working memory (Baddeley and Hitch)", "a": "Short-term memory as an active, multipart workspace", "d": ["Permanent storage of facts", "Memory for motor skills", "Memory for one's own life events"] },
+    { "c": "Phonological loop", "a": "Holds sounds and words in working memory", "d": ["Holds images and locations", "Directs attention among parts", "Stores skills like riding a bike"] },
+    { "c": "Visuospatial sketchpad", "a": "Holds images and spatial layout briefly", "d": ["Holds sounds and words", "Stores facts for years", "Coordinates muscle memory"] },
+    { "c": "Central executive", "a": "Directs attention and controls working memory", "d": ["Holds speech sounds", "Stores childhood memories", "Relays signals to the cortex"] },
+    { "c": "Maintenance rehearsal", "a": "Repeating information to keep it in mind", "d": ["Linking information to what you know", "Grouping items into chunks", "Testing yourself after a delay"] },
+    { "c": "Elaborative rehearsal", "a": "Linking new information to what you already know", "d": ["Repeating information word for word", "Reading notes many times", "Studying in the same room each day"] },
+    { "c": "Levels of processing (Craik and Lockhart)", "a": "Deeper processing produces stronger memories", "d": ["Memories decay at a fixed rate", "Short-term memory holds seven items", "Recall depends on the study room"] },
+    { "c": "Explicit memory", "a": "Memory you can consciously declare", "d": ["Memory shown through performance", "Memory for skills and habits", "Memory lasting under a second"] },
+    { "c": "Episodic memory", "a": "Memory for specific personal events", "d": ["Memory for general facts and concepts", "Memory for motor skills", "Memory shown only through priming"], "ex": "Remembering your last birthday dinner." },
+    { "c": "Semantic memory", "a": "Memory for facts, concepts and word meanings", "d": ["Memory for specific personal events", "Memory for how to ride a bike", "Memory for conditioned emotions"], "ex": "Knowing that Paris is the capital of France." },
+    { "c": "Implicit memory", "a": "Memory shown through behavior, not conscious recall", "d": ["Memory you can consciously describe", "Memory for events in your life", "Memory for facts learned in class"] },
+    { "c": "Procedural memory", "a": "Memory for skills, like riding a bicycle", "d": ["Memory for facts and definitions", "Memory for one dramatic event", "Memory held in the phonological loop"] },
+    { "c": "Priming", "a": "Earlier exposure shapes a later response unconsciously", "d": ["Deliberately repeating a list", "Remembering where you parked", "Forgetting caused by old learning"] },
+    { "c": "Recall", "a": "Retrieving information without cues, as on an essay", "d": ["Picking out learned information, as on multiple choice", "Learning material again faster", "Feeling a memory is on the tip of the tongue"] },
+    { "c": "Recognition", "a": "Identifying learned information, as on multiple choice", "d": ["Retrieving information without cues", "Learning information again more quickly", "Storing information for a short time"] },
+    { "c": "Relearning", "a": "Learning known material again, usually faster", "d": ["Retrieving material without cues", "Picking the right answer from options", "Learning material for the first time"] },
+    { "c": "Spreading activation", "a": "Activating one concept primes linked concepts", "d": ["Memories spreading out and fading", "Signals jumping between myelin gaps", "Rehearsal spreading over days"] },
+    { "c": "Encoding specificity principle", "a": "Cues work best when they match how a memory was encoded", "d": ["Deeper processing always beats repetition", "Short-term memory holds about seven items", "Memories fade at a steady rate"] },
+    { "c": "Context-dependent memory", "a": "Recall is better in the setting where you learned", "d": ["Recall is better for personal information", "Recall is better for the first and last items", "Recall is better after sleep deprivation"] },
+    { "c": "Structure key to forming new explicit memories", "a": "Hippocampus", "d": ["Cerebellum", "Medulla", "Occipital lobe"], "ex": "Patient H.M. could no longer form new explicit memories after its removal." },
+    { "c": "Brain structure supporting procedural skills", "a": "Cerebellum", "d": ["Hippocampus", "Amygdala", "Thalamus"] },
+    { "c": "Engram", "a": "The physical trace of a memory in the brain", "d": ["A false memory planted by questions", "A memory of a shocking event", "A group of items held as one chunk"] }
+  ],
+  "read": {
+    "title": "Why meaning beats repetition",
+    "text": [
+      "Imagine two students learning the term 'proactive interference.' The first repeats the definition ten times. The second asks what it means, connects it to writing last year's date in January, and explains it in her own words. A week later, the second student is far more likely to remember it.",
+      "Craik and Lockhart's levels-of-processing idea explains why. Shallow processing, such as noticing how a word looks or sounds, leaves a weak trace. Deep processing, thinking about meaning and linking new information to what you already know, leaves a richer one. Studies by Craik and Tulving found that words judged for meaning were remembered best.",
+      "Elaborative rehearsal also builds retrieval cues. Memory is organized as a network of linked concepts, so a fact with many connections has many paths back to it. Relating material to yourself is especially powerful, a finding called the self-reference effect.",
+      "Repetition is not useless. Maintenance rehearsal keeps a phone number alive in short-term memory for a few seconds. But short-term memory holds only a handful of items for about 15 to 30 seconds. Getting information into long-term memory, where capacity is essentially unlimited, works best through meaning."
+    ],
+    "q": [
+      { "q": "Why did the second student remember the term better?", "o": ["She repeated it more times", "She processed its meaning and linked it to what she knew", "She studied it later at night", "She used maintenance rehearsal"], "k": 1 },
+      { "q": "In a memory network, a fact with many connections", "o": ["Is harder to find", "Has more paths for retrieval", "Stays in short-term memory"], "k": 1 },
+      { "q": "What is maintenance rehearsal good for, according to the reading?", "o": ["Building rich long-term memories", "Keeping information briefly in short-term memory", "Creating the self-reference effect"], "k": 1 }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "title": "Reliability, safety and failure analysis",
+  "note": "Reliability is the probability that a system performs its function for a stated time under stated conditions. Series systems are only as reliable as the product of their parts; redundancy in parallel raises reliability. FMEA works bottom-up through each way a part can fail. Famous failures mostly trace to untested assumptions, unchecked changes, and ignored warnings.",
+  "src": {
+    "t": "Failure Mode and Effects Analysis (FMEA), ASQ",
+    "u": "https://asq.org/quality-resources/fmea"
+  },
+  "items": [
+    {
+      "c": "Reliability (engineering)",
+      "a": "probability a system works as intended for a set time",
+      "d": [
+        "the average cost of repairing a system",
+        "the maximum load a system can carry"
+      ]
+    },
+    {
+      "c": "MTBF",
+      "a": "mean time between failures",
+      "d": [
+        "maximum time before fracture",
+        "minimum testing before field use"
+      ]
+    },
+    {
+      "c": "MTBF for a constant failure rate λ",
+      "a": "1/λ",
+      "d": [
+        "λ",
+        "λ²",
+        "1 − λ"
+      ]
+    },
+    {
+      "c": "Three phases of the bathtub curve",
+      "a": "early failures, useful life, wear-out",
+      "d": [
+        "design, build, test",
+        "elastic, plastic, fracture"
+      ]
+    },
+    {
+      "c": "Reliability of components in series",
+      "a": "the product of the component reliabilities",
+      "d": [
+        "the sum of the component reliabilities",
+        "the reliability of the best component"
+      ]
+    },
+    {
+      "c": "Two parts in series, each 0.9 reliable",
+      "a": "0.81",
+      "d": [
+        "0.99",
+        "0.9",
+        "1.8"
+      ]
+    },
+    {
+      "c": "Two redundant parts in parallel, each 0.9 reliable",
+      "a": "0.99",
+      "d": [
+        "0.81",
+        "0.9",
+        "1.8"
+      ]
+    },
+    {
+      "c": "Redundancy",
+      "a": "extra components so one failure does not stop the system",
+      "d": [
+        "removing parts to simplify a design",
+        "testing a part twice"
+      ]
+    },
+    {
+      "c": "Common-mode failure",
+      "a": "one cause disabling redundant components at once",
+      "d": [
+        "a failure that never repeats",
+        "a failure in only the cheapest part"
+      ]
+    },
+    {
+      "c": "Single point of failure",
+      "a": "a part whose failure alone stops the whole system",
+      "d": [
+        "a part with a backup",
+        "the first part to wear out"
+      ]
+    },
+    {
+      "c": "Fail-safe design",
+      "a": "a design that defaults to a safe state when something fails",
+      "d": [
+        "a design that can never fail",
+        "a design with no moving parts"
+      ]
+    },
+    {
+      "c": "FMEA",
+      "a": "failure mode and effects analysis",
+      "d": [
+        "fatigue and materials engineering assessment",
+        "factor of margin estimation analysis"
+      ]
+    },
+    {
+      "c": "FMEA risk priority number (RPN)",
+      "a": "severity × occurrence × detection",
+      "d": [
+        "severity + occurrence + detection",
+        "cost × probability"
+      ]
+    },
+    {
+      "c": "Direction of analysis in FMEA",
+      "a": "bottom-up, from part failures to their effects",
+      "d": [
+        "top-down, from a system failure to its causes",
+        "from cost to schedule"
+      ]
+    },
+    {
+      "c": "Fault tree analysis",
+      "a": "top-down logic diagram tracing a failure to its causes",
+      "d": [
+        "bottom-up table of each part's failure modes",
+        "a chart of failure rate over time"
+      ]
+    },
+    {
+      "c": "Root cause analysis",
+      "a": "finding the underlying reason a failure occurred",
+      "d": [
+        "replacing the failed part quickly",
+        "assigning blame to an operator"
+      ]
+    },
+    {
+      "c": "Year the first Tacoma Narrows Bridge collapsed",
+      "a": "1940",
+      "d": [
+        "1950",
+        "1931",
+        "1967"
+      ]
+    },
+    {
+      "c": "Mechanism of the Tacoma Narrows collapse",
+      "a": "aeroelastic flutter, a self-excited twisting",
+      "d": [
+        "an earthquake shaking the towers",
+        "corrosion of the main cables"
+      ]
+    },
+    {
+      "c": "Tacoma Narrows deck feature that made it too flexible",
+      "a": "shallow solid plate girders instead of deep trusses",
+      "d": [
+        "concrete towers instead of steel",
+        "too many suspender cables"
+      ]
+    },
+    {
+      "c": "Main engineering lesson of Tacoma Narrows",
+      "a": "test bridge decks for aerodynamic stability",
+      "d": [
+        "never build suspension bridges",
+        "use concrete instead of steel"
+      ]
+    },
+    {
+      "c": "Space Shuttle Challenger was lost in",
+      "a": "January 1986",
+      "d": [
+        "February 2003",
+        "July 1969",
+        "April 1981"
+      ]
+    },
+    {
+      "c": "Technical cause of the Challenger disaster",
+      "a": "O-ring seals failing in a solid rocket booster joint",
+      "d": [
+        "foam striking the wing's leading edge",
+        "a main engine turbopump explosion"
+      ]
+    },
+    {
+      "c": "Condition that stiffened Challenger's O-rings",
+      "a": "very cold weather at launch",
+      "d": [
+        "high humidity at launch",
+        "excess fuel pressure"
+      ]
+    },
+    {
+      "c": "Organizational failure behind Challenger",
+      "a": "engineers' warnings were overruled under schedule pressure",
+      "d": [
+        "no engineers had studied the joint",
+        "the crew chose to launch against advice"
+      ]
+    },
+    {
+      "c": "Normalization of deviance",
+      "a": "gradually accepting known flaws because nothing bad happened yet",
+      "d": [
+        "standardizing parts across a fleet",
+        "correcting a design after every failure"
+      ]
+    },
+    {
+      "c": "Year of the Hyatt Regency walkway collapse",
+      "a": "1981",
+      "d": [
+        "1971",
+        "1991",
+        "1986"
+      ]
+    },
+    {
+      "c": "Cause of the Hyatt Regency walkway collapse",
+      "a": "a hanger-rod change that doubled load on a beam connection",
+      "d": [
+        "an earthquake during a dance",
+        "corroded steel cables"
+      ]
+    },
+    {
+      "c": "Main lesson of the Hyatt Regency collapse",
+      "a": "engineers must check design changes and shop drawings",
+      "d": [
+        "walkways should never be built indoors",
+        "steel cannot be used in hotels"
+      ]
+    },
+    {
+      "c": "Main reason Liberty ship hulls cracked",
+      "a": "their steel became brittle in cold water",
+      "d": [
+        "their rivets corroded rapidly",
+        "their engines vibrated too strongly"
+      ]
+    },
+    {
+      "c": "Where Liberty ship cracks often began",
+      "a": "at square hatch corners, a stress concentration",
+      "d": [
+        "at the propeller shaft",
+        "at the smooth middle of hull plates"
+      ]
+    },
+    {
+      "c": "Why welded Liberty hulls let cracks run so far",
+      "a": "the welded hull had no plate seams to stop a crack",
+      "d": [
+        "welds always melt in cold water",
+        "welding removed all carbon from the steel"
+      ]
+    },
+    {
+      "c": "Ductile-to-brittle transition temperature",
+      "a": "temperature below which a steel fractures in a brittle way",
+      "d": [
+        "temperature at which steel melts",
+        "temperature at which steel starts to rust"
+      ]
+    },
+    {
+      "c": "Standard test for a steel's notch toughness",
+      "a": "Charpy impact test",
+      "d": [
+        "Rockwell hardness test",
+        "tensile test"
+      ]
+    },
+    {
+      "c": "Who traced Liberty ship cracks to brittle steel",
+      "a": "Constance Tipper",
+      "d": [
+        "Roger Boisjoly",
+        "Othmar Ammann"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Lessons written in failure",
+    "text": [
+      "Engineering learns hardest from its failures. In 1940 the new Tacoma Narrows Bridge twisted itself apart in a 40 mph wind. Its slender deck of shallow plate girders was too flexible, and wind drove a self-excited twisting called flutter. Bridge decks have been tested for aerodynamic stability ever since.",
+      "During World War II, cracks raced through the welded hulls of Liberty ships, and a few broke in two. Constance Tipper showed that the steel turned brittle in cold water. Cracks started at square hatch corners, and the continuous welded hull had no seams to stop them. Engineers now specify steels tough at low temperature and avoid sharp corners.",
+      "In 1981 two walkways fell in the Kansas City Hyatt Regency, killing 114 people. A change from one continuous rod to two offset rods doubled the load on a connection, and the change was approved without being checked by calculation.",
+      "In January 1986, cold weather stiffened the O-rings sealing Space Shuttle Challenger's booster joints. Engineers had warned against launching in the cold, but their warning was overruled.",
+      "The physics in each case was known. The failures came from untested assumptions, unchecked changes, and ignored warnings, which is why tools such as FMEA and design reviews exist."
+    ],
+    "q": [
+      {
+        "q": "What made the Hyatt Regency connection fail?",
+        "o": [
+          "A rod change that doubled its load",
+          "An earthquake",
+          "Corrosion of the walkway steel"
+        ],
+        "k": 0
+      },
+      {
+        "q": "According to the reading, what did Constance Tipper find?",
+        "o": [
+          "Welds were the main cause",
+          "Ships were overloaded",
+          "The steel became brittle in cold water"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What common thread links these failures?",
+        "o": [
+          "Unknown laws of physics",
+          "Untested assumptions, unchecked changes, and ignored warnings",
+          "Bad luck that no one could foresee"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

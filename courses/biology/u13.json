@@ -1,0 +1,56 @@
+{
+  "title": "Evolution and natural selection",
+  "note": "Evolution is a change in allele frequencies in a population over generations. Natural selection, genetic drift, gene flow, mutation, and nonrandom mating all cause it; only natural selection consistently produces adaptation. Individuals do not evolve; populations do.",
+  "src": { "t": "OpenStax Biology 2e, Ch. 19: The Evolution of Populations (with Ch. 18)", "u": "https://openstax.org/books/biology-2e/pages/19-introduction" },
+  "items": [
+    { "c": "Natural selection", "a": "Heritable traits that aid survival and reproduction become more common", "d": ["Traits acquired during life are passed on", "All variants leave equal numbers of offspring"] },
+    { "c": "Co-discoverer of natural selection with Darwin", "a": "Alfred Russel Wallace", "d": ["Jean-Baptiste Lamarck", "Gregor Mendel"] },
+    { "c": "Lamarck's proposed mechanism of change", "a": "Traits acquired during life are inherited", "d": ["Species share common ancestors", "Earth is very old"] },
+    { "c": "What evolves: individuals or populations?", "a": "Populations", "d": ["Individuals"] },
+    { "c": "Adaptation", "a": "Heritable trait that improves fitness in an environment", "d": ["Change an individual makes during its life", "Any random mutation"] },
+    { "c": "Relative fitness", "a": "Reproductive success compared with others in the population", "d": ["Physical strength compared with rivals", "Length of life compared with rivals"] },
+    { "c": "Homologous structures", "a": "Similar structures inherited from a common ancestor", "d": ["Similar functions that evolved independently", "Structures with no current function"], "ex": "Human arms and bat wings share the same bones." },
+    { "c": "Analogous structures", "a": "Similar functions that evolved independently", "d": ["Similar structures from a common ancestor", "Reduced structures with no function"], "ex": "Bird and insect wings." },
+    { "c": "Convergent evolution", "a": "Unrelated lineages evolve similar traits", "d": ["Related lineages grow more different", "One lineage splits into many species"] },
+    { "c": "Vestigial structure", "a": "Reduced structure with little or no current function", "d": ["Structure that evolved independently twice", "Newly evolved structure"] },
+    { "c": "Biogeography", "a": "Study of where species live and why", "d": ["Study of fossil ages", "Study of embryo development"] },
+    { "c": "Gene pool", "a": "All the alleles in a population", "d": ["All the genes in one individual", "All the species in a community"] },
+    { "c": "Microevolution", "a": "Change in allele frequencies within a population", "d": ["Formation of new higher groups like phyla", "Change in an individual's genotype"] },
+    { "c": "Hardy–Weinberg genotype equation", "a": "p² + 2pq + q² = 1", "d": ["p + q = 2", "p² + q² = 1"] },
+    { "c": "If q = 0.3, frequency of homozygous recessives", "a": "0.09", "d": ["0.3", "0.49"] },
+    { "c": "Heterozygote frequency if p = 0.6, q = 0.4", "a": "0.48", "d": ["0.24", "0.36"] },
+    { "c": "Hardy–Weinberg equilibrium requires…", "a": "no selection, mutation, migration, drift, or nonrandom mating", "d": ["strong selection for the best genotype", "a small, isolated population"] },
+    { "c": "Genetic drift", "a": "Random change in allele frequencies by chance", "d": ["Movement of alleles between populations", "Nonrandom survival of the fittest"] },
+    { "c": "Drift has the strongest effect in…", "a": "small populations", "d": ["large populations", "rapidly growing populations"] },
+    { "c": "Bottleneck effect", "a": "Drift after a disaster sharply shrinks a population", "d": ["Drift when a few individuals found a colony", "Selection favoring one extreme"] },
+    { "c": "Founder effect", "a": "Drift when a few individuals start a new population", "d": ["Drift after a disaster kills most of a population", "Mixing of two large populations"] },
+    { "c": "Gene flow", "a": "Movement of alleles between populations", "d": ["Random loss of alleles in small groups", "Formation of new alleles by mutation"] },
+    { "c": "Ultimate source of new alleles", "a": "Mutation", "d": ["Gene flow", "Genetic drift"] },
+    { "c": "Stabilizing selection", "a": "Favors intermediate phenotypes", "d": ["Favors one extreme phenotype", "Favors both extremes over the middle"], "ex": "Human birth weight." },
+    { "c": "Directional selection", "a": "Favors one extreme phenotype", "d": ["Favors intermediate phenotypes", "Favors both extremes over the middle"], "ex": "Dark peppered moths in sooty forests." },
+    { "c": "Diversifying (disruptive) selection", "a": "Favors both extremes over the middle", "d": ["Favors intermediate phenotypes", "Favors one extreme phenotype"] },
+    { "c": "Frequency-dependent selection", "a": "A phenotype's fitness depends on how common it is", "d": ["Fitness depends only on body size", "Rare alleles are always lost"] },
+    { "c": "Sexual selection", "a": "Selection for traits that improve mating success", "d": ["Selection for traits that improve digestion", "Random mating in a population"] },
+    { "c": "Biological species concept", "a": "Populations that interbreed and produce fertile offspring", "d": ["Organisms that look alike", "Organisms living in the same place"] },
+    { "c": "Prezygotic barrier", "a": "Prevents mating or fertilization between species", "d": ["Makes hybrid offspring sterile", "Moves alleles between populations"] },
+    { "c": "Postzygotic barrier", "a": "Acts after fertilization, e.g. sterile hybrids", "d": ["Prevents mating between species", "Separates species by geography"], "ex": "A mule is a sterile horse–donkey hybrid." },
+    { "c": "Allopatric speciation", "a": "Speciation after geographic separation", "d": ["Speciation within the same area", "Speciation by hybrid fusion"] },
+    { "c": "Sympatric speciation", "a": "Speciation without geographic separation", "d": ["Speciation after a mountain range divides a population", "Speciation by migration between islands"], "ex": "Polyploidy in plants is one route." },
+    { "c": "Adaptive radiation", "a": "One ancestor rapidly diversifies into many species", "d": ["Many species merge into one", "Unrelated species evolve similar traits"], "ex": "Darwin's finches in the Galápagos." },
+    { "c": "Punctuated equilibrium", "a": "Long periods of little change broken by rapid change", "d": ["Slow, steady change over time", "No change in species over time"] }
+  ],
+  "read": {
+    "title": "How a population changes",
+    "text": [
+      "Charles Darwin and Alfred Russel Wallace each reasoned their way to natural selection from a few observations. Individuals in a population vary, and much of that variation is inherited. More offspring are born than can survive. Those whose traits suit the environment tend to survive and reproduce more, so their traits become more common over generations.",
+      "Modern biology states the same idea in terms of alleles. A population's gene pool holds all its alleles, and evolution is a change in their frequencies. The Hardy–Weinberg principle describes a population that is not evolving: no selection, no mutation, no migration, a population large enough that chance has no effect, and random mating. Real populations always break some of these conditions, and each break is a cause of evolution.",
+      "Natural selection is the only cause that steadily fits organisms to their environment. Genetic drift changes allele frequencies by chance and matters most in small populations, such as those that pass through a bottleneck or are founded by a few colonists. Gene flow moves alleles between populations and tends to make them more alike. Mutation supplies the new alleles that all the other forces act on.",
+      "Selection acts on individuals, but it is the population that evolves."
+    ],
+    "q": [
+      { "q": "In allele terms, what is evolution?", "o": ["A change in allele frequencies in a population", "A change in one individual's DNA", "The appearance of a new species only"], "k": 0 },
+      { "q": "Which cause of evolution steadily produces adaptation?", "o": ["Genetic drift", "Gene flow", "Natural selection", "Mutation"], "k": 2 },
+      { "q": "Where does genetic drift matter most?", "o": ["Large populations", "Small populations", "Populations with no mutation"], "k": 1 }
+    ]
+  }
+}

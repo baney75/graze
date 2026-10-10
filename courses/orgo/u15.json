@@ -1,0 +1,332 @@
+{
+  "title": "Amines",
+  "note": "An amine's lone pair makes it a base and a nucleophile. Compare base strength with the pKa of the conjugate ammonium ion: a higher pKa means a stronger base. Alkyl groups raise basicity; delocalizing the lone pair into a ring (aniline) or a carbonyl (amide) lowers it sharply.",
+  "src": {
+    "t": "LibreTexts, Organic Chemistry (Morsch et al.), Ch. 24 Amines and Heterocycles",
+    "u": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/24%3A_Amines_and_Heterocycles"
+  },
+  "items": [
+    {
+      "c": "Source of an amine's basicity",
+      "a": "the lone pair on nitrogen",
+      "d": [
+        "the N–H protons",
+        "an empty orbital on nitrogen"
+      ]
+    },
+    {
+      "c": "Higher pKa of R–NH₃⁺ means the amine is",
+      "a": "a stronger base",
+      "d": [
+        "a weaker base",
+        "unchanged in basicity"
+      ]
+    },
+    {
+      "c": "pKa of methylammonium, CH₃NH₃⁺",
+      "a": "about 10.6",
+      "d": [
+        "about 4.6",
+        "about 36"
+      ]
+    },
+    {
+      "c": "pKa of anilinium, C₆H₅NH₃⁺",
+      "a": "about 4.6",
+      "d": [
+        "about 10.6",
+        "about 16"
+      ]
+    },
+    {
+      "c": "Stronger base: methylamine or ammonia?",
+      "a": "methylamine; the alkyl group donates electrons",
+      "d": [
+        "ammonia; it is less crowded",
+        "they are equally basic"
+      ]
+    },
+    {
+      "c": "Why aniline is less basic than cyclohexylamine",
+      "a": "N's lone pair is delocalized into the ring",
+      "d": [
+        "the ring donates electrons to nitrogen",
+        "aniline's nitrogen has no lone pair"
+      ]
+    },
+    {
+      "c": "Why amides are not protonated by aqueous acid",
+      "a": "protonating N would lose amide resonance",
+      "d": [
+        "amides have no lone pair on N",
+        "amides are stronger bases than amines"
+      ]
+    },
+    {
+      "c": "Pyridine vs pyrrole as bases",
+      "a": "pyridine is basic; pyrrole is barely basic",
+      "d": [
+        "pyrrole is far more basic than pyridine",
+        "both are strong bases, like NaOH"
+      ],
+      "ex": "Pyrrole's N lone pair is part of its aromatic sextet."
+    },
+    {
+      "c": "Hybridization and shape at N in trimethylamine",
+      "a": "sp³, trigonal pyramidal",
+      "d": [
+        "sp², trigonal planar",
+        "sp, linear"
+      ]
+    },
+    {
+      "c": "Why aqueous HCl pulls an amine out of ether",
+      "a": "it forms a water-soluble ammonium salt",
+      "d": [
+        "it oxidizes the amine",
+        "it converts the amine to an amide"
+      ]
+    },
+    {
+      "c": "NH₃ + an alkyl halide, uncontrolled",
+      "a": "a mixture of 1°, 2°, 3° amines and 4° salt",
+      "d": [
+        "pure primary amine only",
+        "an amide and HX"
+      ],
+      "ex": "Each product amine is still nucleophilic and reacts again."
+    },
+    {
+      "c": "Gabriel synthesis",
+      "a": "phthalimide route to a pure primary amine",
+      "d": [
+        "route from an amide to an amine with one fewer C",
+        "methylation of an amine to a 4° salt"
+      ]
+    },
+    {
+      "c": "NaN₃ + a 1° alkyl halide, then LiAlH₄",
+      "a": "primary amine, without overalkylation",
+      "d": [
+        "secondary amine",
+        "nitrile"
+      ]
+    },
+    {
+      "c": "Reductive amination",
+      "a": "aldehyde or ketone + amine + reducing agent → amine",
+      "d": [
+        "amine + excess CH₃I → quaternary salt",
+        "amide + Br₂, NaOH → amine"
+      ]
+    },
+    {
+      "c": "Cyclohexanone + CH₃NH₂, NaBH(OAc)₃",
+      "a": "N-methylcyclohexylamine",
+      "d": [
+        "cyclohexanol",
+        "N-methylcyclohexanecarboxamide"
+      ]
+    },
+    {
+      "c": "1-bromobutane + NaCN, then LiAlH₄",
+      "a": "pentylamine; one carbon added",
+      "d": [
+        "butylamine; no carbon added",
+        "pentanamide; one carbon added"
+      ]
+    },
+    {
+      "c": "Hofmann rearrangement",
+      "a": "1° amide + Br₂, NaOH → amine with one fewer C",
+      "d": [
+        "4° ammonium + Ag₂O, heat → alkene",
+        "acid chloride + NH₃ → amide"
+      ]
+    },
+    {
+      "c": "Hofmann rearrangement of butanamide",
+      "a": "propylamine + CO₂",
+      "d": [
+        "butylamine",
+        "pentylamine"
+      ]
+    },
+    {
+      "c": "Curtius rearrangement starts from",
+      "a": "an acyl azide, heated",
+      "d": [
+        "a primary amide with Br₂",
+        "a nitrile with LiAlH₄"
+      ]
+    },
+    {
+      "c": "Nitrobenzene + SnCl₂ or Fe, H₃O⁺",
+      "a": "aniline",
+      "d": [
+        "phenol",
+        "benzonitrile"
+      ]
+    },
+    {
+      "c": "Primary or secondary amine + an acid chloride",
+      "a": "amide",
+      "d": [
+        "imine",
+        "ester"
+      ]
+    },
+    {
+      "c": "Can a tertiary amine be acylated to an amide?",
+      "a": "no; it has no N–H to lose",
+      "d": [
+        "yes, readily at room temperature",
+        "yes, but only with heat"
+      ]
+    },
+    {
+      "c": "Hofmann elimination",
+      "a": "E2 of a 4° ammonium salt, giving the less substituted alkene",
+      "d": [
+        "E1 of an amine, giving the more substituted alkene",
+        "SN2 of an amine with CH₃I"
+      ]
+    },
+    {
+      "c": "Reagents for a Hofmann elimination",
+      "a": "excess CH₃I, then Ag₂O and heat",
+      "d": [
+        "Br₂ and NaOH",
+        "HNO₂ and cold acid"
+      ]
+    },
+    {
+      "c": "Hofmann elimination of 2-hexanamine",
+      "a": "mainly 1-hexene",
+      "d": [
+        "mainly 2-hexene",
+        "hexane"
+      ]
+    },
+    {
+      "c": "Aniline + Br₂ in water",
+      "a": "2,4,6-tribromoaniline",
+      "d": [
+        "4-bromoaniline only",
+        "3-bromoaniline"
+      ]
+    },
+    {
+      "c": "Why acetylate aniline before bromination",
+      "a": "to tame the strongly activating NH₂",
+      "d": [
+        "to make the ring meta directing",
+        "to remove the nitrogen"
+      ]
+    },
+    {
+      "c": "ArNH₂ + HNO₂ in cold acid",
+      "a": "arenediazonium salt, ArN₂⁺",
+      "d": [
+        "nitroarene, ArNO₂",
+        "azo compound, Ar–N=N–Ar"
+      ]
+    },
+    {
+      "c": "ArN₂⁺ + CuBr",
+      "a": "aryl bromide (Sandmeyer reaction)",
+      "d": [
+        "aryl fluoride",
+        "phenol"
+      ]
+    },
+    {
+      "c": "ArN₂⁺ + CuCN",
+      "a": "aryl nitrile, Ar–C≡N",
+      "d": [
+        "aryl amide, Ar–CONH₂",
+        "aryl amine, Ar–NH₂"
+      ]
+    },
+    {
+      "c": "ArN₂⁺ + NaI",
+      "a": "aryl iodide, Ar–I",
+      "d": [
+        "phenol, Ar–OH",
+        "aryl amine, Ar–NH₂"
+      ]
+    },
+    {
+      "c": "ArN₂⁺ + H₃PO₂",
+      "a": "arene; N₂⁺ replaced by H",
+      "d": [
+        "phenol; N₂⁺ replaced by OH",
+        "aryl phosphate"
+      ]
+    },
+    {
+      "c": "ArN₂⁺ + Cu₂O in aqueous Cu(NO₃)₂",
+      "a": "phenol",
+      "d": [
+        "aniline",
+        "benzoic acid"
+      ]
+    },
+    {
+      "c": "ArN₂⁺ + phenol or an arylamine",
+      "a": "azo compound (diazonium coupling)",
+      "d": [
+        "diaryl ether",
+        "biphenyl"
+      ]
+    },
+    {
+      "c": "Why diazonium salts are so versatile",
+      "a": "N₂ is an excellent leaving group",
+      "d": [
+        "they are strong bases",
+        "they are stable to strong heating"
+      ]
+    }
+  ],
+  "read": {
+    "title": "The lone pair decides",
+    "text": [
+      "Almost everything an amine does comes from the lone pair on nitrogen. It grabs protons, which makes amines the most common organic bases, and it attacks electrophiles, which makes amines good nucleophiles.",
+      "To compare base strength, chemists look at the conjugate acid. Methylammonium has a pKa near 10.6, a bit higher than ammonium's 9.3, because the methyl group pushes electron density onto nitrogen. Anilinium's pKa is only about 4.6. In aniline the lone pair is shared with the benzene ring, so it is less available for a proton. Amides go further: their lone pair is tied up with the carbonyl, and they are not protonated by dilute aqueous acid at all.",
+      "Making amines cleanly takes care. Ammonia and alkyl halides give mixtures, because each new amine is still nucleophilic and reacts again. Better routes build the C–N bond in a form that cannot overreact, then reduce it: azides, nitriles, and amides all become amines with LiAlH₄. Reductive amination joins a ketone or aldehyde to an amine and reduces the C=N in one pot. On aromatic rings, nitration followed by reduction gives anilines, and the diazonium salts made from them can be turned into halides, nitriles, and phenols."
+    ],
+    "q": [
+      {
+        "q": "Why is aniline a weaker base than methylamine?",
+        "o": [
+          "Its lone pair is shared with the ring",
+          "It has more alkyl groups",
+          "Its nitrogen has a positive charge",
+          "It is a quaternary salt"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why does ammonia plus an alkyl halide give a mixture?",
+        "o": [
+          "Halides are poor electrophiles",
+          "Ammonia is not nucleophilic",
+          "Each new amine reacts again",
+          "The amine is oxidized"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Which pKa belongs to methylammonium, according to the reading?",
+        "o": [
+          "About 4.6",
+          "About 9.3",
+          "About 10.6",
+          "About 36"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

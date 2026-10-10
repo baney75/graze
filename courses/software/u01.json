@@ -1,0 +1,311 @@
+{
+  "title": "Computational thinking and complexity",
+  "note": "Big-O describes how cost grows with input size n, as an upper bound that ignores constant factors and lower-order terms. Big-Ω is a lower bound and Big-Θ is a tight bound. Common classes from fastest to slowest: O(1), O(log n), O(n), O(n log n), O(n²), O(2ⁿ), O(n!).",
+  "src": {
+    "t": "MIT OpenCourseWare 6.006, Introduction to Algorithms",
+    "u": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/"
+  },
+  "items": [
+    {
+      "c": "Decomposition (computational thinking)",
+      "a": "breaking a problem into smaller parts",
+      "d": [
+        "hiding details that do not matter",
+        "finding similarities between problems"
+      ]
+    },
+    {
+      "c": "Abstraction (computational thinking)",
+      "a": "hiding detail to focus on what matters",
+      "d": [
+        "breaking a problem into smaller parts",
+        "writing the steps in a fixed order"
+      ]
+    },
+    {
+      "c": "Pattern recognition (computational thinking)",
+      "a": "spotting similarities among problems",
+      "d": [
+        "hiding detail to focus on essentials",
+        "listing steps in order"
+      ]
+    },
+    {
+      "c": "An algorithm is",
+      "a": "a finite, well-defined sequence of steps",
+      "d": [
+        "a programming language",
+        "a way of storing data in memory"
+      ]
+    },
+    {
+      "c": "Big-O notation gives",
+      "a": "an asymptotic upper bound on growth",
+      "d": [
+        "the exact running time in seconds",
+        "an asymptotic lower bound on growth"
+      ]
+    },
+    {
+      "c": "Big-Ω (Omega) notation gives",
+      "a": "an asymptotic lower bound on growth",
+      "d": [
+        "an asymptotic upper bound on growth",
+        "the average-case running time"
+      ]
+    },
+    {
+      "c": "Big-Θ (Theta) notation gives",
+      "a": "a tight bound, both upper and lower",
+      "d": [
+        "only an upper bound",
+        "only a lower bound"
+      ]
+    },
+    {
+      "c": "Simplest tight bound for 4n³ + n² + 9",
+      "a": "O(n³)",
+      "d": [
+        "O(n²)",
+        "O(n)",
+        "O(1)"
+      ],
+      "ex": "Drop constant factors and lower-order terms."
+    },
+    {
+      "c": "Access an array element by index",
+      "a": "O(1)",
+      "d": [
+        "O(n)",
+        "O(log n)"
+      ]
+    },
+    {
+      "c": "Linear search of an unsorted list",
+      "a": "O(n)",
+      "d": [
+        "O(log n)",
+        "O(1)",
+        "O(n²)"
+      ]
+    },
+    {
+      "c": "Binary search of a sorted array",
+      "a": "O(log n)",
+      "d": [
+        "O(n)",
+        "O(n log n)",
+        "O(1)"
+      ]
+    },
+    {
+      "c": "Two nested loops, each over all n items",
+      "a": "O(n²)",
+      "d": [
+        "O(n)",
+        "O(n log n)",
+        "O(2ⁿ)"
+      ]
+    },
+    {
+      "c": "Halving the remaining work at every step",
+      "a": "logarithmic time, O(log n)",
+      "d": [
+        "linear time, O(n)",
+        "quadratic time, O(n²)"
+      ]
+    },
+    {
+      "c": "Which grows faster: n log n or n²?",
+      "a": "n²",
+      "d": [
+        "n log n"
+      ]
+    },
+    {
+      "c": "Fastest-growing of these classes",
+      "a": "O(2ⁿ)",
+      "d": [
+        "O(n³)",
+        "O(n² log n)",
+        "O(n log n)"
+      ]
+    },
+    {
+      "c": "Which grows faster: 2ⁿ or n!?",
+      "a": "n!",
+      "d": [
+        "2ⁿ"
+      ]
+    },
+    {
+      "c": "Number of subsets of an n-element set",
+      "a": "2ⁿ",
+      "d": [
+        "n²",
+        "n!",
+        "2n"
+      ]
+    },
+    {
+      "c": "Brute force over every ordering of n items",
+      "a": "O(n!)",
+      "d": [
+        "O(2ⁿ)",
+        "O(n²)",
+        "O(n log n)"
+      ]
+    },
+    {
+      "c": "Growth of naive recursive Fibonacci",
+      "a": "exponential",
+      "d": [
+        "linear",
+        "quadratic",
+        "logarithmic"
+      ],
+      "ex": "Each call spawns two more, recomputing the same values."
+    },
+    {
+      "c": "Recurrence T(n) = 2T(n/2) + O(n)",
+      "a": "O(n log n)",
+      "d": [
+        "O(n)",
+        "O(n²)",
+        "O(log n)"
+      ],
+      "ex": "This is merge sort's recurrence."
+    },
+    {
+      "c": "Growth class of T(n) = T(n/2) + O(1)",
+      "a": "logarithmic",
+      "d": [
+        "linear",
+        "constant",
+        "linearithmic (n log n)"
+      ],
+      "ex": "This is binary search's recurrence."
+    },
+    {
+      "c": "Amortized cost of a dynamic-array append",
+      "a": "O(1) amortized",
+      "d": [
+        "O(n) amortized",
+        "O(log n) amortized"
+      ],
+      "ex": "Doubling capacity makes rare O(n) copies cheap on average."
+    },
+    {
+      "c": "Worst single append to a full dynamic array",
+      "a": "O(n), because it copies to a larger array",
+      "d": [
+        "O(1), because appends never copy",
+        "O(log n), because it splits the array"
+      ]
+    },
+    {
+      "c": "Amortized analysis averages cost over",
+      "a": "a worst-case sequence of operations",
+      "d": [
+        "a random distribution of inputs",
+        "only the fastest operations"
+      ]
+    },
+    {
+      "c": "Average-case analysis averages cost over",
+      "a": "a distribution of possible inputs",
+      "d": [
+        "a worst-case sequence of operations",
+        "the single slowest input"
+      ]
+    },
+    {
+      "c": "Space complexity measures",
+      "a": "memory used as input size grows",
+      "d": [
+        "time used as input size grows",
+        "lines of source code written"
+      ]
+    },
+    {
+      "c": "Call-stack space for recursion n levels deep",
+      "a": "O(n) stack frames",
+      "d": [
+        "O(1) stack frames",
+        "O(log n) stack frames"
+      ]
+    },
+    {
+      "c": "Problems solvable in polynomial time",
+      "a": "the class P",
+      "d": [
+        "the class NP-complete",
+        "the undecidable problems"
+      ]
+    },
+    {
+      "c": "NP is the class of problems whose answers",
+      "a": "can be verified in polynomial time",
+      "d": [
+        "always need exponential time",
+        "can never be computed"
+      ],
+      "ex": "NP stands for nondeterministic polynomial time, not non-polynomial."
+    },
+    {
+      "c": "First problem proven NP-complete (1971)",
+      "a": "Boolean satisfiability (SAT)",
+      "d": [
+        "the halting problem",
+        "sorting a list",
+        "graph search"
+      ],
+      "ex": "This is the Cook–Levin theorem."
+    },
+    {
+      "c": "Problem Turing proved undecidable (1936)",
+      "a": "the halting problem",
+      "d": [
+        "the traveling salesman problem",
+        "Boolean satisfiability (SAT)"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Counting steps, not seconds",
+    "text": [
+      "A stopwatch tells you how fast code ran on one machine with one input. Engineers want something more portable: how the work grows as the input grows. Big-O notation answers that by counting steps as a function of the input size n and keeping only the dominant term. An algorithm that takes 3n² + 5n + 7 steps is O(n²), because for large n the n² term swamps everything else and constant factors depend on the hardware anyway.",
+      "The common classes form a ladder. Constant time, O(1), is indexing into an array. Logarithmic time, O(log n), comes from halving the problem each step, as binary search does. Linear time, O(n), touches each item once. O(n log n) is the cost of good comparison sorting. Quadratic time, O(n²), usually means nested loops. Exponential and factorial times come from trying every subset or every ordering, and they become hopeless even for modest n.",
+      "Big-O is an upper bound. Big-Ω is a lower bound, and Big-Θ means both at once. Analysts also say which case they mean: worst case, average case over likely inputs, or amortized cost averaged over a sequence of operations. A dynamic array occasionally copies everything when it grows, yet appends are still O(1) amortized because those copies are rare."
+    ],
+    "q": [
+      {
+        "q": "Why does Big-O drop constant factors?",
+        "o": [
+          "They depend on hardware and vanish in importance for large n",
+          "They are always equal to 1",
+          "They only matter for exponential algorithms"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Which technique produces logarithmic time, according to the reading?",
+        "o": [
+          "Trying every ordering",
+          "Nested loops",
+          "Halving the problem each step"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Why are dynamic-array appends O(1) amortized?",
+        "o": [
+          "They never copy elements",
+          "The occasional full copy is rare enough to average out",
+          "The array has a fixed size"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "title": "First conjugation: present tense",
+  "note": "Verbs are listed by infinitive. First-conjugation verbs end in -are: amare, to love. Drop -re for the stem ama-, then add the endings: amo, amas, amat, amamus, amatis, amant (I love, you love, he/she loves, we love, you all love, they love). In amo the a merges into the o.",
+  "src": {
+    "t": "Allen and Greenough, The Four Conjugations",
+    "u": "https://dcc.dickinson.edu/grammar/latin/four-conjugations"
+  },
+  "items": [
+    {
+      "c": "amare",
+      "a": "to love",
+      "d": [
+        "to praise",
+        "to call"
+      ],
+      "ex": "Puella rosas amat.",
+      "exT": "The girl loves roses."
+    },
+    {
+      "c": "laudare",
+      "a": "to praise",
+      "d": [
+        "to love",
+        "to fight"
+      ],
+      "ex": "Magister puellam laudat.",
+      "exT": "The teacher praises the girl."
+    },
+    {
+      "c": "pugnare",
+      "a": "to fight",
+      "d": [
+        "to sail",
+        "to work"
+      ],
+      "ex": "Romani pugnant.",
+      "exT": "The Romans are fighting."
+    },
+    {
+      "c": "dare",
+      "a": "to give",
+      "d": [
+        "to take",
+        "to carry"
+      ],
+      "ex": "Magister puero librum dat.",
+      "exT": "The teacher gives the boy a book."
+    },
+    {
+      "c": "vocare",
+      "a": "to call",
+      "d": [
+        "to carry",
+        "to pray"
+      ]
+    },
+    {
+      "c": "portare",
+      "a": "to carry",
+      "d": [
+        "to call",
+        "to stand"
+      ],
+      "ex": "Servus aquam portat.",
+      "exT": "The slave carries water."
+    },
+    {
+      "c": "laborare",
+      "a": "to work",
+      "d": [
+        "to walk",
+        "to rest"
+      ]
+    },
+    {
+      "c": "ambulare",
+      "a": "to walk",
+      "d": [
+        "to run",
+        "to sail"
+      ]
+    },
+    {
+      "c": "cogitare",
+      "a": "to think",
+      "d": [
+        "to know",
+        "to pray"
+      ]
+    },
+    {
+      "c": "orare",
+      "a": "to pray; to beg",
+      "d": [
+        "to praise; to honor",
+        "to shout; to call"
+      ]
+    },
+    {
+      "c": "navigare",
+      "a": "to sail",
+      "d": [
+        "to swim",
+        "to fight"
+      ]
+    },
+    {
+      "c": "exspectare",
+      "a": "to wait for, expect",
+      "d": [
+        "to look at, watch",
+        "to call, summon"
+      ]
+    },
+    {
+      "c": "spectare",
+      "a": "to look at, watch",
+      "d": [
+        "to wait for, expect",
+        "to sing"
+      ]
+    },
+    {
+      "c": "nuntiare",
+      "a": "to announce, report",
+      "d": [
+        "to deny, refuse",
+        "to ask"
+      ]
+    },
+    {
+      "c": "habitare",
+      "a": "to live (in), dwell",
+      "d": [
+        "to have",
+        "to stand"
+      ],
+      "ex": "In villa habitamus.",
+      "exT": "We live in a farmhouse."
+    },
+    {
+      "c": "parare",
+      "a": "to prepare",
+      "d": [
+        "to obey",
+        "to carry"
+      ]
+    },
+    {
+      "c": "stare",
+      "a": "to stand",
+      "d": [
+        "to sit",
+        "to walk"
+      ]
+    },
+    {
+      "c": "cantare",
+      "a": "to sing",
+      "d": [
+        "to shout",
+        "to read"
+      ]
+    },
+    {
+      "c": "clamare",
+      "a": "to shout",
+      "d": [
+        "to sing",
+        "to weep"
+      ]
+    },
+    {
+      "c": "iuvare",
+      "a": "to help",
+      "d": [
+        "to harm",
+        "to order"
+      ]
+    },
+    {
+      "c": "servare",
+      "a": "to save, keep",
+      "d": [
+        "to serve",
+        "to lose"
+      ]
+    },
+    {
+      "c": "superare",
+      "a": "to overcome, surpass",
+      "d": [
+        "to surrender",
+        "to climb down"
+      ]
+    },
+    {
+      "c": "errare",
+      "a": "to wander; to make a mistake",
+      "d": [
+        "to run; to hurry",
+        "to rest; to stay"
+      ]
+    },
+    {
+      "c": "Ego Iuliam ___. (amare)",
+      "a": "amo",
+      "d": [
+        "amat",
+        "amas"
+      ],
+      "ex": "Ego Iuliam amo.",
+      "exT": "I love Julia."
+    },
+    {
+      "c": "Tu bene ___. (cantare)",
+      "a": "cantas",
+      "d": [
+        "cantat",
+        "canto"
+      ],
+      "ex": "Tu bene cantas.",
+      "exT": "You sing well."
+    },
+    {
+      "c": "Puella in villa ___. (habitare)",
+      "a": "habitat",
+      "d": [
+        "habitant",
+        "habito"
+      ],
+      "ex": "Puella in villa habitat.",
+      "exT": "The girl lives in a farmhouse."
+    },
+    {
+      "c": "Nos in agro ___. (laborare)",
+      "a": "laboramus",
+      "d": [
+        "laborant",
+        "laboratis"
+      ],
+      "ex": "Nos in agro laboramus.",
+      "exT": "We work in the field."
+    },
+    {
+      "c": "Cur ___? (clamare, you plural)",
+      "a": "clamatis",
+      "d": [
+        "clamamus",
+        "clamant"
+      ],
+      "ex": "Cur clamatis?",
+      "exT": "Why are you all shouting?"
+    },
+    {
+      "c": "Nautae ___. (navigare)",
+      "a": "navigant",
+      "d": [
+        "navigat",
+        "navigamus"
+      ],
+      "ex": "Nautae navigant.",
+      "exT": "The sailors are sailing."
+    }
+  ]
+}

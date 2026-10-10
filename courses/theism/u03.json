@@ -1,0 +1,308 @@
+{
+  "title": "Aquinas's Five Ways",
+  "note": "In Summa Theologiae I, q. 2, a. 3, Aquinas gives five short proofs from effects to their first cause: from motion, efficient causation, contingency, degrees of perfection, and the directedness of nature. The regresses he rules out are essentially ordered ones, where each cause acts only while being acted on, so the Ways do not assume the universe had a beginning.",
+  "src": {
+    "t": "Thomas Aquinas, Summa Theologiae I, q. 2 (New Advent)",
+    "u": "https://www.newadvent.org/summa/1002.htm"
+  },
+  "items": [
+    {
+      "c": "Where the Five Ways appear",
+      "a": "Summa Theologiae, Part I, question 2, article 3",
+      "d": [
+        "Summa contra Gentiles, Book IV",
+        "Commentary on Aristotle's Metaphysics"
+      ]
+    },
+    {
+      "c": "Latin name for the Five Ways",
+      "a": "quinque viae",
+      "d": [
+        "quaestiones disputatae",
+        "sed contra"
+      ]
+    },
+    {
+      "c": "Text cited 'on the contrary' in ST I q.2 a.3",
+      "a": "Exodus 3:14, 'I am Who am'",
+      "d": [
+        "Psalm 14:1, 'The fool hath said'",
+        "John 1:1, 'In the beginning was the Word'"
+      ]
+    },
+    {
+      "c": "Aquinas's first objection to God's existence",
+      "a": "evil exists, and an infinite good would exclude it",
+      "d": [
+        "an infinite regress of causes is possible",
+        "different peoples worship different gods"
+      ]
+    },
+    {
+      "c": "Second objection Aquinas states against God",
+      "a": "nature and human will explain everything already",
+      "d": [
+        "God cannot be seen by the eyes",
+        "the world might have existed forever"
+      ]
+    },
+    {
+      "c": "Aquinas's reply to the objection from evil",
+      "a": "God permits evil only to bring good out of it",
+      "d": [
+        "evil is an illusion with no reality",
+        "God is not responsible for creating anything"
+      ],
+      "ex": "He quotes Augustine's Enchiridion."
+    },
+    {
+      "c": "Aquinas: God's existence is demonstrated from",
+      "a": "his effects, which are better known to us",
+      "d": [
+        "his essence, which we grasp directly",
+        "the meaning of the word 'God'"
+      ]
+    },
+    {
+      "c": "'Motion' in the First Way means",
+      "a": "any change from potentiality to actuality",
+      "d": [
+        "only movement from place to place",
+        "only the motion of the heavenly spheres"
+      ]
+    },
+    {
+      "c": "First Way's key principle",
+      "a": "whatever is in motion is put in motion by another",
+      "d": [
+        "whatever exists has a beginning in time",
+        "whatever is more is caused by the most"
+      ]
+    },
+    {
+      "c": "First Way's example of actualizing a potency",
+      "a": "fire makes wood, potentially hot, actually hot",
+      "d": [
+        "a seed grows by itself into a tree",
+        "a stone rests until it decides to move"
+      ]
+    },
+    {
+      "c": "First Way's example of an instrument",
+      "a": "a staff that moves only when moved by a hand",
+      "d": [
+        "a watch whose parts serve a purpose",
+        "a ship steered by its pilot"
+      ]
+    },
+    {
+      "c": "Pure act (actus purus)",
+      "a": "being with no unrealized potential at all",
+      "d": [
+        "being that is all potential, no act",
+        "the first act in a temporal series"
+      ]
+    },
+    {
+      "c": "Second Way: nothing can be",
+      "a": "the efficient cause of itself",
+      "d": [
+        "the final cause of another",
+        "moved without being changed"
+      ]
+    },
+    {
+      "c": "Essentially ordered causal series",
+      "a": "each member causes only while itself being caused",
+      "d": [
+        "earlier members may cease without harm",
+        "members follow one another in time only"
+      ]
+    },
+    {
+      "c": "Accidentally ordered causal series",
+      "a": "earlier members need not still be acting",
+      "d": [
+        "each member acts only while acted upon",
+        "every member is caused by the last member"
+      ],
+      "ex": "A father begets a son, who later begets a son of his own."
+    },
+    {
+      "c": "Third Way starts from things that are",
+      "a": "able to be and not to be",
+      "d": [
+        "more and less noble",
+        "moved by another"
+      ]
+    },
+    {
+      "c": "Third Way: if everything could not-be, then",
+      "a": "at some time nothing would have existed",
+      "d": [
+        "God would be one contingent being among many",
+        "motion could never have begun at all"
+      ]
+    },
+    {
+      "c": "Objection to the Third Way's key step",
+      "a": "from 'each can fail' it does not follow 'all once failed'",
+      "d": [
+        "contingent things never really exist",
+        "time could not have had a beginning"
+      ]
+    },
+    {
+      "c": "Third Way ends at a being necessary",
+      "a": "of itself, not caused by another",
+      "d": [
+        "by the will of another necessary being",
+        "only for a limited span of time"
+      ]
+    },
+    {
+      "c": "The Way 'taken from possibility and necessity'",
+      "a": "the Third Way",
+      "d": [
+        "the First Way",
+        "the Fourth Way"
+      ]
+    },
+    {
+      "c": "The Way 'taken from the gradation in things'",
+      "a": "the Fourth Way",
+      "d": [
+        "the Second Way",
+        "the Fifth Way"
+      ]
+    },
+    {
+      "c": "Fourth Way: 'more' and 'less' imply",
+      "a": "a maximum that they resemble in different degrees",
+      "d": [
+        "an infinite regress of lesser goods",
+        "that goodness is only a matter of opinion"
+      ]
+    },
+    {
+      "c": "Authority Aquinas cites for the Fourth Way",
+      "a": "Aristotle, Metaphysics II",
+      "d": [
+        "Plato, Republic VI",
+        "Augustine, Confessions X"
+      ]
+    },
+    {
+      "c": "Fifth Way's datum about natural bodies",
+      "a": "they act for an end, though they lack knowledge",
+      "d": [
+        "they move only when pushed by another",
+        "they come to be and pass away"
+      ]
+    },
+    {
+      "c": "Fifth Way's image of directed action",
+      "a": "an arrow shot to its mark by an archer",
+      "d": [
+        "a watch found lying on a heath",
+        "a ship steered by a pilot"
+      ]
+    },
+    {
+      "c": "Aquinas: can reason prove the world began?",
+      "a": "no; that the world began is held by faith",
+      "d": [
+        "yes; the Second Way proves it",
+        "yes; an infinite past is a contradiction"
+      ]
+    },
+    {
+      "c": "The Five Ways do not depend on",
+      "a": "the universe having a beginning in time",
+      "d": [
+        "the principle that act precedes potency",
+        "any observation of the world at all"
+      ]
+    },
+    {
+      "c": "Physics objection to the First Way",
+      "a": "by inertia, uniform motion needs no mover",
+      "d": [
+        "nothing in nature ever changes",
+        "every motion is caused by the stars"
+      ]
+    },
+    {
+      "c": "Thomist reply to the inertia objection",
+      "a": "the Way concerns any actualizing of potency, not just motion",
+      "d": [
+        "Newton's first law has been refuted",
+        "inertia proves an infinite regress"
+      ]
+    },
+    {
+      "c": "Gap objection to the Five Ways",
+      "a": "a first cause need not be the God of theism",
+      "d": [
+        "the Ways use no premises at all",
+        "the Ways assume the Bible is true"
+      ]
+    },
+    {
+      "c": "Anthony Kenny's critical study (1969)",
+      "a": "The Five Ways",
+      "d": [
+        "The Miracle of Theism",
+        "The Coherence of Theism"
+      ]
+    },
+    {
+      "c": "Author of Five Proofs of the Existence of God",
+      "a": "Edward Feser",
+      "d": [
+        "Anthony Kenny",
+        "Graham Oppy"
+      ]
+    }
+  ],
+  "read": {
+    "title": "The First Way",
+    "text": [
+      "Aquinas calls the argument from motion 'the first and more manifest way.' By motion he means any change in which something potential becomes actual, as wood that is potentially hot becomes actually hot when fire heats it. The argument runs:",
+      "(1) Some things are in motion, that is, are being changed. (2) Whatever is changed is changed by something else, since nothing can be both potential and actual in the same respect at once. (3) If that mover is itself being changed, it too is changed by another. (4) This series cannot go on to infinity, for then there would be no first mover, and so no other mover either. (5) Therefore there is a first mover, moved by no other, 'and this everyone understands to be God.'",
+      "A common objection is that an infinite regress is perfectly possible. Aquinas himself held that reason cannot prove the world had a beginning; an endless line of ancestors is not absurd.",
+      "The reply turns on the kind of series in view. In an essentially ordered series, like a staff moved by a hand, each member moves only while it is being moved here and now. Such members have no power of their own to pass along. Lengthening the chain, even infinitely, explains nothing unless something actual, which needs no actualizing, sustains the whole. The First Way concerns this kind of series, not a chain stretching back in time."
+    ],
+    "q": [
+      {
+        "q": "What does Aquinas mean by 'motion'?",
+        "o": [
+          "Change of place only",
+          "The movement of the planets",
+          "Any change from potential to actual",
+          "The beginning of the universe"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Why can an essentially ordered series not explain itself?",
+        "o": [
+          "Its members have no causal power of their own to pass along",
+          "It must have begun at a date in the past",
+          "It always contains only finitely many members"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What did Aquinas think reason cannot prove?",
+        "o": [
+          "That anything moves",
+          "That the world had a beginning",
+          "That a first mover exists",
+          "That fire heats wood"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

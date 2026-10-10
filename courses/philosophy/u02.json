@@ -1,0 +1,49 @@
+{
+  "title": "The Presocratics",
+  "note": "The first Greek philosophers sought the arche, the basic source or principle of all things, and explained nature by reasons rather than myth. Monists named one stuff (water, the boundless, air); pluralists named several. Heraclitus stressed constant change; Parmenides argued that real being cannot change at all.",
+  "src": { "t": "Internet Encyclopedia of Philosophy, Presocratics", "u": "https://iep.utm.edu/presocra/" },
+  "items": [
+    { "c": "Arche (Presocratic sense)", "a": "the first principle or source of all things", "d": ["the ideal political order", "the highest virtue of the soul"] },
+    { "c": "Thales's first principle", "a": "water", "d": ["air", "fire", "the boundless"] },
+    { "c": "Anaximander's first principle", "a": "the apeiron, or boundless", "d": ["water", "air", "number"] },
+    { "c": "Anaximenes's first principle", "a": "air, which condenses and thins into all things", "d": ["water, which freezes and boils into all things", "fire, which kindles and dies into all things"] },
+    { "c": "The three Milesian philosophers", "a": "Thales, Anaximander, Anaximenes", "d": ["Parmenides, Zeno, Melissus", "Leucippus, Democritus, Epicurus"] },
+    { "c": "Founder of natural philosophy, per Aristotle", "a": "Thales", "d": ["Pythagoras", "Heraclitus", "Parmenides"] },
+    { "c": "Heraclitus's core claim about the world", "a": "all things are in flux, ordered by the logos", "d": ["nothing ever truly changes", "all things are made of number"] },
+    { "c": "Element Heraclitus treated as basic", "a": "fire", "d": ["water", "air", "earth"] },
+    { "c": "'You cannot step into the same river twice'", "a": "Heraclitus", "d": ["Parmenides", "Thales", "Zeno of Elea"] },
+    { "c": "Parmenides's view of what truly is", "a": "one, whole, and unchanging", "d": ["many and always changing", "made of atoms and void"] },
+    { "c": "Two parts of Parmenides's poem", "a": "the way of truth and the way of opinion", "d": ["the way of pleasure and the way of virtue", "the way of faith and the way of reason"] },
+    { "c": "Purpose of Zeno of Elea's paradoxes", "a": "to defend Parmenides by showing motion absurd", "d": ["to prove that atoms exist", "to show that the gods are human inventions"] },
+    { "c": "Achilles can never catch the tortoise", "a": "a paradox of Zeno of Elea", "d": ["a fable of Aesop", "a fragment of Heraclitus"] },
+    { "c": "Zeno's dichotomy paradox", "a": "to cross any distance you must first cross half", "d": ["a flying arrow is at rest in each instant", "two runners can never meet"] },
+    { "c": "Empedocles's four roots", "a": "earth, air, fire, and water", "d": ["hot, cold, wet, and dry", "atoms, void, mind, and number"] },
+    { "c": "Forces that mix and separate Empedocles's roots", "a": "Love and Strife", "d": ["Mind and Matter", "Being and Nonbeing"] },
+    { "c": "Anaxagoras's ordering cause of the cosmos", "a": "nous, or mind", "d": ["love", "number", "the boundless"] },
+    { "c": "Leucippus and Democritus taught that reality is", "a": "atoms moving in the void", "d": ["one unchanging being", "a harmony of numbers"] },
+    { "c": "Literal meaning of Greek atomos", "a": "uncuttable", "d": ["invisible", "eternal", "smallest"] },
+    { "c": "Pythagoreans held that reality is structured by", "a": "number and harmony", "d": ["love and strife", "atoms and void"] },
+    { "c": "Pythagorean view of the soul's fate", "a": "it migrates into new bodies", "d": ["it perishes with the body", "it dissolves into air"] },
+    { "c": "Xenophanes's complaint about the Greek gods", "a": "humans picture gods in their own image", "d": ["the gods are made of atoms", "the gods are numbers"] },
+    { "c": "Xenophanes's positive idea of God", "a": "one God, unlike mortals in body or mind", "d": ["many gods, each ruling an element", "no God, only matter in motion"] },
+    { "c": "'Man is the measure of all things'", "a": "Protagoras", "d": ["Socrates", "Democritus", "Parmenides"] },
+    { "c": "The Sophists", "a": "paid teachers of rhetoric and success", "d": ["priests of the Delphic oracle", "followers of Pythagoras"] },
+    { "c": "Greek physis", "a": "nature", "d": ["law", "soul", "number"] },
+    { "c": "Greek nomos", "a": "law or convention", "d": ["nature", "mind", "matter"] },
+    { "c": "Presocratic monism about matter", "a": "all things are one basic kind of stuff", "d": ["all things are several basic kinds", "only minds exist"] },
+    { "c": "What makes the Presocratics philosophers", "a": "they explained nature by reasons, not myths", "d": ["they wrote long systematic treatises", "they founded the first universities"] }
+  ],
+  "read": {
+    "title": "From myth to reason",
+    "text": [
+      "In the sixth century BCE, thinkers in the Greek city of Miletus asked a new kind of question: what is everything made of, and why does it change? Thales answered water. Anaximander proposed an unlimited stuff, the apeiron, from which hot and cold and the other opposites separate. Anaximenes chose air, which becomes fire when thinned and stone when packed tight. Their answers were wrong, but their method was new. They gave natural causes that could be argued about, not stories about gods.",
+      "Two later thinkers sharpened the debate. Heraclitus taught that everything flows, like a river whose water is always new, yet the change follows a rational pattern he called the logos. Parmenides argued the opposite. Whatever truly is cannot come from nothing or pass into nothing, so real being is one and unchanging, and the senses that report change deceive us. His student Zeno built paradoxes to show how strange motion becomes when examined closely.",
+      "Later pluralists tried to save both sides. Empedocles kept unchanging elements but let Love and Strife rearrange them. The atomists said changeless atoms move through empty space, and their shifting arrangements produce the changing world we see."
+    ],
+    "q": [
+      { "q": "What was new about the Milesians' approach?", "o": ["They gave natural causes open to argument", "They proved their answers by experiment", "They rejected all talk of change"], "k": 0 },
+      { "q": "Why did Parmenides say real being cannot change?", "o": ["Because fire is always the same", "Because being cannot come from or pass into nothing", "Because atoms cannot be cut"], "k": 1 },
+      { "q": "How did the atomists try to reconcile Heraclitus and Parmenides?", "o": ["Changeless atoms rearrange to produce change", "Love and Strife are the only realities", "Change is real but being is not"], "k": 0 }
+    ]
+  }
+}

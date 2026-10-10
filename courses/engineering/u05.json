@@ -1,0 +1,348 @@
+{
+  "title": "Materials science",
+  "note": "Engineering materials fall into four families: metals (strong, ductile, conductive), ceramics (hard, brittle, heat resistant), polymers (light, flexible, easy to shape), and composites, which combine materials to get properties neither has alone. Atomic bonding and crystal structure explain much of this behavior.",
+  "src": {
+    "t": "Chemistry 2e, 10.6 Lattice Structures in Crystalline Solids, OpenStax",
+    "u": "https://openstax.org/books/chemistry-2e/pages/10-6-lattice-structures-in-crystalline-solids"
+  },
+  "items": [
+    {
+      "c": "Four main families of engineering materials",
+      "a": "metals, ceramics, polymers, composites",
+      "d": [
+        "metals, plastics, woods, glasses",
+        "solids, liquids, gases, plasmas"
+      ]
+    },
+    {
+      "c": "Bonding that makes metals conduct electricity",
+      "a": "metallic bonding with delocalized electrons",
+      "d": [
+        "ionic bonding between charged ions",
+        "van der Waals forces between chains"
+      ]
+    },
+    {
+      "c": "Ceramics are typically",
+      "a": "hard, brittle, and heat resistant",
+      "d": [
+        "soft, ductile, and conductive",
+        "light, flexible, and low melting"
+      ]
+    },
+    {
+      "c": "Polymer",
+      "a": "material made of long chain molecules of repeating units",
+      "d": [
+        "a crystal of metal atoms",
+        "an oxide of a metal"
+      ]
+    },
+    {
+      "c": "Thermoplastic",
+      "a": "polymer that softens when heated and can be remelted",
+      "d": [
+        "polymer that cures permanently and will not remelt",
+        "ceramic fired in a kiln"
+      ]
+    },
+    {
+      "c": "Thermoset",
+      "a": "polymer that cures permanently and cannot be remelted",
+      "d": [
+        "polymer that softens each time it is heated",
+        "metal hardened by quenching"
+      ]
+    },
+    {
+      "c": "Example of a thermoset",
+      "a": "epoxy",
+      "d": [
+        "polyethylene",
+        "nylon",
+        "PLA"
+      ]
+    },
+    {
+      "c": "Example of a thermoplastic",
+      "a": "ABS",
+      "d": [
+        "epoxy",
+        "vulcanized rubber",
+        "phenolic (Bakelite)"
+      ]
+    },
+    {
+      "c": "Glass transition temperature (Tg)",
+      "a": "where an amorphous polymer turns from glassy to rubbery",
+      "d": [
+        "where a crystal changes its lattice type",
+        "where a metal begins to rust"
+      ]
+    },
+    {
+      "c": "Composite material",
+      "a": "two or more distinct materials combined for better properties",
+      "d": [
+        "a pure metal with a single crystal",
+        "a mixture that becomes one uniform phase"
+      ]
+    },
+    {
+      "c": "Role of the matrix in a fiber composite",
+      "a": "binds the fibers, transfers load, and protects them",
+      "d": [
+        "carries most of the tensile load",
+        "makes the composite conduct heat"
+      ]
+    },
+    {
+      "c": "Usual matrix in carbon-fiber reinforced polymer",
+      "a": "an epoxy matrix",
+      "d": [
+        "a steel matrix",
+        "a concrete matrix",
+        "a glass matrix"
+      ]
+    },
+    {
+      "c": "Concrete is much stronger in",
+      "a": "compression than tension",
+      "d": [
+        "tension than compression",
+        "shear than compression"
+      ]
+    },
+    {
+      "c": "Why reinforced concrete includes steel bars",
+      "a": "steel carries the tension concrete cannot",
+      "d": [
+        "steel adds compressive strength concrete lacks",
+        "steel makes concrete lighter"
+      ]
+    },
+    {
+      "c": "Specific strength",
+      "a": "strength divided by density",
+      "d": [
+        "strength times density",
+        "strength divided by stiffness"
+      ]
+    },
+    {
+      "c": "Alloy",
+      "a": "a metal mixed with other elements to improve its properties",
+      "d": [
+        "a pure metal refined from ore",
+        "a metal coated with paint"
+      ]
+    },
+    {
+      "c": "Steel is mainly iron alloyed with",
+      "a": "carbon",
+      "d": [
+        "copper",
+        "tin",
+        "aluminum"
+      ]
+    },
+    {
+      "c": "Stainless steel resists rust mainly because of",
+      "a": "chromium forming a protective oxide film",
+      "d": [
+        "a thin coating of zinc",
+        "a very high carbon content"
+      ]
+    },
+    {
+      "c": "Bronze is mainly copper alloyed with",
+      "a": "tin",
+      "d": [
+        "zinc",
+        "iron",
+        "aluminum"
+      ]
+    },
+    {
+      "c": "Brass is mainly copper alloyed with",
+      "a": "zinc",
+      "d": [
+        "tin",
+        "lead",
+        "nickel"
+      ]
+    },
+    {
+      "c": "Coordination number in face-centered cubic (FCC)",
+      "a": "12",
+      "d": [
+        "8",
+        "6",
+        "4"
+      ]
+    },
+    {
+      "c": "Coordination number in body-centered cubic (BCC)",
+      "a": "8",
+      "d": [
+        "12",
+        "6",
+        "4"
+      ]
+    },
+    {
+      "c": "Atoms per unit cell in FCC",
+      "a": "4",
+      "d": [
+        "2",
+        "1",
+        "6"
+      ]
+    },
+    {
+      "c": "Atoms per unit cell in BCC",
+      "a": "2",
+      "d": [
+        "4",
+        "1",
+        "8"
+      ]
+    },
+    {
+      "c": "Packing efficiency of FCC",
+      "a": "about 74%",
+      "d": [
+        "about 68%",
+        "about 52%",
+        "100%"
+      ]
+    },
+    {
+      "c": "Crystal structure of iron at room temperature",
+      "a": "body-centered cubic (BCC)",
+      "d": [
+        "face-centered cubic (FCC)",
+        "hexagonal close-packed (HCP)"
+      ]
+    },
+    {
+      "c": "Crystal structure of aluminum and copper",
+      "a": "face-centered cubic (FCC)",
+      "d": [
+        "body-centered cubic (BCC)",
+        "simple cubic"
+      ]
+    },
+    {
+      "c": "Metals with hexagonal close-packed (HCP) structure",
+      "a": "magnesium and zinc",
+      "d": [
+        "aluminum and copper",
+        "chromium and tungsten"
+      ]
+    },
+    {
+      "c": "Grain boundary",
+      "a": "interface between crystals with different orientations",
+      "d": [
+        "the outer surface of a cast part",
+        "a crack that has stopped growing"
+      ]
+    },
+    {
+      "c": "Dislocation",
+      "a": "a line defect whose motion allows plastic deformation",
+      "d": [
+        "a missing atom at one lattice site",
+        "a gap between two welded plates"
+      ]
+    },
+    {
+      "c": "Quenching steel",
+      "a": "rapid cooling that hardens it but makes it more brittle",
+      "d": [
+        "slow cooling that softens it",
+        "coating it with zinc"
+      ]
+    },
+    {
+      "c": "Annealing",
+      "a": "heating and slow cooling to soften metal and relieve stress",
+      "d": [
+        "rapid cooling to harden metal",
+        "adding chromium to resist rust"
+      ]
+    },
+    {
+      "c": "Corrosion",
+      "a": "deterioration of a material by reaction with its environment",
+      "d": [
+        "wear from parts rubbing together",
+        "cracking from repeated loading"
+      ]
+    },
+    {
+      "c": "Galvanic corrosion",
+      "a": "attack on the more active of two metals joined in an electrolyte",
+      "d": [
+        "rusting of a single metal in dry air",
+        "softening of a polymer in sunlight"
+      ]
+    },
+    {
+      "c": "Galvanizing protects steel with",
+      "a": "a zinc coating that corrodes first",
+      "d": [
+        "a chromium plating",
+        "a copper layer",
+        "a tin coating"
+      ]
+    },
+    {
+      "c": "Sacrificial anode",
+      "a": "a more active metal that corrodes to protect a structure",
+      "d": [
+        "a noble metal that is never attacked",
+        "a paint layer that blocks moisture"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Why materials behave as they do",
+    "text": [
+      "A material's behavior begins with its atoms. In a metal, outer electrons are shared across the whole crystal, which is why metals conduct heat and electricity. The bonds are not tied to particular neighbors, so planes of atoms can slip past one another along line defects called dislocations. That slip is plastic deformation, and it makes metals ductile.",
+      "Metal atoms pack into regular crystals. Iron at room temperature is body-centered cubic, with each atom touching eight neighbors. Aluminum and copper are face-centered cubic, with twelve neighbors and about 74% of space filled, the densest possible packing of equal spheres.",
+      "Ceramics hold their atoms with strong ionic and covalent bonds that resist slip. They are hard and survive high temperatures, but a small crack can run through them, so they are brittle. Polymers are long chain molecules; they are light and easy to mold but much less stiff than metals.",
+      "Composites combine these strengths. In carbon-fiber reinforced polymer, stiff fibers carry the load while an epoxy matrix holds them in place. In reinforced concrete, steel bars carry the tension that concrete cannot."
+    ],
+    "q": [
+      {
+        "q": "Why are metals ductile?",
+        "o": [
+          "Their atoms cannot move",
+          "Planes of atoms can slip along dislocations",
+          "They contain long chain molecules"
+        ],
+        "k": 1
+      },
+      {
+        "q": "How many nearest neighbors does each atom have in an FCC crystal?",
+        "o": [
+          "Six",
+          "Eight",
+          "Twelve"
+        ],
+        "k": 2
+      },
+      {
+        "q": "In carbon-fiber reinforced polymer, what carries most of the load?",
+        "o": [
+          "The carbon fibers",
+          "The epoxy matrix",
+          "Trapped air bubbles"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

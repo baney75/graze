@@ -1,0 +1,341 @@
+{
+  "title": "Electrical engineering",
+  "note": "Ohm's law V = IR links voltage, current, and resistance, and power is P = VI. Kirchhoff's current law (charge conservation): currents into a node equal currents out. Kirchhoff's voltage law (energy conservation): voltages around any closed loop sum to zero. Capacitors store energy in electric fields, inductors in magnetic fields.",
+  "src": {
+    "t": "University Physics Volume 2, 10.3 Kirchhoff's Rules, OpenStax",
+    "u": "https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules"
+  },
+  "items": [
+    {
+      "c": "Ohm's law",
+      "a": "V = IR",
+      "d": [
+        "V = I/R",
+        "I = VR",
+        "P = IR"
+      ]
+    },
+    {
+      "c": "Current through 12 Ω with 6 V across it",
+      "a": "0.5 A",
+      "d": [
+        "2 A",
+        "72 A",
+        "18 A"
+      ]
+    },
+    {
+      "c": "Electrical power",
+      "a": "P = VI",
+      "d": [
+        "P = V/I",
+        "P = I/R",
+        "P = VR"
+      ]
+    },
+    {
+      "c": "Power in a 10 Ω resistor carrying 2 A",
+      "a": "40 W",
+      "d": [
+        "20 W",
+        "5 W",
+        "200 W"
+      ],
+      "ex": "P = I²R = 2² × 10."
+    },
+    {
+      "c": "Kirchhoff's current law (KCL)",
+      "a": "currents into a node equal currents out",
+      "d": [
+        "voltages around a loop sum to zero",
+        "current is the same in every branch"
+      ]
+    },
+    {
+      "c": "Kirchhoff's voltage law (KVL)",
+      "a": "voltages around any closed loop sum to zero",
+      "d": [
+        "currents into a node equal currents out",
+        "voltage is the same across every resistor"
+      ]
+    },
+    {
+      "c": "Kirchhoff's current law rests on conservation of",
+      "a": "charge",
+      "d": [
+        "energy",
+        "momentum"
+      ]
+    },
+    {
+      "c": "Kirchhoff's voltage law rests on conservation of",
+      "a": "energy",
+      "d": [
+        "charge",
+        "mass"
+      ]
+    },
+    {
+      "c": "Total resistance of resistors in series",
+      "a": "R₁ + R₂ + …",
+      "d": [
+        "1/(1/R₁ + 1/R₂ + …)",
+        "R₁ · R₂ · …"
+      ]
+    },
+    {
+      "c": "Total resistance of resistors in parallel",
+      "a": "1/(1/R₁ + 1/R₂ + …)",
+      "d": [
+        "R₁ + R₂ + …",
+        "R₁ · R₂ · …"
+      ]
+    },
+    {
+      "c": "Two 10 Ω resistors in parallel",
+      "a": "5 Ω",
+      "d": [
+        "20 Ω",
+        "10 Ω",
+        "0.2 Ω"
+      ]
+    },
+    {
+      "c": "Voltage divider: voltage across R₂ in series with R₁",
+      "a": "Vin · R₂/(R₁ + R₂)",
+      "d": [
+        "Vin · R₁/(R₁ + R₂)",
+        "Vin · (R₁ + R₂)/R₂"
+      ]
+    },
+    {
+      "c": "Direct current (DC)",
+      "a": "current that flows in one direction only",
+      "d": [
+        "current that reverses direction periodically",
+        "current that flows only in a vacuum"
+      ]
+    },
+    {
+      "c": "Frequency of household AC in the United States",
+      "a": "60 Hz",
+      "d": [
+        "50 Hz",
+        "120 Hz",
+        "400 Hz"
+      ]
+    },
+    {
+      "c": "RMS voltage",
+      "a": "the DC voltage that would deliver the same average power",
+      "d": [
+        "the highest voltage reached in a cycle",
+        "the voltage averaged with its sign"
+      ]
+    },
+    {
+      "c": "Peak voltage of 120 V RMS mains",
+      "a": "about 170 V",
+      "d": [
+        "120 V",
+        "240 V",
+        "85 V"
+      ]
+    },
+    {
+      "c": "Why grids transmit power at high voltage",
+      "a": "lower current means lower I²R losses in the lines",
+      "d": [
+        "high voltage makes the wires lighter",
+        "high voltage raises the frequency"
+      ]
+    },
+    {
+      "c": "Transformer voltage ratio",
+      "a": "Vs/Vp = Ns/Np",
+      "d": [
+        "Vs/Vp = Np/Ns",
+        "Vs · Vp = Ns · Np"
+      ]
+    },
+    {
+      "c": "Transformer, 1000:100 turns, 120 V in. Output?",
+      "a": "12 V out",
+      "d": [
+        "1200 V out",
+        "120 V out",
+        "1.2 V out"
+      ]
+    },
+    {
+      "c": "Why a transformer does not work on steady DC",
+      "a": "it needs changing magnetic flux to induce voltage",
+      "d": [
+        "DC current is too small to flow",
+        "DC melts the iron core"
+      ]
+    },
+    {
+      "c": "Capacitor",
+      "a": "a device that stores energy in an electric field",
+      "d": [
+        "a coil that stores energy in a magnetic field",
+        "a device that lets current flow one way"
+      ]
+    },
+    {
+      "c": "Inductor",
+      "a": "a coil that stores energy in a magnetic field",
+      "d": [
+        "two plates that store energy in an electric field",
+        "a switch controlled by a small current"
+      ]
+    },
+    {
+      "c": "Unit of capacitance",
+      "a": "farad (F)",
+      "d": [
+        "henry (H)",
+        "ohm (Ω)",
+        "coulomb (C)"
+      ]
+    },
+    {
+      "c": "Unit of inductance",
+      "a": "henry (H)",
+      "d": [
+        "farad (F)",
+        "tesla (T)",
+        "weber (Wb)"
+      ]
+    },
+    {
+      "c": "A capacitor in steady-state DC behaves like",
+      "a": "an open circuit",
+      "d": [
+        "a short circuit",
+        "a fixed resistor"
+      ]
+    },
+    {
+      "c": "An inductor in steady-state DC behaves like",
+      "a": "a short circuit (a plain wire)",
+      "d": [
+        "an open circuit",
+        "a battery"
+      ]
+    },
+    {
+      "c": "RC circuit time constant",
+      "a": "τ = RC",
+      "d": [
+        "τ = R/C",
+        "τ = 1/(RC)",
+        "τ = L/R"
+      ]
+    },
+    {
+      "c": "Diode",
+      "a": "a device that lets current flow mainly in one direction",
+      "d": [
+        "a device that stores charge on plates",
+        "a device that steps voltage up or down"
+      ]
+    },
+    {
+      "c": "Typical forward voltage drop of a silicon diode",
+      "a": "about 0.7 V",
+      "d": [
+        "about 0.07 V",
+        "about 7 V",
+        "about 3.3 V"
+      ]
+    },
+    {
+      "c": "Two main jobs of a transistor",
+      "a": "amplifying signals and switching",
+      "d": [
+        "storing charge and filtering",
+        "rectifying and stepping voltage"
+      ]
+    },
+    {
+      "c": "Terminals of a MOSFET",
+      "a": "gate, drain, source",
+      "d": [
+        "base, collector, emitter",
+        "anode, cathode, grid"
+      ]
+    },
+    {
+      "c": "Terminals of a bipolar junction transistor (BJT)",
+      "a": "base, collector, emitter",
+      "d": [
+        "gate, drain, source",
+        "anode, cathode, grid"
+      ]
+    },
+    {
+      "c": "AND gate output is 1 when",
+      "a": "all inputs are 1",
+      "d": [
+        "any input is 1",
+        "the inputs differ"
+      ]
+    },
+    {
+      "c": "XOR gate output is 1 when",
+      "a": "the inputs differ",
+      "d": [
+        "all inputs are 1",
+        "all inputs are 0"
+      ]
+    },
+    {
+      "c": "Why NAND is called a universal gate",
+      "a": "any logic function can be built from NAND alone",
+      "d": [
+        "it is the fastest gate ever made",
+        "it works on both AC and DC"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Two rules for every circuit",
+    "text": [
+      "Electrical engineering starts with three quantities. Voltage is the energy per charge that pushes current; current is the rate at which charge flows; resistance opposes that flow. Ohm's law ties them together as V = IR, and the power a component uses is P = VI.",
+      "Two rules from Gustav Kirchhoff let you analyze any network of components. The current law says that charge does not pile up at a junction, so the current flowing in equals the current flowing out. The voltage law says that if you walk around any closed loop and add every rise and drop in voltage, you return to zero, because energy is conserved. With these rules, a circuit becomes a set of equations.",
+      "Not every component is a resistor. A capacitor stores energy in the electric field between its plates and blocks steady DC once charged. An inductor stores energy in a magnetic field and resists sudden changes in current. A diode lets current pass mainly in one direction, and a transistor lets a small signal control a large current, which makes amplifiers and the logic gates of every computer possible.",
+      "Power grids use AC because transformers can raise the voltage for long lines, cutting current and I²R losses, then lower it again for homes."
+    ],
+    "q": [
+      {
+        "q": "Which conservation law underlies Kirchhoff's voltage law?",
+        "o": [
+          "Conservation of energy",
+          "Conservation of charge",
+          "Conservation of momentum"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does a charged capacitor do to steady DC?",
+        "o": [
+          "Amplifies it",
+          "Blocks it",
+          "Converts it to AC"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why do grids raise voltage for long-distance lines?",
+        "o": [
+          "To raise the frequency",
+          "To make the wires hotter",
+          "To cut current and resistive losses"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

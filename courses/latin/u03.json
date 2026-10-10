@@ -1,0 +1,345 @@
+{
+  "title": "First declension: nouns in -a",
+  "note": "Nouns are listed with gender: rosa (f), rose. First-declension nouns end in -a, genitive -ae, and are feminine except words for men's jobs, like nauta (m), sailor. Singular: -a (subject), -ae (of), -ae (to, for), -am (object), -a (by, with). Plural: -ae, -arum, -is, -as, -is.",
+  "src": {
+    "t": "Allen and Greenough, 1st Declension",
+    "u": "https://dcc.dickinson.edu/grammar/latin/1st-declension-stem-paradigm-and-gender"
+  },
+  "items": [
+    {
+      "c": "aqua",
+      "a": "water",
+      "d": [
+        "fire",
+        "air"
+      ],
+      "ex": "Aqua est bona.",
+      "exT": "The water is good."
+    },
+    {
+      "c": "terra",
+      "a": "land, earth",
+      "d": [
+        "sea",
+        "sky"
+      ]
+    },
+    {
+      "c": "via",
+      "a": "road, way",
+      "d": [
+        "gate",
+        "house"
+      ],
+      "ex": "Via Appia est longa.",
+      "exT": "The Appian Way is long."
+    },
+    {
+      "c": "vita",
+      "a": "life",
+      "d": [
+        "death",
+        "soul"
+      ]
+    },
+    {
+      "c": "gratia",
+      "a": "grace, thanks",
+      "d": [
+        "anger, wrath",
+        "glory, fame"
+      ]
+    },
+    {
+      "c": "anima",
+      "a": "soul, breath",
+      "d": [
+        "body, flesh",
+        "blood"
+      ]
+    },
+    {
+      "c": "rosa (f)",
+      "a": "rose",
+      "d": [
+        "lily",
+        "leaf"
+      ]
+    },
+    {
+      "c": "silva (f)",
+      "a": "forest, woods",
+      "d": [
+        "field",
+        "island"
+      ]
+    },
+    {
+      "c": "insula (f)",
+      "a": "island",
+      "d": [
+        "forest",
+        "harbor"
+      ],
+      "ex": "Sicilia est insula.",
+      "exT": "Sicily is an island."
+    },
+    {
+      "c": "patria (f)",
+      "a": "homeland, fatherland",
+      "d": [
+        "family",
+        "father"
+      ]
+    },
+    {
+      "c": "stella (f)",
+      "a": "star",
+      "d": [
+        "moon",
+        "sky"
+      ]
+    },
+    {
+      "c": "luna (f)",
+      "a": "moon",
+      "d": [
+        "sun",
+        "star"
+      ],
+      "ex": "Luna in caelo est.",
+      "exT": "The moon is in the sky."
+    },
+    {
+      "c": "porta (f)",
+      "a": "gate, door",
+      "d": [
+        "wall",
+        "road"
+      ]
+    },
+    {
+      "c": "villa (f)",
+      "a": "country house, farmhouse",
+      "d": [
+        "city",
+        "temple"
+      ]
+    },
+    {
+      "c": "ira (f)",
+      "a": "anger",
+      "d": [
+        "fear",
+        "joy"
+      ]
+    },
+    {
+      "c": "fortuna (f)",
+      "a": "fortune, luck",
+      "d": [
+        "fame, glory",
+        "wealth, money"
+      ]
+    },
+    {
+      "c": "gloria (f)",
+      "a": "glory, fame",
+      "d": [
+        "anger",
+        "wisdom"
+      ]
+    },
+    {
+      "c": "familia (f)",
+      "a": "household, family",
+      "d": [
+        "homeland",
+        "friendship"
+      ]
+    },
+    {
+      "c": "filia (f)",
+      "a": "daughter",
+      "d": [
+        "son",
+        "sister"
+      ],
+      "ex": "Iulia est filia agricolae.",
+      "exT": "Julia is the farmer's daughter."
+    },
+    {
+      "c": "regina (f)",
+      "a": "queen",
+      "d": [
+        "king",
+        "goddess"
+      ]
+    },
+    {
+      "c": "dea (f)",
+      "a": "goddess",
+      "d": [
+        "queen",
+        "priestess"
+      ],
+      "ex": "Minerva est dea.",
+      "exT": "Minerva is a goddess."
+    },
+    {
+      "c": "nauta (m)",
+      "a": "sailor",
+      "d": [
+        "farmer",
+        "poet"
+      ],
+      "ex": "Nauta est in aqua.",
+      "exT": "The sailor is on the water."
+    },
+    {
+      "c": "agricola (m)",
+      "a": "farmer",
+      "d": [
+        "sailor",
+        "soldier"
+      ]
+    },
+    {
+      "c": "poeta (m)",
+      "a": "poet",
+      "d": [
+        "sailor",
+        "teacher"
+      ]
+    },
+    {
+      "c": "epistula (f)",
+      "a": "letter (message)",
+      "d": [
+        "book",
+        "word"
+      ]
+    },
+    {
+      "c": "pecunia (f)",
+      "a": "money",
+      "d": [
+        "gold",
+        "fortune"
+      ]
+    },
+    {
+      "c": "lingua (f)",
+      "a": "tongue; language",
+      "d": [
+        "word; speech",
+        "mouth; lips"
+      ],
+      "ex": "lingua Latina",
+      "exT": "the Latin language"
+    },
+    {
+      "c": "sapientia (f)",
+      "a": "wisdom",
+      "d": [
+        "courage",
+        "justice"
+      ]
+    },
+    {
+      "c": "rosa, ___ (genitive singular)",
+      "a": "rosae",
+      "d": [
+        "rosam",
+        "rosarum"
+      ],
+      "ex": "color rosae",
+      "exT": "the color of the rose"
+    },
+    {
+      "c": "Nauta ___ amat. (insula)",
+      "a": "insulam",
+      "d": [
+        "insula",
+        "insulae"
+      ],
+      "ex": "Nauta insulam amat.",
+      "exT": "The sailor loves the island."
+    },
+    {
+      "c": "filia ___ (the queen's daughter; regina)",
+      "a": "reginae",
+      "d": [
+        "reginam",
+        "regina"
+      ],
+      "ex": "Filia reginae est puella.",
+      "exT": "The queen's daughter is a girl."
+    },
+    {
+      "c": "___ cantant. (puella, plural)",
+      "a": "puellae",
+      "d": [
+        "puellas",
+        "puella"
+      ],
+      "ex": "Puellae cantant.",
+      "exT": "The girls are singing."
+    },
+    {
+      "c": "Agricola ___ amat. (filia, plural)",
+      "a": "filias",
+      "d": [
+        "filiae",
+        "filiarum"
+      ],
+      "ex": "Agricola filias amat.",
+      "exT": "The farmer loves his daughters."
+    },
+    {
+      "c": "puellarum",
+      "a": "of the girls",
+      "d": [
+        "to the girls",
+        "the girls (object)"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Iulia et Claudia",
+    "text": [
+      "Iulia est puella Romana. Iulia non est regina; Iulia est filia agricolae. Villa agricolae est in insula. In insula sunt silvae et rosae.",
+      "Claudia est amica Iuliae. Claudia est filia nautae. Nauta non est in villa; nauta est in aqua. Patria nautae est Graecia.",
+      "Ubi sunt puellae? Puellae non sunt in villa; sunt in silva. Agricola est in porta: \"Iulia! Claudia! Ubi estis?\""
+    ],
+    "q": [
+      {
+        "q": "Whose daughter is Julia?",
+        "o": [
+          "A sailor's",
+          "A farmer's",
+          "The queen's"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Where is Claudia's father?",
+        "o": [
+          "At the farmhouse",
+          "In the forest",
+          "On the water"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Where are the girls at the end?",
+        "o": [
+          "In the forest",
+          "In the farmhouse",
+          "On the water"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

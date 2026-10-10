@@ -1,0 +1,14 @@
+{
+  "key": "biology",
+  "name": "Biology",
+  "group": "Sciences",
+  "tag": "BIO",
+  "level": "Intro college",
+  "blurb": "The core of a first-year college biology course, from atoms and macromolecules through cells, energy, genetics, and gene expression to evolution and ecosystems. Know the terms, the mechanisms, and the numbers an intro exam expects.",
+  "sources": [
+    { "t": "OpenStax, Biology 2e", "u": "https://openstax.org/details/books/biology-2e" },
+    { "t": "OpenStax, Biology 2e (online chapters)", "u": "https://openstax.org/books/biology-2e/pages/2-introduction" },
+    { "t": "LibreTexts, General Biology 2e (OpenStax)", "u": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/General_Biology_2e_(OpenStax)" },
+    { "t": "Biology LibreTexts", "u": "https://bio.libretexts.org/" }
+  ]
+}

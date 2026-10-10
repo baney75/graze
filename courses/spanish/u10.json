@@ -1,0 +1,304 @@
+{
+  "title": "Places in town and directions",
+  "note": "A + el contracts to al, and de + el to del: Voy al banco; Está cerca del parque. A la and de la never contract. Ir (to go) is irregular: voy, vas, va, vamos, vais, van. Location phrases use estar with de: cerca de (near), lejos de (far from), al lado de (next to), enfrente de (across from).",
+  "src": {
+    "t": "Spanish 1A: Beginning Spanish (LibreTexts)",
+    "u": "https://human.libretexts.org/Courses/Chabot_College/Spanish_1A%3A_Beginning_Spanish_(2026)"
+  },
+  "items": [
+    {
+      "c": "la ciudad",
+      "a": "the city",
+      "d": [
+        "the town",
+        "the country"
+      ],
+      "ex": "Madrid es una ciudad muy grande.",
+      "exT": "Madrid is a very big city."
+    },
+    {
+      "c": "el pueblo",
+      "a": "the town, the village",
+      "d": [
+        "the city",
+        "the neighborhood"
+      ]
+    },
+    {
+      "c": "la calle",
+      "a": "the street",
+      "d": [
+        "the square",
+        "the corner"
+      ],
+      "ex": "Vivo en la calle Mayor.",
+      "exT": "I live on Mayor Street."
+    },
+    {
+      "c": "la plaza",
+      "a": "the town square",
+      "d": [
+        "the street",
+        "the avenue"
+      ]
+    },
+    {
+      "c": "la esquina",
+      "a": "the (street) corner",
+      "d": [
+        "the block",
+        "the crosswalk"
+      ]
+    },
+    {
+      "c": "el parque",
+      "a": "the park",
+      "d": [
+        "the parking lot",
+        "the garden"
+      ],
+      "ex": "Los domingos voy al parque.",
+      "exT": "On Sundays I go to the park."
+    },
+    {
+      "c": "el banco",
+      "a": "the bank",
+      "d": [
+        "the store",
+        "the office"
+      ]
+    },
+    {
+      "c": "el mercado",
+      "a": "the market",
+      "d": [
+        "the store",
+        "the square"
+      ],
+      "ex": "El mercado abre a las ocho.",
+      "exT": "The market opens at eight."
+    },
+    {
+      "c": "la tienda",
+      "a": "the store, the shop",
+      "d": [
+        "the market",
+        "the factory"
+      ],
+      "ex": "La tienda está cerrada hoy.",
+      "exT": "The store is closed today."
+    },
+    {
+      "c": "el supermercado",
+      "a": "the supermarket",
+      "d": [
+        "the market stall",
+        "the mall"
+      ]
+    },
+    {
+      "c": "la farmacia",
+      "a": "the pharmacy",
+      "d": [
+        "the hospital",
+        "the farm"
+      ]
+    },
+    {
+      "c": "la biblioteca",
+      "a": "the library",
+      "d": [
+        "the bookstore",
+        "the museum"
+      ],
+      "ex": "Estudio en la biblioteca.",
+      "exT": "I study at the library."
+    },
+    {
+      "c": "la librería",
+      "a": "the bookstore",
+      "d": [
+        "the library",
+        "the newsstand"
+      ]
+    },
+    {
+      "c": "el museo",
+      "a": "the museum",
+      "d": [
+        "the library",
+        "the theater"
+      ]
+    },
+    {
+      "c": "la iglesia",
+      "a": "the church",
+      "d": [
+        "the school",
+        "the square"
+      ]
+    },
+    {
+      "c": "el cine",
+      "a": "the movie theater",
+      "d": [
+        "the theater (plays)",
+        "the museum"
+      ]
+    },
+    {
+      "c": "el restaurante",
+      "a": "the restaurant",
+      "d": [
+        "the hotel",
+        "the café"
+      ]
+    },
+    {
+      "c": "aquí",
+      "a": "here",
+      "d": [
+        "there",
+        "near"
+      ]
+    },
+    {
+      "c": "allí",
+      "a": "there",
+      "d": [
+        "here",
+        "far"
+      ]
+    },
+    {
+      "c": "cerca de",
+      "a": "near, close to",
+      "d": [
+        "far from",
+        "inside"
+      ],
+      "ex": "El hotel está cerca de la plaza.",
+      "exT": "The hotel is near the square."
+    },
+    {
+      "c": "lejos de",
+      "a": "far from",
+      "d": [
+        "near",
+        "behind"
+      ],
+      "ex": "Mi casa está lejos de la escuela.",
+      "exT": "My house is far from the school."
+    },
+    {
+      "c": "al lado de",
+      "a": "next to",
+      "d": [
+        "across from",
+        "behind"
+      ],
+      "ex": "El banco está al lado del hotel.",
+      "exT": "The bank is next to the hotel."
+    },
+    {
+      "c": "enfrente de",
+      "a": "across from, facing",
+      "d": [
+        "next to",
+        "behind"
+      ]
+    },
+    {
+      "c": "detrás de",
+      "a": "behind",
+      "d": [
+        "in front of",
+        "next to"
+      ]
+    },
+    {
+      "c": "a la derecha",
+      "a": "to the right",
+      "d": [
+        "to the left",
+        "straight ahead"
+      ],
+      "ex": "El museo está a la derecha.",
+      "exT": "The museum is on the right."
+    },
+    {
+      "c": "a la izquierda",
+      "a": "to the left",
+      "d": [
+        "to the right",
+        "straight ahead"
+      ]
+    },
+    {
+      "c": "cruzar",
+      "a": "to cross",
+      "d": [
+        "to turn",
+        "to stop"
+      ]
+    },
+    {
+      "c": "¿Dónde está la farmacia?",
+      "a": "Where is the pharmacy?",
+      "d": [
+        "Is the pharmacy open?",
+        "When is the pharmacy?"
+      ]
+    },
+    {
+      "c": "Voy ___ banco.",
+      "a": "al",
+      "d": [
+        "a el",
+        "del"
+      ],
+      "ex": "Voy al banco y después al mercado.",
+      "exT": "I'm going to the bank and then to the market."
+    },
+    {
+      "c": "El hotel está cerca ___ parque.",
+      "a": "del",
+      "d": [
+        "de el",
+        "al"
+      ]
+    },
+    {
+      "c": "Vamos ___ plaza.",
+      "a": "a la",
+      "d": [
+        "al",
+        "a el"
+      ]
+    },
+    {
+      "c": "Ellos ___ al cine. (ir)",
+      "a": "van",
+      "d": [
+        "vamos",
+        "va"
+      ]
+    },
+    {
+      "c": "Yo ___ al mercado. (ir)",
+      "a": "voy",
+      "d": [
+        "va",
+        "vas"
+      ]
+    },
+    {
+      "c": "¿Adónde ___ tú? (ir)",
+      "a": "vas",
+      "d": [
+        "va",
+        "voy"
+      ]
+    }
+  ]
+}

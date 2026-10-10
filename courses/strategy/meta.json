@@ -1,0 +1,16 @@
+{
+  "key": "strategy",
+  "name": "Strategy & War",
+  "group": "Skills",
+  "tag": "STRATEGY",
+  "level": "All levels",
+  "blurb": "The classic strategic thinkers from Sun Tzu and Thucydides to Clausewitz, Mahan and Boyd, the principles of war, and the decisive campaigns from Cannae to Inchon. Finish able to read a conflict, a market or a negotiation the way a strategist does.",
+  "sources": [
+    { "t": "Sun Tzu, The Art of War, tr. Lionel Giles (1910), Project Gutenberg", "u": "https://www.gutenberg.org/ebooks/132" },
+    { "t": "Carl von Clausewitz, On War, tr. J. J. Graham, Project Gutenberg", "u": "https://www.gutenberg.org/ebooks/1946" },
+    { "t": "Niccolò Machiavelli, The Prince, tr. W. K. Marriott, Project Gutenberg", "u": "https://www.gutenberg.org/ebooks/1232" },
+    { "t": "FM 3-0, Operations (2025), Army Publishing Directorate", "u": "https://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=1030750" },
+    { "t": "World History, Volume 2: from 1400, OpenStax", "u": "https://openstax.org/details/books/world-history-volume-2" },
+    { "t": "Game Theory, Stanford Encyclopedia of Philosophy", "u": "https://plato.stanford.edu/entries/game-theory/" }
+  ]
+}

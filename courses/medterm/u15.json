@@ -1,0 +1,55 @@
+{
+  "title": "Blood, lymphatic and immune systems",
+  "note": "hem/o and hemat/o mean blood, and -cyte means cell, so color roots name the blood cells: erythrocyte (red), leukocyte (white), thrombocyte (clotting). Count suffixes: -penia too few, -cytosis too many, -poiesis formation. Lymphatic and immune roots include lymph/o, lymphaden/o, splen/o, thym/o and immun/o.",
+  "src": { "t": "Medical Terminology 2e (Open RN), 10.2 Word Components Related to Blood", "u": "https://med.libretexts.org/Bookshelves/Medicine/Medical_Terminology_2e_(OpenRN)/10%3A_Blood_Terminology/10.02%3A_Word_Components_Related_to_Blood" },
+  "items": [
+    { "c": "hem/o, hemat/o", "a": "blood", "d": ["vessel", "liver"] },
+    { "c": "-cyte", "a": "cell", "d": ["protein", "formation"] },
+    { "c": "erythr/o/cyte", "a": "red blood cell", "d": ["white blood cell", "platelet"] },
+    { "c": "leuk/o/cyte", "a": "white blood cell", "d": ["red blood cell", "platelet"] },
+    { "c": "thromb/o/cyte", "a": "platelet, a clotting cell fragment", "d": ["red blood cell, an oxygen carrier", "lymphocyte, an immune cell"] },
+    { "c": "-poiesis", "a": "formation, production", "d": ["breakdown, destruction", "stopping, controlling"] },
+    { "c": "hemat/o/poiesis", "a": "formation of blood cells", "d": ["breakdown of blood cells", "stopping of bleeding"], "ex": "In adults it takes place in the red bone marrow." },
+    { "c": "-cytosis", "a": "increase in the number of cells", "d": ["decrease in the number of cells", "breakdown of cells"] },
+    { "c": "leuk/o/cytosis", "a": "increase in white blood cells", "d": ["decrease in white blood cells", "increase in platelets"] },
+    { "c": "thromb/o/cyt/o/penia", "a": "decrease in platelets", "d": ["increase in platelets", "decrease in red blood cells"] },
+    { "c": "-globin", "a": "protein", "d": ["cell", "sugar"] },
+    { "c": "hem/o/globin", "a": "oxygen-carrying protein in red blood cells", "d": ["clotting protein in plasma", "antibody protein made by lymphocytes"] },
+    { "c": "coagul/o", "a": "clotting", "d": ["bleeding", "carrying oxygen"] },
+    { "c": "-stasis", "a": "stopping, controlling", "d": ["formation, production", "flow, discharge"] },
+    { "c": "hem/o/stasis", "a": "stopping of bleeding", "d": ["formation of blood cells", "breakdown of red blood cells"] },
+    { "c": "phag/o", "a": "eat, swallow", "d": ["carry", "attack"] },
+    { "c": "phag/o/cyte", "a": "cell that engulfs and digests particles", "d": ["cell that carries oxygen", "cell fragment that forms clots"] },
+    { "c": "eosin/o", "a": "rosy, red (dawn)", "d": ["neutral", "basic, blue"], "ex": "Eosinophils stain red-orange with the dye eosin." },
+    { "c": "neutr/o", "a": "neutral", "d": ["rosy, red", "single, one"], "ex": "Neutrophils are the most common white blood cells." },
+    { "c": "-apheresis", "a": "removal, withdrawal", "d": ["formation", "transfusion"] },
+    { "c": "plasm/apheresis", "a": "removal of plasma from withdrawn blood", "d": ["breakdown of plasma proteins", "transfusion of red blood cells"] },
+    { "c": "Liquid part of blood, with clotting factors", "a": "plasma", "d": ["serum", "lymph"] },
+    { "c": "Fluid left after blood has clotted", "a": "serum", "d": ["plasma", "lymph"] },
+    { "c": "lymph/o", "a": "lymph, lymph tissue", "d": ["blood plasma", "spleen"] },
+    { "c": "lymphaden/o", "a": "lymph node", "d": ["lymph vessel", "tonsil"] },
+    { "c": "lymphaden/o/pathy", "a": "disease of the lymph nodes", "d": ["inflammation of lymph vessels", "enlargement of the spleen"] },
+    { "c": "splen/o", "a": "spleen", "d": ["pancreas", "thymus"], "ex": "The spleen filters blood and removes old red cells." },
+    { "c": "splen/o/megaly", "a": "enlargement of the spleen", "d": ["removal of the spleen", "enlargement of the liver"] },
+    { "c": "thym/o", "a": "thymus gland", "d": ["thyroid gland", "spleen"], "ex": "T cells mature in the thymus." },
+    { "c": "immun/o", "a": "immune, protection", "d": ["poison", "lymph"] },
+    { "c": "tox/o", "a": "poison", "d": ["immunity", "infection"] },
+    { "c": "aut/o/immunity", "a": "immune response against the body's own tissues", "d": ["immune response to a vaccine", "lack of any immune response"], "ex": "aut/o means self." },
+    { "c": "antigen", "a": "substance that triggers an immune response", "d": ["protein made to bind a specific target", "cell that engulfs bacteria"] },
+    { "c": "antibody", "a": "protein that binds a specific antigen", "d": ["substance that triggers an immune response", "cell fragment that forms clots"] },
+    { "c": "Universal donor red cell blood type", "a": "O negative", "d": ["AB positive", "A negative"] }
+  ],
+  "read": {
+    "title": "Counting cells",
+    "text": [
+      "Blood is a liquid tissue. About half of it is plasma, a straw-colored liquid that carries proteins, nutrients and clotting factors. The rest is formed elements, all arising in the red bone marrow through hematopoiesis. Each is named with -cyte, cell, and a color or function root. Erythrocytes, the red cells, carry oxygen bound to hemoglobin. Leukocytes, the white cells, defend the body; their types include neutrophils, eosinophils and lymphocytes. Thrombocytes, or platelets, are cell fragments that help form clots and stop bleeding, a process called hemostasis.",
+      "Laboratory results are often described with count suffixes. Add -penia when a count is low and -cytosis when it is high: thrombocytopenia is a low platelet count and leukocytosis is a high white cell count.",
+      "The lymphatic system returns tissue fluid, called lymph, to the blood and filters it through lymph nodes (lymphaden/o). The spleen (splen/o) filters blood, and the thymus (thym/o) is where T lymphocytes mature. Immune vocabulary rests on a simple pair: an antigen is anything that triggers an immune response, and an antibody is a protein that binds to a specific antigen."
+    ],
+    "q": [
+      { "q": "Where are blood cells formed in adults?", "o": ["In the red bone marrow", "In the spleen", "In the lymph nodes", "In the liver"], "k": 0 },
+      { "q": "What does thrombocytopenia mean?", "o": ["A low platelet count", "A high platelet count", "A low red cell count"], "k": 0 },
+      { "q": "Which organ is the site where T lymphocytes mature?", "o": ["The thymus", "The spleen", "The thyroid"], "k": 0 }
+    ]
+  }
+}

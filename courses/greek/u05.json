@@ -1,0 +1,320 @@
+{
+  "title": "Second declension: neuter and feminine nouns",
+  "note": "Neuter nouns in -ον decline like λόγος, but the nominative and accusative are always the same, and the plural ends in -α: ἔργον, ἔργου, ἔργῳ, ἔργον; ἔργα, ἔργων, ἔργοις, ἔργα. A neuter plural subject usually takes a singular verb. A few -ος nouns are feminine and take ἡ: ἡ ὁδός, the road.",
+  "src": {
+    "t": "Ancient Greek nouns, second declension (Wikipedia)",
+    "u": "https://en.wikipedia.org/wiki/Ancient_Greek_nouns"
+  },
+  "items": [
+    {
+      "c": "ἔργον, -ου, τό",
+      "a": "work, deed",
+      "d": [
+        "word, speech",
+        "gift"
+      ],
+      "ex": "τὰ ἔργα τοῦ θεοῦ",
+      "exT": "the works of God",
+      "r": "ergon",
+      "say": "ἔργον"
+    },
+    {
+      "c": "τέκνον, -ου, τό",
+      "a": "child",
+      "d": [
+        "slave",
+        "brother"
+      ],
+      "ex": "τέκνα θεοῦ",
+      "exT": "children of God",
+      "r": "teknon",
+      "say": "τέκνον"
+    },
+    {
+      "c": "δῶρον, -ου, τό",
+      "a": "gift",
+      "d": [
+        "work, deed",
+        "temple"
+      ],
+      "r": "dōron",
+      "say": "δῶρον",
+      "ex": "τὸ δῶρον τοῦ θεοῦ",
+      "exT": "the gift of God"
+    },
+    {
+      "c": "εὐαγγέλιον, -ου, τό",
+      "a": "good news, gospel",
+      "d": [
+        "sign, miracle",
+        "teaching, doctrine"
+      ],
+      "ex": "τὸ εὐαγγέλιον τοῦ θεοῦ",
+      "exT": "the gospel of God",
+      "r": "euangelion",
+      "say": "εὐαγγέλιον"
+    },
+    {
+      "c": "ἱερόν, -οῦ, τό",
+      "a": "temple",
+      "d": [
+        "tomb",
+        "house"
+      ],
+      "ex": "ἐν τῷ ἱερῷ",
+      "exT": "in the temple",
+      "r": "hieron",
+      "say": "ἱερόν"
+    },
+    {
+      "c": "πλοῖον, -ου, τό",
+      "a": "boat, ship",
+      "d": [
+        "horse",
+        "road"
+      ],
+      "r": "ploion",
+      "say": "πλοῖον",
+      "ex": "ἐν τῷ πλοίῳ",
+      "exT": "in the boat"
+    },
+    {
+      "c": "βιβλίον, -ου, τό",
+      "a": "book, scroll",
+      "d": [
+        "letter, writing",
+        "garment"
+      ],
+      "r": "biblion",
+      "say": "βιβλίον",
+      "ex": "τὸ βιβλίον τοῦ νόμου",
+      "exT": "the book of the law"
+    },
+    {
+      "c": "πρόσωπον, -ου, τό",
+      "a": "face",
+      "d": [
+        "hand",
+        "mouth"
+      ],
+      "r": "prosōpon",
+      "say": "πρόσωπον",
+      "ex": "πρόσωπον πρὸς πρόσωπον",
+      "exT": "face to face"
+    },
+    {
+      "c": "δαιμόνιον, -ου, τό",
+      "a": "demon (NT); divine sign (Plato)",
+      "d": [
+        "angel (NT); messenger (Plato)",
+        "soul (NT); mind (Plato)"
+      ],
+      "r": "daimonion",
+      "say": "δαιμόνιον"
+    },
+    {
+      "c": "ἱμάτιον, -ου, τό",
+      "a": "cloak, garment",
+      "d": [
+        "sandal",
+        "belt"
+      ],
+      "r": "himation",
+      "say": "ἱμάτιον",
+      "ex": "τὸ ἱμάτιον αὐτοῦ",
+      "exT": "his cloak"
+    },
+    {
+      "c": "σημεῖον, -ου, τό",
+      "a": "sign, miracle",
+      "d": [
+        "tomb, memorial",
+        "gift"
+      ],
+      "ex": "σημεῖα καὶ τέρατα",
+      "exT": "signs and wonders",
+      "r": "sēmeion",
+      "say": "σημεῖον"
+    },
+    {
+      "c": "μνημεῖον, -ου, τό",
+      "a": "tomb, memorial",
+      "d": [
+        "temple",
+        "sign, miracle"
+      ],
+      "r": "mnēmeion",
+      "say": "μνημεῖον",
+      "ex": "ἐκ τοῦ μνημείου",
+      "exT": "out of the tomb"
+    },
+    {
+      "c": "θηρίον, -ου, τό",
+      "a": "wild animal, beast",
+      "d": [
+        "horse",
+        "fish"
+      ],
+      "r": "thērion",
+      "say": "θηρίον"
+    },
+    {
+      "c": "ζῷον, -ου, τό",
+      "a": "living being, animal",
+      "d": [
+        "plant",
+        "corpse"
+      ],
+      "ex": "ζῷον πολιτικόν",
+      "exT": "a political animal (Aristotle)",
+      "r": "zōon",
+      "say": "ζῷον"
+    },
+    {
+      "c": "δένδρον, -ου, τό",
+      "a": "tree",
+      "d": [
+        "stone",
+        "field"
+      ],
+      "r": "dendron",
+      "say": "δένδρον",
+      "ex": "δένδρον ἀγαθόν",
+      "exT": "a good tree"
+    },
+    {
+      "c": "φάρμακον, -ου, τό",
+      "a": "drug: remedy or poison",
+      "d": [
+        "food",
+        "wine"
+      ],
+      "r": "pharmakon",
+      "say": "φάρμακον"
+    },
+    {
+      "c": "μέτρον, -ου, τό",
+      "a": "measure",
+      "d": [
+        "number",
+        "weight"
+      ],
+      "r": "metron",
+      "say": "μέτρον"
+    },
+    {
+      "c": "ὅπλον, -ου, τό",
+      "a": "tool; (plural) weapons",
+      "d": [
+        "gift; (plural) riches",
+        "ship; (plural) fleet"
+      ],
+      "r": "hoplon",
+      "say": "ὅπλον"
+    },
+    {
+      "c": "ὁδός, -οῦ, ἡ",
+      "a": "road, way",
+      "d": [
+        "house, household",
+        "gate"
+      ],
+      "ex": "ἡ ὁδὸς τοῦ κυρίου",
+      "exT": "the way of the Lord",
+      "r": "hodos",
+      "say": "ὁδός"
+    },
+    {
+      "c": "ἔρημος, -ου, ἡ",
+      "a": "desert, wilderness",
+      "d": [
+        "island",
+        "sea"
+      ],
+      "ex": "φωνὴ βοῶντος ἐν τῇ ἐρήμῳ",
+      "exT": "a voice of one crying in the wilderness",
+      "r": "erēmos",
+      "say": "ἔρημος"
+    },
+    {
+      "c": "νῆσος, -ου, ἡ",
+      "a": "island",
+      "d": [
+        "desert",
+        "mountain"
+      ],
+      "r": "nēsos",
+      "say": "νῆσος",
+      "ex": "ἐν τῇ νήσῳ",
+      "exT": "on the island"
+    },
+    {
+      "c": "παρθένος, -ου, ἡ",
+      "a": "virgin, maiden",
+      "d": [
+        "mother",
+        "widow"
+      ],
+      "r": "parthenos",
+      "say": "παρθένος",
+      "ex": "ἡ παρθένος ἐν γαστρὶ ἕξει",
+      "exT": "the virgin will conceive"
+    },
+    {
+      "c": "τὰ ___ τοῦ θεοῦ (the works of God; ἔργον)",
+      "a": "ἔργα",
+      "d": [
+        "ἔργον",
+        "ἔργων"
+      ]
+    },
+    {
+      "c": "nominative plural of τέκνον",
+      "a": "τέκνα",
+      "d": [
+        "τέκνοι",
+        "τέκνων"
+      ]
+    },
+    {
+      "c": "genitive singular of δῶρον",
+      "a": "δώρου",
+      "d": [
+        "δώρῳ",
+        "δῶρα"
+      ]
+    },
+    {
+      "c": "ἐν τῷ ___ (in the temple; ἱερόν)",
+      "a": "ἱερῷ",
+      "d": [
+        "ἱερόν",
+        "ἱεροῦ"
+      ]
+    },
+    {
+      "c": "ἐν τῇ ___ (in the wilderness; ἔρημος)",
+      "a": "ἐρήμῳ",
+      "d": [
+        "ἐρήμου",
+        "ἔρημον"
+      ]
+    },
+    {
+      "c": "dative plural of ἔργον",
+      "a": "ἔργοις",
+      "d": [
+        "ἔργα",
+        "ἔργων"
+      ]
+    },
+    {
+      "c": "accusative singular of ὁδός",
+      "a": "ὁδόν",
+      "d": [
+        "ὁδοῦ",
+        "ὁδῷ"
+      ]
+    }
+  ]
+}

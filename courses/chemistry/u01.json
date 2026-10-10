@@ -1,0 +1,54 @@
+{
+  "title": "Measurement, units and significant figures",
+  "note": "Every measurement has some uncertainty, and the digits you report should show it. Significant figures are the certain digits plus one estimated digit. When multiplying or dividing, keep the fewest significant figures of any input; when adding or subtracting, keep the fewest decimal places.",
+  "src": { "t": "Chemistry 2e, 1.5 Measurement Uncertainty, Accuracy, and Precision, OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/1-5-measurement-uncertainty-accuracy-and-precision" },
+  "items": [
+    { "c": "SI base unit of mass", "a": "kilogram (kg)", "d": ["gram (g)", "pound (lb)"], "ex": "The kilogram is the only SI base unit that carries a prefix." },
+    { "c": "SI base unit of temperature", "a": "kelvin (K)", "d": ["degree Celsius (°C)", "degree Fahrenheit (°F)"] },
+    { "c": "SI base unit for amount of substance", "a": "mole (mol)", "d": ["gram (g)", "liter (L)"] },
+    { "c": "SI base unit of length", "a": "meter (m)", "d": ["centimeter (cm)", "inch (in)"] },
+    { "c": "Metric prefix kilo- (k)", "a": "10³", "d": ["10⁻³", "10⁶"] },
+    { "c": "Metric prefix milli- (m)", "a": "10⁻³", "d": ["10³", "10⁻⁶"] },
+    { "c": "Metric prefix micro- (µ)", "a": "10⁻⁶", "d": ["10⁻⁹", "10⁻³"] },
+    { "c": "Metric prefix nano- (n)", "a": "10⁻⁹", "d": ["10⁻⁶", "10⁻¹²"] },
+    { "c": "Metric prefix centi- (c)", "a": "10⁻²", "d": ["10⁻¹", "10⁻³"] },
+    { "c": "Metric prefix mega- (M)", "a": "10⁶", "d": ["10³", "10⁹"] },
+    { "c": "One milliliter (mL) equals", "a": "1 cm³", "d": ["1 dm³", "1 m³"] },
+    { "c": "Milliliters in one liter", "a": "1000 mL", "d": ["100 mL", "10 mL"] },
+    { "c": "Density", "a": "mass divided by volume", "d": ["volume divided by mass", "mass times volume"] },
+    { "c": "Converting °C to kelvin", "a": "K = °C + 273.15", "d": ["K = °C − 273.15", "K = 1.8 × °C + 32"] },
+    { "c": "Absolute zero in degrees Celsius", "a": "−273.15 °C", "d": ["0 °C", "−459.67 °C"], "ex": "−459.67 is absolute zero on the Fahrenheit scale." },
+    { "c": "Freezing point of water in kelvin (1 atm)", "a": "273.15 K", "d": ["0 K", "373.15 K"] },
+    { "c": "Significant figures in 0.00450", "a": "3", "d": ["5", "2"], "ex": "Leading zeros only place the decimal point; the trailing zero after 5 counts." },
+    { "c": "Significant figures in 1.005", "a": "4", "d": ["2", "3"] },
+    { "c": "Significant figures in 6.02 × 10²³", "a": "three", "d": ["twenty-three", "two"] },
+    { "c": "Leading zeros, as in 0.0032", "a": "are never significant", "d": ["are always significant", "count only in scientific notation"] },
+    { "c": "Captive zeros, as in 4007", "a": "are always significant", "d": ["are never significant", "count only after a decimal point"] },
+    { "c": "Sig-fig rule for multiplying or dividing", "a": "keep the fewest significant figures of any input", "d": ["keep the fewest decimal places of any input", "keep the most significant figures of any input"] },
+    { "c": "Sig-fig rule for adding or subtracting", "a": "keep the fewest decimal places of any input", "d": ["keep the fewest significant figures of any input", "keep the most decimal places of any input"] },
+    { "c": "1.0023 g + 4.383 g, correctly rounded", "a": "5.385 g", "d": ["5.3853 g", "5.38 g"] },
+    { "c": "0.6238 cm × 6.6 cm, correctly rounded", "a": "4.1 cm²", "d": ["4.117 cm²", "4.12 cm²"] },
+    { "c": "Exact numbers, like 12 eggs in a dozen", "a": "have unlimited significant figures", "d": ["have one significant figure", "have two significant figures"] },
+    { "c": "Accuracy", "a": "how close a measurement is to the true value", "d": ["how close repeated measurements are to each other", "how many digits a measurement shows"] },
+    { "c": "Precision", "a": "how close repeated measurements are to each other", "d": ["how close a measurement is to the true value", "the size of the smallest scale division"] },
+    { "c": "Which is an intensive property?", "a": "density", "d": ["mass", "volume"], "ex": "Intensive properties do not depend on sample size." },
+    { "c": "Extensive property", "a": "depends on the amount of matter present", "d": ["is the same for any sample size", "depends only on temperature"] },
+    { "c": "Dimensional analysis", "a": "multiplying by conversion factors so units cancel", "d": ["averaging repeated trials to reduce error", "rounding answers to the correct digits"] },
+    { "c": "1.50 km in meters", "a": "1.50 × 10³ m", "d": ["1.50 × 10⁻³ m", "1.50 × 10² m"] },
+    { "c": "Which is a chemical change?", "a": "iron rusting", "d": ["ice melting", "sugar dissolving in water"] }
+  ],
+  "read": {
+    "title": "What the digits are telling you",
+    "text": [
+      "Suppose you weigh a coin on a balance that reads to the hundredth of a gram and see 2.53 g. The 2 and the 5 are certain, and the final 3 is your best estimate. All three are significant figures. Writing 2.530 g would claim a precision the balance never gave you, so the number of digits you record is a statement about the quality of the measurement.",
+      "Zeros need care. Zeros between nonzero digits always count. Zeros at the front of a small number, as in 0.0045, only locate the decimal point and never count. Trailing zeros after a decimal point do count, because someone chose to record them. Scientific notation removes doubt: 4.50 × 10³ clearly has three significant figures.",
+      "Calculated results cannot be more certain than the data behind them. For multiplication and division, the answer keeps as many significant figures as the input with the fewest. For addition and subtraction, what matters is decimal places: the answer stops at the last decimal place that every input shares. Counted quantities and defined conversions, such as 1000 mL in a liter, are exact and never limit an answer.",
+      "Finally, precise is not the same as accurate. Precise measurements agree with each other; accurate ones are close to the true value. A miscalibrated balance can be very precise and still wrong."
+    ],
+    "q": [
+      { "q": "Why should a mass read as 2.53 g not be written as 2.530 g?", "o": ["Trailing zeros are never allowed", "It would claim more precision than the balance gave", "Masses must have exactly three digits"], "k": 1 },
+      { "q": "Which rule limits the answer when you add measurements?", "o": ["The fewest significant figures among the inputs", "The number of inputs added", "The fewest decimal places among the inputs"], "k": 2 },
+      { "q": "A miscalibrated balance gives nearly identical wrong readings. These readings are", "o": ["precise but not accurate", "accurate but not precise", "both accurate and precise"], "k": 0 }
+    ]
+  }
+}

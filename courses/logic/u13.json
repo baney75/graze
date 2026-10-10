@@ -1,0 +1,49 @@
+{
+  "title": "Definitions and conceptual analysis",
+  "note": "A definition pairs a term (the definiendum) with words that give its meaning (the definiens). Lexical definitions report usage, stipulative ones assign a meaning, and precising ones sharpen a vague term. A good definition is neither too broad nor too narrow and is not circular. Conceptual analysis tests a proposed definition against real and imagined cases.",
+  "src": { "t": "Definitions, Stanford Encyclopedia of Philosophy", "u": "https://plato.stanford.edu/entries/definitions/" },
+  "items": [
+    { "c": "Definiendum", "a": "the term being defined", "d": ["the words that give the meaning", "an example of the term"] },
+    { "c": "Definiens", "a": "the words that give the term's meaning", "d": ["the term being defined", "an object the term names"] },
+    { "c": "Lexical definition", "a": "reports how a word is already used", "d": ["assigns a brand-new meaning to a word", "defines by pointing at examples"] },
+    { "c": "Stipulative definition", "a": "assigns a meaning without claiming to report usage", "d": ["reports how a word is already used", "defines by pointing at examples"] },
+    { "c": "Precising definition", "a": "sharpens a vague term for a purpose", "d": ["reports a word's history", "defines a word to stir feelings"] },
+    { "c": "Persuasive definition", "a": "defines a term to sway attitudes toward it", "d": ["defines a term by its origin", "defines a term by listing members"] },
+    { "c": "Ostensive definition", "a": "defines by pointing to examples", "d": ["defines by giving a synonym", "defines by genus and difference"] },
+    { "c": "Definition by genus and difference", "a": "names a broader class, then what sets it apart", "d": ["lists every member of the class", "gives a word with the same meaning"] },
+    { "c": "Genus in 'A triangle is a three-sided polygon'", "a": "polygon", "d": ["three-sided", "triangle", "side"] },
+    { "c": "Too-broad definition", "a": "includes things the term does not apply to", "d": ["leaves out things the term applies to", "uses the term to define itself"] },
+    { "c": "Too-narrow definition", "a": "leaves out things the term applies to", "d": ["includes things the term does not apply to", "uses vague or figurative words"] },
+    { "c": "'A bird is an animal that flies' is", "a": "both too broad and too narrow", "d": ["too broad only", "too narrow only", "just right"], "ex": "Bats fly but are not birds; penguins are birds but do not fly." },
+    { "c": "'A chair is a piece of furniture' is", "a": "too broad", "d": ["too narrow", "circular", "just right"] },
+    { "c": "Circular definition", "a": "uses the term itself, or a synonym, to define it", "d": ["defines a term by pointing at examples", "includes too many cases"] },
+    { "c": "'Freedom is the state of being free' is", "a": "circular", "d": ["too narrow", "ostensive", "precising"] },
+    { "c": "Extension of a term", "a": "the set of things the term applies to", "d": ["the features something must have to fall under it", "the term's dictionary entry"] },
+    { "c": "Intension of a term", "a": "the features something must have to fall under it", "d": ["the set of things the term applies to", "the term's emotional tone"] },
+    { "c": "'Creature with a heart' vs. 'with kidneys'", "a": "same extension, different intension", "d": ["same intension, different extension", "same extension and intension"] },
+    { "c": "Classical analysis gives a concept's", "a": "necessary and sufficient conditions", "d": ["most typical examples", "word history", "emotional associations"] },
+    { "c": "Counterexample to a definition", "a": "a case that fits the definition but not the term, or vice versa", "d": ["a case that fits both the definition and the term", "a synonym for the term"] },
+    { "c": "Gettier cases challenged the analysis of", "a": "knowledge as justified true belief", "d": ["truth as correspondence with fact", "causation as constant conjunction"] },
+    { "c": "Vague term", "a": "a term with borderline cases, like 'tall'", "d": ["a term with two distinct meanings, like 'bank'", "a term with no meaning at all"] },
+    { "c": "Ambiguous term", "a": "a term with two or more distinct meanings", "d": ["a term with borderline cases", "a term no one can define"] },
+    { "c": "Verbal dispute", "a": "a disagreement only about what a word means", "d": ["a disagreement about the facts", "a disagreement carried on aloud"] },
+    { "c": "Family resemblance (Wittgenstein)", "a": "overlapping similarities with no single shared feature", "d": ["one essential feature all members share", "a resemblance among relatives"], "ex": "Wittgenstein's example was 'game'." },
+    { "c": "Socrates' 'What is courage?' seeks", "a": "a definition covering all and only cases", "d": ["a list of brave people", "a report of how brave people feel"] },
+    { "c": "Real definition (traditional)", "a": "states the essence of the thing itself", "d": ["states the meaning of the word", "points to an example"] },
+    { "c": "Nominal definition", "a": "states the meaning of the word", "d": ["states the essence of the thing itself", "lists the word's translations"] }
+  ],
+  "read": {
+    "title": "Testing a definition",
+    "text": [
+      "Many disagreements turn on words. Before arguing whether something is fair, art, or free, it helps to ask what the word means. A definition pairs the term being defined, the definiendum, with words that give its meaning, the definiens.",
+      "Definitions do different jobs. A lexical definition reports how a word is already used, as a dictionary does. A stipulative definition assigns a meaning for present purposes. A precising definition sharpens a vague term, as a law might define 'adult' as anyone eighteen or older.",
+      "A proposed definition can be tested with cases. Try 'A bird is an animal that flies.' Bats fly but are not birds, so the definition is too broad. Penguins are birds but cannot fly, so it is also too narrow. A good definition fits all and only the things the term applies to. It also must not be circular: 'freedom is being free' teaches nothing.",
+      "This method of proposing definitions and testing them against cases, real or imagined, is conceptual analysis. Socrates practiced it when he asked what courage or justice is. A famous modern example: Edmund Gettier described cases of justified true belief that seem not to be knowledge, challenging a long-popular definition."
+    ],
+    "q": [
+      { "q": "Why is 'A bird is an animal that flies' too broad?", "o": ["Penguins cannot fly", "Bats fly but are not birds", "It is circular"], "k": 1 },
+      { "q": "A law defining 'adult' as anyone eighteen or older gives what kind of definition?", "o": ["Precising", "Ostensive", "Circular", "Persuasive"], "k": 0 },
+      { "q": "What did Gettier's cases challenge?", "o": ["The definition of courage", "The idea that birds fly", "Knowledge as justified true belief"], "k": 2 }
+    ]
+  }
+}

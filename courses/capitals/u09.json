@@ -1,0 +1,21 @@
+{
+  "title": "The Northeast of the United States",
+  "kind": "map",
+  "set": "us",
+  "note": "The Census Bureau groups nine states as the Northeast: the six New England states (Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut) plus New York, New Jersey and Pennsylvania. Rhode Island is the smallest state by area.",
+  "src": {
+    "t": "US Census Bureau cartographic boundaries via us-atlas",
+    "u": "https://github.com/topojson/us-atlas"
+  },
+  "items": [
+    { "p": "CT", "a": "Connecticut", "d": ["Rhode Island", "Massachusetts", "New Jersey"] },
+    { "p": "ME", "a": "Maine", "d": ["New Hampshire", "Vermont", "Massachusetts"] },
+    { "p": "MA", "a": "Massachusetts", "d": ["Rhode Island", "Connecticut", "New Hampshire"] },
+    { "p": "NH", "a": "New Hampshire", "d": ["Vermont", "Massachusetts", "Maine"] },
+    { "p": "RI", "a": "Rhode Island", "d": ["Massachusetts", "Connecticut", "New Hampshire"] },
+    { "p": "VT", "a": "Vermont", "d": ["New Hampshire", "Massachusetts", "New York"] },
+    { "p": "NJ", "a": "New Jersey", "d": ["Connecticut", "Pennsylvania", "Rhode Island"] },
+    { "p": "NY", "a": "New York", "d": ["Vermont", "Connecticut", "Pennsylvania"] },
+    { "p": "PA", "a": "Pennsylvania", "d": ["New Jersey", "New York", "Connecticut"] }
+  ]
+}

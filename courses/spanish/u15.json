@@ -1,0 +1,343 @@
+{
+  "title": "Weather, nature and seasons",
+  "note": "Many weather phrases use hacer: Hace frío, Hace sol, Hace buen tiempo. Because frío and calor are nouns here, very is mucho, not muy: Hace mucho calor. Sky conditions use estar: Está nublado. Llover and nevar are used only in the third person: Llueve, Nieva. Seasons are reversed south of the equator.",
+  "src": {
+    "t": "Spanish 1A (LibreTexts), 5.3 El clima",
+    "u": "https://human.libretexts.org/Courses/Chabot_College/Spanish/Spanish_1A%3A_Beginning_Spanish_(2026)/05%3A_Capitulo_5-_Adonde_fuiste_de_vacaciones/5.03%3A_Vocabulario-_El_clima"
+  },
+  "items": [
+    {
+      "c": "¿Qué tiempo hace?",
+      "a": "What's the weather like?",
+      "d": [
+        "What time is it?",
+        "How long does it take?"
+      ],
+      "ex": "—¿Qué tiempo hace hoy? —Hace sol.",
+      "exT": "What's the weather like today? It's sunny."
+    },
+    {
+      "c": "el tiempo",
+      "a": "the weather, time",
+      "d": [
+        "the climate zone",
+        "the season"
+      ]
+    },
+    {
+      "c": "Hace calor.",
+      "a": "It's hot.",
+      "d": [
+        "It's cold.",
+        "It's cool."
+      ],
+      "ex": "En verano hace calor.",
+      "exT": "In summer it's hot."
+    },
+    {
+      "c": "Hace frío.",
+      "a": "It's cold.",
+      "d": [
+        "It's hot.",
+        "It's windy."
+      ],
+      "ex": "Hoy hace frío; llevo abrigo.",
+      "exT": "It's cold today; I'm wearing a coat."
+    },
+    {
+      "c": "Hace fresco.",
+      "a": "It's cool.",
+      "d": [
+        "It's sunny.",
+        "It's warm."
+      ]
+    },
+    {
+      "c": "Hace sol.",
+      "a": "It's sunny.",
+      "d": [
+        "It's cloudy.",
+        "It's hot."
+      ]
+    },
+    {
+      "c": "Hace viento.",
+      "a": "It's windy.",
+      "d": [
+        "It's raining.",
+        "It's cold."
+      ]
+    },
+    {
+      "c": "Hace buen tiempo.",
+      "a": "The weather is nice.",
+      "d": [
+        "The weather is bad.",
+        "It's a good time."
+      ]
+    },
+    {
+      "c": "Hace mal tiempo.",
+      "a": "The weather is bad.",
+      "d": [
+        "The weather is nice.",
+        "It's late."
+      ]
+    },
+    {
+      "c": "Llueve.",
+      "a": "It's raining.",
+      "d": [
+        "It's snowing.",
+        "It's cloudy."
+      ],
+      "ex": "En abril llueve mucho.",
+      "exT": "In April it rains a lot."
+    },
+    {
+      "c": "Nieva.",
+      "a": "It's snowing.",
+      "d": [
+        "It's raining.",
+        "It's foggy."
+      ],
+      "ex": "En enero nieva en las montañas.",
+      "exT": "In January it snows in the mountains."
+    },
+    {
+      "c": "Está nublado.",
+      "a": "It's cloudy.",
+      "d": [
+        "It's clear.",
+        "It's foggy."
+      ],
+      "ex": "Está nublado, pero no llueve.",
+      "exT": "It's cloudy, but it's not raining."
+    },
+    {
+      "c": "la lluvia",
+      "a": "the rain",
+      "d": [
+        "the snow",
+        "the cloud"
+      ]
+    },
+    {
+      "c": "la nieve",
+      "a": "the snow",
+      "d": [
+        "the rain",
+        "the ice"
+      ]
+    },
+    {
+      "c": "el sol",
+      "a": "the sun",
+      "d": [
+        "the moon",
+        "the sky"
+      ]
+    },
+    {
+      "c": "la nube",
+      "a": "the cloud",
+      "d": [
+        "the sky",
+        "the fog"
+      ]
+    },
+    {
+      "c": "el cielo",
+      "a": "the sky",
+      "d": [
+        "the cloud",
+        "the star"
+      ]
+    },
+    {
+      "c": "la primavera",
+      "a": "spring",
+      "d": [
+        "summer",
+        "fall"
+      ],
+      "ex": "En primavera hay muchas flores.",
+      "exT": "In spring there are many flowers."
+    },
+    {
+      "c": "el verano",
+      "a": "summer",
+      "d": [
+        "spring",
+        "winter"
+      ]
+    },
+    {
+      "c": "el otoño",
+      "a": "fall, autumn",
+      "d": [
+        "winter",
+        "spring"
+      ]
+    },
+    {
+      "c": "el invierno",
+      "a": "winter",
+      "d": [
+        "fall",
+        "summer"
+      ],
+      "ex": "El invierno es muy frío aquí.",
+      "exT": "Winter is very cold here."
+    },
+    {
+      "c": "el mar",
+      "a": "the sea",
+      "d": [
+        "the river",
+        "the lake"
+      ],
+      "ex": "Me gusta nadar en el mar.",
+      "exT": "I like to swim in the sea."
+    },
+    {
+      "c": "el río",
+      "a": "the river",
+      "d": [
+        "the sea",
+        "the lake"
+      ]
+    },
+    {
+      "c": "el lago",
+      "a": "the lake",
+      "d": [
+        "the river",
+        "the sea"
+      ]
+    },
+    {
+      "c": "la montaña",
+      "a": "the mountain",
+      "d": [
+        "the hill",
+        "the valley"
+      ]
+    },
+    {
+      "c": "el árbol",
+      "a": "the tree",
+      "d": [
+        "the bush",
+        "the flower"
+      ],
+      "ex": "Hay un árbol grande en el jardín.",
+      "exT": "There's a big tree in the garden."
+    },
+    {
+      "c": "la flor",
+      "a": "the flower",
+      "d": [
+        "the tree",
+        "the leaf"
+      ]
+    },
+    {
+      "c": "el bosque",
+      "a": "the forest, the woods",
+      "d": [
+        "the field",
+        "the park"
+      ]
+    },
+    {
+      "c": "el campo",
+      "a": "the countryside, the field",
+      "d": [
+        "the camp",
+        "the forest"
+      ]
+    },
+    {
+      "c": "Hoy ___ mucho calor.",
+      "a": "hace",
+      "d": [
+        "está",
+        "es"
+      ],
+      "ex": "Hoy hace mucho calor.",
+      "exT": "It's very hot today."
+    },
+    {
+      "c": "Hace ___ frío.",
+      "a": "mucho",
+      "d": [
+        "muy",
+        "mucha"
+      ]
+    },
+    {
+      "c": "___ nublado.",
+      "a": "Está",
+      "d": [
+        "Hace",
+        "Es"
+      ]
+    },
+    {
+      "c": "En invierno ___ mucho. (nevar)",
+      "a": "nieva",
+      "d": [
+        "neva",
+        "nievan"
+      ]
+    },
+    {
+      "c": "En otoño ___ mucho. (llover)",
+      "a": "llueve",
+      "d": [
+        "llove",
+        "lluevan"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Las estaciones en Madrid",
+    "text": [
+      "En Madrid hay cuatro estaciones. En verano hace mucho calor y hace sol casi todos los días. Mucha gente va a la playa, pero Madrid no está cerca del mar.",
+      "En otoño hace fresco y llueve a veces. Los árboles del parque están amarillos y anaranjados. En invierno hace frío, pero no nieva mucho en la ciudad. En las montañas, cerca de Madrid, sí nieva.",
+      "La primavera es mi estación favorita. Hace buen tiempo, no hace mucho calor y hay flores en todas las plazas."
+    ],
+    "q": [
+      {
+        "q": "What is summer like in Madrid?",
+        "o": [
+          "Cool and rainy",
+          "Very hot and sunny",
+          "Cold and snowy"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Where does it snow near Madrid?",
+        "o": [
+          "In the parks",
+          "In the city center",
+          "In the mountains",
+          "At the beach"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Which season does the writer like best?",
+        "o": [
+          "Summer",
+          "Fall",
+          "Winter",
+          "Spring"
+        ],
+        "k": 3
+      }
+    ]
+  }
+}

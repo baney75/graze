@@ -1,0 +1,24 @@
+{
+  "title": "Oceania on the map",
+  "kind": "map",
+  "set": "world",
+  "note": "Australia and New Zealand anchor the region. Papua New Guinea shares an island with Indonesia, and the scattered island states of Melanesia, Micronesia and Polynesia spread across the Pacific to the east and north.",
+  "src": {
+    "t": "Natural Earth 1:50m boundaries via world-atlas",
+    "u": "https://github.com/topojson/world-atlas"
+  },
+  "items": [
+    { "p": "AU", "a": "Australia", "d": ["New Zealand", "Papua New Guinea", "Vanuatu"] },
+    { "p": "NZ", "a": "New Zealand", "d": ["Australia", "Vanuatu", "Tonga"] },
+    { "p": "PG", "a": "Papua New Guinea", "d": ["Solomon Islands", "Micronesia", "Nauru"] },
+    { "p": "SB", "a": "Solomon Islands", "d": ["Vanuatu", "Papua New Guinea", "Nauru"] },
+    { "p": "VU", "a": "Vanuatu", "d": ["Fiji", "Solomon Islands", "Tonga"] },
+    { "p": "FJ", "a": "Fiji", "d": ["Tonga", "Vanuatu", "Samoa"] },
+    { "p": "WS", "a": "Samoa", "d": ["Tonga", "Fiji", "Vanuatu"] },
+    { "p": "TO", "a": "Tonga", "d": ["Fiji", "Samoa", "Vanuatu"] },
+    { "p": "NR", "a": "Nauru", "d": ["Marshall Islands", "Solomon Islands", "Micronesia"] },
+    { "p": "MH", "a": "Marshall Islands", "d": ["Nauru", "Micronesia", "Solomon Islands"] },
+    { "p": "FM", "a": "Micronesia", "d": ["Marshall Islands", "Nauru", "Papua New Guinea"] },
+    { "p": "PW", "a": "Palau", "d": ["Papua New Guinea", "Micronesia", "Solomon Islands"] }
+  ]
+}

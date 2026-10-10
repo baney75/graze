@@ -1,0 +1,340 @@
+{
+  "title": "The web: HTTP, REST, cookies, CORS, TLS",
+  "note": "HTTP is a request–response protocol. A safe method does not change server state; an idempotent method has the same effect whether sent once or many times. Status codes are grouped by first digit: 1xx informational, 2xx success, 3xx redirection, 4xx client error, 5xx server error.",
+  "src": {
+    "t": "MDN Web Docs, HTTP response status codes",
+    "u": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status"
+  },
+  "items": [
+    {
+      "c": "A safe HTTP method",
+      "a": "does not change state on the server",
+      "d": [
+        "always requires HTTPS",
+        "never returns a response body"
+      ]
+    },
+    {
+      "c": "An idempotent HTTP method",
+      "a": "has the same effect sent once or many times",
+      "d": [
+        "always returns the same response body",
+        "can never change server state"
+      ]
+    },
+    {
+      "c": "HTTP methods that are idempotent but not safe",
+      "a": "PUT and DELETE",
+      "d": [
+        "GET and HEAD",
+        "POST and PATCH"
+      ]
+    },
+    {
+      "c": "Common method neither safe nor idempotent",
+      "a": "POST",
+      "d": [
+        "PUT",
+        "GET",
+        "DELETE"
+      ]
+    },
+    {
+      "c": "HTTP method for a partial update",
+      "a": "PATCH",
+      "d": [
+        "PUT",
+        "HEAD"
+      ]
+    },
+    {
+      "c": "HTTP method that replaces a whole resource",
+      "a": "PUT",
+      "d": [
+        "PATCH",
+        "OPTIONS"
+      ]
+    },
+    {
+      "c": "HTTP method that returns headers only, like GET",
+      "a": "HEAD",
+      "d": [
+        "OPTIONS",
+        "TRACE"
+      ]
+    },
+    {
+      "c": "HTTP method a browser uses for a CORS preflight",
+      "a": "OPTIONS",
+      "d": [
+        "HEAD",
+        "CONNECT"
+      ]
+    },
+    {
+      "c": "Status code class 4xx",
+      "a": "client error",
+      "d": [
+        "server error",
+        "redirection",
+        "success"
+      ]
+    },
+    {
+      "c": "Status code class 5xx",
+      "a": "server error",
+      "d": [
+        "client error",
+        "informational",
+        "redirection"
+      ]
+    },
+    {
+      "c": "HTTP 201",
+      "a": "Created",
+      "d": [
+        "Accepted",
+        "No Content"
+      ]
+    },
+    {
+      "c": "HTTP 204",
+      "a": "No Content",
+      "d": [
+        "Not Modified",
+        "Reset Content"
+      ]
+    },
+    {
+      "c": "HTTP 301",
+      "a": "Moved Permanently",
+      "d": [
+        "Found (temporary)",
+        "Not Modified"
+      ]
+    },
+    {
+      "c": "HTTP 304",
+      "a": "Not Modified: reuse the cached copy",
+      "d": [
+        "Moved Permanently: follow the new URL",
+        "No Content: the body is empty by design"
+      ]
+    },
+    {
+      "c": "What HTTP 401 Unauthorized really means",
+      "a": "the client has not authenticated",
+      "d": [
+        "the client is known but lacks permission",
+        "the resource does not exist"
+      ]
+    },
+    {
+      "c": "HTTP 403 Forbidden",
+      "a": "the client lacks rights to the resource",
+      "d": [
+        "the client has not logged in",
+        "the server is overloaded"
+      ]
+    },
+    {
+      "c": "HTTP 409",
+      "a": "Conflict with the resource's current state",
+      "d": [
+        "Gone permanently",
+        "Too Many Requests"
+      ]
+    },
+    {
+      "c": "HTTP 429",
+      "a": "Too Many Requests (rate limited)",
+      "d": [
+        "Request Timeout",
+        "Payload Too Large"
+      ]
+    },
+    {
+      "c": "HTTP 502 Bad Gateway",
+      "a": "a gateway got an invalid response upstream",
+      "d": [
+        "the client sent malformed syntax",
+        "the gateway got no response in time"
+      ]
+    },
+    {
+      "c": "HTTP 503 Service Unavailable",
+      "a": "the server is overloaded or down for maintenance",
+      "d": [
+        "the requested page was deleted",
+        "the client must log in first"
+      ]
+    },
+    {
+      "c": "Defined REST in a 2000 dissertation",
+      "a": "Roy Fielding",
+      "d": [
+        "Tim Berners-Lee",
+        "Douglas Crockford",
+        "Brendan Eich"
+      ]
+    },
+    {
+      "c": "REST constraint: server keeps no client session",
+      "a": "statelessness",
+      "d": [
+        "cacheability",
+        "layered system"
+      ]
+    },
+    {
+      "c": "Cache-Control: no-store",
+      "a": "do not keep the response in any cache",
+      "d": [
+        "store it, but revalidate before each reuse",
+        "store it only in shared caches"
+      ]
+    },
+    {
+      "c": "Cache-Control: no-cache",
+      "a": "may store, but must revalidate before reuse",
+      "d": [
+        "must never store the response",
+        "may reuse without asking forever"
+      ]
+    },
+    {
+      "c": "Cache-Control: max-age=3600",
+      "a": "the response stays fresh for one hour",
+      "d": [
+        "the response expires after 3600 requests",
+        "the server must answer within one hour"
+      ]
+    },
+    {
+      "c": "Request header that sends a cached ETag back",
+      "a": "If-None-Match",
+      "d": [
+        "If-Modified-Since",
+        "Last-Modified"
+      ]
+    },
+    {
+      "c": "Cookie attribute that hides it from JavaScript",
+      "a": "HttpOnly",
+      "d": [
+        "Secure",
+        "SameSite=Strict"
+      ]
+    },
+    {
+      "c": "Cookie attribute: send only over HTTPS",
+      "a": "Secure",
+      "d": [
+        "HttpOnly",
+        "Path=/"
+      ]
+    },
+    {
+      "c": "Cookie setting SameSite=None also requires",
+      "a": "the Secure attribute",
+      "d": [
+        "the HttpOnly attribute",
+        "a Domain attribute"
+      ]
+    },
+    {
+      "c": "A web origin is defined by",
+      "a": "scheme, host, and port",
+      "d": [
+        "host and path",
+        "domain name only"
+      ]
+    },
+    {
+      "c": "CORS lets a server",
+      "a": "allow other origins to read its responses",
+      "d": [
+        "block all cross-site links",
+        "encrypt traffic between origins"
+      ]
+    },
+    {
+      "c": "Who enforces the same-origin policy and CORS",
+      "a": "the web browser",
+      "d": [
+        "the DNS resolver",
+        "the TLS certificate authority"
+      ]
+    },
+    {
+      "c": "Access-Control-Allow-Origin: * is refused for",
+      "a": "requests sent with credentials",
+      "d": [
+        "GET requests",
+        "requests over HTTPS"
+      ]
+    },
+    {
+      "c": "What TLS provides",
+      "a": "encryption, integrity, and server authentication",
+      "d": [
+        "compression and caching",
+        "load balancing and retries"
+      ]
+    },
+    {
+      "c": "Default TCP port for HTTPS",
+      "a": "443",
+      "d": [
+        "80",
+        "8080",
+        "22"
+      ]
+    },
+    {
+      "c": "Strict-Transport-Security (HSTS)",
+      "a": "tells browsers to use only HTTPS for the site",
+      "d": [
+        "blocks scripts from other origins",
+        "forces cookies to be HttpOnly"
+      ]
+    }
+  ],
+  "read": {
+    "title": "One request, many rules",
+    "text": [
+      "When a browser loads a page, it sends an HTTP request with a method, a path, and headers, and the server answers with a status code, headers, and usually a body. Methods carry promises. GET and HEAD are safe, meaning they should not change anything on the server. PUT and DELETE are not safe but are idempotent: sending the same request twice leaves the server in the same state as sending it once. POST makes neither promise, which is why browsers warn before resubmitting a form.",
+      "Caching headers let a response be reused. Cache-Control: max-age says how long a stored copy stays fresh. Once it goes stale, the browser can revalidate by sending the stored ETag in If-None-Match; if nothing changed, the server replies 304 Not Modified with no body.",
+      "Browsers also guard users across sites. The same-origin policy stops a script from one origin, meaning scheme, host, and port, from reading responses from another. CORS is the server's way to relax that rule by naming origins it trusts. Cookies carry flags of their own: Secure limits them to HTTPS, HttpOnly hides them from scripts, and SameSite controls whether they ride along on cross-site requests. Underneath it all, TLS encrypts the connection and proves the server's identity with a certificate."
+    ],
+    "q": [
+      {
+        "q": "Why do browsers warn before resubmitting a POST?",
+        "o": [
+          "POST is neither safe nor idempotent",
+          "POST responses cannot be cached",
+          "POST requires a cookie"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does a server send when a revalidated resource is unchanged?",
+        "o": [
+          "200 OK with the full body",
+          "301 Moved Permanently",
+          "304 Not Modified with no body"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What is CORS used for?",
+        "o": [
+          "Encrypting the connection",
+          "Letting a server relax the same-origin policy for trusted origins",
+          "Hiding cookies from scripts"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

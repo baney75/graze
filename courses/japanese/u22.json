@@ -1,0 +1,297 @@
+{
+  "title": "The て-form",
+  "note": "る-verbs drop る and add て: 食べる → 食べて. う-verbs change by ending: う, つ, る → って; む, ぶ, ぬ → んで; く → いて; ぐ → いで; す → して. Irregular: 行く → 行って, する → して, 来る → 来て. Uses: てください (please do), ています (is doing; ongoing state), and linking actions in order.",
+  "src": {
+    "t": "Tae Kim's Guide: Compound Sentences (the て-form)",
+    "u": "https://guidetojapanese.org/learn/grammar/compound"
+  },
+  "items": [
+    {
+      "c": "食べる (て-form)",
+      "r": "taberu",
+      "a": "食べて",
+      "d": [
+        "食べって",
+        "食べんで"
+      ]
+    },
+    {
+      "c": "見る (て-form)",
+      "r": "miru",
+      "a": "見て",
+      "d": [
+        "見って",
+        "見んで"
+      ]
+    },
+    {
+      "c": "飲む (て-form)",
+      "r": "nomu",
+      "a": "飲んで",
+      "d": [
+        "飲みて",
+        "飲って"
+      ]
+    },
+    {
+      "c": "遊ぶ (て-form)",
+      "r": "asobu",
+      "a": "遊んで",
+      "d": [
+        "遊びて",
+        "遊って"
+      ]
+    },
+    {
+      "c": "住む (て-form)",
+      "r": "sumu",
+      "a": "住んで",
+      "d": [
+        "住みて",
+        "住いて"
+      ]
+    },
+    {
+      "c": "書く (て-form)",
+      "r": "kaku",
+      "a": "書いて",
+      "d": [
+        "書って",
+        "書きて"
+      ]
+    },
+    {
+      "c": "泳ぐ (て-form)",
+      "r": "oyogu",
+      "a": "泳いで",
+      "d": [
+        "泳いて",
+        "泳って"
+      ]
+    },
+    {
+      "c": "話す (て-form)",
+      "r": "hanasu",
+      "a": "話して",
+      "d": [
+        "話って",
+        "話いて"
+      ]
+    },
+    {
+      "c": "買う (て-form)",
+      "r": "kau",
+      "a": "買って",
+      "d": [
+        "買いて",
+        "買んで"
+      ]
+    },
+    {
+      "c": "待つ (て-form)",
+      "r": "matsu",
+      "a": "待って",
+      "d": [
+        "待ちて",
+        "待んで"
+      ]
+    },
+    {
+      "c": "帰る (て-form)",
+      "r": "kaeru",
+      "a": "帰って",
+      "d": [
+        "帰て",
+        "帰りて"
+      ]
+    },
+    {
+      "c": "行く (て-form)",
+      "r": "iku",
+      "a": "行って",
+      "d": [
+        "行いて",
+        "行きて"
+      ]
+    },
+    {
+      "c": "する (て-form)",
+      "r": "suru",
+      "a": "して",
+      "d": [
+        "すって",
+        "すて"
+      ]
+    },
+    {
+      "c": "来る (て-form)",
+      "r": "kuru",
+      "a": "来て (きて)",
+      "d": [
+        "来って (くって)",
+        "来んで (くんで)"
+      ]
+    },
+    {
+      "c": "ちょっと待ってください。",
+      "r": "Chotto matte kudasai.",
+      "a": "Please wait a moment.",
+      "d": [
+        "I'll wait a little.",
+        "Please don't wait."
+      ]
+    },
+    {
+      "c": "ゆっくり話してください。",
+      "r": "Yukkuri hanashite kudasai.",
+      "a": "Please speak slowly.",
+      "d": [
+        "Please speak loudly.",
+        "I speak slowly."
+      ]
+    },
+    {
+      "c": "窓を開けてください。",
+      "r": "Mado o akete kudasai.",
+      "a": "Please open the window.",
+      "d": [
+        "Please close the window.",
+        "The window is open."
+      ]
+    },
+    {
+      "c": "今、何をしていますか。",
+      "r": "Ima, nani o shite imasu ka.",
+      "a": "What are you doing now?",
+      "d": [
+        "What did you do?",
+        "What will you do later?"
+      ]
+    },
+    {
+      "c": "雨が降っています。",
+      "r": "Ame ga futte imasu.",
+      "a": "It's raining.",
+      "d": [
+        "It rained.",
+        "It will rain."
+      ]
+    },
+    {
+      "c": "東京に住んでいます。",
+      "r": "Tōkyō ni sunde imasu.",
+      "a": "I live in Tokyo.",
+      "d": [
+        "I lived in Tokyo.",
+        "I'm going to Tokyo."
+      ],
+      "ex": "(とうきょう) 家族は東京に住んでいます。",
+      "exT": "My family lives in Tokyo."
+    },
+    {
+      "c": "知っています。",
+      "r": "Shitte imasu.",
+      "a": "I know.",
+      "d": [
+        "I don't know.",
+        "I'll find out."
+      ]
+    },
+    {
+      "c": "結婚しています。",
+      "r": "Kekkon shite imasu.",
+      "a": "I'm married.",
+      "d": [
+        "I'm single.",
+        "I got divorced."
+      ]
+    },
+    {
+      "c": "朝ご飯を食べて、学校へ行きます。",
+      "r": "Asagohan o tabete, gakkō e ikimasu.",
+      "a": "I eat breakfast and then go to school.",
+      "d": [
+        "I go to school and then eat breakfast.",
+        "I eat breakfast at school."
+      ]
+    },
+    {
+      "c": "写真を撮ってもいいですか。",
+      "r": "Shashin o totte mo ii desu ka.",
+      "a": "May I take a photo?",
+      "d": [
+        "Please take a photo.",
+        "Did you take a photo?"
+      ]
+    },
+    {
+      "c": "ここで食べてはいけません。",
+      "r": "Koko de tabete wa ikemasen.",
+      "a": "You must not eat here.",
+      "d": [
+        "You may eat here.",
+        "Let's eat here."
+      ]
+    },
+    {
+      "c": "名前をここに書い___ください。",
+      "r": "Namae o koko ni kai___ kudasai.",
+      "a": "て",
+      "d": [
+        "た",
+        "で"
+      ],
+      "ex": "名前をここに書いてください。",
+      "exT": "Please write your name here."
+    },
+    {
+      "c": "今、本を読ん___います。",
+      "r": "Ima, hon o yon___ imasu.",
+      "a": "で",
+      "d": [
+        "て",
+        "だ"
+      ],
+      "ex": "今、本を読んでいます。",
+      "exT": "I'm reading a book now."
+    }
+  ],
+  "read": {
+    "title": "大阪の 友だち",
+    "text": [
+      "わたしの 友だちの ケンさんは 大阪に 住んでいます。 ケンさんは 大学で 英語を 勉強しています。",
+      "ケンさんは 毎朝 七時に 起きて、 朝ご飯を 食べて、 電車で 大学へ 行きます。 授業は 九時に 始まります。",
+      "今、 ケンさんは 図書館で 本を 読んでいます。 わたしは 家で ケンさんに メールを 書いています。 わたしは 東京の 会社で 働いています。",
+      "「ケンさん、 来月 東京へ 来てください。 いっしょに 東京を 見ましょう。」"
+    ],
+    "q": [
+      {
+        "q": "Where does Ken live?",
+        "o": [
+          "Osaka",
+          "Tokyo",
+          "Kyoto"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What is Ken doing now?",
+        "o": [
+          "Eating breakfast",
+          "Reading at the library",
+          "Writing an email"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What does the writer ask Ken to do?",
+        "o": [
+          "Study English",
+          "Write an email",
+          "Come to Tokyo next month"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

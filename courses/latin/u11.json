@@ -1,0 +1,320 @@
+{
+  "title": "Third declension: things and ideas",
+  "note": "Third-declension gender by ending: -tas (veritas, veritatis) is feminine; -or (amor, amoris) mostly masculine; -men (nomen, nominis) and -us with genitive -oris or -eris (tempus, temporis) neuter. Neuters have nominative = accusative and plural -a: corpora. Tempus, corpus, caput, nomen and mare are neuter; lex, pax, mors, nox, lux, urbs and virtus are feminine.",
+  "src": {
+    "t": "Dickinson College Commentaries, Latin Core Vocabulary",
+    "u": "https://dcc.dickinson.edu/latin-core-list1"
+  },
+  "items": [
+    {
+      "c": "lex, legis",
+      "a": "law",
+      "d": [
+        "king",
+        "reading"
+      ],
+      "ex": "Dura lex, sed lex.",
+      "exT": "The law is harsh, but it is the law."
+    },
+    {
+      "c": "pax, pacis",
+      "a": "peace",
+      "d": [
+        "war",
+        "pity"
+      ],
+      "ex": "Pax Romana",
+      "exT": "the Roman Peace"
+    },
+    {
+      "c": "mors, mortis",
+      "a": "death",
+      "d": [
+        "life",
+        "custom"
+      ]
+    },
+    {
+      "c": "tempus",
+      "a": "time",
+      "d": [
+        "temple",
+        "body"
+      ],
+      "ex": "Tempus fugit.",
+      "exT": "Time flies."
+    },
+    {
+      "c": "corpus",
+      "a": "body",
+      "d": [
+        "heart",
+        "head"
+      ]
+    },
+    {
+      "c": "caput",
+      "a": "head",
+      "d": [
+        "hand",
+        "foot"
+      ]
+    },
+    {
+      "c": "nox, noctis",
+      "a": "night",
+      "d": [
+        "day",
+        "light"
+      ]
+    },
+    {
+      "c": "lux, lucis",
+      "a": "light",
+      "d": [
+        "luxury",
+        "night"
+      ]
+    },
+    {
+      "c": "mare",
+      "a": "sea",
+      "d": [
+        "river",
+        "mother"
+      ],
+      "ex": "Mare Nostrum",
+      "exT": "Our Sea (the Mediterranean)"
+    },
+    {
+      "c": "urbs, urbis",
+      "a": "city",
+      "d": [
+        "citadel",
+        "camp"
+      ],
+      "ex": "Roma est urbs magna.",
+      "exT": "Rome is a great city."
+    },
+    {
+      "c": "nomen",
+      "a": "name",
+      "d": [
+        "number",
+        "word"
+      ]
+    },
+    {
+      "c": "veritas",
+      "a": "truth",
+      "d": [
+        "courage",
+        "freedom"
+      ]
+    },
+    {
+      "c": "virtus",
+      "a": "courage, excellence",
+      "d": [
+        "truth, honesty",
+        "wealth, riches"
+      ]
+    },
+    {
+      "c": "caritas",
+      "a": "love, charity",
+      "d": [
+        "anger, wrath",
+        "grace, thanks"
+      ]
+    },
+    {
+      "c": "libertas, libertatis (f)",
+      "a": "freedom, liberty",
+      "d": [
+        "book",
+        "state"
+      ]
+    },
+    {
+      "c": "civitas, civitatis (f)",
+      "a": "state; citizenship",
+      "d": [
+        "city wall",
+        "freedom"
+      ]
+    },
+    {
+      "c": "voluntas, voluntatis (f)",
+      "a": "will, wish",
+      "d": [
+        "pleasure",
+        "freedom"
+      ]
+    },
+    {
+      "c": "amor, amoris (m)",
+      "a": "love",
+      "d": [
+        "friendship",
+        "death"
+      ]
+    },
+    {
+      "c": "dolor, doloris (m)",
+      "a": "pain, grief",
+      "d": [
+        "joy",
+        "fear"
+      ]
+    },
+    {
+      "c": "timor, timoris (m)",
+      "a": "fear",
+      "d": [
+        "honor",
+        "pain"
+      ]
+    },
+    {
+      "c": "labor, laboris (m)",
+      "a": "work, toil",
+      "d": [
+        "leisure",
+        "game"
+      ],
+      "ex": "Labor omnia vincit.",
+      "exT": "Work conquers all. (after Vergil)"
+    },
+    {
+      "c": "flumen, fluminis (n)",
+      "a": "river",
+      "d": [
+        "flame",
+        "mountain"
+      ]
+    },
+    {
+      "c": "carmen, carminis (n)",
+      "a": "song, poem",
+      "d": [
+        "letter",
+        "story"
+      ]
+    },
+    {
+      "c": "opus, operis (n)",
+      "a": "a work, task",
+      "d": [
+        "help",
+        "reward"
+      ]
+    },
+    {
+      "c": "mons, montis (m)",
+      "a": "mountain",
+      "d": [
+        "wall",
+        "river"
+      ]
+    },
+    {
+      "c": "pars, partis (f)",
+      "a": "part",
+      "d": [
+        "whole",
+        "road"
+      ]
+    },
+    {
+      "c": "gens, gentis (f)",
+      "a": "clan, nation",
+      "d": [
+        "kindness",
+        "army"
+      ]
+    },
+    {
+      "c": "ars, artis (f)",
+      "a": "skill, art",
+      "d": [
+        "weapon",
+        "citadel"
+      ]
+    },
+    {
+      "c": "ignis, ignis (m)",
+      "a": "fire",
+      "d": [
+        "water",
+        "ash"
+      ]
+    },
+    {
+      "c": "navis, navis (f)",
+      "a": "ship",
+      "d": [
+        "sailor",
+        "island"
+      ]
+    },
+    {
+      "c": "vox, vocis (f)",
+      "a": "voice",
+      "d": [
+        "face",
+        "ear"
+      ]
+    },
+    {
+      "c": "nomen, ___ (genitive singular)",
+      "a": "nominis",
+      "d": [
+        "nomini",
+        "nomina"
+      ],
+      "ex": "in nomine Patris",
+      "exT": "in the name of the Father"
+    },
+    {
+      "c": "multa ___ (corpus, plural)",
+      "a": "corpora",
+      "d": [
+        "corpi",
+        "corpores"
+      ],
+      "ex": "multa corpora",
+      "exT": "many bodies"
+    },
+    {
+      "c": "Amo ___. (libertas)",
+      "a": "libertatem",
+      "d": [
+        "libertas",
+        "libertatis"
+      ],
+      "ex": "Amo libertatem.",
+      "exT": "I love freedom."
+    },
+    {
+      "c": "Rex ___ amat. (pax)",
+      "a": "pacem",
+      "d": [
+        "pax",
+        "pacis"
+      ],
+      "ex": "Rex pacem amat.",
+      "exT": "The king loves peace."
+    },
+    {
+      "c": "lux ___ (light of the world; mundus)",
+      "a": "mundi",
+      "d": [
+        "mundo",
+        "mundum"
+      ],
+      "ex": "Ego sum lux mundi.",
+      "exT": "I am the light of the world. (John 8:12)"
+    }
+  ]
+}

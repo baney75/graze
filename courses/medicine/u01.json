@@ -1,0 +1,328 @@
+{
+ "title": "Biochemistry for medicine: enzymes, energy and pH",
+ "note": "Enzymes are protein catalysts that lower activation energy without being used up. Cells extract energy from fuel in stages (glycolysis, the citric acid cycle, the electron transport chain) and store it as ATP. Blood pH is held near 7.4 by buffers, the lungs (minutes) and the kidneys (hours to days).",
+ "src": {
+  "t": "OpenStax Anatomy and Physiology 2e, 24.2 Carbohydrate Metabolism",
+  "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/24-2-carbohydrate-metabolism"
+ },
+ "items": [
+  {
+   "c": "Enzyme",
+   "a": "A protein catalyst that speeds a chemical reaction",
+   "d": [
+    "A hormone that carries a signal in the blood",
+    "A lipid that stores energy for later use"
+   ]
+  },
+  {
+   "c": "How do enzymes speed up reactions?",
+   "a": "They lower the activation energy",
+   "d": [
+    "They raise the temperature of the reaction",
+    "They add energy to the products"
+   ]
+  },
+  {
+   "c": "Active site",
+   "a": "Region of an enzyme where the substrate binds",
+   "d": [
+    "Region of DNA where transcription begins",
+    "Pore in the membrane that lets ions pass"
+   ]
+  },
+  {
+   "c": "Coenzyme, such as NAD+ or FAD",
+   "a": "Organic helper molecule an enzyme needs to work",
+   "d": [
+    "Mineral ion stored mainly in bone",
+    "Enzyme that digests other proteins"
+   ]
+  },
+  {
+   "c": "Competitive enzyme inhibitor",
+   "a": "Competes with the substrate for the active site",
+   "d": [
+    "Binds elsewhere and changes the enzyme's shape",
+    "Permanently destroys the substrate"
+   ]
+  },
+  {
+   "c": "Noncompetitive (allosteric) inhibitor",
+   "a": "Binds away from the active site and alters the enzyme",
+   "d": [
+    "Competes with the substrate for the active site",
+    "Binds the substrate instead of the enzyme"
+   ]
+  },
+  {
+   "c": "Enzyme denaturation by heat or extreme pH",
+   "a": "Loss of the enzyme's 3-D shape and function",
+   "d": [
+    "Gain of a second active site",
+    "Faster binding of the substrate"
+   ]
+  },
+  {
+   "c": "Metabolism",
+   "a": "The sum of all catabolic and anabolic reactions",
+   "d": [
+    "Only the breakdown of food molecules",
+    "Only the building of new tissue"
+   ]
+  },
+  {
+   "c": "Catabolism",
+   "a": "Breaking large molecules into smaller ones, releasing energy",
+   "d": [
+    "Joining small molecules into larger ones, using energy",
+    "Storing excess glucose as fat"
+   ]
+  },
+  {
+   "c": "Anabolism",
+   "a": "Joining small molecules into larger ones, using energy",
+   "d": [
+    "Breaking large molecules into smaller ones, releasing energy",
+    "Oxidizing fatty acids to make ATP"
+   ]
+  },
+  {
+   "c": "ATP",
+   "a": "The cell's immediately usable energy currency",
+   "d": [
+    "The cell's main genetic material",
+    "The main storage form of glucose"
+   ]
+  },
+  {
+   "c": "ATP releases usable energy when",
+   "a": "Its terminal phosphate is removed by hydrolysis",
+   "d": [
+    "A fourth phosphate is added to it",
+    "Its adenine base is oxidized"
+   ]
+  },
+  {
+   "c": "Where glycolysis takes place",
+   "a": "Cytoplasm",
+   "d": [
+    "Mitochondrial matrix",
+    "Nucleus"
+   ]
+  },
+  {
+   "c": "Glycolysis splits one glucose into two",
+   "a": "Pyruvate molecules",
+   "d": [
+    "Fatty acid molecules",
+    "Glycerol molecules"
+   ]
+  },
+  {
+   "c": "Net ATP from glycolysis per glucose",
+   "a": "2",
+   "d": [
+    "36",
+    "8"
+   ]
+  },
+  {
+   "c": "Where the citric acid (Krebs) cycle runs",
+   "a": "Mitochondrial matrix",
+   "d": [
+    "Cytoplasm",
+    "Endoplasmic reticulum"
+   ]
+  },
+  {
+   "c": "Where the electron transport chain sits",
+   "a": "Inner mitochondrial membrane",
+   "d": [
+    "Outer plasma membrane",
+    "Nuclear envelope"
+   ]
+  },
+  {
+   "c": "Final electron acceptor of the ETC",
+   "a": "Oxygen, which becomes water",
+   "d": [
+    "NAD+, which becomes NADH",
+    "Carbon dioxide, which becomes glucose"
+   ]
+  },
+  {
+   "c": "What drives ATP synthase?",
+   "a": "Hydrogen ions flowing down their gradient",
+   "d": [
+    "Glucose binding to its surface",
+    "Sodium ions leaking out of the cell"
+   ]
+  },
+  {
+   "c": "Without oxygen, cells regenerate NAD+ by",
+   "a": "Converting pyruvate to lactate",
+   "d": [
+    "Running the citric acid cycle faster",
+    "Converting pyruvate back to glucose"
+   ]
+  },
+  {
+   "c": "Gluconeogenesis",
+   "a": "Making new glucose from noncarbohydrate sources",
+   "d": [
+    "Breaking glycogen down into glucose",
+    "Linking glucose into glycogen"
+   ]
+  },
+  {
+   "c": "Main organ of gluconeogenesis",
+   "a": "Liver",
+   "d": [
+    "Skeletal muscle",
+    "Brain"
+   ]
+  },
+  {
+   "c": "Glycogen",
+   "a": "Storage form of glucose in liver and muscle",
+   "d": [
+    "Storage form of fat in adipose tissue",
+    "Blood transport form of cholesterol"
+   ]
+  },
+  {
+   "c": "Beta-oxidation",
+   "a": "Breakdown of fatty acids into acetyl-CoA",
+   "d": [
+    "Breakdown of glucose into pyruvate",
+    "Assembly of amino acids into protein"
+   ]
+  },
+  {
+   "c": "Insulin's main effect on blood glucose",
+   "a": "Lowers it by promoting uptake and storage",
+   "d": [
+    "Raises it by releasing stored glucose",
+    "None; it mainly regulates calcium"
+   ]
+  },
+  {
+   "c": "Glucagon's main effect on blood glucose",
+   "a": "Raises it via liver glycogen breakdown and new glucose",
+   "d": [
+    "Lowers it by moving glucose into muscle",
+    "None; it mainly regulates sodium"
+   ]
+  },
+  {
+   "c": "The Na+/K+ ATPase pump moves, per ATP",
+   "a": "3 Na+ out of the cell and 2 K+ in",
+   "d": [
+    "2 Na+ out of the cell and 3 K+ in",
+    "3 K+ out of the cell and 2 Na+ in"
+   ]
+  },
+  {
+   "c": "Normal arterial blood pH",
+   "a": "7.35 to 7.45",
+   "d": [
+    "6.85 to 6.95",
+    "7.55 to 7.65"
+   ]
+  },
+  {
+   "c": "Main chemical buffer of the blood",
+   "a": "Carbonic acid–bicarbonate system",
+   "d": [
+    "Ammonia–urea system",
+    "Calcium–phosphate system"
+   ]
+  },
+  {
+   "c": "Enzyme forming carbonic acid from CO2 and water",
+   "a": "Carbonic anhydrase",
+   "d": [
+    "Carboxypeptidase",
+    "Catalase"
+   ]
+  },
+  {
+   "c": "Hypoventilation that retains CO2 causes",
+   "a": "Respiratory acidosis",
+   "d": [
+    "Respiratory alkalosis",
+    "Metabolic alkalosis"
+   ]
+  },
+  {
+   "c": "Hyperventilation that blows off CO2 causes",
+   "a": "Respiratory alkalosis",
+   "d": [
+    "Respiratory acidosis",
+    "Metabolic acidosis"
+   ]
+  },
+  {
+   "c": "A primary loss of bicarbonate causes",
+   "a": "Metabolic acidosis",
+   "d": [
+    "Metabolic alkalosis",
+    "Respiratory alkalosis"
+   ]
+  },
+  {
+   "c": "Fastest compensation for metabolic acidosis",
+   "a": "Faster, deeper breathing to remove CO2",
+   "d": [
+    "Slower breathing to retain CO2",
+    "Kidneys excreting more bicarbonate"
+   ]
+  },
+  {
+   "c": "How the kidneys correct an acid load",
+   "a": "Secrete H+ and reclaim bicarbonate over hours to days",
+   "d": [
+    "Exhale CO2 within seconds",
+    "Release calcium from bone within minutes"
+   ]
+  }
+ ],
+ "read": {
+  "title": "Why breathing changes blood pH",
+  "text": [
+   "Cells constantly make carbon dioxide as they burn fuel. In red blood cells, the enzyme carbonic anhydrase quickly joins CO2 with water to form carbonic acid, which splits into a hydrogen ion and bicarbonate. Because the reaction runs both ways, the blood's acidity depends on how much CO2 is present and how much bicarbonate is available to soak up hydrogen ions.",
+   "When blood pH is normal, about 7.35 to 7.45, bicarbonate outnumbers carbonic acid roughly 20 to 1. Chemical buffers respond within seconds, but they only absorb a disturbance; they do not remove it. The lungs act next. Breathing faster blows off CO2 and pulls the reaction away from acid, raising pH within minutes. Breathing slower retains CO2 and lowers pH.",
+   "The kidneys are the slow but powerful partner. Over hours to days they secrete hydrogen ions into urine and reclaim or make bicarbonate. This is why a problem that starts in the lungs is compensated by the kidneys, and a metabolic problem is compensated first by a change in breathing."
+  ],
+  "q": [
+   {
+    "q": "Which system corrects blood pH most quickly after the buffers?",
+    "o": [
+     "The kidneys",
+     "The lungs",
+     "The liver"
+    ],
+    "k": 1
+   },
+   {
+    "q": "At normal blood pH, the ratio of bicarbonate to carbonic acid is about",
+    "o": [
+     "1 to 1",
+     "1 to 20",
+     "20 to 1",
+     "7.4 to 1"
+    ],
+    "k": 2
+   },
+   {
+    "q": "Breathing more slowly than needed tends to",
+    "o": [
+     "Retain CO2 and lower pH",
+     "Remove CO2 and raise pH",
+     "Have no effect on pH"
+    ],
+    "k": 0
+   }
+  ]
+ }
+}

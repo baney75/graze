@@ -1,0 +1,321 @@
+{
+  "title": "Databases, subject headings and citation chaining",
+  "note": "Scholarly databases add subject headings: a controlled vocabulary that tags each record by what it is about, whatever words the author used. PubMed's vocabulary is MeSH. Once you find one strong article, chain backward through its references and forward through the works that cite it.",
+  "src": {
+    "t": "PubMed Help, US National Library of Medicine",
+    "u": "https://pubmed.ncbi.nlm.nih.gov/help/"
+  },
+  "items": [
+    {
+      "c": "Subject heading",
+      "a": "A standard term assigned to describe what a work is about",
+      "d": [
+        "Any word that appears in the title",
+        "The heading at the top of a web page",
+        "The name of the journal's editor"
+      ]
+    },
+    {
+      "c": "Controlled vocabulary",
+      "a": "An official, fixed list of terms used to tag records",
+      "d": [
+        "Words the author chose for the abstract",
+        "A list of banned search words",
+        "The jargon of one research lab"
+      ]
+    },
+    {
+      "c": "Advantage of searching by subject heading",
+      "a": "Finds works on a concept despite different wording",
+      "d": [
+        "Finds every word anywhere in the full text",
+        "Returns results sorted by citation count",
+        "Works the same in every database"
+      ]
+    },
+    {
+      "c": "MeSH",
+      "a": "Medical Subject Headings, NLM's controlled vocabulary",
+      "d": [
+        "A medical search engine run by Google",
+        "A citation style for health sciences",
+        "A ranking of medical journals"
+      ]
+    },
+    {
+      "c": "Who produces MeSH?",
+      "a": "The US National Library of Medicine",
+      "d": [
+        "The World Health Organization",
+        "The American Medical Association",
+        "Clarivate"
+      ]
+    },
+    {
+      "c": "MeSH tree structure",
+      "a": "Headings arranged in a hierarchy from broad to specific",
+      "d": [
+        "Headings listed by how often they are used",
+        "Headings sorted only alphabetically",
+        "Headings grouped by journal title"
+      ]
+    },
+    {
+      "c": "Number of top-level MeSH tree categories",
+      "a": "16",
+      "d": [
+        "4",
+        "50",
+        "100"
+      ],
+      "ex": "Category C is Diseases; D is Chemicals and Drugs."
+    },
+    {
+      "c": "Exploding a MeSH term in PubMed",
+      "a": "Also searching all narrower terms beneath it",
+      "d": [
+        "Searching only the term's broader parent",
+        "Removing the term from the search",
+        "Searching the term as free text only"
+      ],
+      "ex": "A [mh] search explodes by default; [mh:noexp] turns that off."
+    },
+    {
+      "c": "MeSH entry terms",
+      "a": "Synonyms that lead to the preferred heading",
+      "d": [
+        "Terms that can never be searched",
+        "Headings retired from the vocabulary",
+        "Words that must appear in titles"
+      ]
+    },
+    {
+      "c": "[majr] tag in PubMed",
+      "a": "Limits a MeSH term to articles where it is a main focus",
+      "d": [
+        "Limits results to major journals",
+        "Searches only the article's title",
+        "Limits results to review articles"
+      ]
+    },
+    {
+      "c": "PubMed",
+      "a": "NLM's free search tool for biomedical literature",
+      "d": [
+        "A paid full-text journal subscription",
+        "A preprint server for medicine",
+        "A citation manager for doctors"
+      ]
+    },
+    {
+      "c": "Does PubMed itself hold full-text articles?",
+      "a": "No; it holds citations and abstracts, with links",
+      "d": [
+        "Yes, the full text of every article",
+        "Only for articles over ten years old",
+        "Only for articles in English"
+      ]
+    },
+    {
+      "c": "MEDLINE",
+      "a": "PubMed's largest part: journal citations indexed with MeSH",
+      "d": [
+        "PubMed's archive of full-text books",
+        "A rival database run by Google",
+        "NLM's list of retracted articles"
+      ]
+    },
+    {
+      "c": "PubMed Central (PMC)",
+      "a": "A free full-text archive of journal articles",
+      "d": [
+        "A paid abstract-only database",
+        "PubMed's help and training center",
+        "A registry of clinical trials"
+      ]
+    },
+    {
+      "c": "In PubMed, Boolean operators must be typed",
+      "a": "In uppercase: AND, OR, NOT",
+      "d": [
+        "In lowercase: and, or, not",
+        "As symbols: +, |, -",
+        "Inside quotation marks"
+      ]
+    },
+    {
+      "c": "Automatic Term Mapping in PubMed",
+      "a": "Matching your words to MeSH terms and synonyms",
+      "d": [
+        "Translating your search into other languages",
+        "Sorting results by journal impact",
+        "Saving your search automatically"
+      ]
+    },
+    {
+      "c": "Using quotes or field tags in PubMed",
+      "a": "Turns off Automatic Term Mapping for those terms",
+      "d": [
+        "Searches every field at once",
+        "Adds all MeSH synonyms",
+        "Sorts results by date added"
+      ]
+    },
+    {
+      "c": "[tiab] tag in PubMed",
+      "a": "Searches the title and abstract",
+      "d": [
+        "Searches the author list",
+        "Searches the MeSH terms only",
+        "Searches the journal name"
+      ]
+    },
+    {
+      "c": "[au] tag in PubMed",
+      "a": "Searches the author field",
+      "d": [
+        "Searches the abstract",
+        "Searches article type",
+        "Searches the publication year"
+      ]
+    },
+    {
+      "c": "PMID",
+      "a": "A unique ID number for a PubMed record",
+      "d": [
+        "A journal's print serial number",
+        "A personal ID for each researcher",
+        "A code for the article's funder"
+      ]
+    },
+    {
+      "c": "PubMed's default sort order",
+      "a": "Best Match",
+      "d": [
+        "Most Recent",
+        "Publication Date",
+        "First Author"
+      ]
+    },
+    {
+      "c": "Google Scholar \"Cited by\" link",
+      "a": "Lists later works that cite the article",
+      "d": [
+        "Lists works the article itself cites",
+        "Lists articles by the same author",
+        "Lists the journal's top papers"
+      ]
+    },
+    {
+      "c": "Google Scholar \"All versions\" link",
+      "a": "Other copies of the same work, sometimes free",
+      "d": [
+        "Earlier drafts written by reviewers",
+        "Translations into other languages",
+        "Every article in the same journal"
+      ]
+    },
+    {
+      "c": "author:\"d knuth\" in Google Scholar",
+      "a": "Limits results to works by that author",
+      "d": [
+        "Finds works that cite that author",
+        "Finds pages about that author's life",
+        "Excludes that author's works"
+      ]
+    },
+    {
+      "c": "Library links in Google Scholar",
+      "a": "Connect results to your library's subscriptions",
+      "d": [
+        "Show where a book sits on a shelf",
+        "Rank results by library popularity",
+        "Upload your papers to the library"
+      ]
+    },
+    {
+      "c": "Backward citation chaining",
+      "a": "Mining an article's reference list for earlier sources",
+      "d": [
+        "Finding newer works that cite the article",
+        "Reading the article from the end",
+        "Searching only retracted articles"
+      ]
+    },
+    {
+      "c": "Forward citation chaining",
+      "a": "Finding newer works that cite an article",
+      "d": [
+        "Mining an article's reference list",
+        "Searching only future-dated issues",
+        "Reading an article's abstract first"
+      ]
+    },
+    {
+      "c": "APA PsycInfo",
+      "a": "A database of psychology and behavioral science literature",
+      "d": [
+        "A database of US patents",
+        "A database of engineering standards",
+        "A free archive of legal cases"
+      ]
+    },
+    {
+      "c": "ERIC",
+      "a": "A US Department of Education database of education research",
+      "d": [
+        "A European database of chemistry papers",
+        "NLM's registry of clinical trials",
+        "A database of US court decisions"
+      ]
+    },
+    {
+      "c": "Interlibrary loan",
+      "a": "Getting an item your library lacks from another library",
+      "d": [
+        "Renewing a book you already borrowed",
+        "Buying an article from a publisher",
+        "Lending your own notes to classmates"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Two ways to find what words miss",
+    "text": [
+      "Keyword searching has a blind spot. One author writes \"heart attack,\" another \"myocardial infarction,\" a third \"acute coronary event.\" A keyword search catches only the words you typed.",
+      "Subject headings close that gap. In MEDLINE, each article is tagged with terms from MeSH, the National Library of Medicine's controlled vocabulary. MeSH is a hierarchy: broad headings branch into narrower ones. When you search a MeSH term in PubMed, the search explodes by default, so it also retrieves articles tagged with the narrower terms beneath it. PubMed also tries to map your plain words to MeSH automatically, which is why a simple search often finds more than the words you typed.",
+      "The second technique is citation chaining. When you find one excellent article, its reference list points backward to the earlier work it built on. A tool like Google Scholar's \"Cited by\" link points forward to newer work that cited it, which shows how the conversation developed and whether later studies confirmed or challenged it.",
+      "Used together, these methods turn one good find into a network of related sources, and they reach studies that your first keywords never matched."
+    ],
+    "q": [
+      {
+        "q": "What problem with keyword searching do subject headings solve?",
+        "o": [
+          "Keywords only search titles",
+          "Keyword searches are slower",
+          "Different authors use different words for the same idea",
+          "Keywords cannot be combined with AND"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What happens when a MeSH term is exploded?",
+        "o": [
+          "Narrower terms beneath it are searched too",
+          "Only the broader parent term is searched",
+          "The term is removed from the search"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does forward citation chaining show you?",
+        "o": [
+          "The article's MeSH headings",
+          "Newer work that cited the article",
+          "The sources an article relied on"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

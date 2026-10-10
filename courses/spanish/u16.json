@@ -1,0 +1,308 @@
+{
+  "title": "Question words, connectors and frequency words",
+  "note": "Question words carry an accent: qué, quién, dónde, cuándo, cómo, cuánto, cuál, por qué. Without the accent, porque means because and cuando means when in a statement. Before es, use cuál for specific information (¿Cuál es tu nombre?) and qué for a definition (¿Qué es una tapa?). Frequency words like siempre and nunca usually go before the verb.",
+  "src": {
+    "t": "Spanish 1A: Beginning Spanish (LibreTexts)",
+    "u": "https://human.libretexts.org/Courses/Chabot_College/Spanish_1A%3A_Beginning_Spanish_(2026)"
+  },
+  "items": [
+    {
+      "c": "¿qué?",
+      "a": "what?",
+      "d": [
+        "who?",
+        "where?"
+      ],
+      "ex": "¿Qué estudias?",
+      "exT": "What do you study?"
+    },
+    {
+      "c": "¿quién?",
+      "a": "who?",
+      "d": [
+        "what?",
+        "whose?"
+      ],
+      "ex": "¿Quién es tu profesor?",
+      "exT": "Who is your teacher?"
+    },
+    {
+      "c": "¿dónde?",
+      "a": "where?",
+      "d": [
+        "when?",
+        "how?"
+      ],
+      "ex": "¿Dónde vives?",
+      "exT": "Where do you live?"
+    },
+    {
+      "c": "¿adónde?",
+      "a": "where to?",
+      "d": [
+        "from where?",
+        "since when?"
+      ]
+    },
+    {
+      "c": "¿cuándo?",
+      "a": "when?",
+      "d": [
+        "where?",
+        "how much?"
+      ],
+      "ex": "¿Cuándo es tu cumpleaños?",
+      "exT": "When is your birthday?"
+    },
+    {
+      "c": "¿cómo?",
+      "a": "how?",
+      "d": [
+        "what?",
+        "why?"
+      ],
+      "ex": "¿Cómo vas al trabajo?",
+      "exT": "How do you get to work?"
+    },
+    {
+      "c": "¿cuánto?",
+      "a": "how much?",
+      "d": [
+        "how many times?",
+        "when?"
+      ]
+    },
+    {
+      "c": "¿cuál?",
+      "a": "which one?",
+      "d": [
+        "who?",
+        "how?"
+      ]
+    },
+    {
+      "c": "¿por qué?",
+      "a": "why?",
+      "d": [
+        "because",
+        "what for?"
+      ],
+      "ex": "¿Por qué estudias español?",
+      "exT": "Why do you study Spanish?"
+    },
+    {
+      "c": "porque",
+      "a": "because",
+      "d": [
+        "why?",
+        "therefore"
+      ],
+      "ex": "Como mucho porque tengo hambre.",
+      "exT": "I eat a lot because I'm hungry."
+    },
+    {
+      "c": "y",
+      "a": "and",
+      "d": [
+        "or",
+        "but"
+      ]
+    },
+    {
+      "c": "o",
+      "a": "or",
+      "d": [
+        "and",
+        "nor"
+      ]
+    },
+    {
+      "c": "pero",
+      "a": "but",
+      "d": [
+        "or",
+        "so"
+      ],
+      "ex": "Es caro, pero es bonito.",
+      "exT": "It's expensive, but it's pretty."
+    },
+    {
+      "c": "también",
+      "a": "also, too",
+      "d": [
+        "either",
+        "instead"
+      ],
+      "ex": "Yo también hablo inglés.",
+      "exT": "I speak English too."
+    },
+    {
+      "c": "tampoco",
+      "a": "neither, not either",
+      "d": [
+        "also, too",
+        "never"
+      ]
+    },
+    {
+      "c": "entonces",
+      "a": "then, so",
+      "d": [
+        "sometimes",
+        "always"
+      ]
+    },
+    {
+      "c": "si",
+      "a": "if",
+      "d": [
+        "yes",
+        "so"
+      ]
+    },
+    {
+      "c": "mucho",
+      "a": "a lot, much",
+      "d": [
+        "very",
+        "little"
+      ]
+    },
+    {
+      "c": "poco",
+      "a": "little, not much",
+      "d": [
+        "a lot",
+        "too much"
+      ]
+    },
+    {
+      "c": "siempre",
+      "a": "always",
+      "d": [
+        "never",
+        "sometimes"
+      ],
+      "ex": "Siempre desayuno a las siete.",
+      "exT": "I always have breakfast at seven."
+    },
+    {
+      "c": "nunca",
+      "a": "never",
+      "d": [
+        "always",
+        "rarely"
+      ],
+      "ex": "Nunca como carne.",
+      "exT": "I never eat meat."
+    },
+    {
+      "c": "a veces",
+      "a": "sometimes",
+      "d": [
+        "always",
+        "often"
+      ],
+      "ex": "A veces voy al cine.",
+      "exT": "Sometimes I go to the movies."
+    },
+    {
+      "c": "a menudo",
+      "a": "often",
+      "d": [
+        "never",
+        "slowly"
+      ]
+    },
+    {
+      "c": "todos los días",
+      "a": "every day",
+      "d": [
+        "all day",
+        "some days"
+      ]
+    },
+    {
+      "c": "ahora",
+      "a": "now",
+      "d": [
+        "later",
+        "already"
+      ]
+    },
+    {
+      "c": "ya",
+      "a": "already",
+      "d": [
+        "still",
+        "now and then"
+      ]
+    },
+    {
+      "c": "todavía",
+      "a": "still, yet",
+      "d": [
+        "already",
+        "always"
+      ]
+    },
+    {
+      "c": "antes",
+      "a": "before",
+      "d": [
+        "after",
+        "now"
+      ]
+    },
+    {
+      "c": "después",
+      "a": "after, afterwards",
+      "d": [
+        "before",
+        "during"
+      ],
+      "ex": "Después de clase voy a casa.",
+      "exT": "After class I go home."
+    },
+    {
+      "c": "¿___ es tu nombre?",
+      "a": "Cuál",
+      "d": [
+        "Qué",
+        "Quién"
+      ]
+    },
+    {
+      "c": "Estudio ___ tengo un examen.",
+      "a": "porque",
+      "d": [
+        "por qué",
+        "porqué"
+      ]
+    },
+    {
+      "c": "Yo ___ como carne.",
+      "a": "nunca",
+      "d": [
+        "nada",
+        "nadie"
+      ]
+    },
+    {
+      "c": "¿___ eres? —De Perú.",
+      "a": "De dónde",
+      "d": [
+        "Adónde",
+        "Cuándo"
+      ]
+    },
+    {
+      "c": "¿___ cuesta el libro?",
+      "a": "Cuánto",
+      "d": [
+        "Cuántos",
+        "Cuál"
+      ]
+    }
+  ]
+}

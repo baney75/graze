@@ -1,0 +1,57 @@
+{
+  "title": "The heart and circulation",
+  "note": "Blood path: right atrium, tricuspid valve, right ventricle, pulmonary valve, lungs, left atrium, mitral valve, left ventricle, aortic valve, body. The SA node sets the pace. Cardiac output equals heart rate times stroke volume. Resistance depends mostly on vessel radius, so arterioles control flow and pressure.",
+  "src": { "t": "OpenStax A&P 2e, 19.2 Cardiac Muscle and Electrical Activity", "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-2-cardiac-muscle-and-electrical-activity" },
+  "items": [
+    { "c": "Heart wall layers, outer to inner", "a": "Epicardium, myocardium, endocardium", "d": ["Endocardium, myocardium, epicardium", "Myocardium, epicardium, endocardium"] },
+    { "c": "Chamber receiving blood from the venae cavae", "a": "Right atrium", "d": ["Left atrium", "Right ventricle"] },
+    { "c": "Chamber receiving the pulmonary veins", "a": "Left atrium", "d": ["Right atrium", "Left ventricle"] },
+    { "c": "Heart chamber with the thickest wall", "a": "Left ventricle", "d": ["Right ventricle", "Left atrium"], "ex": "It pumps against the high pressure of the systemic circuit." },
+    { "c": "Valve between the right atrium and ventricle", "a": "Tricuspid valve", "d": ["Mitral valve", "Pulmonary valve"] },
+    { "c": "Valve between the left atrium and ventricle", "a": "Mitral (bicuspid) valve", "d": ["Tricuspid valve", "Aortic valve"] },
+    { "c": "Papillary muscles and chordae tendineae", "a": "Keep AV valve flaps from everting into the atria", "d": ["Open the semilunar valves", "Conduct impulses to the ventricles"] },
+    { "c": "Vessel leaving the right ventricle", "a": "Pulmonary trunk", "d": ["Aorta", "Superior vena cava"] },
+    { "c": "Coronary arteries branch from", "a": "The aorta, just above the aortic valve", "d": ["The pulmonary trunk", "The superior vena cava"] },
+    { "c": "Heart's normal pacemaker", "a": "Sinoatrial (SA) node", "d": ["Atrioventricular (AV) node", "Purkinje fibers"] },
+    { "c": "Conduction path after the AV node", "a": "AV bundle, bundle branches, Purkinje fibers", "d": ["Bundle branches, AV bundle, Purkinje fibers", "Purkinje fibers, bundle branches, AV bundle"] },
+    { "c": "Purpose of the delay at the AV node", "a": "Lets the atria finish emptying first", "d": ["Lets the ventricles contract first", "Lets the SA node recharge"] },
+    { "c": "Intrinsic rate of the AV node", "a": "About 40 to 60 per minute", "d": ["About 80 to 100 per minute", "About 15 to 20 per minute"] },
+    { "c": "P wave", "a": "Atrial depolarization", "d": ["Ventricular depolarization", "Ventricular repolarization"] },
+    { "c": "QRS complex", "a": "Ventricular depolarization", "d": ["Atrial depolarization", "Ventricular repolarization"] },
+    { "c": "T wave", "a": "Ventricular repolarization", "d": ["Atrial depolarization", "Ventricular depolarization"] },
+    { "c": "Cause of the cardiac action potential plateau", "a": "Slow Ca2+ influx", "d": ["Rapid Na+ influx", "Rapid K+ efflux"] },
+    { "c": "Why cardiac muscle cannot be tetanized", "a": "Its refractory period is very long", "d": ["It has no calcium stores", "It lacks gap junctions"] },
+    { "c": "First heart sound (S1, lub)", "a": "Closing of the AV valves", "d": ["Closing of the semilunar valves", "Contraction of the atria"] },
+    { "c": "Second heart sound (S2, dub)", "a": "Closing of the semilunar valves", "d": ["Closing of the AV valves", "Rapid filling of the ventricles"] },
+    { "c": "Isovolumic contraction", "a": "Ventricles contract with all valves closed", "d": ["Ventricles eject blood into the arteries", "Ventricles relax with all valves closed"] },
+    { "c": "Stroke volume", "a": "End-diastolic volume minus end-systolic volume", "d": ["End-diastolic plus end-systolic volume", "Heart rate times end-diastolic volume"], "ex": "At rest, about 130 mL minus about 60 mL, or roughly 70 mL." },
+    { "c": "Cardiac output", "a": "Heart rate × stroke volume", "d": ["Stroke volume ÷ heart rate", "Heart rate × end-systolic volume"] },
+    { "c": "Typical resting cardiac output", "a": "About 5 L/min", "d": ["About 1 L/min", "About 20 L/min"] },
+    { "c": "Frank-Starling mechanism", "a": "More ventricular stretch, stronger contraction", "d": ["More ventricular stretch, weaker contraction", "Less ventricular stretch, stronger contraction"] },
+    { "c": "Preload", "a": "Stretch of the ventricles before contraction", "d": ["Resistance the ventricles pump against", "Volume left in the ventricle after ejection"] },
+    { "c": "Afterload", "a": "Resistance the ventricles must pump against", "d": ["Stretch of the ventricles before contraction", "Blood returning through the venae cavae"] },
+    { "c": "Effect of vagus nerve activity on the heart", "a": "Slows the heart rate", "d": ["Speeds the heart rate", "Strengthens ventricular contraction"] },
+    { "c": "Thickest layer of an artery wall", "a": "Tunica media", "d": ["Tunica intima", "Tunica externa"] },
+    { "c": "Vessels where blood pressure drops most", "a": "Arterioles", "d": ["Capillaries", "Venules"] },
+    { "c": "Vessels holding the most blood at rest", "a": "Systemic veins", "d": ["Systemic arteries", "Capillaries"] },
+    { "c": "Pulse pressure", "a": "Systolic minus diastolic pressure", "d": ["Systolic plus diastolic pressure", "Average pressure over one cycle"] },
+    { "c": "Mean arterial pressure (estimate)", "a": "Diastolic + one-third of pulse pressure", "d": ["Systolic + one-third of pulse pressure", "Diastolic + one-half of systolic pressure"] },
+    { "c": "Halving a vessel's radius raises resistance", "a": "16-fold", "d": ["2-fold", "4-fold"], "ex": "Resistance varies with 1 over the radius to the fourth power." },
+    { "c": "Force pushing fluid out of capillaries", "a": "Capillary hydrostatic pressure", "d": ["Blood colloid osmotic pressure"] },
+    { "c": "Baroreceptors in the carotid sinus sense", "a": "Stretch from blood pressure", "d": ["Blood oxygen level", "Blood pH"] }
+  ],
+  "read": {
+    "title": "The beat starts itself",
+    "text": [
+      "Cardiac muscle does not need a nerve to start each beat. A few specialized cells contract weakly but depolarize on their own, because a slow leak of sodium drifts their membrane toward threshold. The fastest of them, in the sinoatrial (SA) node in the wall of the right atrium, reaches threshold first and so sets the pace for the whole heart.",
+      "From the SA node, the impulse spreads across both atria and along internodal pathways to the atrioventricular (AV) node. Here conduction slows for about a tenth of a second. That pause gives the atria time to finish pushing blood into the ventricles before the ventricles contract.",
+      "The impulse then travels down the AV bundle in the interventricular septum, splits into right and left bundle branches, and spreads through Purkinje fibers into the ventricular walls. Contraction begins at the apex and moves toward the base, squeezing blood up toward the arteries. Gap junctions in the intercalated discs pass the signal from cell to cell.",
+      "An electrocardiogram records these events from the skin. The P wave marks atrial depolarization, the QRS complex marks ventricular depolarization, and the T wave marks ventricular repolarization. Autonomic nerves change the rate but do not create the rhythm: the vagus nerve slows the SA node, and sympathetic nerves speed it up."
+    ],
+    "q": [
+      { "q": "Why does the SA node set the heart's pace?", "o": ["It has the most muscle", "It reaches threshold fastest", "The vagus nerve triggers it"], "k": 1 },
+      { "q": "What is the purpose of the delay at the AV node?", "o": ["To let the atria finish emptying", "To let the SA node recover", "To slow the vagus nerve"], "k": 0 },
+      { "q": "What does the QRS complex represent?", "o": ["Atrial depolarization", "Ventricular repolarization", "Ventricular depolarization"], "k": 2 }
+    ]
+  }
+}

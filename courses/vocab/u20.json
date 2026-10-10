@@ -1,0 +1,52 @@
+{
+  "title": "Borrowed phrases",
+  "note": "Serious prose borrows freely from Latin (sine qua non, without which not; quid pro quo, something for something), French (bête noire, black beast; fait accompli, accomplished fact) and German (Zeitgeist, time-spirit). English usually keeps the French accents (bête, célèbre, grâce) and often capitalizes the German nouns, as German does.",
+  "src": { "t": "Merriam-Webster: sine qua non", "u": "https://www.merriam-webster.com/dictionary/sine%20qua%20non" },
+  "items": [
+    { "c": "sine qua non", "a": "an essential condition; something indispensable", "d": ["a final, finishing blow", "a thing already done and unchangeable", "a feat of great skill"], "ex": "For a field hospital, clean water is the sine qua non." },
+    { "c": "bête noire", "a": "a person or thing one especially dislikes or dreads", "d": ["a hard-to-describe charm", "a person who shocks the establishment", "an unwelcome foreign diplomat"], "ex": "Split infinitives were the old editor's bête noire." },
+    { "c": "de rigueur", "a": "required by custom, fashion, or etiquette", "d": ["done only as a formality", "unique; in a class of its own", "made for one purpose only"], "ex": "Black tie was de rigueur at the gala." },
+    { "c": "raison d'être", "a": "the chief reason for something's existence", "d": ["a characteristic way of working", "a controversial public case", "the mood of an era"], "ex": "Saving the old theater was the society's raison d'être." },
+    { "c": "fait accompli", "a": "a thing already done, so no longer open to dispute", "d": ["an essential condition", "a plan drawn up for one purpose", "a gift given in exchange"], "ex": "By the time the board met, the sale was a fait accompli." },
+    { "c": "ad hoc", "a": "formed or done for a particular purpose only", "d": ["repeated to a sickening degree", "at first sight", "in the middle of the action"], "ex": "An ad hoc committee was formed to plan the reunion." },
+    { "c": "ad nauseam", "a": "to a tiresome, sickening extent", "d": ["for one purpose only", "as a mere formality", "in a class by itself"], "ex": "He told the fishing story ad nauseam." },
+    { "c": "quid pro quo", "a": "something given in return for something else", "d": ["an admission of one's fault", "complete freedom to act", "a final, finishing blow"], "ex": "The endorsement looked like a quid pro quo for the contract." },
+    { "c": "mea culpa", "a": "an acknowledgment of one's own fault", "d": ["a demand for payment", "a voice of popular opinion", "a warning to buyers"], "ex": "The CEO's mea culpa came only after the recall." },
+    { "c": "carte blanche", "a": "complete freedom to act as one wishes", "d": ["a strict list of rules", "a done deal", "an unwelcome person"], "ex": "The new chef was given carte blanche to redesign the menu." },
+    { "c": "cause célèbre", "a": "a controversial issue or case that draws wide attention", "d": ["a famous work of art", "an essential condition", "a feeling of déjà vu"], "ex": "The wrongful arrest became a cause célèbre." },
+    { "c": "coup de grâce", "a": "a final blow that ends something", "d": ["a graceful opening move", "a sudden lucky break", "a polite refusal"], "ex": "The third failed inspection was the coup de grâce for the restaurant." },
+    { "c": "double entendre", "a": "a phrase with two meanings, one often risqué", "d": ["a phrase repeated for emphasis", "a contradiction in terms", "a remark made in an aside"], "ex": "The comedian's act depended on double entendres." },
+    { "c": "enfant terrible", "a": "a person whose unconventional brilliance shocks the establishment", "d": ["a child prodigy in music", "a hated enemy", "a skilled storyteller"], "ex": "The architect was the enfant terrible of the profession." },
+    { "c": "esprit de corps", "a": "shared pride and loyalty among a group's members", "d": ["a single person's ambition", "a body of law", "a spirit of rebellion"], "ex": "Night drills built esprit de corps among the recruits." },
+    { "c": "je ne sais quoi", "a": "a pleasing quality that is hard to describe", "d": ["a deliberate pretense of ignorance", "a well-known rule of etiquette", "a final, finishing blow"], "ex": "The old café had a certain je ne sais quoi." },
+    { "c": "laissez-faire", "a": "a policy of leaving things to take their own course", "d": ["a policy of strict control", "a policy of regaining lost land", "a policy of easing tension"], "ex": "The coach's laissez-faire style let players run their own drills." },
+    { "c": "modus operandi", "a": "a characteristic way of working", "d": ["a final, finishing blow", "the reason something exists", "a formal agreement"], "ex": "The burglar's modus operandi was to enter through the dog door." },
+    { "c": "persona non grata", "a": "an unwelcome or unacceptable person", "d": ["a guest of honor", "a person behind the scenes", "a newly rich social climber"], "ex": "After the expulsion, the diplomat was declared persona non grata." },
+    { "c": "pro forma", "a": "done as a formality", "d": ["done for a particular purpose", "done after the fact", "done with great skill"], "ex": "The vote was pro forma; the deal was already signed." },
+    { "c": "terra incognita", "a": "unknown territory or an unexplored subject", "d": ["a promised land", "a disputed border", "a place of exile"], "ex": "For most voters, the tax code is terra incognita." },
+    { "c": "tour de force", "a": "a performance or achievement of great skill", "d": ["a tour of military duty", "a forced confession", "an essential condition"], "ex": "Her final-round chess game was a tour de force." },
+    { "c": "Zeitgeist", "a": "the defining spirit or mood of a period", "d": ["a personal worldview", "a ghost said to haunt a house", "a shared group loyalty"], "ex": "The film captured the anxious Zeitgeist of the 1970s." },
+    { "c": "Weltanschauung", "a": "a comprehensive view of the world and life", "d": ["the mood of a particular decade", "a desire to travel", "pleasure at another's misfortune"], "ex": "The novelist's Weltanschauung was bleak but never cynical." },
+    { "c": "in medias res", "a": "into the middle of a narrative or action", "d": ["at the very end of a story", "for one purpose only", "in a class by itself"], "ex": "The \"Iliad\" opens in medias res, years into the war." },
+    { "c": "sui generis", "a": "unique; in a class by itself", "d": ["required by custom", "done as a formality", "at first sight"], "ex": "Part bookstore, part bar, the place was sui generis." },
+    { "c": "cri de coeur", "a": "a passionate appeal or protest", "d": ["a battle cry before an attack", "a polite formal greeting", "a quiet word of thanks"], "ex": "Her letter to the council was a cri de coeur for the closing library." },
+    { "c": "prima facie", "a": "at first sight; accepted as correct until disproved", "d": ["beyond all possible doubt", "after the fact", "into the middle of things"], "ex": "The receipts were prima facie evidence of the payments." },
+    { "c": "vox populi", "a": "the voice of the people; popular opinion", "d": ["the decree of a ruler", "a secret ballot", "a scholarly consensus"], "ex": "Talk radio claimed to speak for the vox populi." },
+    { "c": "deus ex machina", "a": "an improbable device that suddenly resolves a plot", "d": ["a hero's fatal flaw", "a story that begins mid-action", "a villain's secret plan"], "ex": "A rich uncle arriving in the final scene is a classic deus ex machina." }
+  ],
+  "read": {
+    "title": "A Restaurant in Three Acts",
+    "text": [
+      "When Ana Ruiz took over her family's diner, her mother gave her carte blanche on one condition: the Sunday pancakes stayed. That was the sine qua non. Everything else was terra incognita.",
+      "Ana's modus operandi was to change one thing a week. She replaced the paper menus, fixed the flickering sign, and hired a cook who had trained in Lyon. Some regulars treated each change as a fait accompli they had never agreed to, and one wrote angry letters to the local paper ad nauseam. The loudest critic, a retired judge, became her bête noire.",
+      "The turning point came in the middle of a Sunday rush, when the grill caught fire. Ana herself put it out, served every table cold cereal with an apology, and printed a mea culpa on the next week's menu. The story spread, and the little diner briefly became a cause célèbre online.",
+      "The judge came back the following Sunday. He ordered pancakes, ate them in silence, and left a note: \"Prima facie, still good.\" It was not quite praise, but in that town it was close.",
+      "Years later, food writers credited Ana with capturing the Zeitgeist: comfort food done with care. She disagreed. The diner, she said, was not sui generis. It was just a place that kept its promises, which, in her view, was the whole raison d'être of a restaurant."
+    ],
+    "q": [
+      { "q": "What was the one condition attached to Ana's carte blanche?", "o": ["She could not hire new cooks", "The Sunday pancakes had to stay", "She had to keep the paper menus", "She had to close on Sundays"], "k": 1 },
+      { "q": "What did Ana's printed mea culpa express?", "o": ["An apology for the fire and the cold meal", "Pride in the new cook", "A demand for better reviews", "A plan to sell the diner"], "k": 0 },
+      { "q": "The judge's note \"Prima facie, still good\" means the food", "o": ["was perfect beyond doubt", "was worse than before", "seemed good at first look", "was too expensive"], "k": 2 }
+    ]
+  }
+}

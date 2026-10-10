@@ -1,0 +1,59 @@
+{
+  "title": "World War I",
+  "note": "Rival alliances, an arms race, imperial competition and nationalism turned a Balkan assassination in June 1914 into a world war. Trench stalemate made it a war of attrition and total war. The United States entered in 1917, Russia left after its revolution, and the 1919 Treaty of Versailles imposed harsh terms on Germany.",
+  "src": { "t": "OpenStax World History Vol. 2, Ch. 11; OpenStax U.S. History, Ch. 23", "u": "https://openstax.org/books/world-history-volume-2/pages/11-introduction" },
+  "items": [
+    { "c": "Triple Alliance", "a": "Germany, Austria-Hungary and Italy", "d": ["Britain, France and Russia", "Germany, Italy and Japan"] },
+    { "c": "Triple Entente", "a": "Britain, France and Russia", "d": ["Germany, Austria-Hungary and Italy", "Britain, France and the United States"] },
+    { "c": "HMS Dreadnought (1906)", "a": "British battleship that spurred a naval arms race", "d": ["German U-boat that sank a passenger liner", "British liner sunk off Ireland"] },
+    { "c": "Assassination of Archduke Franz Ferdinand", "a": "June 28, 1914, in Sarajevo", "d": ["July 28, 1914, in Belgrade", "August 4, 1914, in Brussels", "March 1, 1917, in Berlin"] },
+    { "c": "Gavrilo Princip", "a": "Bosnian Serb who shot Franz Ferdinand", "d": ["Serbian king who rejected Austria's ultimatum", "German general who planned the invasion of France"] },
+    { "c": "Black Hand", "a": "Secret society seeking to join Bosnia to Serbia", "d": ["Bolshevik faction that seized power in Russia", "German naval staff that ran the U-boats"] },
+    { "c": "Germany's \"blank check\" of July 1914", "a": "Promise of full support to Austria-Hungary", "d": ["Loan to Russia for military railroads", "Offer of US land to Mexico"] },
+    { "c": "Schlieffen Plan", "a": "German plan to beat France fast, then turn on Russia", "d": ["French plan to retake Alsace-Lorraine", "British plan to seize the Dardanelles"] },
+    { "c": "Neutral country Germany invaded in August 1914", "a": "Belgium", "d": ["Switzerland", "The Netherlands", "Denmark"], "ex": "Britain declared war on Germany on August 4, 1914." },
+    { "c": "Central Powers", "a": "Germany, Austria-Hungary, Ottoman Empire, Bulgaria", "d": ["Britain, France, Russia and Italy", "Germany, Italy and Japan"] },
+    { "c": "Side Italy joined in World War I (1915)", "a": "The Allies", "d": ["The Central Powers", "Neither; it stayed neutral"] },
+    { "c": "Battle of the Marne (1914)", "a": "Stopped the German advance on Paris", "d": ["Knocked Russia out of the war", "Let Germany occupy Paris"] },
+    { "c": "Western Front", "a": "Trench line across Belgium and France", "d": ["Battle line between Germany and Russia", "Front along the Italian-Austrian border"] },
+    { "c": "No man's land", "a": "Ground between opposing trench lines", "d": ["Neutral zone around Switzerland", "Land taken from Germany after the war"] },
+    { "c": "Battle of Verdun (1916)", "a": "German attack meant to bleed France's army white", "d": ["British-led offensive with huge first-day losses", "Failed Allied landing in Ottoman Turkey"] },
+    { "c": "Battle of the Somme (1916)", "a": "British-led offensive with huge first-day losses", "d": ["German attack meant to bleed France's army white", "Naval clash in the North Sea"] },
+    { "c": "Gallipoli campaign (1915)", "a": "Failed Allied attempt to seize the Dardanelles", "d": ["Successful Allied landing in northern France", "German drive through Belgium"] },
+    { "c": "ANZAC", "a": "Australian and New Zealand Army Corps", "d": ["Allied naval command in the Atlantic", "Arab army in the revolt against the Ottomans"] },
+    { "c": "New weapons introduced in World War I", "a": "Poison gas and tanks", "d": ["Atomic bombs and jet fighters", "Muskets and cannons"], "ex": "Britain first used tanks in 1916." },
+    { "c": "Total war", "a": "Mobilizing a whole society and economy for war", "d": ["War fought only by professional soldiers", "War limited to a naval blockade"] },
+    { "c": "Lusitania", "a": "British liner sunk by a German U-boat in 1915", "d": ["German battleship sunk at Jutland", "American warship that exploded in Havana"], "ex": "Of more than 1,200 dead, 128 were US citizens." },
+    { "c": "Unrestricted submarine warfare", "a": "Sinking any ship in a war zone, even neutral ones", "d": ["Sinking only enemy warships after warning", "Blockading ports with surface fleets"] },
+    { "c": "Zimmermann Telegram (1917)", "a": "German offer to help Mexico regain US land", "d": ["British pledge of a Jewish homeland", "Wilson's plan for a peace league"] },
+    { "c": "United States enters World War I", "a": "April 1917", "d": ["August 1914", "May 1915", "November 1918"] },
+    { "c": "Nicholas II", "a": "Last tsar of Russia, who abdicated in 1917", "d": ["Last kaiser of Germany, who abdicated in 1918", "Bolshevik leader who seized power in 1917"] },
+    { "c": "Bolshevik leader in the October Revolution", "a": "Vladimir Lenin", "d": ["Nicholas II", "Alexander Kerensky", "Grigori Rasputin"] },
+    { "c": "Treaty of Brest-Litovsk (1918)", "a": "Took Russia out of the war at a heavy cost in land", "d": ["Ended the war between Germany and the Allies", "Brought the United States into the war"] },
+    { "c": "Arab Revolt (1916)", "a": "British-backed uprising against Ottoman rule", "d": ["Egyptian revolt against British rule", "Ottoman campaign against Russia"] },
+    { "c": "Balfour Declaration (1917)", "a": "British support for a Jewish homeland in Palestine", "d": ["British promise of independence for India", "French claim to rule Syria and Lebanon"] },
+    { "c": "Armistice ends the fighting of World War I", "a": "November 11, 1918", "d": ["June 28, 1919", "April 6, 1917", "June 28, 1914"] },
+    { "c": "Fourteen Points", "a": "Wilson's peace plan of open diplomacy and self-rule", "d": ["Allied list of German war crimes", "Military terms of the 1918 armistice"] },
+    { "c": "Self-determination", "a": "Right of a people to choose its own government", "d": ["Right of a victor to annex land", "Duty of colonies to obey the home country"] },
+    { "c": "Treaty of Versailles", "a": "1919 peace treaty imposed on Germany", "d": ["1918 treaty that took Russia out of the war", "1815 settlement after Napoleon's defeat"] },
+    { "c": "War guilt clause", "a": "Treaty article making Germany accept blame for the war", "d": ["Article creating the League of Nations", "Article giving Germany's colonies to Japan"] },
+    { "c": "Reparations", "a": "Payments Germany owed for war damage", "d": ["Loans the US made to rebuild Germany", "Land Germany gained from Russia"] },
+    { "c": "League of Nations", "a": "International body created to keep the peace", "d": ["Wartime alliance of Britain, France and Russia", "Union of the new states of eastern Europe"] },
+    { "c": "Why the US never joined the League of Nations", "a": "The Senate rejected the Versailles treaty", "d": ["Germany vetoed US membership", "Wilson refused to sign the treaty"], "ex": "Senator Henry Cabot Lodge led the opposition." },
+    { "c": "Mandate system", "a": "League oversight of former German and Ottoman lands", "d": ["Allied military rule over Germany itself", "US control of former Spanish colonies"] },
+    { "c": "Empires that fell as a result of World War I", "a": "German, Austro-Hungarian, Russian and Ottoman", "d": ["British, French, Italian and Japanese", "Spanish, Portuguese, Dutch and Belgian"] }
+  ],
+  "read": {
+    "title": "The war to end all wars",
+    "text": [
+      "By 1914 Europe was split into two armed camps. Germany and Austria-Hungary were allied, while France, Russia and Britain had drawn together in the Triple Entente. Britain and Germany raced to build battleships, and every great power had war plans ready. On June 28, 1914, Gavrilo Princip, a member of the Black Hand, killed Archduke Franz Ferdinand in Sarajevo. Austria-Hungary, promised German support, declared war on Serbia. Within a week, Russia, Germany, France and Britain were at war.",
+      "Germany's plan was to defeat France quickly by marching through neutral Belgium, but the attack was stopped at the Marne. Both sides dug trenches from the North Sea to Switzerland. Machine guns, artillery and poison gas made attacks across no man's land deadly; at Verdun and the Somme in 1916, armies suffered hundreds of thousands of casualties for a few miles of ground. Governments rationed food, drafted millions and put factories to work for the war.",
+      "German submarine attacks and the Zimmermann Telegram brought the United States into the war in April 1917. Revolution took Russia out. Fresh American troops helped turn the tide, and the fighting stopped on November 11, 1918. The Treaty of Versailles blamed Germany for the war and demanded reparations, leaving bitterness that would help cause another war."
+    ],
+    "q": [
+      { "q": "Why did Germany march through Belgium?", "o": ["To defeat France quickly", "To reach Russia", "To protect Britain", "To join Austria-Hungary"], "k": 0 },
+      { "q": "What made attacks across no man's land so deadly?", "o": ["Machine guns, artillery and gas", "Lack of food", "Attacks by submarines", "Shortages of soldiers"], "k": 0 },
+      { "q": "According to the reading, what helped bring the US into the war?", "o": ["Submarine attacks and the Zimmermann Telegram", "The assassination in Sarajevo", "The Russian Revolution", "The Treaty of Versailles"], "k": 0 }
+    ]
+  }
+}

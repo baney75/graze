@@ -1,0 +1,321 @@
+{
+  "title": "Citation and plagiarism",
+  "note": "Cite whenever you use someone else's words, data or ideas, whether you quote, paraphrase or summarize. APA 7 uses author and date: (Jones, 2020, p. 4). MLA 9 uses author and page: (Jones 4). A true paraphrase changes both wording and structure, and still needs a citation.",
+  "src": {
+    "t": "Purdue OWL, APA In-Text Citations: Author/Authors",
+    "u": "https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_author_authors.html"
+  },
+  "items": [
+    {
+      "c": "Plagiarism",
+      "a": "Presenting someone else's words or ideas as your own",
+      "d": [
+        "Quoting a source with a citation",
+        "Paraphrasing a source with credit",
+        "Summarizing your own earlier notes"
+      ]
+    },
+    {
+      "c": "Does a paraphrase need a citation?",
+      "a": "Yes; the idea still comes from the source",
+      "d": [
+        "No; the words are now yours",
+        "Only if it is longer than a page",
+        "Only in MLA style"
+      ]
+    },
+    {
+      "c": "Patchwriting",
+      "a": "Swapping a few words while keeping the source's structure",
+      "d": [
+        "Rewriting an idea fully in your own words",
+        "Quoting a source word for word",
+        "Combining notes from your own lab"
+      ]
+    },
+    {
+      "c": "Paraphrase",
+      "a": "A source's idea restated in your own words and structure",
+      "d": [
+        "A source's exact words in quotation marks",
+        "A brief overview of a whole work",
+        "A list of a source's keywords"
+      ]
+    },
+    {
+      "c": "Quotation",
+      "a": "A source's exact words, in quotation marks",
+      "d": [
+        "A source's idea in your own words",
+        "A summary of a whole article",
+        "Your own opinion about a source"
+      ]
+    },
+    {
+      "c": "Summary",
+      "a": "A condensed overview of a source's main points",
+      "d": [
+        "An exact copy of one passage",
+        "A word-for-word translation",
+        "A list of the source's references"
+      ]
+    },
+    {
+      "c": "When a direct quotation is the best choice",
+      "a": "When the exact wording itself matters",
+      "d": [
+        "Whenever you are short on time",
+        "For every sentence from a source",
+        "When you want to hide the source"
+      ]
+    },
+    {
+      "c": "Common knowledge",
+      "a": "Widely known facts that need no citation",
+      "d": [
+        "Any fact you found on the internet",
+        "Facts from a single recent study",
+        "Statistics from a government report"
+      ],
+      "ex": "That the Civil War ended in 1865 is common knowledge; a specific casualty estimate is not."
+    },
+    {
+      "c": "Self-plagiarism",
+      "a": "Reusing your own earlier work without disclosure",
+      "d": [
+        "Citing your own work properly",
+        "Writing notes in your own words",
+        "Revising your own draft"
+      ]
+    },
+    {
+      "c": "APA 7 parenthetical citation, one author",
+      "a": "(Jones, 2020)",
+      "d": [
+        "(Jones 2020)",
+        "(Jones 45)",
+        "(2020, Jones)"
+      ]
+    },
+    {
+      "c": "APA 7 citation of a quote from page 45",
+      "a": "(Jones, 2020, p. 45)",
+      "d": [
+        "(Jones 45)",
+        "(Jones, p. 45, 2020)",
+        "(Jones, 2020: 45)"
+      ]
+    },
+    {
+      "c": "APA 7: two authors, inside parentheses",
+      "a": "(Wegener & Petty, 1994)",
+      "d": [
+        "(Wegener and Petty, 1994)",
+        "(Wegener et al., 1994)",
+        "(Wegener, Petty 1994)"
+      ]
+    },
+    {
+      "c": "APA 7: two authors, in the sentence",
+      "a": "Wegener and Petty (1994)",
+      "d": [
+        "Wegener & Petty (1994)",
+        "Wegener et al. (1994)",
+        "(Wegener & Petty) 1994"
+      ]
+    },
+    {
+      "c": "APA 7: three or more authors",
+      "a": "First author plus et al., from the first citation",
+      "d": [
+        "All authors named the first time only",
+        "All authors named every time",
+        "Last author plus et al."
+      ]
+    },
+    {
+      "c": "APA 7 block quote threshold",
+      "a": "40 words or more",
+      "d": [
+        "10 words or more",
+        "Four lines or more",
+        "100 words or more"
+      ]
+    },
+    {
+      "c": "APA 7 title of the list of sources",
+      "a": "References",
+      "d": [
+        "Works Cited",
+        "Bibliography",
+        "Sources Consulted"
+      ]
+    },
+    {
+      "c": "APA 7 case for article titles in references",
+      "a": "Sentence case",
+      "d": [
+        "Title case",
+        "All capitals",
+        "All lowercase"
+      ]
+    },
+    {
+      "c": "APA 7 style for journal names in references",
+      "a": "Title case, in italics",
+      "d": [
+        "Sentence case, plain text",
+        "All capitals, in bold",
+        "Lowercase, in quotation marks"
+      ]
+    },
+    {
+      "c": "Hanging indent",
+      "a": "Lines after the first in an entry are indented",
+      "d": [
+        "Only the first line is indented",
+        "No lines are indented",
+        "Every line is centered"
+      ]
+    },
+    {
+      "c": "APA 7 citation with no date",
+      "a": "(Author, n.d.)",
+      "d": [
+        "(Author, 0000)",
+        "(Author, no year)",
+        "(Author, ?)"
+      ]
+    },
+    {
+      "c": "APA 7 format for a DOI in a reference",
+      "a": "As a link: https://doi.org/...",
+      "d": [
+        "As doi: followed by the number",
+        "In a footnote only",
+        "It is never included"
+      ]
+    },
+    {
+      "c": "DOI",
+      "a": "A permanent identifier for a digital document",
+      "d": [
+        "The journal's subscription price",
+        "The author's employee number",
+        "A rating of article quality"
+      ]
+    },
+    {
+      "c": "MLA 9 in-text citation",
+      "a": "(Wordsworth 263)",
+      "d": [
+        "(Wordsworth, 263)",
+        "(Wordsworth, 1807)",
+        "(Wordsworth, p. 263)"
+      ]
+    },
+    {
+      "c": "MLA 9: two authors",
+      "a": "(Best and Marcus 9)",
+      "d": [
+        "(Best & Marcus, 9)",
+        "(Best et al. 9)",
+        "(Best, Marcus, 2009)"
+      ]
+    },
+    {
+      "c": "MLA 9: three or more authors",
+      "a": "(Franck et al. 327)",
+      "d": [
+        "(Franck, Smith, and Lee 327)",
+        "(Franck et al., 2018)",
+        "(Franck and others p. 327)"
+      ]
+    },
+    {
+      "c": "MLA 9 title of the list of sources",
+      "a": "Works Cited",
+      "d": [
+        "References",
+        "Bibliography of Sources",
+        "Literature Consulted"
+      ]
+    },
+    {
+      "c": "First MLA core element in a Works Cited entry",
+      "a": "Author",
+      "d": [
+        "Title of container",
+        "Publication date",
+        "Location"
+      ]
+    },
+    {
+      "c": "Container, in MLA style",
+      "a": "The larger work that holds the source",
+      "d": [
+        "The folder where you saved the file",
+        "The library that owns the book",
+        "The box a DVD comes in"
+      ],
+      "ex": "A journal is the container for an article; a website is the container for a web page."
+    },
+    {
+      "c": "MLA 9 block quote threshold",
+      "a": "More than four lines of prose",
+      "d": [
+        "Any quotation over 10 words",
+        "Exactly 40 words or more",
+        "Any quotation from a poem"
+      ]
+    },
+    {
+      "c": "Every in-text citation must match",
+      "a": "An entry in the reference list",
+      "d": [
+        "A footnote at the bottom of the page",
+        "A figure in the appendix",
+        "The paper's title page"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Paraphrase or patchwork?",
+    "text": [
+      "Imagine this sentence from a 2021 article by an author named Lee: \"Students who space their study sessions over several days remember more than students who study the same amount in one long session.\" Here are two attempts to use it.",
+      "Attempt one: \"Students who spread their study sessions across several days recall more than students who study the same amount in a single long session.\" A few words changed, but the sentence's structure and most of its wording are the source's. That is patchwriting, and many instructors treat it as plagiarism even with a citation.",
+      "Attempt two: \"Splitting study time into several shorter sessions on different days improves memory more than cramming the same hours into one sitting (Lee, 2021).\" The idea is the same, but the wording and structure are new, and the citation credits the idea. That is a genuine paraphrase.",
+      "When the exact wording matters, quote instead, with quotation marks and a page number: (Lee, 2021, p. 12) in APA or (Lee 12) in MLA. A practical way to paraphrase well is to read the passage, close the source, write the idea from memory, then check your version against the original for accidental borrowing."
+    ],
+    "q": [
+      {
+        "q": "Why is attempt one a problem?",
+        "o": [
+          "It has no citation style",
+          "It changes the source's meaning entirely",
+          "It is too short",
+          "It keeps the source's structure and most of its wording"
+        ],
+        "k": 3
+      },
+      {
+        "q": "What makes attempt two a genuine paraphrase?",
+        "o": [
+          "New wording and structure, plus a citation",
+          "It uses quotation marks",
+          "It leaves out the source's idea"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What paraphrasing method does the reading suggest?",
+        "o": [
+          "Replace every third word with a synonym",
+          "Close the source, write from memory, then check",
+          "Copy the passage, then reorder the clauses"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

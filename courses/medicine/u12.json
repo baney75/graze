@@ -1,0 +1,328 @@
+{
+ "title": "Public health and epidemiology",
+ "note": "Epidemiology measures how often health events occur in populations and why. Incidence counts new cases over a period; prevalence counts all existing cases at a time. R0 tells how fast an infection can spread, and study designs (cohort, case-control, cross-sectional, randomized trial) differ in how they link exposures to outcomes.",
+ "src": {
+  "t": "CDC, Principles of Epidemiology, Lesson 3: Measures of Risk, Section 2",
+  "u": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson3/section2.html"
+ },
+ "items": [
+  {
+   "c": "Epidemiology",
+   "a": "Study of the distribution and causes of health events in populations",
+   "d": [
+    "Study of how a single patient's skin heals",
+    "Study of how drugs are absorbed"
+   ]
+  },
+  {
+   "c": "Incidence",
+   "a": "New cases arising in a population over a period",
+   "d": [
+    "All existing cases at one point in time",
+    "Deaths among people with a disease"
+   ]
+  },
+  {
+   "c": "Prevalence",
+   "a": "All existing cases, new and old, in a population",
+   "d": [
+    "Only new cases during a period",
+    "Cases that recovered during a year"
+   ]
+  },
+  {
+   "c": "Point prevalence",
+   "a": "Prevalence measured at one moment in time",
+   "d": [
+    "Prevalence measured over a year",
+    "Incidence measured in one city"
+   ]
+  },
+  {
+   "c": "Prevalence depends roughly on",
+   "a": "Incidence and how long the condition lasts",
+   "d": [
+    "Incidence alone",
+    "Mortality alone"
+   ]
+  },
+  {
+   "c": "Treatment extends survival, no cure: prevalence",
+   "a": "Rises",
+   "d": [
+    "Falls",
+    "Is unaffected"
+   ]
+  },
+  {
+   "c": "Attack rate",
+   "a": "Share of an at-risk group who become ill during an outbreak",
+   "d": [
+    "Number of deaths per 1,000 births",
+    "Average days from exposure to illness"
+   ]
+  },
+  {
+   "c": "Case fatality rate",
+   "a": "Share of people with a disease who die of it",
+   "d": [
+    "Share of a whole population who die each year",
+    "Share of deaths caused by accidents"
+   ]
+  },
+  {
+   "c": "Endemic",
+   "a": "The usual, constant presence of a disease in an area",
+   "d": [
+    "A sudden rise above expected levels",
+    "Spread across several continents"
+   ]
+  },
+  {
+   "c": "Epidemic",
+   "a": "An increase in cases above what is normally expected",
+   "d": [
+    "The usual baseline level of a disease",
+    "Cases that occur rarely and irregularly"
+   ]
+  },
+  {
+   "c": "Pandemic",
+   "a": "An epidemic spread over several countries or continents",
+   "d": [
+    "An outbreak in one school",
+    "A disease constantly present in one region"
+   ]
+  },
+  {
+   "c": "Sporadic (disease occurrence)",
+   "a": "Occurring infrequently and irregularly",
+   "d": [
+    "Occurring at a constant high level",
+    "Occurring in every household"
+   ]
+  },
+  {
+   "c": "Basic reproduction number (R0)",
+   "a": "Average new cases from one case in a fully susceptible group",
+   "d": [
+    "Average days an infected person is contagious",
+    "Share of cases that end in death"
+   ]
+  },
+  {
+   "c": "If the reproduction number stays below 1",
+   "a": "The outbreak shrinks and dies out",
+   "d": [
+    "The outbreak grows steadily",
+    "The outbreak stays the same size forever"
+   ]
+  },
+  {
+   "c": "Effective reproduction number (Rt)",
+   "a": "New cases per case given current immunity and controls",
+   "d": [
+    "New cases per case in a fully susceptible group",
+    "Total cases since an outbreak began"
+   ]
+  },
+  {
+   "c": "Herd immunity",
+   "a": "Too few susceptible people remain for sustained spread",
+   "d": [
+    "Every person in a group is vaccinated",
+    "Animals carry immunity for humans"
+   ]
+  },
+  {
+   "c": "Approximate herd immunity threshold",
+   "a": "1 − 1/R0",
+   "d": [
+    "1/R0",
+    "R0 − 1"
+   ]
+  },
+  {
+   "c": "Herd immunity threshold if R0 is 4",
+   "a": "About 75%",
+   "d": [
+    "About 25%",
+    "About 40%"
+   ]
+  },
+  {
+   "c": "Incubation period",
+   "a": "Time from infection to the first symptoms",
+   "d": [
+    "Time from symptoms to recovery",
+    "Time a vaccine takes to be approved"
+   ]
+  },
+  {
+   "c": "Vector (in disease transmission)",
+   "a": "A living carrier, such as a mosquito, that transmits a pathogen",
+   "d": [
+    "An object, such as a doorknob, that carries germs",
+    "A drug that targets a pathogen"
+   ]
+  },
+  {
+   "c": "Fomite",
+   "a": "An object or surface that can carry infectious agents",
+   "d": [
+    "An insect that carries infection",
+    "An infected animal host"
+   ]
+  },
+  {
+   "c": "John Snow's 1854 London cholera investigation",
+   "a": "Traced cases to the Broad Street water pump",
+   "d": [
+    "Discovered the cholera bacterium under a microscope",
+    "Developed the first cholera vaccine"
+   ]
+  },
+  {
+   "c": "Cohort study",
+   "a": "Follows exposed and unexposed groups to compare outcomes",
+   "d": [
+    "Compares past exposures of cases and controls",
+    "Measures exposure and outcome at one moment"
+   ]
+  },
+  {
+   "c": "Measure of association from a cohort study",
+   "a": "Relative risk",
+   "d": [
+    "Prevalence",
+    "Case fatality rate"
+   ]
+  },
+  {
+   "c": "Case-control study",
+   "a": "Compares past exposures of people with and without an outcome",
+   "d": [
+    "Randomly assigns people to treatments",
+    "Follows exposed people forward in time"
+   ]
+  },
+  {
+   "c": "Measure of association from a case-control study",
+   "a": "Odds ratio",
+   "d": [
+    "Incidence rate",
+    "Number needed to treat"
+   ]
+  },
+  {
+   "c": "Cross-sectional study",
+   "a": "A snapshot of exposure and outcome at one time",
+   "d": [
+    "Follows a group for decades",
+    "Assigns treatments at random"
+   ]
+  },
+  {
+   "c": "Randomized controlled trial",
+   "a": "Randomly assigns participants to an intervention or control",
+   "d": [
+    "Lets participants choose their own group",
+    "Studies only past medical records"
+   ]
+  },
+  {
+   "c": "Confounder",
+   "a": "A third factor linked to both exposure and outcome",
+   "d": [
+    "A random error in measurement",
+    "The outcome being studied"
+   ]
+  },
+  {
+   "c": "A relative risk of 1.0 means",
+   "a": "No association between exposure and outcome",
+   "d": [
+    "The exposure doubles risk",
+    "The exposure always causes the outcome"
+   ]
+  },
+  {
+   "c": "Primary prevention",
+   "a": "Preventing disease before it starts, as with vaccination",
+   "d": [
+    "Detecting disease early, as with screening",
+    "Reducing harm from established disease"
+   ]
+  },
+  {
+   "c": "Secondary prevention",
+   "a": "Detecting disease early, as with screening",
+   "d": [
+    "Preventing disease before it starts",
+    "Rehabilitation after a stroke"
+   ]
+  },
+  {
+   "c": "Tertiary prevention",
+   "a": "Limiting harm and disability from established disease",
+   "d": [
+    "Vaccinating healthy children",
+    "Screening for early disease"
+   ]
+  },
+  {
+   "c": "Public health surveillance",
+   "a": "Ongoing, systematic collection and analysis of health data",
+   "d": [
+    "A one-time survey of hospital staff",
+    "Police monitoring of hospitals"
+   ]
+  },
+  {
+   "c": "Called the father of field epidemiology",
+   "a": "John Snow",
+   "d": [
+    "Louis Pasteur",
+    "William Harvey"
+   ]
+  }
+ ],
+ "read": {
+  "title": "R0 and herd immunity",
+  "text": [
+   "The basic reproduction number, R0, is the average number of new infections caused by one infected person in a population where everyone is susceptible. It depends on the pathogen, how people contact each other, and how long someone stays infectious. If each case causes more than one new case, an outbreak grows; if fewer than one, it fades.",
+   "As people become immune, through infection or vaccination, each case meets fewer susceptible people. The effective reproduction number, often written Rt, then falls below R0. Spread stops being self-sustaining once Rt drops below 1. In the simplest model this happens when the immune share of the population exceeds 1 − 1/R0. For an infection with an R0 of 4, that threshold is about 75 percent; a more contagious infection needs a higher share.",
+   "This is herd immunity: protection that reaches people who are not themselves immune, such as newborns too young for a vaccine or people whose immune systems cannot respond to one. Real populations are not evenly mixed, so pockets with low immunity can still sustain outbreaks even when the overall average looks high enough."
+  ],
+  "q": [
+   {
+    "q": "What does an Rt below 1 mean?",
+    "o": [
+     "The outbreak is growing",
+     "Each case causes fewer than one new case, so spread fades",
+     "Everyone has been infected"
+    ],
+    "k": 1
+   },
+   {
+    "q": "Using 1 − 1/R0, what is the threshold for an R0 of 2?",
+    "o": [
+     "About 25%",
+     "About 75%",
+     "About 90%",
+     "About 50%"
+    ],
+    "k": 3
+   },
+   {
+    "q": "Why can outbreaks occur even when average immunity seems high?",
+    "o": [
+     "Pockets of low immunity can sustain spread",
+     "R0 always rises over time",
+     "Vaccines stop working in large groups"
+    ],
+    "k": 0
+   }
+  ]
+ }
+}

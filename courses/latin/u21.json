@@ -1,0 +1,317 @@
+{
+  "title": "Time, seasons and weather",
+  "note": "Months are adjectives agreeing with mensis (m): mensis Martius, March. Dates count back from three fixed days: Kalendae (the 1st), Nonae (the 5th, or 7th in March, May, July and October) and Idus (the 13th, or 15th in those months). Time when uses the ablative without a preposition: hieme, in winter. Weather verbs have no subject: pluit, it rains.",
+  "src": {
+    "t": "D'Ooge, Latin for Beginners (Project Gutenberg)",
+    "u": "https://www.gutenberg.org/cache/epub/18251/pg18251-images.html"
+  },
+  "items": [
+    {
+      "c": "hora (f)",
+      "a": "hour",
+      "d": [
+        "day",
+        "year"
+      ],
+      "ex": "Quota hora est?",
+      "exT": "What time is it?"
+    },
+    {
+      "c": "mensis, mensis (m)",
+      "a": "month",
+      "d": [
+        "table",
+        "week"
+      ]
+    },
+    {
+      "c": "ver, veris (n)",
+      "a": "spring (season)",
+      "d": [
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "c": "aestas, aestatis (f)",
+      "a": "summer",
+      "d": [
+        "age",
+        "winter"
+      ]
+    },
+    {
+      "c": "autumnus (m)",
+      "a": "autumn",
+      "d": [
+        "spring",
+        "winter"
+      ]
+    },
+    {
+      "c": "hiems, hiemis (f)",
+      "a": "winter",
+      "d": [
+        "summer",
+        "storm"
+      ]
+    },
+    {
+      "c": "Kalendae (f pl)",
+      "a": "the Kalends (1st of the month)",
+      "d": [
+        "the Ides (middle of the month)",
+        "the Nones (5th or 7th)"
+      ]
+    },
+    {
+      "c": "Nonae (f pl)",
+      "a": "the Nones (5th or 7th of the month)",
+      "d": [
+        "the Kalends (1st of the month)",
+        "the Ides (13th or 15th)"
+      ]
+    },
+    {
+      "c": "Idus Martiae",
+      "a": "the Ides of March (March 15)",
+      "d": [
+        "the first of March",
+        "the last day of March"
+      ],
+      "ex": "Idibus Martiis Caesar occisus est.",
+      "exT": "On the Ides of March Caesar was killed."
+    },
+    {
+      "c": "mensis Iulius",
+      "a": "July",
+      "d": [
+        "June",
+        "August"
+      ],
+      "ex": "Mensis Iulius nomen habet a Iulio Caesare.",
+      "exT": "July takes its name from Julius Caesar."
+    },
+    {
+      "c": "mensis Augustus",
+      "a": "August",
+      "d": [
+        "July",
+        "September"
+      ]
+    },
+    {
+      "c": "dies Solis",
+      "a": "Sunday (day of the Sun)",
+      "d": [
+        "Saturday (day of Saturn)",
+        "Monday (day of the Moon)"
+      ]
+    },
+    {
+      "c": "dies Lunae",
+      "a": "Monday (day of the Moon)",
+      "d": [
+        "Tuesday (day of Mars)",
+        "Sunday (day of the Sun)"
+      ]
+    },
+    {
+      "c": "dies Saturni",
+      "a": "Saturday (day of Saturn)",
+      "d": [
+        "Sunday (day of the Sun)",
+        "Thursday (day of Jupiter)"
+      ]
+    },
+    {
+      "c": "dies Dominica",
+      "a": "Sunday (the Lord's day)",
+      "d": [
+        "Saturday (the Sabbath)",
+        "Monday (the second day)"
+      ]
+    },
+    {
+      "c": "feria secunda",
+      "a": "Monday (church Latin)",
+      "d": [
+        "Tuesday (church Latin)",
+        "Sunday (church Latin)"
+      ]
+    },
+    {
+      "c": "sol, solis (m)",
+      "a": "sun",
+      "d": [
+        "moon",
+        "salt"
+      ],
+      "ex": "Sol in caelo est.",
+      "exT": "The sun is in the sky."
+    },
+    {
+      "c": "ventus (m)",
+      "a": "wind",
+      "d": [
+        "cloud",
+        "rain"
+      ],
+      "ex": "Ventus magnus est.",
+      "exT": "The wind is strong."
+    },
+    {
+      "c": "nubes, nubis (f)",
+      "a": "cloud",
+      "d": [
+        "wind",
+        "fog"
+      ]
+    },
+    {
+      "c": "imber, imbris (m)",
+      "a": "rain shower, rainstorm",
+      "d": [
+        "snow",
+        "thunder"
+      ]
+    },
+    {
+      "c": "pluit",
+      "a": "it rains",
+      "d": [
+        "it snows",
+        "it thunders"
+      ],
+      "ex": "Hodie pluit.",
+      "exT": "It is raining today."
+    },
+    {
+      "c": "ningit",
+      "a": "it snows",
+      "d": [
+        "it rains",
+        "it freezes"
+      ]
+    },
+    {
+      "c": "tonat",
+      "a": "it thunders",
+      "d": [
+        "it rains",
+        "it shines"
+      ]
+    },
+    {
+      "c": "nix, nivis (f)",
+      "a": "snow",
+      "d": [
+        "night",
+        "ice"
+      ]
+    },
+    {
+      "c": "arbor, arboris (f)",
+      "a": "tree",
+      "d": [
+        "shade",
+        "harbor"
+      ],
+      "ex": "Arbor alta est.",
+      "exT": "The tree is tall."
+    },
+    {
+      "c": "flos, floris (m)",
+      "a": "flower",
+      "d": [
+        "river",
+        "leaf"
+      ],
+      "ex": "Flores in horto sunt.",
+      "exT": "There are flowers in the garden."
+    },
+    {
+      "c": "prima luce",
+      "a": "at dawn (at first light)",
+      "d": [
+        "at noon",
+        "at midnight"
+      ]
+    },
+    {
+      "c": "vesperi",
+      "a": "in the evening",
+      "d": [
+        "in the morning",
+        "at night"
+      ]
+    },
+    {
+      "c": "___ saepe ningit. (hiems, in winter)",
+      "a": "Hieme",
+      "d": [
+        "Hiemem",
+        "Hiemis"
+      ],
+      "ex": "Hieme saepe ningit.",
+      "exT": "In winter it often snows."
+    },
+    {
+      "c": "___ sol ardet. (aestas, in summer)",
+      "a": "Aestate",
+      "d": [
+        "Aestatem",
+        "Aestas"
+      ],
+      "ex": "Aestate sol ardet.",
+      "exT": "In summer the sun blazes."
+    },
+    {
+      "c": "Mense ___ venio. (Martius, in March)",
+      "a": "Martio",
+      "d": [
+        "Martium",
+        "Martius"
+      ],
+      "ex": "Mense Martio venio.",
+      "exT": "I am coming in March."
+    }
+  ],
+  "read": {
+    "title": "Annus Romanus",
+    "text": [
+      "Annus Romanus duodecim menses habet. Olim primus mensis erat Martius; nunc primus est Ianuarius.",
+      "Vere flores in hortis sunt, et agricolae in agris laborant. Aestate sol in caelo ardet, et homines multam aquam bibunt.",
+      "Autumno agricolae fructus et vinum parant. Hieme ventus et imber veniunt; in montibus ningit, et pueri domi manent."
+    ],
+    "q": [
+      {
+        "q": "Which month was once the first of the year?",
+        "o": [
+          "January",
+          "March",
+          "July"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What do people do in summer?",
+        "o": [
+          "Drink a lot of water",
+          "Stay at home",
+          "Plant flowers"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What happens in the mountains in winter?",
+        "o": [
+          "Farmers work the fields",
+          "Flowers bloom",
+          "It snows"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

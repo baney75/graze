@@ -1,0 +1,47 @@
+{
+  "title": "Rules of inference and equivalences",
+  "note": "Some argument forms are valid in every instance. Modus ponens and modus tollens work from a conditional, hypothetical syllogism chains conditionals, and disjunctive syllogism eliminates an option. A conditional is equivalent to its contrapositive, not its converse. De Morgan's laws: ¬(P ∧ Q) equals ¬P ∨ ¬Q, and ¬(P ∨ Q) equals ¬P ∧ ¬Q.",
+  "src": { "t": "forall x: Calgary, Ch. 21 Derived rules", "u": "https://forallx.openlogicproject.org/html/Ch21.html" },
+  "items": [
+    { "c": "Modus ponens", "a": "If P then Q; P; so Q", "d": ["If P then Q; Q; so P", "If P then Q; not Q; so not P"] },
+    { "c": "Modus tollens", "a": "If P then Q; not Q; so not P", "d": ["If P then Q; not P; so not Q", "If P then Q; P; so Q"] },
+    { "c": "Hypothetical syllogism", "a": "If P then Q; if Q then R; so if P then R", "d": ["If P then Q; if P then R; so if Q then R", "P or Q; not P; so Q"] },
+    { "c": "Disjunctive syllogism", "a": "P or Q; not P; so Q", "d": ["P or Q; P; so not Q", "If P then Q; P; so Q"] },
+    { "c": "If it rains, no game. It rains. So no game.", "a": "modus ponens", "d": ["modus tollens", "affirming the consequent", "disjunctive syllogism"] },
+    { "c": "If A then B; not B; therefore not A", "a": "modus tollens (valid)", "d": ["denying the antecedent", "modus ponens", "hypothetical syllogism"] },
+    { "c": "A or B; not A; therefore B", "a": "disjunctive syllogism", "d": ["hypothetical syllogism", "affirming a disjunct", "modus tollens"] },
+    { "c": "If A then B; if B then C; therefore if A then C", "a": "hypothetical syllogism (chain)", "d": ["disjunctive syllogism", "constructive dilemma", "modus ponens"] },
+    { "c": "A and B; therefore A", "a": "simplification", "d": ["addition", "conjunction", "modus ponens"] },
+    { "c": "A; therefore A or B", "a": "addition (or-introduction)", "d": ["simplification", "disjunctive syllogism", "conjunction"] },
+    { "c": "A; B; therefore A and B", "a": "conjunction (and-introduction)", "d": ["addition", "simplification", "hypothetical syllogism"] },
+    { "c": "Constructive dilemma", "a": "If A then C; if B then D; A or B; so C or D", "d": ["A or B; not A; so B", "If A then B; if B then C; so if A then C"] },
+    { "c": "Contrapositive of 'If P then Q'", "a": "If not Q, then not P", "d": ["If Q, then P", "If not P, then not Q"] },
+    { "c": "Converse of 'If P then Q'", "a": "If Q, then P", "d": ["If not Q, then not P", "If not P, then not Q"] },
+    { "c": "Inverse of 'If P then Q'", "a": "If not P, then not Q", "d": ["If not Q, then not P", "If Q, then P"] },
+    { "c": "Which is equivalent to 'If P then Q'?", "a": "its contrapositive", "d": ["its converse", "its inverse"] },
+    { "c": "De Morgan: ¬(P ∧ Q) is equivalent to", "a": "¬P ∨ ¬Q", "d": ["¬P ∧ ¬Q", "¬P → ¬Q"] },
+    { "c": "De Morgan: ¬(P ∨ Q) is equivalent to", "a": "¬P ∧ ¬Q", "d": ["¬P ∨ ¬Q", "¬P → ¬Q"] },
+    { "c": "'Not both rich and famous' means", "a": "not rich, or not famous, or neither", "d": ["neither rich nor famous", "rich but not famous"] },
+    { "c": "'Neither tea nor coffee' amounts to", "a": "no tea, and no coffee", "d": ["no tea, or no coffee", "tea, but no coffee"] },
+    { "c": "P → Q is equivalent to", "a": "¬P ∨ Q", "d": ["P ∨ ¬Q", "¬P ∧ Q", "Q → P"] },
+    { "c": "¬(P → Q) is equivalent to", "a": "P ∧ ¬Q", "d": ["¬P → ¬Q", "¬P ∧ Q", "¬P ∨ ¬Q"] },
+    { "c": "Double negation: ¬¬P is equivalent to", "a": "P", "d": ["¬P", "P ∧ ¬P"] },
+    { "c": "P ↔ Q is equivalent to", "a": "(P → Q) ∧ (Q → P)", "d": ["(P → Q) ∨ (Q → P)", "P ∧ Q"] },
+    { "c": "Reductio ad absurdum", "a": "assume the opposite, then derive a contradiction", "d": ["assume the conclusion, then restate it", "reject a claim because it sounds odd"] },
+    { "c": "Rule of inference", "a": "a valid pattern that licenses a step in a proof", "d": ["a premise assumed without proof", "a definition of one connective"] }
+  ],
+  "read": {
+    "title": "Patterns you can trust",
+    "text": [
+      "Some argument patterns are valid no matter what you plug into them. The two most famous work from a conditional, 'If P then Q'. Modus ponens affirms the antecedent: P is true, so Q is. Modus tollens denies the consequent: Q is false, so P is false too. If the alarm sounds whenever there is smoke, and the alarm is silent, there is no smoke (assuming the alarm works as the premise says).",
+      "Hypothetical syllogism links conditionals into a chain: if P then Q, and if Q then R, so if P then R. Disjunctive syllogism rules out an option: P or Q, not P, so Q.",
+      "Equivalences let you rewrite a sentence without changing its meaning. A conditional is equivalent to its contrapositive, 'If not Q, then not P'. It is not equivalent to its converse, 'If Q, then P', or its inverse, 'If not P, then not Q'; confusing them produces the fallacies in the next unit.",
+      "De Morgan's laws tell you how negation passes through 'and' and 'or'. Saying a person is not both rich and famous means the person is either not rich or not famous. Wanting neither tea nor coffee means wanting no tea and no coffee. Negation flips 'and' to 'or' and 'or' to 'and'."
+    ],
+    "q": [
+      { "q": "The alarm example illustrates which rule?", "o": ["Modus ponens", "Disjunctive syllogism", "Modus tollens"], "k": 2 },
+      { "q": "Which sentence is equivalent to 'If P then Q'?", "o": ["If Q, then P", "If not Q, then not P", "If not P, then not Q"], "k": 1 },
+      { "q": "According to De Morgan's laws, what happens when a negation passes through 'and'?", "o": ["It becomes 'or'", "It stays 'and'", "It becomes 'if...then'"], "k": 0 }
+    ]
+  }
+}

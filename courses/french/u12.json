@@ -1,0 +1,53 @@
+{
+  "title": "The body and daily routine",
+  "note": "With body parts French uses le, la, les rather than my or your: Je me lave les mains. Avoir mal à says what hurts: J'ai mal à la tête, au dos, aux pieds. Routine verbs are reflexive and take a pronoun that matches the subject: je me lève, tu te lèves, il se lève, nous nous levons.",
+  "src": { "t": "Français interactif, Chapitre 10 vocabulaire (le corps)", "u": "https://laits.utexas.edu/fi/voc/10/" },
+  "items": [
+    { "c": "le corps", "a": "body", "d": ["heart", "skin"] },
+    { "c": "la tête", "a": "head", "d": ["face", "neck"], "ex": "J'ai mal à la tête.", "exT": "I have a headache." },
+    { "c": "le visage", "a": "face", "d": ["head", "cheek"] },
+    { "c": "les cheveux (m)", "a": "hair (on the head)", "d": ["eyebrows", "horses"], "say": "les cheveux" },
+    { "c": "l'œil (m)", "a": "eye", "d": ["ear", "eyebrow"], "say": "l'œil" },
+    { "c": "les yeux (m)", "a": "eyes", "d": ["ears", "teeth"], "say": "les yeux", "ex": "Elle a les yeux verts.", "exT": "She has green eyes." },
+    { "c": "le nez", "a": "nose", "d": ["neck", "chin"] },
+    { "c": "la bouche", "a": "mouth", "d": ["cheek", "throat"] },
+    { "c": "les dents (f)", "a": "teeth", "d": ["lips", "gums"], "say": "les dents" },
+    { "c": "l'oreille (f)", "a": "ear", "d": ["eye", "cheek"], "say": "l'oreille" },
+    { "c": "le cou", "a": "neck", "d": ["elbow", "shoulder"] },
+    { "c": "la gorge", "a": "throat", "d": ["mouth", "chest"] },
+    { "c": "le bras", "a": "arm", "d": ["leg", "hand"] },
+    { "c": "la main", "a": "hand", "d": ["foot", "arm"] },
+    { "c": "le doigt", "a": "finger", "d": ["nail", "wrist"] },
+    { "c": "le dos", "a": "back", "d": ["stomach", "shoulder"] },
+    { "c": "le ventre", "a": "stomach / belly", "d": ["back", "chest"] },
+    { "c": "la jambe", "a": "leg", "d": ["arm", "ankle"] },
+    { "c": "le genou", "a": "knee", "d": ["elbow", "ankle"] },
+    { "c": "le pied", "a": "foot", "d": ["hand", "leg"] },
+    { "c": "le cœur", "a": "heart", "d": ["body", "chest"] },
+    { "c": "se réveiller", "a": "to wake up", "d": ["to get up", "to go to bed"], "ex": "Je me réveille à sept heures.", "exT": "I wake up at seven." },
+    { "c": "se lever", "a": "to get up", "d": ["to wake up", "to sit down"] },
+    { "c": "se laver", "a": "to wash (oneself)", "d": ["to get dressed", "to get up"] },
+    { "c": "s'habiller", "a": "to get dressed", "d": ["to wash up", "to live"] },
+    { "c": "se brosser les dents", "a": "to brush one's teeth", "d": ["to brush one's hair", "to wash one's face"] },
+    { "c": "se coucher", "a": "to go to bed", "d": ["to wake up", "to sit down"] },
+    { "c": "se reposer", "a": "to rest", "d": ["to sleep in", "to hurry"] },
+    { "c": "J'ai mal au dos.", "a": "My back hurts.", "d": ["My stomach hurts.", "I hurt my foot."] },
+    { "c": "J'ai mal ___ ventre.", "a": "au", "d": ["à la", "aux"] },
+    { "c": "Il a mal ___ pieds.", "a": "aux", "d": ["au", "à les"], "ex": "Après la randonnée, il a mal aux pieds.", "exT": "After the hike, his feet hurt." },
+    { "c": "Tu as mal ___ oreille ?", "a": "à l'", "d": ["au", "à la"] },
+    { "c": "Je me lave ___ mains.", "a": "les", "d": ["mes", "des"], "ex": "Je me lave les mains avant le dîner.", "exT": "I wash my hands before dinner." },
+    { "c": "Nous ___ levons à six heures.", "a": "nous", "d": ["se", "vous"] }
+  ],
+  "read": {
+    "title": "Le matin de Marc",
+    "text": [
+      "Marc se réveille à six heures et demie. Il se lève tout de suite et il va dans la salle de bains. Il se lave, il se brosse les dents et il s'habille. Ensuite, il mange du pain avec du beurre et il boit un café.",
+      "Mais aujourd'hui, Marc ne va pas bien. Il a mal à la tête et il a mal au dos. Il téléphone à son bureau : « Je reste à la maison aujourd'hui. » Il se repose sur le canapé, et le soir il se couche tôt, à neuf heures."
+    ],
+    "q": [
+      { "q": "What time does Marc wake up?", "o": ["7:30", "9:00", "6:30"], "k": 2 },
+      { "q": "What does Marc have for breakfast?", "o": ["Eggs and tea", "Bread with butter and a coffee", "Cheese and orange juice"], "k": 1 },
+      { "q": "Why does Marc stay home today?", "o": ["His head and back hurt", "It is Sunday", "His office is closed"], "k": 0 }
+    ]
+  }
+}

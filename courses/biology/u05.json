@@ -1,0 +1,50 @@
+{
+  "title": "Energy, enzymes, and metabolism",
+  "note": "Reactions that release free energy (exergonic, ΔG < 0) can drive reactions that need it (endergonic, ΔG > 0), usually through ATP. Enzymes speed reactions by lowering activation energy; they do not change ΔG and are not used up. Inhibitors and allosteric regulators switch enzymes on and off.",
+  "src": { "t": "OpenStax Biology 2e, Ch. 6: Metabolism", "u": "https://openstax.org/books/biology-2e/pages/6-introduction" },
+  "items": [
+    { "c": "Metabolism", "a": "All the chemical reactions in an organism", "d": ["Only the reactions that release energy", "Only the reactions that build proteins"] },
+    { "c": "Anabolic pathway", "a": "Builds complex molecules and consumes energy", "d": ["Breaks down molecules and releases energy", "Moves molecules across membranes"], "ex": "Building proteins from amino acids is anabolic." },
+    { "c": "Catabolic pathway", "a": "Breaks down molecules and releases energy", "d": ["Builds complex molecules and consumes energy", "Copies DNA before division"], "ex": "Breaking down glucose is catabolic." },
+    { "c": "Kinetic energy", "a": "Energy of motion", "d": ["Energy stored in position or structure", "Energy lost as entropy"] },
+    { "c": "Potential energy", "a": "Stored energy of position or structure", "d": ["Energy of motion", "Energy released as heat"], "ex": "Chemical bonds hold potential energy." },
+    { "c": "Gibbs free energy (G)", "a": "Energy available to do work", "d": ["Energy needed to start a reaction", "Energy lost as heat to surroundings"] },
+    { "c": "Exergonic reaction", "a": "Releases free energy; ΔG is negative", "d": ["Absorbs free energy; ΔG is positive", "Neither releases nor absorbs energy"] },
+    { "c": "Endergonic reaction", "a": "Requires free energy input; ΔG is positive", "d": ["Releases free energy; ΔG is negative", "Occurs only without enzymes"] },
+    { "c": "\"Spontaneous\" reaction in thermodynamics", "a": "Exergonic; may still occur slowly", "d": ["Always occurs instantly", "Requires a constant input of energy"] },
+    { "c": "Activation energy", "a": "Energy needed to start a reaction", "d": ["Energy released when a reaction ends", "Energy stored in the products"] },
+    { "c": "First law of thermodynamics", "a": "Energy is neither created nor destroyed", "d": ["Every energy transfer increases entropy", "Energy always flows from cold to hot"] },
+    { "c": "Second law of thermodynamics", "a": "Every energy transfer increases the universe's entropy", "d": ["Energy is neither created nor destroyed", "Reactions always need enzymes to occur"] },
+    { "c": "Entropy", "a": "Measure of disorder in a system", "d": ["Measure of usable energy in a system", "Measure of how fast a reaction proceeds"] },
+    { "c": "ATP releases usable energy by…", "a": "hydrolysis of its terminal phosphate bond", "d": ["formation of a peptide bond", "oxidation of its adenine base"] },
+    { "c": "Products of ATP hydrolysis", "a": "ADP and inorganic phosphate", "d": ["AMP and glucose", "NADH and CO2"] },
+    { "c": "Energy coupling", "a": "An exergonic reaction drives an endergonic one", "d": ["Two endergonic reactions cancel out", "An enzyme raises activation energy"] },
+    { "c": "Phosphorylation", "a": "Adding a phosphate group to a molecule", "d": ["Removing water from two monomers", "Removing an amino group"] },
+    { "c": "Enzyme", "a": "Biological catalyst that lowers activation energy", "d": ["Molecule that raises activation energy", "Reactant used up by the reaction"] },
+    { "c": "Do enzymes change a reaction's ΔG?", "a": "No; they only lower activation energy", "d": ["Yes; they make ΔG more negative", "Yes; they make ΔG positive"] },
+    { "c": "Substrate", "a": "Reactant that an enzyme acts on", "d": ["Product an enzyme releases", "Inhibitor that blocks an enzyme"] },
+    { "c": "Active site", "a": "Region of an enzyme where the substrate binds", "d": ["Region where an allosteric inhibitor binds", "Region where the enzyme attaches to membranes"] },
+    { "c": "Induced fit", "a": "The active site reshapes slightly around the substrate", "d": ["The substrate breaks to fit a rigid site", "The enzyme is consumed after one reaction"] },
+    { "c": "Effect of very high temperature on an enzyme", "a": "Denatures it, so activity drops", "d": ["Makes it work indefinitely faster", "Converts it into its substrate"] },
+    { "c": "Competitive inhibitor", "a": "Binds the active site and blocks the substrate", "d": ["Binds elsewhere and changes the enzyme's shape", "Permanently adds a phosphate to the substrate"] },
+    { "c": "Noncompetitive inhibitor", "a": "Binds away from the active site and alters enzyme shape", "d": ["Competes with the substrate for the active site", "Increases the enzyme's activity"] },
+    { "c": "Allosteric site", "a": "Regulatory site away from the active site", "d": ["Site where the substrate binds", "Site on DNA where the enzyme gene starts"] },
+    { "c": "Cofactor", "a": "Inorganic ion, such as Fe2+ or Mg2+, that helps an enzyme", "d": ["Organic vitamin-derived helper molecule", "Protein that inhibits an enzyme"] },
+    { "c": "Coenzyme", "a": "Organic helper molecule, often derived from a vitamin", "d": ["Inorganic metal ion that helps an enzyme", "Second substrate consumed by the enzyme"] },
+    { "c": "Feedback inhibition", "a": "A pathway's end product inhibits an earlier enzyme", "d": ["A substrate activates its own enzyme", "An enzyme destroys its own product"] }
+  ],
+  "read": {
+    "title": "How enzymes get reactions moving",
+    "text": [
+      "Many reactions in a cell release energy, yet they barely happen on their own. Sugar sitting in a bowl does not burst into carbon dioxide and water, even though that reaction is strongly exergonic. The reason is activation energy, the push needed to strain and break existing bonds before new ones can form.",
+      "Enzymes lower that barrier. Most are proteins with a pocket called the active site. When a substrate binds, the site shifts slightly to grip it, an idea called induced fit. The enzyme may bend the substrate, bring two reactants together in the right orientation, or briefly donate or accept charges. The reaction then runs thousands or millions of times faster.",
+      "An enzyme does not change how much energy the reaction releases or absorbs, and it comes out unchanged, ready to work again. It also does not make an endergonic reaction happen by itself. For that, cells couple it to an exergonic one, usually the hydrolysis of ATP.",
+      "Enzymes are sensitive to their surroundings. Each works best at a particular temperature and pH, and extreme conditions denature it. Cells also regulate enzymes with inhibitors and with molecules that bind allosteric sites. In feedback inhibition, a pathway's final product shuts down an early step, so the cell does not overproduce it."
+    ],
+    "q": [
+      { "q": "Why doesn't sugar in a bowl spontaneously burn?", "o": ["The reaction is endergonic", "Activation energy is too high to overcome at room temperature", "Sugar contains no stored energy"], "k": 1 },
+      { "q": "What does an enzyme NOT change?", "o": ["The speed of the reaction", "The activation energy", "The overall energy released by the reaction"], "k": 2 },
+      { "q": "In feedback inhibition, what shuts down an early step?", "o": ["The pathway's final product", "Excess substrate", "High temperature", "A second enzyme's active site"], "k": 0 }
+    ]
+  }
+}

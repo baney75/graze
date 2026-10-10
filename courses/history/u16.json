@@ -1,0 +1,60 @@
+{
+  "title": "The Cold War, decolonization and the world since 1990",
+  "note": "After 1945 the United States and the Soviet Union led rival blocs in a Cold War of alliances, arms races and proxy wars, while most colonies in Asia and Africa won independence. The Soviet bloc collapsed between 1989 and 1991, opening an era of globalization, new conflicts and shared global problems.",
+  "src": { "t": "OpenStax World History Vol. 2, Ch. 14 and 15; OpenStax U.S. History, Ch. 29", "u": "https://openstax.org/books/world-history-volume-2/pages/14-1-the-cold-war-begins" },
+  "items": [
+    { "c": "Cold War", "a": "US-Soviet rivalry without direct war between them", "d": ["Open war between the US and the USSR", "Rivalry between Britain and France for colonies"] },
+    { "c": "\"Iron curtain\" (Churchill, 1946)", "a": "Line dividing Soviet-controlled Eastern Europe from the West", "d": ["Wall built around West Berlin", "Border between North and South Korea"] },
+    { "c": "Containment", "a": "US policy of stopping communism from spreading", "d": ["US policy of rolling back all communist states by war", "Soviet policy of avoiding all foreign ties"] },
+    { "c": "Truman Doctrine (1947)", "a": "US aid to Greece and Turkey against communism", "d": ["US aid to rebuild all of Western Europe", "US pledge to defend Taiwan"] },
+    { "c": "Marshall Plan", "a": "US economic aid to rebuild postwar Europe", "d": ["US military alliance with Western Europe", "Soviet aid program for Eastern Europe"] },
+    { "c": "Berlin Airlift (1948 to 1949)", "a": "Western flights supplying blockaded West Berlin", "d": ["Soviet flights supplying East Berlin", "US bombing raids on Berlin"] },
+    { "c": "NATO (1949)", "a": "Western mutual-defense alliance", "d": ["Soviet-led alliance of Eastern Europe", "Alliance of nonaligned nations"] },
+    { "c": "Warsaw Pact (1955)", "a": "Soviet-led military alliance of Eastern Europe", "d": ["Western mutual-defense alliance", "Treaty ending the Korean War"] },
+    { "c": "Mao proclaims the People's Republic of China", "a": "1949", "d": ["1911", "1937", "1966"] },
+    { "c": "Korean War", "a": "1950 to 1953", "d": ["1945 to 1949", "1964 to 1973", "1979 to 1989"], "ex": "An armistice left Korea divided near the 38th parallel." },
+    { "c": "Sputnik (1957)", "a": "First artificial satellite, launched by the USSR", "d": ["First crewed Moon landing, by the US", "First Soviet atomic bomb test"] },
+    { "c": "Mutually assured destruction", "a": "Nuclear war would destroy both sides, so neither starts it", "d": ["One side can win a nuclear war by striking first", "Nuclear weapons are useless against armies"] },
+    { "c": "Berlin Wall built", "a": "1961", "d": ["1948", "1953", "1989"] },
+    { "c": "Cuban Missile Crisis", "a": "October 1962", "d": ["April 1961", "August 1949", "November 1989"], "ex": "The USSR removed its missiles; the US pledged not to invade Cuba." },
+    { "c": "Great Leap Forward (1958)", "a": "Mao's push for communes that led to mass famine", "d": ["Mao's campaign of Red Guards against \"old\" culture", "Deng's opening of China to foreign investment"] },
+    { "c": "Cultural Revolution (1966)", "a": "Mao's campaign of Red Guards against \"old\" culture", "d": ["Mao's push for communes that led to mass famine", "Deng's opening of China to foreign investment"] },
+    { "c": "Vietnam reunified under communist rule", "a": "1975", "d": ["1954", "1964", "1968"] },
+    { "c": "Decolonization", "a": "Colonies winning independence from empires", "d": ["Empires seizing new colonies", "Colonies merging into larger empires"] },
+    { "c": "Independence and partition of India and Pakistan", "a": "1947", "d": ["1857", "1919", "1962"] },
+    { "c": "Mohandas Gandhi", "a": "Leader of India's nonviolent independence movement", "d": ["India's first prime minister", "Founder of Pakistan"] },
+    { "c": "Jawaharlal Nehru", "a": "India's first prime minister", "d": ["Leader of India's nonviolent independence movement", "Founder of Pakistan"] },
+    { "c": "State of Israel proclaimed", "a": "May 1948", "d": ["November 1917", "October 1956", "June 1967"] },
+    { "c": "Kwame Nkrumah", "a": "Led Ghana to independence in 1957", "d": ["Led Kenya to independence in 1963", "Became South Africa's president in 1994"] },
+    { "c": "Algerian War of Independence", "a": "1954 to 1962, against France", "d": ["1947 to 1948, against Britain", "1960 to 1965, against Belgium"] },
+    { "c": "Bandung Conference (1955)", "a": "Meeting of Asian and African states that seeded non-alignment", "d": ["Summit that founded NATO", "Meeting that ended the Korean War"] },
+    { "c": "Non-Aligned Movement", "a": "Nations that joined neither Cold War bloc", "d": ["Nations that joined the Warsaw Pact", "Nations that joined NATO"] },
+    { "c": "Suez Crisis (1956)", "a": "Invasion of Egypt after Nasser took the canal", "d": ["Arab oil embargo against the West", "Soviet invasion of Hungary"] },
+    { "c": "Apartheid", "a": "South Africa's system of legal racial segregation", "d": ["South Africa's policy of land reform", "Britain's rule over South Africa"] },
+    { "c": "Nelson Mandela elected president of South Africa", "a": "1994", "d": ["1964", "1976", "1990"] },
+    { "c": "Solidarity (Poland, 1980)", "a": "Polish trade union led by Lech Wałęsa", "d": ["East German secret police", "Czech reform movement of 1968"] },
+    { "c": "Mikhail Gorbachev", "a": "Soviet leader who launched glasnost and perestroika", "d": ["Soviet leader during the Cuban Missile Crisis", "Russian president who resisted the 1991 coup"] },
+    { "c": "Glasnost", "a": "Gorbachev's policy of openness", "d": ["Gorbachev's restructuring of the economy", "Stalin's purge of party rivals"] },
+    { "c": "Perestroika", "a": "Gorbachev's restructuring of the economy", "d": ["Gorbachev's policy of openness", "Lenin's return to private trade"] },
+    { "c": "Fall of the Berlin Wall", "a": "1989", "d": ["1961", "1985", "1991"] },
+    { "c": "Tiananmen Square (June 1989)", "a": "Chinese troops crushed democracy protests", "d": ["Chinese students won free elections", "Mao proclaimed the People's Republic"] },
+    { "c": "Dissolution of the Soviet Union", "a": "December 1991", "d": ["November 1989", "October 1990", "March 1985"] },
+    { "c": "Globalization", "a": "Growing worldwide links of trade, culture and technology", "d": ["Return to self-sufficient national economies", "Division of the world into rival blocs"] },
+    { "c": "September 11, 2001, attacks", "a": "Al-Qaeda terrorist attacks on the United States", "d": ["Soviet invasion of Afghanistan", "Iraqi invasion of Kuwait"] },
+    { "c": "Arab Spring (from 2010)", "a": "Protests against authoritarian rulers in Arab states", "d": ["Oil embargo by Arab producers", "Founding of the Arab League"] },
+    { "c": "Paris Agreement (2015)", "a": "Global pact to limit climate warming", "d": ["Treaty to cut nuclear arsenals", "Agreement that created the World Trade Organization"] }
+  ],
+  "read": {
+    "title": "A divided world and after",
+    "text": [
+      "World War II left two superpowers. The United States and its allies favored capitalism and elected governments; the Soviet Union installed communist regimes across Eastern Europe. Churchill warned of an iron curtain dividing the continent. The United States answered with containment: the Truman Doctrine, Marshall Plan aid and the NATO alliance. The Soviets formed the Warsaw Pact. Both sides built nuclear arsenals large enough to destroy each other, so they rarely fought directly. Instead the Cold War turned hot in Korea and Vietnam, and it came close to nuclear war over Cuba in 1962.",
+      "At the same time, empires weakened by the war could no longer hold their colonies. India and Pakistan won independence in 1947, Ghana in 1957, and dozens of African states by the mid-1960s, some peacefully and some, like Algeria, after long wars. Many new nations refused to join either bloc and formed the Non-Aligned Movement.",
+      "In the 1980s Mikhail Gorbachev tried to reform the Soviet system through openness and restructuring. When Eastern Europeans demanded freedom in 1989, he did not send tanks, and the Berlin Wall fell. The Soviet Union itself dissolved in 1991. The world that followed was more connected by trade and technology but faced terrorism, regional wars and climate change."
+    ],
+    "q": [
+      { "q": "Why did the superpowers rarely fight each other directly?", "o": ["Both had enough nuclear weapons to destroy each other", "They were close allies", "The UN banned war", "Neither had an army in Europe"], "k": 0 },
+      { "q": "What weakened European empires' hold on their colonies?", "o": ["World War II", "The Marshall Plan", "The fall of the Berlin Wall", "The Non-Aligned Movement"], "k": 0 },
+      { "q": "How did Gorbachev respond to Eastern European demands for freedom in 1989?", "o": ["He did not send tanks", "He invaded Poland", "He built the Berlin Wall", "He joined NATO"], "k": 0 }
+    ]
+  }
+}

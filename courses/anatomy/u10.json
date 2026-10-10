@@ -1,0 +1,55 @@
+{
+  "title": "The endocrine system",
+  "note": "Hormones are amines, peptides and proteins, or steroids. Lipid-soluble hormones (steroids and thyroid hormone) enter cells and bind intracellular receptors that change gene transcription; water-soluble hormones bind surface receptors and act through second messengers such as cAMP. Most hormone levels are held in range by negative feedback.",
+  "src": { "t": "OpenStax A&P 2e, 17.2 Hormones", "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones" },
+  "items": [
+    { "c": "Hormone", "a": "Chemical signal carried in blood to target cells", "d": ["Chemical signal crossing a synaptic cleft", "Signal acting only on the cell that made it"] },
+    { "c": "Steroid hormones are made from", "a": "Cholesterol", "d": ["Amino acid chains", "Tyrosine"] },
+    { "c": "Example of a steroid hormone", "a": "Testosterone", "d": ["Insulin", "Epinephrine"] },
+    { "c": "Example of an amine hormone", "a": "Epinephrine", "d": ["Cortisol", "Growth hormone"] },
+    { "c": "Where steroid hormone receptors are found", "a": "Inside the cell, in the cytosol or nucleus", "d": ["In the outer plasma membrane", "In the extracellular matrix"] },
+    { "c": "Enzyme that converts ATP to cAMP", "a": "Adenylyl cyclase", "d": ["Phosphodiesterase", "Phospholipase C"] },
+    { "c": "Receptor downregulation", "a": "Fewer receptors when a hormone stays high", "d": ["More receptors when a hormone stays high", "Faster hormone breakdown by the liver"] },
+    { "c": "Blood glucose triggering insulin release is a", "a": "Humoral stimulus", "d": ["Hormonal stimulus", "Neural stimulus"] },
+    { "c": "Hypophyseal portal system", "a": "Vessels carrying hypothalamic hormones to the anterior pituitary", "d": ["Axons carrying hormones to the posterior pituitary", "Veins draining the adrenal medulla"] },
+    { "c": "Where ADH and oxytocin are made", "a": "Hypothalamus", "d": ["Posterior pituitary", "Anterior pituitary"], "ex": "The posterior pituitary only stores and releases them." },
+    { "c": "Posterior pituitary", "a": "Stores and releases ADH and oxytocin", "d": ["Makes and releases GH and prolactin", "Makes and releases TSH and ACTH"] },
+    { "c": "Antidiuretic hormone (ADH)", "a": "Makes kidney tubules reabsorb more water", "d": ["Makes the kidneys excrete more water", "Makes the uterus contract"] },
+    { "c": "Oxytocin", "a": "Uterine contraction and milk ejection", "d": ["Milk production and water retention", "Water reabsorption in the kidney"] },
+    { "c": "Prolactin", "a": "Stimulates milk production", "d": ["Triggers milk ejection", "Stimulates uterine contraction"] },
+    { "c": "ACTH stimulates", "a": "The adrenal cortex", "d": ["The adrenal medulla", "The thyroid gland"] },
+    { "c": "TRH stimulates the release of", "a": "TSH", "d": ["ACTH", "FSH"] },
+    { "c": "Hypothalamic hormone that inhibits GH release", "a": "Somatostatin (GHIH)", "d": ["GHRH", "CRH"] },
+    { "c": "LH in males stimulates", "a": "Testosterone production", "d": ["Cortisol production", "Milk production"] },
+    { "c": "T3 compared with T4", "a": "Less is secreted, but it is more potent", "d": ["More is secreted, and it is less potent", "Equal amounts secreted, equal potency"], "ex": "Many tissues convert T4 to T3 by removing one iodine." },
+    { "c": "Element needed to make thyroid hormone", "a": "Iodine", "d": ["Iron", "Calcium"] },
+    { "c": "Main effect of thyroid hormone", "a": "Raises basal metabolic rate and heat output", "d": ["Lowers blood calcium", "Raises sodium retention by the kidney"] },
+    { "c": "Calcitonin", "a": "Lowers blood calcium; made by thyroid C cells", "d": ["Raises blood calcium; made by the parathyroids", "Raises metabolic rate; made by follicle cells"] },
+    { "c": "Parathyroid hormone (PTH)", "a": "Raises blood calcium", "d": ["Lowers blood calcium", "Lowers blood glucose"], "ex": "It stimulates osteoclasts, kidney calcium reabsorption, and calcitriol production." },
+    { "c": "Adrenal cortex zones, outer to inner", "a": "Glomerulosa, fasciculata, reticularis", "d": ["Fasciculata, glomerulosa, reticularis", "Reticularis, fasciculata, glomerulosa"] },
+    { "c": "Zona glomerulosa secretes", "a": "Aldosterone", "d": ["Cortisol", "Androgens"] },
+    { "c": "Aldosterone", "a": "Increases Na+ retention and K+ excretion", "d": ["Increases K+ retention and Na+ excretion", "Increases water loss in urine"] },
+    { "c": "Cortisol", "a": "Raises blood glucose and suppresses inflammation", "d": ["Lowers blood glucose and boosts inflammation", "Raises blood calcium and builds bone"] },
+    { "c": "Adrenal medulla secretes", "a": "Epinephrine and norepinephrine", "d": ["Cortisol and aldosterone", "Androgens and estrogens"] },
+    { "c": "Kidney enzyme released when blood pressure falls", "a": "Renin", "d": ["Angiotensin-converting enzyme", "Carbonic anhydrase"], "ex": "Renin starts the cascade that ends with angiotensin II and aldosterone." },
+    { "c": "Pancreatic beta cells secrete", "a": "Insulin", "d": ["Glucagon", "Somatostatin"] },
+    { "c": "Pancreatic alpha cells secrete", "a": "Glucagon", "d": ["Insulin", "Pancreatic polypeptide"] },
+    { "c": "Insulin", "a": "Lowers blood glucose by promoting uptake and storage", "d": ["Raises blood glucose by glycogen breakdown", "Raises blood glucose by gluconeogenesis"] },
+    { "c": "Glucagon", "a": "Raises blood glucose via glycogenolysis and gluconeogenesis", "d": ["Lowers blood glucose via glycogen storage", "Raises blood calcium via osteoclasts"] },
+    { "c": "Hormone of the pineal gland", "a": "Melatonin", "d": ["Thymosin", "Oxytocin"] }
+  ],
+  "read": {
+    "title": "A thermostat made of hormones",
+    "text": [
+      "Most hormones are kept in range the way a thermostat keeps a room warm: by negative feedback. The thyroid shows the pattern clearly. When thyroid hormone in the blood falls, the hypothalamus releases thyrotropin-releasing hormone (TRH). TRH travels a very short route, through the hypophyseal portal veins, to the anterior pituitary, which answers by secreting thyroid-stimulating hormone (TSH).",
+      "TSH reaches the thyroid through the general circulation. There, follicle cells take up iodide and attach it to thyroglobulin stored in the colloid, and the gland releases mostly T4 with a smaller amount of T3. Many tissues convert T4 to the more potent T3, which enters cells, binds receptors in the nucleus, and raises the basal metabolic rate.",
+      "As thyroid hormone levels climb, they inhibit both the hypothalamus and the anterior pituitary, so TRH and TSH fall and the thyroid slows down. The final product switches off the signals that called for it.",
+      "The same three-tier design, hypothalamus to pituitary to target gland, controls cortisol through CRH and ACTH and the sex steroids through GnRH, FSH, and LH. Some hormones skip the tiers entirely. Insulin and glucagon respond directly to the blood glucose they regulate, and parathyroid hormone responds directly to blood calcium."
+    ],
+    "q": [
+      { "q": "What carries TRH to the anterior pituitary?", "o": ["The general circulation", "The hypophyseal portal veins", "A nerve tract from the cortex"], "k": 1 },
+      { "q": "What happens when thyroid hormone levels rise?", "o": ["TRH and TSH secretion fall", "TSH secretion rises", "The thyroid stops storing colloid"], "k": 0 },
+      { "q": "Which hormone responds directly to blood glucose without pituitary control?", "o": ["Cortisol", "TSH", "Insulin"], "k": 2 }
+    ]
+  }
+}

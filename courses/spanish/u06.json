@@ -1,0 +1,353 @@
+{
+  "title": "Days, months and telling time",
+  "note": "Days and months are written in lowercase. El lunes means on Monday; los lunes means on Mondays, with no word for on. Time uses ser with la or las: Es la una (1:00), Son las tres (3:00). Add y for minutes past and menos for minutes before the hour; cuarto is a quarter and media is half.",
+  "src": {
+    "t": "Spanish 1A: Beginning Spanish (LibreTexts)",
+    "u": "https://human.libretexts.org/Courses/Chabot_College/Spanish_1A%3A_Beginning_Spanish_(2026)"
+  },
+  "items": [
+    {
+      "c": "lunes",
+      "a": "Monday",
+      "d": [
+        "Tuesday",
+        "Sunday"
+      ],
+      "ex": "El lunes tengo clase.",
+      "exT": "On Monday I have class."
+    },
+    {
+      "c": "martes",
+      "a": "Tuesday",
+      "d": [
+        "Thursday",
+        "Monday"
+      ]
+    },
+    {
+      "c": "miércoles",
+      "a": "Wednesday",
+      "d": [
+        "Tuesday",
+        "Thursday"
+      ]
+    },
+    {
+      "c": "jueves",
+      "a": "Thursday",
+      "d": [
+        "Tuesday",
+        "Friday"
+      ]
+    },
+    {
+      "c": "viernes",
+      "a": "Friday",
+      "d": [
+        "Thursday",
+        "Saturday"
+      ]
+    },
+    {
+      "c": "sábado",
+      "a": "Saturday",
+      "d": [
+        "Sunday",
+        "Friday"
+      ],
+      "ex": "Los sábados voy al parque.",
+      "exT": "On Saturdays I go to the park."
+    },
+    {
+      "c": "domingo",
+      "a": "Sunday",
+      "d": [
+        "Saturday",
+        "Monday"
+      ],
+      "ex": "El domingo descanso en casa.",
+      "exT": "On Sunday I rest at home."
+    },
+    {
+      "c": "enero",
+      "a": "January",
+      "d": [
+        "June",
+        "February"
+      ],
+      "ex": "Mi cumpleaños es en enero.",
+      "exT": "My birthday is in January."
+    },
+    {
+      "c": "febrero",
+      "a": "February",
+      "d": [
+        "January",
+        "March"
+      ]
+    },
+    {
+      "c": "marzo",
+      "a": "March",
+      "d": [
+        "May",
+        "April"
+      ]
+    },
+    {
+      "c": "abril",
+      "a": "April",
+      "d": [
+        "August",
+        "March"
+      ]
+    },
+    {
+      "c": "mayo",
+      "a": "May",
+      "d": [
+        "March",
+        "June"
+      ]
+    },
+    {
+      "c": "junio",
+      "a": "June",
+      "d": [
+        "July",
+        "January"
+      ]
+    },
+    {
+      "c": "julio",
+      "a": "July",
+      "d": [
+        "June",
+        "April"
+      ]
+    },
+    {
+      "c": "agosto",
+      "a": "August",
+      "d": [
+        "April",
+        "October"
+      ]
+    },
+    {
+      "c": "septiembre",
+      "a": "September",
+      "d": [
+        "November",
+        "December"
+      ]
+    },
+    {
+      "c": "octubre",
+      "a": "October",
+      "d": [
+        "August",
+        "November"
+      ]
+    },
+    {
+      "c": "noviembre",
+      "a": "November",
+      "d": [
+        "September",
+        "December"
+      ]
+    },
+    {
+      "c": "diciembre",
+      "a": "December",
+      "d": [
+        "November",
+        "September"
+      ]
+    },
+    {
+      "c": "hoy",
+      "a": "today",
+      "d": [
+        "tomorrow",
+        "yesterday"
+      ],
+      "ex": "Hoy es martes.",
+      "exT": "Today is Tuesday."
+    },
+    {
+      "c": "mañana",
+      "a": "tomorrow",
+      "d": [
+        "today",
+        "yesterday"
+      ],
+      "ex": "Mañana es viernes.",
+      "exT": "Tomorrow is Friday."
+    },
+    {
+      "c": "ayer",
+      "a": "yesterday",
+      "d": [
+        "tomorrow",
+        "today"
+      ],
+      "ex": "Ayer fue lunes.",
+      "exT": "Yesterday was Monday."
+    },
+    {
+      "c": "la mañana",
+      "a": "the morning",
+      "d": [
+        "the evening",
+        "the afternoon"
+      ]
+    },
+    {
+      "c": "la semana",
+      "a": "the week",
+      "d": [
+        "the month",
+        "the weekend"
+      ],
+      "ex": "Trabajo cinco días a la semana.",
+      "exT": "I work five days a week."
+    },
+    {
+      "c": "el mes",
+      "a": "the month",
+      "d": [
+        "the week",
+        "the year"
+      ]
+    },
+    {
+      "c": "el año",
+      "a": "the year",
+      "d": [
+        "the month",
+        "the day"
+      ]
+    },
+    {
+      "c": "el fin de semana",
+      "a": "the weekend",
+      "d": [
+        "the week",
+        "the holiday"
+      ],
+      "ex": "¿Qué haces el fin de semana?",
+      "exT": "What are you doing on the weekend?"
+    },
+    {
+      "c": "¿Qué hora es?",
+      "a": "What time is it?",
+      "d": [
+        "What day is it?",
+        "How long is it?"
+      ],
+      "ex": "—¿Qué hora es? —Son las tres.",
+      "exT": "What time is it? It's three."
+    },
+    {
+      "c": "Es la una.",
+      "a": "It's one o'clock.",
+      "d": [
+        "It's eleven o'clock.",
+        "It's half past one."
+      ]
+    },
+    {
+      "c": "Son las dos y media.",
+      "a": "It's 2:30.",
+      "d": [
+        "It's 2:15.",
+        "It's 1:30."
+      ],
+      "ex": "Son las dos y media de la tarde.",
+      "exT": "It's 2:30 in the afternoon."
+    },
+    {
+      "c": "Son las cinco menos cuarto.",
+      "a": "It's 4:45.",
+      "d": [
+        "It's 5:15.",
+        "It's 5:45."
+      ]
+    },
+    {
+      "c": "¿A qué hora?",
+      "a": "At what time?",
+      "d": [
+        "What day?",
+        "How often?"
+      ],
+      "ex": "¿A qué hora es la clase?",
+      "exT": "What time is the class?"
+    },
+    {
+      "c": "___ las tres. (It's 3:00.)",
+      "a": "Son",
+      "d": [
+        "Es",
+        "Está"
+      ]
+    },
+    {
+      "c": "Es ___ una y cuarto.",
+      "a": "la",
+      "d": [
+        "las",
+        "el"
+      ]
+    },
+    {
+      "c": "Voy al cine ___ sábado.",
+      "a": "el",
+      "d": [
+        "en",
+        "a"
+      ]
+    }
+  ],
+  "read": {
+    "title": "La semana de Diego",
+    "text": [
+      "Diego es estudiante. Los lunes, miércoles y viernes tiene clase a las nueve de la mañana. Los martes y jueves trabaja en un café. Empieza a trabajar a las dos de la tarde.",
+      "El sábado es el día favorito de Diego. Por la mañana desayuna con su familia y por la tarde va al parque con sus amigos. El domingo descansa en casa.",
+      "Hoy es jueves, 15 de octubre. Son las dos y cuarto y Diego llega tarde al café."
+    ],
+    "q": [
+      {
+        "q": "On which days does Diego work in the café?",
+        "o": [
+          "Monday and Wednesday",
+          "Tuesday and Thursday",
+          "Saturday and Sunday"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What is Diego's favorite day?",
+        "o": [
+          "Friday",
+          "Sunday",
+          "Saturday",
+          "Monday"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What time is it at the end of the text?",
+        "o": [
+          "1:45",
+          "2:15",
+          "2:45",
+          "12:15"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

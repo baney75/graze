@@ -1,0 +1,55 @@
+{
+  "title": "Everyday verbs",
+  "note": "Basic order is subject + verb + object: 我喝咖啡. Where you do something goes before the verb with 在: 我在家看书. Verbs do not change for person or tense. Ask yes-or-no by doubling the verb with 不 between: 你去不去？",
+  "src": { "t": "Chinese Grammar Wiki: basic sentence order", "u": "https://resources.allsetlearning.com/chinese/grammar/ASGETNCO" },
+  "items": [
+    { "c": "看", "r": "kàn", "a": "to look at, watch, read", "d": ["to listen to", "to write"], "ex": "我喜欢看电影。", "exT": "I like watching movies." },
+    { "c": "听", "r": "tīng", "a": "to listen (to)", "d": ["to speak", "to look at"] },
+    { "c": "说", "r": "shuō", "a": "to speak, say", "d": ["to listen", "to ask"], "ex": "你会说汉语吗？", "exT": "Can you speak Chinese?" },
+    { "c": "读", "r": "dú", "a": "to read (aloud); to study", "d": ["to write", "to sing"] },
+    { "c": "写", "r": "xiě", "a": "to write", "d": ["to read", "to draw"] },
+    { "c": "做", "r": "zuò", "a": "to do; to make", "d": ["to sit", "to buy"], "ex": "你在做什么？", "exT": "What are you doing?" },
+    { "c": "去", "r": "qù", "a": "to go", "d": ["to come", "to return"] },
+    { "c": "来", "r": "lái", "a": "to come", "d": ["to go", "to leave"], "ex": "你来我家吧。", "exT": "Come to my place." },
+    { "c": "回", "r": "huí", "a": "to return, go back", "d": ["to leave", "to arrive"] },
+    { "c": "买", "r": "mǎi", "a": "to buy", "d": ["to sell", "to borrow"] },
+    { "c": "卖", "r": "mài", "a": "to sell", "d": ["to buy", "to give"] },
+    { "c": "住", "r": "zhù", "a": "to live, stay (somewhere)", "d": ["to work", "to sit"], "ex": "我住在北京。", "exT": "I live in Beijing." },
+    { "c": "学习", "r": "xuéxí", "a": "to study, learn", "d": ["to teach", "to work"] },
+    { "c": "工作", "r": "gōngzuò", "a": "to work; job", "d": ["to rest; holiday", "to study; school"] },
+    { "c": "睡觉", "r": "shuìjiào", "a": "to sleep, go to bed", "d": ["to get up", "to rest"] },
+    { "c": "起床", "r": "qǐchuáng", "a": "to get up (out of bed)", "d": ["to go to bed", "to stand up"] },
+    { "c": "做饭", "r": "zuòfàn", "a": "to cook (a meal)", "d": ["to eat a meal", "to order food"] },
+    { "c": "喜欢", "r": "xǐhuan", "a": "to like", "d": ["to want", "to know"], "ex": "我喜欢喝茶。", "exT": "I like drinking tea." },
+    { "c": "知道", "r": "zhīdào", "a": "to know (a fact)", "d": ["to know (a person)", "to think"] },
+    { "c": "认识", "r": "rènshi", "a": "to know (a person), recognize", "d": ["to know (a fact)", "to introduce"] },
+    { "c": "等", "r": "děng", "a": "to wait (for)", "d": ["to look for", "to follow"], "ex": "请等一下。", "exT": "Please wait a moment." },
+    { "c": "找", "r": "zhǎo", "a": "to look for", "d": ["to wait for", "to find out"] },
+    { "c": "给", "r": "gěi", "a": "to give", "d": ["to take", "to sell"] },
+    { "c": "问", "r": "wèn", "a": "to ask", "d": ["to answer", "to tell"] },
+    { "c": "告诉", "r": "gàosu", "a": "to tell", "d": ["to ask", "to listen"], "ex": "请告诉我你的名字。", "exT": "Please tell me your name." },
+    { "c": "一起", "r": "yīqǐ", "a": "together", "d": ["alone", "again"] },
+    { "c": "电影", "r": "diànyǐng", "a": "movie", "d": ["television", "music"] },
+    { "c": "音乐", "r": "yīnyuè", "a": "music", "d": ["movie", "song"] },
+    { "c": "图书馆", "r": "túshūguǎn", "a": "library", "d": ["bookstore", "classroom"] },
+    { "c": "打电话", "r": "dǎ diànhuà", "a": "to make a phone call", "d": ["to send a text", "to watch TV"] },
+    { "c": "你去不去？", "r": "Nǐ qù bù qù?", "a": "Are you going (or not)?", "d": ["Why aren't you going?", "Where are you going?"] },
+    { "c": "我___图书馆学习。", "r": "Wǒ ___ túshūguǎn xuéxí.", "a": "在", "d": ["是", "有"], "ex": "我在图书馆学习。", "exT": "I study at the library." },
+    { "c": "他在家___电视。", "r": "Tā zài jiā ___ diànshì.", "a": "看", "d": ["听", "读"] },
+    { "c": "你去___去？", "r": "Nǐ qù ___ qù?", "a": "不", "d": ["也", "都"] },
+    { "c": "我___他是老师。(know)", "r": "Wǒ ___ tā shì lǎoshī.", "a": "知道", "d": ["认识", "会"] }
+  ],
+  "read": {
+    "title": "我的一天",
+    "text": [
+      "我叫张丽，我住在北京。我是学生，我在学校学习汉语。",
+      "我每天早上七点起床，八点去学校。中午我和同学一起在学校吃饭。下午我在图书馆看书。晚上我回家，和妈妈一起做饭。",
+      "我喜欢听音乐，也喜欢看电影。我晚上十一点睡觉。"
+    ],
+    "q": [
+      { "q": "Where does Zhang Li read in the afternoon?", "o": ["At home", "In the library", "At a restaurant"], "k": 1 },
+      { "q": "What time does she get up?", "o": ["Seven o'clock", "Eight o'clock", "Eleven o'clock"], "k": 0 },
+      { "q": "Who does she cook dinner with?", "o": ["Her classmates", "Her teacher", "Her mom"], "k": 2 }
+    ]
+  }
+}

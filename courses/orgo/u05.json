@@ -1,0 +1,347 @@
+{
+  "title": "Alkanes: naming and conformations",
+  "note": "Name an alkane from its longest chain, number from the end nearer the first branch, and list substituents alphabetically. Staggered conformations are lower in energy than eclipsed ones. In a cyclohexane chair, large groups prefer equatorial positions to avoid 1,3-diaxial strain.",
+  "src": {
+    "t": "LibreTexts, Organic Chemistry (Morsch et al.), Ch. 3 Alkanes and Their Stereochemistry",
+    "u": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/03%3A_Organic_Compounds-_Alkanes_and_Their_Stereochemistry"
+  },
+  "items": [
+    {
+      "c": "General formula of an acyclic alkane",
+      "a": "CₙH₂ₙ₊₂",
+      "d": [
+        "CₙH₂ₙ",
+        "CₙH₂ₙ₋₂"
+      ]
+    },
+    {
+      "c": "General formula of a cycloalkane (one ring)",
+      "a": "CₙH₂ₙ",
+      "d": [
+        "CₙH₂ₙ₊₂",
+        "CₙH₂ₙ₋₂"
+      ]
+    },
+    {
+      "c": "Parent-chain prefix for 4 carbons",
+      "a": "but-",
+      "d": [
+        "prop-",
+        "pent-"
+      ]
+    },
+    {
+      "c": "Parent-chain prefix for 5 carbons",
+      "a": "pent-",
+      "d": [
+        "hex-",
+        "but-"
+      ]
+    },
+    {
+      "c": "Parent-chain prefix for 7 carbons",
+      "a": "hept-",
+      "d": [
+        "oct-",
+        "hex-"
+      ]
+    },
+    {
+      "c": "Straight-chain alkane with 10 carbons",
+      "a": "decane",
+      "d": [
+        "nonane",
+        "octane"
+      ]
+    },
+    {
+      "c": "–CH(CH₃)₂ substituent",
+      "a": "isopropyl",
+      "d": [
+        "propyl",
+        "tert-butyl"
+      ]
+    },
+    {
+      "c": "–C(CH₃)₃ substituent",
+      "a": "tert-butyl",
+      "d": [
+        "isobutyl",
+        "sec-butyl"
+      ]
+    },
+    {
+      "c": "–CH₂CH(CH₃)₂ substituent",
+      "a": "isobutyl",
+      "d": [
+        "tert-butyl",
+        "isopropyl"
+      ]
+    },
+    {
+      "c": "Carbon bonded to three other carbons",
+      "a": "tertiary (3°) carbon",
+      "d": [
+        "secondary (2°) carbon",
+        "quaternary (4°) carbon"
+      ]
+    },
+    {
+      "c": "Carbon bonded to four other carbons",
+      "a": "quaternary (4°) carbon",
+      "d": [
+        "tertiary (3°) carbon",
+        "primary (1°) carbon"
+      ]
+    },
+    {
+      "c": "First step in naming a branched alkane",
+      "a": "find the longest continuous carbon chain",
+      "d": [
+        "list substituents alphabetically",
+        "count all carbons in the molecule"
+      ]
+    },
+    {
+      "c": "How to number the parent chain",
+      "a": "from the end nearer the first branch",
+      "d": [
+        "from the end farther from any branch",
+        "starting at the largest substituent"
+      ]
+    },
+    {
+      "c": "Order of substituent names in an IUPAC name",
+      "a": "alphabetical, ignoring di-, tri-",
+      "d": [
+        "by locant number",
+        "largest group first"
+      ]
+    },
+    {
+      "c": "CH₃CH(CH₃)CH₂CH₃",
+      "a": "2-methylbutane",
+      "d": [
+        "3-methylbutane",
+        "2-ethylpropane"
+      ]
+    },
+    {
+      "c": "(CH₃)₂CHCH(CH₃)₂",
+      "a": "2,3-dimethylbutane",
+      "d": [
+        "2,2-dimethylbutane",
+        "1,1,2-trimethylpropane"
+      ]
+    },
+    {
+      "c": "IUPAC suffix -ene",
+      "a": "alkene (C=C)",
+      "d": [
+        "alkyne (C≡C)",
+        "alkane (C–C only)"
+      ]
+    },
+    {
+      "c": "IUPAC suffix -yne",
+      "a": "alkyne (C≡C)",
+      "d": [
+        "alkene (C=C)",
+        "nitrile (C≡N)"
+      ]
+    },
+    {
+      "c": "IUPAC suffix -ol",
+      "a": "alcohol",
+      "d": [
+        "aldehyde",
+        "ether"
+      ]
+    },
+    {
+      "c": "IUPAC suffix -al",
+      "a": "aldehyde",
+      "d": [
+        "alcohol",
+        "ketone"
+      ]
+    },
+    {
+      "c": "IUPAC suffix -one",
+      "a": "ketone",
+      "d": [
+        "aldehyde",
+        "ester"
+      ]
+    },
+    {
+      "c": "IUPAC suffix -oic acid",
+      "a": "carboxylic acid",
+      "d": [
+        "ester",
+        "alcohol"
+      ]
+    },
+    {
+      "c": "IUPAC suffix -oate (as in ethyl ethanoate)",
+      "a": "ester",
+      "d": [
+        "carboxylic acid",
+        "ether"
+      ]
+    },
+    {
+      "c": "Constitutional isomers",
+      "a": "same formula, different connectivity",
+      "d": [
+        "same connectivity, different 3D arrangement",
+        "different molecular formulas"
+      ]
+    },
+    {
+      "c": "Number of constitutional isomers of C₅H₁₂",
+      "a": "three",
+      "d": [
+        "two",
+        "five"
+      ],
+      "ex": "Pentane, 2-methylbutane and 2,2-dimethylpropane."
+    },
+    {
+      "c": "Higher boiling: pentane or 2,2-dimethylpropane?",
+      "a": "pentane; more surface contact",
+      "d": [
+        "2,2-dimethylpropane; it is more compact",
+        "the same; equal molar masses"
+      ]
+    },
+    {
+      "c": "A Newman projection looks",
+      "a": "straight down one C–C bond",
+      "d": [
+        "at the molecule from above a ring",
+        "along a C–H bond"
+      ]
+    },
+    {
+      "c": "Lowest-energy conformation of ethane",
+      "a": "staggered",
+      "d": [
+        "eclipsed",
+        "gauche"
+      ]
+    },
+    {
+      "c": "Energy cost of eclipsed vs staggered ethane",
+      "a": "about 12 kJ/mol",
+      "d": [
+        "about 1 kJ/mol",
+        "about 60 kJ/mol"
+      ]
+    },
+    {
+      "c": "Most stable conformation of butane (C2–C3)",
+      "a": "anti; methyls 180° apart",
+      "d": [
+        "gauche; methyls 60° apart",
+        "eclipsed; methyls 0° apart"
+      ]
+    },
+    {
+      "c": "Torsional strain comes from",
+      "a": "eclipsing bonds on neighboring carbons",
+      "d": [
+        "bond angles away from 109.5°",
+        "attraction between methyl groups"
+      ]
+    },
+    {
+      "c": "Angle strain comes from",
+      "a": "bond angles forced away from ideal",
+      "d": [
+        "eclipsing bonds on neighboring carbons",
+        "free rotation around C–C bonds"
+      ]
+    },
+    {
+      "c": "Most strained small cycloalkane",
+      "a": "cyclopropane",
+      "d": [
+        "cyclohexane",
+        "cyclopentane"
+      ]
+    },
+    {
+      "c": "Most stable conformation of cyclohexane",
+      "a": "chair",
+      "d": [
+        "boat",
+        "flat hexagon"
+      ]
+    },
+    {
+      "c": "A bulky group on a cyclohexane chair prefers",
+      "a": "the equatorial position",
+      "d": [
+        "the axial position",
+        "no preference"
+      ]
+    },
+    {
+      "c": "Strain on an axial substituent in cyclohexane",
+      "a": "1,3-diaxial interactions",
+      "d": [
+        "ring angle strain",
+        "eclipsing of ring bonds"
+      ]
+    },
+    {
+      "c": "A chair flip turns axial groups into",
+      "a": "equatorial groups",
+      "d": [
+        "axial groups on the other face",
+        "eclipsed groups"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Chains that twist",
+    "text": [
+      "Alkanes contain only C–C and C–H single bonds, so they are the simplest organic compounds and the base for naming everything else. A name starts from the longest continuous chain (meth-, eth-, prop-, but-, pent-, and so on). Number the chain from the end that reaches a branch first, give each branch a locant, and list the branches in alphabetical order. CH₃CH(CH₃)CH₂CH₃ is therefore 2-methylbutane, not 3-methylbutane.",
+      "Single bonds rotate, and the different shapes produced are called conformations. Sighting down a C–C bond in a Newman projection shows that ethane is most stable when its hydrogens are staggered. The eclipsed form costs about 12 kJ/mol of torsional strain, small enough that rotation is rapid at room temperature. In butane, the anti conformation, with the two methyl groups opposite each other, is lowest in energy.",
+      "Rings add angle strain. Cyclopropane's 60° angles make it highly strained, but cyclohexane avoids nearly all strain by puckering into a chair. Each carbon of the chair has one axial and one equatorial position. Axial groups bump into the other axial hydrogens on the same face, so a large substituent spends most of its time equatorial."
+    ],
+    "q": [
+      {
+        "q": "Why is the name 3-methylbutane wrong?",
+        "o": [
+          "The chain was numbered from the wrong end",
+          "The parent chain is too short",
+          "Substituents are out of alphabetical order",
+          "Methyl is not a valid substituent"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Which butane conformation is lowest in energy?",
+        "o": [
+          "Gauche",
+          "Anti",
+          "Eclipsed",
+          "Boat"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why do large groups prefer equatorial positions on a chair?",
+        "o": [
+          "Equatorial bonds are shorter",
+          "Axial positions are planar",
+          "Axial groups suffer 1,3-diaxial interactions",
+          "Equatorial groups are eclipsed"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

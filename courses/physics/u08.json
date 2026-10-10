@@ -1,0 +1,275 @@
+{
+  "title": "Fluids",
+  "note": "Pressure is force per area, and in a fluid at rest it grows with depth as ρgh. A submerged object feels a buoyant force equal to the weight of the fluid it displaces. In moving fluids, continuity (Av constant) and Bernoulli's equation link speed and pressure: where flow is faster, pressure is lower.",
+  "src": {
+    "t": "College Physics 2e, Ch. 11 Fluid Statics",
+    "u": "https://openstax.org/books/college-physics-2e/pages/11-introduction-to-fluid-statics"
+  },
+  "items": [
+    {
+      "c": "Density",
+      "a": "ρ = m/V",
+      "d": [
+        "ρ = V/m",
+        "ρ = mV",
+        "ρ = mg/V"
+      ]
+    },
+    {
+      "c": "Density of fresh water",
+      "a": "1000 kg/m³",
+      "d": [
+        "1.0 kg/m³",
+        "100 kg/m³",
+        "13,600 kg/m³"
+      ]
+    },
+    {
+      "c": "Specific gravity",
+      "a": "an object's density divided by water's",
+      "d": [
+        "an object's weight divided by its volume",
+        "an object's mass divided by water's mass"
+      ]
+    },
+    {
+      "c": "Pressure",
+      "a": "force per unit area, P = F/A",
+      "d": [
+        "force times area, P = FA",
+        "force per unit volume, P = F/V"
+      ]
+    },
+    {
+      "c": "Atmospheric pressure at sea level",
+      "a": "about 1.01 × 10⁵ Pa",
+      "d": [
+        "about 1.01 × 10³ Pa",
+        "about 1.01 × 10⁷ Pa",
+        "about 9.8 Pa"
+      ]
+    },
+    {
+      "c": "Pressure at depth h in a liquid",
+      "a": "P = P₀ + ρgh",
+      "d": [
+        "P = P₀ − ρgh",
+        "P = P₀ + ρh/g",
+        "P = P₀ + ½ρh²"
+      ]
+    },
+    {
+      "c": "Extra pressure per 10 m of water depth",
+      "a": "about 1 atm",
+      "d": [
+        "about 0.1 atm",
+        "about 10 atm",
+        "about 100 atm"
+      ]
+    },
+    {
+      "c": "Does bottom pressure depend on container shape?",
+      "a": "no, only on depth, density, and surface pressure",
+      "d": [
+        "yes, wider containers give more pressure",
+        "yes, narrow containers give more pressure"
+      ]
+    },
+    {
+      "c": "Pressure direction at a point in a still fluid",
+      "a": "equal in all directions",
+      "d": [
+        "only downward",
+        "only upward",
+        "only sideways"
+      ]
+    },
+    {
+      "c": "Gauge pressure",
+      "a": "pressure above atmospheric pressure",
+      "d": [
+        "pressure measured in a vacuum",
+        "total pressure including the atmosphere"
+      ]
+    },
+    {
+      "c": "Mercury barometer column at 1 atm",
+      "a": "760 mm",
+      "d": [
+        "76 mm",
+        "10.3 m",
+        "1013 mm"
+      ]
+    },
+    {
+      "c": "Pascal's principle",
+      "a": "pressure on an enclosed fluid spreads undiminished",
+      "d": [
+        "pressure in a fluid is lowest where it moves fastest",
+        "a fluid's pressure falls with depth"
+      ]
+    },
+    {
+      "c": "Hydraulic lift with piston area ratio 1:50",
+      "a": "output force is 50 times the input force",
+      "d": [
+        "output force equals the input force",
+        "output force is 1/50 of the input force"
+      ]
+    },
+    {
+      "c": "Archimedes' principle",
+      "a": "buoyant force equals weight of the displaced fluid",
+      "d": [
+        "buoyant force equals the object's weight",
+        "buoyant force equals the fluid's total weight"
+      ]
+    },
+    {
+      "c": "An object floats when its average density is",
+      "a": "less than the fluid's density",
+      "d": [
+        "greater than the fluid's density",
+        "equal to the density of water"
+      ]
+    },
+    {
+      "c": "Fraction of a floating object below the surface",
+      "a": "ρ_object/ρ_fluid",
+      "d": [
+        "ρ_fluid/ρ_object",
+        "1 − ρ_object/ρ_fluid"
+      ]
+    },
+    {
+      "c": "Fraction of floating ice under fresh water",
+      "a": "about nine-tenths",
+      "d": [
+        "about one-tenth",
+        "about one-half"
+      ]
+    },
+    {
+      "c": "Buoyant force on a sunk rock as it goes deeper",
+      "a": "stays the same in an incompressible liquid",
+      "d": [
+        "increases with depth",
+        "decreases with depth"
+      ]
+    },
+    {
+      "c": "Volume flow rate",
+      "a": "Q = Av",
+      "d": [
+        "Q = A/v",
+        "Q = ρv",
+        "Q = Av²"
+      ]
+    },
+    {
+      "c": "Continuity equation for incompressible flow",
+      "a": "A₁v₁ = A₂v₂",
+      "d": [
+        "A₁/v₁ = A₂/v₂",
+        "A₁v₁² = A₂v₂²",
+        "A₁ + v₁ = A₂ + v₂"
+      ]
+    },
+    {
+      "c": "Partly covering a hose's opening makes water",
+      "a": "come out faster",
+      "d": [
+        "come out slower",
+        "come out at the same speed"
+      ]
+    },
+    {
+      "c": "Bernoulli's equation",
+      "a": "P + ½ρv² + ρgh = constant",
+      "d": [
+        "P − ½ρv² + ρgh = constant",
+        "P + ρv + ρgh = constant",
+        "P·½ρv²·ρgh = constant"
+      ]
+    },
+    {
+      "c": "By Bernoulli, faster-moving fluid has",
+      "a": "lower pressure",
+      "d": [
+        "higher pressure",
+        "the same pressure"
+      ]
+    },
+    {
+      "c": "Viscosity",
+      "a": "a fluid's internal resistance to flow",
+      "d": [
+        "a fluid's density",
+        "the speed of a fluid's flow",
+        "a fluid's surface tension"
+      ]
+    },
+    {
+      "c": "Laminar flow",
+      "a": "smooth flow in layers that do not mix",
+      "d": [
+        "chaotic flow with eddies and swirls",
+        "flow that changes direction randomly"
+      ]
+    },
+    {
+      "c": "Poiseuille flow rate vs tube radius",
+      "a": "proportional to r⁴",
+      "d": [
+        "proportional to r",
+        "proportional to r²",
+        "proportional to 1/r"
+      ]
+    },
+    {
+      "c": "Surface tension",
+      "a": "tendency of a liquid surface to contract",
+      "d": [
+        "pressure at a liquid's bottom",
+        "resistance of a liquid to compression"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Pressure, buoyancy, and flow",
+    "text": [
+      "A fluid pushes on every surface it touches. Pressure is that push per unit area, and at any point in a still fluid it acts equally in all directions. The deeper you go, the more fluid sits above you, so pressure increases by ρgh. In water that adds about one atmosphere every ten meters. The shape of the container does not matter; only depth, density, and the pressure at the surface do.",
+      "Because pressure grows with depth, the bottom of a submerged object is pushed up harder than its top is pushed down. The difference is the buoyant force, and Archimedes found its size: it equals the weight of the fluid the object displaces. A steel ship floats because its hull encloses so much air that its average density is less than water's.",
+      "Moving fluids obey two more rules. Continuity says an incompressible fluid must speed up where a pipe narrows, since the same volume passes each point per second. Bernoulli's equation is energy conservation for flowing fluid: where the speed rises, the pressure falls. Faster air over the curved top of a wing, at lower pressure than the air below, is part of how wings produce lift."
+    ],
+    "q": [
+      {
+        "q": "What causes the buoyant force?",
+        "o": [
+          "Greater pressure on the bottom than the top",
+          "Air trapped inside every object",
+          "The object's own weight"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why can a steel ship float?",
+        "o": [
+          "Its average density is less than water's",
+          "Steel is less dense than water",
+          "Water pressure is zero at the surface"
+        ],
+        "k": 0
+      },
+      {
+        "q": "According to Bernoulli's equation, what happens where a flowing fluid speeds up?",
+        "o": [
+          "Its pressure falls",
+          "Its pressure rises",
+          "Its density doubles"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

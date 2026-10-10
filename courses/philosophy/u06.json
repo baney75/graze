@@ -1,0 +1,49 @@
+{
+  "title": "Augustine, Boethius, and early Christian thought",
+  "note": "Early Christian thinkers used Greek philosophy, especially Platonism, to understand their faith. Augustine argued that evil is a privation of good, that God created time with the world, and that grace heals the will. Boethius, writing in prison, argued that true happiness is God and that God's eternal knowledge does not destroy free choice.",
+  "src": { "t": "Stanford Encyclopedia of Philosophy, Saint Augustine", "u": "https://plato.stanford.edu/entries/augustine/" },
+  "items": [
+    { "c": "Augustine's birthplace", "a": "Thagaste, in Roman North Africa", "d": ["Milan, in northern Italy", "Athens, in Greece", "Alexandria, in Egypt"] },
+    { "c": "City where Augustine served as bishop", "a": "Hippo Regius", "d": ["Rome", "Carthage", "Canterbury"] },
+    { "c": "Religion Augustine followed before conversion", "a": "Manichaeism", "d": ["Stoicism", "Pelagianism", "Epicureanism"] },
+    { "c": "Helped Augustine conceive of God as immaterial", "a": "Neoplatonism", "d": ["Epicureanism", "Skepticism", "Cynicism"] },
+    { "c": "'Our heart is restless until it rests in you'", "a": "Augustine, Confessions", "d": ["Boethius, Consolation", "Anselm, Proslogion"] },
+    { "c": "'Take up and read' (tolle, lege)", "a": "words Augustine heard before his conversion", "d": ["the motto of Plato's Academy", "Boethius's last words"] },
+    { "c": "Augustine's account of evil", "a": "a privation, or lack, of good", "d": ["a substance equal in power to good", "an illusion of the senses"] },
+    { "c": "Augustine's 'si fallor, sum'", "a": "if I am mistaken, I exist", "d": ["I believe in order to understand", "love, and do what you will"] },
+    { "c": "What existed before time, per Augustine", "a": "no 'before': time began with creation", "d": ["an empty, endless time", "matter waiting to be formed"] },
+    { "c": "Augustine's account of time in Confessions XI", "a": "a stretching out (distentio) of the mind", "d": ["a measure of planetary motion only", "an illusion with no reality"] },
+    { "c": "Augustine's theory of knowledge", "a": "divine illumination of the mind", "d": ["recollection of past lives", "abstraction from sense data alone"] },
+    { "c": "Event that prompted The City of God", "a": "the sack of Rome in 410", "d": ["the fall of Constantinople", "the council of Nicaea"] },
+    { "c": "Two loves behind Augustine's two cities", "a": "love of self and love of God", "d": ["love of wealth and love of fame", "love of Rome and love of Athens"] },
+    { "c": "Pelagianism, which Augustine opposed", "a": "humans can avoid sin by their own natural free will", "d": ["matter is evil and spirit good", "God does not know the future"] },
+    { "c": "Augustine's work on the freedom of the will", "a": "De libero arbitrio", "d": ["De Anima", "Proslogion", "De Trinitate"] },
+    { "c": "Church Father who shaped just war theory", "a": "Augustine", "d": ["Boethius", "Tertullian", "Anselm"] },
+    { "c": "'What has Athens to do with Jerusalem?'", "a": "Tertullian", "d": ["Augustine", "Boethius", "Justin Martyr"] },
+    { "c": "Clement of Alexandria saw Greek philosophy as", "a": "a preparation leading Greeks toward Christ", "d": ["a demonic invention to be destroyed", "a replacement for scripture"] },
+    { "c": "Boethius's work written in prison", "a": "The Consolation of Philosophy", "d": ["The City of God", "The Guide for the Perplexed", "Confessions"] },
+    { "c": "Figure who consoles Boethius", "a": "Lady Philosophy", "d": ["the Muse of poetry", "the goddess Fortune", "his teacher Plato"] },
+    { "c": "Boethius's image for Fortune", "a": "a turning wheel", "d": ["a cave of shadows", "a divided line"] },
+    { "c": "True happiness, per Lady Philosophy", "a": "God, the highest good", "d": ["wealth and high office", "fame among later ages"] },
+    { "c": "Boethius's definition of eternity", "a": "whole, simultaneous, perfect possession of endless life", "d": ["time that continues without end", "the moment when time began"] },
+    { "c": "Boethius on foreknowledge and free will", "a": "God sees all as present, so knowing does not force", "d": ["God does not know free choices", "God's knowledge makes all acts necessary"] },
+    { "c": "Boethius's definition of a person", "a": "an individual substance of a rational nature", "d": ["a bundle of perceptions", "a thinking thing without a body"] },
+    { "c": "Ruler who had Boethius executed", "a": "Theodoric the Ostrogoth", "d": ["Charlemagne", "Constantine", "Nero"] },
+    { "c": "Boethius's Latin translations preserved", "a": "Aristotle's logical works", "d": ["Plato's Republic", "the Stoic fragments"] },
+    { "c": "Question raised in Porphyry's Isagoge", "a": "the problem of universals", "d": ["the problem of evil", "the problem of induction"] },
+    { "c": "Apophatic theology", "a": "speaking of God by saying what God is not", "d": ["proving God from motion", "picturing God in human form"] }
+  ],
+  "read": {
+    "title": "Restless hearts and the wheel of Fortune",
+    "text": [
+      "Augustine of Hippo moved through Manichaeism, which taught that good and evil are rival cosmic powers, before reading the Platonists and then converting to Christianity in 386. The Platonists helped him think of God as immaterial and of evil not as a thing but as a lack. A blind eye is not a new substance; it is an eye missing sight. So the good God created only good things, and evil arises when creatures, especially wills, turn away from the highest good toward lesser ones.",
+      "Augustine also asked what God was doing before creation. His answer was that the question assumes time existed before the world, but time is itself a creature. God, eternal, is not in time at all.",
+      "A century later Boethius, a Roman statesman unjustly condemned, wrote The Consolation of Philosophy while awaiting execution. Lady Philosophy reminds him that Fortune is a wheel: whoever rides it must expect to fall. Wealth, office, and fame cannot give happiness because they can be lost. Only the highest good, God, can. She also answers a worry about freedom. God's eternity is not a long time but the whole of life possessed at once, so God sees our future acts as we see present ones, without forcing them."
+    ],
+    "q": [
+      { "q": "What does the blind eye illustrate?", "o": ["Evil as a lack rather than a substance", "Good and evil as equal powers", "The weakness of the senses"], "k": 0 },
+      { "q": "Why does Augustine reject the question of what God did before creation?", "o": ["God was resting", "Time itself began with creation", "Scripture forbids the question"], "k": 1 },
+      { "q": "Why, says Lady Philosophy, can wealth not give happiness?", "o": ["It is evil", "It can be lost", "God forbids it"], "k": 1 }
+    ]
+  }
+}

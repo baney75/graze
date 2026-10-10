@@ -1,0 +1,56 @@
+{
+  "title": "Cardiovascular system: heart and vessels",
+  "note": "cardi/o means heart; angi/o and vas/o mean vessel; arteri/o is artery; ven/o and phleb/o are vein. Prefixes on card/i name its parts: endocardium (inner lining), myocardium (heart muscle) and pericardium (the sac around the heart).",
+  "src": { "t": "Medical Terminology 2e (Open RN), 9.2 Word Components Related to the Cardiovascular System", "u": "https://med.libretexts.org/Bookshelves/Medicine/Medical_Terminology_2e_(OpenRN)/09%3A_Cardiovascular_System_Terminology/9.02%3A_Word_Components_Related_to_the_Cardiovascular_System" },
+  "items": [
+    { "c": "cardi/o, card/i", "a": "heart", "d": ["vessel", "valve"] },
+    { "c": "angi/o, vas/o", "a": "vessel", "d": ["valve", "clot"] },
+    { "c": "arteri/o", "a": "artery", "d": ["vein", "atrium"] },
+    { "c": "ven/o, phleb/o", "a": "vein", "d": ["artery", "ventricle"] },
+    { "c": "aort/o", "a": "aorta", "d": ["atrium", "artery to the lungs"] },
+    { "c": "atri/o", "a": "atrium, upper heart chamber", "d": ["ventricle, lower heart chamber", "valve between chambers"] },
+    { "c": "ventricul/o", "a": "ventricle, lower heart chamber", "d": ["atrium, upper heart chamber", "sac around the heart"] },
+    { "c": "valv/o, valvul/o", "a": "valve", "d": ["vessel", "chamber"] },
+    { "c": "thromb/o", "a": "clot", "d": ["fatty plaque", "vessel"] },
+    { "c": "ather/o", "a": "yellowish fatty plaque", "d": ["blood clot", "calcium deposit in bone"] },
+    { "c": "ech/o", "a": "sound", "d": ["light", "electricity"] },
+    { "c": "electr/o", "a": "electricity", "d": ["sound", "pressure"] },
+    { "c": "sphygm/o", "a": "pulse", "d": ["pressure", "rhythm"], "ex": "A sphygmomanometer measures blood pressure." },
+    { "c": "my/o/card/ium", "a": "heart muscle", "d": ["inner lining of the heart", "sac around the heart"] },
+    { "c": "endo/card/ium", "a": "inner lining of the heart", "d": ["heart muscle", "sac around the heart"] },
+    { "c": "peri/card/itis", "a": "inflammation of the sac around the heart", "d": ["inflammation of the heart's inner lining", "inflammation of the heart muscle"] },
+    { "c": "tachy/cardia", "a": "fast heart rate", "d": ["slow heart rate", "irregular heart rhythm"], "ex": "In adults, usually above 100 beats per minute." },
+    { "c": "isch/emia", "a": "reduced blood supply to a tissue", "d": ["excess blood in a tissue", "clot in a deep vein"], "ex": "isch/o means to hold back or block." },
+    { "c": "ather/o/sclerosis", "a": "hardening of arteries from fatty plaque", "d": ["narrowing of a heart valve", "clot in a deep vein"] },
+    { "c": "thromb/osis", "a": "abnormal condition of a clot in a vessel", "d": ["breakdown of a clot", "hardening of a vessel"] },
+    { "c": "thromb/o/lysis", "a": "breakdown of a clot", "d": ["formation of a clot", "removal of a vessel"] },
+    { "c": "phleb/itis", "a": "inflammation of a vein", "d": ["inflammation of an artery", "clot in an artery"] },
+    { "c": "phleb/otomy", "a": "incision into a vein, as to draw blood", "d": ["removal of a vein", "surgical repair of a vein"] },
+    { "c": "angi/o/plasty", "a": "surgical repair of a vessel", "d": ["surgical removal of a vessel", "image of a vessel"] },
+    { "c": "angi/o/gram", "a": "image of a blood vessel", "d": ["process of imaging vessels", "surgical repair of a vessel"] },
+    { "c": "electr/o/cardi/o/gram", "a": "record of the heart's electrical activity", "d": ["ultrasound image of the heart", "record of the brain's electrical activity"] },
+    { "c": "ech/o/cardi/o/gram", "a": "ultrasound image of the heart", "d": ["record of the heart's electrical activity", "X-ray image of the coronary arteries"] },
+    { "c": "vas/o/constriction", "a": "narrowing of a blood vessel", "d": ["widening of a blood vessel", "blockage of a vessel by a clot"] },
+    { "c": "vas/o/dilation", "a": "widening of a blood vessel", "d": ["narrowing of a blood vessel", "rupture of a blood vessel"] },
+    { "c": "hyper/tension", "a": "high blood pressure", "d": ["low blood pressure", "fast heart rate"] },
+    { "c": "hypo/tension", "a": "low blood pressure", "d": ["high blood pressure", "slow heart rate"] },
+    { "c": "Valve between the left atrium and left ventricle", "a": "mitral (bicuspid) valve", "d": ["tricuspid valve", "aortic valve"] },
+    { "c": "Smallest blood vessels, where exchange occurs", "a": "capillaries", "d": ["arterioles", "venules"] },
+    { "c": "Heart chamber that pumps blood to the body", "a": "left ventricle", "d": ["right ventricle", "left atrium"] },
+    { "c": "Pulmonary circulation carries blood to", "a": "the lungs", "d": ["the body tissues", "the heart muscle"] }
+  ],
+  "read": {
+    "title": "Layers, chambers and vessels",
+    "text": [
+      "The heart is a muscular pump with four chambers. The two upper chambers, the atria, receive blood; the two lower chambers, the ventricles, pump it out. The right ventricle sends blood through the pulmonary circulation to the lungs, and the thicker left ventricle drives it through the aorta to the rest of the body. Valves between the chambers keep blood moving in one direction.",
+      "Prefixes do much of the naming. With card/i or cardi/o as the root, endocardium is the inner lining, myocardium is the muscle of the heart wall, and pericardium is the sac around the heart. Add -itis and you have inflammation of each one.",
+      "Vessel terms come in sets. Arteries carry blood away from the heart, veins return it, and capillaries are the tiny vessels where oxygen and nutrients pass into tissues. Angi/o and vas/o both mean vessel, so angioplasty repairs a vessel and vasodilation widens one. Phleb/o and ven/o both mean vein; a phlebotomy opens a vein to draw blood.",
+      "Diagnostic terms combine the same parts. An electrocardiogram records the heart's electrical activity, while an echocardiogram uses sound waves to make an image of it."
+    ],
+    "q": [
+      { "q": "Which chamber pumps blood into the aorta?", "o": ["Left ventricle", "Right ventricle", "Right atrium", "Left atrium"], "k": 0 },
+      { "q": "Which layer of the heart wall is the muscle?", "o": ["Myocardium", "Endocardium", "Pericardium"], "k": 0 },
+      { "q": "What does an echocardiogram use to make its image?", "o": ["Sound waves", "Electrical signals", "X-rays"], "k": 0 }
+    ]
+  }
+}

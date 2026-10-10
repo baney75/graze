@@ -1,0 +1,15 @@
+{
+  "key": "engineering",
+  "name": "Engineering",
+  "group": "Sciences",
+  "tag": "ENGR",
+  "level": "Intro college",
+  "blurb": "Engineering fundamentals across the disciplines: how engineers model, design, build, and keep things from failing. Recall the core laws, formulas, materials, and methods of statics, materials, fluids, heat, circuits, controls, structures, and manufacturing, and the lessons of famous failures and the NSPE code.",
+  "sources": [
+    { "t": "University Physics Volume 1, OpenStax", "u": "https://openstax.org/details/books/university-physics-volume-1" },
+    { "t": "Engineering LibreTexts", "u": "https://eng.libretexts.org/" },
+    { "t": "Mechanics & Materials I (2.001), MIT OpenCourseWare", "u": "https://ocw.mit.edu/courses/2-001-mechanics-materials-i-fall-2006/" },
+    { "t": "Beginner's Guide to Aeronautics, NASA Glenn Research Center", "u": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/" },
+    { "t": "NSPE Code of Ethics for Engineers", "u": "https://www.nspe.org/career-growth/nspe-code-ethics-engineers" }
+  ]
+}

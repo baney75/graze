@@ -1,0 +1,60 @@
+{
+  "title": "Gene expression",
+  "note": "Genes are expressed in two steps: transcription copies DNA into RNA, and translation reads mRNA three bases (one codon) at a time to build a polypeptide. In eukaryotes, pre-mRNA is capped, given a poly-A tail, and spliced before it leaves the nucleus. Cells control which genes are expressed, mostly by controlling transcription.",
+  "src": { "t": "OpenStax Biology 2e, Ch. 15: Genes and Proteins (with Ch. 16: Gene Expression)", "u": "https://openstax.org/books/biology-2e/pages/15-introduction" },
+  "items": [
+    { "c": "Central dogma of molecular biology", "a": "DNA → RNA → protein", "d": ["RNA → DNA → protein", "Protein → RNA → DNA"] },
+    { "c": "Transcription", "a": "Making RNA from a DNA template", "d": ["Making a polypeptide from mRNA", "Copying DNA before division"] },
+    { "c": "Translation", "a": "Making a polypeptide from an mRNA", "d": ["Making RNA from a DNA template", "Removing introns from pre-mRNA"] },
+    { "c": "Codon", "a": "Three-nucleotide mRNA unit coding for an amino acid or stop", "d": ["tRNA triplet that pairs with mRNA", "One amino acid in a polypeptide"] },
+    { "c": "Number of possible codons", "a": "64", "d": ["20", "61"] },
+    { "c": "Codons that specify amino acids", "a": "61", "d": ["64", "20"] },
+    { "c": "Start codon", "a": "AUG", "d": ["UAA", "UGA"], "ex": "AUG also codes for methionine." },
+    { "c": "Stop codons", "a": "UAA, UAG, and UGA", "d": ["AUG, UAA, and UAG", "AUG, UGA, and UGG"] },
+    { "c": "The genetic code is degenerate, meaning…", "a": "most amino acids have more than one codon", "d": ["each codon codes for several amino acids", "codons overlap by one base"] },
+    { "c": "Promoter", "a": "DNA sequence where RNA polymerase binds to start transcription", "d": ["mRNA sequence where ribosomes stop", "Protein that blocks transcription"] },
+    { "c": "Template strand", "a": "DNA strand that RNA polymerase reads", "d": ["DNA strand with the same sequence as the mRNA", "RNA strand that carries amino acids"] },
+    { "c": "Direction RNA polymerase builds RNA", "a": "5' to 3'", "d": ["3' to 5'", "Both directions at once"] },
+    { "c": "TATA box", "a": "T- and A-rich promoter sequence in many eukaryotic genes", "d": ["Stop signal at the end of a gene", "Splice signal at an intron's edge"] },
+    { "c": "Eukaryotic RNA polymerase II makes…", "a": "pre-mRNA from protein-coding genes", "d": ["most ribosomal RNA", "transfer RNA"] },
+    { "c": "5' cap", "a": "Modified guanine added to the front of pre-mRNA", "d": ["Chain of adenines added to the 3' end", "Noncoding segment removed by splicing"] },
+    { "c": "Poly-A tail", "a": "Chain of adenines added to the 3' end of pre-mRNA", "d": ["Modified guanine added to the 5' end", "Sequence where RNA polymerase binds"] },
+    { "c": "Introns", "a": "Noncoding sequences spliced out of pre-mRNA", "d": ["Sequences kept in the mature mRNA", "Sequences where ribosomes bind"] },
+    { "c": "Exons", "a": "Sequences kept and expressed in mature mRNA", "d": ["Sequences spliced out of pre-mRNA", "Repeats at chromosome ends"] },
+    { "c": "Spliceosome", "a": "Complex that removes introns and joins exons", "d": ["Complex that translates mRNA", "Enzyme that adds the poly-A tail"] },
+    { "c": "Alternative splicing", "a": "Different exon combinations give different proteins", "d": ["Different promoters copy the same exon", "Different tRNAs read the same codon"] },
+    { "c": "tRNA", "a": "Adapter that brings amino acids and reads codons", "d": ["Copy of a gene carried to the ribosome", "RNA that forms the ribosome's core"] },
+    { "c": "Anticodon", "a": "tRNA triplet that pairs with an mRNA codon", "d": ["mRNA triplet coding for an amino acid", "DNA triplet at the promoter"] },
+    { "c": "Aminoacyl-tRNA synthetase", "a": "Attaches the correct amino acid to its tRNA", "d": ["Links amino acids by peptide bonds", "Removes introns from pre-mRNA"] },
+    { "c": "Ribosome site where a new tRNA enters", "a": "A site", "d": ["P site", "E site"] },
+    { "c": "Ribosome site holding the growing chain's tRNA", "a": "P site", "d": ["A site", "E site"] },
+    { "c": "Ribosome site where empty tRNA leaves", "a": "E site", "d": ["A site", "P site"] },
+    { "c": "Peptide bonds in translation are made by…", "a": "rRNA acting as a ribozyme", "d": ["tRNA acting as an enzyme", "the mRNA's 5' cap"] },
+    { "c": "In bacteria, transcription and translation…", "a": "can happen at the same time", "d": ["occur in separate compartments", "are separated by RNA splicing"] },
+    { "c": "Operon", "a": "Cluster of genes transcribed together from one promoter", "d": ["Single gene with many introns", "Protein that binds the promoter"] },
+    { "c": "Operator", "a": "DNA site where a repressor binds", "d": ["DNA site where ribosomes bind", "Small molecule that releases a repressor"] },
+    { "c": "The trp operon is…", "a": "repressible: off when tryptophan is plentiful", "d": ["inducible: on when tryptophan is plentiful", "always on regardless of tryptophan"] },
+    { "c": "The lac operon is…", "a": "inducible: switched on when lactose is present", "d": ["repressible: switched off when lactose is present", "always off regardless of lactose"] },
+    { "c": "Allolactose", "a": "Inducer that releases the lac repressor from DNA", "d": ["Repressor that blocks the lac promoter", "Enzyme that splits lactose"] },
+    { "c": "lac operon is most active when…", "a": "lactose is present and glucose is absent", "d": ["glucose is present and lactose is absent", "both sugars are present"] },
+    { "c": "CAP–cAMP complex", "a": "Activator that boosts lac transcription when glucose is low", "d": ["Repressor that blocks lac when lactose is low", "Enzyme that makes glucose from lactose"] },
+    { "c": "DNA methylation of a promoter usually…", "a": "silences the gene", "d": ["activates the gene", "cuts the DNA"] },
+    { "c": "Histone acetylation", "a": "Loosens chromatin and promotes transcription", "d": ["Tightens chromatin and blocks transcription", "Removes introns from pre-mRNA"] },
+    { "c": "Enhancer", "a": "Distant DNA site where activators boost transcription", "d": ["Site where translation begins", "Protein that removes introns"] },
+    { "c": "microRNA (miRNA)", "a": "Small RNA that blocks or degrades target mRNAs", "d": ["RNA that carries amino acids", "RNA that forms the spliceosome"] },
+    { "c": "Epigenetic change", "a": "Heritable change in gene expression without DNA sequence change", "d": ["A change in a gene's base sequence", "Loss of a whole chromosome"] }
+  ],
+  "read": {
+    "title": "From gene to protein, and when to bother",
+    "text": [
+      "A gene is a stretch of DNA that carries instructions, but the instructions stay in the nucleus. To use them, the cell first transcribes the gene. RNA polymerase binds a promoter, opens the helix, and builds a strand of RNA complementary to the template strand. In eukaryotes this pre-mRNA is then processed: a modified guanine cap is added to the 5' end, a poly-A tail to the 3' end, and introns are spliced out. The mature mRNA leaves through a nuclear pore.",
+      "At a ribosome, translation begins at the start codon, AUG. Transfer RNAs, each carrying a specific amino acid, pair their anticodons with codons on the mRNA. The ribosome links each new amino acid to the growing chain and shifts along the message one codon at a time, until a stop codon releases the finished polypeptide.",
+      "Not every gene is needed in every cell or at every moment. Bacteria group related genes into operons that switch on or off together. In E. coli, the lac genes stay off until lactose is present and are fully on only when glucose, the preferred sugar, is scarce. Eukaryotes control genes at many levels, from how tightly DNA is packed around histones to how long an mRNA survives."
+    ],
+    "q": [
+      { "q": "Which step happens to eukaryotic pre-mRNA before it leaves the nucleus?", "o": ["Translation", "Splicing out of introns", "Attachment of amino acids"], "k": 1 },
+      { "q": "What pairs with each codon during translation?", "o": ["A tRNA anticodon", "A DNA promoter", "An intron", "A histone"], "k": 0 },
+      { "q": "When is the lac operon fully on?", "o": ["Glucose present, lactose absent", "Both absent", "Lactose present, glucose scarce"], "k": 2 }
+    ]
+  }
+}

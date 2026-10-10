@@ -1,0 +1,49 @@
+{
+  "title": "Work, energy and power",
+  "note": "Work transfers energy: W = Fd cos θ, so only the force component along the motion counts. The net work on an object equals its change in kinetic energy. If only conservative forces do work, mechanical energy (KE + PE) stays constant; friction turns some of it into thermal energy.",
+  "src": { "t": "College Physics 2e, Ch. 7 Work, Energy, and Energy Resources", "u": "https://openstax.org/books/college-physics-2e/pages/7-introduction-to-work-energy-and-energy-resources" },
+  "items": [
+    { "c": "Work done by a constant force", "a": "W = Fd cos θ", "d": ["W = Fd sin θ", "W = F/d", "W = Fv"] },
+    { "c": "SI unit of work and energy", "a": "joule (J)", "d": ["watt (W)", "newton (N)", "pascal (Pa)"] },
+    { "c": "Work by a force perpendicular to the motion", "a": "zero", "d": ["Fd", "−Fd", "Fd/2"] },
+    { "c": "Kinetic energy", "a": "½mv²", "d": ["mv²", "½mv", "mgh"] },
+    { "c": "Gravitational potential energy near Earth", "a": "mgh", "d": ["½mgh", "mg/h", "½mv²"] },
+    { "c": "Elastic potential energy of a spring", "a": "½kx²", "d": ["kx²", "½kx", "−kx"] },
+    { "c": "Work–energy theorem", "a": "net work equals the change in kinetic energy", "d": ["net work equals the change in potential energy", "net work is always zero"] },
+    { "c": "Doubling speed multiplies kinetic energy by", "a": "4", "d": ["2", "8", "√2"] },
+    { "c": "More KE: 1 kg at 2 m/s or 2 kg at 1 m/s?", "a": "1 kg at 2 m/s (2 J vs 1 J)", "d": ["2 kg at 1 m/s", "they are equal"] },
+    { "c": "Conservative force", "a": "force whose work does not depend on the path", "d": ["force whose work depends on the path", "force that never does any work"] },
+    { "c": "Example of a nonconservative force", "a": "kinetic friction", "d": ["gravity", "an ideal spring force", "the electric force"] },
+    { "c": "Potential energy can be defined for", "a": "conservative forces only", "d": ["every force, including friction", "nonconservative forces only"] },
+    { "c": "Force from potential energy in 1D", "a": "F = −dU/dx", "d": ["F = dU/dx", "F = U·x", "F = −U/x"] },
+    { "c": "Mechanical energy", "a": "kinetic plus potential energy", "d": ["kinetic minus potential energy", "thermal plus chemical energy"] },
+    { "c": "Ramp vs straight drop, same height, no friction", "a": "same final speed", "d": ["higher speed after the straight drop", "higher speed after the ramp"] },
+    { "c": "Pendulum: where kinetic energy is greatest", "a": "at the lowest point", "d": ["at the highest point", "halfway up the swing"] },
+    { "c": "Sign of friction's work on a sliding box", "a": "negative", "d": ["positive", "zero"] },
+    { "c": "Gravity's work on a falling ball", "a": "positive", "d": ["negative", "zero"] },
+    { "c": "Lifting 2 kg up 3 m at constant speed: work", "a": "about 59 J", "d": ["6 J", "about 20 J", "about 590 J"] },
+    { "c": "Area under a force–displacement graph", "a": "work done", "d": ["power delivered", "impulse delivered", "momentum change"] },
+    { "c": "Conservation of energy", "a": "total energy of an isolated system stays constant", "d": ["mechanical energy is always constant", "kinetic energy is always constant"] },
+    { "c": "Power", "a": "rate of doing work, P = W/t", "d": ["work times time, P = Wt", "force times distance, P = Fd"] },
+    { "c": "SI unit of power", "a": "watt (W) = 1 J/s", "d": ["joule (J) = 1 N·m", "newton (N) = 1 kg·m/s²"] },
+    { "c": "Power at constant force and velocity", "a": "P = Fv", "d": ["P = F/v", "P = ½Fv²", "P = Fd"] },
+    { "c": "One kilowatt-hour in joules", "a": "3.6 × 10⁶ J", "d": ["3.6 × 10³ J", "1.0 × 10³ J", "6.0 × 10⁴ J"] },
+    { "c": "One horsepower in watts", "a": "about 746 W", "d": ["about 100 W", "about 1000 W", "about 550 W"] },
+    { "c": "One food Calorie (kcal) in joules", "a": "about 4186 J", "d": ["about 4.19 J", "about 1000 J", "about 418,600 J"] },
+    { "c": "Efficiency of a device", "a": "useful energy output ÷ total energy input", "d": ["total energy input ÷ useful output", "useful output − total input"] }
+  ],
+  "read": {
+    "title": "Energy changes form",
+    "text": [
+      "In physics, work has a narrow meaning: a force does work when it moves something along the force's direction. Carrying a bag across a level room at steady speed does no work on the bag by the upward force of your arm, because that force is perpendicular to the motion. Lifting the bag does work, storing gravitational potential energy mgh.",
+      "The work–energy theorem ties work to motion. The net work done on an object equals its change in kinetic energy, ½mv². Because speed is squared, doubling a car's speed quadruples its kinetic energy and roughly quadruples its braking distance.",
+      "Gravity and ideal springs are conservative forces: the work they do depends only on the start and end points, so they have potential energies. When only conservative forces do work, kinetic plus potential energy stays constant. A skier sliding down a frictionless hill reaches the same bottom speed whether the slope is gentle or steep, because only the height lost matters.",
+      "Friction is nonconservative. It still conserves total energy, but it converts mechanical energy into thermal energy that cannot easily be recovered. Power measures how fast energy is transferred; one watt is one joule per second."
+    ],
+    "q": [
+      { "q": "Why does a steady upward force do no work on a bag carried across a level room?", "o": ["The force is perpendicular to the motion", "The bag has no mass", "Friction cancels it"], "k": 0 },
+      { "q": "What determines the bottom speed of a skier on a frictionless hill?", "o": ["Only the height lost", "The steepness of the slope", "The length of the path"], "k": 0 },
+      { "q": "What does friction do to mechanical energy?", "o": ["Converts some into thermal energy", "Destroys total energy", "Turns it into potential energy"], "k": 0 }
+    ]
+  }
+}

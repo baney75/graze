@@ -1,0 +1,197 @@
+{
+  "title": "Epictetus, the Enchiridion",
+  "note": "Epictetus, a Stoic teacher born a slave in Phrygia, wrote nothing himself; his student Arrian compiled this handbook of his teaching. Its first chapter draws the line that organizes the whole work: what is within our power and what is not.",
+  "src": {
+    "t": "The Enchiridion, tr. Thomas Wentworth Higginson, Project Gutenberg eBook #45109",
+    "u": "https://www.gutenberg.org/ebooks/45109"
+  },
+  "items": [
+    {
+      "c": "Enchiridion (meaning)",
+      "a": "handbook; literally 'in the hand'",
+      "d": [
+        "dialogue",
+        "confession",
+        "letter"
+      ]
+    },
+    {
+      "c": "Who compiled the Enchiridion",
+      "a": "Arrian, Epictetus's student",
+      "d": [
+        "Epictetus himself",
+        "Seneca",
+        "Marcus Aurelius"
+      ]
+    },
+    {
+      "c": "Epictetus's status in his youth at Rome",
+      "a": "a slave",
+      "d": [
+        "a senator",
+        "a soldier",
+        "a priest"
+      ]
+    },
+    {
+      "c": "Where Epictetus taught after exile from Rome",
+      "a": "Nicopolis in Epirus",
+      "d": [
+        "Athens",
+        "Alexandria",
+        "Rhodes"
+      ]
+    },
+    {
+      "c": "Emperor who exiled philosophers from Rome c. 90",
+      "a": "Domitian",
+      "d": [
+        "Nero",
+        "Hadrian",
+        "Trajan"
+      ]
+    },
+    {
+      "c": "Philosophical school of Epictetus",
+      "a": "Stoicism",
+      "d": [
+        "Epicureanism",
+        "Skepticism",
+        "Platonism"
+      ]
+    },
+    {
+      "c": "Within our power, per Epictetus",
+      "a": "opinion, aim, desire, aversion",
+      "d": [
+        "body, property, reputation, office"
+      ]
+    },
+    {
+      "c": "Beyond our power, per Epictetus",
+      "a": "body, property, reputation, office",
+      "d": [
+        "opinion, aim, desire, aversion"
+      ]
+    },
+    {
+      "c": "aversion (Epictetus)",
+      "a": "turning away from something",
+      "d": [
+        "strong desire for something",
+        "duty toward something"
+      ]
+    },
+    {
+      "c": "office (Epictetus)",
+      "a": "a public post or position",
+      "d": [
+        "a room for paperwork",
+        "a daily prayer"
+      ]
+    },
+    {
+      "c": "alien (Epictetus)",
+      "a": "belonging to another",
+      "d": [
+        "one's very own",
+        "freely chosen"
+      ]
+    },
+    {
+      "c": "semblance (Epictetus)",
+      "a": "an appearance or impression",
+      "d": [
+        "a proven fact",
+        "a solemn promise"
+      ]
+    },
+    {
+      "c": "procured (Epictetus)",
+      "a": "obtained",
+      "d": [
+        "lost",
+        "delayed"
+      ]
+    },
+    {
+      "c": "Result of treating others' things as your own",
+      "a": "you will be hindered, lament, and find fault",
+      "d": [
+        "you will win freedom",
+        "you will grow wealthy"
+      ]
+    },
+    {
+      "c": "Epictetus's test for every unpleasing impression",
+      "a": "is it within our power or not?",
+      "d": [
+        "is it pleasant or painful?",
+        "is it old or new?"
+      ]
+    },
+    {
+      "c": "If it is beyond our power, be prepared to say...",
+      "a": "it is nothing to you",
+      "d": [
+        "it is your fault",
+        "it is the gods' punishment"
+      ]
+    },
+    {
+      "c": "Risk of chasing wealth along with freedom",
+      "a": "you will surely lose happiness and freedom",
+      "d": [
+        "you will gain both",
+        "you will lose only the wealth"
+      ]
+    },
+    {
+      "c": "Translator of this Enchiridion (1865)",
+      "a": "Thomas Wentworth Higginson",
+      "d": [
+        "George Long",
+        "Benjamin Jowett",
+        "Elizabeth Carter"
+      ]
+    }
+  ],
+  "read": {
+    "title": "The Enchiridion, chapter I",
+    "text": [
+      "There are things which are within our power, and there are things which are beyond our power. Within our power are opinion, aim, desire, aversion, and, in one word, whatever affairs are our own. Beyond our power are body, property, reputation, office, and, in one word, whatever are not properly our own affairs.",
+      "Now the things within our power are by nature free, unrestricted, unhindered; but those beyond our power are weak, dependent, restricted, alien. Remember, then, that if you attribute freedom to things by nature dependent and take what belongs to others for your own, you will be hindered, you will lament, you will be disturbed, you will find fault both with gods and men. But if you take for your own only that which is your own and view what belongs to others just as it really is, then no one will ever compel you, no one will restrict you; you will find fault with no one, you will accuse no one, you will do nothing against your will; no one will hurt you, you will not have an enemy, nor will you suffer any harm.",
+      "Aiming, therefore, at such great things, remember that you must not allow yourself any inclination, however slight, toward the attainment of the others; but that you must entirely quit some of them, and for the present postpone the rest. But if you would have these, and possess power and wealth likewise, you may miss the latter in seeking the former; and you will certainly fail of that by which alone happiness and freedom are procured.",
+      "Seek at once, therefore, to be able to say to every unpleasing semblance, “You are but a semblance and by no means the real thing.” And then examine it by those rules which you have; and first and chiefly by this: whether it concerns the things which are within our own power or those which are not; and if it concerns anything beyond our power, be prepared to say that it is nothing to you."
+    ],
+    "q": [
+      {
+        "q": "What is the main idea of the chapter?",
+        "o": [
+          "Freedom comes from caring only about what is within our power, such as our judgments and desires",
+          "We should work hard to control our reputation",
+          "Wealth and office bring the deepest happiness"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why could no one harm a person who follows this advice?",
+        "o": [
+          "He places his good only in his own judgments, which no one else controls",
+          "He has enough money to defend himself",
+          "He avoids all contact with other people"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Saying 'You are but a semblance' to an impression means treating it as:",
+        "o": [
+          "only an appearance, to be examined before it is accepted",
+          "a dream to be forgotten at once",
+          "a command sent by the gods"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

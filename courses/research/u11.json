@@ -1,0 +1,301 @@
+{
+  "title": "Replication and the replication crisis",
+  "note": "A finding earns trust when independent teams can reproduce it. In the 2010s, large replication projects found that many published results, especially in psychology, did not hold up. Small samples, publication bias and flexible analyses were major causes; open science practices are the main response.",
+  "src": {
+    "t": "Research Methods in Psychology, 13.4 From the Replicability Crisis to Open Science Practices, LibreTexts",
+    "u": "https://socialsci.libretexts.org/Courses/CSU_Fresno/Book%3A_Research_Methods_in_Psychology_(Cuttler_et_al.)/13%3A_Inferential_Statistics/13.4%3A_From_the_Replicability_Crisis_to_Open_Science_Practices"
+  },
+  "items": [
+    {
+      "c": "Replication",
+      "a": "Repeating a study with new data to see if results hold",
+      "d": [
+        "Copying a study's text into a new paper",
+        "Publishing the same paper twice",
+        "Citing a study many times"
+      ]
+    },
+    {
+      "c": "Direct (close) replication",
+      "a": "Repeating the original procedures as closely as possible",
+      "d": [
+        "Testing the same idea with new methods",
+        "Reanalyzing the original data set",
+        "Summarizing the original paper"
+      ]
+    },
+    {
+      "c": "Conceptual replication",
+      "a": "Testing the same idea with different methods or measures",
+      "d": [
+        "Copying the original procedure exactly",
+        "Rerunning the original code on its data",
+        "Translating the paper into a new language"
+      ]
+    },
+    {
+      "c": "Computational reproducibility",
+      "a": "Getting the same results from the same data and code",
+      "d": [
+        "Getting the same results with new participants",
+        "Publishing the same results in two journals",
+        "Matching the original sample size"
+      ]
+    },
+    {
+      "c": "Replication crisis",
+      "a": "Finding that many published results fail to replicate",
+      "d": [
+        "A shortage of journals to publish in",
+        "A rise in plagiarism by students",
+        "A drop in research funding"
+      ]
+    },
+    {
+      "c": "Reproducibility Project: Psychology (2015)",
+      "a": "Attempted to replicate 100 published psychology studies",
+      "d": [
+        "Tested 100 new drugs in clinical trials",
+        "Surveyed 100 journal editors",
+        "Retracted 100 fraudulent papers"
+      ]
+    },
+    {
+      "c": "Share of 2015 psych replications significant",
+      "a": "About 36%",
+      "d": [
+        "About 97%",
+        "About 75%",
+        "About 5%"
+      ],
+      "ex": "97 of the 100 original studies had reported significant results."
+    },
+    {
+      "c": "Effect sizes in 2015 psychology replications",
+      "a": "On average about half the original size",
+      "d": [
+        "On average twice the original size",
+        "Exactly equal to the originals",
+        "Always zero"
+      ]
+    },
+    {
+      "c": "Does a failed replication disprove the original?",
+      "a": "No; samples, methods, or power may differ",
+      "d": [
+        "Yes, always and permanently",
+        "Yes, if the journal agrees",
+        "Only if the original was a preprint"
+      ]
+    },
+    {
+      "c": "Questionable research practices (QRPs)",
+      "a": "Gray-zone choices that inflate false-positive results",
+      "d": [
+        "Outright theft of other people's data",
+        "Required steps of peer review",
+        "Standard rules of APA style"
+      ]
+    },
+    {
+      "c": "HARKing",
+      "a": "Hypothesizing After the Results are Known",
+      "d": [
+        "Holding All Results Kept in Notes",
+        "Having A Random Key in a study",
+        "Hiding Authors from Reviewers' Knowledge"
+      ]
+    },
+    {
+      "c": "Optional stopping",
+      "a": "Checking results and collecting data until p < 0.05",
+      "d": [
+        "Ending a trial early for safety under a plan",
+        "Stopping data entry at day's end",
+        "Choosing a sample size in advance"
+      ]
+    },
+    {
+      "c": "Selective outlier removal",
+      "a": "Dropping inconvenient data points to reach significance",
+      "d": [
+        "Removing data using a rule set in advance",
+        "Keeping every data point collected",
+        "Reporting outliers in a footnote"
+      ]
+    },
+    {
+      "c": "Garden of forking paths",
+      "a": "Many possible analysis choices that can yield chance findings",
+      "d": [
+        "A diagram of a study's recruitment",
+        "A method for picking journals",
+        "A map of citation chains"
+      ]
+    },
+    {
+      "c": "File drawer problem",
+      "a": "Null results go unpublished and vanish from the record",
+      "d": [
+        "Lost paper records in a lab",
+        "Too many files in a data set",
+        "Messy notes that slow writing"
+      ]
+    },
+    {
+      "c": "Winner's curse, in research",
+      "a": "First significant reports tend to overestimate the effect",
+      "d": [
+        "Prize winners publish less afterward",
+        "Large studies always find smaller effects",
+        "Famous labs cannot be wrong"
+      ]
+    },
+    {
+      "c": "Decline effect",
+      "a": "An effect shrinks as later studies test it",
+      "d": [
+        "Fewer people volunteer for studies",
+        "Journals reject more papers each year",
+        "Citation counts fall with age"
+      ]
+    },
+    {
+      "c": "Preregistration",
+      "a": "Publicly recording hypotheses and analysis plans in advance",
+      "d": [
+        "Registering for a scientific conference",
+        "Signing up participants before consent",
+        "Paying a journal's fee before review"
+      ]
+    },
+    {
+      "c": "Registered report",
+      "a": "Methods are peer-reviewed and accepted before data collection",
+      "d": [
+        "A report filed with the police",
+        "A paper accepted only after results are known",
+        "An annual report to a funding agency"
+      ]
+    },
+    {
+      "c": "Why registered reports reduce publication bias",
+      "a": "Acceptance doesn't depend on the results",
+      "d": [
+        "They ban null results",
+        "They skip peer review",
+        "They are never cited"
+      ]
+    },
+    {
+      "c": "Open data",
+      "a": "Sharing a study's raw data for others to check",
+      "d": [
+        "Data from an open-air study",
+        "Data that has no privacy limits",
+        "A free database of journal titles"
+      ]
+    },
+    {
+      "c": "Exploratory analysis",
+      "a": "Searching data for patterns to test later",
+      "d": [
+        "Testing a hypothesis stated in advance",
+        "Copying another study's analysis",
+        "Analyzing data you did not collect"
+      ]
+    },
+    {
+      "c": "Confirmatory analysis",
+      "a": "Testing a hypothesis specified before seeing the data",
+      "d": [
+        "Searching data for new patterns",
+        "Confirming an author's identity",
+        "Checking a reference list"
+      ]
+    },
+    {
+      "c": "ClinicalTrials.gov",
+      "a": "A US registry of clinical studies run by NLM",
+      "d": [
+        "A journal of clinical research",
+        "A preprint server for trials",
+        "A company that funds clinical trials"
+      ]
+    },
+    {
+      "c": "Center for Open Science",
+      "a": "A nonprofit promoting transparent, reproducible research",
+      "d": [
+        "A federal agency that funds trials",
+        "A journal that publishes preprints",
+        "A company selling statistics software"
+      ]
+    },
+    {
+      "c": "Diederik Stapel",
+      "a": "Social psychologist who fabricated data in dozens of papers",
+      "d": [
+        "Founder of the Center for Open Science",
+        "Creator of the SIFT method",
+        "Author of the Belmont Report"
+      ]
+    },
+    {
+      "c": "Metascience",
+      "a": "Research on how research itself is done",
+      "d": [
+        "Science fiction about scientists",
+        "Physics beyond the observable universe",
+        "A citation style for science"
+      ]
+    },
+    {
+      "c": "Best guard against a single flashy finding",
+      "a": "Wait for independent replications",
+      "d": [
+        "Trust the most-shared version",
+        "Trust it if p is below 0.05",
+        "Trust it if the journal is famous"
+      ]
+    }
+  ],
+  "read": {
+    "title": "When results don't come back",
+    "text": [
+      "In 2015, a team of more than 270 researchers published the results of an unusual project. They had repeated 100 experiments from respected psychology journals, following the original methods closely. Ninety-seven of the originals had reported statistically significant effects. Only about 36% of the replications did, and the effects they found were, on average, about half as large.",
+      "A single failed replication does not prove that an original finding was false; samples and settings differ. But the overall pattern pointed to problems in how research was done and published. Journals favored surprising, positive results, so null findings sat in file drawers. Small samples produced noisy estimates, and only the lucky high ones got published. Researchers could also try many analyses, drop inconvenient data, or present an after-the-fact hypothesis as if it had been predicted.",
+      "The response has been a push toward open science. Preregistration commits researchers to their hypotheses and analysis plans before seeing the data. Registered reports go further: journals review the methods and agree to publish before results exist. Sharing data and materials lets others check the work. For readers, the lesson is simple: treat one striking study as a lead, and look for independent replication."
+    ],
+    "q": [
+      {
+        "q": "About what share of the replications produced significant results?",
+        "o": [
+          "97%",
+          "About half",
+          "About 36%",
+          "All of them"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Why did small samples contribute to the problem?",
+        "o": [
+          "Their noisy estimates meant only the lucky high ones got published",
+          "They were always rejected by journals",
+          "They could not be preregistered"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What makes registered reports different from ordinary submissions?",
+        "o": [
+          "They are published without any review",
+          "Journals agree to publish before results exist",
+          "They report only positive results"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

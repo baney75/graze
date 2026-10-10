@@ -1,0 +1,33 @@
+{
+  "title": "Capitals of North and Central America and the Caribbean",
+  "note": "Canada’s capital is Ottawa, not Toronto, and the US capital is Washington, D.C., a federal district outside any state. Several Central American capitals share the country’s name, such as Guatemala City and Panama City.",
+  "src": {
+    "t": "CIA World Factbook (archived JSON edition)",
+    "u": "https://github.com/factbook/factbook.json"
+  },
+  "items": [
+    { "c": "Canada", "a": "Ottawa", "d": ["Toronto", "Montreal", "Vancouver"] },
+    { "c": "United States", "a": "Washington, D.C.", "d": ["New York City", "Philadelphia", "Chicago"] },
+    { "c": "Mexico", "a": "Mexico City", "d": ["Guadalajara", "Monterrey", "Puebla"] },
+    { "c": "Guatemala", "a": "Guatemala City", "d": ["Quetzaltenango", "Antigua Guatemala", "Escuintla"] },
+    { "c": "Belize", "a": "Belmopan", "d": ["Belize City", "San Ignacio", "Orange Walk Town"], "ex": "Belmopan replaced Belize City as the capital in 1970." },
+    { "c": "El Salvador", "a": "San Salvador", "d": ["Santa Ana", "San Miguel", "Soyapango"] },
+    { "c": "Honduras", "a": "Tegucigalpa", "d": ["San Pedro Sula", "La Ceiba", "Choluteca"] },
+    { "c": "Nicaragua", "a": "Managua", "d": ["León", "Granada", "Masaya"] },
+    { "c": "Costa Rica", "a": "San José", "d": ["Limón", "Alajuela", "Cartago"] },
+    { "c": "Panama", "a": "Panama City", "d": ["Colón", "David", "La Chorrera"] },
+    { "c": "Cuba", "a": "Havana", "d": ["Santiago de Cuba", "Camagüey", "Holguín"] },
+    { "c": "Jamaica", "a": "Kingston", "d": ["Montego Bay", "Spanish Town", "Portmore"] },
+    { "c": "Haiti", "a": "Port-au-Prince", "d": ["Cap-Haïtien", "Gonaïves", "Les Cayes"] },
+    { "c": "Dominican Republic", "a": "Santo Domingo", "d": ["Santiago de los Caballeros", "La Romana", "Puerto Plata"] },
+    { "c": "Bahamas", "a": "Nassau", "d": ["Freeport", "Marsh Harbour", "Andros Town"] },
+    { "c": "Barbados", "a": "Bridgetown", "d": ["Speightstown", "Oistins", "Holetown"] },
+    { "c": "Trinidad and Tobago", "a": "Port of Spain", "d": ["San Fernando", "Chaguanas", "Arima"] },
+    { "c": "Grenada", "a": "St. George's", "d": ["Gouyave", "Grenville", "Kingstown"] },
+    { "c": "Saint Lucia", "a": "Castries", "d": ["Vieux Fort", "Soufrière", "Gros Islet"] },
+    { "c": "Saint Vincent and the Grenadines", "a": "Kingstown", "d": ["Layou", "Barrouallie", "Castries"] },
+    { "c": "Saint Kitts and Nevis", "a": "Basseterre", "d": ["Charlestown", "Sandy Point Town", "St. John's"] },
+    { "c": "Antigua and Barbuda", "a": "St. John's", "d": ["All Saints", "Codrington", "Basseterre"] },
+    { "c": "Dominica", "a": "Roseau", "d": ["Portsmouth", "Marigot", "Castries"] }
+  ]
+}

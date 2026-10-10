@@ -1,0 +1,328 @@
+{
+ "title": "First aid and emergency basics: CPR, AED and choking",
+ "note": "Per the 2025 American Heart Association guidelines: for an unresponsive adult who is not breathing normally, call for help, start chest compressions at 100 to 120 per minute and at least 2 inches (5 cm) deep, and use an AED as soon as one arrives. Agonal gasps are not normal breathing.",
+ "src": {
+  "t": "American Heart Association 2025 Guidelines, Part 7: Adult Basic Life Support",
+  "u": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+ },
+ "items": [
+  {
+   "c": "First check on finding someone collapsed",
+   "a": "That the scene is safe",
+   "d": [
+    "The person's blood pressure",
+    "The person's medical history"
+   ]
+  },
+  {
+   "c": "Agonal breathing",
+   "a": "Slow, irregular gasps that do not ventilate",
+   "d": [
+    "Normal quiet breathing during sleep",
+    "Rapid breathing after exercise"
+   ]
+  },
+  {
+   "c": "Unresponsive adult with only agonal gasps",
+   "a": "Treat as cardiac arrest and start CPR",
+   "d": [
+    "Wait to see if breathing improves",
+    "Place in the recovery position and leave"
+   ]
+  },
+  {
+   "c": "First link in the AHA chain of survival",
+   "a": "Recognize cardiac arrest and activate emergency response",
+   "d": [
+    "Rapid defibrillation",
+    "Post-cardiac arrest care"
+   ]
+  },
+  {
+   "c": "Chain of survival link right after early CPR",
+   "a": "Rapid defibrillation",
+   "d": [
+    "Recovery",
+    "Advanced resuscitation"
+   ]
+  },
+  {
+   "c": "Chain of survival link done by EMS and hospital teams",
+   "a": "Advanced resuscitation",
+   "d": [
+    "Recognition and activation",
+    "Early CPR by bystanders"
+   ]
+  },
+  {
+   "c": "Final link in the AHA chain of survival",
+   "a": "Recovery, including rehabilitation and support",
+   "d": [
+    "Rapid defibrillation",
+    "Calling emergency services"
+   ]
+  },
+  {
+   "c": "Number of links in the 2025 AHA chain of survival",
+   "a": "6",
+   "d": [
+    "4",
+    "9"
+   ]
+  },
+  {
+   "c": "Immediate CPR can raise cardiac arrest survival by",
+   "a": "About two to three times",
+   "d": [
+    "About 1 percent",
+    "About twenty times"
+   ]
+  },
+  {
+   "c": "Adult chest compression rate",
+   "a": "100 to 120 per minute",
+   "d": [
+    "60 to 80 per minute",
+    "140 to 160 per minute"
+   ]
+  },
+  {
+   "c": "Adult chest compression depth",
+   "a": "At least 2 inches (5 cm)",
+   "d": [
+    "About 1 inch (2.5 cm)",
+    "At least 4 inches (10 cm)"
+   ]
+  },
+  {
+   "c": "Hand position for adult compressions",
+   "a": "Heel of hand on the center of the chest, lower half of breastbone",
+   "d": [
+    "Fingertips on the upper breastbone",
+    "Heel of hand over the left ribs"
+   ]
+  },
+  {
+   "c": "Between compressions, rescuers should",
+   "a": "Let the chest recoil fully, without leaning on it",
+   "d": [
+    "Keep steady pressure on the chest",
+    "Pause for 10 seconds each time"
+   ]
+  },
+  {
+   "c": "Adult compression-to-breath ratio (no advanced airway)",
+   "a": "30 compressions to 2 breaths",
+   "d": [
+    "15 compressions to 1 breath",
+    "5 compressions to 1 breath"
+   ]
+  },
+  {
+   "c": "Bystander untrained or unwilling to give breaths",
+   "a": "Give compression-only (Hands-Only) CPR",
+   "d": [
+    "Give breaths only",
+    "Wait for EMS before doing anything"
+   ]
+  },
+  {
+   "c": "Two-rescuer ratio for child or infant CPR",
+   "a": "15 compressions to 2 breaths",
+   "d": [
+    "30 compressions to 1 breath",
+    "5 compressions to 2 breaths"
+   ]
+  },
+  {
+   "c": "Child compression depth",
+   "a": "About 2 inches (5 cm), a third of chest depth",
+   "d": [
+    "About 4 inches (10 cm)",
+    "About half an inch (1 cm)"
+   ]
+  },
+  {
+   "c": "Infant compression depth",
+   "a": "About 1.5 inches (4 cm), a third of chest depth",
+   "d": [
+    "About 3 inches (8 cm)",
+    "About a quarter inch (0.6 cm)"
+   ]
+  },
+  {
+   "c": "Infant compression methods (2025 AHA)",
+   "a": "Two thumbs encircling the chest, or heel of one hand",
+   "d": [
+    "Two fingers only",
+    "Both palms stacked on the abdomen"
+   ]
+  },
+  {
+   "c": "Infant CPR technique dropped in 2025 (AHA)",
+   "a": "Two-finger compressions",
+   "d": [
+    "Two-thumb encircling compressions",
+    "Heel-of-one-hand compressions"
+   ]
+  },
+  {
+   "c": "AED",
+   "a": "Device that analyzes heart rhythm and shocks if needed",
+   "d": [
+    "Device that measures blood oxygen",
+    "Device that delivers rescue breaths"
+   ]
+  },
+  {
+   "c": "When to use an AED on a person in cardiac arrest",
+   "a": "As soon as one is available",
+   "d": [
+    "Only after 10 minutes of CPR",
+    "Only if a doctor is present"
+   ]
+  },
+  {
+   "c": "While an AED analyzes and shocks",
+   "a": "No one touches the person",
+   "d": [
+    "Keep doing compressions",
+    "Hold the person's hand"
+   ]
+  },
+  {
+   "c": "Right after an AED delivers a shock",
+   "a": "Resume chest compressions immediately",
+   "d": [
+    "Check the pulse for a full minute",
+    "Remove the pads"
+   ]
+  },
+  {
+   "c": "Accepted AED pad positions",
+   "a": "Anterolateral or anteroposterior on bare chest",
+   "d": [
+    "Both pads on the back",
+    "One pad on each wrist"
+   ]
+  },
+  {
+   "c": "Sign of severe choking in a conscious person",
+   "a": "Cannot speak, cough or breathe",
+   "d": [
+    "Coughing forcefully",
+    "Talking in full sentences"
+   ]
+  },
+  {
+   "c": "Choking adult who can still cough forcefully",
+   "a": "Encourage coughing and stay with them",
+   "d": [
+    "Start abdominal thrusts at once",
+    "Do a blind finger sweep"
+   ]
+  },
+  {
+   "c": "Severe choking in a conscious adult (2025 AHA)",
+   "a": "Cycles of 5 back blows, then 5 abdominal thrusts",
+   "d": [
+    "Abdominal thrusts only, never back blows",
+    "Chest compressions while standing"
+   ]
+  },
+  {
+   "c": "Where the fist goes for abdominal thrusts",
+   "a": "Just above the navel, well below the breastbone",
+   "d": [
+    "On the lower breastbone",
+    "Below the navel, near the hips"
+   ]
+  },
+  {
+   "c": "Severe choking in an infant",
+   "a": "Cycles of 5 back blows and 5 chest thrusts",
+   "d": [
+    "Cycles of 5 abdominal thrusts",
+    "Turning the infant upside down and shaking"
+   ]
+  },
+  {
+   "c": "Blind finger sweeps for choking",
+   "a": "Should not be done",
+   "d": [
+    "Should be done first",
+    "Should replace back blows"
+   ]
+  },
+  {
+   "c": "A choking person becomes unresponsive",
+   "a": "Start CPR and look in the mouth before breaths",
+   "d": [
+    "Keep giving abdominal thrusts standing",
+    "Wait for them to wake up"
+   ]
+  },
+  {
+   "c": "Recovery position",
+   "a": "On the side, to keep the airway open and let fluids drain",
+   "d": [
+    "Flat on the back with legs raised",
+    "Face down with arms under the chest"
+   ]
+  },
+  {
+   "c": "Who belongs in the recovery position",
+   "a": "An unresponsive person who is breathing normally",
+   "d": [
+    "A person in cardiac arrest",
+    "A responsive person who is choking"
+   ]
+  },
+  {
+   "c": "Suspected opioid overdose with respiratory arrest",
+   "a": "Give naloxone if available and support breathing or CPR",
+   "d": [
+    "Give caffeine and wait",
+    "Place in a cold shower"
+   ]
+  }
+ ],
+ "read": {
+  "title": "Why compressions come first",
+  "text": [
+   "When the heart stops pumping, blood stops carrying oxygen to the brain, and brain cells begin to suffer within minutes. Chest compressions keep a small flow of oxygenated blood moving to the brain and heart until a shock or advanced care can restore a rhythm. That is why the American Heart Association stresses early, high-quality compressions: pushing hard and fast, at 100 to 120 per minute and at least 2 inches deep in an adult, letting the chest recoil fully, and keeping pauses as short as possible.",
+   "An unresponsive adult who is not breathing normally should be treated as being in cardiac arrest. Slow, irregular gasping, called agonal breathing, is common in the first minutes and does not move enough air, so it should never delay CPR.",
+   "Many cardiac arrests begin with a chaotic rhythm that an automated external defibrillator can correct. The AED analyzes the rhythm itself and tells the rescuer what to do, so anyone can use it. The rescuer applies the pads, stands clear while it analyzes and shocks, and resumes compressions right away. The chain of survival links these steps: recognition and a call for help, early CPR, rapid defibrillation, advanced care, post-arrest care and recovery."
+  ],
+  "q": [
+   {
+    "q": "What is the main purpose of chest compressions?",
+    "o": [
+     "To restart the heart by themselves",
+     "To keep oxygenated blood flowing to the brain and heart",
+     "To clear the airway",
+     "To measure the pulse"
+    ],
+    "k": 1
+   },
+   {
+    "q": "How should a rescuer treat agonal gasping in an unresponsive adult?",
+    "o": [
+     "As a sign of cardiac arrest; begin CPR",
+     "As normal breathing",
+     "As a reason to wait"
+    ],
+    "k": 0
+   },
+   {
+    "q": "What should a rescuer do right after an AED shock?",
+    "o": [
+     "Remove the pads",
+     "Wait two minutes",
+     "Resume compressions"
+    ],
+    "k": 2
+   }
+  ]
+ }
+}

@@ -1,0 +1,373 @@
+{
+  "title": "Prepositions and their cases",
+  "note": "Each preposition takes a case, and some change meaning with the case: διά + genitive 'through', διά + accusative 'because of'. A final vowel drops before a vowel (δι’ αὐτοῦ, ἀπ’ ἀρχῆς), and π, τ become φ, θ before a rough breathing (ἀφ’ ἡμῶν, μεθ’ ἡμῶν). ἐκ becomes ἐξ before a vowel.",
+  "src": {
+    "t": "Perseus Digital Library (Smyth, Greek Grammar: prepositions)",
+    "u": "https://www.perseus.tufts.edu/"
+  },
+  "items": [
+    {
+      "c": "ἐν + dative",
+      "a": "in, among",
+      "d": [
+        "into, to",
+        "out of, from"
+      ],
+      "ex": "ἐν τῇ οἰκίᾳ",
+      "exT": "in the house",
+      "r": "en",
+      "say": "ἐν"
+    },
+    {
+      "c": "εἰς + accusative",
+      "a": "into, to",
+      "d": [
+        "in, among",
+        "away from"
+      ],
+      "ex": "εἰς τὴν πόλιν",
+      "exT": "into the city",
+      "r": "eis",
+      "say": "εἰς"
+    },
+    {
+      "c": "ἐκ (ἐξ) + genitive",
+      "a": "out of, from",
+      "d": [
+        "into, to",
+        "toward; with"
+      ],
+      "ex": "ἐκ τῆς θαλάσσης",
+      "exT": "out of the sea",
+      "r": "ek (ex)",
+      "say": "ἐκ (ἐξ)"
+    },
+    {
+      "c": "ἀπό + genitive",
+      "a": "from, away from",
+      "d": [
+        "toward; with",
+        "under"
+      ],
+      "ex": "ἀπὸ τῆς γῆς",
+      "exT": "from the earth",
+      "r": "apo",
+      "say": "ἀπό"
+    },
+    {
+      "c": "πρός + accusative",
+      "a": "to, toward; with",
+      "d": [
+        "away from",
+        "against"
+      ],
+      "ex": "πρὸς τὸν θεόν",
+      "exT": "with God; toward God",
+      "r": "pros",
+      "say": "πρός"
+    },
+    {
+      "c": "διά + genitive",
+      "a": "through",
+      "d": [
+        "because of",
+        "around"
+      ],
+      "r": "dia",
+      "say": "διά",
+      "ex": "διὰ τῆς πύλης",
+      "exT": "through the gate"
+    },
+    {
+      "c": "διά + accusative",
+      "a": "because of, for the sake of",
+      "d": [
+        "through",
+        "instead of"
+      ],
+      "r": "dia",
+      "say": "διά"
+    },
+    {
+      "c": "μετά + genitive",
+      "a": "with",
+      "d": [
+        "after",
+        "against"
+      ],
+      "ex": "μετὰ τοῦ Ἰησοῦ",
+      "exT": "with Jesus",
+      "r": "meta",
+      "say": "μετά"
+    },
+    {
+      "c": "μετά + accusative",
+      "a": "after",
+      "d": [
+        "with",
+        "before"
+      ],
+      "ex": "μετὰ τρεῖς ἡμέρας",
+      "exT": "after three days",
+      "r": "meta",
+      "say": "μετά"
+    },
+    {
+      "c": "κατά + genitive",
+      "a": "against; down from",
+      "d": [
+        "according to; throughout",
+        "on behalf of"
+      ],
+      "r": "kata",
+      "say": "κατά"
+    },
+    {
+      "c": "κατά + accusative",
+      "a": "according to; throughout",
+      "d": [
+        "against; down from",
+        "beside; in the presence of"
+      ],
+      "ex": "κατὰ Ἰωάννην",
+      "exT": "according to John",
+      "r": "kata",
+      "say": "κατά"
+    },
+    {
+      "c": "περί + genitive",
+      "a": "about, concerning",
+      "d": [
+        "around (a place)",
+        "instead of"
+      ],
+      "r": "peri",
+      "say": "περί",
+      "ex": "περὶ τοῦ Ἰησοῦ",
+      "exT": "about Jesus"
+    },
+    {
+      "c": "περί + accusative",
+      "a": "around (a place or time)",
+      "d": [
+        "about, concerning",
+        "under"
+      ],
+      "r": "peri",
+      "say": "περί"
+    },
+    {
+      "c": "ὑπό + genitive",
+      "a": "by (the agent of a passive verb)",
+      "d": [
+        "under (a place)",
+        "above, beyond"
+      ],
+      "r": "hypo",
+      "say": "ὑπό",
+      "ex": "ὑπὸ τοῦ κυρίου",
+      "exT": "by the Lord"
+    },
+    {
+      "c": "ὑπό + accusative",
+      "a": "under",
+      "d": [
+        "by (the agent of a passive verb)",
+        "beside"
+      ],
+      "r": "hypo",
+      "say": "ὑπό"
+    },
+    {
+      "c": "ὑπέρ + genitive",
+      "a": "on behalf of, for",
+      "d": [
+        "above, beyond",
+        "against"
+      ],
+      "ex": "ὑπὲρ ἡμῶν",
+      "exT": "on our behalf",
+      "r": "hyper",
+      "say": "ὑπέρ"
+    },
+    {
+      "c": "ὑπέρ + accusative",
+      "a": "above, beyond",
+      "d": [
+        "on behalf of, for",
+        "under"
+      ],
+      "r": "hyper",
+      "say": "ὑπέρ"
+    },
+    {
+      "c": "παρά + genitive",
+      "a": "from (the side of a person)",
+      "d": [
+        "beside, in the presence of",
+        "contrary to"
+      ],
+      "r": "para",
+      "say": "παρά"
+    },
+    {
+      "c": "παρά + dative",
+      "a": "beside, in the presence of",
+      "d": [
+        "from (the side of a person)",
+        "after"
+      ],
+      "r": "para",
+      "say": "παρά"
+    },
+    {
+      "c": "παρά + accusative",
+      "a": "alongside; contrary to",
+      "d": [
+        "from (the side of a person)",
+        "on behalf of"
+      ],
+      "r": "para",
+      "say": "παρά"
+    },
+    {
+      "c": "ἐπί + genitive",
+      "a": "on, upon; in the time of",
+      "d": [
+        "under; below",
+        "because of"
+      ],
+      "r": "epi",
+      "say": "ἐπί"
+    },
+    {
+      "c": "ἐπί + accusative",
+      "a": "onto, to; against",
+      "d": [
+        "out of, from",
+        "instead of"
+      ],
+      "r": "epi",
+      "say": "ἐπί",
+      "ex": "ἐπὶ τὴν γῆν",
+      "exT": "onto the earth"
+    },
+    {
+      "c": "σύν + dative",
+      "a": "with, together with",
+      "d": [
+        "without, apart from",
+        "after"
+      ],
+      "r": "syn",
+      "say": "σύν",
+      "ex": "σὺν τοῖς μαθηταῖς",
+      "exT": "with the disciples"
+    },
+    {
+      "c": "πρό + genitive",
+      "a": "before (in time or place)",
+      "d": [
+        "after",
+        "under"
+      ],
+      "r": "pro",
+      "say": "πρό",
+      "ex": "πρὸ τῆς ἑορτῆς",
+      "exT": "before the feast"
+    },
+    {
+      "c": "ἀντί + genitive",
+      "a": "instead of, in place of",
+      "d": [
+        "on behalf of, for",
+        "around"
+      ],
+      "r": "anti",
+      "say": "ἀντί"
+    },
+    {
+      "c": "ἐνώπιον + genitive",
+      "a": "before, in the sight of",
+      "d": [
+        "behind, after",
+        "without, apart from"
+      ],
+      "r": "enōpion",
+      "say": "ἐνώπιον",
+      "ex": "ἐνώπιον τοῦ θεοῦ",
+      "exT": "before God"
+    },
+    {
+      "c": "χωρίς + genitive",
+      "a": "without, apart from",
+      "d": [
+        "with, together with",
+        "before, in the sight of"
+      ],
+      "r": "chōris",
+      "say": "χωρίς"
+    },
+    {
+      "c": "εἰς τὴν ___ (into the city; πόλις)",
+      "a": "πόλιν",
+      "d": [
+        "πόλει",
+        "πόλεως"
+      ]
+    },
+    {
+      "c": "ἐκ τοῦ ___ (out of heaven; οὐρανός)",
+      "a": "οὐρανοῦ",
+      "d": [
+        "οὐρανόν",
+        "οὐρανῷ"
+      ]
+    },
+    {
+      "c": "ἐν τῷ ___ (in the house; οἶκος)",
+      "a": "οἴκῳ",
+      "d": [
+        "οἶκον",
+        "οἴκου"
+      ]
+    },
+    {
+      "c": "μετὰ τῶν ___ (with the disciples; μαθητής)",
+      "a": "μαθητῶν",
+      "d": [
+        "μαθητάς",
+        "μαθηταῖς"
+      ]
+    },
+    {
+      "c": "δι’ αὐτοῦ",
+      "a": "through him",
+      "d": [
+        "because of him",
+        "with him"
+      ],
+      "r": "di' autou"
+    },
+    {
+      "c": "ἀπ’ ἀρχῆς",
+      "a": "from the beginning",
+      "d": [
+        "in the beginning",
+        "before the beginning"
+      ],
+      "r": "ap' archēs"
+    },
+    {
+      "c": "μεθ’ ἡμῶν",
+      "a": "with us",
+      "d": [
+        "after us",
+        "against us"
+      ],
+      "ex": "μεθ’ ἡμῶν ὁ θεός",
+      "exT": "God with us",
+      "r": "meth' hēmōn"
+    }
+  ]
+}

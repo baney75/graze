@@ -1,0 +1,383 @@
+{
+  "title": "New Testament core: verbs",
+  "note": "Each of these verbs occurs 50 times or more in the New Testament. Many are compounds: a preposition joined to a simple verb, as ἔρχομαι 'I go' gives εἰσ-έρχομαι 'I go in', ἐξ-έρχομαι 'I go out', ἀπ-έρχομαι 'I go away' and προσ-έρχομαι 'I come to'. Learn the simple verb and the prepositions, and the compounds become easy to read.",
+  "src": {
+    "t": "SBL Greek New Testament (free edition)",
+    "u": "https://sblgnt.com/"
+  },
+  "items": [
+    {
+      "c": "θέλω",
+      "a": "I want, wish, will",
+      "d": [
+        "I am about to",
+        "I am able, can"
+      ],
+      "ex": "θέλω, καθαρίσθητι.",
+      "exT": "I am willing; be clean.",
+      "r": "thelō"
+    },
+    {
+      "c": "οἶδα",
+      "a": "I know (perfect form, present meaning)",
+      "d": [
+        "I see (present form)",
+        "I have (perfect form)"
+      ],
+      "ex": "οὐκ οἶδα.",
+      "exT": "I do not know.",
+      "r": "oida"
+    },
+    {
+      "c": "μέλλω",
+      "a": "I am about to, intend to",
+      "d": [
+        "I want, wish, will",
+        "I remain, stay"
+      ],
+      "r": "mellō",
+      "ex": "μέλλει ἔρχεσθαι.",
+      "exT": "He is about to come."
+    },
+    {
+      "c": "δεῖ",
+      "a": "it is necessary, one must",
+      "d": [
+        "it is possible, one can",
+        "it is permitted, one may"
+      ],
+      "ex": "δεῖ ὑμᾶς γεννηθῆναι ἄνωθεν.",
+      "exT": "You must be born again (from above).",
+      "r": "dei"
+    },
+    {
+      "c": "ἀναβαίνω",
+      "a": "I go up, ascend",
+      "d": [
+        "I go down, descend",
+        "I go away, depart"
+      ],
+      "ex": "ἀναβαίνομεν εἰς Ἱεροσόλυμα.",
+      "exT": "We are going up to Jerusalem.",
+      "r": "anabainō"
+    },
+    {
+      "c": "καταβαίνω",
+      "a": "I go down, descend",
+      "d": [
+        "I go up, ascend",
+        "I fall"
+      ],
+      "r": "katabainō",
+      "ex": "ὁ καταβαίνων ἐκ τοῦ οὐρανοῦ",
+      "exT": "the one who comes down from heaven"
+    },
+    {
+      "c": "ἀπέρχομαι",
+      "a": "I go away, depart",
+      "d": [
+        "I come to, approach",
+        "I go in, enter"
+      ],
+      "r": "aperchomai"
+    },
+    {
+      "c": "εἰσέρχομαι",
+      "a": "I go in, enter",
+      "d": [
+        "I go out, come out",
+        "I go away, depart"
+      ],
+      "r": "eiserchomai",
+      "ex": "εἰσέρχεται εἰς τὴν οἰκίαν.",
+      "exT": "He goes into the house."
+    },
+    {
+      "c": "ἐξέρχομαι",
+      "a": "I go out, come out",
+      "d": [
+        "I go in, enter",
+        "I go up, ascend"
+      ],
+      "r": "exerchomai",
+      "ex": "ἐξέρχεται ἐκ τῆς πόλεως.",
+      "exT": "He goes out of the city."
+    },
+    {
+      "c": "προσέρχομαι + dative",
+      "a": "I come to, approach",
+      "d": [
+        "I go away, depart",
+        "I go out, come out"
+      ],
+      "r": "proserchomai",
+      "say": "προσέρχομαι"
+    },
+    {
+      "c": "ὑπάγω",
+      "a": "I go off, go away",
+      "d": [
+        "I gather together",
+        "I come to, approach"
+      ],
+      "ex": "ὕπαγε εἰς εἰρήνην.",
+      "exT": "Go in peace.",
+      "r": "hypagō"
+    },
+    {
+      "c": "ἀποστέλλω",
+      "a": "I send out (on a mission)",
+      "d": [
+        "I throw, cast",
+        "I hand over, betray"
+      ],
+      "r": "apostellō",
+      "ex": "ἐγὼ ἀποστέλλω ὑμᾶς.",
+      "exT": "I am sending you out."
+    },
+    {
+      "c": "βάλλω",
+      "a": "I throw, cast, put",
+      "d": [
+        "I send out (on a mission)",
+        "I lift, take away"
+      ],
+      "r": "ballō"
+    },
+    {
+      "c": "ἐκβάλλω",
+      "a": "I cast out, drive out",
+      "d": [
+        "I gather together",
+        "I raise up, wake"
+      ],
+      "ex": "ἐκβάλλει τὰ δαιμόνια.",
+      "exT": "He casts out the demons.",
+      "r": "ekballō"
+    },
+    {
+      "c": "ἐγείρω",
+      "a": "I raise up, wake",
+      "d": [
+        "I cast out, drive out",
+        "I lift, take away"
+      ],
+      "r": "egeirō",
+      "ex": "ἔγειρε.",
+      "exT": "Get up!"
+    },
+    {
+      "c": "ἀνίστημι",
+      "a": "I raise; (intransitive) I stand up, rise",
+      "d": [
+        "I sit; (intransitive) I lie down",
+        "I fall; (intransitive) I stumble"
+      ],
+      "r": "anistēmi",
+      "ex": "ἀναστήσω αὐτὸν τῇ ἐσχάτῃ ἡμέρᾳ.",
+      "exT": "I will raise him up on the last day."
+    },
+    {
+      "c": "αἴρω",
+      "a": "I lift, take up, take away",
+      "d": [
+        "I throw, cast, put",
+        "I open"
+      ],
+      "ex": "ὁ αἴρων τὴν ἁμαρτίαν τοῦ κόσμου",
+      "exT": "who takes away the sin of the world",
+      "r": "airō"
+    },
+    {
+      "c": "ἀποκτείνω",
+      "a": "I kill",
+      "d": [
+        "I die",
+        "I destroy"
+      ],
+      "r": "apokteinō"
+    },
+    {
+      "c": "ἀπόλλυμι",
+      "a": "I destroy, lose; (middle) I perish",
+      "d": [
+        "I kill; (middle) I fight",
+        "I free; (middle) I escape"
+      ],
+      "r": "apollymi"
+    },
+    {
+      "c": "παραδίδωμι",
+      "a": "I hand over, betray",
+      "d": [
+        "I send out (on a mission)",
+        "I give back, repay"
+      ],
+      "r": "paradidōmi"
+    },
+    {
+      "c": "κάθημαι",
+      "a": "I sit",
+      "d": [
+        "I stand",
+        "I lie down"
+      ],
+      "r": "kathēmai"
+    },
+    {
+      "c": "κηρύσσω",
+      "a": "I proclaim, preach",
+      "d": [
+        "I cry out",
+        "I baptize"
+      ],
+      "r": "kēryssō",
+      "ex": "κηρύσσει τὸ εὐαγγέλιον.",
+      "exT": "He preaches the gospel."
+    },
+    {
+      "c": "κράζω",
+      "a": "I cry out, shout",
+      "d": [
+        "I proclaim, preach",
+        "I weep"
+      ],
+      "r": "krazō"
+    },
+    {
+      "c": "πίνω",
+      "a": "I drink",
+      "d": [
+        "I eat",
+        "I wash"
+      ],
+      "r": "pinō",
+      "ex": "Πίετε ἐξ αὐτοῦ πάντες.",
+      "exT": "Drink from it, all of you."
+    },
+    {
+      "c": "πίπτω",
+      "a": "I fall",
+      "d": [
+        "I sit",
+        "I throw, cast"
+      ],
+      "r": "piptō"
+    },
+    {
+      "c": "προσκυνέω",
+      "a": "I worship, bow down to",
+      "d": [
+        "I pray",
+        "I glorify"
+      ],
+      "r": "proskyneō",
+      "ex": "ἡμεῖς προσκυνοῦμεν ὃ οἴδαμεν.",
+      "exT": "We worship what we know."
+    },
+    {
+      "c": "χαίρω",
+      "a": "I rejoice, am glad",
+      "d": [
+        "I weep, mourn",
+        "I fear, am afraid"
+      ],
+      "ex": "χαίρετε ἐν κυρίῳ πάντοτε.",
+      "exT": "Rejoice in the Lord always.",
+      "r": "chairō"
+    },
+    {
+      "c": "δοξάζω",
+      "a": "I glorify, praise",
+      "d": [
+        "I worship, bow down to",
+        "I think, suppose"
+      ],
+      "r": "doxazō"
+    },
+    {
+      "c": "βαπτίζω",
+      "a": "I baptize, dip, wash",
+      "d": [
+        "I proclaim, preach",
+        "I bless"
+      ],
+      "r": "baptizō",
+      "ex": "Ἐγὼ βαπτίζω ἐν ὕδατι.",
+      "exT": "I baptize with water."
+    },
+    {
+      "c": "ἀνοίγω",
+      "a": "I open",
+      "d": [
+        "I close",
+        "I lift, take away"
+      ],
+      "r": "anoigō"
+    },
+    {
+      "c": "ἄρχομαι",
+      "a": "I begin",
+      "d": [
+        "I rule",
+        "I finish"
+      ],
+      "r": "archomai"
+    },
+    {
+      "c": "θεωρέω",
+      "a": "I look at, watch, observe",
+      "d": [
+        "I worship, bow down to",
+        "I think, suppose"
+      ],
+      "r": "theōreō"
+    },
+    {
+      "c": "συνάγω",
+      "a": "I gather together",
+      "d": [
+        "I scatter",
+        "I go off, go away"
+      ],
+      "r": "synagō"
+    }
+  ],
+  "read": {
+    "title": "On the mountain",
+    "text": [
+      "Ὁ Ἰησοῦς βλέπει τοὺς ὄχλους καὶ ἀναβαίνει εἰς τὸ ὄρος. ἐκεῖ κάθηται, καὶ οἱ μαθηταὶ αὐτοῦ προσέρχονται αὐτῷ. ὁ δὲ ἀνοίγει τὸ στόμα αὐτοῦ καὶ διδάσκει αὐτοὺς λέγων· Μακάριοι οἱ καθαροὶ τῇ καρδίᾳ, ὅτι αὐτοὶ τὸν θεὸν ὄψονται.",
+      "Τότε καταβαίνει ἀπὸ τοῦ ὄρους, καὶ ὄχλοι πολλοὶ ἀκολουθοῦσιν αὐτῷ. ἄνθρωπος δὲ τυφλὸς κάθηται παρὰ τὴν ὁδὸν καὶ κράζει· Κύριε, θέλω βλέπειν.",
+      "Ὁ δὲ Ἰησοῦς ἅπτεται τῶν ὀφθαλμῶν αὐτοῦ, καὶ εὐθὺς ὁ τυφλὸς βλέπει. καὶ ὁ ἄνθρωπος χαίρει καὶ δοξάζει τὸν θεόν."
+    ],
+    "q": [
+      {
+        "q": "Where does Jesus sit down to teach?",
+        "o": [
+          "on the mountain",
+          "in the synagogue",
+          "by the sea"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does the blind man cry out?",
+        "o": [
+          "Where are you going?",
+          "Lord, I want to see.",
+          "Teacher, what shall I do?"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What does the man do after he can see?",
+        "o": [
+          "He goes home.",
+          "He sits by the road.",
+          "He rejoices and glorifies God."
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

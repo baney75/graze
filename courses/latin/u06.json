@@ -1,0 +1,304 @@
+{
+  "title": "Second declension: neuter nouns",
+  "note": "Second-declension neuters end in -um, genitive -i: bellum, belli (n). Every neuter noun uses the same form for nominative and accusative, and its nominative plural ends in -a: bella, wars; dona, gifts. Some nouns exist only in the plural, such as arma (weapons) and castra (camp).",
+  "src": {
+    "t": "Allen and Greenough, Case Endings of the Five Declensions",
+    "u": "https://dcc.dickinson.edu/grammar/latin/case-endings-five-declensions"
+  },
+  "items": [
+    {
+      "c": "bellum",
+      "a": "war",
+      "d": [
+        "peace",
+        "battle line"
+      ],
+      "ex": "Bellum est malum.",
+      "exT": "War is bad."
+    },
+    {
+      "c": "verbum",
+      "a": "word",
+      "d": [
+        "name",
+        "book"
+      ]
+    },
+    {
+      "c": "donum (n)",
+      "a": "gift",
+      "d": [
+        "reward",
+        "temple"
+      ]
+    },
+    {
+      "c": "caelum (n)",
+      "a": "sky, heaven",
+      "d": [
+        "sea",
+        "earth"
+      ],
+      "ex": "Stellae sunt in caelo.",
+      "exT": "The stars are in the sky."
+    },
+    {
+      "c": "regnum (n)",
+      "a": "kingdom; royal power",
+      "d": [
+        "king",
+        "law"
+      ]
+    },
+    {
+      "c": "oppidum (n)",
+      "a": "town",
+      "d": [
+        "temple",
+        "camp"
+      ]
+    },
+    {
+      "c": "templum (n)",
+      "a": "temple",
+      "d": [
+        "town",
+        "forum"
+      ],
+      "ex": "Templum deae est pulchrum.",
+      "exT": "The goddess's temple is beautiful."
+    },
+    {
+      "c": "consilium (n)",
+      "a": "plan, advice",
+      "d": [
+        "help, aid",
+        "danger, risk"
+      ]
+    },
+    {
+      "c": "auxilium (n)",
+      "a": "help, aid",
+      "d": [
+        "plan, advice",
+        "reward"
+      ]
+    },
+    {
+      "c": "periculum (n)",
+      "a": "danger",
+      "d": [
+        "help",
+        "war"
+      ],
+      "ex": "Periculum est magnum.",
+      "exT": "The danger is great."
+    },
+    {
+      "c": "forum (n)",
+      "a": "marketplace, forum",
+      "d": [
+        "temple",
+        "town wall"
+      ]
+    },
+    {
+      "c": "signum (n)",
+      "a": "sign, signal",
+      "d": [
+        "word",
+        "gift"
+      ]
+    },
+    {
+      "c": "praemium (n)",
+      "a": "reward, prize",
+      "d": [
+        "punishment",
+        "duty"
+      ]
+    },
+    {
+      "c": "imperium (n)",
+      "a": "command, power, empire",
+      "d": [
+        "duty, task",
+        "danger"
+      ],
+      "ex": "imperium Romanum",
+      "exT": "the Roman Empire"
+    },
+    {
+      "c": "studium (n)",
+      "a": "eagerness, study",
+      "d": [
+        "leisure",
+        "duty"
+      ]
+    },
+    {
+      "c": "officium (n)",
+      "a": "duty",
+      "d": [
+        "leisure",
+        "reward"
+      ]
+    },
+    {
+      "c": "gaudium (n)",
+      "a": "joy",
+      "d": [
+        "anger",
+        "fear"
+      ]
+    },
+    {
+      "c": "negotium (n)",
+      "a": "business, task",
+      "d": [
+        "leisure, free time",
+        "joy"
+      ]
+    },
+    {
+      "c": "otium (n)",
+      "a": "leisure, free time",
+      "d": [
+        "business, work",
+        "duty"
+      ],
+      "ex": "Otium cum dignitate",
+      "exT": "Leisure with dignity (after Cicero)"
+    },
+    {
+      "c": "exemplum (n)",
+      "a": "example",
+      "d": [
+        "sign",
+        "reward"
+      ]
+    },
+    {
+      "c": "arma (n pl)",
+      "a": "weapons, arms",
+      "d": [
+        "camp",
+        "army"
+      ],
+      "ex": "Arma virumque cano.",
+      "exT": "I sing of arms and the man. (Vergil)"
+    },
+    {
+      "c": "castra (n pl)",
+      "a": "(military) camp",
+      "d": [
+        "weapons",
+        "town"
+      ]
+    },
+    {
+      "c": "aurum (n)",
+      "a": "gold",
+      "d": [
+        "silver",
+        "iron"
+      ]
+    },
+    {
+      "c": "ferrum (n)",
+      "a": "iron",
+      "d": [
+        "gold",
+        "bronze"
+      ]
+    },
+    {
+      "c": "bellum, ___ (genitive singular)",
+      "a": "belli",
+      "d": [
+        "bello",
+        "bella"
+      ],
+      "ex": "periculum belli",
+      "exT": "the danger of war"
+    },
+    {
+      "c": "multa ___ (donum, plural)",
+      "a": "dona",
+      "d": [
+        "doni",
+        "donos"
+      ],
+      "ex": "multa dona",
+      "exT": "many gifts"
+    },
+    {
+      "c": "Nauta ___ amat. (aurum)",
+      "a": "aurum",
+      "d": [
+        "auri",
+        "auro"
+      ],
+      "ex": "Nauta aurum amat.",
+      "exT": "The sailor loves gold."
+    },
+    {
+      "c": "templum ___ (the god's temple; deus)",
+      "a": "dei",
+      "d": [
+        "deo",
+        "deum"
+      ],
+      "ex": "templum dei",
+      "exT": "the temple of the god"
+    },
+    {
+      "c": "verba ___ (the poet's words; poeta)",
+      "a": "poetae",
+      "d": [
+        "poetam",
+        "poeta"
+      ],
+      "ex": "verba poetae",
+      "exT": "the words of the poet"
+    }
+  ],
+  "read": {
+    "title": "Oppidum in insula",
+    "text": [
+      "In insula est oppidum. In oppido sunt forum et templum. Templum est deae Minervae; in templo sunt multa dona.",
+      "Marcus est filius agricolae. Iulia est filia nautae. Marcus et Iulia sunt amici.",
+      "Sed bellum est in patria. Nauta et socii sunt in castris; arma et gladii sunt in castris. Periculum est magnum.",
+      "Consilium Iuliae est bonum: \"Auxilium est in templo deae!\" Marcus et Iulia sunt in templo."
+    ],
+    "q": [
+      {
+        "q": "What is in the town?",
+        "o": [
+          "A camp and a wall",
+          "A forum and a temple",
+          "A farmhouse and a garden"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Where is Julia's father?",
+        "o": [
+          "In the camp",
+          "In the temple",
+          "On the farm"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Where does Julia say help is?",
+        "o": [
+          "In the forum",
+          "In the camp",
+          "In the goddess's temple"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

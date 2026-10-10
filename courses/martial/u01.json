@@ -1,0 +1,279 @@
+{
+  "title": "Base, posture, balance, and leverage",
+  "note": "You stay standing while your center of gravity stays over your base of support. Posture keeps head, spine, and hips aligned so force travels through the skeleton. Kuzushi, breaking the partner's balance, comes before a throw, and a lever multiplies force when it is applied far from its pivot.",
+  "src": {
+    "t": "Kodokan Judo Institute, judo history and principles",
+    "u": "https://kdkjudo.org/doctrine/history/"
+  },
+  "items": [
+    {
+      "c": "Base of support",
+      "a": "the area enclosed by the body's contact points with the ground",
+      "d": [
+        "the strength of the legs and hips",
+        "the distance between two opponents"
+      ]
+    },
+    {
+      "c": "A wider base of support, all else equal, gives",
+      "a": "greater stability",
+      "d": [
+        "faster footwork",
+        "less resistance to pushes"
+      ]
+    },
+    {
+      "c": "You tip over when your center of gravity moves",
+      "a": "outside the base of support",
+      "d": [
+        "below the level of the hips",
+        "over the front foot"
+      ]
+    },
+    {
+      "c": "Center of gravity of a standing adult",
+      "a": "roughly at hip level, just below the navel",
+      "d": [
+        "at chest level, near the heart",
+        "at knee level"
+      ]
+    },
+    {
+      "c": "Lowering the hips in a stance usually makes you",
+      "a": "harder to topple",
+      "d": [
+        "easier to throw",
+        "taller and more upright"
+      ]
+    },
+    {
+      "c": "Trade-off of a very wide stance",
+      "a": "stable, but slower to move and turn",
+      "d": [
+        "fast, but easy to push over",
+        "no effect on movement at all"
+      ]
+    },
+    {
+      "c": "Good base, in grappling slang",
+      "a": "staying balanced and hard to sweep or topple",
+      "d": [
+        "having very strong grips",
+        "knowing many submissions"
+      ]
+    },
+    {
+      "c": "Posture, in grappling",
+      "a": "alignment of head, spine, and hips that keeps you strong",
+      "d": [
+        "the angle of the lead foot",
+        "the grip on the partner's sleeve"
+      ]
+    },
+    {
+      "c": "Why keep the head up in a grappling stance?",
+      "a": "a dropped head bends the spine and breaks posture",
+      "d": [
+        "it widens the base of support",
+        "it lengthens your reach"
+      ]
+    },
+    {
+      "c": "Kuzushi",
+      "a": "breaking the opponent's balance",
+      "d": [
+        "fitting in for a throw",
+        "falling safely"
+      ]
+    },
+    {
+      "c": "Tsukuri",
+      "a": "fitting your body into position for a technique",
+      "d": [
+        "breaking the opponent's balance",
+        "the final throwing action"
+      ]
+    },
+    {
+      "c": "Kake",
+      "a": "execution: completing the throw",
+      "d": [
+        "entry into position",
+        "breaking the balance"
+      ]
+    },
+    {
+      "c": "Classic order of the phases of a judo throw",
+      "a": "kuzushi, tsukuri, kake",
+      "d": [
+        "kake, tsukuri, kuzushi",
+        "tsukuri, kake, kuzushi"
+      ]
+    },
+    {
+      "c": "Happo no kuzushi",
+      "a": "off-balancing in eight directions",
+      "d": [
+        "eight ways to fall safely",
+        "eight basic gripping styles"
+      ]
+    },
+    {
+      "c": "Why break balance before throwing?",
+      "a": "an off-balance body takes far less force to move",
+      "d": [
+        "it scores a point by itself",
+        "it makes the opponent heavier"
+      ]
+    },
+    {
+      "c": "Off-balancing direction for most forward throws",
+      "a": "pulling the partner forward onto the toes",
+      "d": [
+        "pushing the partner back onto the heels",
+        "pulling the partner straight down"
+      ]
+    },
+    {
+      "c": "Rear reaping throws need the partner's weight",
+      "a": "back on the heels",
+      "d": [
+        "forward on the toes",
+        "spread evenly on both feet"
+      ]
+    },
+    {
+      "c": "Judo idea: when pushed, pull; when pulled, push",
+      "a": "add to the partner's force instead of meeting it head-on",
+      "d": [
+        "always meet force with greater force",
+        "stay still until the partner tires"
+      ]
+    },
+    {
+      "c": "A moving body, by inertia, is",
+      "a": "easier to redirect than to stop",
+      "d": [
+        "harder to redirect than to stop",
+        "unaffected by outside forces"
+      ]
+    },
+    {
+      "c": "Lever",
+      "a": "a rigid bar that turns about a fixed pivot",
+      "d": [
+        "a joint that cannot bend",
+        "a muscle that pulls on bone"
+      ]
+    },
+    {
+      "c": "Fulcrum",
+      "a": "the pivot point a lever turns around",
+      "d": [
+        "the end where effort is applied",
+        "the load being moved"
+      ]
+    },
+    {
+      "c": "Torque",
+      "a": "turning effect: force times distance from the pivot",
+      "d": [
+        "force divided by mass",
+        "speed multiplied by time"
+      ]
+    },
+    {
+      "c": "Applying force farther from the pivot gives",
+      "a": "more turning effect for the same effort",
+      "d": [
+        "less turning effect for the same effort",
+        "no change in turning effect"
+      ]
+    },
+    {
+      "c": "Why can a joint lock control a stronger person?",
+      "a": "it pits the whole body against one isolated joint",
+      "d": [
+        "it depends on grip strength alone",
+        "it works only on tired opponents"
+      ]
+    },
+    {
+      "c": "Frame, in grappling",
+      "a": "a braced arm or forearm structure that holds space",
+      "d": [
+        "a fast sequence of strikes",
+        "a judo gripping penalty"
+      ]
+    },
+    {
+      "c": "Why build a frame with aligned bones?",
+      "a": "stacked bones bear load with little effort",
+      "d": [
+        "bones move faster than muscles",
+        "muscles cannot hold weight"
+      ]
+    },
+    {
+      "c": "Ground reaction force",
+      "a": "the push the ground returns when you push into it",
+      "d": [
+        "friction of the mat on the skin",
+        "the opponent's weight on top of you"
+      ]
+    },
+    {
+      "c": "Where does power in a punch begin?",
+      "a": "the feet and hips, driving through the body",
+      "d": [
+        "the shoulder muscles alone",
+        "the wrist snapping forward"
+      ]
+    },
+    {
+      "c": "Kinetic chain",
+      "a": "linked body segments passing force in sequence",
+      "d": [
+        "a chain of combination punches",
+        "a series of linked judo throws"
+      ]
+    }
+  ],
+  "read": {
+    "title": "How the small move the large",
+    "text": [
+      "Every standing body is a balancing act. Your center of gravity sits roughly at hip level, and you stay upright only while it remains over your base of support, the area marked out by your feet. Widen or lower your stance and you are harder to tip; stand tall on narrow feet and a small push can move you. Good posture, with head, spine, and hips in line, lets force pass through your skeleton instead of bending you.",
+      "Grappling arts turn these facts into method. Judo teaches kuzushi, breaking the partner's balance, before anything else. A person whose weight has been drawn onto the toes or rocked back onto the heels can no longer push back with full strength, so the throw that follows takes little force. Kano's students learned to add to an opponent's push or pull rather than meet it head-on.",
+      "Leverage does the rest. Torque equals force times distance from the pivot, so a grip far from the fulcrum multiplies effort. A joint lock works because it sets your whole body, used as a lever, against one isolated joint. Strength still matters, but structure and timing let it go further."
+    ],
+    "q": [
+      {
+        "q": "Why does a throw after kuzushi need little force?",
+        "o": [
+          "The opponent cannot push back with full strength",
+          "Judo rules forbid resisting a throw",
+          "The thrower's center of gravity rises"
+        ],
+        "k": 0
+      },
+      {
+        "q": "According to the reading, how does a joint lock overcome strength?",
+        "o": [
+          "By using speed instead of leverage",
+          "By setting the whole body against one joint",
+          "By keeping the base of support narrow"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What makes a stance harder to tip over?",
+        "o": [
+          "Standing tall on narrow feet",
+          "Leaning the head far forward",
+          "Widening or lowering the stance"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

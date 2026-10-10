@@ -1,0 +1,327 @@
+{
+  "title": "Brazilian jiu-jitsu: positions, sweeps, and submissions",
+  "note": "BJJ is a hierarchy of positions: guard, half guard, side control, mount, and back control. Players improve position before attacking, then finish with chokes or joint locks, and a tap ends it. IBJJF scoring rewards control held for three seconds: takedown, sweep, and knee on belly 2, guard pass 3, mount and back control 4.",
+  "src": {
+    "t": "IBJJF Rules",
+    "u": "https://ibjjf.com/rules"
+  },
+  "items": [
+    {
+      "c": "Guard, in BJJ",
+      "a": "fighting from the back while controlling with the legs",
+      "d": [
+        "pinning from on top across the chest",
+        "standing to defend a takedown"
+      ]
+    },
+    {
+      "c": "Closed guard",
+      "a": "legs locked around the opponent's waist",
+      "d": [
+        "one of the opponent's legs trapped",
+        "feet hooked inside the opponent's thighs"
+      ]
+    },
+    {
+      "c": "Open guard",
+      "a": "guard with the legs not locked, using feet and hooks",
+      "d": [
+        "guard with the ankles crossed behind the back",
+        "a pin with the chest on the chest"
+      ]
+    },
+    {
+      "c": "Half guard",
+      "a": "the bottom player traps one of the top player's legs",
+      "d": [
+        "the bottom player locks both legs around the waist",
+        "the top player sits on the chest"
+      ]
+    },
+    {
+      "c": "Butterfly guard",
+      "a": "seated guard with the feet hooked inside the thighs",
+      "d": [
+        "guard with the legs locked at the waist",
+        "guard with one leg trapped"
+      ]
+    },
+    {
+      "c": "Side control",
+      "a": "top player chest to chest, across and past the legs",
+      "d": [
+        "top player sitting astride the torso",
+        "attacker behind with both hooks in"
+      ]
+    },
+    {
+      "c": "Mount",
+      "a": "sitting astride the opponent's torso",
+      "d": [
+        "lying across the opponent's chest from the side",
+        "kneeling with one knee on the belly"
+      ]
+    },
+    {
+      "c": "Back control",
+      "a": "behind the opponent with both hooks in",
+      "d": [
+        "sitting astride the chest",
+        "trapping one leg from the bottom"
+      ]
+    },
+    {
+      "c": "Hooks, in back control",
+      "a": "heels inside the opponent's thighs",
+      "d": [
+        "hands gripping the collar",
+        "arms locked around the waist"
+      ]
+    },
+    {
+      "c": "Knee on belly",
+      "a": "a mobile top pin with one knee across the torso",
+      "d": [
+        "a guard with the knee in front",
+        "a leg lock on the knee"
+      ]
+    },
+    {
+      "c": "Guard pass",
+      "a": "getting past the legs to a controlling top position",
+      "d": [
+        "reversing from bottom to top",
+        "taking the opponent down from standing"
+      ]
+    },
+    {
+      "c": "Sweep, in BJJ",
+      "a": "reversing from guard to finish on top",
+      "d": [
+        "getting past the guard",
+        "escaping out the back door"
+      ]
+    },
+    {
+      "c": "Scissor sweep",
+      "a": "a guard sweep chopping the legs like scissors",
+      "d": [
+        "a choke with crossed hands",
+        "a pass sliding the knee through"
+      ]
+    },
+    {
+      "c": "Hip bump sweep",
+      "a": "sitting up and driving the hip into the opponent",
+      "d": [
+        "pulling the opponent down by the collar",
+        "rolling backward over the shoulder"
+      ]
+    },
+    {
+      "c": "Shrimp, or hip escape",
+      "a": "turning to the side and pushing the hips away to make space",
+      "d": [
+        "lifting the hips straight up to buck",
+        "rolling onto the stomach"
+      ]
+    },
+    {
+      "c": "Bridge, or upa",
+      "a": "driving the hips up to unbalance the top player",
+      "d": [
+        "sliding the hips away along the mat",
+        "locking the legs around the waist"
+      ]
+    },
+    {
+      "c": "Positional hierarchy idea",
+      "a": "secure better position before attacking",
+      "d": [
+        "attack submissions from any position",
+        "stay in guard as long as possible"
+      ]
+    },
+    {
+      "c": "Armbar (juji-gatame)",
+      "a": "an elbow lock straightening the arm against the hips",
+      "d": [
+        "a shoulder lock with the arm behind the back",
+        "a choke with the legs around the neck"
+      ]
+    },
+    {
+      "c": "Kimura",
+      "a": "a shoulder lock with a figure-four grip, arm bent behind",
+      "d": [
+        "an elbow lock straightening the arm",
+        "a choke from the front"
+      ]
+    },
+    {
+      "c": "Judoka the kimura is named for",
+      "a": "Masahiko Kimura",
+      "d": [
+        "Jigoro Kano",
+        "Mitsuyo Maeda"
+      ]
+    },
+    {
+      "c": "Americana",
+      "a": "a figure-four shoulder lock with the arm bent upward",
+      "d": [
+        "a straight ankle lock",
+        "a front choke on the neck"
+      ]
+    },
+    {
+      "c": "Triangle choke",
+      "a": "a strangle with the legs around the neck and one arm",
+      "d": [
+        "a choke from behind with the arm",
+        "a shoulder lock using both legs"
+      ]
+    },
+    {
+      "c": "Rear-naked choke",
+      "a": "a strangle from behind with the arm around the neck",
+      "d": [
+        "a strangle with the legs around the neck",
+        "a choke from in front, head under the arm"
+      ]
+    },
+    {
+      "c": "Guillotine",
+      "a": "a front choke with the head under the armpit",
+      "d": [
+        "a choke from behind the opponent",
+        "an elbow lock from the mount"
+      ]
+    },
+    {
+      "c": "Omoplata",
+      "a": "a shoulder lock applied with the legs",
+      "d": [
+        "a choke with the lapel",
+        "a knee lock from standing"
+      ]
+    },
+    {
+      "c": "Tapping out",
+      "a": "signaling submission by tapping the partner or mat",
+      "d": [
+        "asking the referee for a restart",
+        "claiming a point from the referee"
+      ]
+    },
+    {
+      "c": "IBJJF points for a sweep",
+      "a": "2",
+      "d": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "c": "IBJJF points for a guard pass",
+      "a": "3",
+      "d": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "c": "IBJJF points for mount",
+      "a": "4",
+      "d": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "c": "IBJJF position worth 2 points, like a sweep",
+      "a": "knee on belly",
+      "d": [
+        "mount",
+        "back control"
+      ]
+    },
+    {
+      "c": "IBJJF advantage",
+      "a": "credit for a near-score that earns no points",
+      "d": [
+        "a 1-point bonus for a takedown",
+        "a penalty for stalling"
+      ]
+    },
+    {
+      "c": "IBJJF tiebreak order after equal points",
+      "a": "advantages, then penalties, then referee decision",
+      "d": [
+        "penalties, then advantages, then overtime",
+        "referee decision, then advantages"
+      ]
+    },
+    {
+      "c": "IBJJF adult belt order",
+      "a": "white, blue, purple, brown, black",
+      "d": [
+        "white, purple, blue, brown, black",
+        "white, yellow, green, brown, black"
+      ]
+    },
+    {
+      "c": "IBJJF red-and-black (coral) belt",
+      "a": "a 7th-degree black belt",
+      "d": [
+        "a 1st-degree black belt",
+        "a 10th-degree grandmaster"
+      ]
+    },
+    {
+      "c": "IBJJF adult black belt match length",
+      "a": "10 minutes",
+      "d": [
+        "5 minutes",
+        "6 minutes"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Position before submission",
+    "text": [
+      "Brazilian jiu-jitsu is often called a game of human chess, and its board is a hierarchy of positions. On the bottom, the guard lets a player on the back control an opponent with the legs, whether locked in closed guard or working with feet and hooks in open guard. Half guard traps one leg. On top, side control pins the chest, mount sits astride the torso, and back control, with both heels hooked inside the thighs, is often the most dangerous of all.",
+      "The guiding rule is position before submission. A player on the bottom tries to sweep, reversing to the top, while the player on top tries to pass the guard and settle into side control or mount. Only from stable control do the finishing techniques, chokes and joint locks, become reliable. A tap, on the partner or the mat, ends the exchange.",
+      "IBJJF competition scoring mirrors this hierarchy. A position must be held for three seconds to score: takedowns, sweeps, and knee on belly earn 2 points, a guard pass 3, and mount or back control 4. Advantages break ties when points are equal."
+    ],
+    "q": [
+      {
+        "q": "What does a sweep accomplish?",
+        "o": [
+          "It reverses the bottom player to the top",
+          "It passes the guard",
+          "It submits the opponent"
+        ],
+        "k": 0
+      },
+      {
+        "q": "How long must a position be held to score in IBJJF rules?",
+        "o": [
+          "One second",
+          "Ten seconds",
+          "Three seconds"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Which earns more IBJJF points?",
+        "o": [
+          "A sweep",
+          "Back control",
+          "Knee on belly"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

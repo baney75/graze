@@ -1,0 +1,61 @@
+{
+  "title": "Lifespan development",
+  "note": "Development runs from conception to old age in three domains: physical, cognitive and psychosocial. Piaget saw children as active thinkers moving through four stages; Erikson described a social challenge at each stage of life. Genes and experience always work together, so 'nature or nurture' is really 'nature and nurture.'",
+  "src": { "t": "OpenStax Psychology 2e, 9.2 Lifespan Theories", "u": "https://openstax.org/books/psychology-2e/pages/9-2-lifespan-theories" },
+  "items": [
+    { "c": "Developmental psychology", "a": "Study of how people change from conception to death", "d": ["Study of how groups influence individuals", "Study of how the brain processes vision", "Study of differences in personality traits"] },
+    { "c": "Three domains of development", "a": "Physical, cognitive and psychosocial", "d": ["Oral, anal and phallic", "Sensory, short-term and long-term", "Analytical, creative and practical"] },
+    { "c": "Continuous view of development", "a": "Change is gradual and cumulative", "d": ["Change comes in distinct stages", "Change stops after childhood", "Change is set entirely by genes"] },
+    { "c": "Discontinuous view of development", "a": "Change happens in distinct stages", "d": ["Change is slow and steady", "Change depends only on culture", "Change happens only in old age"] },
+    { "c": "Nature versus nurture", "a": "The roles of genes versus environment", "d": ["The roles of stages versus steps", "The roles of thought versus feeling", "The roles of parents versus peers"] },
+    { "c": "Germinal stage of prenatal development", "a": "Weeks 1 to 2 after conception", "d": ["Weeks 3 to 8 after conception", "Week 9 until birth", "The final month before birth"] },
+    { "c": "Embryonic stage", "a": "Weeks 3 to 8, when the heart and neural tube form", "d": ["Weeks 1 to 2, when the zygote divides", "Week 9 until birth, when the body grows", "The first month after birth"] },
+    { "c": "Fetal stage", "a": "Week 9 until birth", "d": ["Weeks 1 to 2 after conception", "Weeks 3 to 8 after conception", "Birth to age 2"] },
+    { "c": "Teratogen", "a": "An agent that can harm a developing embryo or fetus", "d": ["A hormone that starts puberty", "A gene that sets eye color", "A reflex present at birth"], "ex": "Alcohol, nicotine and rubella are examples." },
+    { "c": "Rooting reflex", "a": "Newborn turns toward a touch on the cheek", "d": ["Newborn grips an object in its palm", "Newborn flings its arms out when startled", "Newborn steps when held upright"] },
+    { "c": "Moro reflex", "a": "Arms spread out, then pull in, at a sense of falling", "d": ["Head turns toward a touch on the cheek", "Fingers close around an object", "Mouth makes sucking motions"] },
+    { "c": "Assimilation (Piaget)", "a": "Fitting new information into an existing schema", "d": ["Changing a schema to fit new information", "Copying the behavior of a model", "Forgetting an old schema"], "ex": "A toddler calls a sheep a 'dog' because it is furry with four legs." },
+    { "c": "Accommodation (Piaget)", "a": "Changing a schema to fit new information", "d": ["Fitting new information into an old schema", "Repeating a behavior that was rewarded", "Seeing the world only from one's own view"] },
+    { "c": "Sensorimotor stage (birth to about 2)", "a": "Learning through senses and actions", "d": ["Reasoning about hypothetical ideas", "Logical thinking about concrete events", "Symbolic thought with egocentrism"] },
+    { "c": "Object permanence", "a": "Knowing that hidden objects still exist", "d": ["Knowing that amount stays the same when shape changes", "Knowing that others have different beliefs", "Recognizing oneself in a mirror"] },
+    { "c": "Preoperational stage (about 2 to 7)", "a": "Symbols and pretend play, but not logical reasoning", "d": ["Learning only through senses and actions", "Abstract reasoning about hypotheticals", "Logical reasoning about concrete events"] },
+    { "c": "Egocentrism (Piaget)", "a": "Difficulty taking another person's point of view", "d": ["Excessive concern with one's looks", "Knowing that hidden objects exist", "Preferring one's own group"], "ex": "Piaget's three-mountain task tests it." },
+    { "c": "Concrete operational stage (about 7 to 11)", "a": "Logical thinking about concrete events", "d": ["Learning through senses and actions", "Reasoning about abstract ideas", "Pretend play without logic"] },
+    { "c": "Conservation", "a": "Amount stays the same when appearance changes", "d": ["Hidden objects continue to exist", "Others can hold false beliefs", "Moral rules can be changed by agreement"], "ex": "Pouring water into a taller glass does not add any water." },
+    { "c": "Formal operational stage (about 12 onward)", "a": "Reasoning about abstract and hypothetical ideas", "d": ["Logical thinking only about concrete events", "Learning through senses and actions", "Pretend play and egocentrism"] },
+    { "c": "Vygotsky's view of cognitive development", "a": "It is rooted in culture and social interaction", "d": ["It unfolds in fixed biological stages", "It ends by age 7", "It depends only on rewards"] },
+    { "c": "Theory of mind", "a": "Knowing that others have their own thoughts and beliefs", "d": ["Knowing that hidden objects still exist", "Knowing the rules of grammar", "Knowing that amount is conserved"], "ex": "It typically develops between ages 3 and 5." },
+    { "c": "Harlow's infant monkeys preferred", "a": "A soft cloth mother over a wire one with milk", "d": ["A wire mother with milk over a cloth one", "Being alone over either mother", "Whichever mother was nearer the door"] },
+    { "c": "Ainsworth's Strange Situation", "a": "Assesses attachment through separation and reunion", "d": ["Tests conservation with water glasses", "Measures IQ in toddlers", "Tests moral reasoning with dilemmas"] },
+    { "c": "Secure attachment", "a": "Child uses the caregiver as a secure base to explore", "d": ["Child ignores the caregiver's return", "Child clings yet resists comfort", "Child freezes or acts erratically"] },
+    { "c": "Avoidant attachment", "a": "Child seems indifferent to the caregiver leaving", "d": ["Child explores and greets the caregiver warmly", "Child clings yet is hard to console", "Child prefers strangers to everyone"] },
+    { "c": "Resistant attachment", "a": "Child clings but resists comfort and is hard to soothe", "d": ["Child is indifferent to separation", "Child explores freely from a secure base", "Child shows no reaction to strangers"] },
+    { "c": "Authoritative parenting", "a": "Warmth combined with reasonable rules", "d": ["Strict obedience with little warmth", "Warmth with few demands", "Little warmth and little involvement"] },
+    { "c": "Authoritarian parenting", "a": "Strict obedience with little warmth", "d": ["Warmth combined with reasonable rules", "Warmth with few demands", "Indifference and neglect"] },
+    { "c": "Permissive parenting", "a": "High warmth with few demands", "d": ["Strict rules with little warmth", "Warmth combined with firm rules", "Low warmth and low involvement"] },
+    { "c": "Erikson's stage of infancy (birth to 1)", "a": "Trust versus mistrust", "d": ["Industry versus inferiority", "Identity versus role confusion", "Integrity versus despair"] },
+    { "c": "Erikson's stage of adolescence", "a": "Identity versus role confusion", "d": ["Intimacy versus isolation", "Trust versus mistrust", "Initiative versus guilt"] },
+    { "c": "Erikson's stage of young adulthood", "a": "Intimacy versus isolation", "d": ["Generativity versus stagnation", "Identity versus role confusion", "Autonomy versus shame and doubt"] },
+    { "c": "Generativity versus stagnation", "a": "Erikson's challenge of middle adulthood", "d": ["Erikson's challenge of early childhood", "Erikson's challenge of adolescence", "Erikson's challenge of late adulthood"], "ex": "Generativity means contributing to the next generation." },
+    { "c": "Integrity versus despair", "a": "Erikson's challenge of late adulthood", "d": ["Erikson's challenge of infancy", "Erikson's challenge of the school years", "Erikson's challenge of young adulthood"] },
+    { "c": "Kohlberg's preconventional level", "a": "Morality based on avoiding punishment and self-interest", "d": ["Morality based on laws and social approval", "Morality based on universal principles", "Morality based on caring for others"] },
+    { "c": "Kohlberg's postconventional level", "a": "Morality based on social contracts and universal principles", "d": ["Morality based on avoiding punishment", "Morality based on pleasing others", "Morality based on obeying authority"] },
+    { "c": "Gilligan's critique of Kohlberg", "a": "His studies centered on males and slighted care", "d": ["His stages began too late in childhood", "He ignored the role of punishment", "He studied only adults over 65"] },
+    { "c": "Emerging adulthood (Arnett)", "a": "From 18 to the mid-20s, exploring work and love", "d": ["From 12 to 18, the years of puberty", "From 40 to 65, the middle years", "From birth to 2, the first years"] },
+    { "c": "Ability that holds up best in aging", "a": "Crystallized intelligence", "d": ["Fluid intelligence", "Reaction speed", "Night vision"] }
+  ],
+  "read": {
+    "title": "How children build their minds",
+    "text": [
+      "Jean Piaget watched children closely and concluded that they are not small adults with less knowledge. They think in different ways at different ages, actively building mental frameworks called schemas.",
+      "Children grow their schemas in two ways. In assimilation, they fit something new into what they already know, as when a toddler calls a sheep a 'dog.' In accommodation, they change the schema when it fails, learning that sheep and dogs are different animals.",
+      "Piaget described four stages. In the sensorimotor stage, infants learn through their senses and actions and come to understand object permanence: a toy hidden under a blanket still exists. In the preoperational stage, children use words and pretend play but are egocentric, struggling to see another person's point of view. In the concrete operational stage, they reason logically about real objects and master conservation, knowing that water poured into a taller glass is the same amount. In the formal operational stage, adolescents can reason about abstract and hypothetical ideas.",
+      "Later research refined the picture. Children often reach milestones earlier than Piaget thought, and development may be more gradual than strict stages suggest. Lev Vygotsky added that learning is social: children develop language and thought through interaction with the people and culture around them."
+    ],
+    "q": [
+      { "q": "A child learns that a sheep is not a dog and forms a new category. This is", "o": ["Assimilation", "Accommodation", "Conservation", "Egocentrism"], "k": 1 },
+      { "q": "Understanding that poured water stays the same amount marks which stage?", "o": ["Sensorimotor", "Preoperational", "Concrete operational", "Formal operational"], "k": 2 },
+      { "q": "What did later research suggest about Piaget's timeline?", "o": ["Children often reach milestones earlier", "Children never reach formal operations", "The stages happen in random order"], "k": 0 }
+    ]
+  }
+}

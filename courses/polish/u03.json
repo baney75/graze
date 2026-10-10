@@ -1,0 +1,309 @@
+{
+  "title": "Numbers and age",
+  "note": "One and two change with gender: jeden/jedna/jedno, dwa (m, n) / dwie (f). After 2, 3 and 4 the noun is nominative plural (dwa koty); from 5 up it is genitive plural (pięć kotów). Age uses mieć: Mam dwadzieścia lat, literally \"I have twenty years\" (but 2–4, 22–24: lata).",
+  "src": {
+    "t": "Polish grammar: numerals, Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Polish_grammar"
+  },
+  "items": [
+    {
+      "c": "zero",
+      "a": "zero",
+      "d": [
+        "ten",
+        "one"
+      ]
+    },
+    {
+      "c": "jeden",
+      "a": "one",
+      "d": [
+        "seven",
+        "eleven"
+      ],
+      "ex": "Mam jeden pokój.",
+      "exT": "I have one room."
+    },
+    {
+      "c": "dwa",
+      "a": "two",
+      "d": [
+        "three",
+        "twelve"
+      ]
+    },
+    {
+      "c": "dwie",
+      "a": "two (with feminine nouns)",
+      "d": [
+        "two (with masculine nouns)",
+        "second (feminine)"
+      ],
+      "ex": "Mam dwie siostry.",
+      "exT": "I have two sisters."
+    },
+    {
+      "c": "trzy",
+      "a": "three",
+      "d": [
+        "four",
+        "thirteen"
+      ]
+    },
+    {
+      "c": "cztery",
+      "a": "four",
+      "d": [
+        "three",
+        "fourteen"
+      ]
+    },
+    {
+      "c": "pięć",
+      "a": "five",
+      "d": [
+        "six",
+        "nine"
+      ]
+    },
+    {
+      "c": "sześć",
+      "a": "six",
+      "d": [
+        "seven",
+        "sixteen"
+      ]
+    },
+    {
+      "c": "siedem",
+      "a": "seven",
+      "d": [
+        "eight",
+        "six"
+      ]
+    },
+    {
+      "c": "osiem",
+      "a": "eight",
+      "d": [
+        "seven",
+        "eighteen"
+      ]
+    },
+    {
+      "c": "dziewięć",
+      "a": "nine",
+      "d": [
+        "ten",
+        "five"
+      ]
+    },
+    {
+      "c": "dziesięć",
+      "a": "ten",
+      "d": [
+        "nine",
+        "a hundred"
+      ]
+    },
+    {
+      "c": "jedenaście",
+      "a": "eleven",
+      "d": [
+        "twelve",
+        "one hundred"
+      ]
+    },
+    {
+      "c": "dwanaście",
+      "a": "twelve",
+      "d": [
+        "twenty",
+        "eleven"
+      ]
+    },
+    {
+      "c": "piętnaście",
+      "a": "fifteen",
+      "d": [
+        "fifty",
+        "five hundred"
+      ]
+    },
+    {
+      "c": "dwadzieścia",
+      "a": "twenty",
+      "d": [
+        "twelve",
+        "two hundred"
+      ]
+    },
+    {
+      "c": "trzydzieści",
+      "a": "thirty",
+      "d": [
+        "thirteen",
+        "three hundred"
+      ]
+    },
+    {
+      "c": "pięćdziesiąt",
+      "a": "fifty",
+      "d": [
+        "fifteen",
+        "five hundred"
+      ]
+    },
+    {
+      "c": "sto",
+      "a": "one hundred",
+      "d": [
+        "one thousand",
+        "seventy"
+      ]
+    },
+    {
+      "c": "tysiąc",
+      "a": "one thousand",
+      "d": [
+        "one hundred",
+        "one million"
+      ]
+    },
+    {
+      "c": "pierwszy",
+      "a": "first",
+      "d": [
+        "second",
+        "last"
+      ]
+    },
+    {
+      "c": "drugi",
+      "a": "second",
+      "d": [
+        "first",
+        "third"
+      ]
+    },
+    {
+      "c": "trzeci",
+      "a": "third",
+      "d": [
+        "second",
+        "thirty"
+      ]
+    },
+    {
+      "c": "Ile?",
+      "a": "How many? How much?",
+      "d": [
+        "When?",
+        "Where?"
+      ],
+      "ex": "Ile to kosztuje?",
+      "exT": "How much does it cost?"
+    },
+    {
+      "c": "Ile masz lat?",
+      "a": "How old are you?",
+      "d": [
+        "How many children do you have?",
+        "What year is it?"
+      ]
+    },
+    {
+      "c": "Mam dwadzieścia lat.",
+      "a": "I'm twenty years old.",
+      "d": [
+        "I'm twelve years old.",
+        "I'm thirty years old."
+      ]
+    },
+    {
+      "c": "Mam dwa ___. (rok, age)",
+      "a": "lata",
+      "d": [
+        "lat",
+        "roku"
+      ],
+      "ex": "Mój syn ma dwa lata.",
+      "exT": "My son is two years old."
+    },
+    {
+      "c": "On ma pięć ___. (rok, age)",
+      "a": "lat",
+      "d": [
+        "lata",
+        "roki"
+      ],
+      "ex": "On ma pięć lat.",
+      "exT": "He is five years old."
+    },
+    {
+      "c": "dwa ___ (kot, plural)",
+      "a": "koty",
+      "d": [
+        "kotów",
+        "kota"
+      ],
+      "ex": "dwa koty",
+      "exT": "two cats"
+    },
+    {
+      "c": "pięć ___ (kot, plural)",
+      "a": "kotów",
+      "d": [
+        "koty",
+        "kota"
+      ],
+      "ex": "Babcia ma pięć kotów.",
+      "exT": "Grandma has five cats."
+    },
+    {
+      "c": "numer telefonu",
+      "a": "phone number",
+      "d": [
+        "house number",
+        "phone call"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Ola i jej zwierzęta",
+    "text": [
+      "Cześć! Mam na imię Ola i mam dwadzieścia jeden lat. Jestem z Polski. Mój przyjaciel Tomek jest z Ameryki. On ma dwadzieścia trzy lata.",
+      "Mam jednego kota i dwa psy. Kot ma pięć lat, a psy mają trzy lata. Tomek ma dwa koty. Jego koty są małe: mają rok.",
+      "Mój numer telefonu? Sześćset dwanaście, trzysta czterdzieści, dziewięćset osiemdziesiąt."
+    ],
+    "q": [
+      {
+        "q": "How old is Ola?",
+        "o": [
+          "23",
+          "21",
+          "25"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What animals does Ola have?",
+        "o": [
+          "Two cats and one dog",
+          "One cat and two dogs",
+          "Five cats"
+        ],
+        "k": 1
+      },
+      {
+        "q": "How old are Tomek's cats?",
+        "o": [
+          "One year",
+          "Three years",
+          "Five years"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

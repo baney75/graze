@@ -1,0 +1,370 @@
+{
+  "title": "First declension: feminine nouns",
+  "note": "First-declension nouns are mostly feminine. Nouns in -η keep η in the singular: ἀρχή, ἀρχῆς, ἀρχῇ, ἀρχήν. After ε, ι or ρ the vowel is α: ἡμέρα, ἡμέρας, ἡμέρᾳ, ἡμέραν. Nouns in short -α after other letters switch to η in the genitive and dative: δόξα, δόξης, δόξῃ, δόξαν. All share one plural: -αι, -ῶν, -αις, -ας.",
+  "src": {
+    "t": "Ancient Greek nouns, first declension (Wikipedia)",
+    "u": "https://en.wikipedia.org/wiki/Ancient_Greek_nouns"
+  },
+  "items": [
+    {
+      "c": "ἀρχή, -ῆς, ἡ",
+      "a": "beginning; rule",
+      "d": [
+        "end, goal",
+        "power, miracle"
+      ],
+      "ex": "ἐν ἀρχῇ",
+      "exT": "in the beginning",
+      "r": "archē",
+      "say": "ἀρχή"
+    },
+    {
+      "c": "ψυχή, -ῆς, ἡ",
+      "a": "soul, life",
+      "d": [
+        "body",
+        "heart"
+      ],
+      "r": "psychē",
+      "say": "ψυχή",
+      "ex": "ἡ ψυχή μου",
+      "exT": "my soul"
+    },
+    {
+      "c": "ζωή, -ῆς, ἡ",
+      "a": "life",
+      "d": [
+        "death",
+        "light"
+      ],
+      "ex": "ἡ ὁδὸς καὶ ἡ ἀλήθεια καὶ ἡ ζωή",
+      "exT": "the way and the truth and the life",
+      "r": "zōē",
+      "say": "ζωή"
+    },
+    {
+      "c": "φωνή, -ῆς, ἡ",
+      "a": "voice, sound",
+      "d": [
+        "word, speech",
+        "tongue"
+      ],
+      "r": "phōnē",
+      "say": "φωνή",
+      "ex": "φωνὴ ἐκ τοῦ οὐρανοῦ",
+      "exT": "a voice from heaven"
+    },
+    {
+      "c": "ἀγάπη, -ης, ἡ",
+      "a": "love",
+      "d": [
+        "hope",
+        "joy"
+      ],
+      "ex": "ἡ ἀγάπη τοῦ θεοῦ",
+      "exT": "the love of God",
+      "r": "agapē",
+      "say": "ἀγάπη"
+    },
+    {
+      "c": "γῆ, γῆς, ἡ",
+      "a": "earth, land",
+      "d": [
+        "sea",
+        "heaven, sky"
+      ],
+      "ex": "τὸν οὐρανὸν καὶ τὴν γῆν",
+      "exT": "the heaven and the earth",
+      "r": "gē",
+      "say": "γῆ"
+    },
+    {
+      "c": "εἰρήνη, -ης, ἡ",
+      "a": "peace",
+      "d": [
+        "grace",
+        "war"
+      ],
+      "ex": "εἰρήνη ὑμῖν",
+      "exT": "peace to you",
+      "r": "eirēnē",
+      "say": "εἰρήνη"
+    },
+    {
+      "c": "ἐντολή, -ῆς, ἡ",
+      "a": "commandment",
+      "d": [
+        "promise",
+        "parable"
+      ],
+      "r": "entolē",
+      "say": "ἐντολή",
+      "ex": "ἐντολὴ καινή",
+      "exT": "a new commandment"
+    },
+    {
+      "c": "γραφή, -ῆς, ἡ",
+      "a": "writing; Scripture",
+      "d": [
+        "teaching",
+        "letter of the alphabet"
+      ],
+      "ex": "αἱ γραφαί",
+      "exT": "the Scriptures",
+      "r": "graphē",
+      "say": "γραφή"
+    },
+    {
+      "c": "συναγωγή, -ῆς, ἡ",
+      "a": "synagogue, assembly",
+      "d": [
+        "temple",
+        "village"
+      ],
+      "r": "synagōgē",
+      "say": "συναγωγή",
+      "ex": "ἐν τῇ συναγωγῇ",
+      "exT": "in the synagogue"
+    },
+    {
+      "c": "τιμή, -ῆς, ἡ",
+      "a": "honor; price",
+      "d": [
+        "glory; opinion",
+        "virtue; excellence"
+      ],
+      "r": "timē",
+      "say": "τιμή"
+    },
+    {
+      "c": "ἀρετή, -ῆς, ἡ",
+      "a": "excellence, virtue",
+      "d": [
+        "wisdom",
+        "justice"
+      ],
+      "r": "aretē",
+      "say": "ἀρετή",
+      "ex": "ἡ ἀρετὴ τῆς ψυχῆς",
+      "exT": "the excellence of the soul"
+    },
+    {
+      "c": "ἡμέρα, -ας, ἡ",
+      "a": "day",
+      "d": [
+        "hour",
+        "night"
+      ],
+      "ex": "τῇ τρίτῃ ἡμέρᾳ",
+      "exT": "on the third day",
+      "r": "hēmera",
+      "say": "ἡμέρα"
+    },
+    {
+      "c": "ἁμαρτία, -ας, ἡ",
+      "a": "sin; (classical) error",
+      "d": [
+        "death; (classical) fate",
+        "law; (classical) custom"
+      ],
+      "r": "hamartia",
+      "say": "ἁμαρτία",
+      "ex": "ἡ ἁμαρτία τοῦ κόσμου",
+      "exT": "the sin of the world"
+    },
+    {
+      "c": "ἀλήθεια, -ας, ἡ",
+      "a": "truth",
+      "d": [
+        "wisdom",
+        "faith"
+      ],
+      "r": "alētheia",
+      "say": "ἀλήθεια",
+      "ex": "ἡ ἀλήθεια τοῦ θεοῦ",
+      "exT": "the truth of God"
+    },
+    {
+      "c": "βασιλεία, -ας, ἡ",
+      "a": "kingdom, reign",
+      "d": [
+        "king",
+        "city"
+      ],
+      "ex": "ἡ βασιλεία τοῦ θεοῦ",
+      "exT": "the kingdom of God",
+      "r": "basileia",
+      "say": "βασιλεία"
+    },
+    {
+      "c": "ἐκκλησία, -ας, ἡ",
+      "a": "assembly, church",
+      "d": [
+        "synagogue, temple",
+        "crowd, mob"
+      ],
+      "r": "ekklēsia",
+      "say": "ἐκκλησία",
+      "ex": "ἡ ἐκκλησία τοῦ θεοῦ",
+      "exT": "the church of God"
+    },
+    {
+      "c": "καρδία, -ας, ἡ",
+      "a": "heart",
+      "d": [
+        "soul, life",
+        "mind"
+      ],
+      "r": "kardia",
+      "say": "καρδία",
+      "ex": "ἐν τῇ καρδίᾳ",
+      "exT": "in the heart"
+    },
+    {
+      "c": "οἰκία, -ας, ἡ",
+      "a": "house, home",
+      "d": [
+        "village",
+        "door"
+      ],
+      "r": "oikia",
+      "say": "οἰκία"
+    },
+    {
+      "c": "σοφία, -ας, ἡ",
+      "a": "wisdom",
+      "d": [
+        "truth",
+        "glory"
+      ],
+      "r": "sophia",
+      "say": "σοφία",
+      "ex": "ἡ σοφία τοῦ κόσμου",
+      "exT": "the wisdom of the world"
+    },
+    {
+      "c": "χώρα, -ας, ἡ",
+      "a": "land, country",
+      "d": [
+        "city",
+        "sea"
+      ],
+      "r": "chōra",
+      "say": "χώρα"
+    },
+    {
+      "c": "ἐξουσία, -ας, ἡ",
+      "a": "authority, right",
+      "d": [
+        "kingdom, reign",
+        "power, miracle"
+      ],
+      "r": "exousia",
+      "say": "ἐξουσία"
+    },
+    {
+      "c": "ὥρα, -ας, ἡ",
+      "a": "hour",
+      "d": [
+        "day",
+        "year"
+      ],
+      "r": "hōra",
+      "say": "ὥρα",
+      "ex": "ἐν ἐκείνῃ τῇ ὥρᾳ",
+      "exT": "at that hour"
+    },
+    {
+      "c": "δόξα, -ης, ἡ",
+      "a": "glory; (classical) opinion",
+      "d": [
+        "honor; price",
+        "truth; reality"
+      ],
+      "ex": "δόξα ἐν ὑψίστοις θεῷ",
+      "exT": "glory to God in the highest",
+      "r": "doxa",
+      "say": "δόξα"
+    },
+    {
+      "c": "θάλασσα, -ης, ἡ",
+      "a": "sea",
+      "d": [
+        "land",
+        "river"
+      ],
+      "r": "thalassa",
+      "say": "θάλασσα",
+      "ex": "ἐπὶ τῆς θαλάσσης",
+      "exT": "on the sea"
+    },
+    {
+      "c": "γλῶσσα, -ης, ἡ",
+      "a": "tongue, language",
+      "d": [
+        "voice, sound",
+        "mouth"
+      ],
+      "r": "glōssa",
+      "say": "γλῶσσα"
+    },
+    {
+      "c": "δικαιοσύνη, -ης, ἡ",
+      "a": "righteousness, justice",
+      "d": [
+        "wisdom",
+        "peace"
+      ],
+      "r": "dikaiosynē",
+      "say": "δικαιοσύνη"
+    },
+    {
+      "c": "genitive singular of ἡμέρα",
+      "a": "ἡμέρας",
+      "d": [
+        "ἡμέραις",
+        "ἡμέραι"
+      ]
+    },
+    {
+      "c": "genitive singular of δόξα",
+      "a": "δόξης",
+      "d": [
+        "δόξας",
+        "δόξῃ"
+      ]
+    },
+    {
+      "c": "ἐν ___ (in the beginning; ἀρχή)",
+      "a": "ἀρχῇ",
+      "d": [
+        "ἀρχή",
+        "ἀρχῆς"
+      ]
+    },
+    {
+      "c": "ἡ βασιλεία τῶν ___ (the kingdom of the heavens)",
+      "a": "οὐρανῶν",
+      "d": [
+        "οὐρανοῖς",
+        "οὐρανούς"
+      ]
+    },
+    {
+      "c": "αἱ ___ (the souls; ψυχή)",
+      "a": "ψυχαί",
+      "d": [
+        "ψυχάς",
+        "ψυχῶν"
+      ]
+    },
+    {
+      "c": "genitive plural of καρδία",
+      "a": "καρδιῶν",
+      "d": [
+        "καρδίων",
+        "καρδίας"
+      ]
+    }
+  ]
+}

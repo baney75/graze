@@ -1,0 +1,50 @@
+{
+  "title": "Electric charge, field and potential",
+  "note": "Charge comes in two signs, is conserved, and is quantized in units of e. Coulomb's law gives the force between point charges; the electric field E = F/q describes that force per unit charge at each point. Electric potential V is potential energy per unit charge, and fields point from high to low potential.",
+  "src": { "t": "College Physics 2e, Ch. 18 Electric Charge and Electric Field", "u": "https://openstax.org/books/college-physics-2e/pages/18-introduction-to-electric-charge-and-electric-field" },
+  "items": [
+    { "c": "Elementary charge e", "a": "1.60 × 10⁻¹⁹ C", "d": ["9.11 × 10⁻³¹ C", "1.60 × 10¹⁹ C", "6.02 × 10⁻²³ C"] },
+    { "c": "SI unit of electric charge", "a": "coulomb (C)", "d": ["ampere (A)", "volt (V)", "farad (F)"] },
+    { "c": "Two like charges", "a": "repel each other", "d": ["attract each other", "exert no force on each other"] },
+    { "c": "Conservation of charge", "a": "net charge of an isolated system never changes", "d": ["every object carries zero charge", "charge can be created by friction"] },
+    { "c": "Rubbing a balloon on hair gives it charge by", "a": "transferring electrons", "d": ["creating new electrons", "transferring protons"] },
+    { "c": "Electrical conductor", "a": "material in which charges move freely", "d": ["material that holds charges in place", "material with no electrons"] },
+    { "c": "Charging by induction", "a": "charging without contact, using a nearby charge", "d": ["charging by rubbing two materials", "charging by touching a charged object"] },
+    { "c": "Coulomb's law", "a": "F = k|q₁q₂|/r²", "d": ["F = k|q₁q₂|/r", "F = k(q₁ + q₂)/r²", "F = k|q₁q₂|r²"] },
+    { "c": "Coulomb constant k", "a": "8.99 × 10⁹ N·m²/C²", "d": ["6.67 × 10⁻¹¹ N·m²/C²", "8.85 × 10⁻¹² N·m²/C²", "9.80 N·m²/C²"] },
+    { "c": "Permittivity of free space ε₀", "a": "8.85 × 10⁻¹² C²/(N·m²)", "d": ["8.99 × 10⁹ C²/(N·m²)", "4π × 10⁻⁷ C²/(N·m²)", "1.60 × 10⁻¹⁹ C²/(N·m²)"] },
+    { "c": "Electric field", "a": "force per unit charge, E = F/q", "d": ["charge per unit force, E = q/F", "energy per unit charge, E = U/q"] },
+    { "c": "Field of a point charge Q at distance r", "a": "E = kQ/r²", "d": ["E = kQ/r", "E = kQr²", "E = kQ²/r"] },
+    { "c": "SI unit of electric field", "a": "N/C, equivalently V/m", "d": ["C/N, equivalently m/V", "J/C, equivalently V"] },
+    { "c": "Electric field lines begin on", "a": "positive charges", "d": ["negative charges", "neutral objects"] },
+    { "c": "Force on an electron in an eastward field", "a": "westward", "d": ["eastward", "upward", "zero"] },
+    { "c": "Electrostatic field inside a conductor", "a": "zero", "d": ["equal to the surface field", "maximum at the center"] },
+    { "c": "Where excess charge sits on a conductor", "a": "on its outer surface", "d": ["spread evenly through its volume", "at its center"] },
+    { "c": "Gauss's law", "a": "flux through a closed surface = Q_enc/ε₀", "d": ["flux through a closed surface is always zero", "flux through a closed surface = Q_enc·ε₀"] },
+    { "c": "Electric potential difference", "a": "ΔV = ΔU/q", "d": ["ΔV = qΔU", "ΔV = F/q", "ΔV = ΔU·r"] },
+    { "c": "One volt", "a": "1 J/C", "d": ["1 C/J", "1 N/C", "1 A·s"] },
+    { "c": "Potential of a point charge Q at distance r", "a": "V = kQ/r", "d": ["V = kQ/r²", "V = kQr", "V = kQ²/r"] },
+    { "c": "Potential difference in a uniform field", "a": "V = Ed", "d": ["V = E/d", "V = Ed²", "V = qEd"] },
+    { "c": "One electron volt (eV)", "a": "1.60 × 10⁻¹⁹ J", "d": ["1.60 × 10⁻¹⁹ V", "1 J", "9.11 × 10⁻³¹ J"] },
+    { "c": "Equipotential surfaces and field lines", "a": "always meet at right angles", "d": ["always run parallel", "never meet"] },
+    { "c": "Work to move a charge along an equipotential", "a": "none", "d": ["qV", "qEd", "kQ/r"] },
+    { "c": "Free positive charge in a field moves toward", "a": "lower potential", "d": ["higher potential", "constant potential"] },
+    { "c": "Capacitance", "a": "C = Q/V", "d": ["C = QV", "C = V/Q", "C = Q²/V"] },
+    { "c": "Parallel-plate capacitance", "a": "C = ε₀A/d", "d": ["C = ε₀d/A", "C = ε₀Ad", "C = A/(ε₀d)"] },
+    { "c": "Energy stored in a capacitor", "a": "½CV²", "d": ["CV²", "½CV", "½C²V"] },
+    { "c": "Inserting a dielectric of constant κ", "a": "multiplies capacitance by κ", "d": ["divides capacitance by κ", "leaves capacitance unchanged"] }
+  ],
+  "read": {
+    "title": "Fields and potentials",
+    "text": [
+      "Ordinary matter is full of charge: positive protons in nuclei and negative electrons around them. Usually the two balance. Rubbing a balloon on hair moves some electrons from one to the other, leaving both charged but conserving the total. Charge always comes in whole multiples of e, 1.60 × 10⁻¹⁹ C.",
+      "Coulomb's law gives the force between two point charges: proportional to the product of the charges and to 1/r², just like gravity, but far stronger and able to repel as well as attract. Rather than thinking of charges acting across empty space, physicists describe an electric field filling the space around a charge. A test charge q placed anywhere feels a force qE. Field lines start on positive charges and end on negative ones.",
+      "Potential is the energy view of the same idea. The electric potential at a point is the potential energy per unit charge there, measured in volts, where one volt is one joule per coulomb. A positive charge released in a field accelerates toward lower potential, gaining kinetic energy, much as a ball rolls downhill. Surfaces of constant potential always cross field lines at right angles, so moving a charge along one takes no work."
+    ],
+    "q": [
+      { "q": "What happens to the total charge when a balloon is rubbed on hair?", "o": ["It is conserved", "It increases", "It becomes zero on both"], "k": 0 },
+      { "q": "Toward what does a released positive charge accelerate?", "o": ["Lower potential", "Higher potential", "The nearest equipotential"], "k": 0 },
+      { "q": "How do equipotential surfaces meet field lines?", "o": ["At right angles", "Parallel to them", "At 45°"], "k": 0 }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Parts of speech",
+  "note": "Traditional grammar sorts words into eight parts of speech: nouns, pronouns, verbs, adjectives, adverbs, prepositions, conjunctions and interjections. A word's part of speech depends on the job it does in a given sentence, so the same word can be a noun in one sentence and a verb in the next.",
+  "src": { "t": "Purdue OWL, Grammar", "u": "https://owl.purdue.edu/owl/general_writing/grammar/index.html" },
+  "items": [
+    { "c": "Word class naming a person, place, thing or idea", "a": "noun", "d": ["verb", "adjective", "adverb"] },
+    { "c": "Word class that stands in for a noun", "a": "pronoun", "d": ["adverb", "preposition", "conjunction"], "ex": "Maria left early because she was tired." },
+    { "c": "Word class showing action or a state of being", "a": "verb", "d": ["adjective", "noun", "interjection"] },
+    { "c": "Word class that modifies a noun or pronoun", "a": "adjective", "d": ["adverb", "preposition", "conjunction"] },
+    { "c": "Modifies a verb, an adjective or another adverb", "a": "adverb", "d": ["adjective", "pronoun", "preposition"], "ex": "She sang beautifully; the song was very long." },
+    { "c": "Word class of 'under' in 'under the bed'", "a": "preposition", "d": ["adverb", "conjunction", "adjective"], "ex": "A preposition links its object (the bed) to the rest of the sentence." },
+    { "c": "Word class that joins words, phrases or clauses", "a": "conjunction", "d": ["preposition", "interjection", "pronoun"] },
+    { "c": "Word class of 'Ouch!' or 'Wow!'", "a": "interjection", "d": ["adverb", "conjunction", "adjective"] },
+    { "c": "Proper noun", "a": "names a particular one and is capitalized", "d": ["names a general type and is lowercase", "names a group acting as one unit"], "ex": "Chicago, Lincoln, the Mississippi River" },
+    { "c": "Common noun", "a": "names a general type, like 'city'", "d": ["names one particular person or place", "always names a group acting as one unit"] },
+    { "c": "Collective noun", "a": "names a group as one unit, like 'jury'", "d": ["names an idea or quality, like 'honesty'", "names a particular place, like 'Texas'"] },
+    { "c": "Abstract noun", "a": "names an idea or quality, like 'courage'", "d": ["names a group as one unit, like 'herd'", "names a thing you can see, like 'chair'"] },
+    { "c": "Type of verb: 'seems' in 'She seems tired.'", "a": "linking verb", "d": ["action verb", "helping verb"], "ex": "A linking verb joins the subject to a word that describes or renames it." },
+    { "c": "Type of verb: 'has' in 'He has eaten.'", "a": "helping (auxiliary) verb", "d": ["linking verb", "action verb"] },
+    { "c": "Transitive verb", "a": "a verb that takes a direct object", "d": ["a verb that never takes an object", "a verb that links a subject to a description"], "ex": "She lifted the box." },
+    { "c": "Intransitive verb", "a": "a verb with no direct object", "d": ["a verb that needs a direct object", "a verb that only helps another verb"], "ex": "The baby slept." },
+    { "c": "Type of pronoun: 'who' in 'the man who called'", "a": "relative pronoun", "d": ["demonstrative pronoun", "personal pronoun"], "ex": "A relative pronoun opens a clause that describes a noun." },
+    { "c": "Type of pronoun: 'This' in 'This is mine.'", "a": "demonstrative pronoun", "d": ["relative pronoun", "indefinite pronoun"] },
+    { "c": "Type of pronoun: 'everyone' or 'somebody'", "a": "indefinite pronoun", "d": ["demonstrative pronoun", "reflexive pronoun"] },
+    { "c": "Type of pronoun: 'himself' in 'He cut himself.'", "a": "reflexive pronoun", "d": ["indefinite pronoun", "relative pronoun"] },
+    { "c": "The seven coordinating conjunctions (FANBOYS)", "a": "for, and, nor, but, or, yet, so", "d": ["for, and, not, but, or, yet, since", "for, also, nor, but, or, yet, so"] },
+    { "c": "Type of conjunction: 'because' or 'although'", "a": "subordinating conjunction", "d": ["coordinating conjunction", "correlative conjunction"] },
+    { "c": "Type of conjunction: 'either ... or'", "a": "correlative conjunctions", "d": ["subordinating conjunctions", "coordinating conjunctions"], "ex": "Others: neither ... nor, both ... and, not only ... but also." },
+    { "c": "The three articles in English", "a": "a, an, the", "d": ["a, an, this", "a, the, that"] },
+    { "c": "___ hour-long talk (a/an)", "a": "an", "d": ["a"], "ex": "Use 'an' before a vowel sound; the h in 'hour' is silent." },
+    { "c": "___ university course (a/an)", "a": "a", "d": ["an"], "ex": "'University' begins with a consonant sound, 'yoo'." },
+    { "c": "Comparative form of 'good'", "a": "better", "d": ["gooder", "best"] },
+    { "c": "Superlative form of 'bad'", "a": "worst", "d": ["worse", "baddest"] },
+    { "c": "Gerund", "a": "an -ing verb form used as a noun", "d": ["an -ing verb form used as an adjective", "a verb form with 'to', like 'to run'"], "ex": "Swimming is good exercise." },
+    { "c": "'Broken' in 'the broken window'", "a": "a participle used as an adjective", "d": ["a gerund used as a noun", "an infinitive used as an adverb"] },
+    { "c": "Infinitive", "a": "'to' plus the base form of a verb", "d": ["a verb form ending in -ing", "the past form of a verb"], "ex": "to read, to write, to think" },
+    { "c": "Can 'run' be a noun?", "a": "yes; part of speech depends on use", "d": ["no; 'run' is always a verb"], "ex": "She went for a run." }
+  ],
+  "read": {
+    "title": "Words at work",
+    "text": [
+      "Many learners memorize the parts of speech as if each word wore a permanent label. In fact, English assigns a word its part of speech by the job it does in a particular sentence. Take the word light. In \"Turn on the light,\" it names a thing, so it is a noun. In \"Light the candles,\" it expresses an action, so it is a verb. In \"She packed a light bag,\" it describes a noun, so it is an adjective.",
+      "The same test settles harder cases. The word before can be a preposition (\"before dinner\"), a subordinating conjunction (\"before we eat\"), or an adverb (\"I have seen this before\"). To decide, look at what follows it. A preposition takes a noun or pronoun as its object. A subordinating conjunction introduces a whole clause with its own subject and verb. An adverb stands on its own.",
+      "This habit pays off later. Comma rules, agreement and pronoun case all depend on seeing what each word is doing. When a sentence puzzles you, ask of each word: what is its job here?"
+    ],
+    "q": [
+      { "q": "According to the reading, what decides a word's part of speech?", "o": ["Its spelling in the dictionary", "The job it does in the sentence", "Whether it comes first in the sentence"], "k": 1 },
+      { "q": "In \"before we eat,\" the word before is a...", "o": ["preposition", "adverb", "subordinating conjunction"], "k": 2 },
+      { "q": "Which sentence uses light as an adjective?", "o": ["She packed a light bag.", "Turn on the light.", "Light the candles."], "k": 0 }
+    ]
+  }
+}

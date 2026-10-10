@@ -1,0 +1,51 @@
+{
+  "title": "The research question and the research process",
+  "note": "Research starts with a question, not a conclusion. Turn a broad topic into a focused, answerable question by limiting it by population, place, time or aspect. The process loops: background reading sharpens the question, searching reshapes it, and evidence decides the answer.",
+  "src": { "t": "Choosing and Using Sources, Ch. 1 Research Questions, LibreTexts", "u": "https://human.libretexts.org/Bookshelves/Research_and_Information_Literacy/Choosing_and_Using_Sources%3A_A_Guide_to_Academic_Research/01%3A_Research_Questions" },
+  "items": [
+    { "c": "Research question", "a": "A focused question your research sets out to answer", "d": ["A statement of the conclusion you will defend", "A broad subject area to read about", "A list of sources for a paper"] },
+    { "c": "Research topic", "a": "A broad subject area, before it is narrowed", "d": ["A focused question with a clear scope", "A testable prediction about results", "A one-sentence answer to a question"] },
+    { "c": "Thesis statement", "a": "A one-sentence claim that answers your question", "d": ["An open question still under investigation", "A list of keywords for searching", "A summary of one source's methods"] },
+    { "c": "Hypothesis", "a": "A specific, testable prediction about an outcome", "d": ["A broad area of personal interest", "A summary of earlier findings", "A record of what the data showed"] },
+    { "c": "Main purpose of background reading", "a": "Learning the field's terms and finding a focus", "d": ["Collecting quotations for the final paper", "Avoiding the need to cite sources later", "Confirming the answer you already prefer"] },
+    { "c": "Sign a research question is too broad", "a": "Thousands of sources, none answering it directly", "d": ["Almost no sources exist on the subject", "It names a specific population and setting", "It fits easily in a short paper"] },
+    { "c": "Sign a research question is too narrow", "a": "Almost no published evidence addresses it", "d": ["Too many sources to read in a semester", "It covers a whole discipline at once", "It uses terms common in the field"] },
+    { "c": "Common ways to narrow a topic", "a": "Limit it by population, place, time, or aspect", "d": ["Add more synonyms to every search", "Switch to a broader database", "Drop the main concept entirely"] },
+    { "c": "\"What year was the polio vaccine licensed?\"", "a": "A fact lookup, not a research question", "d": ["A strong research question for a thesis", "A testable experimental hypothesis", "A question that needs a meta-analysis"] },
+    { "c": "PICO", "a": "Population, Intervention, Comparison, Outcome", "d": ["Purpose, Index, Citation, Overview", "Problem, Idea, Conclusion, Outline", "Population, Incidence, Cause, Outcome"] },
+    { "c": "In PICO, the C stands for", "a": "Comparison", "d": ["Cause", "Conclusion", "Cohort"] },
+    { "c": "In PICO, the O stands for", "a": "Outcome", "d": ["Observation", "Odds", "Objective"] },
+    { "c": "PICO is mainly used to frame", "a": "Clinical and health research questions", "d": ["Literary analyses of novels", "Citation styles for references", "Searches limited to one website"] },
+    { "c": "FINER criteria for a research question", "a": "Feasible, Interesting, Novel, Ethical, Relevant", "d": ["Focused, Indexed, Narrow, Exact, Recent", "Factual, Independent, Neutral, Easy, Reliable", "Formal, Informed, Numeric, Expert, Reviewed"] },
+    { "c": "Feasible research question", "a": "One you can answer with your time and resources", "d": ["One that no one has ever asked before", "One with a guaranteed positive result", "One that covers every related subtopic"] },
+    { "c": "The research process is iterative, meaning", "a": "You revise the question as you learn more", "d": ["You may never change your first question", "Each step is done exactly once, in order", "Only the final draft is ever revised"] },
+    { "c": "Confirmation bias while researching", "a": "Seeking only evidence that fits your existing belief", "d": ["Checking claims against several sources", "Recording every search you run", "Citing sources in a consistent style"] },
+    { "c": "Empirical question", "a": "One that can be answered with observation or data", "d": ["One answered only by personal values", "One about the meaning of a single word", "One that has no possible answer"] },
+    { "c": "Normative question", "a": "A question about what ought to be", "d": ["A question about what can be measured", "A question about a word's origin", "A question with a numeric answer"], "ex": "\"Should cities ban cars downtown?\" is normative; data inform it but values decide it." },
+    { "c": "Descriptive research question", "a": "Asks what is happening or how common something is", "d": ["Asks whether one thing causes another", "Asks what ought to be done", "Asks how to format a reference list"] },
+    { "c": "Causal research question", "a": "Asks whether one factor produces a change in another", "d": ["Asks how often something occurs", "Asks how two words differ in meaning", "Asks who first published on a topic"] },
+    { "c": "Correlational research question", "a": "Asks whether two variables are associated", "d": ["Asks whether a treatment causes an effect", "Asks how to define a key term", "Asks what a single case looked like"] },
+    { "c": "Variable", "a": "A characteristic that can take different values", "d": ["A fixed fact that never changes", "A source cited in a paper", "A step in the search process"] },
+    { "c": "Population, in research", "a": "The whole group a study wants conclusions about", "d": ["Only the people who took part", "The researchers who ran the study", "The journals that published the study"] },
+    { "c": "Sample", "a": "The subset of the population actually studied", "d": ["The entire group of interest", "The study's final conclusion", "A quotation copied from a source"] },
+    { "c": "Operational definition", "a": "A precise statement of how a concept is measured", "d": ["A dictionary definition of a concept", "A theory that explains a behavior", "A prediction of what a study will find"], "ex": "\"Sleep quality\" might be operationalized as hours of sleep logged by a wrist tracker." },
+    { "c": "Research gap", "a": "A question the existing literature has not answered", "d": ["A missing page number in a citation", "A break between two research projects", "A source that contradicts your thesis"] },
+    { "c": "Doing primary research", "a": "Collecting original data yourself", "d": ["Summarizing what others have published", "Reading an encyclopedia entry", "Formatting a bibliography"] },
+    { "c": "Doing secondary research", "a": "Analyzing information others already gathered", "d": ["Running your own experiment", "Interviewing participants yourself", "Collecting new survey responses"] },
+    { "c": "Scope of a research project", "a": "The boundaries of what the project will cover", "d": ["The total number of pages required", "The journal where it will be published", "The software used to take notes"] }
+  ],
+  "read": {
+    "title": "From topic to question",
+    "text": [
+      "Most projects begin with a topic, such as social media and sleep. A topic is a place to start, not a plan. Searching it returns thousands of sources that each answer a different question, and none of them tell you what to argue.",
+      "The fix is to turn the topic into a research question. Background reading in encyclopedias, textbooks and review articles teaches you the field's vocabulary and shows which parts are settled and which are debated. From there, narrow by population, place, time or aspect: \"Does phone use in the hour before bed shorten sleep in US high school students?\" This version names who, what and which outcome, so it tells you what evidence to look for.",
+      "A good question is also feasible. If almost nothing has been published, broaden it; if you are drowning in sources, narrow it again. Health researchers often use PICO to check that a question names a population, an intervention, a comparison and an outcome.",
+      "Expect to revise. Searching may reveal better terms, a gap no one has filled, or evidence that changes your view. Research is iterative, and the answer should come from the evidence, not from what you hoped to find."
+    ],
+    "q": [
+      { "q": "Why is a topic like \"social media and sleep\" not yet a research plan?", "o": ["It returns many sources that answer different questions", "It has already been fully answered", "It cannot be searched in a database"], "k": 0 },
+      { "q": "What should you do if almost nothing has been published on your question?", "o": ["Add a stricter population limit", "Broaden the question", "Use only the sources you have", "Switch to a normative question"], "k": 1 },
+      { "q": "According to the reading, what should decide the answer to a research question?", "o": ["The researcher's first hypothesis", "The most recent single study", "The evidence gathered"], "k": 2 }
+    ]
+  }
+}

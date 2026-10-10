@@ -1,0 +1,77 @@
+{
+  "title": "Home and household",
+  "note": "Em (in, on, at) joins the article: em + o = no, em + a = na, em + os = nos, em + as = nas, em + um = num. So: no quarto (in the bedroom), na mesa (on the table). In everyday Brazilian speech tem means \"there is/are\": Tem um sofá na sala.",
+  "src": {"t": "Língua da Gente, Beginning 03: Where's The Bathroom?", "u": "https://linguadagente.coerll.utexas.edu/wheres-the-bathroom/"},
+  "items": [
+    {"c": "a casa", "a": "the house, home", "d": ["the room", "the building"], "ex": "Vou para casa.", "exT": "I'm going home."},
+    {"c": "o apartamento", "a": "the apartment", "d": ["the house", "the hotel"]},
+    {"c": "o quarto", "a": "the bedroom", "d": ["the kitchen", "the bathroom"], "ex": "Meu quarto é pequeno.", "exT": "My bedroom is small."},
+    {"c": "a sala", "a": "the living room", "d": ["the bedroom", "the yard"], "ex": "A família está na sala.", "exT": "The family is in the living room."},
+    {"c": "a cozinha", "a": "the kitchen", "d": ["the living room", "the stove"], "ex": "A mãe está na cozinha.", "exT": "Mom is in the kitchen."},
+    {"c": "o banheiro", "a": "the bathroom", "d": ["the bedroom", "the bathtub"], "ex": "Onde é o banheiro?", "exT": "Where's the bathroom?"},
+    {"c": "a janela", "a": "the window", "d": ["the door", "the wall"]},
+    {"c": "a porta", "a": "the door", "d": ["the window", "the floor"], "ex": "Fecha a porta, por favor.", "exT": "Close the door, please."},
+    {"c": "a parede", "a": "the wall", "d": ["the floor", "the door"]},
+    {"c": "o chão", "a": "the floor", "d": ["the ceiling", "the wall"]},
+    {"c": "a cama", "a": "the bed", "d": ["the chair", "the sofa"], "ex": "O gato dorme na cama.", "exT": "The cat sleeps on the bed."},
+    {"c": "a mesa", "a": "the table", "d": ["the chair", "the bed"]},
+    {"c": "a cadeira", "a": "the chair", "d": ["the table", "the stairs"]},
+    {"c": "o sofá", "a": "the sofa", "d": ["the bed", "the rug"]},
+    {"c": "a geladeira", "a": "the refrigerator", "d": ["the stove", "the sink"], "ex": "O leite está na geladeira.", "exT": "The milk is in the refrigerator."},
+    {"c": "o fogão", "a": "the stove", "d": ["the refrigerator", "the sink"]},
+    {"c": "a chave", "a": "the key", "d": ["the lock", "the door"], "ex": "Onde estão as minhas chaves?", "exT": "Where are my keys?"},
+    {"c": "a escada", "a": "the stairs", "d": ["the elevator", "the floor"]},
+    {"c": "o espelho", "a": "the mirror", "d": ["the window", "the lamp"]},
+    {"c": "o jardim", "a": "the garden, yard", "d": ["the garage", "the kitchen"]},
+    {"c": "em cima de", "a": "on top of", "d": ["under", "next to"], "ex": "A chave está em cima da mesa.", "exT": "The key is on top of the table."},
+    {"c": "embaixo de", "a": "under", "d": ["on top of", "behind"]},
+    {"c": "ao lado de", "a": "next to", "d": ["behind", "in front of"]},
+    {"c": "atrás de", "a": "behind", "d": ["in front of", "under"]},
+    {"c": "dentro de", "a": "inside", "d": ["outside", "on top of"]},
+    {"c": "Tem um sofá na sala.", "a": "There's a sofa in the living room.", "d": ["The sofa is in the bedroom.", "Do you have a sofa?"]},
+    {"c": "O livro está ___ mesa.", "a": "na", "d": ["no", "em a"]},
+    {"c": "O gato está ___ quarto.", "a": "no", "d": ["na", "em o"]},
+    {"c": "Os livros estão ___ cadeiras.", "a": "nas", "d": ["nos", "na"]},
+    {"c": "Eu moro ___ apartamento pequeno.", "a": "num", "d": ["numa", "nuns"]}
+  ],
+  "read": {
+    "title": "O apartamento novo",
+    "text": [
+      "A Carla mora num apartamento novo em Porto Alegre. O apartamento é pequeno, mas é bonito.",
+      "Tem uma sala, uma cozinha, um banheiro e dois quartos. Na sala tem um sofá azul e uma mesa com quatro cadeiras. A televisão fica ao lado da janela.",
+      "A cozinha é pequena. Tem uma geladeira branca e um fogão velho. O quarto da Carla tem uma cama grande e um espelho na parede. O outro quarto é para os amigos.",
+      "A Carla gosta muito do apartamento, mas tem um problema: não tem elevador, e ela mora no quinto andar!"
+    ],
+    "q": [
+      {
+        "q": "How many bedrooms does the apartment have?",
+        "o": [
+          "One",
+          "Two",
+          "Three"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What is next to the window?",
+        "o": [
+          "The sofa",
+          "The mirror",
+          "The television",
+          "The table"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What is the problem with the apartment?",
+        "o": [
+          "It has no elevator",
+          "The kitchen has no stove",
+          "It is too expensive",
+          "It is far from downtown"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

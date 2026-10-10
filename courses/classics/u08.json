@@ -1,0 +1,197 @@
+{
+  "title": "Marcus Aurelius, Meditations",
+  "note": "Marcus Aurelius, Roman emperor from 161 to 180, wrote these private notes to himself in Greek, partly while campaigning against the Quadi on the Danube frontier. Book II opens with a Stoic exercise for meeting difficult people.",
+  "src": {
+    "t": "Thoughts of Marcus Aurelius, tr. George Long, Project Gutenberg eBook #6920",
+    "u": "https://www.gutenberg.org/ebooks/6920"
+  },
+  "items": [
+    {
+      "c": "busybody",
+      "a": "a meddler in others' affairs",
+      "d": [
+        "a tireless worker",
+        "a quiet loner"
+      ]
+    },
+    {
+      "c": "Why people do wrong, per Marcus",
+      "a": "ignorance of what is good and evil",
+      "d": [
+        "inborn wickedness",
+        "bad luck"
+      ]
+    },
+    {
+      "c": "akin (Marcus Aurelius)",
+      "a": "related; of the same kind",
+      "d": [
+        "opposed",
+        "superior"
+      ]
+    },
+    {
+      "c": "kinsman",
+      "a": "a relative",
+      "d": [
+        "a stranger",
+        "an enemy"
+      ]
+    },
+    {
+      "c": "What all people share, per Marcus",
+      "a": "intelligence and a portion of the divine",
+      "d": [
+        "the same city and laws",
+        "the same rank and wealth"
+      ]
+    },
+    {
+      "c": "made for co-operation, like feet, like hands",
+      "a": "humans are meant to work together",
+      "d": [
+        "each person must stand alone",
+        "the body matters more than the mind"
+      ]
+    },
+    {
+      "c": "contrary to nature (Marcus)",
+      "a": "against what we were made for",
+      "d": [
+        "unusual but harmless",
+        "required by law"
+      ]
+    },
+    {
+      "c": "vexed",
+      "a": "annoyed",
+      "d": [
+        "delighted",
+        "puzzled"
+      ]
+    },
+    {
+      "c": "efflux",
+      "a": "an outflow from a source",
+      "d": [
+        "a barrier",
+        "an ending"
+      ]
+    },
+    {
+      "c": "administrator of the universe",
+      "a": "the divine power that governs all",
+      "d": [
+        "the Roman Senate",
+        "the emperor's chief minister"
+      ]
+    },
+    {
+      "c": "a limit of time is fixed for thee",
+      "a": "your life is short and will end",
+      "d": [
+        "your reign has a set term",
+        "your meetings are scheduled"
+      ]
+    },
+    {
+      "c": "Language Marcus wrote the Meditations in",
+      "a": "Greek",
+      "d": [
+        "Latin",
+        "Aramaic",
+        "Syriac"
+      ]
+    },
+    {
+      "c": "Greek title of the Meditations",
+      "a": "Ta eis heauton, 'to himself'",
+      "d": [
+        "Encheiridion, 'handbook'",
+        "Apologia, 'defense'"
+      ]
+    },
+    {
+      "c": "Years Marcus Aurelius reigned",
+      "a": "161 to 180 AD",
+      "d": [
+        "27 BC to 14 AD",
+        "98 to 117 AD",
+        "284 to 305 AD"
+      ]
+    },
+    {
+      "c": "Marcus's adoptive father and predecessor",
+      "a": "Antoninus Pius",
+      "d": [
+        "Hadrian",
+        "Trajan",
+        "Nerva"
+      ]
+    },
+    {
+      "c": "Marcus's son and successor",
+      "a": "Commodus",
+      "d": [
+        "Lucius Verus",
+        "Septimius Severus",
+        "Caracalla"
+      ]
+    },
+    {
+      "c": "Tribe Marcus was fighting as he wrote",
+      "a": "the Quadi",
+      "d": [
+        "the Huns",
+        "the Vandals",
+        "the Franks"
+      ],
+      "ex": "Book I ends with the note 'Among the Quadi at the Granua.'"
+    },
+    {
+      "c": "Translator of these Thoughts (1862)",
+      "a": "George Long",
+      "d": [
+        "Meric Casaubon",
+        "Thomas Higginson",
+        "Benjamin Jowett"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Meditations, Book II, sections 1 and 4",
+    "text": [
+      "Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil. But I who have seen the nature of the good that it is beautiful, and of the bad that it is ugly, and the nature of him who does wrong, that it is akin to me, not [only] of the same blood or seed, but that it participates in [the same] intelligence and [the same] portion of the divinity, I can neither be injured by any of them, for no one can fix on me what is ugly, nor can I be angry with my kinsman, nor hate him. For we are made for co-operation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth. To act against one another, then, is contrary to nature; and it is acting against one another to be vexed and to turn away.",
+      "4. Remember how long thou hast been putting off these things, and how often thou hast received an opportunity from the gods, and yet dost not use it. Thou must now at last perceive of what universe thou art now a part, and of what administrator of the universe thy existence is an efflux, and that a limit of time is fixed for thee, which if thou dost not use for clearing away the clouds from thy mind, it will go and thou wilt go, and it will never return."
+    ],
+    "q": [
+      {
+        "q": "What is the main idea of section 1?",
+        "o": [
+          "Expect difficult people, but refuse to be harmed or angered by them, since all people are kin made to work together",
+          "Avoid other people as much as possible",
+          "Punish wrongdoers firmly each morning"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why can the wrongdoers not injure Marcus?",
+        "o": [
+          "No one can make him do what is ugly; only his own choices can",
+          "As emperor he has guards",
+          "They are too ignorant to act"
+        ],
+        "k": 0
+      },
+      {
+        "q": "'It will go and thou wilt go, and it will never return' refers to:",
+        "o": [
+          "the limited time one has to clear one's mind",
+          "the army leaving the frontier",
+          "a friend going into exile"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

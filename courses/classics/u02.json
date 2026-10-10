@@ -1,0 +1,212 @@
+{
+  "title": "The Declaration of Independence",
+  "note": "The Second Continental Congress adopted the Declaration on July 4, 1776. Its opening states a theory of government: rights come from the Creator, governments exist to secure them, and a people may replace a government that destroys them.",
+  "src": {
+    "t": "The Declaration of Independence, Project Gutenberg eBook #1",
+    "u": "https://www.gutenberg.org/ebooks/1"
+  },
+  "items": [
+    {
+      "c": "dissolve the political bands",
+      "a": "break the political ties",
+      "d": [
+        "sign a trade agreement",
+        "form a military alliance"
+      ]
+    },
+    {
+      "c": "impel (Declaration)",
+      "a": "drive or compel",
+      "d": [
+        "delay or prevent",
+        "hide or disguise"
+      ]
+    },
+    {
+      "c": "Why the colonists declare their causes",
+      "a": "out of respect for the opinions of mankind",
+      "d": [
+        "because the King demanded reasons",
+        "to satisfy a treaty with France"
+      ]
+    },
+    {
+      "c": "self-evident",
+      "a": "plainly true without needing proof",
+      "d": [
+        "proven by long experiment",
+        "true only for some nations"
+      ]
+    },
+    {
+      "c": "unalienable Rights",
+      "a": "rights that cannot be taken or given away",
+      "d": [
+        "rights granted by the King",
+        "rights only for property owners"
+      ]
+    },
+    {
+      "c": "Three rights named in the Declaration",
+      "a": "Life, Liberty, and the pursuit of Happiness",
+      "d": [
+        "Life, Liberty, and Property",
+        "Speech, Press, and Religion"
+      ]
+    },
+    {
+      "c": "Source of government's just powers (1776)",
+      "a": "the consent of the governed",
+      "d": [
+        "the will of the King",
+        "the authority of Parliament"
+      ]
+    },
+    {
+      "c": "Prudence (Declaration)",
+      "a": "practical good sense and caution",
+      "d": [
+        "fear of punishment",
+        "love of change"
+      ]
+    },
+    {
+      "c": "light and transient causes",
+      "a": "minor, passing reasons",
+      "d": [
+        "clear, lasting injuries",
+        "religious disputes"
+      ]
+    },
+    {
+      "c": "sufferable",
+      "a": "able to be endured",
+      "d": [
+        "deserving punishment",
+        "easily cured"
+      ]
+    },
+    {
+      "c": "usurpations",
+      "a": "wrongful seizures of power",
+      "d": [
+        "lawful acts of Parliament",
+        "peaceful petitions"
+      ]
+    },
+    {
+      "c": "absolute Despotism",
+      "a": "unlimited rule by a tyrant",
+      "d": [
+        "rule by elected assemblies",
+        "government by local custom"
+      ]
+    },
+    {
+      "c": "patient sufferance",
+      "a": "long, patient endurance",
+      "d": [
+        "quick, angry rebellion",
+        "careless indifference"
+      ]
+    },
+    {
+      "c": "constrains (Declaration)",
+      "a": "compels",
+      "d": [
+        "forbids",
+        "permits"
+      ]
+    },
+    {
+      "c": "a candid world",
+      "a": "a fair-minded, impartial world",
+      "d": [
+        "a world hostile to the colonies",
+        "a world of loyal subjects"
+      ]
+    },
+    {
+      "c": "'the present King of Great Britain' in 1776",
+      "a": "George III",
+      "d": [
+        "George II",
+        "George IV",
+        "William IV"
+      ]
+    },
+    {
+      "c": "Principal drafter of the Declaration",
+      "a": "Thomas Jefferson",
+      "d": [
+        "John Adams",
+        "Benjamin Franklin",
+        "James Madison"
+      ]
+    },
+    {
+      "c": "Body that adopted the Declaration",
+      "a": "the Second Continental Congress",
+      "d": [
+        "the Constitutional Convention",
+        "the First Continental Congress",
+        "the House of Burgesses"
+      ]
+    },
+    {
+      "c": "City where the Declaration was adopted",
+      "a": "Philadelphia",
+      "d": [
+        "Boston",
+        "New York",
+        "Williamsburg"
+      ]
+    },
+    {
+      "c": "Philosopher of 'life, liberty, and estate'",
+      "a": "John Locke",
+      "d": [
+        "Thomas Hobbes",
+        "David Hume",
+        "Edmund Burke"
+      ],
+      "ex": "Locke's Second Treatise of Government shaped the Declaration's language of rights."
+    }
+  ],
+  "read": {
+    "title": "The Declaration of Independence (1776)",
+    "text": [
+      "When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume, among the Powers of the earth, the separate and equal station to which the Laws of Nature and of Nature’s God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.",
+      "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty, and the pursuit of Happiness. That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness. Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shown, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed. But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security. --Such has been the patient sufferance of these Colonies; and such is now the necessity which constrains them to alter their former Systems of Government. The history of the present King of Great Britain is a history of repeated injuries and usurpations, all having in direct object the establishment of an absolute Tyranny over these States. To prove this, let Facts be submitted to a candid world."
+    ],
+    "q": [
+      {
+        "q": "What does the opening mainly argue?",
+        "o": [
+          "When a government destroys the rights it exists to secure, the people may replace it, and the colonies have reached that point",
+          "The colonies deserve seats in Parliament",
+          "Kings rule by divine right but should take advice"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does the passage suggest about overthrowing a government?",
+        "o": [
+          "It is justified after a long train of abuses, not for light and transient causes",
+          "It is justified whenever a law is unpopular",
+          "It is never justified"
+        ],
+        "k": 0
+      },
+      {
+        "q": "'The Laws of Nature and of Nature's God' appeals to:",
+        "o": [
+          "a moral law higher than any king's decree",
+          "the statutes passed by Parliament",
+          "the laws of physics"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

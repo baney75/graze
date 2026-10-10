@@ -1,0 +1,54 @@
+{
+  "title": "Hellenistic schools: Stoics, Epicureans, Skeptics",
+  "note": "After Aristotle, schools offered whole ways of life aimed at happiness. Stoics held that virtue is the only good and that we should live in agreement with a rational nature. Epicureans held that the goal is pleasure, understood as freedom from pain and fear. Skeptics suspended judgment to find peace of mind.",
+  "src": { "t": "Stanford Encyclopedia of Philosophy, Stoicism", "u": "https://plato.stanford.edu/entries/stoicism/" },
+  "items": [
+    { "c": "Founder of the Stoic school", "a": "Zeno of Citium", "d": ["Zeno of Elea", "Epicurus", "Pyrrho"] },
+    { "c": "Origin of the name 'Stoic'", "a": "the Painted Porch in the Athenian agora", "d": ["a Greek word for endurance", "Zeno's home town"] },
+    { "c": "Chief systematizer of early Stoicism", "a": "Chrysippus", "d": ["Seneca", "Lucretius", "Carneades"] },
+    { "c": "Stoic end of life", "a": "living in agreement with nature", "d": ["maximizing pleasure", "suspending all judgment"] },
+    { "c": "The only true good, for the Stoics", "a": "virtue", "d": ["pleasure", "health", "honor"] },
+    { "c": "Stoic preferred indifferents", "a": "health or wealth: worth choosing but not good", "d": ["vices that are hard to avoid", "pleasures of the body"] },
+    { "c": "Stoic apatheia", "a": "freedom from irrational passions", "d": ["indifference to all other people", "freedom from bodily pain"] },
+    { "c": "Stoic analysis of the passions", "a": "false judgments about good and bad", "d": ["motions of atoms in the soul", "punishments sent by the gods"] },
+    { "c": "Epictetus's basic division of things", "a": "what is up to us and what is not", "d": ["pleasant and painful", "natural and conventional"] },
+    { "c": "Epictetus's short handbook", "a": "Enchiridion", "d": ["Meditations", "De Rerum Natura", "Outlines of Pyrrhonism"] },
+    { "c": "Marcus Aurelius's private notebook", "a": "Meditations", "d": ["Enchiridion", "Letters to Lucilius", "Leviathan"] },
+    { "c": "Stoic who advised the emperor Nero", "a": "Seneca", "d": ["Epictetus", "Marcus Aurelius", "Cicero"] },
+    { "c": "Stoic teacher who had been a slave", "a": "Epictetus", "d": ["Seneca", "Chrysippus", "Cleanthes"] },
+    { "c": "Stoic cosmopolitanism", "a": "all rational beings share one world-city", "d": ["each city should rule itself alone", "wise people should avoid cities"] },
+    { "c": "Stoic God, or logos", "a": "reason pervading and ordering the cosmos", "d": ["a distant being unconcerned with us", "the first atom to swerve"] },
+    { "c": "Stoic view of fate", "a": "all events are causally determined", "d": ["all events happen by chance", "only human acts are determined"] },
+    { "c": "Epicurus's school", "a": "the Garden", "d": ["the Stoa", "the Lyceum", "the Academy"] },
+    { "c": "Epicurean highest good", "a": "pleasure, as freedom from pain and fear", "d": ["virtue alone, whatever the pain", "wealth and political honor"] },
+    { "c": "Ataraxia", "a": "tranquility, an untroubled mind", "d": ["absence of bodily pain", "practical wisdom"] },
+    { "c": "Aponia", "a": "absence of bodily pain", "d": ["an untroubled mind", "suspension of judgment"] },
+    { "c": "Why Epicurus said death is nothing to us", "a": "death ends sensation, so it cannot harm us", "d": ["the soul lives on in bliss", "the gods reward the virtuous"] },
+    { "c": "Desire for fame, in Epicurus's scheme", "a": "empty: neither natural nor necessary", "d": ["natural and necessary", "natural but unnecessary"] },
+    { "c": "Desire for food and shelter, for Epicurus", "a": "natural and necessary", "d": ["empty and unnatural", "natural but unnecessary"] },
+    { "c": "Epicurean atomic swerve", "a": "a tiny random deviation that allows free action", "d": ["the soul's ascent to the gods", "the cycle of cosmic fire"] },
+    { "c": "Author of De Rerum Natura", "a": "Lucretius", "d": ["Cicero", "Seneca", "Virgil"] },
+    { "c": "Epicurus's summary of his ethics", "a": "Letter to Menoeceus", "d": ["Letter to Lucilius", "Enchiridion"] },
+    { "c": "Pyrrho of Elis", "a": "founder of a skepticism that suspends judgment", "d": ["founder of the Stoic school", "Epicurus's chief student"] },
+    { "c": "Epoché", "a": "suspension of judgment", "d": ["freedom from pain", "living by nature"] },
+    { "c": "Academic skeptics such as Carneades", "a": "denied certainty but acted on the persuasive", "d": ["claimed certain knowledge of the gods", "taught that pleasure is the good"] },
+    { "c": "Sextus Empiricus's main surviving work", "a": "Outlines of Pyrrhonism", "d": ["Meditations", "Enchiridion", "On Nature"] },
+    { "c": "Diogenes of Sinope's school", "a": "the Cynics", "d": ["the Stoics", "the Epicureans", "the Skeptics"] },
+    { "c": "Plotinus's ultimate principle", "a": "the One", "d": ["the Demiurge", "the void", "the logos"] },
+    { "c": "Neoplatonic emanation", "a": "reality flows from the One in descending levels", "d": ["atoms collide by chance", "God crafts matter by hand"] }
+  ],
+  "read": {
+    "title": "Three roads to peace",
+    "text": [
+      "After Alexander's conquests, Greek philosophy became a guide to living well in an uncertain world. Three schools gave rival answers.",
+      "The Stoics taught that the cosmos is ordered by divine reason, the logos, and that human beings share in it. Virtue, the excellence of reason, is the only true good. Health, wealth, and reputation are preferred, and it is reasonable to pursue them, but they are not good in themselves, because they can be misused. Since passions such as fear and envy rest on false judgments about what matters, the wise person can be free of them. Epictetus summed it up: some things are up to us, our judgments and choices, and the rest are not.",
+      "Epicurus held that the goal of life is pleasure, but by pleasure he meant mainly the absence of pain in the body and disturbance in the soul. Simple food, friends, and clear thinking supply it. Since the soul is made of atoms that scatter at death, death is not something we will ever experience, so fearing it is pointless.",
+      "The skeptics noticed that equally strong arguments can be found on both sides of most questions. Pyrrhonists responded by suspending judgment and reported that tranquility followed."
+    ],
+    "q": [
+      { "q": "Why do the Stoics deny that wealth is truly good?", "o": ["It can be misused", "It is impossible to get", "It causes pain to others"], "k": 0 },
+      { "q": "What did Epicurus mainly mean by pleasure?", "o": ["Luxury and feasting", "Absence of pain and disturbance", "Political power"], "k": 1 },
+      { "q": "What did Pyrrhonists say followed suspension of judgment?", "o": ["Certain knowledge", "Tranquility", "Fear of death"], "k": 1 }
+    ]
+  }
+}

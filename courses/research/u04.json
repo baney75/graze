@@ -1,0 +1,50 @@
+{
+  "title": "Types of sources",
+  "note": "Sources differ by how far they are from the original evidence. Primary sources are firsthand; secondary sources analyze them; tertiary sources summarize and index. A source's role depends on your question. Separately, ask who wrote it and for whom: scholarly, professional, or popular.",
+  "src": { "t": "Choosing and Using Sources, 2.5 Primary, Secondary and Tertiary Sources, LibreTexts", "u": "https://human.libretexts.org/Bookshelves/Research_and_Information_Literacy/Choosing_and_Using_Sources%3A_A_Guide_to_Academic_Research/02%3A_Types_of_Sources/2.05%3A_Primary_Secondary_and_Tertiary_Sources" },
+  "items": [
+    { "c": "Primary source", "a": "Firsthand, original evidence or data", "d": ["An analysis of other people's findings", "A summary that indexes many sources", "A list of recommended readings"] },
+    { "c": "Secondary source", "a": "Analyzes or interprets primary sources", "d": ["Firsthand evidence from the time or event", "A raw data set from an experiment", "A database that indexes articles"] },
+    { "c": "Tertiary source", "a": "Condenses or indexes other sources, like an encyclopedia", "d": ["Reports a new experiment's results", "A letter written during the events", "An original survey data set"] },
+    { "c": "Primary source for a history of World War I", "a": "A soldier's letter written from the front", "d": ["A historian's book about the war", "An encyclopedia entry on the war", "A textbook chapter on the war"] },
+    { "c": "Secondary source for a study of a novel", "a": "A critic's essay analyzing the novel", "d": ["The novel itself", "The author's handwritten draft", "The author's personal diary"] },
+    { "c": "In the sciences, a primary source is usually", "a": "An article reporting an original study", "d": ["A review summarizing many studies", "An encyclopedia entry on the topic", "A news story about a study"] },
+    { "c": "Whether a source counts as primary depends on", "a": "The question you are using it to answer", "d": ["How old the source is", "Whether it is printed or online", "How many pages it has"], "ex": "A movie review is usually secondary, but primary in a study of how reviews affect ticket sales." },
+    { "c": "Scholarly article", "a": "Written by researchers for experts, with references", "d": ["Written by journalists for the public", "Written by staff for one industry", "Written by marketers to sell a product"] },
+    { "c": "Popular magazine article", "a": "Written by journalists for a general audience", "d": ["Written by researchers for specialists", "Written by members of one profession", "Written by a government agency"] },
+    { "c": "Professional (trade) publication", "a": "Written for working practitioners in one field", "d": ["Written for a general audience", "Written only for peer reviewers", "Written by students for a class"] },
+    { "c": "A strong clue an article is scholarly", "a": "A full reference list and author affiliations", "d": ["Glossy photos and many ads", "A catchy, punning headline", "No named author"] },
+    { "c": "Preprint", "a": "A manuscript shared publicly before peer review", "d": ["An article after its final correction", "A printed copy of a journal issue", "An abstract written by an editor"] },
+    { "c": "Main caution when citing a preprint", "a": "It has not yet passed peer review", "d": ["It cannot be read for free", "It is always retracted later", "It contains no data"] },
+    { "c": "arXiv", "a": "A preprint server for physics, math, and computer science", "d": ["A peer-reviewed medical journal", "A citation management program", "A database of retracted papers"] },
+    { "c": "medRxiv", "a": "A preprint server for health sciences research", "d": ["A peer-reviewed nursing journal", "NLM's controlled vocabulary", "A registry of clinical trials"] },
+    { "c": "Gray literature", "a": "Research produced outside commercial publishing", "d": ["Articles printed in black and white", "Papers that have been retracted", "Very old journal articles"] },
+    { "c": "Example of gray literature", "a": "A government agency's technical report", "d": ["A peer-reviewed journal article", "A university press monograph", "A commercial textbook"] },
+    { "c": "Why systematic reviews search gray literature", "a": "To include unpublished results and reduce publication bias", "d": ["Because journals ban review authors", "To avoid having to read full texts", "Because gray literature is always peer reviewed"] },
+    { "c": "Dissertation", "a": "A doctoral candidate's book-length original research", "d": ["A short opinion piece in a newspaper", "An encyclopedia's summary article", "A journal's annual index"] },
+    { "c": "Conference abstract", "a": "A brief summary of work presented at a meeting", "d": ["A full peer-reviewed journal article", "A journal's yearly citation report", "A complete doctoral thesis"] },
+    { "c": "Best academic use of Wikipedia", "a": "Background and leads to the sources it cites", "d": ["The main cited source in a paper", "Proof that a claim is settled", "A substitute for peer review"] },
+    { "c": "Narrative review article", "a": "An expert's overview of research on a topic", "d": ["A report of one new experiment", "A newspaper story about a study", "A raw data set shared online"] },
+    { "c": "Editorial or opinion piece", "a": "An argument for a viewpoint, not new data", "d": ["A report of a new experiment", "A data set from a survey", "A full systematic review"] },
+    { "c": "Press release", "a": "An organization's announcement promoting its own news", "d": ["An independent review of a study", "A peer-reviewed research article", "An encyclopedia entry"] },
+    { "c": "White paper", "a": "An organization's report on an issue, often advocating a solution", "d": ["A peer-reviewed article on blank pages", "A journal's correction notice", "A preprint of a medical trial"] },
+    { "c": "Monograph", "a": "A scholarly book on a single subject", "d": ["A one-page summary of a study", "A list of journal abbreviations", "A collection of news clippings"] },
+    { "c": "Open access", "a": "Free to read online without a subscription", "d": ["Open to edits by any reader", "Published without any review", "Available only on campus"] },
+    { "c": "Paywall", "a": "A barrier requiring payment or a subscription to read", "d": ["A filter for peer-reviewed results", "A warning on retracted articles", "A limit on how many authors a paper has"] },
+    { "c": "Interview transcript you recorded yourself", "a": "Primary data from your own research", "d": ["A tertiary source", "A secondary analysis", "Gray literature from an agency"] }
+  ],
+  "read": {
+    "title": "Distance from the evidence",
+    "text": [
+      "A helpful way to sort sources is by how many steps separate them from the original evidence. A primary source is the evidence itself: a lab's data, a diary, a speech, a photograph, a novel, or a journal article that reports a new study. A secondary source works with primary sources: a historian's book built from letters, or a review article that weighs many studies. A tertiary source condenses further, as encyclopedias, handbooks and many textbooks do.",
+      "These labels are roles, not fixed properties. A newspaper editorial is secondary if you use it to learn about a policy, but primary if your project studies how newspapers argued about that policy.",
+      "A second question is who wrote the source and for whom. Scholarly articles are written by researchers, reviewed by experts, and full of citations. Professional publications serve working practitioners. Popular sources are written for general readers.",
+      "Two categories need extra care. Preprints share new results fast, but no peer reviewer has checked them yet. Gray literature, such as agency reports, theses and conference papers, often holds valuable data that never reached a journal, which is why thorough reviews search it on purpose."
+    ],
+    "q": [
+      { "q": "When would a newspaper editorial be a primary source?", "o": ["Whenever it is more than 50 years old", "When your project studies how newspapers argued about an issue", "When it cites a scientific study", "Never; editorials are always secondary"], "k": 1 },
+      { "q": "What is the main caution the reading gives about preprints?", "o": ["They are never free to read", "They are tertiary sources", "No peer reviewer has checked them yet"], "k": 2 },
+      { "q": "Why do thorough reviews search gray literature on purpose?", "o": ["It may hold valuable data that never reached a journal", "It is always peer reviewed", "It is easier to cite"], "k": 0 }
+    ]
+  }
+}

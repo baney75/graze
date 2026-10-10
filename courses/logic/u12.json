@@ -1,0 +1,47 @@
+{
+  "title": "Evaluating evidence and sources",
+  "note": "Weigh a claim by its evidence and its source. Ask who is speaking, what expertise and incentives they have, whether independent sources agree, and whether the claim could be checked or shown false. Our own minds bend evidence too: we favor what fits our views, recall vivid cases, and judge from survivors.",
+  "src": { "t": "Critical Reasoning (Southworth and Swoyer), Ch. 5 Evaluating Sources of Information", "u": "https://human.libretexts.org/Bookshelves/Philosophy/Logic_and_Reasoning/Critical_Reasoning%3A_A_User's_Manual_(Southworth_and_Swoyer)/05%3A_Evaluating_Sources_of_Information" },
+  "items": [
+    { "c": "Confirmation bias", "a": "favoring evidence that fits your beliefs", "d": ["over-relying on the first number you see", "judging odds by how easily examples come to mind", "seeing the past as more predictable than it was"] },
+    { "c": "Anchoring", "a": "over-relying on the first number you see", "d": ["favoring evidence that fits your beliefs", "judging only from those who made it", "continuing because of what you already spent"] },
+    { "c": "Availability heuristic", "a": "judging odds by how easily examples come to mind", "d": ["over-relying on the first number you see", "ignoring how common something is overall", "favoring evidence that fits your beliefs"] },
+    { "c": "Sunk cost fallacy", "a": "continuing because of what you already spent", "d": ["believing past random results change future odds", "favoring evidence that fits your beliefs", "valuing a thing more once you own it"] },
+    { "c": "Survivorship bias", "a": "judging only from those who made it", "d": ["judging only from the most recent cases", "over-relying on the first number you see", "seeing the past as more predictable than it was"] },
+    { "c": "Hindsight bias", "a": "'I knew it all along': the past seems predictable", "d": ["favoring evidence that fits your beliefs", "judging only from those who made it", "over-relying on the first number you see"] },
+    { "c": "Falsifiability", "a": "a claim's openness to being shown false", "d": ["a claim's having been shown false", "a claim's being impossible to test", "a claim's being widely doubted"] },
+    { "c": "Unfalsifiable claim", "a": "no possible observation could count against it", "d": ["it has been proven true", "it has already been refuted"] },
+    { "c": "Who made falsifiability the mark of science?", "a": "Karl Popper", "d": ["Thomas Kuhn", "John Stuart Mill", "Rudolf Carnap"] },
+    { "c": "Primary source", "a": "a firsthand record or the original data", "d": ["a summary written years later", "an encyclopedia article on the topic"] },
+    { "c": "Secondary source", "a": "a work that interprets or reports on primary sources", "d": ["an eyewitness diary from the event", "the raw data from an experiment"] },
+    { "c": "Lateral reading", "a": "checking what other sources say about a source", "d": ["reading a source closely from start to finish", "skimming only the headline and summary"] },
+    { "c": "Peer review", "a": "experts vet a study before publication", "d": ["readers rate an article after publication", "the author rechecks the work alone"] },
+    { "c": "Conflict of interest", "a": "a stake that may bias a source's judgment", "d": ["a disagreement between two experts", "a lack of relevant expertise"] },
+    { "c": "Anecdotal evidence", "a": "a few personal stories offered as proof", "d": ["data from a large random sample", "results repeated by many labs"] },
+    { "c": "Replication", "a": "repeating a study to see if its results hold", "d": ["citing a study many times", "publishing a study in two journals"] },
+    { "c": "Independent corroboration", "a": "agreement among sources that did not rely on each other", "d": ["one source repeated by many outlets", "a source agreeing with its own earlier claim"] },
+    { "c": "Fifty sites repeating one wire report count as", "a": "one source, not fifty", "d": ["fifty independent confirmations", "proof the report is true"] },
+    { "c": "Deferring to experts is most reasonable when", "a": "they speak in their field and broadly agree", "d": ["they are famous outside their field", "a single expert disagrees with the rest"] },
+    { "c": "Extraordinary claims require", "a": "extraordinary evidence", "d": ["no evidence at all", "a confident speaker", "a large audience"] },
+    { "c": "Selection bias", "a": "a sample chosen in a way that skews results", "d": ["a sample that is too large", "a sample chosen at random"] },
+    { "c": "Self-selected sample (e.g., online poll)", "a": "people choose to respond, so it may not represent all", "d": ["the researcher picks every respondent at random", "it is always more accurate than a random sample"] },
+    { "c": "Margin of error in a poll", "a": "the likely range around the sample's estimate", "d": ["the share of people who lied", "the number of people who refused"] },
+    { "c": "Testimony is more credible when the witness", "a": "could observe, has no stake, and is consistent", "d": ["speaks confidently and at length", "agrees with what you already believe"] },
+    { "c": "Motivated reasoning", "a": "reasoning toward the conclusion you want", "d": ["reasoning that follows the evidence wherever it leads", "reasoning slowly and with care"] },
+    { "c": "Belief perseverance", "a": "keeping a belief after its evidence is discredited", "d": ["changing a belief at the first objection", "refusing to form any belief"] }
+  ],
+  "read": {
+    "title": "Weighing what you are told",
+    "text": [
+      "Most of what we believe comes from other people: teachers, reporters, experts, friends. That is not a failure of thinking; no one can check everything firsthand. The skill is deciding whom to trust, and how far.",
+      "Start with the source. Does it have relevant expertise, and is it speaking inside its field? Does it have a stake in the answer, such as money or reputation? Was the witness in a position to know? Then look for independent corroboration. Fifty websites repeating one wire story are one source, not fifty. Professional fact-checkers read laterally: rather than studying a page closely, they open new tabs to see what others say about it.",
+      "Next, look at the evidence itself. A few vivid stories are weaker than a large, well-chosen sample. Results that others have replicated deserve more weight than a single study. A claim that no possible observation could refute, which Karl Popper called unfalsifiable, explains everything and therefore tells us little.",
+      "Finally, check yourself. We tend to notice evidence that fits what we already believe, to judge likelihood by what comes easily to mind, and to study only the winners. Naming these biases does not cure them, but it gives you a reason to look again."
+    ],
+    "q": [
+      { "q": "What does the reading say about fifty websites repeating one wire story?", "o": ["They amount to one source", "They prove the story true", "They are fifty independent sources"], "k": 0 },
+      { "q": "What is lateral reading?", "o": ["Reading a page very slowly", "Checking what other sources say about a page", "Reading only the headline"], "k": 1 },
+      { "q": "Why does the reading say an unfalsifiable claim tells us little?", "o": ["It has been disproven", "Only experts can test it", "It is consistent with any possible observation"], "k": 2 }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "title": "Plato, Apology: the oracle at Delphi",
+  "note": "At his trial in 399 BC, Socrates explains how he got his name for wisdom: the oracle said no one was wiser, so he set out to test it by questioning men reputed to be wise.",
+  "src": {
+    "t": "Apology, by Plato, tr. Benjamin Jowett, Project Gutenberg eBook #1656",
+    "u": "https://www.gutenberg.org/ebooks/1656"
+  },
+  "items": [
+    {
+      "c": "Chaerephon",
+      "a": "Socrates' impetuous friend who questioned the oracle",
+      "d": [
+        "the accuser who wrote the indictment",
+        "the jailer who brought the poison"
+      ]
+    },
+    {
+      "c": "Where Chaerephon asked about Socrates' wisdom",
+      "a": "the oracle at Delphi",
+      "d": [
+        "the oracle of Zeus at Dodona",
+        "the Acropolis at Athens",
+        "the Areopagus court"
+      ]
+    },
+    {
+      "c": "God whose oracle spoke at Delphi",
+      "a": "Apollo",
+      "d": [
+        "Zeus",
+        "Athena",
+        "Dionysus"
+      ]
+    },
+    {
+      "c": "the Pythian prophetess",
+      "a": "the priestess who spoke Apollo's answers",
+      "d": [
+        "a seer who read the flight of birds",
+        "the goddess of wisdom in person"
+      ]
+    },
+    {
+      "c": "The oracle's answer about Socrates",
+      "a": "no man was wiser than he",
+      "d": [
+        "he was the most pious of men",
+        "he would die for his wisdom"
+      ]
+    },
+    {
+      "c": "Who could confirm the oracle story in court",
+      "a": "Chaerephon's brother",
+      "d": [
+        "Chaerephon's son",
+        "the priestess herself"
+      ]
+    },
+    {
+      "c": "the recent exile of the people (Apology)",
+      "a": "democrats' flight from Athens under the Thirty",
+      "d": [
+        "Athenians' flight from the Persians in 480 BC",
+        "the exile of the poets from Athens"
+      ]
+    },
+    {
+      "c": "impetuous",
+      "a": "acting with sudden, eager force",
+      "d": [
+        "acting with slow caution",
+        "acting out of quiet spite"
+      ]
+    },
+    {
+      "c": "Why Socrates called the oracle a riddle",
+      "a": "he knew he had no wisdom, yet a god cannot lie",
+      "d": [
+        "the priestess spoke in a foreign tongue",
+        "the answer came written in a code"
+      ]
+    },
+    {
+      "c": "refutation",
+      "a": "a proof that a claim is false",
+      "d": [
+        "a formal accusation",
+        "a sworn confirmation"
+      ]
+    },
+    {
+      "c": "First man Socrates examined to test the oracle",
+      "a": "a politician",
+      "d": [
+        "a poet",
+        "a craftsman",
+        "a priest"
+      ]
+    },
+    {
+      "c": "How the politician took being examined",
+      "a": "he and others came to hate Socrates",
+      "d": [
+        "he thanked Socrates and became his pupil",
+        "he admitted he knew nothing"
+      ]
+    },
+    {
+      "c": "enmity (Apology)",
+      "a": "deep hostility",
+      "d": [
+        "warm friendship",
+        "quiet indifference"
+      ]
+    },
+    {
+      "c": "Socrates' slight advantage over the politician",
+      "a": "he did not think he knew what he did not know",
+      "d": [
+        "he knew far more about public affairs",
+        "he was a better speaker in the Assembly"
+      ]
+    },
+    {
+      "c": "'he knows nothing, and thinks that he knows'",
+      "a": "ignorance unaware of itself",
+      "d": [
+        "ignorance honestly admitted",
+        "wisdom hidden by modesty"
+      ]
+    },
+    {
+      "c": "pretensions to wisdom",
+      "a": "claims to be wise",
+      "d": [
+        "doubts about being wise",
+        "rewards for being wise"
+      ]
+    },
+    {
+      "c": "Groups Socrates examined after the politicians",
+      "a": "the poets, then the craftsmen",
+      "d": [
+        "the generals, then the priests",
+        "the judges, then the sophists"
+      ]
+    },
+    {
+      "c": "elenchus (Socratic method)",
+      "a": "Socratic cross-examination that tests a claim",
+      "d": [
+        "a written code of laws",
+        "a speech in praise of the dead"
+      ]
+    },
+    {
+      "c": "Socrates' three accusers",
+      "a": "Meletus, Anytus and Lycon",
+      "d": [
+        "Crito, Phaedo and Cebes",
+        "Critias, Charmides and Alcibiades"
+      ]
+    },
+    {
+      "c": "Size of the jury that tried Socrates",
+      "a": "about 500 citizens",
+      "d": [
+        "twelve citizens",
+        "about fifty citizens",
+        "the whole Assembly"
+      ]
+    },
+    {
+      "c": "Votes that would have acquitted Socrates",
+      "a": "thirty more on his side",
+      "d": [
+        "three more on his side",
+        "three hundred more on his side"
+      ]
+    },
+    {
+      "c": "'Penalty' Socrates first proposed for himself",
+      "a": "free maintenance in the Prytaneum",
+      "d": [
+        "exile from Athens for life",
+        "a year in the city prison"
+      ],
+      "ex": "The Prytaneum fed Olympic victors and other benefactors of the city at public expense."
+    }
+  ],
+  "read": {
+    "title": "The Apology: what the oracle meant",
+    "text": [
+      "You must have known Chaerephon; he was early a friend of mine, and also a friend of yours, for he shared in the recent exile of the people, and returned with you. Well, Chaerephon, as you know, was very impetuous in all his doings, and he went to Delphi and boldly asked the oracle to tell him whether—as I was saying, I must beg you not to interrupt—he asked the oracle to tell him whether anyone was wiser than I was, and the Pythian prophetess answered, that there was no man wiser. Chaerephon is dead himself; but his brother, who is in court, will confirm the truth of what I am saying.",
+      "Why do I mention this? Because I am going to explain to you why I have such an evil name. When I heard the answer, I said to myself, What can the god mean? and what is the interpretation of his riddle? for I know that I have no wisdom, small or great. What then can he mean when he says that I am the wisest of men? And yet he is a god, and cannot lie; that would be against his nature. After long consideration, I thought of a method of trying the question. I reflected that if I could only find a man wiser than myself, then I might go to the god with a refutation in my hand. I should say to him, “Here is a man who is wiser than I am; but you said that I was the wisest.” Accordingly I went to one who had the reputation of wisdom, and observed him—his name I need not mention; he was a politician whom I selected for examination—and the result was as follows: When I began to talk with him, I could not help thinking that he was not really wise, although he was thought wise by many, and still wiser by himself; and thereupon I tried to explain to him that he thought himself wise, but was not really wise; and the consequence was that he hated me, and his enmity was shared by several who were present and heard me. So I left him, saying to myself, as I went away: Well, although I do not suppose that either of us knows anything really beautiful and good, I am better off than he is,—for he knows nothing, and thinks that he knows; I neither know nor think that I know. In this latter particular, then, I seem to have slightly the advantage of him. Then I went to another who had still higher pretensions to wisdom, and my conclusion was exactly the same. Whereupon I made another enemy of him, and of many others besides him."
+    ],
+    "q": [
+      {
+        "q": "Why does Socrates go to the politician?",
+        "o": [
+          "To ask him to speak for the defense",
+          "To find a man wiser than himself and so test the oracle",
+          "To win his vote on the jury"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What does Socrates conclude after talking with the politician?",
+        "o": [
+          "Neither knows anything truly good, but Socrates at least knows that he does not know",
+          "The politician is wiser in practical matters",
+          "The oracle must have been mistaken"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why does Socrates mention Chaerephon's brother?",
+        "o": [
+          "He is one of the accusers",
+          "He went to Delphi with Chaerephon",
+          "He is in court and can confirm the story, since Chaerephon is dead"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

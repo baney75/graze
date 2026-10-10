@@ -1,0 +1,380 @@
+{
+  "title": "Third declension: consonant stems",
+  "note": "Third-declension nouns show their stem in the genitive, so learn each with it: σάρξ, σαρκός (stem σαρκ-). Endings: singular -, -ος, -ι, -α or -ν; plural -ες, -ων, -σι(ν), -ας. Neuters have nominative = accusative and plural -α: σῶμα, σώματος, σώματα. Before σ, κ γ χ give ξ, π β φ give ψ, and τ δ θ drop out: σαρξί(ν), ἐλπίσι(ν).",
+  "src": {
+    "t": "Dickinson College Commentaries, Greek Core Vocabulary",
+    "u": "https://dcc.dickinson.edu/greek-core-list"
+  },
+  "items": [
+    {
+      "c": "σάρξ, σαρκός, ἡ",
+      "a": "flesh",
+      "d": [
+        "body",
+        "blood"
+      ],
+      "ex": "ὁ λόγος σὰρξ ἐγένετο.",
+      "exT": "The Word became flesh.",
+      "r": "sarx",
+      "say": "σάρξ"
+    },
+    {
+      "c": "χάρις, -ιτος, ἡ",
+      "a": "grace, favor",
+      "d": [
+        "hope",
+        "peace"
+      ],
+      "ex": "χάρις ὑμῖν καὶ εἰρήνη",
+      "exT": "grace to you and peace",
+      "r": "charis",
+      "say": "χάρις"
+    },
+    {
+      "c": "ἐλπίς, -ίδος, ἡ",
+      "a": "hope",
+      "d": [
+        "faith, trust",
+        "joy"
+      ],
+      "r": "elpis",
+      "say": "ἐλπίς",
+      "ex": "πίστις, ἐλπίς, ἀγάπη",
+      "exT": "faith, hope, love"
+    },
+    {
+      "c": "νύξ, νυκτός, ἡ",
+      "a": "night",
+      "d": [
+        "day",
+        "hour"
+      ],
+      "r": "nyx",
+      "say": "νύξ",
+      "ex": "νυκτὸς καὶ ἡμέρας",
+      "exT": "night and day"
+    },
+    {
+      "c": "σῶμα, -ατος, τό",
+      "a": "body",
+      "d": [
+        "flesh",
+        "soul, life"
+      ],
+      "ex": "τὸ σῶμα τοῦ Χριστοῦ",
+      "exT": "the body of Christ",
+      "r": "sōma",
+      "say": "σῶμα"
+    },
+    {
+      "c": "ὄνομα, -ατος, τό",
+      "a": "name",
+      "d": [
+        "word, saying",
+        "will"
+      ],
+      "ex": "ἐν τῷ ὀνόματι τοῦ κυρίου",
+      "exT": "in the name of the Lord",
+      "r": "onoma",
+      "say": "ὄνομα"
+    },
+    {
+      "c": "πνεῦμα, -ατος, τό",
+      "a": "spirit; wind, breath",
+      "d": [
+        "soul; life",
+        "fire; light"
+      ],
+      "ex": "τὸ πνεῦμα τὸ ἅγιον",
+      "exT": "the Holy Spirit",
+      "r": "pneuma",
+      "say": "πνεῦμα"
+    },
+    {
+      "c": "ῥῆμα, -ατος, τό",
+      "a": "word, saying; thing",
+      "d": [
+        "name; fame",
+        "will; wish"
+      ],
+      "r": "rhēma",
+      "say": "ῥῆμα",
+      "ex": "ῥήματα ζωῆς αἰωνίου",
+      "exT": "words of eternal life"
+    },
+    {
+      "c": "αἷμα, -ατος, τό",
+      "a": "blood",
+      "d": [
+        "water",
+        "flesh"
+      ],
+      "r": "haima",
+      "say": "αἷμα",
+      "ex": "τὸ αἷμα τοῦ Χριστοῦ",
+      "exT": "the blood of Christ"
+    },
+    {
+      "c": "θέλημα, -ατος, τό",
+      "a": "will, wish",
+      "d": [
+        "name",
+        "commandment"
+      ],
+      "ex": "τὸ θέλημα τοῦ πατρός",
+      "exT": "the will of the Father",
+      "r": "thelēma",
+      "say": "θέλημα"
+    },
+    {
+      "c": "στόμα, -ατος, τό",
+      "a": "mouth",
+      "d": [
+        "face",
+        "tongue, language"
+      ],
+      "r": "stoma",
+      "say": "στόμα",
+      "ex": "ἐκ τοῦ στόματος",
+      "exT": "out of the mouth"
+    },
+    {
+      "c": "φῶς, φωτός, τό",
+      "a": "light",
+      "d": [
+        "fire",
+        "darkness"
+      ],
+      "r": "phōs",
+      "say": "φῶς",
+      "ex": "τὸ φῶς ἐν τῇ σκοτίᾳ φαίνει.",
+      "exT": "The light shines in the darkness."
+    },
+    {
+      "c": "ἀνήρ, ἀνδρός, ὁ",
+      "a": "man, husband",
+      "d": [
+        "human being",
+        "father"
+      ],
+      "r": "anēr",
+      "say": "ἀνήρ",
+      "ex": "ἀνὴρ καὶ γυνή",
+      "exT": "husband and wife"
+    },
+    {
+      "c": "πατήρ, πατρός, ὁ",
+      "a": "father",
+      "d": [
+        "mother",
+        "man, husband"
+      ],
+      "r": "patēr",
+      "say": "πατήρ",
+      "ex": "ὁ πατὴρ καὶ ὁ υἱός",
+      "exT": "the Father and the Son"
+    },
+    {
+      "c": "μήτηρ, μητρός, ἡ",
+      "a": "mother",
+      "d": [
+        "daughter",
+        "woman, wife"
+      ],
+      "r": "mētēr",
+      "say": "μήτηρ",
+      "ex": "ἡ μήτηρ τοῦ Ἰησοῦ",
+      "exT": "the mother of Jesus"
+    },
+    {
+      "c": "θυγάτηρ, -τρός, ἡ",
+      "a": "daughter",
+      "d": [
+        "mother",
+        "sister"
+      ],
+      "r": "thygatēr",
+      "say": "θυγάτηρ"
+    },
+    {
+      "c": "γυνή, γυναικός, ἡ",
+      "a": "woman, wife",
+      "d": [
+        "mother",
+        "virgin, maiden"
+      ],
+      "r": "gynē",
+      "say": "γυνή",
+      "ex": "ἡ γυνὴ καὶ τὰ τέκνα",
+      "exT": "the wife and the children"
+    },
+    {
+      "c": "παῖς, παιδός, ὁ or ἡ",
+      "a": "child; servant",
+      "d": [
+        "young man; soldier",
+        "father; master"
+      ],
+      "r": "pais",
+      "say": "παῖς"
+    },
+    {
+      "c": "ἄρχων, -οντος, ὁ",
+      "a": "ruler, official",
+      "d": [
+        "judge",
+        "high priest"
+      ],
+      "r": "archōn",
+      "say": "ἄρχων"
+    },
+    {
+      "c": "αἰών, -ῶνος, ὁ",
+      "a": "age; eternity",
+      "d": [
+        "time; season",
+        "world; order"
+      ],
+      "ex": "εἰς τὸν αἰῶνα",
+      "exT": "forever",
+      "r": "aiōn",
+      "say": "αἰών"
+    },
+    {
+      "c": "πούς, ποδός, ὁ",
+      "a": "foot",
+      "d": [
+        "hand",
+        "knee"
+      ],
+      "r": "pous",
+      "say": "πούς",
+      "ex": "παρὰ τοὺς πόδας αὐτοῦ",
+      "exT": "at his feet"
+    },
+    {
+      "c": "χείρ, χειρός, ἡ",
+      "a": "hand",
+      "d": [
+        "foot",
+        "head"
+      ],
+      "r": "cheir",
+      "say": "χείρ",
+      "ex": "ἐν τῇ χειρὶ αὐτοῦ",
+      "exT": "in his hand"
+    },
+    {
+      "c": "ὕδωρ, ὕδατος, τό",
+      "a": "water",
+      "d": [
+        "blood",
+        "wine"
+      ],
+      "r": "hydōr",
+      "say": "ὕδωρ",
+      "ex": "ἐξ ὕδατος καὶ πνεύματος",
+      "exT": "of water and the Spirit"
+    },
+    {
+      "c": "πῦρ, πυρός, τό",
+      "a": "fire",
+      "d": [
+        "light",
+        "water"
+      ],
+      "r": "pyr",
+      "say": "πῦρ",
+      "ex": "ἐν πνεύματι ἁγίῳ καὶ πυρί",
+      "exT": "with the Holy Spirit and fire"
+    },
+    {
+      "c": "ἀστήρ, -έρος, ὁ",
+      "a": "star",
+      "d": [
+        "sun",
+        "cloud"
+      ],
+      "r": "astēr",
+      "say": "ἀστήρ"
+    },
+    {
+      "c": "σωτήρ, -ῆρος, ὁ",
+      "a": "savior",
+      "d": [
+        "ruler, official",
+        "judge"
+      ],
+      "r": "sōtēr",
+      "say": "σωτήρ",
+      "ex": "ὁ σωτὴρ τοῦ κόσμου",
+      "exT": "the savior of the world"
+    },
+    {
+      "c": "Ἕλλην, -ηνος, ὁ",
+      "a": "a Greek",
+      "d": [
+        "a Jew",
+        "a Roman"
+      ],
+      "r": "Hellēn",
+      "say": "Ἕλλην"
+    },
+    {
+      "c": "genitive singular of σῶμα",
+      "a": "σώματος",
+      "d": [
+        "σώμου",
+        "σώματι"
+      ]
+    },
+    {
+      "c": "ἐν τῷ ___ (in the name; ὄνομα)",
+      "a": "ὀνόματι",
+      "d": [
+        "ὀνόματος",
+        "ὄνομα"
+      ]
+    },
+    {
+      "c": "dative plural of σάρξ",
+      "a": "σαρξί(ν)",
+      "d": [
+        "σαρκοῖς",
+        "σάρκας"
+      ]
+    },
+    {
+      "c": "accusative singular of πατήρ",
+      "a": "πατέρα",
+      "d": [
+        "πατρός",
+        "πατέρες"
+      ]
+    },
+    {
+      "c": "genitive singular of γυνή",
+      "a": "γυναικός",
+      "d": [
+        "γυνῆς",
+        "γυναῖκα"
+      ]
+    },
+    {
+      "c": "nominative plural of ἄρχων",
+      "a": "ἄρχοντες",
+      "d": [
+        "ἄρχοντας",
+        "ἀρχόντων"
+      ]
+    },
+    {
+      "c": "εἰς τὸν ___ (forever; αἰών)",
+      "a": "αἰῶνα",
+      "d": [
+        "αἰῶνος",
+        "αἰῶνι"
+      ]
+    }
+  ]
+}

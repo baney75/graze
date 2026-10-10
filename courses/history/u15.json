@@ -1,0 +1,59 @@
+{
+  "title": "The interwar years and World War II",
+  "note": "Resentment of the 1919 peace and the Great Depression of 1929 helped dictators win power in Italy, Germany and Japan. Their aggression was met first with appeasement, then war in 1939. The Allies defeated the Axis by 1945, after the Holocaust and atomic bombs had shown the war's unprecedented destruction.",
+  "src": { "t": "OpenStax World History Vol. 2, Ch. 12 and 13; OpenStax U.S. History, Ch. 27", "u": "https://openstax.org/books/world-history-volume-2/pages/13-1-an-unstable-peace" },
+  "items": [
+    { "c": "Weimar Republic", "a": "Germany's democratic government, 1919 to 1933", "d": ["Germany's empire under the kaiser", "Nazi Germany's one-party state"] },
+    { "c": "Benito Mussolini", "a": "Fascist dictator of Italy", "d": ["Nazi dictator of Germany", "Nationalist dictator of Spain"], "ex": "His March on Rome in 1922 brought him to power." },
+    { "c": "Fascism", "a": "Extreme nationalist one-party rule that crushes dissent", "d": ["Rule by workers' councils that abolish property", "Rule by elected parliaments with free markets"] },
+    { "c": "Totalitarian state", "a": "Government that seeks control over all of life", "d": ["Government limited by a written constitution", "Government that leaves the economy alone"] },
+    { "c": "Joseph Stalin", "a": "Soviet dictator who forced collective farming", "d": ["Bolshevik leader of the 1917 revolution", "Soviet reformer who ended the Cold War"] },
+    { "c": "Five-Year Plans", "a": "Stalin's state plans for rapid industrialization", "d": ["Lenin's limited return to private trade", "Hitler's plans to seize land in the east"] },
+    { "c": "Collectivization", "a": "Merging private farms into state-run farms", "d": ["Selling state land to private farmers", "Moving factories from cities to villages"] },
+    { "c": "Crash that began the Great Depression", "a": "1929", "d": ["1919", "1933", "1939"] },
+    { "c": "Smoot-Hawley Tariff (1930)", "a": "Steep US tariff that helped shrink world trade", "d": ["US law that insured bank deposits", "Treaty that reduced German reparations"] },
+    { "c": "New Deal", "a": "FDR's relief, recovery and reform programs", "d": ["Wilson's plan for a peace league", "Truman's aid program for Europe"] },
+    { "c": "Hitler appointed chancellor of Germany", "a": "January 1933", "d": ["November 1918", "November 1923", "September 1939"] },
+    { "c": "Nuremberg Laws (1935)", "a": "Nazi laws stripping Jews of citizenship", "d": ["Laws restoring Germany's army", "Laws banning all political parties but the Nazis"] },
+    { "c": "Kristallnacht (November 1938)", "a": "Nazi attacks on Jewish shops, homes and synagogues", "d": ["German march into the Rhineland", "Nazi purge of rival party leaders"] },
+    { "c": "Japan seizes Manchuria", "a": "1931", "d": ["1905", "1937", "1941"] },
+    { "c": "Nanjing Massacre (1937)", "a": "Mass killing of Chinese civilians by Japanese troops", "d": ["German bombing of a Spanish town", "Japanese surprise attack on a US base"] },
+    { "c": "Country Italy invaded in 1935", "a": "Ethiopia", "d": ["Libya", "Greece", "Egypt"] },
+    { "c": "Appeasement", "a": "Giving in to an aggressor's demands to avoid war", "d": ["Forming alliances to encircle an aggressor", "Refusing all trade with an aggressor"] },
+    { "c": "Munich Agreement (1938)", "a": "Gave Czechoslovakia's Sudetenland to Germany", "d": ["United Austria with Germany", "Divided Poland between Germany and the USSR"] },
+    { "c": "Neville Chamberlain", "a": "British prime minister who signed the Munich Agreement", "d": ["British prime minister who led the war from 1940", "French premier who built the Maginot Line"] },
+    { "c": "Nazi-Soviet Nonaggression Pact (1939)", "a": "Secretly divided eastern Europe between them", "d": ["Ended the Soviet-German war in 1945", "United Germany and the USSR against Japan"] },
+    { "c": "Event that began World War II in Europe", "a": "Germany invades Poland, September 1939", "d": ["Germany annexes Austria, March 1938", "Germany invades the USSR, June 1941"] },
+    { "c": "Blitzkrieg", "a": "\"Lightning war\" of fast tanks and aircraft", "d": ["War of fixed trench lines", "Siege that starves a city into surrender"] },
+    { "c": "Winston Churchill", "a": "Britain's prime minister through most of the war", "d": ["British prime minister who signed the Munich Agreement", "US general who led the D-Day landings"] },
+    { "c": "Axis Powers", "a": "Germany, Italy and Japan", "d": ["Britain, the USSR and the United States", "Germany, Austria-Hungary and the Ottoman Empire"] },
+    { "c": "Operation Barbarossa (June 1941)", "a": "German invasion of the Soviet Union", "d": ["German invasion of Poland", "Allied invasion of Normandy"] },
+    { "c": "Battle of Stalingrad (1942 to 1943)", "a": "Soviet victory that turned the war in Europe", "d": ["German victory that took Moscow", "Allied victory in North Africa"] },
+    { "c": "Attack on Pearl Harbor", "a": "December 7, 1941", "d": ["September 1, 1939", "June 6, 1944", "August 6, 1945"] },
+    { "c": "Battle of Midway (June 1942)", "a": "US naval victory that turned the Pacific war", "d": ["Japanese victory that took the Philippines", "Last battle before Japan surrendered"] },
+    { "c": "Island hopping", "a": "US strategy of taking key Pacific islands in turn", "d": ["Japanese plan to raid Hawaii", "British plan to retake Singapore"] },
+    { "c": "Executive Order 9066 (1942)", "a": "Authorized forcing Japanese Americans into camps", "d": ["Began the program to build the atomic bomb", "Lent war supplies to Britain"] },
+    { "c": "D-Day", "a": "June 6, 1944, Allied landings in Normandy", "d": ["December 7, 1941, attack on Pearl Harbor", "May 8, 1945, German surrender"] },
+    { "c": "Germany's surrender (V-E Day)", "a": "May 8, 1945", "d": ["June 6, 1944", "April 30, 1945", "September 2, 1945"] },
+    { "c": "Holocaust", "a": "Nazi genocide of about six million European Jews", "d": ["Japanese conquest of eastern China", "Soviet deportation of Baltic peoples"], "ex": "The Nazis also murdered Roma, disabled people, Poles, Soviet prisoners and others." },
+    { "c": "Wannsee Conference (1942)", "a": "Nazi officials coordinated the \"Final Solution\"", "d": ["Allied leaders planned the invasion of France", "Nazi leaders signed the pact with Stalin"] },
+    { "c": "Auschwitz", "a": "Largest Nazi death camp, in occupied Poland", "d": ["First Nazi concentration camp, near Munich", "Jewish ghetto in Warsaw"] },
+    { "c": "Manhattan Project", "a": "Secret US program that built the atomic bomb", "d": ["US plan to rebuild postwar Europe", "Allied code-breaking effort against Germany"] },
+    { "c": "Atomic bombings of Hiroshima and Nagasaki", "a": "August 6 and 9, 1945", "d": ["December 7 and 8, 1941", "June 6 and 7, 1944", "May 7 and 8, 1945"] },
+    { "c": "Nuremberg Trials", "a": "Postwar trials of Nazi leaders for war crimes", "d": ["Prewar trials of Hitler's political rivals", "Trials of Japanese leaders in Tokyo"] },
+    { "c": "United Nations founded", "a": "1945", "d": ["1919", "1939", "1949"] }
+  ],
+  "read": {
+    "title": "From depression to world war",
+    "text": [
+      "The peace of 1919 left many nations bitter. Italians felt cheated of territory, and many Germans blamed the young Weimar Republic for a treaty they saw as humiliating. When the Great Depression struck in 1929, banks failed, trade collapsed and millions lost their jobs. Desperate voters turned to leaders who promised order and national glory. Mussolini already ruled Italy as a fascist dictator, and Hitler became chancellor of Germany in 1933. In the Soviet Union, Stalin forced peasants onto collective farms and drove rapid industrial growth at enormous human cost.",
+      "The dictators soon tested the world. Japan seized Manchuria in 1931, Italy invaded Ethiopia in 1935, and Germany rearmed, took Austria, and at Munich in 1938 won part of Czechoslovakia. Britain and France chose appeasement, hoping to avoid another war. After Germany invaded Poland on September 1, 1939, they declared war.",
+      "German armies overran much of Europe, then invaded the Soviet Union in 1941. Japan's attack on Pearl Harbor brought the United States into the war. The tide turned at Midway and Stalingrad in 1942 and 1943. Allied troops landed in Normandy in 1944, and Germany surrendered in May 1945. Behind its lines the Nazi regime murdered six million Jews and millions of others. Japan surrendered after atomic bombs destroyed Hiroshima and Nagasaki and the Soviet Union declared war on it."
+    ],
+    "q": [
+      { "q": "How did the Great Depression help dictators, according to the reading?", "o": ["Desperate voters turned to leaders promising order", "It made Britain and France stronger", "It ended the Treaty of Versailles", "It united the dictators against the USSR"], "k": 0 },
+      { "q": "What policy did Britain and France follow toward Germany before 1939?", "o": ["Appeasement", "Containment", "Isolationism", "Blitzkrieg"], "k": 0 },
+      { "q": "Which battles does the reading name as turning points?", "o": ["Midway and Stalingrad", "Normandy and Munich", "Pearl Harbor and Poland", "Manchuria and Ethiopia"], "k": 0 }
+    ]
+  }
+}

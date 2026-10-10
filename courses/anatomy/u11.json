@@ -1,0 +1,56 @@
+{
+  "title": "Blood",
+  "note": "Blood is a fluid connective tissue: plasma, about 92% water, carries the formed elements. Erythrocytes carry oxygen on hemoglobin, leukocytes defend the body, and platelets start clotting. Hemostasis runs in three steps: vascular spasm, platelet plug, and coagulation, which ends with thrombin turning fibrinogen into fibrin.",
+  "src": { "t": "OpenStax A&P 2e, 18.1 An Overview of Blood", "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/18-1-an-overview-of-blood" },
+  "items": [
+    { "c": "Normal arterial blood pH", "a": "7.35 to 7.45", "d": ["7.00 to 7.10", "7.55 to 7.65"] },
+    { "c": "Hematocrit", "a": "Percent of blood volume that is red cells", "d": ["Percent of blood volume that is plasma", "Grams of hemoglobin per deciliter"], "ex": "It is normally about 45%." },
+    { "c": "Most abundant plasma protein", "a": "Albumin", "d": ["Fibrinogen", "Globulins"] },
+    { "c": "Main job of albumin", "a": "Maintains the colloid osmotic pressure of blood", "d": ["Forms the fibrin mesh of clots", "Acts as antibodies"] },
+    { "c": "Plasma protein converted to fibrin", "a": "Fibrinogen", "d": ["Albumin", "Prothrombin"] },
+    { "c": "Stem cell that gives rise to all formed elements", "a": "Hemopoietic stem cell", "d": ["Megakaryocyte", "Reticulocyte"] },
+    { "c": "Shape of an erythrocyte", "a": "Biconcave disc", "d": ["Sphere", "Spindle"], "ex": "The shape adds surface area and lets the cell fold through capillaries." },
+    { "c": "Mature erythrocytes lack", "a": "A nucleus and mitochondria", "d": ["Hemoglobin and enzymes", "A plasma membrane"] },
+    { "c": "Erythrocyte lifespan", "a": "About 120 days", "d": ["About 10 days", "About 1 year"] },
+    { "c": "Hemoglobin structure", "a": "Four globin chains, each with an iron-containing heme", "d": ["Two globin chains sharing one heme", "One globin chain with four hemes"] },
+    { "c": "O2 molecules one hemoglobin can carry", "a": "4", "d": ["1", "8"] },
+    { "c": "Hormone that stimulates red cell production", "a": "Erythropoietin (EPO)", "d": ["Thrombopoietin", "Aldosterone"] },
+    { "c": "Main source of erythropoietin", "a": "Kidneys", "d": ["Liver", "Spleen"] },
+    { "c": "Trigger for erythropoietin release", "a": "Low oxygen delivery to the kidneys", "d": ["High blood pressure", "High blood glucose"] },
+    { "c": "Yellow heme breakdown pigment excreted in bile", "a": "Bilirubin", "d": ["Biliverdin", "Ferritin"] },
+    { "c": "Normal leukocyte count", "a": "5,000 to 10,000 per µL", "d": ["500 to 1,000 per µL", "50,000 to 100,000 per µL"] },
+    { "c": "Most numerous leukocyte", "a": "Neutrophil", "d": ["Lymphocyte", "Monocyte"], "ex": "Neutrophils make up about 50 to 70% of leukocytes." },
+    { "c": "Neutrophil", "a": "Fast-responding phagocyte, especially of bacteria", "d": ["Cell that releases histamine and heparin", "Cell that makes antibodies"] },
+    { "c": "Eosinophil", "a": "Granulocyte toxic to parasitic worms", "d": ["Granulocyte that releases heparin", "Agranulocyte that becomes a macrophage"] },
+    { "c": "Basophil", "a": "Rarest leukocyte; releases histamine and heparin", "d": ["Most common leukocyte; engulfs bacteria", "Agranulocyte that makes antibodies"] },
+    { "c": "Monocyte", "a": "Leukocyte that matures into a macrophage", "d": ["Leukocyte that becomes a plasma cell", "Granulocyte that attacks parasites"] },
+    { "c": "Three kinds of lymphocytes", "a": "B cells, T cells, and NK cells", "d": ["Neutrophils, eosinophils, and basophils", "Monocytes, macrophages, and mast cells"] },
+    { "c": "Platelets", "a": "Cell fragments shed by megakaryocytes", "d": ["Small red cells without hemoglobin", "Immature lymphocytes"], "ex": "They circulate for about 10 days." },
+    { "c": "Steps of hemostasis, in order", "a": "Vascular spasm, platelet plug, coagulation", "d": ["Platelet plug, coagulation, vascular spasm", "Coagulation, vascular spasm, platelet plug"] },
+    { "c": "Von Willebrand factor", "a": "Helps platelets stick at an injury", "d": ["Dissolves fibrin in old clots", "Blocks the formation of thrombin"] },
+    { "c": "Trigger of the extrinsic clotting pathway", "a": "Tissue factor released by damaged tissue", "d": ["Factor XII contacting a foreign surface", "Plasmin digesting fibrin"] },
+    { "c": "First factor of the intrinsic pathway", "a": "Factor XII", "d": ["Factor III (tissue factor)", "Factor XIII"] },
+    { "c": "Thrombin converts", "a": "Fibrinogen into fibrin", "d": ["Plasminogen into plasmin", "Fibrin into fibrinogen"] },
+    { "c": "Vitamin the liver needs to make clotting factors", "a": "Vitamin K", "d": ["Vitamin C", "Vitamin D"] },
+    { "c": "Enzyme that dissolves a fibrin clot", "a": "Plasmin", "d": ["Thrombin", "Prothrombinase"] },
+    { "c": "Type A blood has", "a": "A antigens and anti-B antibodies", "d": ["B antigens and anti-A antibodies", "A antigens and anti-A antibodies"] },
+    { "c": "Type O blood has", "a": "No A or B antigens; anti-A and anti-B antibodies", "d": ["A and B antigens; no anti-A or anti-B", "No A or B antigens; no ABO antibodies"] },
+    { "c": "Universal donor red cells", "a": "O negative", "d": ["AB positive", "A negative"] },
+    { "c": "Universal recipient blood type", "a": "AB positive", "d": ["O negative", "O positive"] },
+    { "c": "Anti-Rh antibodies form", "a": "In Rh-negative people after exposure to Rh+ blood", "d": ["In all Rh-negative people from birth", "In Rh-positive people after any transfusion"] }
+  ],
+  "read": {
+    "title": "Stopping a leak",
+    "text": [
+      "When a vessel is cut, the body does not rely on a single mechanism. Hemostasis runs in three overlapping steps. First comes vascular spasm: smooth muscle in the vessel wall contracts and narrows the opening, cutting blood loss within seconds.",
+      "Second, platelets form a plug. Normally they slide past the smooth endothelium, but at a wound they meet exposed collagen. With help from von Willebrand factor they stick, change shape, and release chemicals such as ADP and serotonin that recruit more platelets and keep the vessel constricted.",
+      "Third, coagulation turns the loose plug into a firm clot. Damaged tissue releases tissue factor, which starts the fast extrinsic pathway, while contact activation of factor XII starts the slower intrinsic pathway within the blood itself. Both pathways converge on factor X and lead to the enzyme thrombin. Thrombin cuts soluble fibrinogen into fibrin strands that mesh over the plug and trap red cells. Calcium is needed at many steps, and the liver needs vitamin K to make several of the factors.",
+      "A clot is meant to be temporary. As the vessel heals, plasmin, activated from plasminogen, digests the fibrin, while anticoagulants such as antithrombin keep clotting from spreading beyond the wound."
+    ],
+    "q": [
+      { "q": "What do platelets first stick to at a wound?", "o": ["Fibrin strands", "Exposed collagen", "Red blood cells"], "k": 1 },
+      { "q": "Where do the extrinsic and intrinsic pathways converge?", "o": ["Factor XII", "Plasminogen", "Factor X"], "k": 2 },
+      { "q": "What breaks down a clot as the vessel heals?", "o": ["Plasmin", "Thrombin", "Fibrinogen"], "k": 0 }
+    ]
+  }
+}

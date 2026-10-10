@@ -1,0 +1,50 @@
+{
+  "title": "Verbs: tense, mood and voice",
+  "note": "Tense places an action in time; perfect forms (have, had, will have + past participle) show completion, and progressive forms (be + -ing) show action in progress. Mood shows attitude: indicative states, imperative commands, subjunctive marks wishes, conditions contrary to fact and demands ('I insist that he be on time'). In active voice the subject acts; in passive voice it receives the action.",
+  "src": { "t": "Purdue OWL, Verbs: Voice and Mood", "u": "https://owl.purdue.edu/owl/general_writing/academic_writing/active_and_passive_voice/verbs_voice_and_mood.html" },
+  "items": [
+    { "c": "Tense of 'She has lived here for years.'", "a": "present perfect", "d": ["past perfect", "simple past"] },
+    { "c": "Tense of 'He had already left.'", "a": "past perfect", "d": ["present perfect", "simple past"] },
+    { "c": "Tense of 'By June we will have finished.'", "a": "future perfect", "d": ["simple future", "present perfect"] },
+    { "c": "Tense of 'They were climbing for days.'", "a": "past progressive", "d": ["past perfect", "present progressive"] },
+    { "c": "Tense of 'I have been working since noon.'", "a": "present perfect progressive", "d": ["past perfect progressive", "present progressive"] },
+    { "c": "The past perfect is used for", "a": "a past event completed before another past event", "d": ["an action happening right now", "an action that will finish in the future"] },
+    { "c": "When I arrived, she ___. (had left/has left)", "a": "had left", "d": ["has left"] },
+    { "c": "Past participle of 'go'", "a": "gone", "d": ["went", "goed"] },
+    { "c": "She has ___ the whole book. (wrote/written)", "a": "written", "d": ["wrote"] },
+    { "c": "Yesterday I ___ two miles. (swam/swum)", "a": "swam", "d": ["swum"], "ex": "swim, swam, swum" },
+    { "c": "The bell has ___. (rang/rung)", "a": "rung", "d": ["rang"], "ex": "ring, rang, rung" },
+    { "c": "You should ___ called. (have/of)", "a": "have", "d": ["of"], "ex": "'Should've' sounds like 'should of', but the word is 'have'." },
+    { "c": "If I ___ you, I would apologize. (was/were)", "a": "were", "d": ["was"], "ex": "Contrary to fact, so the subjunctive 'were' is used." },
+    { "c": "Mood of 'If he were here, he'd help.'", "a": "subjunctive", "d": ["indicative", "imperative"] },
+    { "c": "I insist that he ___ on time. (is/be)", "a": "be", "d": ["is"], "ex": "After verbs like insist, demand and recommend, a that-clause takes the base form." },
+    { "c": "They urge that she ___ early. (leave/leaves)", "a": "leave", "d": ["leaves"] },
+    { "c": "It's vital that he ___ in. (sign/signs)", "a": "sign", "d": ["signs"] },
+    { "c": "Mood of 'Close the window.'", "a": "imperative", "d": ["indicative", "subjunctive"] },
+    { "c": "Mood of 'The window is open.'", "a": "indicative", "d": ["imperative", "subjunctive"] },
+    { "c": "Active voice", "a": "the subject performs the action", "d": ["the subject receives the action", "the verb has no subject"] },
+    { "c": "Passive voice", "a": "the subject receives the action", "d": ["the subject performs the action", "the verb is in the future tense"] },
+    { "c": "Voice: 'The cake was eaten by the kids.'", "a": "passive", "d": ["active"] },
+    { "c": "Voice: 'The kids ate the cake.'", "a": "active", "d": ["passive"] },
+    { "c": "A passive verb is formed with", "a": "a form of 'be' plus a past participle", "d": ["a form of 'have' plus an -ing form", "'will' plus the base form"] },
+    { "c": "Active version of 'The ball was hit by Lee.'", "a": "Lee hit the ball.", "d": ["The ball hit Lee.", "Lee was hit by the ball."] },
+    { "c": "Is 'She was tired' in the passive voice?", "a": "no; 'tired' describes her, no action is done to her", "d": ["yes; any 'was' makes a sentence passive"] },
+    { "c": "Good reason to choose the passive voice", "a": "the actor is unknown or unimportant", "d": ["the actor is the main point of the sentence", "it always makes sentences shorter"], "ex": "The bridge was built in 1932." },
+    { "c": "Unnecessary tense shift", "a": "changing tense mid-passage without a reason", "d": ["using the past perfect for an earlier event", "using a helping verb"] },
+    { "c": "He walked in and ___ down. (sits/sat)", "a": "sat", "d": ["sits"] },
+    { "c": "Principal parts of 'see'", "a": "see, saw, seen", "d": ["see, seen, saw", "see, saw, saw"] }
+  ],
+  "read": {
+    "title": "Choosing voice on purpose",
+    "text": [
+      "In the active voice, the subject of the sentence does the action: \"The committee approved the budget.\" In the passive voice, the subject receives the action, and the doer either moves into a by-phrase or disappears: \"The budget was approved (by the committee).\" A passive verb always contains a form of be plus a past participle, but not every be verb is passive. \"The room was cold\" simply describes the room.",
+      "Active sentences are usually shorter and more direct, because they tell the reader at once who did what. That is why most style guides advise preferring the active voice. Yet the passive has honest uses. It fits when the doer is unknown (\"My bike was stolen\"), when the doer does not matter (\"The vaccine is stored at low temperatures\"), or when you want to keep the reader's attention on the thing acted upon.",
+      "The danger is the passive that hides responsibility, as in \"Mistakes were made.\" Who made them? When you revise, find each passive verb and ask whether naming the doer would make the sentence clearer or more honest."
+    ],
+    "q": [
+      { "q": "Which sentence is passive?", "o": ["The room was cold.", "My bike was stolen.", "The committee approved the budget."], "k": 1 },
+      { "q": "According to the reading, when does the passive voice fit well?", "o": ["When the doer is unknown or unimportant", "Whenever a sentence needs more words", "Whenever the verb is in the past tense"], "k": 0 },
+      { "q": "What is the problem with \"Mistakes were made\"?", "o": ["It uses the wrong tense", "It is a sentence fragment", "It hides who made the mistakes"], "k": 2 }
+    ]
+  }
+}

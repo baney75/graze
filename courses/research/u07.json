@@ -1,0 +1,292 @@
+{
+  "title": "Reading a scientific paper",
+  "note": "Most research articles follow IMRaD: Introduction, Methods, Results, and Discussion. Don't read straight through. Start with the title and abstract, then study the figures and tables, which hold the actual evidence, and check the methods before you trust the discussion.",
+  "src": {
+    "t": "Web Literacy for Student Fact-Checkers, How to Think about Research",
+    "u": "https://pressbooks.pub/webliteracy/chapter/how-to-think-about-research/"
+  },
+  "items": [
+    {
+      "c": "IMRaD",
+      "a": "Introduction, Methods, Results, and Discussion",
+      "d": [
+        "Index, Materials, Review, and Data",
+        "Ideas, Models, References, and Design",
+        "Introduction, Measures, Ranking, and Debate"
+      ]
+    },
+    {
+      "c": "Introduction section of a paper",
+      "a": "Background, the gap, and the question being asked",
+      "d": [
+        "Step-by-step procedures of the study",
+        "Tables of the numerical findings",
+        "The list of works cited"
+      ]
+    },
+    {
+      "c": "Methods section",
+      "a": "How the study was done, in enough detail to repeat it",
+      "d": [
+        "What the findings mean for the field",
+        "A brief summary of the whole paper",
+        "Who paid for the research"
+      ]
+    },
+    {
+      "c": "Results section",
+      "a": "What was found, reported with little interpretation",
+      "d": [
+        "Why the question matters",
+        "How participants were recruited",
+        "What future studies should do"
+      ]
+    },
+    {
+      "c": "Discussion section",
+      "a": "What the findings mean, their limits, and next steps",
+      "d": [
+        "The raw data from every participant",
+        "The exact search terms used",
+        "The paper's keywords for indexing"
+      ]
+    },
+    {
+      "c": "Abstract",
+      "a": "A short summary of the whole paper",
+      "d": [
+        "The full list of references",
+        "The first figure in the paper",
+        "A reviewer's comments on the paper"
+      ]
+    },
+    {
+      "c": "Structured abstract",
+      "a": "An abstract with labeled parts like Methods and Results",
+      "d": [
+        "An abstract written as a single list",
+        "An abstract written by an editor",
+        "An abstract with no numbers"
+      ]
+    },
+    {
+      "c": "Why not rely on the abstract alone?",
+      "a": "It can omit limitations and overstate findings",
+      "d": [
+        "Abstracts are not written by the authors",
+        "Abstracts never mention results",
+        "Abstracts are always longer than the paper"
+      ]
+    },
+    {
+      "c": "Figures-first reading",
+      "a": "Studying figures and tables to see the core evidence",
+      "d": [
+        "Reading only the reference list",
+        "Counting figures to judge quality",
+        "Skipping all graphs and tables"
+      ]
+    },
+    {
+      "c": "Efficient first pass through a paper",
+      "a": "Title, abstract, figures, then conclusions",
+      "d": [
+        "References, then acknowledgments",
+        "Methods word by word, then stop",
+        "Discussion only, then cite it"
+      ]
+    },
+    {
+      "c": "Figure legend (caption)",
+      "a": "Text explaining what a figure shows and how",
+      "d": [
+        "The journal's copyright notice",
+        "A list of the paper's keywords",
+        "The authors' contact details"
+      ]
+    },
+    {
+      "c": "First thing to check about error bars",
+      "a": "Whether they show SD, SE, or a confidence interval",
+      "d": [
+        "Whether they are colored",
+        "Whether they point upward",
+        "Whether every bar has the same height"
+      ]
+    },
+    {
+      "c": "Bar chart y-axis that doesn't start at zero",
+      "a": "Can make small differences look large",
+      "d": [
+        "Always hides the real data",
+        "Means the data were fabricated",
+        "Makes differences look smaller"
+      ]
+    },
+    {
+      "c": "Limitations paragraph",
+      "a": "Where authors state weaknesses of their study",
+      "d": [
+        "Where authors thank their funders",
+        "Where the journal lists word limits",
+        "Where reviewers post their reports"
+      ]
+    },
+    {
+      "c": "In the Methods, check especially",
+      "a": "The sample, the design, and how outcomes were measured",
+      "d": [
+        "The font and the page layout",
+        "The number of references",
+        "The authors' job titles"
+      ]
+    },
+    {
+      "c": "Primary outcome",
+      "a": "The main result the study was designed to measure",
+      "d": [
+        "The first result mentioned in the press",
+        "The most surprising result found",
+        "Any result that reached significance"
+      ]
+    },
+    {
+      "c": "Secondary outcome",
+      "a": "An additional result measured but not the main target",
+      "d": [
+        "The study's main planned result",
+        "A result copied from another study",
+        "An outcome measured only in animals"
+      ]
+    },
+    {
+      "c": "Where to find who paid for a study",
+      "a": "Funding or acknowledgments statement",
+      "d": [
+        "Figure legends",
+        "Results tables",
+        "Keywords list"
+      ]
+    },
+    {
+      "c": "n, in a study's methods",
+      "a": "The number of participants or observations",
+      "d": [
+        "The number of authors",
+        "The number of references",
+        "The study's p-value"
+      ]
+    },
+    {
+      "c": "Table 1 in many clinical studies",
+      "a": "Baseline characteristics of the participants",
+      "d": [
+        "The final results of the main analysis",
+        "The list of funding sources",
+        "The authors' conflicts of interest"
+      ]
+    },
+    {
+      "c": "Reading a Discussion critically",
+      "a": "Check whether claims go beyond what the data show",
+      "d": [
+        "Accept the authors' conclusions as settled",
+        "Skip it because it repeats the abstract",
+        "Count how many times they cite themselves"
+      ]
+    },
+    {
+      "c": "Spin, in research reporting",
+      "a": "Presenting results as better than the data support",
+      "d": [
+        "Rotating a figure for clarity",
+        "Rounding numbers to two decimals",
+        "Placing the abstract before the methods"
+      ]
+    },
+    {
+      "c": "Words like \"may\" and \"suggests\" in a paper",
+      "a": "Signal tentative conclusions, not proof",
+      "d": [
+        "Signal that the study was retracted",
+        "Mean the authors are certain",
+        "Mark sentences copied from sources"
+      ]
+    },
+    {
+      "c": "Data availability statement",
+      "a": "Says whether and where the raw data can be accessed",
+      "d": [
+        "Says how many pages the paper has",
+        "Says when the paper was submitted",
+        "Lists the reviewers' names"
+      ]
+    },
+    {
+      "c": "News story versus the paper it covers",
+      "a": "Coverage often overstates certainty, so read the paper",
+      "d": [
+        "News stories are always more accurate",
+        "Papers never mention limitations",
+        "Coverage always includes the methods"
+      ]
+    },
+    {
+      "c": "Running head or short title",
+      "a": "A shortened title printed on each page",
+      "d": [
+        "The first sentence of the abstract",
+        "The name of the lead author",
+        "The journal's motto"
+      ]
+    },
+    {
+      "c": "Reading a hard paper in passes",
+      "a": "Skim for structure first, then read closely for detail",
+      "d": [
+        "Read every word once, in order",
+        "Read only the conclusion twice",
+        "Read the references before the title"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Figures first",
+    "text": [
+      "A research article is not a novel. Reading it straight from the first word to the last is slow, and it lets the authors' framing shape your view before you have seen the evidence.",
+      "Start with the title and abstract to learn the question and the claimed answer. Then go to the figures and tables. They hold the data the whole paper rests on. Read each caption, note what is on each axis, and check what the error bars represent. Ask yourself what you would conclude before reading the authors' interpretation.",
+      "Next, read the Methods with a few questions in mind. Who was studied, and how many? Was there a comparison group? Were people randomly assigned? How was the main outcome measured? Weak methods cannot be rescued by an impressive Discussion.",
+      "Only then read the Discussion, and compare its claims with what you saw. Authors may lean on words like \"suggests\" for good reason, or they may stretch a modest result into a broad conclusion. Look for the limitations paragraph and the funding and conflict-of-interest statements. A paper you have read this way is one you can actually explain, and question."
+    ],
+    "q": [
+      {
+        "q": "Why does the reading recommend looking at figures before the Discussion?",
+        "o": [
+          "Figures are always free of errors",
+          "So you see the evidence before the authors' interpretation",
+          "The Discussion is usually missing",
+          "Figures replace the need to read Methods"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Which question belongs to reading the Methods?",
+        "o": [
+          "Were people randomly assigned?",
+          "What do the authors hope future work will show?",
+          "How long is the abstract?"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What should you compare the Discussion's claims against?",
+        "o": [
+          "The journal's impact factor",
+          "The length of the reference list",
+          "What you saw in the figures and data"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

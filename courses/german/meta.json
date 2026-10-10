@@ -1,0 +1,16 @@
+{
+  "key": "german",
+  "name": "German",
+  "group": "Languages",
+  "tag": "DEUTSCH",
+  "lang": "de-DE",
+  "speak": "recognize",
+  "level": "Beginner to A2",
+  "blurb": "Learn the core words of everyday German with der, die or das, the three working cases and verb-second word order, so you can read simple texts and handle daily conversations.",
+  "sources": [
+    { "t": "Deutsch im Blick, COERLL, University of Texas at Austin", "u": "https://coerll.utexas.edu/dib/" },
+    { "t": "Grimm Grammar, COERLL, University of Texas at Austin", "u": "https://coerll.utexas.edu/gg/" },
+    { "t": "Goethe-Institut, Start Deutsch 1 (A1) Wortliste", "u": "https://www.goethe.de/pro/relaunch/prf/ca/A1_SD1_Wortliste_02.pdf" },
+    { "t": "Duden online dictionary", "u": "https://www.duden.de/" }
+  ]
+}

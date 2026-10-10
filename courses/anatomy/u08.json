@@ -1,0 +1,57 @@
+{
+  "title": "The central and peripheral nervous systems",
+  "note": "The cerebrum's lobes divide labor: frontal for movement and planning, parietal for body sensation, temporal for hearing and memory, occipital for vision. In the spinal cord, posterior (dorsal) means sensory and anterior (ventral) means motor. The autonomic system has sympathetic and parasympathetic divisions.",
+  "src": { "t": "OpenStax A&P 2e, 13.2 The Central Nervous System", "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system" },
+  "items": [
+    { "c": "Frontal lobe", "a": "Movement, planning, and speech production", "d": ["Body sensation such as touch", "Primary visual processing"] },
+    { "c": "Parietal lobe", "a": "Body sensation such as touch and position", "d": ["Primary visual processing", "Movement and planning"] },
+    { "c": "Temporal lobe", "a": "Hearing and memory", "d": ["Vision", "Voluntary movement"] },
+    { "c": "Occipital lobe", "a": "Vision", "d": ["Hearing", "Taste"] },
+    { "c": "Precentral gyrus", "a": "Primary motor cortex", "d": ["Primary somatosensory cortex", "Primary auditory cortex"] },
+    { "c": "Postcentral gyrus", "a": "Primary somatosensory cortex", "d": ["Primary motor cortex", "Primary visual cortex"] },
+    { "c": "Broca's area", "a": "Producing speech", "d": ["Understanding speech", "Recognizing faces"] },
+    { "c": "Corpus callosum", "a": "Fiber tract joining the two hemispheres", "d": ["Fiber tract joining brain and cord", "Fold separating frontal and temporal lobes"] },
+    { "c": "Thalamus", "a": "Relays sensory signals, except smell, to the cortex", "d": ["Controls the pituitary gland", "Coordinates fine movement"] },
+    { "c": "Hypothalamus", "a": "Controls autonomic and endocrine homeostasis", "d": ["Relays sensory signals to the cortex", "Sets the basic breathing rhythm"] },
+    { "c": "Cerebellum", "a": "Coordinates movement by comparing commands with feedback", "d": ["Generates voluntary motor commands", "Relays sensory input to the cortex"] },
+    { "c": "Medulla oblongata", "a": "Regulates heart, blood vessel, and breathing centers", "d": ["Coordinates balance and posture", "Relays sight and sound to the cortex"] },
+    { "c": "Pons", "a": "Main link between the cerebellum and brainstem", "d": ["Fiber bridge between hemispheres", "Visual reflex center of the midbrain"] },
+    { "c": "Superior colliculus (midbrain)", "a": "Orients the eyes toward a stimulus", "d": ["Relays auditory signals", "Regulates heart rate"] },
+    { "c": "Meninges, outermost to innermost", "a": "Dura mater, arachnoid mater, pia mater", "d": ["Pia mater, arachnoid mater, dura mater", "Arachnoid mater, dura mater, pia mater"] },
+    { "c": "Gray matter", "a": "Tissue rich in cell bodies and dendrites", "d": ["Bundles of myelinated axons", "Fluid-filled spaces of the brain"] },
+    { "c": "White matter", "a": "Bundles of myelinated axons", "d": ["Tissue rich in cell bodies", "Layers of meninges"] },
+    { "c": "Posterior (dorsal) horn of the cord", "a": "Processes incoming sensory signals", "d": ["Holds motor neurons to skeletal muscle", "Holds autonomic neuron cell bodies"] },
+    { "c": "Anterior (ventral) horn of the cord", "a": "Holds motor neurons to skeletal muscle", "d": ["Processes incoming sensory signals", "Holds autonomic neuron cell bodies"] },
+    { "c": "Dorsal root ganglion", "a": "Cluster of sensory neuron cell bodies", "d": ["Cluster of motor neuron cell bodies", "Cluster of parasympathetic neurons"] },
+    { "c": "Number of spinal nerve pairs", "a": "31", "d": ["12", "33"] },
+    { "c": "Number of cranial nerve pairs", "a": "12", "d": ["10", "31"] },
+    { "c": "Cranial nerve II", "a": "Optic nerve (vision)", "d": ["Olfactory nerve (smell)", "Oculomotor nerve (eye movement)"] },
+    { "c": "Cranial nerve for facial sensation and chewing", "a": "Trigeminal (V)", "d": ["Facial (VII)", "Hypoglossal (XII)"] },
+    { "c": "Cranial nerve for facial expression", "a": "Facial (VII)", "d": ["Trigeminal (V)", "Abducens (VI)"] },
+    { "c": "Cranial nerve for hearing and balance", "a": "Vestibulocochlear (VIII)", "d": ["Glossopharyngeal (IX)", "Facial (VII)"] },
+    { "c": "Cranial nerve X", "a": "Vagus: thoracic and abdominal organs", "d": ["Hypoglossal: tongue movement", "Accessory: neck muscles"] },
+    { "c": "Cranial nerve that moves the tongue", "a": "Hypoglossal (XII)", "d": ["Glossopharyngeal (IX)", "Trigeminal (V)"] },
+    { "c": "Phrenic nerve", "a": "Supplies the diaphragm", "d": ["Supplies the posterior leg", "Supplies the tongue"] },
+    { "c": "Plexus giving rise to the sciatic nerve", "a": "Sacral plexus", "d": ["Brachial plexus", "Cervical plexus"] },
+    { "c": "Sympathetic division", "a": "Fight or flight; thoracolumbar outflow", "d": ["Rest and digest; craniosacral outflow", "Voluntary control of skeletal muscle"] },
+    { "c": "Parasympathetic division", "a": "Rest and digest; craniosacral outflow", "d": ["Fight or flight; thoracolumbar outflow", "Voluntary control of skeletal muscle"] },
+    { "c": "Usual sympathetic postganglionic transmitter", "a": "Norepinephrine", "d": ["Acetylcholine", "Dopamine"] },
+    { "c": "Parasympathetic postganglionic transmitter", "a": "Acetylcholine", "d": ["Norepinephrine", "Epinephrine"] },
+    { "c": "Receptor type at all autonomic ganglia", "a": "Nicotinic", "d": ["Muscarinic", "Beta-adrenergic"] },
+    { "c": "Reflex arc, in order", "a": "Receptor, sensory neuron, integration, motor neuron, effector", "d": ["Effector, motor neuron, integration, sensory neuron, receptor", "Receptor, motor neuron, integration, sensory neuron, effector"] }
+  ],
+  "read": {
+    "title": "Sensory in back, motor in front",
+    "text": [
+      "The spinal cord follows a simple rule: posterior means sensory and anterior means motor. In cross section, its gray matter forms a butterfly or H shape. The posterior horns receive and process incoming sensory signals. The anterior horns hold the large motor neurons whose axons leave the cord to reach skeletal muscles. In the thoracic and upper lumbar cord, and in the sacral cord, small lateral horns hold autonomic neurons.",
+      "The spinal nerves obey the same rule. Each nerve joins the cord by two roots. Sensory fibers enter through the posterior root, whose swelling, the dorsal root ganglion, contains the cell bodies of the sensory neurons. Motor fibers leave through the anterior root. The two roots merge into one mixed nerve, so almost every spinal nerve carries both sensory and motor signals.",
+      "Around the gray matter lies white matter, organized into columns of myelinated axons. The posterior columns carry ascending sensory tracts to the brain, while the lateral and anterior columns carry a mix of ascending and descending tracts.",
+      "The brain repeats the pattern in its own way. In the cerebral cortex, the precentral gyrus is the primary motor area and the postcentral gyrus, just behind it, is the primary area for body sensation."
+    ],
+    "q": [
+      { "q": "Where are the cell bodies of spinal sensory neurons?", "o": ["Anterior horn", "Dorsal root ganglion", "Lateral horn", "Posterior columns of white matter"], "k": 1 },
+      { "q": "Why is a typical spinal nerve called mixed?", "o": ["It carries both sensory and motor fibers", "It contains both gray and white matter", "It serves both sides of the body"], "k": 0 },
+      { "q": "Which gyrus lies just behind the primary motor area?", "o": ["Precentral gyrus", "Postcentral gyrus", "Superior temporal gyrus"], "k": 1 }
+    ]
+  }
+}

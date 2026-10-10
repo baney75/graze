@@ -1,0 +1,61 @@
+{
+  "title": "Thinking, language and intelligence",
+  "note": "We think with concepts and schemas, mental categories that let us handle new cases quickly. Language builds meaning from small units (phonemes, morphemes) under rules (grammar). Intelligence has been modeled as one general ability or as several, and IQ tests are scored against a norm group with a mean of 100.",
+  "src": { "t": "OpenStax Psychology 2e, 7.4 What Are Intelligence and Creativity?", "u": "https://openstax.org/books/psychology-2e/pages/7-4-what-are-intelligence-and-creativity" },
+  "items": [
+    { "c": "Cognition", "a": "Thinking, including knowing, judging and problem solving", "d": ["Only conscious memory for facts", "Unlearned reflexes to stimuli", "The detection of physical energy"] },
+    { "c": "Concept", "a": "A mental category grouping similar things", "d": ["A single best example of a category", "A sequence of actions for an event", "A step-by-step solution method"] },
+    { "c": "Prototype", "a": "The most typical example of a concept", "d": ["A rule that always gives the right answer", "A concept with a strict definition", "The first word a child speaks"], "ex": "A robin is a more typical bird than a penguin." },
+    { "c": "Artificial concept", "a": "A concept defined by fixed rules, like a triangle", "d": ["A concept learned from everyday experience", "A typical example of a category", "A script for familiar events"] },
+    { "c": "Natural concept", "a": "A concept built up from experience", "d": ["A concept defined by strict rules", "A concept found only in math", "A concept that cannot change"] },
+    { "c": "Schema", "a": "A mental framework that organizes related information", "d": ["A step-by-step formula for solving problems", "The smallest unit of meaning in language", "A test of general intelligence"] },
+    { "c": "Event schema (cognitive script)", "a": "Expected sequence of actions in a familiar situation", "d": ["Expectations about people in a role", "The rules for combining words", "A plan that always solves a problem"], "ex": "Facing the door and staying quiet in an elevator." },
+    { "c": "Phoneme", "a": "The smallest unit of sound in a language", "d": ["The smallest unit of meaning", "The rules for word order", "A language's whole vocabulary"] },
+    { "c": "Morpheme", "a": "The smallest unit of meaning in a language", "d": ["The smallest unit of sound", "The rules for sentence structure", "A child's first word"], "ex": "'Dogs' has two: dog + -s." },
+    { "c": "Syntax", "a": "Rules for arranging words into sentences", "d": ["How meaning comes from words", "A language's set of sounds", "A language's vocabulary"] },
+    { "c": "Semantics", "a": "How meaning is derived from words and morphemes", "d": ["Rules for word order", "The basic sounds of speech", "The total vocabulary of a language"] },
+    { "c": "Lexicon", "a": "A language's vocabulary", "d": ["A language's grammar rules", "A language's set of sounds", "A language's writing system"] },
+    { "c": "A child says 'three mouses'", "a": "Overgeneralization of a grammar rule", "d": ["Babbling", "A failure to learn phonemes", "A one-word sentence"] },
+    { "c": "Typical age of a child's first word", "a": "About 12 to 18 months", "d": ["About 3 to 6 months", "About 2 to 3 years", "About 4 to 5 years"] },
+    { "c": "Chomsky's view of language acquisition", "a": "Humans are biologically primed to acquire language", "d": ["Language is learned only through reinforcement", "Language shapes all perception", "Language is learned by reading"] },
+    { "c": "Skinner's view of language acquisition", "a": "Language is learned through reinforcement", "d": ["Language is innate and needs no input", "Language appears only after puberty", "Language depends on the cerebellum"] },
+    { "c": "What Genie's case suggests", "a": "Missing early exposure limits grammar learning", "d": ["Grammar is easiest to learn as a teen", "Vocabulary cannot grow after childhood", "Language needs no social input"] },
+    { "c": "Sapir-Whorf hypothesis", "a": "The language you speak shapes how you think", "d": ["All languages share one grammar", "Thought is impossible without words", "Language is learned by imitation"] },
+    { "c": "Dani people's two color words showed", "a": "Few color terms did not limit color perception", "d": ["They could see only two colors", "They could not learn new color words", "Color vision depends on vocabulary"] },
+    { "c": "Algorithm", "a": "A step-by-step method that guarantees a solution", "d": ["A mental shortcut that may fail", "Trying options until one works", "A sudden flash of insight"] },
+    { "c": "Heuristic (problem solving)", "a": "A rule of thumb that saves time but can fail", "d": ["A procedure that always gives the right answer", "A complete list of all possible solutions", "A test of fluid intelligence"] },
+    { "c": "Working backwards", "a": "Starting from the goal to plan the steps", "d": ["Trying random solutions", "Repeating a method that worked before", "Asking an expert for the answer"] },
+    { "c": "Mental set", "a": "Sticking with an old approach that no longer works", "d": ["Seeing an object only for its usual use", "Solving a problem in a sudden flash", "Using a step-by-step formula"] },
+    { "c": "Functional fixedness", "a": "Seeing an object only for its usual use", "d": ["Sticking with a failed approach", "Focusing on the first number heard", "Believing an outcome was predictable"], "ex": "In Duncker's candle problem, few see the tack box as a shelf." },
+    { "c": "Spearman's g", "a": "A single general intelligence factor", "d": ["Eight separate intelligences", "Analytical, creative and practical ability", "Knowledge gained from culture"] },
+    { "c": "Fluid intelligence", "a": "Solving new problems and seeing relationships", "d": ["Accumulated knowledge and vocabulary", "Understanding others' emotions", "Skill at music and rhythm"] },
+    { "c": "Crystallized intelligence", "a": "Acquired knowledge and the ability to use it", "d": ["Reasoning about new problems", "Speed of reaction", "Awareness of one's own feelings"] },
+    { "c": "Sternberg's triarchic theory", "a": "Analytical, creative and practical intelligence", "d": ["One general factor called g", "Fluid and crystallized intelligence", "Eight multiple intelligences"] },
+    { "c": "Gardner's theory", "a": "Multiple intelligences, such as musical and spatial", "d": ["One general factor called g", "Three parts: analytical, creative, practical", "Two parts: fluid and crystallized"], "ex": "It is popular in schools but has weak empirical support." },
+    { "c": "Emotional intelligence", "a": "Understanding and managing your own and others' emotions", "d": ["Skill at abstract math", "Speed at solving new puzzles", "Memory for facts and words"] },
+    { "c": "Divergent thinking", "a": "Generating many possible solutions", "d": ["Finding the single correct answer", "Following a fixed procedure", "Recalling stored facts"] },
+    { "c": "Convergent thinking", "a": "Narrowing down to a single best answer", "d": ["Generating many novel ideas", "Mixing unrelated concepts", "Thinking without words"] },
+    { "c": "Alfred Binet's test was designed to", "a": "Identify children who might struggle in school", "d": ["Select army officers", "Measure adult creativity", "Rank adults for college"] },
+    { "c": "Stanford-Binet Intelligence Scale", "a": "Terman's standardized version of Binet's test", "d": ["Wechsler's adult intelligence test", "A projective personality test", "A test of emotional intelligence"] },
+    { "c": "Average IQ score and standard deviation", "a": "Mean of 100, SD of 15", "d": ["Mean of 50, SD of 10", "Mean of 100, SD of 30", "Mean of 120, SD of 15"] },
+    { "c": "Share of people scoring IQ 85 to 115", "a": "About 68%", "d": ["About 95%", "About 50%", "About 34%"] },
+    { "c": "Norming a test", "a": "Giving it to a large group to set reference scores", "d": ["Checking it gives the same score twice", "Removing hard items from it", "Keeping test takers anonymous"] },
+    { "c": "Flynn effect", "a": "Rising IQ scores across generations", "d": ["IQ declining after age 30", "IQ differences between twins", "Higher scores on a second attempt"] },
+    { "c": "IQ correlation for identical twins reared apart", "a": "Close to 0.8", "d": ["Close to 0.2", "Close to 0", "Exactly 1.0"] },
+    { "c": "Range of reaction", "a": "Genes set limits; environment sets where you fall", "d": ["Intelligence is fixed at birth", "Environment alone sets intelligence", "IQ scores vary by test only"] }
+  ],
+  "read": {
+    "title": "Two ways to fail at a puzzle",
+    "text": [
+      "Problem solvers have tools. An algorithm is a step-by-step procedure that guarantees a solution if followed exactly, like the method for long division. A heuristic is a rule of thumb, such as working backwards from the goal. Heuristics are fast and usually good enough, but they can fail.",
+      "Two common obstacles have nothing to do with intelligence. The first is mental set: we keep using an approach that worked before, even when the situation has changed. Someone who always leaves a building by one door may keep pushing on it after it is locked, ignoring three open doors nearby.",
+      "The second is functional fixedness: we see an object only in terms of its usual job. In Karl Duncker's classic candle problem, people are given a candle, a box of thumbtacks and matches, and asked to attach the candle to a wall. The solution is to empty the box, tack it to the wall, and use it as a shelf. Many people miss it because the box is seen as a container, not a part.",
+      "The Apollo 13 crew escaped a similar trap when they built an emergency air filter from plastic bags, tape and spare parts."
+    ],
+    "q": [
+      { "q": "What is the difference between an algorithm and a heuristic?", "o": ["An algorithm guarantees a solution; a heuristic is a shortcut that may fail", "A heuristic is always slower", "An algorithm is a guess", "They are the same"], "k": 0 },
+      { "q": "Failing to see the tack box as a shelf is an example of", "o": ["Mental set", "Functional fixedness", "Overgeneralization"], "k": 1 },
+      { "q": "Pushing a locked door while ignoring open ones illustrates", "o": ["Mental set", "Divergent thinking", "Crystallized intelligence", "Working backwards"], "k": 0 }
+    ]
+  }
+}

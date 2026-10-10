@@ -1,0 +1,307 @@
+{
+  "title": "Newton's laws and forces",
+  "note": "A net force changes velocity; it is not needed to keep velocity. Newton's second law, F_net = ma, uses the vector sum of all external forces on one object. Third-law pairs are equal and opposite but act on different objects, so they never cancel each other in a free-body diagram.",
+  "src": {
+    "t": "College Physics 2e, Ch. 4 Dynamics: Newton's Laws of Motion",
+    "u": "https://openstax.org/books/college-physics-2e/pages/4-introduction-to-dynamics-newtons-laws-of-motion"
+  },
+  "items": [
+    {
+      "c": "Newton's first law",
+      "a": "velocity stays constant unless a net force acts",
+      "d": [
+        "a force is needed to keep an object moving",
+        "every force has an equal, opposite reaction"
+      ]
+    },
+    {
+      "c": "Newton's second law",
+      "a": "F_net = ma",
+      "d": [
+        "F_net = mv",
+        "F_net = m/a",
+        "F_net = ½mv²"
+      ]
+    },
+    {
+      "c": "Newton's third law",
+      "a": "forces come in equal, opposite pairs on different objects",
+      "d": [
+        "equal, opposite forces on one object always cancel",
+        "a larger mass always exerts a larger force"
+      ]
+    },
+    {
+      "c": "Inertia",
+      "a": "an object's tendency to resist changes in its motion",
+      "d": [
+        "the force that keeps objects moving",
+        "the pull of gravity on an object"
+      ]
+    },
+    {
+      "c": "The quantity that measures inertia",
+      "a": "mass",
+      "d": [
+        "weight",
+        "volume",
+        "speed"
+      ]
+    },
+    {
+      "c": "Weight of an object",
+      "a": "w = mg",
+      "d": [
+        "w = m/g",
+        "w = ma²",
+        "w = m"
+      ]
+    },
+    {
+      "c": "Weight of a 10 kg mass on Earth",
+      "a": "98 N",
+      "d": [
+        "10 N",
+        "9.8 N",
+        "980 N"
+      ]
+    },
+    {
+      "c": "Astronaut's mass on the Moon vs on Earth",
+      "a": "the same",
+      "d": [
+        "about one-sixth as much",
+        "about six times as much"
+      ]
+    },
+    {
+      "c": "Normal force",
+      "a": "contact force perpendicular to a surface",
+      "d": [
+        "contact force parallel to a surface",
+        "the force of gravity on an object"
+      ]
+    },
+    {
+      "c": "Normal force on a box resting on a level floor",
+      "a": "equal to its weight, mg",
+      "d": [
+        "zero",
+        "twice its weight",
+        "mg sin θ"
+      ]
+    },
+    {
+      "c": "Normal force on a block on an incline of angle θ",
+      "a": "mg cos θ",
+      "d": [
+        "mg sin θ",
+        "mg",
+        "mg tan θ"
+      ]
+    },
+    {
+      "c": "Gravity's component along an incline",
+      "a": "mg sin θ",
+      "d": [
+        "mg cos θ",
+        "mg tan θ",
+        "mg"
+      ]
+    },
+    {
+      "c": "Acceleration down a frictionless incline",
+      "a": "g sin θ",
+      "d": [
+        "g cos θ",
+        "g",
+        "g tan θ"
+      ]
+    },
+    {
+      "c": "Kinetic friction force",
+      "a": "f_k = μ_k N",
+      "d": [
+        "f_k = N/μ_k",
+        "f_k = μ_k m",
+        "f_k = μ_k v"
+      ]
+    },
+    {
+      "c": "Maximum static friction force",
+      "a": "f_s,max = μ_s N",
+      "d": [
+        "f_s,max = μ_s/N",
+        "f_s,max = μ_s mv",
+        "f_s,max = N"
+      ]
+    },
+    {
+      "c": "Usually larger: μ_s or μ_k?",
+      "a": "μ_s, the static coefficient",
+      "d": [
+        "μ_k, the kinetic coefficient"
+      ],
+      "ex": "It takes more force to start a crate sliding than to keep it sliding."
+    },
+    {
+      "c": "Tension",
+      "a": "pulling force transmitted along a rope or cable",
+      "d": [
+        "pushing force between two surfaces",
+        "resistance to sliding between surfaces"
+      ]
+    },
+    {
+      "c": "Free-body diagram",
+      "a": "sketch of all external forces on one object",
+      "d": [
+        "sketch of an object's path through space",
+        "graph of force against time"
+      ]
+    },
+    {
+      "c": "Condition for translational equilibrium",
+      "a": "net force equals zero",
+      "d": [
+        "velocity equals zero",
+        "every force equals zero",
+        "speed is at a maximum"
+      ]
+    },
+    {
+      "c": "Scale reading in an elevator accelerating upward",
+      "a": "greater than mg",
+      "d": [
+        "less than mg",
+        "exactly mg",
+        "zero"
+      ]
+    },
+    {
+      "c": "Apparent weight in a freely falling elevator",
+      "a": "zero",
+      "d": [
+        "mg",
+        "2mg",
+        "mg/2"
+      ]
+    },
+    {
+      "c": "Third-law partner of Earth pulling you down",
+      "a": "you pulling Earth up",
+      "d": [
+        "the floor pushing you up",
+        "air pushing you up"
+      ]
+    },
+    {
+      "c": "Net force on a car moving at constant velocity",
+      "a": "zero; the forces balance",
+      "d": [
+        "forward, equal to the engine's push",
+        "backward, equal to friction"
+      ]
+    },
+    {
+      "c": "Hooke's law for a spring",
+      "a": "F = −kx",
+      "d": [
+        "F = −kx²",
+        "F = −k/x",
+        "F = kv"
+      ]
+    },
+    {
+      "c": "SI unit of a spring constant k",
+      "a": "N/m",
+      "d": [
+        "N·m",
+        "N/s",
+        "J/m²"
+      ]
+    },
+    {
+      "c": "Terminal velocity",
+      "a": "speed at which drag balances weight",
+      "d": [
+        "speed at which acceleration equals g",
+        "highest speed allowed by gravity"
+      ]
+    },
+    {
+      "c": "One newton",
+      "a": "force that gives 1 kg an acceleration of 1 m/s²",
+      "d": [
+        "force that moves 1 kg at 1 m/s",
+        "weight of 1 kg on Earth"
+      ]
+    },
+    {
+      "c": "2 N on a 0.5 kg puck, frictionless",
+      "a": "a = 4 m/s²",
+      "d": [
+        "a = 1 m/s²",
+        "a = 2.5 m/s²",
+        "a = 0.25 m/s²"
+      ]
+    },
+    {
+      "c": "Atwood machine, 3 kg vs 1 kg: acceleration",
+      "a": "g/2 ≈ 4.9 m/s²",
+      "d": [
+        "g/4 ≈ 2.5 m/s²",
+        "g/3 ≈ 3.3 m/s²",
+        "g ≈ 9.8 m/s²"
+      ],
+      "ex": "a = (m₁ − m₂)g/(m₁ + m₂) = 2g/4."
+    },
+    {
+      "c": "Weakest of the four fundamental forces",
+      "a": "gravitational",
+      "d": [
+        "electromagnetic",
+        "weak nuclear",
+        "strong nuclear"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Forces change motion",
+    "text": [
+      "For two thousand years many thinkers assumed that moving things need a push to keep going. Newton's first law says the opposite: an object keeps moving at constant velocity unless a net force acts on it. A hockey puck slows down because of friction, not because motion naturally fades. The property that resists changes in motion is inertia, and mass measures it.",
+      "The second law makes this quantitative: the net external force on an object equals its mass times its acceleration. The word net matters. A car cruising at steady speed on a straight road has forces acting on it, but they balance, so its acceleration and net force are both zero.",
+      "The third law says forces always come in pairs. If Earth pulls you down with your weight, you pull Earth up with an equal force. The floor pushing up on you is a different force, the normal force, and it is not the partner of your weight. Third-law partners act on different objects, so they never appear together on one free-body diagram.",
+      "To solve a problem, isolate one object, draw every external force on it, choose axes, and apply F_net = ma along each axis."
+    ],
+    "q": [
+      {
+        "q": "Why does a sliding hockey puck slow down?",
+        "o": [
+          "Friction acts on it",
+          "Motion fades without a push",
+          "Its inertia runs out"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What is the third-law partner of Earth's pull on you?",
+        "o": [
+          "Your pull on Earth",
+          "The floor's normal force on you",
+          "Air pressure on you"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What is the net force on a car moving at constant velocity?",
+        "o": [
+          "Zero",
+          "Equal to the engine's force",
+          "Equal to its weight"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

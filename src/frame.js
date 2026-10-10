@@ -1,40 +1,50 @@
 function drawFocus() {
   const g = G.focus || (G.gateFx && tNow - G.gateFx.fxT < 1.1 ? G.gateFx : null);
   if (!g) return;
-  const card = CARDS[g.id]; if (!card) return;
+  const card = CARDS[g.id], isMath = g.kind === 'math';
+  if (!card && !isMath) return;
   const live = g === G.focus;
   const k = live ? clamp((tNow - g.t0) / 0.2, 0, 1) : clamp(1 - (tNow - g.fxT - 0.75) / 0.35, 0, 1);
   if (k <= 0) return;
-  const dk = DECKS[card.deck];
-  const cue = g.rev ? card.a : card.c;
+  const dk = isMath ? { tag: 'MATH', col: '#a8c97a' } : DECKS[card.deck];
+  const cue = isMath ? g.mq.q : g.rev ? card.a : card.c;
+  const im = card && card.img ? cardImage(card) : null;
+  const imH = im && !g.rev ? clamp(Math.min(H * 0.28, W * 0.5), 96, 250) : 0, imW = imH * (im ? im.ar : 1);
+  const sub = card && card.r && !g.rev ? card.r : '';
   const y0 = TOP + HUD + clamp(S * 0.02, 8, 20);
+  const fsB = clamp(S * (card && card.img ? 0.05 : 0.075), 18, 40);
   {
-    const fsB = clamp(S * 0.075, 22, 40);
     ctx.font = `italic 600 ${Math.round(fsB)}px ${FD}`;
     let bw = Math.min(W - 16, ctx.measureText(cue).width + 48);
-    let bh = 22 + fsB * 1.3;
+    let bh = 22 + fsB * 1.3 + (sub ? 20 : 0) + (imH ? imH + 12 : 0);
     if (g.kind === 'new') { ctx.font = `700 ${Math.round(clamp(S * 0.05, 17, 24))}px ${FU}`; const ln = wrapText('= ' + card.a, Math.min(W - 40, 520)).slice(0, 3); bw = Math.min(W - 16, Math.max(bw, Math.max(...ln.map(l => ctx.measureText(l).width)) + 48)); bh += ln.length * 26 + 8; }
-    bw = Math.max(bw, 260);
-    ctx.globalAlpha = k * 0.82; rr(W / 2 - bw / 2, y0 - 16, bw, bh, 16); ctx.fillStyle = '#21191d'; ctx.fill();
+    bw = Math.max(bw, 260, imW + 32);
+    ctx.globalAlpha = k * (imH ? 0.92 : 0.82); rr(W / 2 - bw / 2, y0 - 16, bw, bh, 16); ctx.fillStyle = '#21191d'; ctx.fill();
     ctx.globalAlpha = k * 0.5; ctx.strokeStyle = dk.col; ctx.lineWidth = 1; ctx.stroke();
   }
   ctx.globalAlpha = k; ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
   ctx.font = `700 12px ${FU}`; ctx.fillStyle = dk.col;
-  const chain = live && g.kind === 'quiz' && G.rchain > 0 ? `  ·  CHAIN ×${G.rchain + 1}` : '';
-  ctx.fillText(dk.tag + (g.kind === 'new' ? '  ·  NEW SIGIL  ·  REMEMBER THIS' : g.rev ? '  ·  REVERSE  ·  WHICH PROMPT?' : '  ·  RECALL') + chain, W / 2, y0);
-  const fs = fitFont('italic 600', clamp(S * 0.075, 22, 40), FD, cue, W - 32);
+  const chain = live && g.kind !== 'new' && G.rchain > 0 ? `  ·  CHAIN ×${G.rchain + 1}` : '';
+  ctx.fillText((dk.tag || '') + (isMath ? '  ·  QUICK MATH' : g.kind === 'new' ? '  ·  NEW SIGIL  ·  REMEMBER THIS' : g.rev ? '  ·  REVERSE  ·  WHICH PROMPT?' : '  ·  RECALL') + chain, W / 2, y0);
+  const fs = fitFont('italic 600', fsB, FD, cue, W - 32);
   ctx.fillStyle = '#eee5d5'; ctx.fillText(cue, W / 2, y0 + 10 + fs * 0.62);
-  const yb = y0 + 14 + fs * 1.25;
+  let yb = y0 + 14 + fs * 1.25;
+  if (sub) { ctx.font = `500 14px ${FU}`; ctx.fillStyle = '#b9aaa6'; ctx.fillText(sub, W / 2, yb + 4); yb += 20; }
+  if (imH) {
+    if (im.ok) ctx.drawImage(im.img, W / 2 - imW / 2, yb + 4, imW, imH);
+    else { ctx.fillStyle = 'rgba(255,255,255,.04)'; rr(W / 2 - imW / 2, yb + 4, imW, imH, 10); ctx.fill(); }
+    yb += imH + 12;
+  }
   if (g.kind === 'new') {
     ctx.font = `700 ${Math.round(clamp(S * 0.05, 17, 24))}px ${FU}`; ctx.fillStyle = '#d5b66f';
     const lines = wrapText('= ' + card.a, Math.min(W - 40, 520)).slice(0, 3);
     lines.forEach((l, i) => ctx.fillText(l, W / 2, yb + 10 + i * 26));
     ctx.globalAlpha = 1; return;
   }
-  const rev = live ? clamp((tNow - g.t0 - 0.7) / 0.25, 0, 1) : 1;
+  const rev = live ? clamp((tNow - g.t0 - (isMath ? 0.35 : 0.7)) / 0.25, 0, 1) : 1;
   if (rev <= 0) {
     ctx.font = `600 13px ${FU}`; ctx.fillStyle = '#b9aaa6'; ctx.globalAlpha = k * (0.5 + 0.5 * Math.sin(tNow * 8));
-    ctx.fillText('Recall it first…', W / 2, yb + 8);
+    ctx.fillText(isMath ? 'Work it out…' : 'Recall it first…', W / 2, yb + 8);
     ctx.globalAlpha = 1; return;
   }
   const ox = cx + camX;
@@ -119,8 +129,9 @@ function frame(now) {
   requestAnimationFrame(frame);
 }
 window.__graze = { get G() { return G; }, get mode() { return mode; }, get SV() { return SV; }, get CARDS() { return CARDS; }, get SYNC() { return SYNC; },
-  mergeState, exportState, makeTransfer, readTransfer, absorb, deriveLink, encryptStr, decryptStr, takeBoon, answerRevive };
+  mergeState, exportState, makeTransfer, readTransfer, absorb, deriveLink, encryptStr, decryptStr, takeBoon, answerRevive,
+  openLesson, openCourse: k => { openPanel('library'); renderLibrary('course', k); }, get COURSES() { return COURSES; }, mathProblem };
 resize(); renderMenu(); initUpdates();
 requestAnimationFrame(frame);
-setTimeout(maybeShowNews, 500);
+setTimeout(() => { if (!maybeOnboard()) maybeShowNews(); else lsSet('graze.seenVersion', VERSION); }, 500);
 initSync().then(() => { if (mode === 'menu' && !panel) renderMenu(); });

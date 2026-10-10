@@ -1,0 +1,46 @@
+{
+  "title": "Commas",
+  "note": "Use a comma before and, but, or, nor, for, so or yet when it joins two independent clauses; after most introductory elements; around nonessential information; between items in a series and between coordinate adjectives; and in dates and addresses. Never put a single comma between a subject and its verb.",
+  "src": { "t": "Purdue OWL, Extended Rules for Using Commas", "u": "https://owl.purdue.edu/owl/general_writing/punctuation/commas/extended_rules_for_commas.html" },
+  "items": [
+    { "c": "Two clauses joined by 'but'", "a": "I ran, but I missed the bus.", "d": ["I ran but, I missed the bus.", "I ran, but, I missed the bus."] },
+    { "c": "One subject, two verbs (compound predicate)", "a": "She ate lunch and left.", "d": ["She ate lunch, and left."], "ex": "No comma between two verbs that share one subject." },
+    { "c": "Introductory clause", "a": "While we ate, the dog begged.", "d": ["While we ate the dog begged."], "ex": "Without the comma, readers first think we ate the dog." },
+    { "c": "Nonessential clause (only one mother)", "a": "My mother, who lives in Erie, called.", "d": ["My mother who lives in Erie called.", "My mother, who lives in Erie called."] },
+    { "c": "Essential clause", "a": "Students who cheat will fail.", "d": ["Students, who cheat, will fail."], "ex": "With commas, the sentence says all students cheat." },
+    { "c": "Subject and verb", "a": "The man in the gray coat left.", "d": ["The man in the gray coat, left."] },
+    { "c": "Full date in mid-sentence", "a": "On July 4, 1776, they signed.", "d": ["On July 4, 1776 they signed.", "On July, 4 1776, they signed."] },
+    { "c": "Month and year only", "a": "in July 1998", "d": ["in July, 1998"] },
+    { "c": "City and state in mid-sentence", "a": "Erie, Pennsylvania, is on a lake.", "d": ["Erie, Pennsylvania is on a lake.", "Erie Pennsylvania, is on a lake."] },
+    { "c": "Direct address", "a": "Thanks, Anita, for the help.", "d": ["Thanks Anita, for the help."] },
+    { "c": "Coordinate adjectives", "a": "a long, tiring trip", "d": ["a long tiring, trip"] },
+    { "c": "Test for coordinate adjectives", "a": "they can be reversed or joined by 'and'", "d": ["both end in -ly", "the first one is longer"] },
+    { "c": "Adjectives that are not coordinate", "a": "three small dogs", "d": ["three, small dogs"] },
+    { "c": "Contrast at the end of a sentence", "a": "It was rain, not snow.", "d": ["It was rain not, snow."] },
+    { "c": "Introductory 'however'", "a": "However, the plan failed.", "d": ["However the plan, failed."], "ex": "Without a comma, 'However the plan failed' means 'in whatever way it failed'." },
+    { "c": "Quotation after a dialogue tag", "a": "Lee said, \"I'll be late.\"", "d": ["Lee said \"I'll be late.\""] },
+    { "c": "Nonrestrictive appositive", "a": "Lincoln, the 16th president, was tall.", "d": ["Lincoln the 16th president, was tall."] },
+    { "c": "Restrictive appositive (one of several novels)", "a": "Melville's novel Moby-Dick is long.", "d": ["Melville's novel, Moby-Dick, is long."] },
+    { "c": "Nonessential element", "a": "information you can remove without changing the core meaning", "d": ["information that identifies which one is meant", "any clause that begins with 'that'"] },
+    { "c": "Commas around a 'that' clause?", "a": "no; 'that' clauses are essential", "d": ["yes; always set them off"], "ex": "The book that I lent you is overdue." },
+    { "c": "Comma inside a two-part subject?", "a": "no: 'Jo and Al left.'", "d": ["yes: 'Jo, and Al left.'"] },
+    { "c": "Serial (Oxford) comma", "a": "the comma before the conjunction ending a list", "d": ["the comma after an introductory word", "the comma before a quotation"], "ex": "Chicago and MLA use it; AP style usually omits it." },
+    { "c": "Prevent a misreading: 'Inside the dog barked.'", "a": "Inside, the dog barked.", "d": ["Inside the, dog barked."] },
+    { "c": "Clauses joined by 'yet'", "a": "It was late, yet we stayed.", "d": ["It was late yet, we stayed."] },
+    { "c": "Interrupter in mid-sentence", "a": "The plan, I think, is sound.", "d": ["The plan I think, is sound.", "The plan, I think is sound."] },
+    { "c": "Commas needed around a mid-sentence aside", "a": "two, one on each side", "d": ["one, before the aside only"] }
+  ],
+  "read": {
+    "title": "Commas that change meaning",
+    "text": [
+      "Many comma rules exist for one reason: to stop the reader from grouping words the wrong way. \"While we ate the dog begged\" invites a horrifying first reading. A comma after ate fixes it at once.",
+      "The most important comma decision involves essential and nonessential information. Compare two sentences. \"My cousin who lives in Ohio is a nurse\" has no commas, which tells the reader the clause is essential: you have several cousins, and this one is identified by living in Ohio. \"My cousin, who lives in Ohio, is a nurse\" sets the clause off, which tells the reader it is extra: you have one cousin, and by the way, she lives in Ohio. The words are the same; the commas change the facts.",
+      "Commas also mark the seam between two independent clauses joined by a coordinating conjunction: \"The store opened, and the line began to move.\" But a comma never comes between a subject and its verb, however long the subject grows. \"The store on the corner of Fifth and Main opened\" needs no comma at all."
+    ],
+    "q": [
+      { "q": "What does \"My cousin, who lives in Ohio, is a nurse\" suggest?", "o": ["The writer has several cousins", "The writer has one cousin", "The cousin is not a nurse"], "k": 1 },
+      { "q": "Why does \"While we ate the dog begged\" need a comma?", "o": ["To prevent a wrong first reading", "To separate a subject from its verb", "To mark a nonessential clause"], "k": 0 },
+      { "q": "According to the reading, where does a comma never go?", "o": ["Before and joining two clauses", "After an introductory clause", "Between a subject and its verb"], "k": 2 }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Thesis, argument and the essay",
+  "note": "A thesis states an essay's main claim: specific, arguable and supportable. Each body paragraph develops one point with evidence and explains how that evidence supports the claim. A strong argument answers the best opposing view fairly, and its conclusion shows why the claim matters instead of repeating it.",
+  "src": { "t": "Purdue OWL, Argumentative Essays", "u": "https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/argumentative_essays.html" },
+  "items": [
+    { "c": "Thesis statement", "a": "a sentence stating the essay's main claim", "d": ["the first sentence of each body paragraph", "a summary of a source's argument"] },
+    { "c": "Which thesis is arguable?", "a": "Cities should ban cars downtown.", "d": ["Cars produce exhaust.", "Many cities have cars."] },
+    { "c": "Which thesis is better focused?", "a": "Later school start times raise teen grades.", "d": ["Education is important.", "Schools face many problems."] },
+    { "c": "Usual place for the thesis in a short essay", "a": "the end of the introduction", "d": ["the start of the conclusion", "the middle of the second body paragraph"] },
+    { "c": "Qualifier (in a claim)", "a": "a word that limits a claim, like 'usually'", "d": ["a word that intensifies a claim, like 'always'", "the source of a quotation"] },
+    { "c": "Body paragraph's job", "a": "develop one point that supports the thesis", "d": ["introduce several unrelated points", "restate the introduction"] },
+    { "c": "Common kinds of evidence", "a": "facts, statistics, examples, expert testimony", "d": ["opinions stated more forcefully", "rhetorical questions alone"] },
+    { "c": "Omitting evidence that complicates your thesis", "a": "misleads readers and damages trust", "d": ["is a standard persuasive technique", "is required for a clear argument"] },
+    { "c": "Counterargument", "a": "an opposing view the writer addresses", "d": ["a second thesis in the conclusion", "a fact that supports the thesis"] },
+    { "c": "Rebuttal", "a": "the writer's answer to an opposing view", "d": ["the essay's opening hook", "a summary of the main points"] },
+    { "c": "Concession", "a": "admitting that part of an opposing view is valid", "d": ["refusing to consider other views", "restating the thesis"] },
+    { "c": "Why address counterarguments?", "a": "it shows fairness and builds credibility", "d": ["it fills space in a short essay", "it weakens the thesis on purpose"] },
+    { "c": "A good conclusion", "a": "shows why the claim matters, with no new evidence", "d": ["repeats the thesis word for word", "introduces a fresh main point"] },
+    { "c": "Exigence", "a": "the issue or need that makes the writing timely", "d": ["the required length of a paper", "the final sentence of an essay"] },
+    { "c": "Ethos", "a": "appeal based on the writer's credibility", "d": ["appeal to emotion", "appeal to logic and evidence"] },
+    { "c": "Pathos", "a": "appeal to the audience's emotions", "d": ["appeal to the writer's character", "appeal to statistics"] },
+    { "c": "Logos", "a": "appeal to reason and evidence", "d": ["appeal to emotion", "appeal to the speaker's reputation"] },
+    { "c": "Elements of the rhetorical situation", "a": "author, audience, purpose, setting, text", "d": ["thesis, body, conclusion, citations", "noun, verb, object, modifier"] },
+    { "c": "Claim (Toulmin model)", "a": "the position the writer argues for", "d": ["the data offered as proof", "an exception to the argument"] },
+    { "c": "Warrant (Toulmin model)", "a": "the link explaining why evidence supports a claim", "d": ["the evidence itself", "the opposing view"] },
+    { "c": "Rogerian argument stresses", "a": "common ground with the other side", "d": ["defeating opponents decisively", "emotional appeals over evidence"] },
+    { "c": "Claim of policy", "a": "argues what should be done", "d": ["argues what something means", "argues what caused an event"] },
+    { "c": "Claim of value", "a": "judges how good or important something is", "d": ["proposes a course of action", "states what caused something"] },
+    { "c": "Cause-and-effect claim", "a": "Loan policy has driven up tuition.", "d": ["Tuition should be free.", "Tuition is the cost of classes."] },
+    { "c": "Straw man fallacy", "a": "attacking a distorted version of an opposing view", "d": ["attacking the person instead of the argument", "assuming only two options exist"] },
+    { "c": "Ad hominem", "a": "attacking the person instead of the argument", "d": ["attacking a distorted version of a view", "appealing to popularity"] },
+    { "c": "False dilemma", "a": "presenting only two options when more exist", "d": ["attacking the opponent's character", "claiming one step leads to disaster"] },
+    { "c": "Hasty generalization", "a": "a broad conclusion from too little evidence", "d": ["an argument that goes in a circle", "a claim that one step leads to ruin"] }
+  ],
+  "read": {
+    "title": "Anatomy of an argument",
+    "text": [
+      "An argumentative essay begins with a thesis, a claim that a reasonable person could dispute. \"Exercise is healthy\" is not a thesis, because almost no one denies it. \"High schools should require a daily physical education class\" is, because thoughtful people disagree. A good thesis is also narrow enough to defend in the space available.",
+      "Each body paragraph then supports one reason for the claim. A reason alone is not enough; it needs evidence, such as data, examples or expert testimony, and it needs explanation. The writer must show how the evidence leads to the claim. In the Toulmin model this connecting logic is called the warrant.",
+      "Strong arguments also face their opposition. A writer who ignores the best objection looks either uninformed or evasive. A writer who states it fairly, concedes what is true in it, and then answers it earns the reader's trust. Distorting an opponent's view to make it easy to knock down is the straw man fallacy, and careful readers notice it.",
+      "Finally, the conclusion should not merely repeat the thesis. It should show what the argument adds up to and why it matters."
+    ],
+    "q": [
+      { "q": "Why is \"Exercise is healthy\" not a good thesis?", "o": ["It is too long", "Almost no one disputes it", "It contains no evidence"], "k": 1 },
+      { "q": "In the Toulmin model, what is the warrant?", "o": ["The logic connecting evidence to the claim", "The opposing view", "The data itself"], "k": 0 },
+      { "q": "According to the reading, how does a writer earn trust when facing objections?", "o": ["By ignoring weak objections", "By restating the thesis more forcefully", "By stating the best objection fairly and answering it"], "k": 2 }
+    ]
+  }
+}

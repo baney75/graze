@@ -1,0 +1,51 @@
+{
+  "title": "Applications of derivatives",
+  "note": "The sign of f′ tells where f rises or falls; the sign of f″ tells which way it bends. Extrema occur at critical points or endpoints. The Mean Value Theorem links average and instantaneous rates, and L'Hôpital's rule resolves 0/0 and ∞/∞ limits by differentiating top and bottom separately.",
+  "src": { "t": "Calculus Volume 1, 4.3 Maxima and Minima", "u": "https://openstax.org/books/calculus-volume-1/pages/4-3-maxima-and-minima" },
+  "items": [
+    { "c": "f′ > 0 on an interval means", "a": "f is increasing there", "d": ["f is concave up there", "f has a max there"] },
+    { "c": "f″ > 0 on an interval means", "a": "f is concave up there", "d": ["f is increasing there", "f is concave down there"] },
+    { "c": "Critical point of f", "a": "where f′ = 0 or f′ does not exist", "d": ["where f = 0", "where f″ = 0"] },
+    { "c": "Inflection point", "a": "where concavity changes", "d": ["where f′ = 0", "where f changes sign"] },
+    { "c": "f′(c) = 0 and f″(c) < 0 means", "a": "local max at c", "d": ["local min at c", "inflection point at c"] },
+    { "c": "f′(c) = 0 and f″(c) > 0 means", "a": "local min at c", "d": ["local max at c", "inflection point at c"] },
+    { "c": "f′(c) = 0 and f″(c) = 0 means", "a": "second derivative test is inconclusive", "d": ["f must have an inflection point at c", "f must have a local max at c"], "ex": "x³, x⁴, and −x⁴ all have f′(0) = f″(0) = 0." },
+    { "c": "f′ changes from + to − at c", "a": "local max at c (first derivative test)", "d": ["local min at c (first derivative test)", "inflection point at c"] },
+    { "c": "Extreme Value Theorem", "a": "continuous f on [a, b] has an absolute max and min", "d": ["every f on (a, b) has an absolute max", "f′ = 0 somewhere in (a, b)"] },
+    { "c": "Closed interval method checks", "a": "critical points and endpoints", "d": ["only critical points", "only endpoints"] },
+    { "c": "Mean Value Theorem conclusion", "a": "f′(c) = (f(b) − f(a))/(b − a) for some c", "d": ["f(c) = 0 for some c in (a, b)", "f′(c) = 0 for every c in (a, b)"] },
+    { "c": "MVT hypotheses on f", "a": "continuous on [a, b], differentiable on (a, b)", "d": ["continuous on (a, b) only", "differentiable at a and b only"] },
+    { "c": "Rolle's theorem adds the hypothesis", "a": "f(a) = f(b)", "d": ["f(a) = 0", "f′(a) = f′(b)"] },
+    { "c": "MVT point c for x² on [0, 2]", "a": "c = 1", "d": ["c = 2", "c = 1/2"], "ex": "f′(c) = 2c must equal (4 − 0)/2 = 2." },
+    { "c": "f′ = 0 on an interval implies", "a": "f is constant there", "d": ["f is zero there", "f is linear with slope 1"] },
+    { "c": "L'Hôpital's rule applies to", "a": "0/0 or ∞/∞ forms", "d": ["any quotient", "0 · ∞ forms directly"] },
+    { "c": "L'Hôpital replaces lim f/g with", "a": "lim f′/g′", "d": ["lim (f/g)′", "lim (f′g − fg′)/g²"] },
+    { "c": "lim x→0 (eˣ − 1)/x", "a": "1", "d": ["0", "e"] },
+    { "c": "lim x→∞ x²/eˣ", "a": "0", "d": ["1", "∞"], "ex": "L'Hôpital twice: 2x/eˣ, then 2/eˣ → 0." },
+    { "c": "lim x→0 (1 − cos x)/x²", "a": "1/2", "d": ["0", "1"] },
+    { "c": "A = πr²: dA/dt", "a": "2πr · dr/dt", "d": ["2πr", "πr² · dr/dt"] },
+    { "c": "V = (4/3)πr³: dV/dt", "a": "4πr² · dr/dt", "d": ["4πr²", "πr² · dr/dt"] },
+    { "c": "Ladder x² + y² = L²: differentiate in t", "a": "x · dx/dt + y · dy/dt = 0", "d": ["dx/dt + dy/dt = 0", "x · dy/dt + y · dx/dt = 0"] },
+    { "c": "Linear approximation L(x) near a", "a": "L(x) = f(a) + f′(a)(x − a)", "d": ["L(x) = f′(a) + f(a)(x − a)", "L(x) = f(a) + f″(a)(x − a)"] },
+    { "c": "Linearize √x at 4 to estimate √4.1", "a": "2.025", "d": ["2.05", "2.01"], "ex": "2 + (1/4)(0.1) = 2.025." },
+    { "c": "Max of xy if x + y = 10", "a": "25", "d": ["50", "20"] },
+    { "c": "Max-area rectangle, fixed perimeter", "a": "a square", "d": ["a 2-by-1 rectangle", "a long thin strip"] },
+    { "c": "Concavity of x³ for x < 0", "a": "concave down", "d": ["concave up", "neither; it is linear"] },
+    { "c": "Inflection point of x³", "a": "x = 0", "d": ["x = 1", "none"] },
+    { "c": "Local max of −x² + 4x", "a": "x = 2", "d": ["x = 4", "x = −2"] },
+    { "c": "Newton's method update", "a": "xₙ₊₁ = xₙ − f(xₙ)/f′(xₙ)", "d": ["xₙ₊₁ = xₙ − f′(xₙ)/f(xₙ)", "xₙ₊₁ = xₙ + f(xₙ)/f′(xₙ)"] }
+  ],
+  "read": {
+    "title": "Reading a graph from its derivatives",
+    "text": [
+      "The first derivative reports direction. Where f′ is positive, f is increasing; where it is negative, f is decreasing. A local maximum or minimum can only occur at a critical point, where f′ is zero or undefined. If f′ switches from positive to negative there, the function climbed and then fell, so the point is a local maximum.",
+      "The second derivative reports bending. Where f″ is positive, the slope is increasing and the graph is concave up, shaped like a cup. Where f″ is negative it is concave down, like a cap. A point where concavity changes is an inflection point. At a critical point with f″ < 0, the graph is a cap with a flat top, which is a local maximum; with f″ > 0, it is a local minimum.",
+      "On a closed interval, a continuous function always reaches an absolute maximum and minimum, and they occur either at critical points or at the endpoints. Optimization problems use this: write the quantity to maximize as a function of one variable, find its critical points, and compare values. For a rectangle with fixed perimeter, the answer is a square."
+    ],
+    "q": [
+      { "q": "What does f″ < 0 tell you about a graph?", "o": ["It is concave down", "It is decreasing", "It has a minimum"], "k": 0 },
+      { "q": "Where can an absolute max on [a, b] occur?", "o": ["At a critical point or an endpoint", "Only where f′ = 0", "Only at an endpoint"], "k": 0 },
+      { "q": "At a critical point with f″ > 0, f has a", "o": ["local minimum", "local maximum", "inflection point"], "k": 0 }
+    ]
+  }
+}

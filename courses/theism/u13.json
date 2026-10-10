@@ -1,0 +1,307 @@
+{
+  "title": "The problem of evil and theodicy",
+  "note": "The problem of evil is the main argument against God. The logical version says God and evil are incompatible; Plantinga's free will defense is widely judged to answer it. The evidential version says seemingly pointless suffering makes God unlikely; replies include theodicies (free will, soul-making, natural law) and skeptical theism. A defense shows possible reasons; a theodicy, actual ones.",
+  "src": {
+    "t": "Stanford Encyclopedia of Philosophy: The Problem of Evil",
+    "u": "https://plato.stanford.edu/entries/evil/"
+  },
+  "items": [
+    {
+      "c": "Logical problem of evil",
+      "a": "God and evil are logically incompatible",
+      "d": [
+        "evil makes God's existence less likely",
+        "evil is caused by logical errors"
+      ]
+    },
+    {
+      "c": "Evidential problem of evil",
+      "a": "evil makes God's existence improbable",
+      "d": [
+        "evil is logically incompatible with God",
+        "evil is evidence that God exists"
+      ]
+    },
+    {
+      "c": "'Is he willing to prevent evil, but not able?'",
+      "a": "'then is he impotent'",
+      "d": [
+        "'then is he malevolent'",
+        "'then whence is evil?'"
+      ],
+      "ex": "Philo, in Hume's Dialogues, Part X, citing Epicurus's old questions."
+    },
+    {
+      "c": "Writer who preserved the Epicurean trilemma",
+      "a": "Lactantius",
+      "d": [
+        "Tertullian",
+        "Origen"
+      ]
+    },
+    {
+      "c": "J. L. Mackie's 1955 article",
+      "a": "Evil and Omnipotence",
+      "d": [
+        "The Problem of Evil and Some Varieties of Atheism",
+        "Pain and Pleasure"
+      ]
+    },
+    {
+      "c": "Mackie's 1955 verdict on theism",
+      "a": "its core beliefs are inconsistent",
+      "d": [
+        "it is probable but unproven",
+        "it is true but unknowable"
+      ]
+    },
+    {
+      "c": "Defense, as opposed to theodicy",
+      "a": "shows God might have reasons, without claiming which",
+      "d": [
+        "states God's actual reasons for each evil",
+        "denies that evil really exists"
+      ]
+    },
+    {
+      "c": "Theodicy, as opposed to a defense",
+      "a": "proposes God's actual reasons for permitting evil",
+      "d": [
+        "merely shows God and evil are consistent",
+        "argues evil disproves God"
+      ]
+    },
+    {
+      "c": "Philosopher whose 1710 book named 'theodicy'",
+      "a": "Gottfried Leibniz",
+      "d": [
+        "Augustine of Hippo",
+        "Immanuel Kant"
+      ]
+    },
+    {
+      "c": "Greek roots of 'theodicy'",
+      "a": "theos and dikē: God and justice",
+      "d": [
+        "theos and logos: God and word",
+        "theos and kosmos: God and world"
+      ]
+    },
+    {
+      "c": "Free will defense: God cannot cause creatures to",
+      "a": "freely do only what is right",
+      "d": [
+        "exist without a body",
+        "know the future perfectly"
+      ]
+    },
+    {
+      "c": "Transworld depravity (Plantinga)",
+      "a": "a free creature would go wrong in any world God could make",
+      "d": [
+        "every possible world contains a devil",
+        "God is morally imperfect in some worlds"
+      ]
+    },
+    {
+      "c": "Plantinga's 1974 short book on evil",
+      "a": "God, Freedom, and Evil",
+      "d": [
+        "Evil and the God of Love",
+        "The Problem of Pain"
+      ]
+    },
+    {
+      "c": "Plantinga's possible account of natural evil",
+      "a": "free nonhuman persons might cause it",
+      "d": [
+        "natural evil is only an illusion",
+        "God causes it for no reason"
+      ]
+    },
+    {
+      "c": "Augustinian theodicy traces evil to",
+      "a": "the misuse of free will by angels and humans",
+      "d": [
+        "a necessary stage in human growth",
+        "an evil god equal to the good"
+      ]
+    },
+    {
+      "c": "Irenaean theodicy",
+      "a": "humans are made immature, to grow toward God",
+      "d": [
+        "humans were made perfect, then fell",
+        "suffering is punishment for each sin"
+      ]
+    },
+    {
+      "c": "John Hick's 1966 book",
+      "a": "Evil and the God of Love",
+      "d": [
+        "God, Freedom, and Evil",
+        "The Problem of Pain"
+      ]
+    },
+    {
+      "c": "Source of Hick's phrase 'vale of soul-making'",
+      "a": "a letter of John Keats",
+      "d": [
+        "a sermon of John Donne",
+        "a poem of William Blake"
+      ]
+    },
+    {
+      "c": "Epistemic distance, in Hick",
+      "a": "God not too obvious, so faith can be free",
+      "d": [
+        "God too far away to act in the world",
+        "humans unable to know anything"
+      ]
+    },
+    {
+      "c": "Natural evil",
+      "a": "suffering from natural events like earthquakes",
+      "d": [
+        "suffering caused by human choices",
+        "evil that is only apparent"
+      ]
+    },
+    {
+      "c": "Swinburne on why natural evil is permitted",
+      "a": "regular laws let us learn how to cause good or harm",
+      "d": [
+        "natural evil punishes individual sins",
+        "natural evil does not cause suffering"
+      ]
+    },
+    {
+      "c": "William Rowe's 1979 article",
+      "a": "The Problem of Evil and Some Varieties of Atheism",
+      "d": [
+        "Evil and Omnipotence",
+        "Pain and Pleasure: An Evidential Problem for Theists"
+      ]
+    },
+    {
+      "c": "Rowe's example of seemingly pointless suffering",
+      "a": "a fawn dying slowly after a forest fire",
+      "d": [
+        "a child lost in a city",
+        "a soldier wounded in battle"
+      ]
+    },
+    {
+      "c": "Gratuitous evil",
+      "a": "suffering God could prevent without losing a greater good",
+      "d": [
+        "evil that leads to a greater good",
+        "evil freely chosen by humans"
+      ]
+    },
+    {
+      "c": "Rowe's 'friendly atheism'",
+      "a": "theists can be rational in believing despite evil",
+      "d": [
+        "atheists should hide their unbelief",
+        "God is friendly to atheists"
+      ]
+    },
+    {
+      "c": "Paul Draper's 1989 hypothesis of indifference",
+      "a": "nature's pain and pleasure fit indifference better",
+      "d": [
+        "God is indifferent but still good",
+        "evil makes no difference to belief"
+      ]
+    },
+    {
+      "c": "Skeptical theism",
+      "a": "failing to see God's reasons doesn't show there are none",
+      "d": [
+        "theists should doubt that God exists",
+        "no one can know that evil exists"
+      ]
+    },
+    {
+      "c": "Stephen Wykstra's CORNEA principle (1984)",
+      "a": "we may infer 'none' only if we'd likely see reasons",
+      "d": [
+        "we must believe what seems true to us",
+        "God must reveal all reasons to us"
+      ]
+    },
+    {
+      "c": "The 'G. E. Moore shift' against Rowe",
+      "a": "God exists, so the evil is not truly pointless",
+      "d": [
+        "evil exists, so God does not exist",
+        "evil is a simple, undefinable property"
+      ]
+    },
+    {
+      "c": "Marilyn McCord Adams's focus",
+      "a": "horrendous evils, defeated by intimacy with God",
+      "d": [
+        "minor evils, outweighed by pleasures",
+        "moral evils, punished in hell"
+      ]
+    },
+    {
+      "c": "Dostoevsky character who 'returns his ticket'",
+      "a": "Ivan Karamazov",
+      "d": [
+        "Alyosha Karamazov",
+        "Raskolnikov"
+      ]
+    },
+    {
+      "c": "J. L. Schellenberg's hiddenness argument (1993)",
+      "a": "a loving God would be evident to anyone open",
+      "d": [
+        "God hides only from the wicked",
+        "God is hidden because God is evil"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Mackie, Plantinga, and Rowe",
+    "text": [
+      "J. L. Mackie argued in 1955 that theism is not merely unproven but inconsistent. His logical problem can be set out:",
+      "(1) God is omnipotent, omniscient, and wholly good. (2) A wholly good being prevents evil as far as it can. (3) An omnipotent, omniscient being can prevent all evil. (4) So if God exists, there is no evil. (5) There is evil. (6) So God does not exist.",
+      "Alvin Plantinga's free will defense targets premise (2). A world with creatures who are significantly free, able to do right or wrong, may be better than a world of puppets. But God cannot cause free creatures to do only what is right, or they would not be free. It is possible, then, that God could not create a world with free creatures and no moral evil. Since it is only meant to show consistency, this is a defense, not a theodicy. Many philosophers, including some atheists, judge that it answers the logical problem.",
+      "William Rowe shifted to an evidential argument. Consider a fawn burned in a forest fire, dying slowly with no one ever knowing. (1) There probably are such evils that an all-good, all-powerful God could prevent without losing a greater good. (2) Such a God would prevent them. (3) So probably God does not exist.",
+      "Skeptical theists such as Stephen Wykstra reply that our inability to see a reason gives little evidence that there is none, since God's reasons may lie beyond our grasp."
+    ],
+    "q": [
+      {
+        "q": "Which premise of Mackie's argument does the free will defense target?",
+        "o": [
+          "Premise 1",
+          "Premise 2",
+          "Premise 5",
+          "Premise 6"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why is the free will defense called a defense, not a theodicy?",
+        "o": [
+          "It only claims to show consistency",
+          "It defends atheism",
+          "It gives God's actual reasons for every evil"
+        ],
+        "k": 0
+      },
+      {
+        "q": "How do skeptical theists answer Rowe?",
+        "o": [
+          "The fawn did not really suffer",
+          "Evil proves God exists",
+          "God's reasons may lie beyond our grasp"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

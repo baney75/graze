@@ -1,0 +1,318 @@
+{
+  "title": "Oscillations, waves and sound",
+  "note": "Simple harmonic motion arises whenever the restoring force is proportional to displacement; its period does not depend on amplitude. A wave carries energy, not matter, and its speed is v = fλ, set by the medium. Sound is a longitudinal pressure wave, about 343 m/s in air at 20 °C.",
+  "src": {
+    "t": "College Physics 2e, Ch. 16 Oscillatory Motion and Waves",
+    "u": "https://openstax.org/books/college-physics-2e/pages/16-introduction-to-oscillatory-motion-and-waves"
+  },
+  "items": [
+    {
+      "c": "Simple harmonic motion",
+      "a": "oscillation with restoring force proportional to displacement",
+      "d": [
+        "motion at constant speed around a circle",
+        "oscillation whose period grows with amplitude"
+      ]
+    },
+    {
+      "c": "Frequency and period",
+      "a": "f = 1/T",
+      "d": [
+        "f = T",
+        "f = 2πT",
+        "f = T²"
+      ]
+    },
+    {
+      "c": "SI unit of frequency",
+      "a": "hertz (Hz), one cycle per second",
+      "d": [
+        "radian (rad), one turn per second",
+        "second (s), one cycle"
+      ]
+    },
+    {
+      "c": "Angular frequency",
+      "a": "ω = 2πf",
+      "d": [
+        "ω = f/2π",
+        "ω = 2π/f",
+        "ω = πf"
+      ]
+    },
+    {
+      "c": "Period of a mass on a spring",
+      "a": "T = 2π√(m/k)",
+      "d": [
+        "T = 2π√(k/m)",
+        "T = 2πmk",
+        "T = √(m/k)/2π"
+      ]
+    },
+    {
+      "c": "Period of a simple pendulum",
+      "a": "T = 2π√(L/g)",
+      "d": [
+        "T = 2π√(g/L)",
+        "T = 2π√(mL/g)",
+        "T = 2πLg"
+      ]
+    },
+    {
+      "c": "Doubling a pendulum bob's mass changes T by",
+      "a": "nothing; T is independent of mass",
+      "d": [
+        "a factor of √2",
+        "a factor of 2"
+      ]
+    },
+    {
+      "c": "Pendulum length ×4: period becomes",
+      "a": "twice as long",
+      "d": [
+        "four times as long",
+        "half as long",
+        "unchanged"
+      ]
+    },
+    {
+      "c": "Where an SHM oscillator moves fastest",
+      "a": "at the equilibrium position",
+      "d": [
+        "at maximum displacement",
+        "halfway to maximum displacement"
+      ]
+    },
+    {
+      "c": "Where an SHM oscillator's acceleration peaks",
+      "a": "at maximum displacement",
+      "d": [
+        "at the equilibrium position",
+        "nowhere; it is constant"
+      ]
+    },
+    {
+      "c": "Total energy of a mass–spring oscillator",
+      "a": "½kA²",
+      "d": [
+        "kA²",
+        "½kA",
+        "½mA²"
+      ]
+    },
+    {
+      "c": "Resonance",
+      "a": "large response when driven at the natural frequency",
+      "d": [
+        "damping that stops an oscillation",
+        "a wave reflecting off a boundary"
+      ]
+    },
+    {
+      "c": "Wave speed",
+      "a": "v = fλ",
+      "d": [
+        "v = f/λ",
+        "v = λ/f²",
+        "v = 2πfλ"
+      ]
+    },
+    {
+      "c": "What a traveling wave carries",
+      "a": "energy, not the medium itself",
+      "d": [
+        "the medium along with it",
+        "neither energy nor matter"
+      ]
+    },
+    {
+      "c": "Transverse wave",
+      "a": "medium moves perpendicular to the wave's travel",
+      "d": [
+        "medium moves parallel to the wave's travel",
+        "medium moves in the wave's direction only"
+      ]
+    },
+    {
+      "c": "Longitudinal wave",
+      "a": "medium moves parallel to the wave's travel",
+      "d": [
+        "medium moves perpendicular to the wave's travel",
+        "wave that needs no medium"
+      ]
+    },
+    {
+      "c": "Type of wave that sound in air is",
+      "a": "longitudinal",
+      "d": [
+        "transverse",
+        "electromagnetic"
+      ]
+    },
+    {
+      "c": "Wave speed on a stretched string",
+      "a": "v = √(F_T/μ)",
+      "d": [
+        "v = √(μ/F_T)",
+        "v = F_T/μ",
+        "v = √(F_T·μ)"
+      ],
+      "ex": "F_T is tension; μ is mass per unit length."
+    },
+    {
+      "c": "Constructive interference",
+      "a": "waves in phase add to a larger amplitude",
+      "d": [
+        "waves out of phase cancel",
+        "a wave bends around an obstacle"
+      ]
+    },
+    {
+      "c": "Node in a standing wave",
+      "a": "point that stays at zero displacement",
+      "d": [
+        "point of maximum displacement",
+        "point where the wave reflects"
+      ]
+    },
+    {
+      "c": "Fundamental λ, string fixed at both ends",
+      "a": "λ = 2L",
+      "d": [
+        "λ = L",
+        "λ = 4L",
+        "λ = L/2"
+      ]
+    },
+    {
+      "c": "Harmonics of a tube closed at one end",
+      "a": "odd harmonics only",
+      "d": [
+        "all integer harmonics",
+        "even harmonics only"
+      ]
+    },
+    {
+      "c": "Harmonics of a tube open at both ends",
+      "a": "all integer harmonics",
+      "d": [
+        "odd harmonics only",
+        "even harmonics only"
+      ]
+    },
+    {
+      "c": "Beat frequency of two close tones",
+      "a": "|f₁ − f₂|",
+      "d": [
+        "f₁ + f₂",
+        "(f₁ + f₂)/2",
+        "f₁·f₂"
+      ]
+    },
+    {
+      "c": "Speed of sound in air at 20 °C",
+      "a": "about 343 m/s",
+      "d": [
+        "about 34 m/s",
+        "about 3430 m/s",
+        "about 3.0 × 10⁸ m/s"
+      ]
+    },
+    {
+      "c": "Sound travels faster in: steel or air?",
+      "a": "steel",
+      "d": [
+        "air"
+      ]
+    },
+    {
+      "c": "Doppler shift for a source moving toward you",
+      "a": "higher observed frequency",
+      "d": [
+        "lower observed frequency",
+        "unchanged frequency, higher speed"
+      ]
+    },
+    {
+      "c": "Sound intensity level",
+      "a": "β = 10 log₁₀(I/I₀) dB",
+      "d": [
+        "β = log₁₀(I₀/I) dB",
+        "β = 10 I/I₀ dB",
+        "β = 20 ln(I) dB"
+      ]
+    },
+    {
+      "c": "Reference intensity I₀ (threshold of hearing)",
+      "a": "10⁻¹² W/m²",
+      "d": [
+        "10⁻⁶ W/m²",
+        "1 W/m²",
+        "10⁻¹⁸ W/m²"
+      ]
+    },
+    {
+      "c": "A 10 dB increase multiplies intensity by",
+      "a": "10",
+      "d": [
+        "2",
+        "100",
+        "1.1"
+      ]
+    },
+    {
+      "c": "Perceived pitch corresponds mainly to",
+      "a": "frequency",
+      "d": [
+        "amplitude",
+        "wave speed",
+        "intensity"
+      ]
+    },
+    {
+      "c": "Typical human hearing range",
+      "a": "about 20 Hz to 20,000 Hz",
+      "d": [
+        "about 2 Hz to 2000 Hz",
+        "about 200 Hz to 200,000 Hz"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Back and forth",
+    "text": [
+      "Pull a mass on a spring and let go: it oscillates because the spring always pulls it back toward equilibrium with a force proportional to the displacement. Motion driven by such a restoring force is simple harmonic motion. Its period, 2π√(m/k), does not depend on how far you pull it. A pendulum swinging through small angles behaves the same way, with a period 2π√(L/g) that ignores the mass of the bob.",
+      "A wave is an oscillation that travels. Shake one end of a rope and a pulse runs along it, yet each bit of rope only moves up and down; energy travels, matter stays. In a transverse wave the medium moves perpendicular to the wave's travel; in a longitudinal wave, such as sound, it moves back and forth along it. Every wave obeys v = fλ, and the speed is set by the medium, not by the source.",
+      "When two waves overlap, their displacements add. In phase they reinforce; out of phase they cancel. Waves reflecting back and forth on a guitar string interfere to form standing waves, and only wavelengths that fit the string's length survive. Those allowed frequencies give each instrument its notes."
+    ],
+    "q": [
+      {
+        "q": "What sets the speed of a wave?",
+        "o": [
+          "The medium",
+          "The source's frequency",
+          "The wave's amplitude"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What moves along a rope when a pulse travels down it?",
+        "o": [
+          "Energy",
+          "The rope itself",
+          "Air molecules"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why does a guitar string sound only certain frequencies?",
+        "o": [
+          "Only wavelengths fitting the string form standing waves",
+          "The string blocks other frequencies",
+          "Air absorbs the rest"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

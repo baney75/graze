@@ -1,0 +1,308 @@
+{
+  "title": "εἰμί, 'to be', and first sentences",
+  "note": "εἰμί (I am): εἰμί, εἶ, ἐστί(ν), ἐσμέν, ἐστέ, εἰσί(ν); ἦν means 'was'. All but εἶ are enclitics: they lean on the word before and often lose their accent (Ἐγώ εἰμι). εἰμί links two nominatives, and the one with the article is the subject: θεὸς ἦν ὁ λόγος, 'the Word was God'. The verb 'is' is often left out.",
+  "src": {
+    "t": "SBL Greek New Testament, John 1 (Bible Gateway)",
+    "u": "https://www.biblegateway.com/passage/?search=John+1&version=SBLGNT"
+  },
+  "items": [
+    {
+      "c": "εἰμί",
+      "a": "I am",
+      "d": [
+        "you are (one person)",
+        "we are"
+      ],
+      "r": "eimi",
+      "ex": "Ἐγώ εἰμι· μὴ φοβεῖσθε.",
+      "exT": "It is I; do not be afraid."
+    },
+    {
+      "c": "εἶ",
+      "a": "you are (one person)",
+      "d": [
+        "I am",
+        "you are (plural)"
+      ],
+      "r": "ei"
+    },
+    {
+      "c": "ἐστί(ν)",
+      "a": "he, she, it is; there is",
+      "d": [
+        "they are",
+        "he, she, it was"
+      ],
+      "r": "esti(n)",
+      "ex": "ἀγαθός ἐστιν.",
+      "exT": "He is good."
+    },
+    {
+      "c": "ἐσμέν",
+      "a": "we are",
+      "d": [
+        "you are (plural)",
+        "they are"
+      ],
+      "r": "esmen",
+      "ex": "τέκνα θεοῦ ἐσμεν.",
+      "exT": "We are children of God."
+    },
+    {
+      "c": "ἐστέ",
+      "a": "you are (plural)",
+      "d": [
+        "we are",
+        "you are (one person)"
+      ],
+      "r": "este"
+    },
+    {
+      "c": "εἰσί(ν)",
+      "a": "they are",
+      "d": [
+        "we are",
+        "he, she, it is; there is"
+      ],
+      "r": "eisi(n)",
+      "ex": "οἱ μαθηταὶ ἐν τῷ οἴκῳ εἰσίν.",
+      "exT": "The disciples are in the house."
+    },
+    {
+      "c": "ἦν",
+      "a": "he, she, it was",
+      "d": [
+        "he, she, it is; there is",
+        "they were"
+      ],
+      "r": "ēn",
+      "ex": "Ἦν δὲ ἄνθρωπος ἐκ τῶν Φαρισαίων.",
+      "exT": "There was a man of the Pharisees."
+    },
+    {
+      "c": "εἶναι",
+      "a": "to be",
+      "d": [
+        "being",
+        "to have"
+      ],
+      "r": "einai"
+    },
+    {
+      "c": "ἐγώ",
+      "a": "I",
+      "d": [
+        "you (one person)",
+        "we"
+      ],
+      "ex": "ἐγώ εἰμι ὁ ποιμὴν ὁ καλός.",
+      "exT": "I am the good shepherd.",
+      "r": "egō"
+    },
+    {
+      "c": "σύ",
+      "a": "you (one person)",
+      "d": [
+        "I",
+        "you (plural)"
+      ],
+      "r": "sy",
+      "ex": "Σὺ τίς εἶ;",
+      "exT": "Who are you?"
+    },
+    {
+      "c": "ἡμεῖς",
+      "a": "we",
+      "d": [
+        "you (plural)",
+        "they"
+      ],
+      "r": "hēmeis",
+      "ex": "ἡμεῖς πιστεύομεν.",
+      "exT": "We believe."
+    },
+    {
+      "c": "ὑμεῖς",
+      "a": "you (plural)",
+      "d": [
+        "we",
+        "you (one person)"
+      ],
+      "r": "hymeis"
+    },
+    {
+      "c": "ὧδε",
+      "a": "here",
+      "d": [
+        "there",
+        "now"
+      ],
+      "r": "hōde",
+      "ex": "οὐκ ἔστιν ὧδε.",
+      "exT": "He is not here."
+    },
+    {
+      "c": "ποῦ",
+      "a": "where?",
+      "d": [
+        "when?",
+        "how?"
+      ],
+      "r": "pou",
+      "ex": "ποῦ μένεις;",
+      "exT": "Where are you staying?"
+    },
+    {
+      "c": "Σὺ ___ ὁ Χριστός. (you are)",
+      "a": "εἶ",
+      "d": [
+        "εἰμί",
+        "ἐστέ"
+      ],
+      "ex": "Σὺ εἶ ὁ Χριστός, ὁ υἱὸς τοῦ θεοῦ.",
+      "exT": "You are the Christ, the Son of God."
+    },
+    {
+      "c": "ὁ θεὸς ἀγάπη ___. (God is love.)",
+      "a": "ἐστίν",
+      "d": [
+        "εἰσίν",
+        "ἐσμέν"
+      ]
+    },
+    {
+      "c": "Ἐγώ ___ τὸ φῶς τοῦ κόσμου. (I am)",
+      "a": "εἰμι",
+      "d": [
+        "ἐστιν",
+        "ἐσμεν"
+      ],
+      "ex": "Ἐγώ εἰμι τὸ φῶς τοῦ κόσμου.",
+      "exT": "I am the light of the world."
+    },
+    {
+      "c": "Ὑμεῖς ___ τὸ ἅλας τῆς γῆς. (you are)",
+      "a": "ἐστε",
+      "d": [
+        "ἐσμεν",
+        "εἰσιν"
+      ],
+      "ex": "Ὑμεῖς ἐστε τὸ ἅλας τῆς γῆς.",
+      "exT": "You are the salt of the earth."
+    },
+    {
+      "c": "ἐγὼ καὶ ὁ πατὴρ ἕν ___. (we are one)",
+      "a": "ἐσμεν",
+      "d": [
+        "ἐστε",
+        "εἰσιν"
+      ]
+    },
+    {
+      "c": "θεὸς ___ ὁ λόγος. (the Word was God)",
+      "a": "ἦν",
+      "d": [
+        "ἐστίν",
+        "εἶ"
+      ]
+    },
+    {
+      "c": "Τί ἐστιν ἀλήθεια;",
+      "a": "What is truth?",
+      "d": [
+        "Where is the truth?",
+        "Who is the truth?"
+      ],
+      "r": "Ti estin alētheia?"
+    },
+    {
+      "c": "Ποῦ ἐστιν ἐκεῖνος;",
+      "a": "Where is that man?",
+      "d": [
+        "Who is that man?",
+        "Where are those men?"
+      ],
+      "r": "Pou estin ekeinos?"
+    },
+    {
+      "c": "καλόν ἐστιν ἡμᾶς ὧδε εἶναι.",
+      "a": "It is good for us to be here.",
+      "d": [
+        "It is good that you are here.",
+        "We were here, and it was good."
+      ],
+      "r": "kalon estin hēmas hōde einai."
+    },
+    {
+      "c": "πνεῦμα ὁ θεός.",
+      "a": "God is spirit.",
+      "d": [
+        "the spirit of God",
+        "God has a spirit."
+      ],
+      "r": "pneuma ho theos."
+    },
+    {
+      "c": "μαθηταί ἐσμεν.",
+      "a": "We are disciples.",
+      "d": [
+        "They are disciples.",
+        "You are disciples."
+      ],
+      "r": "mathētai esmen."
+    },
+    {
+      "c": "words like ἐστιν that lean on the word before",
+      "a": "enclitics",
+      "d": [
+        "proclitics",
+        "diphthongs"
+      ]
+    },
+    {
+      "c": "the final ν of ἐστίν before a vowel",
+      "a": "movable nu",
+      "d": [
+        "iota subscript",
+        "rough breathing"
+      ]
+    }
+  ],
+  "read": {
+    "title": "In the temple and in the house",
+    "text": [
+      "Ὁ Ἰησοῦς ἐν τῷ ἱερῷ ἐστιν καὶ διδάσκει τὸν λαόν. ὁ ὄχλος ἀκούει τὸν λόγον καὶ βλέπει τὰ σημεῖα.",
+      "Οἱ μαθηταὶ ἐν τῇ οἰκίᾳ εἰσίν. ὁ Πέτρος λέγει· Σὺ εἶ ὁ Χριστός, ὁ υἱὸς τοῦ θεοῦ. ὁ δὲ Ἰωάννης γράφει τοὺς λόγους ἐν βιβλίῳ.",
+      "Ὁ δὲ Ἰούδας ἔχει τὸν ἄρτον καὶ οὐ πιστεύει. οἱ δὲ ἄλλοι πιστεύουσιν· ὁ λόγος τοῦ κυρίου ἐστὶν ἀλήθεια."
+    ],
+    "q": [
+      {
+        "q": "Where is Jesus teaching?",
+        "o": [
+          "in the house",
+          "in the temple",
+          "in the wilderness"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What does Peter say?",
+        "o": [
+          "You are the Christ, the Son of God.",
+          "The word of the Lord is truth.",
+          "I see the signs."
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does John do?",
+        "o": [
+          "He holds the bread.",
+          "He listens to the crowd.",
+          "He writes the words in a book."
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "title": "Questions, connectors and daily routine",
+  "note": "Question words come first: Dove abiti? Quando arrivi? Perché means both \"why\" and \"because.\" Daily-routine verbs are often reflexive: mi alzo, ti alzi, si alza, ci alziamo, vi alzate, si alzano. Mai (never) needs non before the verb: Non bevo mai caffè.",
+  "src": {
+    "t": "Voci, Unità 8: La routine del mattino",
+    "u": "https://human.libretexts.org/Bookshelves/Languages/Italian/Voci%3A_Corso_elementare_di_lingua_e_culture_italiane_I_(Bozzato_Benetollo_and_Mugnai)/08%3A_Unita_8"
+  },
+  "items": [
+    {
+      "c": "chi",
+      "a": "who",
+      "d": [
+        "what",
+        "which"
+      ],
+      "ex": "Chi è quel ragazzo?",
+      "exT": "Who is that boy?"
+    },
+    {
+      "c": "che cosa",
+      "a": "what",
+      "d": [
+        "who",
+        "how"
+      ]
+    },
+    {
+      "c": "dove",
+      "a": "where",
+      "d": [
+        "when",
+        "how"
+      ]
+    },
+    {
+      "c": "quando",
+      "a": "when",
+      "d": [
+        "how much",
+        "where"
+      ],
+      "ex": "Quando parti per Roma?",
+      "exT": "When are you leaving for Rome?"
+    },
+    {
+      "c": "perché",
+      "a": "why; because",
+      "d": [
+        "how; however",
+        "when; while"
+      ]
+    },
+    {
+      "c": "come",
+      "a": "how; like",
+      "d": [
+        "when",
+        "what"
+      ]
+    },
+    {
+      "c": "quanto",
+      "a": "how much",
+      "d": [
+        "when",
+        "which"
+      ]
+    },
+    {
+      "c": "quanti",
+      "a": "how many",
+      "d": [
+        "how much",
+        "who"
+      ]
+    },
+    {
+      "c": "quale",
+      "a": "which",
+      "d": [
+        "where",
+        "who"
+      ]
+    },
+    {
+      "c": "e",
+      "a": "and",
+      "d": [
+        "or",
+        "but"
+      ]
+    },
+    {
+      "c": "o",
+      "a": "or",
+      "d": [
+        "and",
+        "if"
+      ]
+    },
+    {
+      "c": "ma",
+      "a": "but",
+      "d": [
+        "and",
+        "so"
+      ]
+    },
+    {
+      "c": "anche",
+      "a": "also; too",
+      "d": [
+        "only",
+        "still"
+      ]
+    },
+    {
+      "c": "quindi",
+      "a": "so; therefore",
+      "d": [
+        "however",
+        "while"
+      ]
+    },
+    {
+      "c": "poi",
+      "a": "then; afterward",
+      "d": [
+        "before",
+        "never"
+      ]
+    },
+    {
+      "c": "se",
+      "a": "if",
+      "d": [
+        "or",
+        "since"
+      ]
+    },
+    {
+      "c": "sempre",
+      "a": "always",
+      "d": [
+        "never",
+        "often"
+      ]
+    },
+    {
+      "c": "spesso",
+      "a": "often",
+      "d": [
+        "always",
+        "rarely"
+      ],
+      "ex": "Vado spesso al cinema.",
+      "exT": "I often go to the movies."
+    },
+    {
+      "c": "a volte",
+      "a": "sometimes",
+      "d": [
+        "always",
+        "never"
+      ]
+    },
+    {
+      "c": "di solito",
+      "a": "usually",
+      "d": [
+        "alone",
+        "rarely"
+      ]
+    },
+    {
+      "c": "ogni giorno",
+      "a": "every day",
+      "d": [
+        "all day",
+        "every week"
+      ]
+    },
+    {
+      "c": "alzarsi",
+      "a": "to get up",
+      "d": [
+        "to go to bed",
+        "to get dressed"
+      ]
+    },
+    {
+      "c": "svegliarsi",
+      "a": "to wake up",
+      "d": [
+        "to fall asleep",
+        "to get up"
+      ]
+    },
+    {
+      "c": "vestirsi",
+      "a": "to get dressed",
+      "d": [
+        "to wash up",
+        "to get up"
+      ]
+    },
+    {
+      "c": "lavarsi",
+      "a": "to wash (oneself)",
+      "d": [
+        "to get dressed",
+        "to work"
+      ]
+    },
+    {
+      "c": "Io mi ___ alle sette. (alzarsi)",
+      "a": "alzo",
+      "d": [
+        "alza",
+        "alzi"
+      ]
+    },
+    {
+      "c": "Luca si ___ ogni mattina. (lavarsi)",
+      "a": "lava",
+      "d": [
+        "lavo",
+        "lavi"
+      ]
+    },
+    {
+      "c": "A che ora ___ svegli? (tu)",
+      "a": "ti",
+      "d": [
+        "si",
+        "mi"
+      ]
+    },
+    {
+      "c": "Noi ___ vestiamo in fretta.",
+      "a": "ci",
+      "d": [
+        "si",
+        "vi"
+      ]
+    },
+    {
+      "c": "Non bevo ___ caffè. (never)",
+      "a": "mai",
+      "d": [
+        "sempre",
+        "spesso"
+      ]
+    },
+    {
+      "c": "Perché studi l'italiano?",
+      "a": "Why are you studying Italian?",
+      "d": [
+        "Where do you study Italian?",
+        "Since when have you studied Italian?"
+      ]
+    },
+    {
+      "c": "Di solito ceno alle otto.",
+      "a": "I usually have dinner at eight.",
+      "d": [
+        "I never have dinner at eight.",
+        "I had dinner at eight."
+      ]
+    }
+  ]
+}

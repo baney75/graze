@@ -1,0 +1,28 @@
+{
+  "title": "Flags of the Middle East and North Africa",
+  "kind": "flag",
+  "note": "Red, white, black and green, the Pan-Arab colors, appear on most flags here: Jordan, Palestine, Sudan, Kuwait and the United Arab Emirates use all four. The crescent and star appear on Türkiye, Tunisia and Algeria. Qatar and Bahrain both use a serrated white band.",
+  "src": {
+    "t": "flag-icons (MIT)",
+    "u": "https://github.com/lipis/flag-icons"
+  },
+  "items": [
+    { "p": "tr", "a": "Türkiye", "d": ["Tunisia", "Pakistan", "Azerbaijan"] },
+    { "p": "sy", "a": "Syria", "d": ["Iraq", "Yemen", "Egypt"] },
+    { "p": "lb", "a": "Lebanon", "d": ["Austria", "Latvia", "Canada"] },
+    { "p": "il", "a": "Israel", "d": ["Palestine", "Jordan", "Lebanon"] },
+    { "p": "ps", "a": "Palestine", "d": ["Jordan", "Sudan", "Kuwait"] },
+    { "p": "jo", "a": "Jordan", "d": ["Palestine", "Sudan", "Kuwait"] },
+    { "p": "iq", "a": "Iraq", "d": ["Syria", "Egypt", "Yemen"] },
+    { "p": "kw", "a": "Kuwait", "d": ["United Arab Emirates", "Jordan", "Palestine"] },
+    { "p": "bh", "a": "Bahrain", "d": ["Qatar", "United Arab Emirates", "Kuwait"] },
+    { "p": "qa", "a": "Qatar", "d": ["Bahrain", "United Arab Emirates", "Saudi Arabia"] },
+    { "p": "ae", "a": "United Arab Emirates", "d": ["Kuwait", "Jordan", "Sudan"] },
+    { "p": "ye", "a": "Yemen", "d": ["Egypt", "Syria", "Iraq"] },
+    { "p": "ly", "a": "Libya", "d": ["Tunisia", "Egypt", "Algeria"] },
+    { "p": "tn", "a": "Tunisia", "d": ["Türkiye", "Algeria", "Pakistan"] },
+    { "p": "dz", "a": "Algeria", "d": ["Pakistan", "Tunisia", "Mauritania"] },
+    { "p": "ma", "a": "Morocco", "d": ["Algeria", "Tunisia", "Libya"] },
+    { "p": "sd", "a": "Sudan", "d": ["Jordan", "Palestine", "Kuwait"] }
+  ]
+}

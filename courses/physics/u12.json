@@ -1,0 +1,320 @@
+{
+  "title": "Current, resistance and circuits",
+  "note": "Current is the rate charge flows, and resistance sets how much current a voltage drives: V = IR. Series elements share the same current; parallel branches share the same voltage. Kirchhoff's rules are conservation of charge at junctions and conservation of energy around loops.",
+  "src": {
+    "t": "College Physics 2e, Ch. 20 Electric Current, Resistance, and Ohm's Law",
+    "u": "https://openstax.org/books/college-physics-2e/pages/20-introduction-to-electric-current-resistance-and-ohms-law"
+  },
+  "items": [
+    {
+      "c": "Electric current",
+      "a": "I = ΔQ/Δt",
+      "d": [
+        "I = ΔQ·Δt",
+        "I = ΔV/Δt",
+        "I = Δt/ΔQ"
+      ]
+    },
+    {
+      "c": "One ampere",
+      "a": "1 C/s",
+      "d": [
+        "1 J/C",
+        "1 C·V",
+        "1 C·s"
+      ]
+    },
+    {
+      "c": "Direction of conventional current",
+      "a": "the direction positive charge would flow",
+      "d": [
+        "the direction electrons drift",
+        "always from − to + outside a battery"
+      ]
+    },
+    {
+      "c": "Typical electron drift speed in a wire",
+      "a": "very slow, well under 1 mm/s",
+      "d": [
+        "near the speed of light",
+        "about the speed of sound"
+      ]
+    },
+    {
+      "c": "Ohm's law",
+      "a": "V = IR",
+      "d": [
+        "V = I/R",
+        "V = IR²",
+        "I = VR"
+      ]
+    },
+    {
+      "c": "SI unit of resistance",
+      "a": "ohm (Ω) = 1 V/A",
+      "d": [
+        "ohm (Ω) = 1 A/V",
+        "siemens (S) = 1 V/A",
+        "volt (V) = 1 J/C"
+      ]
+    },
+    {
+      "c": "Resistance of a wire from its dimensions",
+      "a": "R = ρL/A",
+      "d": [
+        "R = ρA/L",
+        "R = ρLA",
+        "R = L/(ρA)"
+      ]
+    },
+    {
+      "c": "Double a wire's length: its resistance",
+      "a": "doubles",
+      "d": [
+        "halves",
+        "quadruples",
+        "stays the same"
+      ]
+    },
+    {
+      "c": "Resistance of a metal as it heats up",
+      "a": "increases",
+      "d": [
+        "decreases",
+        "stays the same"
+      ]
+    },
+    {
+      "c": "Electric power",
+      "a": "P = IV",
+      "d": [
+        "P = I/V",
+        "P = V/I",
+        "P = IV²"
+      ]
+    },
+    {
+      "c": "Power in a resistor in terms of current",
+      "a": "P = I²R",
+      "d": [
+        "P = IR²",
+        "P = I/R",
+        "P = I²/R"
+      ]
+    },
+    {
+      "c": "Power in a resistor in terms of voltage",
+      "a": "P = V²/R",
+      "d": [
+        "P = VR²",
+        "P = V/R²",
+        "P = V²R"
+      ]
+    },
+    {
+      "c": "The kilowatt-hour is a unit of",
+      "a": "energy",
+      "d": [
+        "power",
+        "current",
+        "charge"
+      ]
+    },
+    {
+      "c": "Resistors in series",
+      "a": "R_s = R₁ + R₂ + …",
+      "d": [
+        "1/R_s = 1/R₁ + 1/R₂ + …",
+        "R_s = R₁R₂ + …"
+      ]
+    },
+    {
+      "c": "Resistors in parallel",
+      "a": "1/R_p = 1/R₁ + 1/R₂ + …",
+      "d": [
+        "R_p = R₁ + R₂ + …",
+        "R_p = 1/R₁ + 1/R₂ + …"
+      ]
+    },
+    {
+      "c": "Two 10 Ω resistors in parallel",
+      "a": "5 Ω",
+      "d": [
+        "20 Ω",
+        "10 Ω",
+        "0.2 Ω"
+      ]
+    },
+    {
+      "c": "Equivalent of parallel resistors vs the smallest",
+      "a": "always less than the smallest",
+      "d": [
+        "always more than the largest",
+        "equal to the average"
+      ]
+    },
+    {
+      "c": "Same for every element in a series circuit",
+      "a": "current",
+      "d": [
+        "voltage",
+        "power",
+        "resistance"
+      ]
+    },
+    {
+      "c": "Same across every branch of a parallel circuit",
+      "a": "voltage",
+      "d": [
+        "current",
+        "power",
+        "resistance"
+      ]
+    },
+    {
+      "c": "Plugging in one more appliance in parallel",
+      "a": "total current from the outlet increases",
+      "d": [
+        "total current decreases",
+        "voltage at the outlet doubles"
+      ]
+    },
+    {
+      "c": "Kirchhoff's junction rule",
+      "a": "current into a junction equals current out",
+      "d": [
+        "voltage at every junction is zero",
+        "current doubles at each junction"
+      ]
+    },
+    {
+      "c": "Kirchhoff's loop rule",
+      "a": "potential changes around any closed loop sum to zero",
+      "d": [
+        "currents around any closed loop sum to zero",
+        "resistances around a loop sum to zero"
+      ]
+    },
+    {
+      "c": "Electromotive force (emf)",
+      "a": "voltage of a source when no current flows",
+      "d": [
+        "force pushing each electron, in newtons",
+        "current a battery delivers when shorted"
+      ]
+    },
+    {
+      "c": "Terminal voltage of a battery with internal r",
+      "a": "V = emf − Ir",
+      "d": [
+        "V = emf + Ir",
+        "V = emf·Ir",
+        "V = emf/r"
+      ]
+    },
+    {
+      "c": "How an ammeter is connected",
+      "a": "in series, with very low resistance",
+      "d": [
+        "in parallel, with very high resistance",
+        "in series, with very high resistance"
+      ]
+    },
+    {
+      "c": "How a voltmeter is connected",
+      "a": "in parallel, with very high resistance",
+      "d": [
+        "in series, with very low resistance",
+        "in parallel, with very low resistance"
+      ]
+    },
+    {
+      "c": "Capacitors in parallel",
+      "a": "C_p = C₁ + C₂ + …",
+      "d": [
+        "1/C_p = 1/C₁ + 1/C₂ + …",
+        "C_p = C₁C₂"
+      ]
+    },
+    {
+      "c": "Capacitors in series",
+      "a": "1/C_s = 1/C₁ + 1/C₂ + …",
+      "d": [
+        "C_s = C₁ + C₂ + …",
+        "C_s = C₁C₂ + …"
+      ]
+    },
+    {
+      "c": "RC time constant",
+      "a": "τ = RC",
+      "d": [
+        "τ = R/C",
+        "τ = C/R",
+        "τ = ½RC²"
+      ]
+    },
+    {
+      "c": "Capacitor charge after one time constant",
+      "a": "about 63% of its final value",
+      "d": [
+        "about 37% of its final value",
+        "exactly 50% of its final value",
+        "100% of its final value"
+      ]
+    },
+    {
+      "c": "Standard US household outlet",
+      "a": "120 V AC at 60 Hz",
+      "d": [
+        "240 V DC at 50 Hz",
+        "12 V AC at 60 Hz"
+      ]
+    },
+    {
+      "c": "Fuse or circuit breaker",
+      "a": "opens the circuit when current is too high",
+      "d": [
+        "raises the voltage when current drops",
+        "stores charge for power outages"
+      ]
+    }
+  ],
+  "read": {
+    "title": "How circuits share",
+    "text": [
+      "A battery maintains a potential difference between its terminals, and when a conducting path connects them, charge flows. The flow rate is the current, measured in amperes, coulombs per second. Each electron actually drifts very slowly, well under a millimeter per second, but the electric field that pushes them spreads through the wire almost instantly, so a lamp lights the moment you flip the switch.",
+      "Resistance measures how much a component opposes current. For many materials the current is proportional to the voltage, V = IR, which is Ohm's law. Resistance grows with a wire's length and shrinks with its cross-sectional area.",
+      "When resistors are in series, the same current passes through each, and their resistances add. In parallel, each branch sees the same voltage, and adding branches gives charge more paths, so the total resistance drops below that of the smallest branch. Homes are wired in parallel: every appliance gets the full outlet voltage, and each one you switch on draws more total current from the circuit. A breaker trips when that total climbs too high.",
+      "Kirchhoff's two rules handle any circuit: current into a junction equals current out, and potential changes around a closed loop sum to zero."
+    ],
+    "q": [
+      {
+        "q": "Why does a lamp light almost instantly even though electrons drift slowly?",
+        "o": [
+          "The field spreads through the wire almost instantly",
+          "Electrons travel at light speed",
+          "The lamp stores charge in advance"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What happens to total resistance when a branch is added in parallel?",
+        "o": [
+          "It decreases",
+          "It increases",
+          "It stays the same"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why are homes wired in parallel?",
+        "o": [
+          "Each appliance gets the full outlet voltage",
+          "It lowers total current",
+          "It keeps current the same everywhere"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

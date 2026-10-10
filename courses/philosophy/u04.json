@@ -1,0 +1,51 @@
+{
+  "title": "Aristotle",
+  "note": "Aristotle, Plato's student, placed form inside things: a substance is a compound of matter and form. He explained things by four causes and traced motion to an unmoved mover. In ethics, the human good is rational activity done well over a whole life, built by habits that hit the mean between extremes.",
+  "src": { "t": "Stanford Encyclopedia of Philosophy, Aristotle's Ethics", "u": "https://plato.stanford.edu/entries/aristotle-ethics/" },
+  "items": [
+    { "c": "Years Aristotle spent at Plato's Academy", "a": "about twenty", "d": ["about two", "about forty", "about five"] },
+    { "c": "School Aristotle founded in Athens", "a": "the Lyceum", "d": ["the Academy", "the Garden", "the Stoa"] },
+    { "c": "Peripatetics", "a": "followers of Aristotle's school", "d": ["followers of Epicurus", "followers of Pythagoras"] },
+    { "c": "Aristotle's most famous pupil", "a": "Alexander the Great", "d": ["Plato", "Epicurus", "Pericles"] },
+    { "c": "Organon", "a": "Aristotle's collected works on logic", "d": ["Aristotle's work on the soul", "Plato's late dialogues"] },
+    { "c": "Aristotle's syllogism", "a": "a deduction from two premises to a conclusion", "d": ["a dialogue that ends in puzzlement", "a generalization from many cases"] },
+    { "c": "Law of non-contradiction", "a": "nothing can both be and not be, in the same respect", "d": ["every statement is either true or false", "a thing is identical to itself"] },
+    { "c": "Material cause of a bronze statue", "a": "the bronze", "d": ["the sculptor", "the statue's shape", "honoring a hero"] },
+    { "c": "Efficient cause of a bronze statue", "a": "the sculptor at work", "d": ["the bronze", "the statue's shape", "honoring a hero"] },
+    { "c": "Formal cause", "a": "the form or structure that makes a thing what it is", "d": ["the stuff a thing is made of", "the agent that produces change"] },
+    { "c": "Final cause", "a": "the end or purpose for the sake of which", "d": ["the stuff a thing is made of", "the agent that produces change"] },
+    { "c": "Hylomorphism", "a": "substances are compounds of matter and form", "d": ["only matter is real", "forms exist in a separate realm"] },
+    { "c": "Primary substance, in the Categories", "a": "an individual, like this man or this horse", "d": ["a species, like man or horse", "a quality, like whiteness"] },
+    { "c": "An acorn, in Aristotle's terms, is", "a": "potentially an oak", "d": ["actually an oak", "the form of an oak"] },
+    { "c": "Aristotle's view of Plato's Forms", "a": "forms exist in things, not in a separate realm", "d": ["forms exist only in a separate realm", "there are no forms at all"] },
+    { "c": "Aristotle's unmoved mover", "a": "an eternal first cause that moves as object of desire", "d": ["a craftsman who shaped matter in time", "the first atom to move"] },
+    { "c": "Activity of Aristotle's prime mover", "a": "thought thinking itself", "d": ["creating new worlds", "punishing the wicked"] },
+    { "c": "Soul (psyche), for Aristotle", "a": "the form of a living body", "d": ["a prisoner trapped in the body", "a fine kind of atom"] },
+    { "c": "Aristotle's three levels of soul", "a": "nutritive, sensitive, rational", "d": ["reason, spirit, appetite", "memory, will, intellect"] },
+    { "c": "Treatise in which Aristotle studies the soul", "a": "De Anima", "d": ["Poetics", "Politics", "Organon"] },
+    { "c": "Aristotle's chief ethical work", "a": "Nicomachean Ethics", "d": ["Republic", "Metaphysics", "Poetics"] },
+    { "c": "Function argument's conclusion", "a": "the human good is rational activity done excellently", "d": ["the human good is pleasure", "the human good is honor"] },
+    { "c": "Courage, as a mean, lies between", "a": "cowardice and rashness", "d": ["fear and hope", "pride and humility"] },
+    { "c": "Generosity, as a mean, lies between", "a": "stinginess and wastefulness", "d": ["poverty and wealth", "envy and spite"] },
+    { "c": "How ethical virtue is acquired", "a": "by habit, through repeated virtuous acts", "d": ["by birth alone", "by reading definitions"] },
+    { "c": "Phronesis", "a": "practical wisdom", "d": ["theoretical knowledge", "weakness of will", "courage"] },
+    { "c": "Akrasia", "a": "acting against one's own better judgment", "d": ["freedom from all passion", "the mean between two vices"] },
+    { "c": "Most complete friendship, per Aristotle", "a": "friendship based on virtue", "d": ["friendship based on usefulness", "friendship based on pleasure"] },
+    { "c": "Best life in Nicomachean Ethics Book X", "a": "the life of contemplation", "d": ["the life of pleasure", "the life of wealth"] },
+    { "c": "'Man is by nature a political animal'", "a": "Aristotle, Politics", "d": ["Plato, Republic", "Hobbes, Leviathan"] },
+    { "c": "Catharsis in Aristotle's Poetics", "a": "tragedy's purging of pity and fear", "d": ["the mean between vices", "the soul's ascent to the Forms"] }
+  ],
+  "read": {
+    "title": "Form in things, virtue in habit",
+    "text": [
+      "Aristotle studied with Plato for about twenty years, then built a different system. He agreed that knowledge needs stable forms, but he placed them inside the things we meet. This horse is a substance, a unity of matter and form. Its form is what makes it a horse, and its matter is what that form organizes.",
+      "To explain anything, Aristotle asked four questions. What is it made of? What is its form? What brought it about? What is it for? A house is bricks and wood, built on a plan, by a builder, for shelter. Nature too acts for ends, as roots grow down and leaves turn toward light.",
+      "His ethics follows the same pattern. Everything with a function does well when it performs that function excellently. The distinctive human function is to live by reason, so human flourishing, eudaimonia, is rational activity in accordance with virtue over a complete life. Ethical virtues such as courage are stable traits formed by practice, just as one becomes a builder by building. Each lies in a mean relative to the situation: the brave person fears what is truly dangerous, neither cowering nor charging recklessly. Practical wisdom finds that mean in each case."
+    ],
+    "q": [
+      { "q": "Where did Aristotle locate form?", "o": ["In a separate realm", "Inside particular things", "Only in the human mind"], "k": 1 },
+      { "q": "In the house example, what is the final cause?", "o": ["Bricks and wood", "The builder", "Shelter"], "k": 2 },
+      { "q": "How, according to the reading, does a person become courageous?", "o": ["By practicing courageous acts", "By being born brave", "By learning the definition of courage"], "k": 0 }
+    ]
+  }
+}

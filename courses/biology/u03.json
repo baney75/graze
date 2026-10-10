@@ -1,0 +1,55 @@
+{
+  "title": "Cell structure",
+  "note": "Every cell has a plasma membrane, cytoplasm, ribosomes, and DNA. Prokaryotes keep their DNA in a nucleoid with no membrane around it. Eukaryotes add a nucleus and membrane-bound organelles; the endomembrane system (ER, Golgi, lysosomes, vesicles) makes, modifies, and ships proteins and lipids.",
+  "src": { "t": "OpenStax Biology 2e, Ch. 4: Cell Structure", "u": "https://openstax.org/books/biology-2e/pages/4-introduction" },
+  "items": [
+    { "c": "Cell theory", "a": "All organisms are made of cells; cells come from existing cells", "d": ["Cells arise spontaneously from nonliving matter", "Only plants and animals are made of cells"] },
+    { "c": "Advantage of electron over light microscopes", "a": "Much higher resolution", "d": ["Can view living cells in color", "Uses ordinary visible light"] },
+    { "c": "Why are most cells so small?", "a": "Small size keeps the surface-to-volume ratio high", "d": ["Large cells cannot contain ribosomes", "Small cells need no plasma membrane"] },
+    { "c": "Prokaryotic cell", "a": "Cell without a nucleus or membrane-bound organelles", "d": ["Cell with a nucleus but no ribosomes", "Cell with chloroplasts but no DNA"] },
+    { "c": "Nucleoid", "a": "Region holding a prokaryote's DNA, with no membrane", "d": ["Membrane-bound sac holding a eukaryote's DNA", "Organelle that assembles ribosomes"] },
+    { "c": "Peptidoglycan", "a": "Polymer in the cell walls of most bacteria", "d": ["Polysaccharide in plant cell walls", "Protein that forms the bacterial flagellum"] },
+    { "c": "Plasmid", "a": "Small circular DNA separate from the chromosome", "d": ["Protein coat around a virus", "Membrane fold where respiration occurs"] },
+    { "c": "Nucleus", "a": "Organelle that houses the cell's chromosomal DNA", "d": ["Organelle that makes most of the cell's ATP", "Organelle that packages proteins for export"] },
+    { "c": "Nucleolus", "a": "Region in the nucleus where ribosomes are assembled", "d": ["Pore that lets RNA leave the nucleus", "Coiled DNA visible during cell division"] },
+    { "c": "Nuclear pores", "a": "Openings that let RNA and proteins in and out", "d": ["Sites where DNA is replicated", "Channels that pump protons into the nucleus"] },
+    { "c": "Ribosome", "a": "Site of protein synthesis", "d": ["Site of lipid synthesis", "Site of photosynthesis"], "ex": "Ribosomes are made of rRNA and protein and have no membrane." },
+    { "c": "Rough ER", "a": "Ribosome-studded ER making secreted and membrane proteins", "d": ["ER without ribosomes that makes lipids", "Stacked sacs that sort and ship proteins"] },
+    { "c": "Smooth ER", "a": "Makes lipids, detoxifies, and stores calcium ions", "d": ["Makes proteins on attached ribosomes", "Digests worn-out organelles"] },
+    { "c": "Golgi apparatus", "a": "Modifies, sorts, and packages proteins and lipids", "d": ["Synthesizes proteins from mRNA", "Breaks down fatty acids and toxins"] },
+    { "c": "Lysosome", "a": "Vesicle of enzymes that digests macromolecules and old organelles", "d": ["Vesicle that stores water in plant cells", "Organelle that captures light energy"] },
+    { "c": "Lysosomal enzymes work best in…", "a": "an acidic environment", "d": ["a basic environment", "a neutral environment"] },
+    { "c": "Peroxisome", "a": "Oxidizes fatty acids and toxins, making H2O2", "d": ["Packages proteins into vesicles", "Makes ribosomal RNA"] },
+    { "c": "Mitochondrion", "a": "Makes most of the cell's ATP by cellular respiration", "d": ["Captures light energy to make sugar", "Modifies and ships proteins"] },
+    { "c": "Chloroplast", "a": "Organelle where photosynthesis takes place", "d": ["Organelle where cellular respiration ends", "Organelle that digests old cell parts"] },
+    { "c": "Central vacuole", "a": "Stores water and keeps plant cells turgid", "d": ["Makes ATP in plant cells", "Builds the plant cell wall"] },
+    { "c": "Endosymbiotic theory", "a": "Mitochondria and chloroplasts came from engulfed bacteria", "d": ["The nucleus came from an engulfed virus", "Ribosomes evolved from the Golgi"] },
+    { "c": "Clue that mitochondria were once bacteria", "a": "They have their own circular DNA", "d": ["They are surrounded by a cell wall", "They make proteins in the Golgi"] },
+    { "c": "Endomembrane system", "a": "Nuclear envelope, ER, Golgi, lysosomes, vesicles, plasma membrane", "d": ["Mitochondria, chloroplasts, and peroxisomes", "Ribosomes, centrioles, and the cytoskeleton"] },
+    { "c": "Path of a secreted protein", "a": "Rough ER → Golgi → vesicle → plasma membrane", "d": ["Golgi → rough ER → lysosome → nucleus", "Smooth ER → nucleus → Golgi → membrane"] },
+    { "c": "Microfilaments", "a": "Thinnest cytoskeleton fibers, made of actin", "d": ["Hollow tubes made of tubulin", "Rope-like fibers such as keratin"], "ex": "Used in muscle contraction and cell crawling." },
+    { "c": "Microtubules", "a": "Hollow cytoskeleton tubes made of tubulin", "d": ["Thin fibers made of actin", "Rope-like fibers such as keratin"], "ex": "They form the mitotic spindle and tracks for vesicles." },
+    { "c": "Intermediate filaments", "a": "Rope-like fibers that bear tension, such as keratin", "d": ["Hollow tubes made of tubulin", "Thin fibers made of actin"] },
+    { "c": "Centrosome", "a": "Microtubule-organizing center near the nucleus", "d": ["Region where ribosomes are assembled", "Junction between two animal cells"] },
+    { "c": "Microtubule pattern in cilia and flagella", "a": "9 + 2", "d": ["6 + 2", "3 + 3"], "ex": "Nine doublets ring a central pair." },
+    { "c": "Main protein of the animal ECM", "a": "Collagen", "d": ["Keratin", "Actin"], "ex": "ECM = extracellular matrix." },
+    { "c": "Plasmodesmata", "a": "Channels connecting adjacent plant cells", "d": ["Seals that block leakage between animal cells", "Spot welds anchoring animal cells"] },
+    { "c": "Tight junction", "a": "Seal between animal cells that blocks leakage", "d": ["Channel letting ions pass between cells", "Channel connecting adjacent plant cells"] },
+    { "c": "Desmosome", "a": "Spot-weld anchoring adjacent animal cells", "d": ["Seal that blocks leakage between cells", "Channel letting ions pass between cells"] },
+    { "c": "Gap junction", "a": "Channel letting ions pass between animal cells", "d": ["Spot-weld anchoring adjacent cells", "Seal that blocks leakage between cells"] }
+  ],
+  "read": {
+    "title": "A protein's journey out of the cell",
+    "text": [
+      "Imagine a cell in the pancreas making a digestive enzyme that must leave the cell. The instructions start in the nucleus, where the gene is copied into messenger RNA. The mRNA exits through a nuclear pore and meets a ribosome.",
+      "Because this protein is destined for export, its ribosome docks on the rough endoplasmic reticulum. As the chain grows, it threads into the ER interior, where it folds and often receives sugar groups. Small vesicles then bud off the ER and carry the protein to the Golgi apparatus.",
+      "The Golgi works like a shipping center. Its stacked sacs further modify the protein, then sort it and tag it for its destination. A vesicle carrying the finished enzyme pinches off, travels along microtubules, and fuses with the plasma membrane, releasing its contents outside the cell.",
+      "This route uses the endomembrane system, a set of membranes that are linked directly or by vesicles. It also includes lysosomes, which receive digestive enzymes by the same pathway. Mitochondria and chloroplasts are not part of it. They grow and divide on their own and carry their own DNA, clues that they began as bacteria living inside another cell."
+    ],
+    "q": [
+      { "q": "Where does a protein destined for export begin to be made?", "o": ["On a ribosome bound to the rough ER", "Inside the Golgi apparatus", "Inside a lysosome", "On the smooth ER"], "k": 0 },
+      { "q": "What role does the Golgi play in this journey?", "o": ["It copies the gene into mRNA", "It modifies, sorts, and tags the protein", "It digests faulty proteins"], "k": 1 },
+      { "q": "Why are mitochondria not counted in the endomembrane system?", "o": ["They lack membranes", "They are only in plants", "They grow and divide on their own with their own DNA"], "k": 2 }
+    ]
+  }
+}

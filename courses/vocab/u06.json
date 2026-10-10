@@ -1,0 +1,51 @@
+{
+  "title": "Truth and deception",
+  "note": "Disingenuous (falsely sincere) is nearly the opposite of ingenuous (innocently frank). A canard is a false story, an apocryphal tale is widely told but of doubtful truth, and a Potemkin village is a showy front built to hide a poor reality, named for stories of fake villages shown to Catherine the Great.",
+  "src": { "t": "Merriam-Webster: canard", "u": "https://www.merriam-webster.com/dictionary/canard" },
+  "items": [
+    { "c": "mendacious", "a": "lying; not telling the truth", "d": ["innocently frank and trusting", "easily fooled", "plain and unembellished"], "ex": "The mendacious ad claimed the cereal cured insomnia." },
+    { "c": "veracity", "a": "truthfulness; conformity to fact", "d": ["skill at clever trickery", "a false or baseless story", "willingness to believe too readily"], "ex": "Reporters questioned the veracity of the senator's war stories." },
+    { "c": "duplicity", "a": "deceitfulness; double-dealing", "d": ["plain, honest speech", "lack of experience", "strict truthfulness"], "ex": "His duplicity came out when both rivals compared the promises he had made them." },
+    { "c": "dissemble", "a": "to hide one's true feelings or motives", "d": ["to state openly and plainly", "to expose a false claim", "to confirm with evidence"], "ex": "She dissembled her disappointment behind a bright smile." },
+    { "c": "prevaricate", "a": "to speak evasively to avoid the truth", "d": ["to speak frankly and directly", "to expose a hoax", "to praise extravagantly"], "ex": "When asked where the money went, the treasurer began to prevaricate." },
+    { "c": "chicanery", "a": "the use of trickery to deceive", "d": ["truthfulness and accuracy", "a sudden change of fortune", "innocent, trusting frankness"], "ex": "Accounting chicanery hid the losses for three years." },
+    { "c": "subterfuge", "a": "deceit used to achieve a goal", "d": ["open and honest dealing", "a formal statement of fact", "a reluctant admission"], "ex": "By a clever subterfuge, the prisoners made the guards count wrong." },
+    { "c": "ruse", "a": "a trick meant to fool someone", "d": ["a sincere promise", "a factual report", "a public apology"], "ex": "The \"gas leak\" was a ruse to get the family out of the house." },
+    { "c": "canard", "a": "a false or unfounded report", "d": ["a well-proven fact", "a quick, witty reply", "a story told for moral teaching"], "ex": "The old canard that we use only ten percent of our brains refuses to die." },
+    { "c": "apocryphal", "a": "widely told but of doubtful truth", "d": ["proven true by records", "deliberately misleading", "openly and honestly stated"], "ex": "The tale of young Washington and the cherry tree is apocryphal." },
+    { "c": "spurious", "a": "false or fake; not genuine", "d": ["genuine and authentic", "plain and unadorned", "trusting and innocent"], "ex": "The \"ancient\" coin turned out to be a spurious copy minted in 1990." },
+    { "c": "disingenuous", "a": "insincere while pretending to be frank or naive", "d": ["innocently frank and open", "easily fooled", "harshly blunt"], "ex": "It was disingenuous of him to act surprised by a plan he had drafted." },
+    { "c": "ingenuous", "a": "innocent and frank; unsuspecting", "d": ["cleverly deceitful", "skilled at inventing things", "falsely sincere"], "ex": "The ingenuous tourist handed his wallet to a stranger who asked to see it." },
+    { "c": "perfidious", "a": "treacherous; betraying trust", "d": ["faithful and loyal", "honest but tactless", "naively trusting"], "ex": "The perfidious ally switched sides on the eve of battle." },
+    { "c": "charlatan", "a": "a person who falsely claims skill or knowledge", "d": ["a person easily fooled", "a self-taught expert", "a person who exposes frauds"], "ex": "The charlatan sold \"magnetic water\" at three county fairs." },
+    { "c": "mountebank", "a": "a swindler, especially a showy seller of fake remedies", "d": ["a teller of moral fables", "a judge of disputes", "a person who mocks for fun"], "ex": "The mountebank on the wagon promised his tonic would grow hair on glass." },
+    { "c": "Potemkin village", "a": "an impressive front hiding a poor reality", "d": ["a community run by its residents", "a place of complete honesty", "a remote, isolated town"], "ex": "The model school was a Potemkin village, polished for the inspectors' visit." },
+    { "c": "sham", "a": "a thing that is not what it is claimed to be", "d": ["a genuine article", "a heartfelt apology", "a careful investigation"], "ex": "The election was a sham; the results were printed before the polls opened." },
+    { "c": "feign", "a": "to pretend to feel or have", "d": ["to show openly", "to prove false", "to confirm by evidence"], "ex": "The opossum feigned death until the dog lost interest." },
+    { "c": "dupe (verb)", "a": "to deceive or trick", "d": ["to expose as false", "to tell the plain truth", "to forgive fully"], "ex": "Investors were duped by a website full of stock photos." },
+    { "c": "credulous", "a": "too ready to believe things", "d": ["habitually doubtful", "skilled at trickery", "strictly truthful"], "ex": "Only a credulous reader would trust a headline ending in three exclamation points." },
+    { "c": "calumny", "a": "a false statement meant to damage a reputation", "d": ["a widely told but doubtful tale", "an honest, plain account", "a formal tribute"], "ex": "The rival spread a calumny that the chef reused leftovers." },
+    { "c": "verisimilitude", "a": "the appearance of being true or real", "d": ["deliberate deceit for gain", "complete proof of a claim", "a false show of grief"], "ex": "Period-accurate slang gave the novel its verisimilitude." },
+    { "c": "bona fide", "a": "genuine; made in good faith", "d": ["fake and fraudulent", "widely told but doubtful", "made under pressure"], "ex": "After years of street shows, she became a bona fide star." },
+    { "c": "debunk", "a": "to expose the falseness of", "d": ["to spread a false rumor", "to hide one's motives", "to pretend to feel"], "ex": "The museum's exhibit debunks a dozen myths about Vikings." },
+    { "c": "hoodwink", "a": "to trick or deceive", "d": ["to warn of danger", "to tell plainly", "to accuse publicly"], "ex": "The forger hoodwinked experts at two auction houses." },
+    { "c": "legerdemain", "a": "sleight of hand; skillful trickery", "d": ["plain dealing", "a sincere confession", "a false report"], "ex": "Through budgetary legerdemain, the deficit vanished from the summary page." },
+    { "c": "pretext", "a": "a false reason given to hide the real one", "d": ["a true account of events", "a summary at the start of a book", "a formal written agreement"], "ex": "He visited on the pretext of returning a book, but he wanted to see the house." },
+    { "c": "artifice", "a": "clever trickery, or a clever device", "d": ["natural simplicity", "honest error", "public disgrace"], "ex": "The magician's best artifice was making the audience look the wrong way." },
+    { "c": "unvarnished", "a": "plain and straightforward; not embellished", "d": ["cleverly disguised", "exaggerated for effect", "deliberately vague"], "ex": "The coach gave the team an unvarnished account of how badly they had played." }
+  ],
+  "read": {
+    "title": "The Talking Horse",
+    "text": [
+      "In the early 1900s a retired Berlin schoolteacher named Wilhelm von Osten announced that his horse, Hans, could do arithmetic. Asked what three plus two made, Hans tapped his hoof five times. Crowds gathered, and newspapers called him Clever Hans.",
+      "Was it chicanery? Many assumed von Osten was a charlatan running a ruse, but he was not trying to dupe anyone. He sincerely believed in the horse, and Hans answered correctly even when strangers asked the questions. A commission of experts found no sign of a deliberate trick.",
+      "The psychologist Oskar Pfungst finally debunked the claim in 1907, without accusing anyone of duplicity. He showed that Hans failed when the questioner did not know the answer, or when the horse could not see the questioner. The horse was reading tiny, unconscious changes in posture and face: people tensed as the count approached the right number and relaxed when it arrived.",
+      "The case is a lesson for credulous audiences and confident experts alike. The appearance of intelligence had real verisimilitude, and nobody involved was mendacious. Yet the conclusion was spurious. Scientists still design experiments so that no one present can give away the answer, a safeguard born from a horse in a Berlin courtyard."
+    ],
+    "q": [
+      { "q": "According to the passage, von Osten was", "o": ["a deliberate swindler", "sincere but mistaken", "the psychologist who exposed the horse", "paid by the newspapers"], "k": 1 },
+      { "q": "Pfungst showed that Hans", "o": ["could add but not subtract", "was secretly signaled by von Osten on purpose", "responded to unconscious cues from questioners", "was a different horse each day"], "k": 2 },
+      { "q": "\"Nobody involved was mendacious\" means that no one", "o": ["was lying", "was fooled", "understood arithmetic", "was paid"], "k": 0 }
+    ]
+  }
+}

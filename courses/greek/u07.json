@@ -1,0 +1,318 @@
+{
+  "title": "First declension: masculine nouns and more",
+  "note": "Some first-declension nouns are masculine. They end in -ης or -ας and borrow the genitive -ου from the second declension: ὁ μαθητής, τοῦ μαθητοῦ; ὁ νεανίας, τοῦ νεανίου. Their other endings are first-declension: τῷ μαθητῇ, τὸν μαθητήν; plural οἱ μαθηταί, τῶν μαθητῶν, τοῖς μαθηταῖς, τοὺς μαθητάς.",
+  "src": {
+    "t": "Dickinson College Commentaries, Greek Core Vocabulary",
+    "u": "https://dcc.dickinson.edu/greek-core-list"
+  },
+  "items": [
+    {
+      "c": "μαθητής, -οῦ, ὁ",
+      "a": "disciple, student",
+      "d": [
+        "teacher",
+        "prophet"
+      ],
+      "ex": "οἱ μαθηταὶ τοῦ Ἰησοῦ",
+      "exT": "the disciples of Jesus",
+      "r": "mathētēs",
+      "say": "μαθητής"
+    },
+    {
+      "c": "προφήτης, -ου, ὁ",
+      "a": "prophet",
+      "d": [
+        "priest",
+        "judge"
+      ],
+      "r": "prophētēs",
+      "say": "προφήτης",
+      "ex": "ὁ προφήτης Ἠσαΐας",
+      "exT": "the prophet Isaiah"
+    },
+    {
+      "c": "κριτής, -οῦ, ὁ",
+      "a": "judge",
+      "d": [
+        "citizen",
+        "soldier"
+      ],
+      "r": "kritēs",
+      "say": "κριτής"
+    },
+    {
+      "c": "στρατιώτης, -ου, ὁ",
+      "a": "soldier",
+      "d": [
+        "citizen",
+        "worker"
+      ],
+      "r": "stratiōtēs",
+      "say": "στρατιώτης",
+      "ex": "οἱ στρατιῶται",
+      "exT": "the soldiers"
+    },
+    {
+      "c": "πολίτης, -ου, ὁ",
+      "a": "citizen",
+      "d": [
+        "soldier",
+        "stranger"
+      ],
+      "r": "politēs",
+      "say": "πολίτης"
+    },
+    {
+      "c": "ὑποκριτής, -οῦ, ὁ",
+      "a": "hypocrite; (classical) actor",
+      "d": [
+        "judge; (classical) critic",
+        "maker; (classical) poet"
+      ],
+      "r": "hypokritēs",
+      "say": "ὑποκριτής"
+    },
+    {
+      "c": "τελώνης, -ου, ὁ",
+      "a": "tax collector",
+      "d": [
+        "fisherman",
+        "scribe"
+      ],
+      "ex": "τελῶναι καὶ ἁμαρτωλοί",
+      "exT": "tax collectors and sinners",
+      "r": "telōnēs",
+      "say": "τελώνης"
+    },
+    {
+      "c": "δεσπότης, -ου, ὁ",
+      "a": "master, lord",
+      "d": [
+        "slave, servant",
+        "citizen"
+      ],
+      "r": "despotēs",
+      "say": "δεσπότης"
+    },
+    {
+      "c": "νεανίας, -ου, ὁ",
+      "a": "young man",
+      "d": [
+        "old man",
+        "child"
+      ],
+      "r": "neanias",
+      "say": "νεανίας"
+    },
+    {
+      "c": "Ἰωάννης, -ου, ὁ",
+      "a": "John",
+      "d": [
+        "James",
+        "Jonah"
+      ],
+      "r": "Iōannēs",
+      "say": "Ἰωάννης",
+      "ex": "Ἰωάννης ὁ βαπτιστής",
+      "exT": "John the Baptist"
+    },
+    {
+      "c": "ποιητής, -οῦ, ὁ",
+      "a": "maker; poet",
+      "d": [
+        "judge; critic",
+        "worker; laborer"
+      ],
+      "r": "poiētēs",
+      "say": "ποιητής"
+    },
+    {
+      "c": "ἐργάτης, -ου, ὁ",
+      "a": "worker, laborer",
+      "d": [
+        "soldier",
+        "maker; poet"
+      ],
+      "ex": "ἄξιος ὁ ἐργάτης τοῦ μισθοῦ αὐτοῦ",
+      "exT": "the worker deserves his wages",
+      "r": "ergatēs",
+      "say": "ἐργάτης"
+    },
+    {
+      "c": "νεφέλη, -ης, ἡ",
+      "a": "cloud",
+      "d": [
+        "sky",
+        "rain"
+      ],
+      "r": "nephelē",
+      "say": "νεφέλη",
+      "ex": "ἐν νεφέλαις",
+      "exT": "in clouds"
+    },
+    {
+      "c": "κώμη, -ης, ἡ",
+      "a": "village",
+      "d": [
+        "city",
+        "field"
+      ],
+      "r": "kōmē",
+      "say": "κώμη",
+      "ex": "εἰς τὴν κώμην",
+      "exT": "into the village"
+    },
+    {
+      "c": "πύλη, -ης, ἡ",
+      "a": "gate",
+      "d": [
+        "door",
+        "wall"
+      ],
+      "ex": "διὰ τῆς στενῆς πύλης",
+      "exT": "through the narrow gate",
+      "r": "pylē",
+      "say": "πύλη"
+    },
+    {
+      "c": "φυλακή, -ῆς, ἡ",
+      "a": "prison; guard, watch",
+      "d": [
+        "tomb; memorial",
+        "house; household"
+      ],
+      "r": "phylakē",
+      "say": "φυλακή",
+      "ex": "ἐν τῇ φυλακῇ",
+      "exT": "in prison"
+    },
+    {
+      "c": "σκηνή, -ῆς, ἡ",
+      "a": "tent; (theater) stage",
+      "d": [
+        "house; (theater) seat",
+        "gate; (theater) chorus"
+      ],
+      "r": "skēnē",
+      "say": "σκηνή"
+    },
+    {
+      "c": "θύρα, -ας, ἡ",
+      "a": "door",
+      "d": [
+        "gate",
+        "window"
+      ],
+      "ex": "ἐγώ εἰμι ἡ θύρα",
+      "exT": "I am the door",
+      "r": "thyra",
+      "say": "θύρα"
+    },
+    {
+      "c": "ἐπαγγελία, -ας, ἡ",
+      "a": "promise",
+      "d": [
+        "commandment",
+        "good news"
+      ],
+      "r": "epangelia",
+      "say": "ἐπαγγελία"
+    },
+    {
+      "c": "παραβολή, -ῆς, ἡ",
+      "a": "parable, comparison",
+      "d": [
+        "commandment",
+        "teaching"
+      ],
+      "r": "parabolē",
+      "say": "παραβολή",
+      "ex": "ἐν παραβολαῖς",
+      "exT": "in parables"
+    },
+    {
+      "c": "διδαχή, -ῆς, ἡ",
+      "a": "teaching",
+      "d": [
+        "parable, comparison",
+        "writing; Scripture"
+      ],
+      "r": "didachē",
+      "say": "διδαχή",
+      "ex": "ἡ διδαχὴ τῶν ἀποστόλων",
+      "exT": "the teaching of the apostles"
+    },
+    {
+      "c": "πέτρα, -ας, ἡ",
+      "a": "rock",
+      "d": [
+        "sand",
+        "mountain"
+      ],
+      "r": "petra",
+      "say": "πέτρα",
+      "ex": "ἐπὶ τὴν πέτραν",
+      "exT": "on the rock"
+    },
+    {
+      "c": "μάχη, -ης, ἡ",
+      "a": "battle, fight",
+      "d": [
+        "victory",
+        "army"
+      ],
+      "r": "machē",
+      "say": "μάχη"
+    },
+    {
+      "c": "δίκη, -ης, ἡ",
+      "a": "justice; lawsuit, penalty",
+      "d": [
+        "custom; law",
+        "honor; price"
+      ],
+      "r": "dikē",
+      "say": "δίκη"
+    },
+    {
+      "c": "οἱ ___ τοῦ Ἰησοῦ (the disciples; μαθητής)",
+      "a": "μαθηταί",
+      "d": [
+        "μαθητοί",
+        "μαθητάς"
+      ]
+    },
+    {
+      "c": "genitive singular of προφήτης",
+      "a": "προφήτου",
+      "d": [
+        "προφήτης",
+        "προφήτῃ"
+      ]
+    },
+    {
+      "c": "τῷ ___ (to the disciple; μαθητής)",
+      "a": "μαθητῇ",
+      "d": [
+        "μαθητοῦ",
+        "μαθητῷ"
+      ]
+    },
+    {
+      "c": "βλέπω τὸν ___. (I see the prophet; προφήτης)",
+      "a": "προφήτην",
+      "d": [
+        "προφήτον",
+        "προφήτου"
+      ]
+    },
+    {
+      "c": "genitive singular of νεανίας",
+      "a": "νεανίου",
+      "d": [
+        "νεανίας",
+        "νεανίᾳ"
+      ]
+    }
+  ]
+}

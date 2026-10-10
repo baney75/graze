@@ -1,0 +1,58 @@
+{
+  "title": "Biological macromolecules",
+  "note": "Life's four large molecule classes are carbohydrates, lipids, proteins, and nucleic acids. Most are polymers: dehydration synthesis links monomers and releases water, and hydrolysis adds water to split them. A protein's amino acid sequence determines how it folds, and its shape determines its function.",
+  "src": { "t": "OpenStax Biology 2e, Ch. 3: Biological Macromolecules", "u": "https://openstax.org/books/biology-2e/pages/3-introduction" },
+  "items": [
+    { "c": "Dehydration synthesis", "a": "Joins monomers and releases water", "d": ["Splits polymers by adding water", "Joins monomers by adding oxygen"] },
+    { "c": "Hydrolysis", "a": "Splits polymers by adding water", "d": ["Joins monomers and releases water", "Splits polymers by removing oxygen"] },
+    { "c": "Monomer of polysaccharides", "a": "Monosaccharide", "d": ["Amino acid", "Nucleotide"] },
+    { "c": "Monomer of proteins", "a": "Amino acid", "d": ["Fatty acid", "Nucleotide"] },
+    { "c": "Monomer of nucleic acids", "a": "Nucleotide", "d": ["Amino acid", "Monosaccharide"] },
+    { "c": "Glucose, fructose, and galactose are…", "a": "monosaccharides", "d": ["disaccharides", "polysaccharides"] },
+    { "c": "Sucrose is built from", "a": "Glucose and fructose", "d": ["Glucose and galactose", "Two glucose units"], "ex": "Sucrose is table sugar." },
+    { "c": "Lactose is built from", "a": "Glucose and galactose", "d": ["Glucose and fructose", "Two glucose units"], "ex": "Lactose is milk sugar." },
+    { "c": "Glycosidic bond", "a": "Covalent bond linking two sugars", "d": ["Covalent bond linking two amino acids", "Covalent bond linking two nucleotides"] },
+    { "c": "Starch", "a": "Energy-storage polysaccharide of plants", "d": ["Energy-storage polysaccharide of animals", "Structural polysaccharide of plant cell walls"] },
+    { "c": "Glycogen", "a": "Energy-storage polysaccharide of animals", "d": ["Energy-storage polysaccharide of plants", "Structural polysaccharide of fungal walls"], "ex": "Stored mainly in liver and muscle cells." },
+    { "c": "Cellulose", "a": "Structural polysaccharide of plant cell walls", "d": ["Energy-storage polysaccharide of animals", "Protein that stiffens plant stems"] },
+    { "c": "Chitin", "a": "Polysaccharide in arthropod exoskeletons and fungal walls", "d": ["Protein in hair, nails, and feathers", "Lipid that waterproofs plant leaves"] },
+    { "c": "Triglyceride", "a": "Glycerol bonded to three fatty acids", "d": ["Glycerol, two fatty acids, and a phosphate", "Four fused carbon rings"] },
+    { "c": "Saturated fatty acid", "a": "No C=C double bonds; straight chain", "d": ["One or more C=C double bonds; kinked chain", "A ring structure with no hydrogens"] },
+    { "c": "Unsaturated fatty acid", "a": "Has C=C double bonds that bend the chain", "d": ["Has only single bonds and a straight chain", "Has a phosphate head on the chain"] },
+    { "c": "Why are most plant oils liquid at room temp?", "a": "Kinked unsaturated chains cannot pack tightly", "d": ["They contain more glycerol than animal fats", "Their fatty acids are fully saturated"] },
+    { "c": "Trans fats are mainly produced by…", "a": "partially hydrogenating vegetable oils", "d": ["fermenting sugars with yeast", "hydrolyzing animal fats"] },
+    { "c": "Phospholipid", "a": "Glycerol, two fatty acids, and a phosphate group", "d": ["Glycerol bonded to three fatty acids", "Four fused rings with a hydroxyl group"] },
+    { "c": "Amphipathic molecule", "a": "Has both hydrophilic and hydrophobic regions", "d": ["Is entirely water-soluble", "Is entirely water-insoluble"], "ex": "Phospholipids have a polar head and nonpolar tails." },
+    { "c": "Steroid", "a": "Lipid built of four fused carbon rings", "d": ["Lipid built of glycerol and three fatty acids", "Lipid built of long-chain alcohols and fatty acids"] },
+    { "c": "Cholesterol", "a": "Membrane steroid; precursor of steroid hormones", "d": ["Polysaccharide that stores energy in the liver", "Phospholipid found only in plant cells"] },
+    { "c": "Peptide bond", "a": "Covalent bond between two amino acids", "d": ["Hydrogen bond between two strands", "Covalent bond between two sugars"] },
+    { "c": "R group of an amino acid", "a": "Side chain that differs among amino acids", "d": ["Amino group shared by all amino acids", "Carboxyl group shared by all amino acids"] },
+    { "c": "Common amino acids in proteins", "a": "20", "d": ["4", "64"] },
+    { "c": "Primary structure of a protein", "a": "Its sequence of amino acids", "d": ["Its alpha helices and beta sheets", "Its overall 3-D folded shape"] },
+    { "c": "Secondary structure of a protein", "a": "Alpha helices and beta pleated sheets", "d": ["The linear amino acid sequence", "Several polypeptides joined together"], "ex": "Held by hydrogen bonds between backbone atoms." },
+    { "c": "Tertiary structure of a protein", "a": "Overall 3-D shape of one polypeptide", "d": ["Sequence of amino acids in the chain", "Joining of several polypeptide subunits"] },
+    { "c": "Quaternary structure of a protein", "a": "Several polypeptide subunits joined together", "d": ["Overall 3-D shape of one polypeptide", "Local coils and folds of the backbone"], "ex": "Hemoglobin has four subunits." },
+    { "c": "Denaturation", "a": "Loss of a protein's shape and function", "d": ["Breakdown of peptide bonds into amino acids", "Addition of a new amino acid to the chain"], "ex": "Heat, pH changes, or chemicals can denature proteins." },
+    { "c": "Chaperone proteins", "a": "Help other proteins fold correctly", "d": ["Carry oxygen through the blood", "Cut peptide bonds in old proteins"] },
+    { "c": "Three parts of a nucleotide", "a": "Phosphate, five-carbon sugar, nitrogenous base", "d": ["Glycerol, fatty acid, phosphate", "Amino group, carboxyl group, R group"] },
+    { "c": "Purines", "a": "Adenine and guanine", "d": ["Cytosine and thymine", "Thymine and uracil"], "ex": "Purines have a double ring." },
+    { "c": "Pyrimidines", "a": "Cytosine, thymine, and uracil", "d": ["Adenine and guanine", "Adenine, guanine, and uracil"], "ex": "Pyrimidines have a single ring." },
+    { "c": "Sugar in RNA", "a": "Ribose", "d": ["Deoxyribose", "Glucose"] },
+    { "c": "Base found in RNA but not DNA", "a": "Uracil", "d": ["Thymine", "Guanine"] },
+    { "c": "Phosphodiester bond", "a": "Links nucleotides along a nucleic acid strand", "d": ["Links amino acids in a polypeptide", "Links fatty acids to glycerol"] }
+  ],
+  "read": {
+    "title": "Building big molecules from small parts",
+    "text": [
+      "Cells build their largest molecules the way a train is built from cars. Small units called monomers are joined into long chains called polymers. Each link forms by dehydration synthesis: one monomer gives up a hydroxyl group, the other a hydrogen, and a molecule of water is released. Reversing the process, hydrolysis, uses water to break the link. Digestion is largely hydrolysis.",
+      "Carbohydrates follow this pattern. Glucose units linked one way form starch, a plant energy store, or glycogen, the animal version. Linked a slightly different way, glucose forms cellulose, the tough fiber of plant cell walls that most animals cannot digest.",
+      "Proteins are chains of amino acids joined by peptide bonds. Twenty amino acids, differing only in their side chains, can be arranged in a vast number of sequences. The sequence is the primary structure, and it determines how the chain coils into helices and sheets and then folds into a final three-dimensional shape. Shape is everything: if heat or extreme pH unfolds a protein, it usually stops working.",
+      "Lipids are the exception. Fats and phospholipids are assembled from glycerol and fatty acids, but they are not long chains of repeating monomers."
+    ],
+    "q": [
+      { "q": "What is released each time dehydration synthesis forms a link?", "o": ["Carbon dioxide", "Water", "Oxygen", "ATP"], "k": 1 },
+      { "q": "Starch, glycogen, and cellulose all consist of chains of what monomer?", "o": ["Fructose", "Amino acids", "Glucose", "Fatty acids"], "k": 2 },
+      { "q": "Why are lipids described as an exception?", "o": ["They contain no carbon", "They are not long chains of repeating monomers", "They cannot be broken down by hydrolysis"], "k": 1 }
+    ]
+  }
+}

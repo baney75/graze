@@ -1,0 +1,52 @@
+{
+  "title": "Style and tone",
+  "note": "Bathos is a fall from the lofty to the ridiculous; pathos is the quality that stirs pity. Litotes affirms by denying the opposite (\"not bad\"), while hyperbole exaggerates. A malapropism swaps in a similar-sounding wrong word, named for Mrs. Malaprop in Sheridan's 1775 play The Rivals; a solecism is any grammatical blunder.",
+  "src": { "t": "Merriam-Webster: bathos", "u": "https://www.merriam-webster.com/dictionary/bathos" },
+  "items": [
+    { "c": "florid", "a": "elaborately ornate, of language or style", "d": ["plain and spare", "clear and easy to read", "grimly mocking"], "ex": "His florid letters compared her eyes to twin moons over a sapphire sea." },
+    { "c": "turgid", "a": "pompous and overblown, of writing; also swollen", "d": ["clear and transparent", "brief and memorable", "plainly everyday"], "ex": "Few readers got past the turgid first chapter of the memoir." },
+    { "c": "sesquipedalian", "a": "given to using long words", "d": ["given to using slang", "given to mocking others", "given to short, sharp replies"], "ex": "The sesquipedalian professor never said \"use\" when \"utilize\" was available." },
+    { "c": "stilted", "a": "stiff and unnatural in manner or style", "d": ["relaxed and natural", "delicately humorous", "richly ornate"], "ex": "The actors' stilted dialogue sounded like a phrasebook read aloud." },
+    { "c": "mannered", "a": "marked by an artificial or exaggerated style", "d": ["natural and unaffected", "harshly sarcastic", "brief and to the point"], "ex": "The director's mannered close-ups began to feel like a tic." },
+    { "c": "pellucid", "a": "translucently clear, in meaning or style", "d": ["dense and obscure", "ornate and showy", "bitterly sarcastic"], "ex": "Her pellucid prose made a hard subject seem simple." },
+    { "c": "felicitous", "a": "well chosen and apt, of a word or phrase", "d": ["awkward and ill-suited", "overused and stale", "grammatically wrong"], "ex": "Calling the tiny dog \"Goliath\" was a felicitous choice." },
+    { "c": "succinct", "a": "briefly and clearly expressed", "d": ["long-winded and rambling", "elaborately decorated", "grimly mocking"], "ex": "Give me a succinct answer: yes or no?" },
+    { "c": "trenchant", "a": "vigorously sharp and effective in expression", "d": ["vague and timid", "pleasantly whimsical", "pompously overblown"], "ex": "Her trenchant review exposed every flaw in the plan." },
+    { "c": "mordant", "a": "biting and caustic, especially of humor", "d": ["gentle and affectionate", "dull and plain", "solemn and sincere"], "ex": "The comic's mordant jokes about the tax code drew nervous laughter." },
+    { "c": "sardonic", "a": "grimly mocking or cynical", "d": ["warmly sincere", "naively cheerful", "fearfully timid"], "ex": "\"Great, another meeting,\" she said with a sardonic smile." },
+    { "c": "acerbic", "a": "sharp and harsh in tone", "d": ["sweet and gentle", "vague and uncertain", "lofty and ornate"], "ex": "The critic's acerbic column made restaurant owners dread Fridays." },
+    { "c": "wry", "a": "dryly or mockingly humorous", "d": ["loudly enthusiastic", "deeply mournful", "stiffly formal"], "ex": "He gave a wry laugh at the parking ticket on his rental car." },
+    { "c": "droll", "a": "amusing in an odd or dry way", "d": ["bitterly angry", "dull and lifeless", "ornate and showy"], "ex": "The guide's droll asides made the tax museum surprisingly fun." },
+    { "c": "whimsical", "a": "playfully quaint or fanciful", "d": ["grim and severe", "dense and obscure", "stiff and unnatural"], "ex": "The café's whimsical decor included teacups hanging from the ceiling." },
+    { "c": "bathos", "a": "a sudden, ludicrous drop from the lofty to the trivial", "d": ["a quality that stirs pity and sorrow", "a deliberate exaggeration", "a pointed, witty saying"], "ex": "\"He gave his life for his country, and also his bicycle\" is pure bathos." },
+    { "c": "hyperbole", "a": "deliberate exaggeration for effect", "d": ["understatement by denying the opposite", "a mild word in place of a harsh one", "a word used in place of a related one"], "ex": "\"I've told you a million times\" is hyperbole." },
+    { "c": "litotes", "a": "understatement that affirms by denying the opposite", "d": ["deliberate exaggeration", "a self-contradictory phrase", "the misuse of a similar word"], "ex": "Calling a marathon \"no small feat\" is litotes." },
+    { "c": "euphemism", "a": "a mild word used in place of a harsh or blunt one", "d": ["a deliberately insulting nickname", "an overused phrase", "a grammatical mistake"], "ex": "\"Between jobs\" is a euphemism for unemployed." },
+    { "c": "malapropism", "a": "the comic misuse of a similar-sounding word", "d": ["an error of grammar", "an overused saying", "a mild word for a harsh one"], "ex": "\"Dance the flamingo\" for \"dance the flamenco\" is a malapropism." },
+    { "c": "solecism", "a": "a grammatical mistake or breach of etiquette", "d": ["a witty, pointed saying", "a deliberate exaggeration", "a long, pompous word"], "ex": "\"Between you and I\" is a common solecism." },
+    { "c": "hackneyed", "a": "made stale and dull by overuse", "d": ["fresh and original", "harsh and biting", "clear and transparent"], "ex": "The ad leaned on the hackneyed line \"It's not just a car, it's a lifestyle.\"" },
+    { "c": "banal", "a": "so lacking in originality as to be boring", "d": ["startlingly original", "bitterly sarcastic", "elaborately ornate"], "ex": "The interview stuck to banal questions about his favorite color." },
+    { "c": "platitude", "a": "a remark used too often to be interesting", "d": ["a short witty poem", "an error of grammar", "a fall from lofty to trivial"], "ex": "\"Everything happens for a reason\" is a platitude, not comfort." },
+    { "c": "aphorism", "a": "a concise statement of a general truth", "d": ["a long, rambling anecdote", "an overused and empty remark", "a misused similar word"], "ex": "\"Knowledge is power\" is an aphorism often credited to Francis Bacon." },
+    { "c": "epigram", "a": "a brief, clever, often witty saying or poem", "d": ["a long, solemn speech", "a list of corrections", "a stiff, formal letter"], "ex": "Wilde's epigram \"I can resist everything except temptation\" is still quoted." },
+    { "c": "vernacular", "a": "the everyday language of ordinary people", "d": ["the formal language of law", "a style of ornate writing", "the language of scholars"], "ex": "Dante wrote in the Italian vernacular rather than Latin." },
+    { "c": "pastiche", "a": "a work imitating the style of another work or period", "d": ["a cruel personal attack", "a brief summary", "a grammatical error"], "ex": "The novel is a loving pastiche of 1930s detective fiction." },
+    { "c": "lampoon", "a": "to mock publicly through satire", "d": ["to praise in verse", "to imitate faithfully as tribute", "to summarize briefly"], "ex": "The sketch lampooned the governor's habit of naming bridges after himself." },
+    { "c": "synecdoche", "a": "a figure using a part for the whole, or the whole for a part", "d": ["a self-contradictory phrase", "an exaggeration for effect", "a comparison using like or as"], "ex": "\"All hands on deck\" uses \"hands\" for sailors, a synecdoche." }
+  ],
+  "read": {
+    "title": "Notes in the Margin",
+    "text": [
+      "Every editor has a private vocabulary of complaint, and a good one keeps it sharp. Here is what one veteran wrote in the margins of a first novel, and what each note meant.",
+      "Beside a paragraph comparing a sunset to \"a bleeding tapestry of molten regret,\" she wrote \"florid.\" Next to a love scene full of words like \"pulchritudinous\" and \"concupiscence,\" she wrote \"sesquipedalian; nobody talks like this.\" Where two characters exchanged lines that sounded translated from a manual, she wrote \"stilted.\"",
+      "Some notes were praise. A single clean sentence about a father fixing a fence earned \"pellucid,\" and an exact, surprising verb earned \"felicitous.\" A widow's dry remark at a funeral got \"wry, keep.\"",
+      "The harshest note came at the climax. The hero, having saved the town, wept for his fallen friend and then noticed he had lost a shoe. \"Bathos,\" she wrote. \"Unless you meant it, cut the shoe.\"",
+      "On the last page she left a summary that was both trenchant and kind: \"Your instincts are good when you trust plain words. Every hackneyed phrase here is a place you stopped looking. Look again.\" The writer kept the manuscript for years, less for the corrections than for the lesson that style is a series of choices, and each one can be made deliberately."
+    ],
+    "q": [
+      { "q": "Why did the editor write \"Bathos\" at the climax?", "o": ["The scene fell from grief to the trivial lost shoe", "The scene was too short", "The friend had not really died", "The hero spoke in slang"], "k": 0 },
+      { "q": "Which note was praise?", "o": ["stilted", "florid", "pellucid", "sesquipedalian"], "k": 2 },
+      { "q": "The editor connects hackneyed phrases to", "o": ["too much research", "places where the writer stopped looking for the right words", "using long words", "writing too slowly"], "k": 1 }
+    ]
+  }
+}

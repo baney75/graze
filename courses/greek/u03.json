@@ -1,0 +1,301 @@
+{
+  "title": "The article and the cases",
+  "note": "Greek nouns change their endings for case: nominative for the subject, genitive for 'of' or 'from', dative for 'to', 'for' or 'with', accusative for the direct object, vocative for calling. The article ὁ ἡ τό (the) shows a noun's gender, number and case. Greek has no word for 'a': λόγος alone means 'a word', ὁ λόγος 'the word'.",
+  "src": {
+    "t": "James Strong, Greek in a Nutshell, the article (Project Gutenberg)",
+    "u": "https://gutenberg.org/cache/epub/11130/pg11130-images.html"
+  },
+  "items": [
+    {
+      "c": "ὁ",
+      "a": "the (masculine nominative singular)",
+      "d": [
+        "the (feminine nominative singular)",
+        "the (neuter nominative singular)"
+      ],
+      "ex": "ὁ λόγος",
+      "exT": "the word",
+      "r": "ho"
+    },
+    {
+      "c": "ἡ",
+      "a": "the (feminine nominative singular)",
+      "d": [
+        "the (masculine nominative singular)",
+        "the (neuter nominative singular)"
+      ],
+      "ex": "ἡ ἀρχή",
+      "exT": "the beginning",
+      "r": "hē"
+    },
+    {
+      "c": "τό",
+      "a": "the (neuter nominative or accusative singular)",
+      "d": [
+        "the (masculine accusative singular)",
+        "the (feminine accusative singular)"
+      ],
+      "ex": "τὸ ἔργον",
+      "exT": "the work",
+      "r": "to"
+    },
+    {
+      "c": "τόν",
+      "a": "the (masculine accusative singular)",
+      "d": [
+        "the (feminine accusative singular)",
+        "of the (masculine genitive singular)"
+      ],
+      "ex": "τὸν λόγον",
+      "exT": "the word (as object)",
+      "r": "ton"
+    },
+    {
+      "c": "τήν",
+      "a": "the (feminine accusative singular)",
+      "d": [
+        "the (masculine accusative singular)",
+        "of the (feminine genitive singular)"
+      ],
+      "r": "tēn",
+      "ex": "τὴν ἀλήθειαν",
+      "exT": "the truth (as object)"
+    },
+    {
+      "c": "τοῦ",
+      "a": "of the (masculine or neuter genitive singular)",
+      "d": [
+        "of the (feminine genitive singular)",
+        "to the (masculine dative singular)"
+      ],
+      "ex": "ὁ λόγος τοῦ θεοῦ",
+      "exT": "the word of God",
+      "r": "tou"
+    },
+    {
+      "c": "τῆς",
+      "a": "of the (feminine genitive singular)",
+      "d": [
+        "of the (masculine genitive singular)",
+        "the (feminine accusative plural)"
+      ],
+      "r": "tēs",
+      "ex": "τῆς γῆς",
+      "exT": "of the earth"
+    },
+    {
+      "c": "τῷ",
+      "a": "to or for the (masculine or neuter dative singular)",
+      "d": [
+        "to or for the (feminine dative singular)",
+        "of the (masculine genitive singular)"
+      ],
+      "ex": "ἐν τῷ κόσμῳ",
+      "exT": "in the world",
+      "r": "tō"
+    },
+    {
+      "c": "τῇ",
+      "a": "to or for the (feminine dative singular)",
+      "d": [
+        "to or for the (masculine dative singular)",
+        "of the (feminine genitive singular)"
+      ],
+      "r": "tē",
+      "ex": "τῇ ἡμέρᾳ",
+      "exT": "on the day"
+    },
+    {
+      "c": "οἱ",
+      "a": "the (masculine nominative plural)",
+      "d": [
+        "the (feminine nominative plural)",
+        "the (masculine accusative plural)"
+      ],
+      "r": "hoi",
+      "ex": "οἱ μαθηταί",
+      "exT": "the disciples"
+    },
+    {
+      "c": "αἱ",
+      "a": "the (feminine nominative plural)",
+      "d": [
+        "the (masculine nominative plural)",
+        "the (neuter nominative plural)"
+      ],
+      "r": "hai",
+      "ex": "αἱ γραφαί",
+      "exT": "the Scriptures"
+    },
+    {
+      "c": "τά",
+      "a": "the (neuter nominative or accusative plural)",
+      "d": [
+        "the (feminine accusative plural)",
+        "the (masculine nominative plural)"
+      ],
+      "ex": "τὰ ἔργα",
+      "exT": "the works",
+      "r": "ta"
+    },
+    {
+      "c": "τῶν",
+      "a": "of the (genitive plural, all genders)",
+      "d": [
+        "to the (dative plural, all genders)",
+        "of the (masculine genitive singular)"
+      ],
+      "r": "tōn",
+      "ex": "τὸ φῶς τῶν ἀνθρώπων",
+      "exT": "the light of human beings"
+    },
+    {
+      "c": "τοῖς",
+      "a": "to or for the (masculine or neuter dative plural)",
+      "d": [
+        "to or for the (feminine dative plural)",
+        "the (masculine accusative plural)"
+      ],
+      "r": "tois",
+      "ex": "ἐν τοῖς οὐρανοῖς",
+      "exT": "in the heavens"
+    },
+    {
+      "c": "ταῖς",
+      "a": "to or for the (feminine dative plural)",
+      "d": [
+        "to or for the (masculine dative plural)",
+        "the (feminine accusative plural)"
+      ],
+      "r": "tais",
+      "ex": "ἐν ταῖς ἡμέραις",
+      "exT": "in the days"
+    },
+    {
+      "c": "τούς",
+      "a": "the (masculine accusative plural)",
+      "d": [
+        "the (masculine nominative plural)",
+        "of the (genitive plural)"
+      ],
+      "r": "tous",
+      "ex": "τοὺς μαθητάς",
+      "exT": "the disciples (as object)"
+    },
+    {
+      "c": "τάς",
+      "a": "the (feminine accusative plural)",
+      "d": [
+        "the (feminine nominative plural)",
+        "of the (feminine genitive singular)"
+      ],
+      "r": "tas",
+      "ex": "τὰς ἐντολάς",
+      "exT": "the commandments (as object)"
+    },
+    {
+      "c": "case of the subject",
+      "a": "nominative",
+      "d": [
+        "accusative",
+        "genitive"
+      ]
+    },
+    {
+      "c": "case of the direct object",
+      "a": "accusative",
+      "d": [
+        "nominative",
+        "dative"
+      ]
+    },
+    {
+      "c": "case that often means 'of' or 'from'",
+      "a": "genitive",
+      "d": [
+        "dative",
+        "vocative"
+      ]
+    },
+    {
+      "c": "case that often means 'to' or 'for'",
+      "a": "dative",
+      "d": [
+        "genitive",
+        "accusative"
+      ]
+    },
+    {
+      "c": "case used to call or address someone",
+      "a": "vocative",
+      "d": [
+        "nominative",
+        "dative"
+      ]
+    },
+    {
+      "c": "the three genders of Greek nouns",
+      "a": "masculine, feminine and neuter",
+      "d": [
+        "masculine and feminine only",
+        "animate and inanimate"
+      ]
+    },
+    {
+      "c": "Greek word for 'a' or 'an'",
+      "a": "none: Greek has no indefinite article",
+      "d": [
+        "ὁ, placed after the noun",
+        "εἷς, used before every noun"
+      ]
+    },
+    {
+      "c": "___ λόγος (the word)",
+      "a": "ὁ",
+      "d": [
+        "ἡ",
+        "τό"
+      ]
+    },
+    {
+      "c": "___ ἀρχή (the beginning)",
+      "a": "ἡ",
+      "d": [
+        "ὁ",
+        "τό"
+      ]
+    },
+    {
+      "c": "___ ἔργον (the work)",
+      "a": "τό",
+      "d": [
+        "ὁ",
+        "ἡ"
+      ]
+    },
+    {
+      "c": "ὁ λόγος ___ θεοῦ (the word of God)",
+      "a": "τοῦ",
+      "d": [
+        "τῷ",
+        "τόν"
+      ]
+    },
+    {
+      "c": "ἐν ___ ἡμέρᾳ (on the day)",
+      "a": "τῇ",
+      "d": [
+        "τῆς",
+        "τήν"
+      ]
+    },
+    {
+      "c": "βλέπω ___ ἄνθρωπον. (I see the man.)",
+      "a": "τόν",
+      "d": [
+        "τοῦ",
+        "ὁ"
+      ]
+    }
+  ]
+}

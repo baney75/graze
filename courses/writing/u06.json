@@ -1,0 +1,46 @@
+{
+  "title": "Modifiers and parallel structure",
+  "note": "Put a modifier next to the word it describes. A misplaced modifier sits too far from its word; a dangling modifier has no word in the sentence to describe, so an opening phrase must refer to the subject that follows it. Parallel structure puts paired or listed ideas in the same grammatical form.",
+  "src": { "t": "Writing for Success, 2.7 Misplaced and Dangling Modifiers, LibreTexts", "u": "https://human.libretexts.org/Courses/Gateway_Technical_College/Book%3A_Writing_for_Success/02%3A_Writing_Basics_-_What_Makes_a_Good_Sentence/2.07%3A_Misplaced_and_Dangling_Modifiers" },
+  "items": [
+    { "c": "Dangling modifier", "a": "a modifier with no word in the sentence to describe", "d": ["a modifier placed at the very end of a sentence", "a modifier made of more than one word"] },
+    { "c": "Misplaced modifier", "a": "a modifier too far from the word it describes", "d": ["a modifier missing its comma", "an adjective used in place of an adverb"] },
+    { "c": "Flaw in 'Walking home, the trees looked eerie.'", "a": "dangling modifier: the trees weren't walking", "d": ["comma splice", "subject-verb disagreement"] },
+    { "c": "Fix: 'Having finished, the TV was turned on.'", "a": "Having finished, we turned on the TV.", "d": ["Having finished, the TV turned on.", "The TV, having finished, was turned on."] },
+    { "c": "Fix: 'To win, practice is needed.'", "a": "To win, you need practice.", "d": ["To win, practice needs you.", "Practice, to win, is needed."] },
+    { "c": "Fix: 'I saw a deer driving to work.'", "a": "Driving to work, I saw a deer.", "d": ["I saw a deer that was driving to work.", "A deer, driving to work, I saw."] },
+    { "c": "An opening modifying phrase must refer to", "a": "the subject of the main clause", "d": ["the last noun in the sentence", "the object of the verb"] },
+    { "c": "Clearly says nobody but Al ate pie", "a": "Only Al ate the pie.", "d": ["Al ate only the pie.", "Al ate the only pie."] },
+    { "c": "Clearly says Al ate the pie and nothing else", "a": "Al ate only the pie.", "d": ["Only Al ate the pie.", "Al ate the only pie."] },
+    { "c": "Limiting words like only, almost, just", "a": "go directly before the word they limit", "d": ["always go at the end of the sentence", "always go right after the verb"] },
+    { "c": "Squinting modifier", "a": "one that could modify the words before or after it", "d": ["one that has no word to modify", "one that sits at the start of a sentence"], "ex": "Students who study often get A's. (Often study, or often get A's?)" },
+    { "c": "The milk smells ___. (bad/badly)", "a": "bad", "d": ["badly"], "ex": "'Smells' is a linking verb here, so it takes an adjective." },
+    { "c": "She sang ___ last night. (good/well)", "a": "well", "d": ["good"] },
+    { "c": "He spoke ___ to the child. (gentle/gently)", "a": "gently", "d": ["gentle"] },
+    { "c": "The soup tastes ___. (delicious/deliciously)", "a": "delicious", "d": ["deliciously"] },
+    { "c": "Questions an adverb answers", "a": "how, when, where, or to what degree", "d": ["which one, what kind, how many", "who or what performs the action"] },
+    { "c": "Questions an adjective answers", "a": "which one, what kind, how many", "d": ["how, when, where, or to what degree", "to whom or for whom"] },
+    { "c": "I don't have ___ money. (no/any)", "a": "any", "d": ["no"], "ex": "Two negatives in one clause are nonstandard in edited English." },
+    { "c": "Parallel structure", "a": "the same grammatical form for paired or listed ideas", "d": ["the same word at the start of every sentence", "the same length for every sentence"] },
+    { "c": "I like rowing, hiking and ___. (biking/to bike)", "a": "biking", "d": ["to bike"] },
+    { "c": "Fix: 'She is smart, funny, and has kindness.'", "a": "She is smart, funny, and kind.", "d": ["She is smart, funny, and is kindness.", "She is smart, funny, and having kindness."] },
+    { "c": "Parallel: 'not only in court but also ___'", "a": "in the press", "d": ["the press reported it", "pressing the case"] },
+    { "c": "Parallel: 'to read, to write, and ___'", "a": "to think", "d": ["thinking", "thoughts"] },
+    { "c": "To know is easy; ___ is hard. (to do/doing)", "a": "to do", "d": ["doing"] },
+    { "c": "Problem in 'Her grades beat Tom.'", "a": "faulty comparison: write 'beat Tom's'", "d": ["it needs a comma after 'grades'", "'beat' must be 'beats'"] }
+  ],
+  "read": {
+    "title": "Who is doing the walking?",
+    "text": [
+      "Readers assume that a modifier describes the nearest word it could sensibly describe. When that assumption fails, sentences turn strange. \"Walking to class, the rain soaked my notes\" says that the rain was walking. The opening phrase walking to class wants a person, but the subject that follows is rain. This is a dangling modifier: the word it should describe never appears.",
+      "The fix is to put the walker in the subject slot: \"Walking to class, I got my notes soaked in the rain.\" Or turn the phrase into a full clause: \"As I walked to class, the rain soaked my notes.\"",
+      "A misplaced modifier is a different problem. Its word is present but too far away. \"She served pizza to the guests on paper plates\" seats the guests on the plates. Move the phrase: \"She served the guests pizza on paper plates.\" Small words such as only, almost and just are the most often misplaced. \"He almost failed every test\" and \"He failed almost every test\" report very different semesters.",
+      "When you revise, look at each opening phrase and ask whether the subject right after the comma is the one doing that action."
+    ],
+    "q": [
+      { "q": "What is wrong with \"Walking to class, the rain soaked my notes\"?", "o": ["It is a comma splice", "It says the rain was walking", "The verb disagrees with its subject"], "k": 1 },
+      { "q": "How does a misplaced modifier differ from a dangling one?", "o": ["Its word is present but too far away", "It always begins the sentence", "It has no verb"], "k": 0 },
+      { "q": "\"He failed almost every test\" means that he...", "o": ["came close to failing each test", "failed no tests", "failed most of the tests"], "k": 2 }
+    ]
+  }
+}

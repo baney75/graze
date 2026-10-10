@@ -1,0 +1,327 @@
+{
+  "title": "Essential conversation sentences",
+  "note": "These set phrases keep a conversation going. Estar + -ando or -iendo describes an action in progress: Estoy hablando, Estoy comiendo. To be polite with strangers, use usted forms: ¿Puede repetir? ¿Habla inglés? With friends, switch to tú: ¿Puedes repetir? ¿Hablas inglés?",
+  "src": {
+    "t": "Spanish 1A: Beginning Spanish (LibreTexts)",
+    "u": "https://human.libretexts.org/Courses/Chabot_College/Spanish_1A%3A_Beginning_Spanish_(2026)"
+  },
+  "items": [
+    {
+      "c": "No entiendo.",
+      "a": "I don't understand.",
+      "d": [
+        "I don't agree.",
+        "I don't remember."
+      ],
+      "ex": "Perdón, no entiendo.",
+      "exT": "Sorry, I don't understand."
+    },
+    {
+      "c": "¿Puede repetir, por favor?",
+      "a": "Can you repeat that, please?",
+      "d": [
+        "Can you help me, please?",
+        "Can you wait, please?"
+      ]
+    },
+    {
+      "c": "Más despacio, por favor.",
+      "a": "More slowly, please.",
+      "d": [
+        "Louder, please.",
+        "A little more, please."
+      ]
+    },
+    {
+      "c": "¿Habla inglés?",
+      "a": "Do you speak English? (formal)",
+      "d": [
+        "Are you English? (formal)",
+        "Do you study English? (formal)"
+      ]
+    },
+    {
+      "c": "¿Cómo se dice «car» en español?",
+      "a": "How do you say car in Spanish?",
+      "d": [
+        "What does car mean in Spanish?",
+        "How do you spell car in Spanish?"
+      ]
+    },
+    {
+      "c": "¿Qué significa?",
+      "a": "What does it mean?",
+      "d": [
+        "What is it called?",
+        "What happened?"
+      ],
+      "ex": "¿Qué significa «gato»?",
+      "exT": "What does gato mean?"
+    },
+    {
+      "c": "No sé.",
+      "a": "I don't know.",
+      "d": [
+        "I don't care.",
+        "I don't see."
+      ],
+      "ex": "—¿Dónde está Ana? —No sé.",
+      "exT": "Where is Ana? I don't know."
+    },
+    {
+      "c": "¿Dónde está el baño?",
+      "a": "Where is the bathroom?",
+      "d": [
+        "Where is the kitchen?",
+        "Is there a bathroom?"
+      ]
+    },
+    {
+      "c": "Necesito ayuda.",
+      "a": "I need help.",
+      "d": [
+        "I need a doctor.",
+        "I can help."
+      ],
+      "ex": "Perdone, necesito ayuda.",
+      "exT": "Excuse me, I need help."
+    },
+    {
+      "c": "Tengo una pregunta.",
+      "a": "I have a question.",
+      "d": [
+        "I have an answer.",
+        "I have a problem."
+      ]
+    },
+    {
+      "c": "Un momento, por favor.",
+      "a": "One moment, please.",
+      "d": [
+        "One more, please.",
+        "Just once, please."
+      ]
+    },
+    {
+      "c": "Claro.",
+      "a": "Of course.",
+      "d": [
+        "Maybe.",
+        "Not at all."
+      ],
+      "ex": "—¿Me ayudas? —¡Claro!",
+      "exT": "Will you help me? Of course!"
+    },
+    {
+      "c": "De acuerdo.",
+      "a": "Okay, agreed.",
+      "d": [
+        "No way.",
+        "I'm sorry."
+      ]
+    },
+    {
+      "c": "No importa.",
+      "a": "It doesn't matter.",
+      "d": [
+        "It's very important.",
+        "It doesn't work."
+      ]
+    },
+    {
+      "c": "¿En serio?",
+      "a": "Really? Seriously?",
+      "d": [
+        "Are you ready?",
+        "Is it serious?"
+      ]
+    },
+    {
+      "c": "¡Cuidado!",
+      "a": "Watch out!",
+      "d": [
+        "Take care of yourself!",
+        "Hurry up!"
+      ],
+      "ex": "¡Cuidado con el perro!",
+      "exT": "Watch out for the dog!"
+    },
+    {
+      "c": "¿Qué pasa?",
+      "a": "What's happening?",
+      "d": [
+        "What's that?",
+        "Who's there?"
+      ]
+    },
+    {
+      "c": "Nos vemos.",
+      "a": "See you.",
+      "d": [
+        "We're coming.",
+        "Let's go."
+      ],
+      "ex": "Nos vemos mañana.",
+      "exT": "See you tomorrow."
+    },
+    {
+      "c": "¡Buen provecho!",
+      "a": "Enjoy your meal!",
+      "d": [
+        "Good luck!",
+        "Have a good trip!"
+      ]
+    },
+    {
+      "c": "¡Salud!",
+      "a": "Cheers! / Bless you!",
+      "d": [
+        "Hello!",
+        "Congratulations!"
+      ],
+      "ex": "—¡Salud! —Gracias.",
+      "exT": "Bless you! Thanks."
+    },
+    {
+      "c": "¡Felicidades!",
+      "a": "Congratulations!",
+      "d": [
+        "Cheers!",
+        "Good luck!"
+      ]
+    },
+    {
+      "c": "¡Feliz cumpleaños!",
+      "a": "Happy birthday!",
+      "d": [
+        "Happy New Year!",
+        "Happy holidays!"
+      ],
+      "ex": "¡Feliz cumpleaños, abuela!",
+      "exT": "Happy birthday, Grandma!"
+    },
+    {
+      "c": "¡Buena suerte!",
+      "a": "Good luck!",
+      "d": [
+        "Good night!",
+        "Good job!"
+      ]
+    },
+    {
+      "c": "Disculpe.",
+      "a": "Excuse me. (formal)",
+      "d": [
+        "You're welcome. (formal)",
+        "Come in. (formal)"
+      ],
+      "ex": "Disculpe, ¿dónde está la estación?",
+      "exT": "Excuse me, where is the station?"
+    },
+    {
+      "c": "Estoy perdido.",
+      "a": "I'm lost.",
+      "d": [
+        "I'm late.",
+        "I'm tired."
+      ],
+      "ex": "Perdone, estoy perdido. ¿Dónde está la plaza?",
+      "exT": "Excuse me, I'm lost. Where is the square?"
+    },
+    {
+      "c": "No ___ nada. (entender, yo)",
+      "a": "entiendo",
+      "d": [
+        "entendo",
+        "entiende"
+      ]
+    },
+    {
+      "c": "¿___ usted inglés? (hablar)",
+      "a": "Habla",
+      "d": [
+        "Hablas",
+        "Hablo"
+      ]
+    },
+    {
+      "c": "No lo ___. (saber, yo)",
+      "a": "sé",
+      "d": [
+        "se",
+        "sabo"
+      ]
+    },
+    {
+      "c": "¿Me ___ ayudar? (poder, usted)",
+      "a": "puede",
+      "d": [
+        "puedes",
+        "puedo"
+      ]
+    },
+    {
+      "c": "Estoy ___ ahora. (comer)",
+      "a": "comiendo",
+      "d": [
+        "comido",
+        "comer"
+      ],
+      "ex": "Estoy comiendo; te llamo después.",
+      "exT": "I'm eating; I'll call you later."
+    },
+    {
+      "c": "Ella está ___ por teléfono. (hablar)",
+      "a": "hablando",
+      "d": [
+        "hablado",
+        "hablendo"
+      ]
+    }
+  ],
+  "read": {
+    "title": "En el café",
+    "text": [
+      "—Buenas tardes. ¿Qué desea?",
+      "—Buenas tardes. Quisiera un café con leche y un pan con queso, por favor.",
+      "—¿Algo más?",
+      "—Perdón, no entiendo. Más despacio, por favor.",
+      "—Claro. ¿Quiere algo más? ¿Agua, jugo…?",
+      "—Ah, sí. Un vaso de agua, por favor. ¿Cuánto cuesta todo?",
+      "—Son seis euros.",
+      "—¿Puedo pagar con tarjeta?",
+      "—Sí, claro. Aquí tiene. ¡Buen provecho!",
+      "—Muchas gracias. ¡Hasta luego!"
+    ],
+    "q": [
+      {
+        "q": "What does the customer order to eat?",
+        "o": [
+          "Soup",
+          "Bread with cheese",
+          "A salad",
+          "Chicken with rice"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What does the customer ask the waiter to do?",
+        "o": [
+          "Speak more slowly",
+          "Bring the menu",
+          "Close the window"
+        ],
+        "k": 0
+      },
+      {
+        "q": "How does the customer pay?",
+        "o": [
+          "In cash",
+          "By card",
+          "The text doesn't say"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

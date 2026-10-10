@@ -1,0 +1,286 @@
+{
+  "title": "Contingency and sufficient reason",
+  "note": "The Leibnizian argument asks why there is anything contingent at all. Given the principle of sufficient reason, the whole collection of contingent things needs an explanation, which no contingent thing can supply; so a necessary being exists. Unlike the kalam, it allows the universe to be infinitely old. The main battles are over the principle itself and over explaining wholes.",
+  "src": {
+    "t": "Stanford Encyclopedia of Philosophy: Cosmological Argument",
+    "u": "https://plato.stanford.edu/entries/cosmological-argument/"
+  },
+  "items": [
+    {
+      "c": "Leibniz's first question we have a right to ask",
+      "a": "Why is there something rather than nothing?",
+      "d": [
+        "Why does anything ever change?",
+        "Why do we know anything at all?"
+      ],
+      "ex": "Principles of Nature and Grace (1714), section 7."
+    },
+    {
+      "c": "Monadology section stating sufficient reason",
+      "a": "section 32",
+      "d": [
+        "section 7",
+        "section 90"
+      ]
+    },
+    {
+      "c": "Leibniz's endless chain of copied geometry books",
+      "a": "no number of copies explains why the book exists",
+      "d": [
+        "an infinite library cannot exist at all",
+        "only the first copy is worth reading"
+      ],
+      "ex": "From On the Ultimate Origination of Things (1697)."
+    },
+    {
+      "c": "Islamic source of the contingency argument",
+      "a": "Avicenna (Ibn Sina)",
+      "d": [
+        "al-Ghazali",
+        "al-Kindi"
+      ]
+    },
+    {
+      "c": "Avicenna's name for God as uncaused being",
+      "a": "the Necessary Existent",
+      "d": [
+        "the Unmoved Mover",
+        "the Active Intellect"
+      ]
+    },
+    {
+      "c": "Samuel Clarke's 1704 Boyle Lectures",
+      "a": "A Demonstration of the Being and Attributes of God",
+      "d": [
+        "The Analogy of Religion",
+        "Natural Theology"
+      ]
+    },
+    {
+      "c": "Clarke: if nothing independent existed, then",
+      "a": "an endless series of dependent beings would lack a cause",
+      "d": [
+        "the universe would have had a first moment",
+        "nothing would ever change or move"
+      ]
+    },
+    {
+      "c": "Contingency argument, premise 1",
+      "a": "every contingent thing has an explanation of its existence",
+      "d": [
+        "everything that begins to exist has a cause",
+        "every effect resembles its cause"
+      ]
+    },
+    {
+      "c": "Contingency argument, premise 2",
+      "a": "the universe, all contingent things together, is contingent",
+      "d": [
+        "the universe began to exist a finite time ago",
+        "the universe shows signs of purpose"
+      ]
+    },
+    {
+      "c": "Contingency argument's conclusion",
+      "a": "a necessary being explains the universe",
+      "d": [
+        "the universe began with a temporal cause",
+        "the universe explains itself"
+      ]
+    },
+    {
+      "c": "Why no contingent thing can explain the whole",
+      "a": "it would be part of what needs explaining",
+      "d": [
+        "contingent things never cause anything",
+        "contingent things exist only in the mind"
+      ]
+    },
+    {
+      "c": "Two ways to explain a thing, in Craig's PSR",
+      "a": "by its own necessary nature or by an external cause",
+      "d": [
+        "by its parts or by its purpose",
+        "by observation or by testimony"
+      ]
+    },
+    {
+      "c": "Unlike the kalam, contingency arguments allow",
+      "a": "the universe to be infinitely old",
+      "d": [
+        "the universe to be uncaused",
+        "an infinite series of necessary beings"
+      ]
+    },
+    {
+      "c": "Jesuit who debated Russell on the BBC (1948)",
+      "a": "Frederick Copleston",
+      "d": [
+        "Ronald Knox",
+        "G. K. Chesterton"
+      ]
+    },
+    {
+      "c": "Russell's answer to why the universe exists",
+      "a": "it is just there, and that's all",
+      "d": [
+        "it was caused by a necessary being",
+        "it caused itself to exist"
+      ]
+    },
+    {
+      "c": "Brute fact",
+      "a": "a fact with no explanation at all",
+      "d": [
+        "a fact known only by the senses",
+        "a fact that is necessarily true"
+      ]
+    },
+    {
+      "c": "Russell's example: every man has a mother, but",
+      "a": "the human race does not have a mother",
+      "d": [
+        "no man has a father who is a man",
+        "the first man had two mothers"
+      ],
+      "ex": "Russell's charge: the argument commits the fallacy of composition."
+    },
+    {
+      "c": "Reply to the fallacy-of-composition charge",
+      "a": "some wholes do share their parts' traits, like a brick wall",
+      "d": [
+        "the universe has no parts at all",
+        "the parts of the universe are all necessary"
+      ]
+    },
+    {
+      "c": "Speaker of Hume's 'twenty particles' objection",
+      "a": "Cleanthes, in Dialogues Part IX",
+      "d": [
+        "Philo, in Dialogues Part X",
+        "Demea, in Dialogues Part II"
+      ]
+    },
+    {
+      "c": "Paul Edwards's five Eskimos illustrate",
+      "a": "explaining each member explains the group",
+      "d": [
+        "groups have properties their members lack",
+        "no group can ever be explained at all"
+      ],
+      "ex": "This is the Hume-Edwards objection."
+    },
+    {
+      "c": "Theist reply to the Hume-Edwards objection",
+      "a": "explaining each member doesn't explain why any exist",
+      "d": [
+        "each member has no explanation at all",
+        "the group causes each of its members"
+      ]
+    },
+    {
+      "c": "Richard Taylor's ball found in the woods shows",
+      "a": "making the ball universe-sized removes no need to explain",
+      "d": [
+        "only small objects ever need causes",
+        "forests explain the objects in them"
+      ]
+    },
+    {
+      "c": "Cleanthes: why can't the necessary being be",
+      "a": "the material universe itself?",
+      "d": [
+        "a committee of lesser gods?",
+        "the human mind that conceives it?"
+      ]
+    },
+    {
+      "c": "Why the universe is not a necessary being",
+      "a": "its matter and arrangement could have been otherwise",
+      "d": [
+        "it is too large to be necessary",
+        "it is observed by contingent minds"
+      ]
+    },
+    {
+      "c": "Kant: the cosmological proof secretly relies on",
+      "a": "the ontological argument",
+      "d": [
+        "the design argument",
+        "the moral argument"
+      ]
+    },
+    {
+      "c": "Author of The Principle of Sufficient Reason",
+      "a": "Alexander Pruss",
+      "d": [
+        "William Rowe",
+        "Peter van Inwagen"
+      ]
+    },
+    {
+      "c": "Van Inwagen (1983): a full PSR would make",
+      "a": "every truth necessary, leaving no contingency",
+      "d": [
+        "every truth contingent, even in logic",
+        "every cause later than its effect"
+      ]
+    },
+    {
+      "c": "Gale and Pruss's weak PSR",
+      "a": "every contingent truth possibly has an explanation",
+      "d": [
+        "every truth actually has a necessary cause",
+        "no contingent truth has any explanation"
+      ]
+    },
+    {
+      "c": "William Rowe's 1975 study",
+      "a": "The Cosmological Argument",
+      "d": [
+        "The Problem of Evil",
+        "Arguing about Gods"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Why anything at all?",
+    "text": [
+      "Leibniz held that nothing is so without a reason why it is so. Applied to the world, this principle of sufficient reason yields an argument that does not care how old the universe is:",
+      "(1) Every contingent thing has an explanation of its existence. (2) The universe, the sum of all contingent things, is itself contingent. (3) So the universe has an explanation. (4) That explanation cannot be a contingent thing, since every contingent thing is part of what is being explained. (5) So the universe is explained by a necessary being, one that cannot fail to exist.",
+      "In Part IX of Hume's Dialogues, Cleanthes objects that this demands too much. If I show you the cause of each of twenty particles of matter, it would be unreasonable to ask further for the cause of the twenty. Paul Edwards later made the same point with five Eskimos on a New York street: explain why each is there, and you have explained why the group is there. This is the Hume-Edwards objection.",
+      "Defenders reply that the analogy breaks down when the explanations run only inside the collection. Each Eskimo's presence is explained by things outside the group. But if every contingent thing is explained only by another contingent thing, we still have no answer to why there are any contingent things at all, rather than none. William Rowe and Alexander Pruss press this point. As an image: an endless chain of people borrowing from one another explains no loan unless someone actually has the money."
+    ],
+    "q": [
+      {
+        "q": "Why does the contingency argument not depend on the universe's age?",
+        "o": [
+          "It asks why contingent things exist at all, not how they began",
+          "It assumes the universe began recently",
+          "It proves time is infinite"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What do the twenty particles and the five Eskimos illustrate?",
+        "o": [
+          "The fallacy of composition about bricks",
+          "That explaining each member explains the whole",
+          "That a necessary being must be material",
+          "That the PSR is self-evident"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What is the defenders' reply?",
+        "o": [
+          "The parts of the universe are uncaused",
+          "Eskimos are not contingent beings",
+          "Internal explanations never say why any contingent thing exists",
+          "Hume misunderstood Leibniz's monads"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

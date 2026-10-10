@@ -1,0 +1,276 @@
+{
+  "title": "Future and plans, wanting and being able",
+  "note": "Future: drop the final -e of the infinitive and add -ò, -ai, -à, -emo, -ete, -anno; -are verbs change a to e (parlerò). Key irregular stems: sar- (essere), avr- (avere), andr- (andare), far- (fare). Volere (want), potere (can) and dovere (must) take an infinitive: Voglio partire.",
+  "src": {
+    "t": "D'accordo!, Indicativo futuro",
+    "u": "https://human.libretexts.org/Bookshelves/Languages/Italian/D'accordo_-_Intermediate_Italian_(Blum_and_Gemmani)/02%3A_Grammatica_II-_accordo_del_verbo/2.08%3A_Indicativo_futuro"
+  },
+  "items": [
+    {
+      "c": "la settimana prossima",
+      "a": "next week",
+      "d": [
+        "last week",
+        "this week"
+      ]
+    },
+    {
+      "c": "l'anno prossimo",
+      "a": "next year",
+      "d": [
+        "last year",
+        "every year"
+      ]
+    },
+    {
+      "c": "fra due giorni",
+      "a": "in two days",
+      "d": [
+        "two days ago",
+        "for two days"
+      ]
+    },
+    {
+      "c": "stasera",
+      "a": "tonight; this evening",
+      "d": [
+        "last night",
+        "tomorrow evening"
+      ]
+    },
+    {
+      "c": "più tardi",
+      "a": "later",
+      "d": [
+        "earlier",
+        "too late"
+      ]
+    },
+    {
+      "c": "presto",
+      "a": "soon; early",
+      "d": [
+        "late",
+        "never"
+      ]
+    },
+    {
+      "c": "Domani ___ a Roma. (io, andare, futuro)",
+      "a": "andrò",
+      "d": [
+        "anderò",
+        "andarò"
+      ]
+    },
+    {
+      "c": "Noi ___ la pizza. (mangiare, futuro)",
+      "a": "mangeremo",
+      "d": [
+        "mangiaremo",
+        "mangeremmo"
+      ]
+    },
+    {
+      "c": "Che cosa ___ da grande? (tu, fare, futuro)",
+      "a": "farai",
+      "d": [
+        "ferai",
+        "faresti"
+      ]
+    },
+    {
+      "c": "L'anno prossimo ___ in Italia. (noi, essere)",
+      "a": "saremo",
+      "d": [
+        "esseremo",
+        "saremmo"
+      ]
+    },
+    {
+      "c": "Domani ___ bel tempo. (fare, futuro)",
+      "a": "farà",
+      "d": [
+        "ferà",
+        "farebbe"
+      ]
+    },
+    {
+      "c": "Loro ___ a giugno. (partire, futuro)",
+      "a": "partiranno",
+      "d": [
+        "partirono",
+        "partiremo"
+      ]
+    },
+    {
+      "c": "Io ___ un gelato. (volere)",
+      "a": "voglio",
+      "d": [
+        "volo",
+        "vuole"
+      ]
+    },
+    {
+      "c": "Tu ___ venire stasera? (potere)",
+      "a": "puoi",
+      "d": [
+        "poi",
+        "può"
+      ]
+    },
+    {
+      "c": "Lei ___ studiare. (dovere)",
+      "a": "deve",
+      "d": [
+        "dove",
+        "devi"
+      ]
+    },
+    {
+      "c": "Noi ___ partire presto. (dovere)",
+      "a": "dobbiamo",
+      "d": [
+        "doviamo",
+        "devono"
+      ]
+    },
+    {
+      "c": "___ aprire la finestra? (io, potere)",
+      "a": "Posso",
+      "d": [
+        "Puoi",
+        "Poso"
+      ]
+    },
+    {
+      "c": "Loro ___ restare. (volere)",
+      "a": "vogliono",
+      "d": [
+        "volono",
+        "vuoi"
+      ]
+    },
+    {
+      "c": "Che cosa fai stasera?",
+      "a": "What are you doing tonight?",
+      "d": [
+        "What did you do last night?",
+        "What do you do for work?"
+      ]
+    },
+    {
+      "c": "Vorrei andare in Italia.",
+      "a": "I'd like to go to Italy.",
+      "d": [
+        "I went to Italy.",
+        "I have to go to Italy."
+      ],
+      "ex": "Vorrei andare in Italia l'estate prossima.",
+      "exT": "I'd like to go to Italy next summer."
+    },
+    {
+      "c": "Devo lavorare.",
+      "a": "I have to work.",
+      "d": [
+        "I want to work.",
+        "I can work."
+      ]
+    },
+    {
+      "c": "Non posso.",
+      "a": "I can't.",
+      "d": [
+        "I don't want to.",
+        "I don't know."
+      ]
+    },
+    {
+      "c": "Vuoi venire con noi?",
+      "a": "Do you want to come with us?",
+      "d": [
+        "Can you come with us?",
+        "Are you coming with them?"
+      ]
+    },
+    {
+      "c": "Ho voglia di un gelato.",
+      "a": "I feel like an ice cream.",
+      "d": [
+        "I have an ice cream.",
+        "I don't want ice cream."
+      ]
+    },
+    {
+      "c": "Ci vediamo domani?",
+      "a": "Shall we meet tomorrow?",
+      "d": [
+        "Did we meet yesterday?",
+        "Shall we call tomorrow?"
+      ]
+    },
+    {
+      "c": "il progetto",
+      "a": "plan; project",
+      "d": [
+        "problem",
+        "dream"
+      ],
+      "ex": "Quali sono i tuoi progetti per l'estate?",
+      "exT": "What are your plans for the summer?"
+    },
+    {
+      "c": "sperare",
+      "a": "to hope",
+      "d": [
+        "to wait for",
+        "to spend"
+      ]
+    },
+    {
+      "c": "Spero di sì.",
+      "a": "I hope so.",
+      "d": [
+        "I think so.",
+        "I hope not."
+      ]
+    }
+  ],
+  "read": {
+    "title": "I progetti per l'estate",
+    "text": [
+      "Quest'estate Chiara e Davide faranno un viaggio in Sicilia. Partiranno da Milano il due luglio in aereo e resteranno due settimane.",
+      "Prima andranno a Palermo, dove visiteranno i musei e il centro. Poi prenderanno il treno per Siracusa, perché vogliono vedere il mare.",
+      "Chiara vuole passare molte ore in spiaggia. Davide invece deve lavorare un po' anche in vacanza, ma spera di avere tempo per il mare. Torneranno a casa a metà luglio."
+    ],
+    "q": [
+      {
+        "q": "How will Chiara and Davide travel to Sicily?",
+        "o": [
+          "By train",
+          "By car",
+          "By plane",
+          "By ferry"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Why will they go to Siracusa?",
+        "o": [
+          "They want to visit museums",
+          "Davide has to work there",
+          "They want to see the sea"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What does Davide have to do on vacation?",
+        "o": [
+          "Study for an exam",
+          "Work a little",
+          "Visit his family"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

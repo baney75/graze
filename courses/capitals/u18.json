@@ -1,0 +1,35 @@
+{
+  "title": "Flags of the Americas",
+  "kind": "flag",
+  "note": "Spanish America inherited stripes and sun symbols from independence movements: Colombia, Venezuela and Ecuador share yellow, blue and red, and Argentina and Uruguay both show a Sun of May. Caribbean flags use bold diagonals and stars.",
+  "src": {
+    "t": "flag-icons (MIT)",
+    "u": "https://github.com/lipis/flag-icons"
+  },
+  "items": [
+    { "p": "ca", "a": "Canada", "d": ["Peru", "Lebanon", "Austria"] },
+    { "p": "us", "a": "United States", "d": ["Liberia", "Malaysia", "Mexico"] },
+    { "p": "hn", "a": "Honduras", "d": ["Nicaragua", "El Salvador", "Guatemala"] },
+    { "p": "cr", "a": "Costa Rica", "d": ["Thailand", "North Korea", "Cuba"] },
+    { "p": "pa", "a": "Panama", "d": ["Costa Rica", "Nicaragua", "Colombia"] },
+    { "p": "cu", "a": "Cuba", "d": ["Philippines", "Czechia", "Liberia"] },
+    { "p": "jm", "a": "Jamaica", "d": ["Haiti", "Cuba", "Dominican Republic"] },
+    { "p": "bs", "a": "Bahamas", "d": ["Cuba", "Haiti", "Dominican Republic"] },
+    { "p": "bb", "a": "Barbados", "d": ["Saint Vincent and the Grenadines", "Saint Lucia", "Grenada"] },
+    { "p": "tt", "a": "Trinidad and Tobago", "d": ["Grenada", "Saint Vincent and the Grenadines", "Barbados"] },
+    { "p": "gd", "a": "Grenada", "d": ["Saint Vincent and the Grenadines", "Trinidad and Tobago", "Saint Lucia"] },
+    { "p": "lc", "a": "Saint Lucia", "d": ["Saint Vincent and the Grenadines", "Barbados", "Dominica"] },
+    { "p": "vc", "a": "Saint Vincent and the Grenadines", "d": ["Saint Lucia", "Grenada", "Barbados"] },
+    { "p": "kn", "a": "Saint Kitts and Nevis", "d": ["Antigua and Barbuda", "Dominica", "Saint Lucia"] },
+    { "p": "ag", "a": "Antigua and Barbuda", "d": ["Saint Kitts and Nevis", "Dominica", "Saint Lucia"] },
+    { "p": "co", "a": "Colombia", "d": ["Venezuela", "Ecuador", "Panama"] },
+    { "p": "ve", "a": "Venezuela", "d": ["Colombia", "Ecuador", "Guyana"] },
+    { "p": "gy", "a": "Guyana", "d": ["Suriname", "Venezuela", "Trinidad and Tobago"] },
+    { "p": "sr", "a": "Suriname", "d": ["Guyana", "Trinidad and Tobago", "Venezuela"] },
+    { "p": "pe", "a": "Peru", "d": ["Canada", "Austria", "Latvia"] },
+    { "p": "br", "a": "Brazil", "d": ["Bolivia", "Paraguay", "Peru"] },
+    { "p": "uy", "a": "Uruguay", "d": ["Argentina", "Greece", "Chile"] },
+    { "p": "ar", "a": "Argentina", "d": ["Uruguay", "Nicaragua", "Honduras"] },
+    { "p": "cl", "a": "Chile", "d": ["Argentina", "Uruguay", "Paraguay"] }
+  ]
+}

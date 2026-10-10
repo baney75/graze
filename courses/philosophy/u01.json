@@ -1,0 +1,55 @@
+{
+  "title": "What philosophy is, and logic basics",
+  "note": "An argument offers premises as reasons for a conclusion. A deductive argument is valid when true premises would guarantee a true conclusion; it is sound when it is valid and its premises really are true. An inductive argument only makes its conclusion probable. A fallacy is a common pattern of bad reasoning.",
+  "src": { "t": "OpenStax Introduction to Philosophy, 5.3 Arguments", "u": "https://openstax.org/books/introduction-philosophy/pages/5-3-arguments" },
+  "items": [
+    { "c": "Literal meaning of the Greek word philosophia", "a": "love of wisdom", "d": ["study of the soul", "rule of reason", "art of speaking"] },
+    { "c": "Branch of philosophy that studies knowledge", "a": "epistemology", "d": ["metaphysics", "aesthetics", "ethics"] },
+    { "c": "Branch asking what ultimately exists", "a": "metaphysics", "d": ["epistemology", "logic", "aesthetics"] },
+    { "c": "Branch that studies beauty and art", "a": "aesthetics", "d": ["ethics", "metaphysics", "logic"] },
+    { "c": "Branch that studies correct reasoning", "a": "logic", "d": ["rhetoric", "ethics", "metaphysics"] },
+    { "c": "Branch asking how we ought to live and act", "a": "ethics", "d": ["logic", "aesthetics", "epistemology"] },
+    { "c": "Argument (in logic)", "a": "reasons offered in support of a conclusion", "d": ["a heated disagreement between people", "a claim stated without any support"] },
+    { "c": "Premise", "a": "a statement offered as a reason for the conclusion", "d": ["the claim the argument aims to establish", "an example that refutes the argument"] },
+    { "c": "Conclusion of an argument", "a": "the claim the premises are meant to support", "d": ["the first statement in the argument", "any statement that is obviously true"] },
+    { "c": "Valid deductive argument", "a": "true premises would guarantee a true conclusion", "d": ["all of its premises are actually true", "its conclusion is probably true"] },
+    { "c": "Sound argument", "a": "valid, with all premises actually true", "d": ["valid, with a true conclusion", "convincing to most listeners"] },
+    { "c": "Can a valid argument have a false conclusion?", "a": "yes, if at least one premise is false", "d": ["no, validity guarantees a true conclusion", "only if the argument is inductive"] },
+    { "c": "Can a valid argument go from truth to falsehood?", "a": "no; validity rules out exactly that", "d": ["yes, if a premise is vague", "yes, but only rarely"] },
+    { "c": "Inductive argument", "a": "premises make the conclusion probable, not certain", "d": ["premises guarantee the conclusion", "premises and conclusion say the same thing"] },
+    { "c": "Cogent inductive argument", "a": "strong, with all premises true", "d": ["valid, with all premises true", "weak, but with a true conclusion"], "ex": "Cogent is to induction what sound is to deduction." },
+    { "c": "Abductive reasoning", "a": "inference to the best explanation", "d": ["inference from general rule to case", "inference from a trusted authority"] },
+    { "c": "Every swan seen is white, so all swans are", "a": "inductive generalization", "d": ["deductive syllogism", "disjunctive syllogism"] },
+    { "c": "If it rains, it's wet; it rains; so it's wet", "a": "modus ponens (valid)", "d": ["modus tollens (valid)", "affirming the consequent (invalid)"] },
+    { "c": "If it rains, it's wet; it's dry; so no rain", "a": "modus tollens (valid)", "d": ["modus ponens (valid)", "denying the antecedent (invalid)"] },
+    { "c": "If it rains, it's wet; it's wet; so it rained", "a": "affirming the consequent (invalid)", "d": ["modus ponens (valid)", "modus tollens (valid)"] },
+    { "c": "All men are mortal; Socrates is a man; so...", "a": "categorical syllogism", "d": ["inductive generalization", "argument from analogy"] },
+    { "c": "Either A or B; not A; therefore B", "a": "disjunctive syllogism", "d": ["hypothetical syllogism", "constructive dilemma"] },
+    { "c": "If A then B; if B then C; so if A then C", "a": "hypothetical syllogism", "d": ["disjunctive syllogism", "modus tollens"] },
+    { "c": "In 'if P then Q', P is called the", "a": "antecedent", "d": ["consequent", "conclusion"] },
+    { "c": "In 'if P then Q', Q is called the", "a": "consequent", "d": ["antecedent", "premise"] },
+    { "c": "Truth belongs to statements; validity to", "a": "arguments", "d": ["single statements", "concepts"] },
+    { "c": "Counterexample to an argument form", "a": "same form, true premises, false conclusion", "d": ["a case that supports the conclusion", "a premise that is unclear"] },
+    { "c": "Necessary condition", "a": "required for an outcome, though maybe not enough", "d": ["enough by itself to guarantee an outcome", "neither required nor enough"], "ex": "Oxygen is necessary for fire, but not sufficient." },
+    { "c": "Sufficient condition", "a": "enough by itself to guarantee an outcome", "d": ["required for an outcome, though maybe not enough", "neither required nor enough"] },
+    { "c": "Fallacy: true because no one has disproved it", "a": "appeal to ignorance", "d": ["begging the question", "red herring"] },
+    { "c": "Fallacy: conclusion drawn from a skewed sample", "a": "biased sample", "d": ["appeal to ignorance", "false dilemma"] },
+    { "c": "Fallacy: feelings used in place of reasons", "a": "appeal to emotion", "d": ["appeal to ignorance", "straw man"] },
+    { "c": "Fallacy also called circular reasoning", "a": "begging the question", "d": ["red herring", "hasty generalization"] },
+    { "c": "Fallacy: parts are light, so the whole is light", "a": "fallacy of composition", "d": ["fallacy of division", "equivocation"] },
+    { "c": "Fallacy: the team is great, so each player is", "a": "fallacy of division", "d": ["fallacy of composition", "false cause"] }
+  ],
+  "read": {
+    "title": "Good form and true premises",
+    "text": [
+      "Philosophers try to answer basic questions about reality, knowledge, and value by giving reasons that others can check. The unit of that checking is the argument: a set of premises offered in support of a conclusion.",
+      "Logic separates two questions about any argument. First, do the premises support the conclusion? Second, are the premises true? A deductive argument is valid when its form makes it impossible for the premises to be true and the conclusion false. Validity says nothing about whether the premises are in fact true. 'If the moon is cheese, mice live there; the moon is cheese; so mice live there' is valid but unsound. An argument is sound only when it is valid and every premise is true, so a sound argument always has a true conclusion.",
+      "Inductive arguments work differently. They reason from observed cases to a probable conclusion, as a doctor does when a treatment has worked in thousands of trials. A strong inductive argument can still have a false conclusion, because new evidence may surprise us. Learning to tell form from content, and certainty from probability, is the first skill a philosophy student needs."
+    ],
+    "q": [
+      { "q": "Why is the moon-and-mice argument valid but unsound?", "o": ["Its form is correct, but a premise is false", "Its premises are true, but its form is wrong", "It is inductive rather than deductive"], "k": 0 },
+      { "q": "What must be true of a sound argument's conclusion?", "o": ["It is probably true", "It is true", "It may be false if new evidence appears"], "k": 1 },
+      { "q": "According to the reading, how can a strong inductive argument fail?", "o": ["Its form can be invalid", "New evidence can show its conclusion false", "It can never fail if its premises are true"], "k": 1 }
+    ]
+  }
+}

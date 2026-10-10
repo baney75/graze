@@ -1,0 +1,53 @@
+{
+  "title": "Chemical kinetics",
+  "note": "A rate law, rate = k[A]ᵐ[B]ⁿ, must be found by experiment; the orders m and n need not match the coefficients. Integrated rate laws give straight-line plots: [A] vs t (zero order), ln[A] vs t (first order), 1/[A] vs t (second order). Rates rise with temperature because more collisions clear the activation energy, and catalysts open a lower-energy path.",
+  "src": { "t": "Chemistry 2e, 12.4 Integrated Rate Laws, OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws" },
+  "items": [
+    { "c": "Reaction rate", "a": "change in concentration per unit time", "d": ["total time a reaction takes", "energy released per mole"] },
+    { "c": "How reaction orders in a rate law are found", "a": "by experiment", "d": ["from the balanced equation's coefficients", "from the reaction's ΔH"] },
+    { "c": "Overall order of rate = k[A][B]²", "a": "third order", "d": ["second order", "first order"] },
+    { "c": "Doubling [A] doubles the rate. Order in A?", "a": "first order", "d": ["second order", "zero order"] },
+    { "c": "Doubling [A] quadruples the rate. Order in A?", "a": "second order", "d": ["first order", "fourth order"] },
+    { "c": "Doubling [A] leaves the rate unchanged. Order?", "a": "zero order", "d": ["first order", "second order"] },
+    { "c": "Units of k for a first-order reaction", "a": "s⁻¹", "d": ["M s⁻¹", "M⁻¹ s⁻¹"] },
+    { "c": "Units of k for a second-order reaction", "a": "M⁻¹ s⁻¹", "d": ["s⁻¹", "M s⁻¹"] },
+    { "c": "First-order integrated rate law", "a": "ln[A]ₜ = −kt + ln[A]₀", "d": ["[A]ₜ = −kt + [A]₀", "1/[A]ₜ = kt + 1/[A]₀"] },
+    { "c": "Straight-line plot for a first-order reaction", "a": "ln[A] versus time", "d": ["1/[A] versus time", "[A] versus time"] },
+    { "c": "Straight-line plot for a second-order reaction", "a": "1/[A] versus time", "d": ["ln[A] versus time", "[A] versus time"] },
+    { "c": "Half-life of a first-order reaction", "a": "t½ = 0.693/k", "d": ["t½ = 1/(k[A]₀)", "t½ = [A]₀/(2k)"] },
+    { "c": "Half-life of a second-order reaction", "a": "t½ = 1/(k[A]₀)", "d": ["t½ = 0.693/k", "t½ = [A]₀/(2k)"] },
+    { "c": "Order whose half-life ignores starting amount", "a": "first-order reactions", "d": ["second-order reactions", "zero-order reactions"] },
+    { "c": "Fraction left after three first-order half-lives", "a": "1/8", "d": ["1/6", "1/3"] },
+    { "c": "First order, k = 0.0693 s⁻¹: half-life", "a": "10.0 s", "d": ["0.0480 s", "100 s"] },
+    { "c": "Activation energy (Ea)", "a": "minimum energy needed for reactants to react", "d": ["energy released by the reaction", "energy of the products minus reactants"] },
+    { "c": "Effective collisions need", "a": "enough energy and proper orientation", "d": ["enough energy only", "proper orientation only"] },
+    { "c": "Activated complex (transition state)", "a": "unstable arrangement at the top of the energy barrier", "d": ["stable product of the first step", "the catalyst bound to a reactant"] },
+    { "c": "Arrhenius equation", "a": "k = A·e^(−Ea/RT)", "d": ["k = A·e^(Ea/RT)", "k = Ea·e^(−A/RT)"] },
+    { "c": "Arrhenius plot with slope −Ea/R", "a": "ln k versus 1/T", "d": ["k versus T", "ln k versus T"] },
+    { "c": "Why reactions speed up when heated", "a": "more collisions exceed the activation energy", "d": ["the activation energy gets smaller", "the reaction becomes more exothermic"] },
+    { "c": "Catalyst", "a": "speeds a reaction by a lower-Ea path, unconsumed", "d": ["speeds a reaction by raising its temperature", "slows a reaction by raising Ea"] },
+    { "c": "Effect of a catalyst on a reaction's ΔH", "a": "none; ΔH is unchanged", "d": ["makes ΔH more negative", "makes ΔH more positive"] },
+    { "c": "Heterogeneous catalyst", "a": "catalyst in a different phase from the reactants", "d": ["catalyst in the same phase as the reactants", "catalyst consumed during the reaction"] },
+    { "c": "Enzyme", "a": "a biological catalyst, usually a protein", "d": ["a biological reactant, usually a sugar", "an inhibitor that blocks catalysts"] },
+    { "c": "Reaction intermediate", "a": "species formed in one step and used up in a later one", "d": ["species present at the start and the end", "the highest-energy point on the path"] },
+    { "c": "Rate-determining step", "a": "the slowest step in a mechanism", "d": ["the fastest step in a mechanism", "the first step in a mechanism"] },
+    { "c": "Rate law of the elementary step A + B → C", "a": "rate = k[A][B]", "d": ["rate = k[C]", "rate = k[A]"] },
+    { "c": "Molecularity of the step 2NO₂ → NO₃ + NO", "a": "bimolecular", "d": ["unimolecular", "termolecular"] },
+    { "c": "Why termolecular steps are rare", "a": "three-particle collisions are unlikely", "d": ["three-particle collisions are too energetic", "they violate conservation of mass"] },
+    { "c": "Grinding a solid reactant into powder", "a": "speeds the reaction", "d": ["slows the reaction", "does not change the rate"] }
+  ],
+  "read": {
+    "title": "How fast, and why",
+    "text": [
+      "Kinetics asks how fast a reaction goes and what steps it takes. The rate is the change in concentration over time, and a rate law connects it to the concentrations of reactants: rate = k[A]ᵐ[B]ⁿ. The exponents, called orders, can only be found by experiment. A common method compares initial rates: if doubling [A] doubles the rate, the reaction is first order in A; if it quadruples the rate, it is second order.",
+      "Integrated rate laws describe how concentration changes over time. For a first-order reaction, a plot of ln[A] against time is a straight line with slope −k, and the half-life, 0.693/k, does not depend on how much you start with. Radioactive decay follows this pattern.",
+      "Why does temperature matter so much? Molecules must collide with enough energy, the activation energy, and with the right orientation. Raising the temperature does not lower that barrier, but it gives a larger fraction of collisions enough energy to cross it. The Arrhenius equation, k = A·e^(−Ea/RT), puts this into numbers.",
+      "A catalyst offers a different route with a lower barrier. It speeds up both directions of a reaction, is regenerated at the end, and leaves ΔH unchanged. Enzymes are catalysts that make the chemistry of living cells fast enough to sustain life."
+    ],
+    "q": [
+      { "q": "How does heating speed up a reaction?", "o": ["More collisions have energy above the barrier", "The activation energy decreases", "Molecules become more reactive by gaining mass"], "k": 0 },
+      { "q": "What is special about a first-order half-life?", "o": ["It doubles each cycle", "It does not depend on the starting amount", "It equals the rate constant"], "k": 1 },
+      { "q": "A catalyst leaves which quantity unchanged?", "o": ["the activation energy", "the reaction rate", "ΔH of the reaction"], "k": 2 }
+    ]
+  }
+}

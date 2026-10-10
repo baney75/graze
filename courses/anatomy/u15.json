@@ -1,0 +1,55 @@
+{
+  "title": "The urinary system, fluids, and acid-base balance",
+  "note": "Each nephron filters plasma at the glomerulus, then reabsorbs most of the filtrate and secretes some wastes along the tubule. About 180 L is filtered daily but only 1 to 2 L becomes urine. ADH adds water channels to collecting ducts, and aldosterone boosts Na+ recovery. Buffers, the lungs, and the kidneys hold blood pH near 7.4.",
+  "src": { "t": "OpenStax A&P 2e, 25.6 Tubular Reabsorption", "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-6-tubular-reabsorption" },
+  "items": [
+    { "c": "Functional unit of the kidney", "a": "Nephron", "d": ["Renal pyramid", "Renal pelvis"] },
+    { "c": "Renal corpuscle", "a": "Glomerulus plus glomerular (Bowman) capsule", "d": ["Loop of Henle plus collecting duct", "Afferent plus efferent arteriole"] },
+    { "c": "Podocytes", "a": "Capsule cells whose processes form filtration slits", "d": ["Arteriole cells that release renin", "Tubule cells that sense Na+"] },
+    { "c": "Vessel that carries blood into the glomerulus", "a": "Afferent arteriole", "d": ["Efferent arteriole", "Peritubular capillary"] },
+    { "c": "Order of nephron tubule segments", "a": "PCT, loop of Henle, DCT", "d": ["DCT, loop of Henle, PCT", "Loop of Henle, PCT, DCT"] },
+    { "c": "Juxtaglomerular cells", "a": "Afferent arteriole cells that release renin", "d": ["Tubule cells that sense Na+ and flow", "Capsule cells that form filtration slits"] },
+    { "c": "Macula densa", "a": "DCT cells that monitor Na+ and filtrate flow", "d": ["Arteriole cells that release renin", "Capsule cells that form filtration slits"] },
+    { "c": "Glomerular blood hydrostatic pressure", "a": "About 55 mm Hg, favoring filtration", "d": ["About 55 mm Hg, opposing filtration", "About 15 mm Hg, favoring filtration"] },
+    { "c": "Net filtration pressure at the glomerulus", "a": "About 10 mm Hg", "d": ["About 55 mm Hg", "About 100 mm Hg"], "ex": "55 mm Hg out, minus 15 (capsule) and 30 (colloid osmotic) opposing." },
+    { "c": "Typical GFR in an adult male", "a": "About 125 mL/min", "d": ["About 12 mL/min", "About 1,250 mL/min"] },
+    { "c": "Filtrate formed per day", "a": "About 180 L", "d": ["About 18 L", "About 1.8 L"], "ex": "About 99% of it is reabsorbed." },
+    { "c": "Normal daily urine output", "a": "About 1 to 2 L", "d": ["About 10 to 20 L", "About 100 to 200 mL"] },
+    { "c": "Myogenic autoregulation of GFR", "a": "Afferent arterioles constrict when stretched", "d": ["Efferent arterioles dilate when stretched", "The capsule relaxes when stretched"] },
+    { "c": "Segment that reabsorbs most water and Na+", "a": "Proximal convoluted tubule", "d": ["Distal convoluted tubule", "Collecting duct"] },
+    { "c": "How nearly all filtered glucose is reclaimed", "a": "Na+-glucose symport in the PCT", "d": ["Active pumping in the collecting duct", "Diffusion in the loop of Henle"] },
+    { "c": "Descending limb of the loop of Henle", "a": "Permeable to water, which leaves the filtrate", "d": ["Impermeable to water; pumps out NaCl", "Impermeable to all substances"] },
+    { "c": "Thick ascending limb", "a": "Pumps out NaCl but is impermeable to water", "d": ["Lets water out but not salt", "Secretes glucose into the filtrate"] },
+    { "c": "Vasa recta", "a": "Capillaries that preserve the medullary salt gradient", "d": ["Vessels that carry blood into the glomerulus", "Ducts that drain into the renal pelvis"] },
+    { "c": "ADH effect on the collecting duct", "a": "Inserts aquaporins so more water is reabsorbed", "d": ["Removes aquaporins so more water is lost", "Pumps K+ into the filtrate"] },
+    { "c": "Atrial natriuretic peptide (ANP)", "a": "Increases Na+ and water loss in urine", "d": ["Increases Na+ and water retention", "Inserts aquaporins in collecting ducts"] },
+    { "c": "Tubular secretion", "a": "Moving substances from blood into the tubule", "d": ["Moving filtrate back into the blood", "Pushing plasma into the capsule"], "ex": "H+, K+, creatinine, and many drugs are secreted." },
+    { "c": "Pigment that colors urine", "a": "Urochrome", "d": ["Biliverdin", "Melanin"] },
+    { "c": "Normal urine pH range", "a": "4.5 to 8.0", "d": ["7.35 to 7.45", "1.5 to 3.5"] },
+    { "c": "Normally absent from urine", "a": "Glucose", "d": ["Urea", "Creatinine"] },
+    { "c": "Detrusor muscle", "a": "Smooth muscle of the bladder wall", "d": ["Voluntary sphincter of the urethra", "Muscle layer of the ureter"] },
+    { "c": "Total body water in adults", "a": "About 50 to 60% of body mass", "d": ["About 25 to 30% of body mass", "About 80 to 85% of body mass"] },
+    { "c": "Share of body water inside cells", "a": "About two-thirds", "d": ["About one-third", "About one-tenth"] },
+    { "c": "Main cation of extracellular fluid", "a": "Na+", "d": ["K+", "Mg2+"] },
+    { "c": "Main cation of intracellular fluid", "a": "K+", "d": ["Na+", "Ca2+"] },
+    { "c": "Location of the thirst center", "a": "Hypothalamus", "d": ["Medulla oblongata", "Posterior pituitary"] },
+    { "c": "Main buffer of extracellular fluid", "a": "Bicarbonate-carbonic acid system", "d": ["Phosphate buffer system", "Hemoglobin"] },
+    { "c": "Bicarbonate to carbonic acid at normal pH", "a": "About 20 to 1", "d": ["About 1 to 1", "About 1 to 20"] },
+    { "c": "Effect of hyperventilation on blood pH", "a": "Raises it", "d": ["Lowers it", "No change"], "ex": "Blowing off CO2 lowers carbonic acid." },
+    { "c": "How the kidneys correct blood pH", "a": "Secreting H+ and reclaiming HCO3−", "d": ["Exhaling CO2", "Making more albumin"] },
+    { "c": "Time for kidneys to correct a pH change", "a": "Hours to days", "d": ["Seconds", "A few minutes"] }
+  ],
+  "read": {
+    "title": "180 liters a day",
+    "text": [
+      "The kidneys filter the entire plasma volume dozens of times a day. In each nephron, blood enters the glomerulus through an afferent arteriole and leaves through a narrower efferent arteriole, which keeps glomerular pressure high. About 55 mm Hg of blood pressure pushes fluid out, opposed by about 15 mm Hg of pressure in the capsule and 30 mm Hg of colloid osmotic pressure from plasma proteins. The net 10 mm Hg forces water and small solutes through the fenestrated capillary wall, basement membrane, and podocyte slits, while blood cells and most proteins stay behind.",
+      "That produces about 180 liters of filtrate a day, yet only 1 to 2 liters leave as urine. The tubule recovers the rest. The proximal convoluted tubule reclaims about two-thirds of the water and sodium and nearly all of the glucose and amino acids. The loop of Henle builds a salty gradient in the medulla: its descending limb lets water out, and its thick ascending limb pumps salt out but holds water in.",
+      "The final adjustment happens in the distal tubule and collecting duct, under hormonal control. Aldosterone increases sodium recovery, and ADH inserts aquaporins so water can leave the collecting duct into the salty medulla. With plenty of ADH, urine is small in volume and concentrated; with little ADH, it is large and dilute."
+    ],
+    "q": [
+      { "q": "What keeps glomerular pressure high?", "o": ["The efferent arteriole is narrower than the afferent", "The capsule pumps fluid inward", "Plasma proteins push fluid out"], "k": 0 },
+      { "q": "Where is most filtered water and sodium recovered?", "o": ["Collecting duct", "Proximal convoluted tubule", "Glomerulus"], "k": 1 },
+      { "q": "What is urine like when ADH levels are high?", "o": ["Large in volume and dilute", "Rich in glucose", "Small in volume and concentrated"], "k": 2 }
+    ]
+  }
+}

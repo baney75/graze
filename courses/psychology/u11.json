@@ -1,0 +1,54 @@
+{
+  "title": "Motivation and emotion",
+  "note": "Motivation is what starts, directs and sustains behavior; it can come from inside (interest, satisfaction) or outside (pay, praise). Emotion is a relatively intense response to an event, involving bodily arousal, thought and expression. Theories of emotion differ mainly on the order and role of arousal and interpretation.",
+  "src": { "t": "OpenStax Psychology 2e, 10.1 Motivation", "u": "https://openstax.org/books/psychology-2e/pages/10-1-motivation" },
+  "items": [
+    { "c": "Motivation", "a": "Wants or needs that direct behavior toward a goal", "d": ["A brief, intense reaction to an event", "A lasting pattern of personality", "A learned link between two stimuli"] },
+    { "c": "Intrinsic motivation", "a": "Doing something for its own satisfaction", "d": ["Doing something for pay or praise", "Doing something to avoid punishment", "Doing something because a group does"] },
+    { "c": "Extrinsic motivation", "a": "Doing something for an outside reward", "d": ["Doing something because it is enjoyable", "Doing something out of curiosity", "Doing something to grow as a person"] },
+    { "c": "Overjustification effect", "a": "An outside reward weakens existing intrinsic motivation", "d": ["A reward always strengthens interest", "Punishment increases interest", "Praise has no effect on behavior"] },
+    { "c": "Reward most likely to undermine enjoyment", "a": "An expected, tangible reward like money", "d": ["An unexpected word of praise", "A surprise thank-you note", "No reward at all"] },
+    { "c": "Self-determination theory: three basic needs", "a": "Autonomy, competence and relatedness", "d": ["Food, safety and shelter", "Id, ego and superego", "Attention, retention and motivation"] },
+    { "c": "Self-efficacy (Bandura)", "a": "Belief in your ability to succeed at a task", "d": ["Your general sense of self-worth", "Your belief that luck controls outcomes", "Your ranking within a group"], "ex": "High self-efficacy makes people take on challenges and persist." },
+    { "c": "Instinct theory (William James)", "a": "Behavior is driven by unlearned, species-typical patterns", "d": ["Behavior restores a balanced internal state", "Behavior seeks an optimal level of arousal", "Behavior follows a hierarchy of needs"] },
+    { "c": "Homeostasis", "a": "Keeping an internal system in balance", "d": ["Seeking ever greater stimulation", "Copying the behavior of others", "Releasing hormones in a crisis"] },
+    { "c": "Drive theory", "a": "Needs from imbalance create drives that push behavior", "d": ["Behavior is driven by inborn instincts", "People seek an optimal arousal level", "Needs are met in a fixed order"], "ex": "Low blood sugar produces hunger, which drives eating." },
+    { "c": "Arousal theory", "a": "People seek an optimal level of arousal", "d": ["People seek zero arousal at all times", "Arousal is caused by emotion labels", "Arousal comes only from rewards"] },
+    { "c": "Yerkes-Dodson law", "a": "Performance is best at a moderate level of arousal", "d": ["Performance rises steadily with arousal", "Performance is best with no arousal", "Arousal has no effect on performance"] },
+    { "c": "Ideal arousal for a difficult, complex task", "a": "Relatively low", "d": ["Relatively high", "As high as possible", "It does not matter"] },
+    { "c": "Base of Maslow's hierarchy of needs", "a": "Physiological needs like food and water", "d": ["Safety and security", "Love and belonging", "Esteem and achievement"] },
+    { "c": "Maslow's level just above safety", "a": "Love and belonging", "d": ["Self-actualization", "Esteem", "Physiological needs"] },
+    { "c": "Self-actualization", "a": "Reaching your fullest potential", "d": ["Meeting basic needs for food and shelter", "Earning respect from others", "Feeling safe and secure"] },
+    { "c": "Maslow's later level above self-actualization", "a": "Self-transcendence", "d": ["Self-esteem", "Physiological needs", "Safety"] },
+    { "c": "Leptin", "a": "Hormone from fat cells that signals fullness", "d": ["Hormone from the stomach that signals hunger", "Hormone that triggers sleep", "Neurotransmitter for pleasure"] },
+    { "c": "Ghrelin", "a": "Hormone from the stomach that signals hunger", "d": ["Hormone from fat cells that signals fullness", "Hormone that starts puberty", "Neurotransmitter for alertness"] },
+    { "c": "Set-point theory", "a": "The body defends a genetically influenced weight", "d": ["Weight depends only on willpower", "Hunger is set by the time of day", "Each person has a fixed daily meal count"] },
+    { "c": "Emotion", "a": "A relatively intense response to a specific event", "d": ["A long, mild feeling with no clear cause", "A lasting personality trait", "A need created by imbalance"] },
+    { "c": "Mood", "a": "A longer, milder feeling not tied to a specific event", "d": ["An intense reaction to a specific event", "A physical drive like thirst", "A facial expression shown to others"] },
+    { "c": "James-Lange theory of emotion", "a": "Emotion follows from the body's arousal", "d": ["Arousal and emotion occur at the same time", "Emotion is arousal plus a cognitive label", "Appraisal comes before any emotion"], "ex": "We feel afraid because we notice our racing heart." },
+    { "c": "Cannon-Bard theory of emotion", "a": "Arousal and emotion occur together but independently", "d": ["Emotion is caused by bodily arousal", "Emotion is arousal plus a label", "Facial expressions cause emotion"] },
+    { "c": "Schachter-Singer two-factor theory", "a": "Emotion is arousal plus a cognitive label", "d": ["Emotion follows from arousal alone", "Arousal and emotion are independent", "Emotion comes from facial muscles"] },
+    { "c": "Uninformed men given epinephrine felt", "a": "The mood a companion acted out, euphoric or angry", "d": ["No change at all", "Only fear, whatever the setting", "Only calm and sleepiness"], "ex": "Schachter and Singer's 1962 study." },
+    { "c": "Misattribution of arousal", "a": "Crediting arousal to the wrong source", "d": ["Failing to feel any arousal", "Remembering an event incorrectly", "Blaming others for your mistakes"], "ex": "In a classic study, men interviewed by a woman on a swaying bridge were more likely to call her later." },
+    { "c": "Cognitive-mediational theory (Lazarus)", "a": "Your appraisal of an event determines the emotion", "d": ["Arousal alone determines emotion", "Facial expressions determine emotion", "Emotions are learned by reward"] },
+    { "c": "Facial feedback hypothesis", "a": "Facial expressions can influence felt emotion", "d": ["Emotions cannot show on the face", "Faces express emotion only in some cultures", "Emotion is felt only after a label"] },
+    { "c": "Display rules", "a": "Cultural norms for when to show emotions", "d": ["Universal facial expressions", "Rules for scoring a lie test", "Steps in appraising a threat"] },
+    { "c": "Ekman's cross-cultural face studies suggest", "a": "Some basic emotional expressions are universal", "d": ["Every culture has unique facial expressions", "Facial expressions are fully learned", "Only adults can read faces"] },
+    { "c": "Brain structure central to fear processing", "a": "Amygdala", "d": ["Cerebellum", "Occipital lobe", "Medulla"] },
+    { "c": "Main problem with polygraph lie detection", "a": "No arousal pattern is unique to lying", "d": ["It cannot measure heart rate", "It works only on children", "It requires brain surgery"] }
+  ],
+  "read": {
+    "title": "When a reward backfires",
+    "text": [
+      "Some activities we do because they are interesting or satisfying in themselves. That is intrinsic motivation. Others we do for something outside the activity, such as pay, grades or praise. That is extrinsic motivation. Both are useful, but they can interact in surprising ways.",
+      "In the overjustification effect, adding an outside reward to an activity a person already enjoys can reduce their interest in it. Picture a child who loves to draw. If adults start paying her for every drawing, she may begin to see drawing as work done for money. When the payments stop, she may draw less than before.",
+      "The effect depends on the kind of reward. Tangible rewards, like money or prizes, tend to undermine intrinsic motivation more than intangible ones, like sincere praise. Expected rewards do more harm than surprise rewards, because the expectation changes how the person explains their own behavior.",
+      "None of this means rewards are bad. They can help a person start a task they do not yet value, and they are fair payment for work. The lesson is to protect the interest that already exists: praise effort and progress, and give learners real choices, so the reason for doing the task stays their own."
+    ],
+    "q": [
+      { "q": "In the overjustification effect, what happens to intrinsic motivation?", "o": ["It grows stronger", "It can weaken when an outside reward is added", "It turns into a reflex", "It stays exactly the same"], "k": 1 },
+      { "q": "Which reward is most likely to undermine interest, according to the reading?", "o": ["A surprise compliment", "Expected cash for each drawing", "A sincere word of praise"], "k": 1 },
+      { "q": "What does the reading recommend?", "o": ["Never reward anyone", "Praise effort and give learners real choices", "Pay for every task", "Remove all choices"], "k": 1 }
+    ]
+  }
+}

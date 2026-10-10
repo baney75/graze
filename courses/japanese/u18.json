@@ -1,0 +1,303 @@
+{
+  "title": "Work and school",
+  "note": "The place where you study or work takes で: 大学で勉強します, 会社で働きます. The person you learn from takes に: 先生に習います. A start time takes に: 授業は九時に始まります. Many study nouns become verbs with します: 勉強します, 質問します.",
+  "src": {
+    "t": "IRODORI: Japanese for Life in Japan, The Japan Foundation",
+    "u": "https://www.irodori.jpf.go.jp/en/"
+  },
+  "items": [
+    {
+      "c": "学校",
+      "r": "gakkō",
+      "a": "school",
+      "d": [
+        "company",
+        "hospital"
+      ],
+      "ex": "(がっこう) 学校は八時半に始まります。",
+      "exT": "School starts at 8:30."
+    },
+    {
+      "c": "大学",
+      "r": "daigaku",
+      "a": "university, college",
+      "d": [
+        "high school",
+        "library"
+      ]
+    },
+    {
+      "c": "高校",
+      "r": "kōkō",
+      "a": "high school",
+      "d": [
+        "university",
+        "elementary school"
+      ]
+    },
+    {
+      "c": "教室",
+      "r": "kyōshitsu",
+      "a": "classroom",
+      "d": [
+        "office",
+        "library"
+      ]
+    },
+    {
+      "c": "授業",
+      "r": "jugyō",
+      "a": "class, lesson",
+      "d": [
+        "homework",
+        "test"
+      ]
+    },
+    {
+      "c": "宿題",
+      "r": "shukudai",
+      "a": "homework",
+      "d": [
+        "class",
+        "question"
+      ],
+      "ex": "(しゅくだい) 宿題が多いです。",
+      "exT": "There's a lot of homework."
+    },
+    {
+      "c": "テスト",
+      "r": "tesuto",
+      "a": "test, exam",
+      "d": [
+        "homework",
+        "lesson"
+      ]
+    },
+    {
+      "c": "質問",
+      "r": "shitsumon",
+      "a": "question",
+      "d": [
+        "answer",
+        "word"
+      ]
+    },
+    {
+      "c": "答え",
+      "r": "kotae",
+      "a": "answer",
+      "d": [
+        "question",
+        "meaning"
+      ]
+    },
+    {
+      "c": "言葉",
+      "r": "kotoba",
+      "a": "word; language",
+      "d": [
+        "letter (of the alphabet)",
+        "sentence"
+      ]
+    },
+    {
+      "c": "漢字",
+      "r": "kanji",
+      "a": "kanji (Chinese characters)",
+      "d": [
+        "katakana (loanword script)",
+        "romaji (Latin letters)"
+      ]
+    },
+    {
+      "c": "辞書",
+      "r": "jisho",
+      "a": "dictionary",
+      "d": [
+        "textbook",
+        "notebook"
+      ],
+      "ex": "(じしょ) 辞書を使います。",
+      "exT": "I use a dictionary."
+    },
+    {
+      "c": "鉛筆",
+      "r": "enpitsu",
+      "a": "pencil",
+      "d": [
+        "pen",
+        "eraser"
+      ]
+    },
+    {
+      "c": "ペン",
+      "r": "pen",
+      "a": "pen",
+      "d": [
+        "pencil",
+        "paper"
+      ]
+    },
+    {
+      "c": "ノート",
+      "r": "nōto",
+      "a": "notebook",
+      "d": [
+        "dictionary",
+        "note to a friend"
+      ]
+    },
+    {
+      "c": "紙",
+      "r": "kami",
+      "a": "paper",
+      "d": [
+        "hair",
+        "notebook"
+      ]
+    },
+    {
+      "c": "会社",
+      "r": "kaisha",
+      "a": "company, office",
+      "d": [
+        "school",
+        "shop"
+      ],
+      "ex": "(かいしゃ) 父は会社で働きます。",
+      "exT": "My father works at a company."
+    },
+    {
+      "c": "仕事",
+      "r": "shigoto",
+      "a": "work, job",
+      "d": [
+        "homework",
+        "hobby"
+      ]
+    },
+    {
+      "c": "休み",
+      "r": "yasumi",
+      "a": "day off; vacation; break",
+      "d": [
+        "workday",
+        "test"
+      ]
+    },
+    {
+      "c": "夏休み",
+      "r": "natsuyasumi",
+      "a": "summer vacation",
+      "d": [
+        "winter vacation",
+        "spring break"
+      ]
+    },
+    {
+      "c": "留学生",
+      "r": "ryūgakusei",
+      "a": "international student",
+      "d": [
+        "Japanese student",
+        "exchange teacher"
+      ]
+    },
+    {
+      "c": "教えます",
+      "r": "oshiemasu",
+      "a": "teach; tell",
+      "d": [
+        "learn",
+        "study"
+      ]
+    },
+    {
+      "c": "習います",
+      "r": "naraimasu",
+      "a": "learn (from someone)",
+      "d": [
+        "teach (someone)",
+        "forget (something)"
+      ]
+    },
+    {
+      "c": "始まります",
+      "r": "hajimarimasu",
+      "a": "begin, start",
+      "d": [
+        "end, finish",
+        "stop"
+      ]
+    },
+    {
+      "c": "終わります",
+      "r": "owarimasu",
+      "a": "end, finish",
+      "d": [
+        "begin, start",
+        "continue"
+      ]
+    },
+    {
+      "c": "質問があります。",
+      "r": "Shitsumon ga arimasu.",
+      "a": "I have a question.",
+      "d": [
+        "I have an answer.",
+        "Are there any questions?"
+      ]
+    },
+    {
+      "c": "もう一度お願いします。",
+      "r": "Mō ichido onegai shimasu.",
+      "a": "Once more, please.",
+      "d": [
+        "More slowly, please.",
+        "A little louder, please."
+      ]
+    },
+    {
+      "c": "これは日本語で何と言いますか。",
+      "r": "Kore wa Nihongo de nan to iimasu ka.",
+      "a": "How do you say this in Japanese?",
+      "d": [
+        "What does this Japanese word mean?",
+        "Is this Japanese?"
+      ]
+    },
+    {
+      "c": "大学___日本語を勉強します。",
+      "r": "Daigaku ___ Nihongo o benkyō shimasu.",
+      "a": "で",
+      "d": [
+        "を",
+        "へ"
+      ],
+      "ex": "大学で日本語を勉強します。",
+      "exT": "I study Japanese at the university."
+    },
+    {
+      "c": "山田先生___日本語を習います。",
+      "r": "Yamada-sensei ___ Nihongo o naraimasu.",
+      "a": "に",
+      "d": [
+        "を",
+        "で"
+      ],
+      "ex": "山田先生に日本語を習います。",
+      "exT": "I learn Japanese from Professor Yamada."
+    },
+    {
+      "c": "今日は宿題___あります。",
+      "r": "Kyō wa shukudai ___ arimasu.",
+      "a": "が",
+      "d": [
+        "を",
+        "で"
+      ],
+      "ex": "今日は宿題があります。",
+      "exT": "I have homework today."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "key": "martial",
+  "name": "Martial Arts",
+  "group": "Skills",
+  "tag": "MARTIAL",
+  "level": "All levels",
+  "blurb": "Understand why technique works, from balance, leverage, and distance to the terms, rules, and history of boxing, Muay Thai, wrestling, judo, jiu-jitsu, karate, and taekwondo, plus training science and the ethics of self-defense. Knowledge for the mat, not a substitute for a coach.",
+  "sources": [
+    { "t": "Kodokan Judo Institute, Teachings of Jigoro Kano and judo history", "u": "https://kdkjudo.org/doctrine/history/" },
+    { "t": "International Judo Federation, New rules: what to remember (2025)", "u": "https://www.ijf.org/news/show/new-rules-what-to-remember" },
+    { "t": "United World Wrestling, International Wrestling Rules (2026)", "u": "https://cdn.uww.org/2026-01/wrestling_rules.pdf" },
+    { "t": "Inazo Nitobe, Bushido: The Soul of Japan, Project Gutenberg", "u": "https://www.gutenberg.org/ebooks/12096" },
+    { "t": "NSCA, Principle-Based Program Design", "u": "https://www.nsca.com/contentassets/ae95c28e2bdf43c7b69636eacd3e4c72/ptq3.2-3-principle-based_program_design.pdf" },
+    { "t": "IBJJF Rules", "u": "https://ibjjf.com/rules" }
+  ]
+}

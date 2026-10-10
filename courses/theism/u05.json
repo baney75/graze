@@ -1,0 +1,300 @@
+{
+  "title": "The kalam cosmological argument",
+  "note": "The kalam argument, from medieval Islamic theology and revived by William Lane Craig, runs: whatever begins to exist has a cause; the universe began to exist; so the universe has a cause. Premise 2 is defended philosophically (no actual infinite, no infinite built step by step) and scientifically (Big Bang cosmology, thermodynamics).",
+  "src": {
+    "t": "Stanford Encyclopedia of Philosophy: Cosmological Argument",
+    "u": "https://plato.stanford.edu/entries/cosmological-argument/"
+  },
+  "items": [
+    {
+      "c": "'Kalam' names the tradition of",
+      "a": "medieval Islamic dialectical theology",
+      "d": [
+        "medieval Jewish mystical theology",
+        "Greek Neoplatonic philosophy"
+      ]
+    },
+    {
+      "c": "First premise of the kalam argument",
+      "a": "whatever begins to exist has a cause",
+      "d": [
+        "whatever exists has a cause",
+        "every contingent thing has an explanation"
+      ]
+    },
+    {
+      "c": "Second premise of the kalam argument",
+      "a": "the universe began to exist",
+      "d": [
+        "the universe is contingent",
+        "the universe shows design"
+      ]
+    },
+    {
+      "c": "Author of The Incoherence of the Philosophers",
+      "a": "al-Ghazali",
+      "d": [
+        "Averroes",
+        "Avicenna"
+      ]
+    },
+    {
+      "c": "Averroes's reply to al-Ghazali",
+      "a": "The Incoherence of the Incoherence",
+      "d": [
+        "The Guide for the Perplexed",
+        "The Book of Healing"
+      ]
+    },
+    {
+      "c": "Arab philosopher who argued the past is finite",
+      "a": "al-Kindi",
+      "d": [
+        "al-Farabi",
+        "Averroes"
+      ]
+    },
+    {
+      "c": "Scholastic who held reason proves a beginning",
+      "a": "Bonaventure",
+      "d": [
+        "Thomas Aquinas",
+        "William of Ockham"
+      ]
+    },
+    {
+      "c": "William Lane Craig's 1979 book",
+      "a": "The Kalām Cosmological Argument",
+      "d": [
+        "The Existence of God",
+        "Arguing about Gods"
+      ]
+    },
+    {
+      "c": "Actual infinite",
+      "a": "a completed collection with infinitely many members",
+      "d": [
+        "a series that grows forever but never completes",
+        "a very large but finite collection"
+      ]
+    },
+    {
+      "c": "Potential infinite",
+      "a": "a series that can grow without limit but never completes",
+      "d": [
+        "a completed collection of infinitely many things",
+        "a collection with no members at all"
+      ]
+    },
+    {
+      "c": "Hilbert's Hotel, when every room is full, can",
+      "a": "still take in new guests, even infinitely many",
+      "d": [
+        "take in no new guests at all",
+        "take in only finitely many more guests"
+      ]
+    },
+    {
+      "c": "Mathematician behind the infinite hotel image",
+      "a": "David Hilbert",
+      "d": [
+        "Georg Cantor",
+        "Kurt Gödel"
+      ]
+    },
+    {
+      "c": "Craig's lesson from Hilbert's Hotel",
+      "a": "an actual infinite cannot exist in reality",
+      "d": [
+        "infinite sets are mathematically inconsistent",
+        "the universe has infinitely many rooms"
+      ]
+    },
+    {
+      "c": "Objection to 'no actual infinite can exist'",
+      "a": "Cantor's set theory treats actual infinites consistently",
+      "d": [
+        "the universe is known to be spatially finite",
+        "infinite numbers cannot be written down"
+      ]
+    },
+    {
+      "c": "Craig's reply on Cantor's set theory",
+      "a": "consistency in mathematics does not show real existence",
+      "d": [
+        "set theory has been proven inconsistent",
+        "Cantor himself denied the actual infinite"
+      ]
+    },
+    {
+      "c": "Kalam argument from successive addition",
+      "a": "an infinite cannot be completed by adding one at a time",
+      "d": [
+        "infinity can only be reached by division",
+        "time adds itself to space, not to events"
+      ]
+    },
+    {
+      "c": "How Big Bang cosmology supports premise 2",
+      "a": "expansion from a hot, dense state a finite time ago",
+      "d": [
+        "a steady state with no beginning or end",
+        "contraction toward a single point"
+      ]
+    },
+    {
+      "c": "Priest who proposed the 'primeval atom'",
+      "a": "Georges Lemaître",
+      "d": [
+        "Edwin Hubble",
+        "Fred Hoyle"
+      ]
+    },
+    {
+      "c": "Steady-state theorist who coined 'Big Bang'",
+      "a": "Fred Hoyle",
+      "d": [
+        "Georges Lemaître",
+        "Albert Einstein"
+      ]
+    },
+    {
+      "c": "Discoverers of the cosmic microwave background",
+      "a": "Arno Penzias and Robert Wilson",
+      "d": [
+        "Edwin Hubble and Milton Humason",
+        "Alan Guth and Alexander Vilenkin"
+      ]
+    },
+    {
+      "c": "Borde-Guth-Vilenkin theorem (2003)",
+      "a": "a universe expanding on average has a past boundary",
+      "d": [
+        "every universe must eventually recollapse",
+        "quantum events have no causes at all"
+      ]
+    },
+    {
+      "c": "Craig's argument from thermodynamics",
+      "a": "an infinitely old universe would already be run down",
+      "d": [
+        "energy is created whenever time passes",
+        "heat flows from cold bodies to hot ones"
+      ]
+    },
+    {
+      "c": "Quantum objection to the kalam's first premise",
+      "a": "some quantum events seem to happen without a cause",
+      "d": [
+        "quantum theory proves the universe is eternal",
+        "quantum theory proves God caused the universe"
+      ]
+    },
+    {
+      "c": "Craig's reply to the quantum objection",
+      "a": "such events still arise within a law-governed vacuum",
+      "d": [
+        "quantum theory has been refuted",
+        "quantum events happen only in minds"
+      ]
+    },
+    {
+      "c": "Critic who said Krauss's 'nothing' is something",
+      "a": "David Albert",
+      "d": [
+        "Daniel Dennett",
+        "Sean Carroll"
+      ],
+      "ex": "In his 2012 review of A Universe from Nothing."
+    },
+    {
+      "c": "Hartle-Hawking 'no-boundary' proposal",
+      "a": "the early universe has no sharp initial edge in time",
+      "d": [
+        "the universe has existed forever in a steady state",
+        "the universe will expand forever without limit"
+      ]
+    },
+    {
+      "c": "Why Craig says the cause is personal",
+      "a": "only a free choice explains a timeless cause's new effect",
+      "d": [
+        "only persons can be the causes of matter",
+        "Scripture defines the cause as personal"
+      ]
+    },
+    {
+      "c": "Attributes Craig infers for the kalam's cause",
+      "a": "uncaused, timeless, spaceless, immaterial and personal",
+      "d": [
+        "caused, temporal, material and impersonal",
+        "finite, local, physical and unconscious"
+      ]
+    },
+    {
+      "c": "Kalam reply to 'Then what caused God?'",
+      "a": "only what begins to exist needs a cause",
+      "d": [
+        "God caused himself to exist",
+        "God's cause is a greater God"
+      ]
+    },
+    {
+      "c": "J. L. Mackie's 1982 critique of theism",
+      "a": "The Miracle of Theism",
+      "d": [
+        "The Coherence of Theism",
+        "The Blind Watchmaker"
+      ]
+    },
+    {
+      "c": "Graham Oppy's 2006 critique",
+      "a": "Arguing about Gods",
+      "d": [
+        "The Miracle of Theism",
+        "God, Freedom, and Evil"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Did the universe begin?",
+    "text": [
+      "William Lane Craig's version of the kalam argument is short:",
+      "(1) Whatever begins to exist has a cause. (2) The universe began to exist. (3) Therefore, the universe has a cause.",
+      "Craig defends premise (2) in two ways. Philosophically, he argues that an actual infinite cannot exist in reality. Hilbert's Hotel, with infinitely many rooms all occupied, could still welcome new guests by shifting everyone down a room; if guests left, subtracting equal infinities could give different answers. If such absurdities rule out an actual infinite, there cannot be an infinite series of past events. And even if one could exist, it could not be formed by adding one event after another. Scientifically, Big Bang cosmology and the Borde-Guth-Vilenkin theorem point to a beginning, as does the second law of thermodynamics.",
+      "Craig then argues the cause must be uncaused, timeless, spaceless, immaterial, and personal, since only a free agent could produce a temporal effect from a timeless state.",
+      "A standard objection targets premise (1): quantum events, such as the decay of an atom, seem to have no cause. If the micro-world allows uncaused events, why not the universe?",
+      "Craig replies that quantum events are not uncaused in the relevant sense. They occur within a physical vacuum governed by laws, which is a rich state of energy, not nothing. Coming into being from literally nothing, without any cause, he argues, is worse than magic."
+    ],
+    "q": [
+      {
+        "q": "What is Hilbert's Hotel used to show?",
+        "o": [
+          "Actual infinites yield absurd results in reality",
+          "The universe is spatially infinite",
+          "Hotels cannot be built in space"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Which premise does the quantum objection target?",
+        "o": [
+          "The universe began to exist",
+          "Whatever begins to exist has a cause",
+          "The cause is personal"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why does Craig say quantum events are not uncaused 'from nothing'?",
+        "o": [
+          "They occur only in laboratories",
+          "They have been shown to be illusory",
+          "They arise within a law-governed physical vacuum",
+          "They happen only at the Big Bang"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Essential conversation",
+  "note": "The imperative is the present tense without a subject: Écoute ! Écoutez ! Allons-y ! For -er verbs, the tu form drops its final -s: tu regardes, but Regarde ! Reflexive verbs keep their pronoun after the verb: Dépêche-toi ! In the negative it moves back in front: Ne t'inquiète pas !",
+  "src": { "t": "Français interactif, Chapitre 7 vocabulaire (fêtes et coutumes)", "u": "https://laits.utexas.edu/fi/voc/07/" },
+  "items": [
+    { "c": "Je ne sais pas.", "a": "I don't know.", "d": ["I don't understand.", "I don't care."] },
+    { "c": "Vous parlez anglais ?", "a": "Do you speak English?", "d": ["Are you English?", "Can you speak more slowly?"] },
+    { "c": "Pouvez-vous parler plus lentement ?", "a": "Can you speak more slowly?", "d": ["Can you speak louder?", "Can you say that again?"] },
+    { "c": "Où sont les toilettes ?", "a": "Where's the restroom?", "d": ["Where's the exit?", "Are the restrooms free?"] },
+    { "c": "Je suis perdu.", "a": "I'm lost.", "d": ["I'm late.", "I lost my bag."], "ex": "Excusez-moi, je suis perdu. Où est la gare ?", "exT": "Excuse me, I'm lost. Where is the train station?" },
+    { "c": "Je suis en retard.", "a": "I'm late.", "d": ["I'm early.", "I'm on my way."] },
+    { "c": "Au secours !", "a": "Help!", "d": ["Watch out!", "Hurry up!"] },
+    { "c": "Attention !", "a": "Watch out!", "d": ["Hurry up!", "Help!"] },
+    { "c": "Ce n'est pas grave.", "a": "It's no big deal.", "d": ["It's very serious.", "It's not funny."] },
+    { "c": "Ça dépend.", "a": "It depends.", "d": ["It's done.", "It's up to me."] },
+    { "c": "Pas de problème.", "a": "No problem.", "d": ["There's a problem.", "Not today."] },
+    { "c": "Je vous en prie.", "a": "You're welcome. (formal)", "d": ["Excuse me. (formal)", "Goodbye. (formal)"] },
+    { "c": "Tu es libre samedi ?", "a": "Are you free on Saturday?", "d": ["Are you busy today?", "Do you work on Saturday?"], "ex": "Tu es libre samedi ? On va au marché.", "exT": "Are you free on Saturday? We're going to the market." },
+    { "c": "À quelle heure ?", "a": "At what time?", "d": ["For how long?", "Which day?"] },
+    { "c": "Bonne idée !", "a": "Good idea!", "d": ["Good luck!", "Good night!"] },
+    { "c": "Volontiers !", "a": "Gladly!", "d": ["Not really!", "Maybe later!"] },
+    { "c": "Ça marche !", "a": "Sounds good! / Deal!", "d": ["It's walking!", "It's broken!"] },
+    { "c": "Allons-y !", "a": "Let's go!", "d": ["Go away!", "Over there!"] },
+    { "c": "C'est vrai ?", "a": "Is that true?", "d": ["Is that new?", "Is that yours?"] },
+    { "c": "Tu me manques.", "a": "I miss you.", "d": ["You miss me.", "You're lying to me."], "ex": "Tu me manques beaucoup.", "exT": "I miss you a lot." },
+    { "c": "Bon appétit !", "a": "Enjoy your meal!", "d": ["I'm hungry!", "Cheers!"] },
+    { "c": "Santé !", "a": "Cheers! (a toast)", "d": ["Bless you! (for a sneeze)", "Enjoy your meal!"] },
+    { "c": "Félicitations !", "a": "Congratulations!", "d": ["Happy birthday!", "Good luck!"] },
+    { "c": "Bon anniversaire !", "a": "Happy birthday!", "d": ["Happy New Year!", "Merry Christmas!"] },
+    { "c": "Bonne chance !", "a": "Good luck!", "d": ["Good choice!", "Have a good day!"] },
+    { "c": "Bon voyage !", "a": "Have a good trip!", "d": ["Welcome back!", "Have a good weekend!"] },
+    { "c": "Joyeux Noël !", "a": "Merry Christmas!", "d": ["Happy Easter!", "Happy New Year!"] },
+    { "c": "Bonne année !", "a": "Happy New Year!", "d": ["Merry Christmas!", "Happy birthday!"] },
+    { "c": "___ la porte, s'il te plaît. (ouvrir)", "a": "Ouvre", "d": ["Ouvres", "Ouvrez"] },
+    { "c": "___-moi, s'il vous plaît. (aider)", "a": "Aidez", "d": ["Aide", "Aidons"] },
+    { "c": "Ne ___ pas ! (s'inquiéter, tu)", "a": "t'inquiète", "d": ["s'inquiète", "inquiète-toi"], "ex": "Ne t'inquiète pas, tout va bien.", "exT": "Don't worry, everything's fine." }
+  ],
+  "read": {
+    "title": "Au café",
+    "text": [
+      "— Salut, Inès ! Ça va ?",
+      "— Salut, Paul ! Ça va bien, et toi ?",
+      "— Pas mal. Désolé, je suis en retard. Il y a beaucoup de monde dans le métro.",
+      "— Ce n'est pas grave. Qu'est-ce que tu prends ?",
+      "— Un café. Et toi ?",
+      "— Moi, un thé. Alors, Paul, tu es libre samedi soir ?",
+      "— Samedi ? Oui, pourquoi ?",
+      "— C'est mon anniversaire. Je fais une petite fête chez moi. Tu veux venir ?",
+      "— Volontiers ! À quelle heure ?",
+      "— À huit heures.",
+      "— Ça marche ! Et bon anniversaire !"
+    ],
+    "q": [
+      { "q": "Why does Paul apologize?", "o": ["He forgot her birthday", "He is late", "He can't come on Saturday"], "k": 1 },
+      { "q": "What does Inès order?", "o": ["Coffee", "Orange juice", "Tea"], "k": 2 },
+      { "q": "What is happening on Saturday evening?", "o": ["A party at Inès's place", "A trip to Paris", "A concert at the café"], "k": 0 }
+    ]
+  }
+}

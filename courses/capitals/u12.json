@@ -1,0 +1,25 @@
+{
+  "title": "The West of the United States",
+  "kind": "map",
+  "set": "us",
+  "note": "The West has thirteen states: the Mountain states along the Rockies and the Pacific states on the coast. Alaska and Hawaii are drawn as insets; Alaska is the largest state by far.",
+  "src": {
+    "t": "US Census Bureau cartographic boundaries via us-atlas",
+    "u": "https://github.com/topojson/us-atlas"
+  },
+  "items": [
+    { "p": "AZ", "a": "Arizona", "d": ["New Mexico", "Utah", "Nevada"] },
+    { "p": "CO", "a": "Colorado", "d": ["Wyoming", "New Mexico", "Utah"] },
+    { "p": "ID", "a": "Idaho", "d": ["Montana", "Oregon", "Washington"] },
+    { "p": "MT", "a": "Montana", "d": ["Idaho", "Wyoming", "Washington"] },
+    { "p": "NV", "a": "Nevada", "d": ["California", "Utah", "Arizona"] },
+    { "p": "NM", "a": "New Mexico", "d": ["Colorado", "Arizona", "Utah"] },
+    { "p": "UT", "a": "Utah", "d": ["Nevada", "Colorado", "Wyoming"] },
+    { "p": "WY", "a": "Wyoming", "d": ["Colorado", "Montana", "Utah"] },
+    { "p": "AK", "a": "Alaska", "d": ["Washington", "Hawaii", "Montana"] },
+    { "p": "CA", "a": "California", "d": ["Nevada", "Utah", "Arizona"] },
+    { "p": "HI", "a": "Hawaii", "d": ["Alaska", "California", "Oregon"] },
+    { "p": "OR", "a": "Oregon", "d": ["Washington", "Idaho", "Nevada"] },
+    { "p": "WA", "a": "Washington", "d": ["Oregon", "Idaho", "Montana"] }
+  ]
+}

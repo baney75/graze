@@ -1,0 +1,56 @@
+{
+  "title": "DNA structure and replication",
+  "note": "DNA is a double helix of two antiparallel strands, with A pairing with T and G with C. Replication is semiconservative: each strand templates a new partner. DNA polymerase adds nucleotides only to a 3' end, so one strand is made continuously and the other in short Okazaki fragments.",
+  "src": { "t": "OpenStax Biology 2e, Ch. 14: DNA Structure and Function", "u": "https://openstax.org/books/biology-2e/pages/14-introduction" },
+  "items": [
+    { "c": "Griffith's experiment showed that…", "a": "a transforming principle can pass between bacteria", "d": ["DNA is copied semiconservatively", "phages inject protein into bacteria"] },
+    { "c": "Avery, MacLeod, and McCarty identified…", "a": "DNA as the transforming principle", "d": ["protein as the transforming principle", "the double-helix structure of DNA"] },
+    { "c": "Hershey–Chase experiment", "a": "Showed phage DNA, not protein, enters bacteria", "d": ["Showed DNA replication is semiconservative", "Showed A pairs with T in equal amounts"] },
+    { "c": "Chargaff's rules", "a": "A equals T and G equals C in amount", "d": ["A equals G and T equals C in amount", "All four bases are equal in amount"] },
+    { "c": "Rosalind Franklin contributed…", "a": "X-ray diffraction images of DNA", "d": ["The first DNA sequencing method", "Proof that DNA is the genetic material"] },
+    { "c": "Watson and Crick (1953)", "a": "Proposed the double-helix model of DNA", "d": ["Proved DNA replication is semiconservative", "Discovered bacterial transformation"] },
+    { "c": "Orientation of DNA's two strands", "a": "Antiparallel: they run in opposite directions", "d": ["Parallel: both run 5' to 3' the same way", "Perpendicular to each other"] },
+    { "c": "Complementary base pairs in DNA", "a": "A with T, G with C", "d": ["A with G, C with T", "A with C, G with T"] },
+    { "c": "Hydrogen bonds in a G–C base pair", "a": "Three", "d": ["Two", "Four"] },
+    { "c": "Hydrogen bonds in an A–T base pair", "a": "Two", "d": ["Three", "One"] },
+    { "c": "DNA's sugar-phosphate backbone", "a": "Alternating deoxyribose and phosphate groups", "d": ["Paired nitrogenous bases", "Alternating ribose and amino acids"] },
+    { "c": "Nucleosome", "a": "DNA wound around a core of eight histones", "d": ["Loop of RNA bound to a ribosome", "Ring of plasmid DNA in bacteria"] },
+    { "c": "Semiconservative replication", "a": "Each new helix keeps one original strand", "d": ["Both original strands stay together", "Old and new DNA are mixed in each strand"] },
+    { "c": "Meselson–Stahl experiment", "a": "Showed DNA replication is semiconservative", "d": ["Showed DNA is the genetic material", "Showed bases pair A–T and G–C"] },
+    { "c": "Helicase", "a": "Unwinds DNA by breaking hydrogen bonds between bases", "d": ["Seals nicks between DNA fragments", "Lays down short RNA primers"] },
+    { "c": "Single-strand binding proteins", "a": "Keep separated strands from re-pairing", "d": ["Join Okazaki fragments together", "Add nucleotides to the 3' end"] },
+    { "c": "Topoisomerase", "a": "Relieves overwinding ahead of the replication fork", "d": ["Removes RNA primers", "Builds telomeres at chromosome ends"] },
+    { "c": "Primase", "a": "Makes a short RNA primer", "d": ["Removes the RNA primer", "Unwinds the double helix"] },
+    { "c": "Why DNA polymerase needs a primer", "a": "It can only add to an existing free 3'-OH", "d": ["It can only read RNA templates", "It cannot bind single-stranded DNA"] },
+    { "c": "Direction of new DNA synthesis", "a": "5' to 3'", "d": ["3' to 5'", "Either direction equally"] },
+    { "c": "DNA polymerase III (bacteria)", "a": "Main enzyme that adds new DNA nucleotides", "d": ["Removes primers and fills gaps", "Seals nicks with phosphodiester bonds"] },
+    { "c": "DNA polymerase I (bacteria)", "a": "Removes RNA primers and fills the gaps with DNA", "d": ["Main enzyme that builds the leading strand", "Relieves supercoiling ahead of the fork"] },
+    { "c": "DNA ligase", "a": "Seals nicks between DNA fragments", "d": ["Makes RNA primers", "Separates the two strands"] },
+    { "c": "Sliding clamp", "a": "Ring protein that keeps DNA polymerase on the DNA", "d": ["Protein that coats single strands", "Enzyme that cuts out damaged bases"] },
+    { "c": "Leading strand", "a": "Strand made continuously toward the fork", "d": ["Strand made in pieces away from the fork", "Strand that is never copied"] },
+    { "c": "Lagging strand", "a": "Strand made in short pieces away from the fork", "d": ["Strand made continuously toward the fork", "Strand made only of RNA"] },
+    { "c": "Okazaki fragments", "a": "Short DNA pieces made on the lagging strand", "d": ["RNA primers on the leading strand", "Repeated sequences at chromosome ends"] },
+    { "c": "Replication origins on the E. coli chromosome", "a": "One", "d": ["Hundreds", "None"] },
+    { "c": "Replication origins on a eukaryotic chromosome", "a": "Many", "d": ["Exactly one", "Exactly two"] },
+    { "c": "Telomeres", "a": "Repetitive noncoding DNA at chromosome ends", "d": ["Regions where spindle fibers attach", "Genes that code for histones"] },
+    { "c": "Telomerase", "a": "Extends telomeres using its own RNA template", "d": ["Removes primers from Okazaki fragments", "Joins homologs during meiosis"] },
+    { "c": "Proofreading by DNA polymerase", "a": "Removes a wrong nucleotide right after adding it", "d": ["Fixes mismatches long after replication", "Cuts out UV-damaged thymine dimers"] },
+    { "c": "Mismatch repair", "a": "Fixes mispaired bases left after replication", "d": ["Removes RNA primers", "Extends chromosome ends"] },
+    { "c": "Nucleotide excision repair", "a": "Cuts out and replaces damaged bases, such as thymine dimers", "d": ["Checks each base as it is added", "Joins Okazaki fragments together"] },
+    { "c": "Common cause of thymine dimers", "a": "Ultraviolet (UV) light", "d": ["Visible red light", "Low temperature"] }
+  ],
+  "read": {
+    "title": "Copying the code",
+    "text": [
+      "Before a cell divides, it must copy all of its DNA accurately. Replication begins at sites called origins, where the two strands are opened into a pair of Y-shaped replication forks. Helicase unwinds the helix, single-strand binding proteins keep the strands apart, and topoisomerase relieves the twisting that builds up ahead of each fork.",
+      "DNA polymerase builds the new strands, but it has two limits. It cannot start a strand from nothing, so primase first lays down a short RNA primer. And it can add nucleotides only to a free 3' end, so new DNA always grows in the 5' to 3' direction.",
+      "Because the two template strands are antiparallel, these limits create an asymmetry. On the leading strand, the polymerase moves toward the fork and synthesizes continuously. On the lagging strand, it must work away from the fork, making short Okazaki fragments, each starting from its own primer. In bacteria, DNA polymerase I later replaces the primers with DNA, and ligase seals the pieces into one strand.",
+      "The result is two double helices, each containing one old strand and one new one. Polymerase proofreads as it goes, and repair enzymes fix most remaining errors."
+    ],
+    "q": [
+      { "q": "Why is a primer needed?", "o": ["DNA polymerase cannot start a new strand on its own", "Helicase requires RNA", "The primer becomes a permanent part of DNA"], "k": 0 },
+      { "q": "Why is the lagging strand made in fragments?", "o": ["It has more errors", "Polymerase must work away from the fork in the 5' to 3' direction", "Ligase works only on one strand"], "k": 1 },
+      { "q": "What does each new double helix contain?", "o": ["Two new strands", "Two old strands", "One old strand and one new strand"], "k": 2 }
+    ]
+  }
+}

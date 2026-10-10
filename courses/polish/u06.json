@@ -1,0 +1,319 @@
+{
+  "title": "Days and telling time",
+  "note": "\"On\" a day is w + accusative: w poniedziałek, w środę, w sobotę (w becomes we before some clusters: we wtorek, we czwartek). Clock times use feminine ordinals because godzina (hour) is feminine: o pierwszej (at one), o drugiej (at two), o trzeciej (at three).",
+  "src": {
+    "t": "Oscar E. Swan, Polish-English Dictionary (University of Pittsburgh)",
+    "u": "https://lektorek.org/polish/"
+  },
+  "items": [
+    {
+      "c": "dzień",
+      "a": "day",
+      "d": [
+        "night",
+        "week"
+      ],
+      "ex": "Miłego dnia!",
+      "exT": "Have a nice day!"
+    },
+    {
+      "c": "noc",
+      "a": "night",
+      "d": [
+        "day",
+        "evening"
+      ]
+    },
+    {
+      "c": "czas",
+      "a": "time",
+      "d": [
+        "hour",
+        "weather"
+      ],
+      "ex": "Nie mam czasu.",
+      "exT": "I don't have time."
+    },
+    {
+      "c": "rok",
+      "a": "year",
+      "d": [
+        "month",
+        "week"
+      ]
+    },
+    {
+      "c": "tydzień",
+      "a": "week",
+      "d": [
+        "month",
+        "weekend"
+      ]
+    },
+    {
+      "c": "dzisiaj",
+      "a": "today",
+      "d": [
+        "tomorrow",
+        "yesterday"
+      ],
+      "ex": "Dzisiaj jest poniedziałek.",
+      "exT": "Today is Monday."
+    },
+    {
+      "c": "jutro",
+      "a": "tomorrow",
+      "d": [
+        "today",
+        "yesterday"
+      ],
+      "ex": "Do zobaczenia jutro!",
+      "exT": "See you tomorrow!"
+    },
+    {
+      "c": "wczoraj",
+      "a": "yesterday",
+      "d": [
+        "tomorrow",
+        "today"
+      ]
+    },
+    {
+      "c": "poniedziałek (m)",
+      "a": "Monday",
+      "d": [
+        "Tuesday",
+        "Sunday"
+      ],
+      "say": "poniedziałek"
+    },
+    {
+      "c": "wtorek (m)",
+      "a": "Tuesday",
+      "d": [
+        "Thursday",
+        "Monday"
+      ],
+      "say": "wtorek"
+    },
+    {
+      "c": "środa (f)",
+      "a": "Wednesday",
+      "d": [
+        "Saturday",
+        "Thursday"
+      ],
+      "say": "środa"
+    },
+    {
+      "c": "czwartek (m)",
+      "a": "Thursday",
+      "d": [
+        "Tuesday",
+        "Friday"
+      ],
+      "say": "czwartek"
+    },
+    {
+      "c": "piątek (m)",
+      "a": "Friday",
+      "d": [
+        "Thursday",
+        "Saturday"
+      ],
+      "say": "piątek"
+    },
+    {
+      "c": "sobota (f)",
+      "a": "Saturday",
+      "d": [
+        "Sunday",
+        "Wednesday"
+      ],
+      "say": "sobota"
+    },
+    {
+      "c": "niedziela (f)",
+      "a": "Sunday",
+      "d": [
+        "Monday",
+        "Saturday"
+      ],
+      "say": "niedziela"
+    },
+    {
+      "c": "miesiąc (m)",
+      "a": "month",
+      "d": [
+        "week",
+        "year"
+      ],
+      "say": "miesiąc"
+    },
+    {
+      "c": "godzina (f)",
+      "a": "hour",
+      "d": [
+        "minute",
+        "day"
+      ],
+      "say": "godzina"
+    },
+    {
+      "c": "minuta (f)",
+      "a": "minute",
+      "d": [
+        "second",
+        "hour"
+      ],
+      "say": "minuta"
+    },
+    {
+      "c": "Która (jest) godzina?",
+      "a": "What time is it?",
+      "d": [
+        "What day is it?",
+        "How long does it take?"
+      ],
+      "say": "Która jest godzina?"
+    },
+    {
+      "c": "Jest druga.",
+      "a": "It's two o'clock.",
+      "d": [
+        "It's twelve o'clock.",
+        "It's Tuesday."
+      ]
+    },
+    {
+      "c": "O której?",
+      "a": "At what time?",
+      "d": [
+        "On which day?",
+        "For how long?"
+      ],
+      "ex": "O której jest obiad?",
+      "exT": "What time is the main meal?"
+    },
+    {
+      "c": "rano",
+      "a": "in the morning",
+      "d": [
+        "in the evening",
+        "at night"
+      ]
+    },
+    {
+      "c": "wieczorem",
+      "a": "in the evening",
+      "d": [
+        "in the morning",
+        "at noon"
+      ]
+    },
+    {
+      "c": "teraz",
+      "a": "now",
+      "d": [
+        "later",
+        "soon"
+      ]
+    },
+    {
+      "c": "weekend (m)",
+      "a": "weekend",
+      "d": [
+        "weekday",
+        "holiday"
+      ],
+      "say": "weekend"
+    },
+    {
+      "c": "w ___ (środa)",
+      "a": "środę",
+      "d": [
+        "środa",
+        "środzie"
+      ],
+      "ex": "W środę mam lekcję.",
+      "exT": "On Wednesday I have a lesson."
+    },
+    {
+      "c": "W ___ nie pracuję. (niedziela)",
+      "a": "niedzielę",
+      "d": [
+        "niedziela",
+        "niedzieli"
+      ],
+      "ex": "W niedzielę nie pracuję.",
+      "exT": "I don't work on Sunday."
+    },
+    {
+      "c": "___ wtorek (on Tuesday)",
+      "a": "we",
+      "d": [
+        "na",
+        "o"
+      ],
+      "ex": "we wtorek",
+      "exT": "on Tuesday"
+    },
+    {
+      "c": "Film jest o ___. (at two)",
+      "a": "drugiej",
+      "d": [
+        "dwa",
+        "druga"
+      ],
+      "ex": "Film jest o drugiej.",
+      "exT": "The film is at two."
+    },
+    {
+      "c": "Spotkanie jest o ___. (at one)",
+      "a": "pierwszej",
+      "d": [
+        "jeden",
+        "pierwsza"
+      ],
+      "ex": "Spotkanie jest o pierwszej.",
+      "exT": "The meeting is at one."
+    }
+  ],
+  "read": {
+    "title": "Mój tydzień",
+    "text": [
+      "Mam na imię Kasia. W poniedziałek, we wtorek i w środę pracuję. Pracuję od ósmej rano do czwartej. W czwartek mam lekcję polskiego o piątej.",
+      "W piątek wieczorem jem kolację z rodziną. W sobotę rano piję kawę i czytam książkę. W niedzielę jestem w domu z mamą i tatą. Jemy obiad o drugiej.",
+      "Teraz jest niedziela, jest pierwsza. Jutro jest poniedziałek i znowu praca!"
+    ],
+    "q": [
+      {
+        "q": "On which days does Kasia work?",
+        "o": [
+          "Thursday and Friday",
+          "Every day",
+          "Monday to Wednesday"
+        ],
+        "k": 2
+      },
+      {
+        "q": "When is Kasia's Polish lesson?",
+        "o": [
+          "Thursday at five",
+          "Friday evening",
+          "Saturday morning"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What time does the family eat on Sunday?",
+        "o": [
+          "At one",
+          "At two",
+          "At four"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

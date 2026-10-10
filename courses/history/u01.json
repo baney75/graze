@@ -1,0 +1,53 @@
+{
+  "title": "Early humans and the first civilizations",
+  "note": "Farming began about 12,000 years ago and let people settle in one place. In fertile river valleys (the Tigris and Euphrates, the Nile, the Indus and the Yellow River) surplus food supported cities, rulers, priests, writing and trade: the marks of civilization.",
+  "src": { "t": "OpenStax World History Vol. 1, Ch. 2 to 3", "u": "https://openstax.org/books/world-history-volume-1/pages/3-introduction" },
+  "items": [
+    { "c": "Continent where Homo sapiens first evolved", "a": "Africa", "d": ["Europe", "East Asia", "South America"] },
+    { "c": "Paleolithic Age", "a": "Old Stone Age of hunting and gathering", "d": ["New Stone Age of farming villages", "Age of the first bronze weapons"] },
+    { "c": "Neolithic Revolution", "a": "The shift from foraging to farming and herding", "d": ["The shift from bronze to iron tools", "The shift from city-states to empires"] },
+    { "c": "Fertile Crescent", "a": "Arc of farmland from the Levant to Mesopotamia", "d": ["River delta at the mouth of the Nile", "Plain between the Indus and the Ganges"], "ex": "Wheat and barley were first domesticated here." },
+    { "c": "Çatalhöyük", "a": "Large Neolithic town in Anatolia (Turkey)", "d": ["Bronze Age port on the island of Crete", "Indus valley city with a great bath"] },
+    { "c": "Main result of a food surplus", "a": "People could specialize in jobs besides farming", "d": ["People returned to hunting and gathering", "Cities shrank as villages spread"] },
+    { "c": "\"Mesopotamia\" means", "a": "Land between the rivers", "d": ["Land of the two kingdoms", "Land of the rising sun"] },
+    { "c": "Rivers of Mesopotamia", "a": "Tigris and Euphrates", "d": ["Nile and Jordan", "Indus and Ganges", "Yellow and Yangtze"] },
+    { "c": "Sumer", "a": "Region of the first city-states, southern Mesopotamia", "d": ["Kingdom of the pharaohs along the upper Nile", "Bronze Age culture on the island of Crete"] },
+    { "c": "Cuneiform", "a": "Wedge-shaped writing pressed into clay", "d": ["Picture writing painted on papyrus", "Knotted cords used to keep records"] },
+    { "c": "Ziggurat", "a": "Stepped temple tower of Mesopotamia", "d": ["Stone tomb of an Egyptian pharaoh", "Walled citadel of an Indus city"] },
+    { "c": "Epic of Gilgamesh", "a": "Mesopotamian epic about a king of Uruk", "d": ["Egyptian guide to the afterlife", "Greek poem about the Trojan War"] },
+    { "c": "Sargon of Akkad", "a": "Built the first empire, c. 2300 BCE", "d": ["Issued a famous law code, c. 1750 BCE", "Unified Upper and Lower Egypt"] },
+    { "c": "Hammurabi", "a": "Babylonian king known for a written law code", "d": ["Assyrian king who destroyed Babylon", "Persian king who freed the Jews"] },
+    { "c": "Bronze", "a": "An alloy of copper and tin", "d": ["An alloy of iron and carbon", "An alloy of copper and zinc"] },
+    { "c": "River whose yearly flood fed Egyptian farms", "a": "The Nile", "d": ["The Euphrates", "The Jordan", "The Indus"] },
+    { "c": "Pharaoh", "a": "Egyptian king seen as divine", "d": ["Egyptian high priest of Amon", "Governor of an Egyptian province"] },
+    { "c": "Hieroglyphics", "a": "Egyptian script of pictorial signs", "d": ["Sumerian script of wedge marks", "Phoenician script of 22 letters"] },
+    { "c": "Papyrus", "a": "Writing material made from a Nile reed", "d": ["Writing material made from calf skin", "Writing material made from clay"] },
+    { "c": "Unification of Upper and Lower Egypt", "a": "c. 3100 BCE", "d": ["c. 2300 BCE", "c. 1500 BCE", "c. 750 BCE"] },
+    { "c": "Egyptian period known for the great pyramids", "a": "The Old Kingdom", "d": ["The New Kingdom", "The Third Intermediate Period"] },
+    { "c": "Great Pyramid of Giza was built for", "a": "Pharaoh Khufu", "d": ["Pharaoh Ramesses II", "Pharaoh Tutankhamun", "Pharaoh Akhenaten"] },
+    { "c": "Why Egyptians mummified the dead", "a": "To preserve the body for the afterlife", "d": ["To prevent disease from spreading", "To honor the god of the harvest"] },
+    { "c": "Hatshepsut", "a": "Female pharaoh known for trade and building", "d": ["Queen of Kush who conquered Egypt", "Wife of the pharaoh Akhenaten"] },
+    { "c": "Harappa and Mohenjo-Daro", "a": "Cities of the Indus valley civilization", "d": ["Cities of Shang dynasty China", "Cities of Sumer in Mesopotamia"] },
+    { "c": "Indus valley cities stand out for their", "a": "Grid streets and covered drains", "d": ["Stepped pyramids and sun temples", "Royal palaces and giant tombs"] },
+    { "c": "Status of the Indus valley script today", "a": "It has not been deciphered", "d": ["It was read using a bilingual stone", "It is an early form of Sanskrit"] },
+    { "c": "Height of the Indus valley civilization", "a": "c. 2600 to 1900 BCE", "d": ["c. 1200 to 600 BCE", "c. 500 BCE to 200 CE"] },
+    { "c": "River valley where Shang China arose", "a": "The Yellow River (Huang He)", "d": ["The Mekong River", "The Indus River"] },
+    { "c": "Oracle bones", "a": "Shang divination bones with early Chinese writing", "d": ["Bronze vessels used in Zhou ancestor rites", "Clay tablets recording Sumerian trade"] },
+    { "c": "Cyrus the Great", "a": "Founder of the Persian Empire", "d": ["Founder of the Assyrian Empire", "King who unified the Greeks"] },
+    { "c": "Satrap", "a": "Governor of a Persian province", "d": ["Priest of a Sumerian temple", "Scribe at the court of a pharaoh"] },
+    { "c": "Faith of the ancient Hebrews", "a": "Worship of one God (monotheism)", "d": ["Worship of the sun as chief god", "Worship of many nature spirits"] }
+  ],
+  "read": {
+    "title": "From villages to cities",
+    "text": [
+      "For most of the human past, people lived in small bands that hunted animals and gathered wild plants. About 12,000 years ago, in the Fertile Crescent of southwest Asia, some groups began planting wheat and barley and keeping sheep and goats. Farming spread and also began on its own in other regions, including China, Mexico and New Guinea. Historians call this change the Neolithic Revolution.",
+      "Farming produced more food than hunting, and a surplus changed everything. Villages grew into towns. Not everyone had to farm, so some people became potters, metalworkers, priests, soldiers and scribes. Leaders organized labor to dig canals and build walls and temples.",
+      "The first cities rose in river valleys where floods left rich soil. In Sumer, between the Tigris and Euphrates, city-states such as Uruk and Ur built ziggurats and kept records in cuneiform. Along the Nile, Egypt became one kingdom ruled by a pharaoh and built the pyramids. In the Indus valley, planned cities like Mohenjo-Daro had grid streets and drains. On the Yellow River, the Shang kings wrote questions to their ancestors on oracle bones. Writing, cities, specialized work and organized government are the features historians use to define a civilization."
+    ],
+    "q": [
+      { "q": "What made it possible for some people to stop farming and take other jobs?", "o": ["A food surplus", "The invention of writing", "The arrival of nomads", "A drop in population"], "k": 0 },
+      { "q": "What did all four early civilizations in the reading have in common?", "o": ["They grew up in fertile river valleys", "They were ruled by the same dynasty", "They all used cuneiform", "They were founded by hunters from Europe"], "k": 0 },
+      { "q": "Where did the Shang kings record questions to their ancestors?", "o": ["On oracle bones", "On clay tablets", "On papyrus scrolls", "On temple walls"], "k": 0 }
+    ]
+  }
+}

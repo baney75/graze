@@ -1,0 +1,53 @@
+{
+  "title": "Modern physics: relativity, quanta, atoms, nuclei",
+  "note": "Special relativity starts from two postulates: physics is the same in every inertial frame, and light's speed is c for all observers. Quantum physics adds that light and matter come in discrete packets: photons carry E = hf, atoms have discrete energy levels, and unstable nuclei decay with a fixed half-life.",
+  "src": { "t": "College Physics 2e, Ch. 29 Introduction to Quantum Physics", "u": "https://openstax.org/books/college-physics-2e/pages/29-introduction-to-quantum-physics" },
+  "items": [
+    { "c": "Two postulates of special relativity", "a": "same laws in all inertial frames; c same for all observers", "d": ["time is absolute; light speed depends on the source", "only Earth's frame is inertial; c is constant there"] },
+    { "c": "Lorentz factor γ", "a": "1/√(1 − v²/c²)", "d": ["√(1 − v²/c²)", "1/(1 − v/c)", "1 − v²/c²"] },
+    { "c": "Time dilation", "a": "Δt = γΔt₀", "d": ["Δt = Δt₀/γ", "Δt = γ²Δt₀", "Δt = Δt₀ − γ"] },
+    { "c": "Proper time", "a": "time measured where both events occur at one place", "d": ["time measured by any stationary observer", "time measured by the fastest observer"] },
+    { "c": "A clock moving relative to you runs", "a": "slow, as you measure it", "d": ["fast, as you measure it", "at exactly your rate"] },
+    { "c": "Length contraction", "a": "L = L₀/γ", "d": ["L = γL₀", "L = L₀ − γ", "L = γ²L₀"] },
+    { "c": "Rest energy of a mass m", "a": "E₀ = mc²", "d": ["E₀ = ½mc²", "E₀ = mc", "E₀ = γmv"] },
+    { "c": "Total relativistic energy", "a": "E = γmc²", "d": ["E = mc² + γ", "E = ½γmv²", "E = mc²/γ"] },
+    { "c": "Can an object with mass reach speed c?", "a": "no; it would need infinite energy", "d": ["yes, with enough fuel", "yes, but only briefly"] },
+    { "c": "Photon energy", "a": "E = hf", "d": ["E = h/f", "E = hλ", "E = ½hf²"] },
+    { "c": "Planck's constant h", "a": "6.63 × 10⁻³⁴ J·s", "d": ["6.63 × 10³⁴ J·s", "1.38 × 10⁻²³ J·s", "6.67 × 10⁻¹¹ J·s"] },
+    { "c": "Key photoelectric-effect observation", "a": "electron energy depends on light's frequency, not intensity", "d": ["electron energy depends on light's intensity, not frequency", "any color ejects electrons if bright enough"] },
+    { "c": "Photoelectric equation", "a": "KE_max = hf − φ, where φ is the work function", "d": ["KE_max = hf + φ, where φ is the work function", "KE_max = φ − hf, where φ is the work function"] },
+    { "c": "Photon momentum", "a": "p = h/λ", "d": ["p = hλ", "p = mc", "p = hf"] },
+    { "c": "de Broglie wavelength of a particle", "a": "λ = h/p", "d": ["λ = hp", "λ = p/h", "λ = h/E"] },
+    { "c": "Heisenberg position–momentum uncertainty", "a": "Δx·Δp ≥ h/4π", "d": ["Δx·Δp ≤ h/4π", "Δx/Δp ≥ h/4π", "Δx + Δp ≥ h"] },
+    { "c": "Rutherford's gold-foil experiment revealed", "a": "a tiny, dense, positive nucleus", "d": ["electrons spread through a positive pudding", "that atoms are indivisible"] },
+    { "c": "Bohr energy levels of hydrogen", "a": "Eₙ = −13.6 eV/n²", "d": ["Eₙ = −13.6 eV·n²", "Eₙ = −13.6 eV/n", "Eₙ = +13.6 eV/n²"] },
+    { "c": "Energy to ionize hydrogen from its ground state", "a": "13.6 eV", "d": ["1.6 eV", "136 eV", "3.4 eV"] },
+    { "c": "Photon emitted when an electron drops a level", "a": "carries energy E_initial − E_final", "d": ["carries energy E_initial + E_final", "carries the electron's full kinetic energy"] },
+    { "c": "Particles that make up a nucleus", "a": "protons and neutrons", "d": ["protons and electrons", "neutrons and electrons", "only protons"] },
+    { "c": "Isotopes of an element", "a": "same proton number, different neutron number", "d": ["same neutron number, different proton number", "same mass number, different proton number"] },
+    { "c": "Force that binds nucleons together", "a": "the strong nuclear force", "d": ["the weak nuclear force", "the electromagnetic force", "gravity"] },
+    { "c": "Mass defect of a nucleus", "a": "nucleus is lighter than its separate nucleons", "d": ["nucleus is heavier than its separate nucleons", "electrons add mass to the nucleus"] },
+    { "c": "Binding energy per nucleon peaks", "a": "for nuclei near iron", "d": ["for hydrogen", "for uranium", "for helium"] },
+    { "c": "Alpha particle", "a": "a helium-4 nucleus", "d": ["a fast electron", "a high-energy photon", "a free neutron"] },
+    { "c": "Beta-minus decay", "a": "a neutron becomes a proton, electron, and antineutrino", "d": ["a proton becomes a neutron and positron", "the nucleus emits a helium nucleus"] },
+    { "c": "Gamma ray", "a": "high-energy photon emitted by a nucleus", "d": ["fast electron emitted by a nucleus", "helium nucleus emitted by a nucleus"] },
+    { "c": "Half-life", "a": "time for half of a radioactive sample to decay", "d": ["half the time for a whole sample to decay", "time for activity to double"] },
+    { "c": "Fraction left after three half-lives", "a": "1/8", "d": ["1/3", "1/6", "1/9"] },
+    { "c": "Radioactive decay law", "a": "N = N₀e^(−λt)", "d": ["N = N₀e^(λt)", "N = N₀(1 − λt)", "N = N₀/λt"] },
+    { "c": "Nuclear fission", "a": "a heavy nucleus splits into lighter ones", "d": ["light nuclei fuse into a heavier one", "a nucleus emits only a photon"] },
+    { "c": "The process that powers the Sun", "a": "nuclear fusion of hydrogen into helium", "d": ["nuclear fission of uranium", "chemical burning of hydrogen"] }
+  ],
+  "read": {
+    "title": "Where classical physics ends",
+    "text": [
+      "By 1900 physics seemed nearly complete, yet two puzzles broke it open. The first was light's speed. Einstein took the experimental result seriously: every observer measures the same c, whatever their motion. Combined with the rule that physics works the same in every inertial frame, this forces time and space to adjust. Moving clocks run slow, moving objects are shorter along their motion, and mass and energy become interchangeable through E = mc². None of this is noticeable at everyday speeds, but GPS satellites must correct for relativity to stay accurate.",
+      "The second puzzle concerned light and matter at small scales. In the photoelectric effect, light ejects electrons from a metal, but only if its frequency is high enough; making dim red light brighter never works. Einstein explained this with photons, packets of energy hf. Atoms likewise absorb and emit only specific energies, because electrons occupy discrete levels, which is why each element has its own spectral fingerprint. Particles even have wavelengths, λ = h/p.",
+      "Deeper still, the nucleus holds protons and neutrons together with the strong force. Unstable nuclei decay at random, yet a large sample loses half its nuclei every half-life. Splitting heavy nuclei or fusing light ones releases energy, because the products are more tightly bound."
+    ],
+    "q": [
+      { "q": "Why does brighter red light fail to eject electrons in the photoelectric effect?", "o": ["Each photon's energy depends on frequency, not brightness", "Red light has no energy", "Bright light cools the metal"], "k": 0 },
+      { "q": "Why does each element have its own spectrum?", "o": ["Its electrons occupy discrete energy levels", "Its nucleus emits every frequency", "Its atoms move at different speeds"], "k": 0 },
+      { "q": "Why do fission and fusion both release energy?", "o": ["The products are more tightly bound", "They create new mass", "They speed up time"], "k": 0 }
+    ]
+  }
+}

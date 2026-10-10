@@ -1,0 +1,49 @@
+{
+  "title": "Maneuver warfare and the OODA loop",
+  "note": "Attrition warfare wins by wearing down the enemy's forces; maneuver warfare tries to shatter the enemy's cohesion through speed, surprise and attacks on weakness. US Air Force colonel John Boyd described conflict as a contest of decision cycles, Observe, Orient, Decide, Act, in which the side that cycles faster and orients better pulls the rival into confusion.",
+  "src": { "t": "John R. Boyd, A Discourse on Winning and Losing, ed. Grant T. Hammond, Air University Press (2018)", "u": "https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0151_Boyd_Discourse_Winning_Losing.pdf" },
+  "items": [
+    { "c": "OODA stands for", "a": "Observe, Orient, Decide, Act", "d": ["Organize, Operate, Defend, Attack", "Observe, Outflank, Destroy, Advance"] },
+    { "c": "Creator of the OODA loop", "a": "John Boyd", "d": ["J. F. C. Fuller", "Heinz Guderian"] },
+    { "c": "John Boyd's service", "a": "US Air Force fighter pilot and colonel", "d": ["US Navy submarine captain", "US Army tank commander"] },
+    { "c": "Boyd's aim against an adversary's decision cycle", "a": "Get inside it, acting faster than he can adapt", "d": ["Copy it exactly to predict him", "Wait for it to finish, then strike"] },
+    { "c": "Boyd's goal inside the enemy's loop", "a": "Collapse him into confusion and disorder", "d": ["Win his sympathy and support", "Trade blows until one side runs out"] },
+    { "c": "OODA step Boyd treated as most important", "a": "Orient", "d": ["Observe", "Act"], "ex": "Orientation, shaped by culture, experience and new information, filters what we see and decide." },
+    { "c": "Boyd's best-known briefing on the history of war", "a": "Patterns of Conflict", "d": ["Destruction and Creation", "The Indirect Approach"] },
+    { "c": "Boyd's 1976 essay on how minds build concepts", "a": "Destruction and Creation", "d": ["Patterns of Conflict", "The Command of the Air"] },
+    { "c": "Boyd's theory comparing fighter performance", "a": "Energy-maneuverability theory", "d": ["Lanchester's square law", "Mahan's sea power theory"] },
+    { "c": "Fighter aircraft Boyd helped shape", "a": "The F-15 and F-16", "d": ["The P-51 and Spitfire", "The B-52 and B-1"] },
+    { "c": "Attrition warfare", "a": "Winning by wearing down the enemy's forces and resources", "d": ["Winning by shattering the enemy's cohesion", "Winning through a single surprise raid"] },
+    { "c": "Maneuver warfare", "a": "Shattering enemy cohesion by rapid, unexpected action", "d": ["Destroying enemy forces one by one", "Holding ground with fixed fortifications"] },
+    { "c": "\"Surfaces and gaps\"", "a": "Avoid enemy strengths, exploit his weaknesses", "d": ["Attack only along open roads", "Hold the high ground and the valleys"] },
+    { "c": "Auftragstaktik (mission-type tactics)", "a": "Subordinates get the goal and choose the method", "d": ["Every move is ordered in detail from above", "Units fight only on written orders"] },
+    { "c": "Commander's intent", "a": "The purpose and desired end state behind orders", "d": ["A commander's private plan kept from staff", "The exact timetable of every unit"] },
+    { "c": "Schwerpunkt", "a": "The focal point of the main effort", "d": ["A fortified defensive line", "A reserve held far to the rear"] },
+    { "c": "Blitzkrieg", "a": "German fast war of tanks, motorized troops and aircraft", "d": ["French fortress line on the German border", "British naval blockade of Germany"] },
+    { "c": "1940 German breakthrough route into France", "a": "Through the Ardennes forest", "d": ["Along the Maginot Line", "Across the English Channel"] },
+    { "c": "German general who championed armored warfare", "a": "Heinz Guderian", "d": ["Erich Ludendorff", "Alfred von Schlieffen"] },
+    { "c": "Liddell Hart's \"indirect approach\"", "a": "Strike along the line of least expectation", "d": ["Mass everything for a frontal blow", "Defend until the enemy is exhausted"] },
+    { "c": "Soviet interwar theory of attacking at depth", "a": "Deep battle", "d": ["Active defense", "Flexible response"] },
+    { "c": "1918 German method to break trench lines", "a": "Stormtroop infiltration tactics", "d": ["Massed cavalry charges", "Poison gas without infantry"] },
+    { "c": "Kesselschlacht", "a": "A battle of encirclement (cauldron battle)", "d": ["A battle of attrition in trenches", "A naval battle of fleets in line"] },
+    { "c": "US Army doctrine of 1982 stressing depth", "a": "AirLand Battle", "d": ["Massive Retaliation", "Shock and Awe"] },
+    { "c": "1989 Marine manual adopting maneuver warfare", "a": "FMFM 1, Warfighting", "d": ["FM 100-5, Operations", "The Small Wars Manual"] },
+    { "c": "Combined arms", "a": "Using different arms together so each covers others' weaknesses", "d": ["Arming every soldier with the same weapon", "Combining two allied armies under one flag"] },
+    { "c": "Defeat in detail", "a": "Beating an enemy's separated parts one at a time", "d": ["Analyzing a defeat in a written report", "Losing a battle by small mistakes"] },
+    { "c": "Moltke the Elder on plans", "a": "No plan survives contact with the enemy's main force", "d": ["Every plan must be followed to the letter", "The best plan is the longest one"] },
+    { "c": "\"Recon pull\"", "a": "Scouts find gaps and the force flows through them", "d": ["Headquarters pushes units along a fixed plan", "Recalling scouts before the attack"] }
+  ],
+  "read": {
+    "title": "Faster loops",
+    "text": [
+      "John Boyd flew fighters for the US Air Force and later taught air combat, where he noticed that the winner was often the pilot who could change what he was doing faster than his opponent could follow. He generalized the idea into a loop of four steps: observe the situation, orient to it, decide, and act. Every person and organization runs this loop, and each action changes the situation, so the loop begins again.",
+      "Boyd argued that the side able to run the loop faster, and with better orientation, gains a growing advantage. Orientation is the heart of the loop: our culture, training, past experience and analysis shape what we notice and how we interpret it. An opponent whose picture of events keeps falling behind reality acts on outdated assumptions, grows confused and may finally lose cohesion altogether.",
+      "This thinking fed the doctrine of maneuver warfare, which seeks to win by disrupting an enemy's system rather than by grinding down every unit. It favors speed, surprise, attacks on weakness rather than strength, and subordinates trusted to act on their commander's intent. Businesses and sports teams borrowed the same idea: the competitor who learns and adapts fastest often wins."
+    ],
+    "q": [
+      { "q": "Where did Boyd first notice the advantage of faster change?", "o": ["In air-to-air combat", "In naval gunnery", "In chess tournaments"], "k": 0 },
+      { "q": "Why does the reading call orientation the heart of the loop?", "o": ["It is the fastest step", "It shapes what we notice and how we interpret it", "It can be skipped under pressure"], "k": 1 },
+      { "q": "What happens to an opponent whose picture falls behind reality?", "o": ["He gains surprise", "He becomes more cautious and safe", "He acts on outdated assumptions and grows confused"], "k": 2 }
+    ]
+  }
+}

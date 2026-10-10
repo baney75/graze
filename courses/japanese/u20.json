@@ -1,0 +1,312 @@
+{
+  "title": "Question words, connectors and frequency",
+  "note": "Question words sit where the answer would go, and the sentence ends in か: トイレはどこですか. A question word cannot take は; use が: だれが来ますか. あまり (not very) and 全然 (not at all) need a negative verb: あまり食べません. から after a clause gives a reason: 寒いですから.",
+  "src": {
+    "t": "Tae Kim's Guide to Learning Japanese",
+    "u": "https://guidetojapanese.org/learn/grammar"
+  },
+  "items": [
+    {
+      "c": "何",
+      "r": "nani / nan",
+      "a": "what",
+      "d": [
+        "who",
+        "which"
+      ],
+      "ex": "(なん) これは何ですか。",
+      "exT": "What is this?"
+    },
+    {
+      "c": "だれ",
+      "r": "dare",
+      "a": "who",
+      "d": [
+        "what",
+        "where"
+      ]
+    },
+    {
+      "c": "どこ",
+      "r": "doko",
+      "a": "where",
+      "d": [
+        "when",
+        "who"
+      ]
+    },
+    {
+      "c": "いつ",
+      "r": "itsu",
+      "a": "when",
+      "d": [
+        "where",
+        "how"
+      ]
+    },
+    {
+      "c": "どう",
+      "r": "dō",
+      "a": "how; how about",
+      "d": [
+        "why",
+        "which"
+      ],
+      "ex": "日本の生活はどうですか。",
+      "exT": "How is life in Japan?"
+    },
+    {
+      "c": "どれ",
+      "r": "dore",
+      "a": "which one (of three or more)",
+      "d": [
+        "which (of two)",
+        "where (place)"
+      ]
+    },
+    {
+      "c": "どちら",
+      "r": "dochira",
+      "a": "which (of two); where (polite)",
+      "d": [
+        "which one (of three or more)",
+        "who (polite)"
+      ]
+    },
+    {
+      "c": "どの",
+      "r": "dono",
+      "a": "which (+ noun)",
+      "d": [
+        "this (+ noun)",
+        "what kind of"
+      ]
+    },
+    {
+      "c": "どうして",
+      "r": "dōshite",
+      "a": "why",
+      "d": [
+        "how",
+        "when"
+      ]
+    },
+    {
+      "c": "どんな",
+      "r": "donna",
+      "a": "what kind of",
+      "d": [
+        "which one",
+        "how much"
+      ],
+      "ex": "どんな音楽が好きですか。",
+      "exT": "What kind of music do you like?"
+    },
+    {
+      "c": "誕生日",
+      "r": "tanjōbi",
+      "a": "birthday",
+      "d": [
+        "holiday",
+        "anniversary"
+      ]
+    },
+    {
+      "c": "そして",
+      "r": "soshite",
+      "a": "and, and then",
+      "d": [
+        "but",
+        "because"
+      ]
+    },
+    {
+      "c": "でも",
+      "r": "demo",
+      "a": "but, however",
+      "d": [
+        "and then",
+        "so"
+      ],
+      "ex": "日本語は難しいです。でも、面白いです。",
+      "exT": "Japanese is hard. But it's interesting."
+    },
+    {
+      "c": "それから",
+      "r": "sorekara",
+      "a": "after that, and also",
+      "d": [
+        "before that",
+        "however"
+      ]
+    },
+    {
+      "c": "〜から (after a reason)",
+      "r": "kara",
+      "say": "から",
+      "a": "because, so",
+      "d": [
+        "but, although",
+        "until"
+      ],
+      "ex": "寒いですから、コートを着ます。",
+      "exT": "It's cold, so I'll wear a coat."
+    },
+    {
+      "c": "〜が (between two clauses)",
+      "r": "ga",
+      "say": "が",
+      "a": "but (joins two clauses)",
+      "d": [
+        "because (joins two clauses)",
+        "and then (joins two clauses)"
+      ]
+    },
+    {
+      "c": "や (肉や魚)",
+      "r": "ya (niku ya sakana)",
+      "say": "肉や魚",
+      "a": "and (among other things)",
+      "d": [
+        "or (one of two only)",
+        "with (a person)"
+      ]
+    },
+    {
+      "c": "いつも",
+      "r": "itsumo",
+      "a": "always",
+      "d": [
+        "sometimes",
+        "never"
+      ],
+      "ex": "いつも七時に起きます。",
+      "exT": "I always get up at seven."
+    },
+    {
+      "c": "よく",
+      "r": "yoku",
+      "a": "often; well",
+      "d": [
+        "rarely; badly",
+        "always; never"
+      ]
+    },
+    {
+      "c": "ときどき",
+      "r": "tokidoki",
+      "a": "sometimes",
+      "d": [
+        "always",
+        "often"
+      ],
+      "ex": "ときどき映画を見ます。",
+      "exT": "I sometimes watch movies."
+    },
+    {
+      "c": "あまり (+ negative)",
+      "r": "amari",
+      "say": "あまり",
+      "a": "not very, not much",
+      "d": [
+        "not at all",
+        "very much"
+      ]
+    },
+    {
+      "c": "全然 (+ negative)",
+      "r": "zenzen",
+      "say": "全然",
+      "a": "not at all",
+      "d": [
+        "not very",
+        "a little"
+      ]
+    },
+    {
+      "c": "たいてい",
+      "r": "taitei",
+      "a": "usually",
+      "d": [
+        "rarely",
+        "once"
+      ]
+    },
+    {
+      "c": "もう",
+      "r": "mō",
+      "a": "already; (not) anymore",
+      "d": [
+        "not yet; still",
+        "again"
+      ]
+    },
+    {
+      "c": "まだ",
+      "r": "mada",
+      "a": "still; not yet",
+      "d": [
+        "already",
+        "soon"
+      ]
+    },
+    {
+      "c": "これは何ですか。",
+      "r": "Kore wa nan desu ka.",
+      "a": "What is this?",
+      "d": [
+        "Whose is this?",
+        "Where is this?"
+      ]
+    },
+    {
+      "c": "私はあまり肉を食べ___。",
+      "r": "Watashi wa amari niku o tabe___.",
+      "a": "ません",
+      "d": [
+        "ます",
+        "ましょう"
+      ],
+      "ex": "私はあまり肉を食べません。",
+      "exT": "I don't eat much meat."
+    },
+    {
+      "c": "___が田中さんですか。",
+      "r": "___ ga Tanaka-san desu ka.",
+      "a": "だれ",
+      "d": [
+        "どこ",
+        "いつ"
+      ]
+    },
+    {
+      "c": "トイレは___ですか。",
+      "r": "Toire wa ___ desu ka.",
+      "a": "どこ",
+      "d": [
+        "だれ",
+        "いつ"
+      ]
+    },
+    {
+      "c": "誕生日は___ですか。",
+      "r": "Tanjōbi wa ___ desu ka.",
+      "a": "いつ",
+      "d": [
+        "だれ",
+        "どれ"
+      ],
+      "ex": "誕生日はいつですか。",
+      "exT": "When is your birthday?"
+    },
+    {
+      "c": "日本語は難しいです。___、面白いです。",
+      "r": "Nihongo wa muzukashii desu. ___, omoshiroi desu.",
+      "a": "でも",
+      "d": [
+        "だから",
+        "どうして"
+      ]
+    }
+  ]
+}

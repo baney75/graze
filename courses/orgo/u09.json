@@ -1,0 +1,252 @@
+{
+  "title": "Alkynes",
+  "note": "Terminal alkynes (pKa about 25) are deprotonated by NaNH₂, and the acetylide ion alkylates methyl and primary halides by SN2, building longer chains. Hydration gives an enol that tautomerizes to a ketone (HgSO₄, Markovnikov) or to an aldehyde (hydroboration). Reduction stops at a cis alkene with Lindlar's catalyst and a trans alkene with Na in NH₃.",
+  "src": {
+    "t": "LibreTexts, Organic Chemistry (Morsch et al.), Ch. 9 Alkynes: An Introduction to Organic Synthesis",
+    "u": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/09%3A_Alkynes_-_An_Introduction_to_Organic_Synthesis"
+  },
+  "items": [
+    {
+      "c": "General formula of an acyclic alkyne",
+      "a": "CₙH₂ₙ₋₂",
+      "d": [
+        "CₙH₂ₙ",
+        "CₙH₂ₙ₊₂"
+      ]
+    },
+    {
+      "c": "HC≡CH, the simplest alkyne",
+      "a": "acetylene (ethyne)",
+      "d": [
+        "ethylene (ethene)",
+        "allene (propadiene)"
+      ]
+    },
+    {
+      "c": "H₂ (excess), Pd/C + alkyne",
+      "a": "alkane",
+      "d": [
+        "cis alkene",
+        "trans alkene"
+      ]
+    },
+    {
+      "c": "Lindlar’s catalyst",
+      "a": "alkyne → cis alkene",
+      "d": [
+        "alkyne → trans alkene",
+        "alkyne → alkane"
+      ]
+    },
+    {
+      "c": "Makeup of Lindlar's catalyst",
+      "a": "Pd on CaCO₃ poisoned with lead and quinoline",
+      "d": [
+        "Pt on carbon with excess H₂",
+        "Ni with sodium in ammonia"
+      ]
+    },
+    {
+      "c": "Na in liquid NH₃",
+      "a": "alkyne → trans alkene",
+      "d": [
+        "alkyne → cis alkene",
+        "alkyne → ketone"
+      ]
+    },
+    {
+      "c": "Intermediates in Na/NH₃ alkyne reduction",
+      "a": "radical anion, then vinyl radical and anion",
+      "d": [
+        "carbocation, then carbanion",
+        "cyclic mercurinium ion"
+      ]
+    },
+    {
+      "c": "H₂O, H₂SO₄, HgSO₄ + terminal alkyne",
+      "a": "methyl ketone (Markovnikov)",
+      "d": [
+        "aldehyde (anti-Markovnikov)",
+        "1,2-diol"
+      ]
+    },
+    {
+      "c": "R₂BH, then H₂O₂/NaOH + terminal alkyne",
+      "a": "aldehyde (anti-Markovnikov)",
+      "d": [
+        "methyl ketone (Markovnikov)",
+        "primary alcohol"
+      ],
+      "ex": "A bulky borane such as disiamylborane or 9-BBN adds only once."
+    },
+    {
+      "c": "First product of alkyne hydration",
+      "a": "an enol",
+      "d": [
+        "a geminal diol",
+        "an epoxide"
+      ]
+    },
+    {
+      "c": "Enol → ketone conversion",
+      "a": "keto–enol tautomerism",
+      "d": [
+        "hydride shift",
+        "dehydration"
+      ]
+    },
+    {
+      "c": "Favored tautomer for simple carbonyls",
+      "a": "the keto form",
+      "d": [
+        "the enol form",
+        "a 50:50 mixture"
+      ]
+    },
+    {
+      "c": "HBr (1 equiv) + terminal alkyne",
+      "a": "2-bromoalkene (Markovnikov)",
+      "d": [
+        "1-bromoalkene (anti-Markovnikov)",
+        "1-bromoalkane"
+      ]
+    },
+    {
+      "c": "HBr (2 equiv) + terminal alkyne",
+      "a": "geminal dibromide (both Br on C2)",
+      "d": [
+        "vicinal dibromide (Br on C1 and C2)",
+        "1,1-dibromoalkene"
+      ]
+    },
+    {
+      "c": "Br₂ (1 equiv) + alkyne",
+      "a": "dibromoalkene, mainly E (anti)",
+      "d": [
+        "dibromoalkene, only Z (syn)",
+        "geminal dibromide"
+      ]
+    },
+    {
+      "c": "Br₂ (2 equiv) + alkyne",
+      "a": "1,1,2,2-tetrabromoalkane",
+      "d": [
+        "1,2-dibromoalkene",
+        "1,1-dibromoalkane"
+      ]
+    },
+    {
+      "c": "O₃, then H₂O + internal alkyne",
+      "a": "two carboxylic acids",
+      "d": [
+        "two aldehydes",
+        "two ketones"
+      ]
+    },
+    {
+      "c": "O₃, then H₂O + terminal alkyne",
+      "a": "a carboxylic acid plus CO₂",
+      "d": [
+        "two aldehydes",
+        "a methyl ketone"
+      ]
+    },
+    {
+      "c": "NaNH₂ + terminal alkyne",
+      "a": "acetylide anion",
+      "d": [
+        "vinyl cation",
+        "enolate anion"
+      ]
+    },
+    {
+      "c": "Acetylide anion + CH₃Br",
+      "a": "longer internal alkyne by SN2",
+      "d": [
+        "alkene by E2",
+        "methyl ketone"
+      ]
+    },
+    {
+      "c": "Acetylide anion + tertiary alkyl halide",
+      "a": "E2 elimination, not substitution",
+      "d": [
+        "SN2 substitution, longer alkyne",
+        "SN1 substitution"
+      ]
+    },
+    {
+      "c": "Propyne → 2-hexyne: reagents",
+      "a": "NaNH₂, then 1-bromopropane",
+      "d": [
+        "NaNH₂, then 2-bromopropane",
+        "HBr, then propane"
+      ]
+    },
+    {
+      "c": "Acetylide + ketone, then H₃O⁺",
+      "a": "alcohol bearing an alkynyl group",
+      "d": [
+        "longer alkyne",
+        "α,β-unsaturated ketone"
+      ]
+    },
+    {
+      "c": "Excess NaNH₂ + vicinal dibromide",
+      "a": "alkyne by two E2 eliminations",
+      "d": [
+        "1,2-diamine by SN2",
+        "alkane by reduction"
+      ]
+    },
+    {
+      "c": "Stronger base: acetylide or hydroxide?",
+      "a": "acetylide",
+      "d": [
+        "hydroxide",
+        "they are equally basic"
+      ],
+      "ex": "Its conjugate acid, the alkyne (pKa ~25), is weaker than water."
+    }
+  ],
+  "read": {
+    "title": "Building chains from acetylene",
+    "text": [
+      "An alkyne has two π bonds, so it undergoes many of the same additions as an alkene, often twice. One equivalent of HBr gives a vinyl bromide; a second equivalent adds to the same carbon and gives a geminal dibromide. Water adds in the presence of acid and a mercury(II) catalyst. The first product is an enol, with OH on a doubly bonded carbon, but the enol quickly tautomerizes to the more stable ketone. A terminal alkyne gives a methyl ketone by this route, while hydroboration with a bulky borane gives an aldehyde instead.",
+      "Reduction can be controlled. Hydrogen with an ordinary palladium catalyst goes all the way to the alkane. Lindlar's poisoned catalyst stops at the alkene and adds both hydrogens from one face, giving a cis alkene. Sodium in liquid ammonia adds electrons one at a time and produces the trans alkene.",
+      "The C–H of a terminal alkyne is unusually acidic for a hydrocarbon. Sodium amide removes it to give an acetylide anion, a strong nucleophile. With methyl or primary alkyl halides it forms a new C–C bond by SN2, which makes alkynes useful starting points for synthesis. Secondary and tertiary halides fail, because the strongly basic acetylide causes E2 elimination instead."
+    ],
+    "q": [
+      {
+        "q": "What does mercury-catalyzed hydration of a terminal alkyne give?",
+        "o": [
+          "A methyl ketone",
+          "An aldehyde",
+          "A carboxylic acid",
+          "An alkane"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Which reagent reduces an alkyne to a trans alkene?",
+        "o": [
+          "Lindlar's catalyst",
+          "Sodium in liquid ammonia",
+          "H₂ with Pd/C",
+          "BH₃"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why do acetylides fail with tertiary alkyl halides?",
+        "o": [
+          "They are too weak as nucleophiles",
+          "Tertiary halides do not react at all",
+          "They cause E2 elimination",
+          "They form carbocations"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

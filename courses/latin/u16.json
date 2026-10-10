@@ -1,0 +1,298 @@
+{
+  "title": "Body, food and daily life",
+  "note": "Pain is expressed with dolere, to hurt, and a dative of the person: Caput mihi dolet, my head hurts. Romans ate ientaculum (breakfast), prandium (lunch) and the main meal, cena, in the late afternoon. Do not confuse os, oris (n), mouth, with os, ossis (n), bone.",
+  "src": {
+    "t": "Dickinson College Commentaries, Latin Core Vocabulary",
+    "u": "https://dcc.dickinson.edu/latin-core-list1"
+  },
+  "items": [
+    {
+      "c": "oculus (m)",
+      "a": "eye",
+      "d": [
+        "ear",
+        "mouth"
+      ],
+      "ex": "Oculos aperio.",
+      "exT": "I open my eyes."
+    },
+    {
+      "c": "auris, auris (f)",
+      "a": "ear",
+      "d": [
+        "gold",
+        "eye"
+      ]
+    },
+    {
+      "c": "os, oris (n)",
+      "a": "mouth; face",
+      "d": [
+        "bone",
+        "nose"
+      ]
+    },
+    {
+      "c": "nasus (m)",
+      "a": "nose",
+      "d": [
+        "neck",
+        "chin"
+      ]
+    },
+    {
+      "c": "pes, pedis (m)",
+      "a": "foot",
+      "d": [
+        "hand",
+        "knee"
+      ],
+      "ex": "Pes mihi dolet.",
+      "exT": "My foot hurts."
+    },
+    {
+      "c": "cor, cordis (n)",
+      "a": "heart",
+      "d": [
+        "head",
+        "chest"
+      ],
+      "ex": "Sursum corda!",
+      "exT": "Lift up your hearts!"
+    },
+    {
+      "c": "sanguis, sanguinis (m)",
+      "a": "blood",
+      "d": [
+        "sweat",
+        "breath"
+      ]
+    },
+    {
+      "c": "bracchium (n)",
+      "a": "arm",
+      "d": [
+        "leg",
+        "shoulder"
+      ]
+    },
+    {
+      "c": "dens, dentis (m)",
+      "a": "tooth",
+      "d": [
+        "tongue",
+        "lip"
+      ]
+    },
+    {
+      "c": "pectus, pectoris (n)",
+      "a": "chest, breast",
+      "d": [
+        "back",
+        "neck"
+      ]
+    },
+    {
+      "c": "vultus (m)",
+      "a": "face, expression",
+      "d": [
+        "voice",
+        "wound"
+      ]
+    },
+    {
+      "c": "aeger, aegra, aegrum",
+      "a": "sick",
+      "d": [
+        "healthy",
+        "tired"
+      ],
+      "ex": "Puer aeger est.",
+      "exT": "The boy is sick."
+    },
+    {
+      "c": "sanus, sana, sanum",
+      "a": "healthy, sound",
+      "d": [
+        "sick",
+        "holy"
+      ],
+      "ex": "Mens sana in corpore sano.",
+      "exT": "A sound mind in a sound body."
+    },
+    {
+      "c": "medicus (m)",
+      "a": "doctor",
+      "d": [
+        "medicine",
+        "priest"
+      ],
+      "ex": "Medicus aegrum curat.",
+      "exT": "The doctor treats the sick man."
+    },
+    {
+      "c": "dolere",
+      "a": "to hurt, feel pain",
+      "d": [
+        "to deceive",
+        "to rejoice"
+      ]
+    },
+    {
+      "c": "Caput mihi dolet.",
+      "a": "My head hurts.",
+      "d": [
+        "I hurt my head.",
+        "My foot hurts."
+      ]
+    },
+    {
+      "c": "cibus (m)",
+      "a": "food",
+      "d": [
+        "drink",
+        "dinner"
+      ]
+    },
+    {
+      "c": "panis, panis (m)",
+      "a": "bread",
+      "d": [
+        "cake",
+        "salt"
+      ],
+      "ex": "Panem et aquam habemus.",
+      "exT": "We have bread and water."
+    },
+    {
+      "c": "vinum (n)",
+      "a": "wine",
+      "d": [
+        "water",
+        "vinegar"
+      ],
+      "ex": "In vino veritas.",
+      "exT": "In wine there is truth."
+    },
+    {
+      "c": "lac, lactis (n)",
+      "a": "milk",
+      "d": [
+        "lake",
+        "honey"
+      ]
+    },
+    {
+      "c": "mel, mellis (n)",
+      "a": "honey",
+      "d": [
+        "milk",
+        "apple"
+      ]
+    },
+    {
+      "c": "piscis, piscis (m)",
+      "a": "fish",
+      "d": [
+        "bird",
+        "meat"
+      ]
+    },
+    {
+      "c": "ovum (n)",
+      "a": "egg",
+      "d": [
+        "sheep",
+        "olive"
+      ],
+      "ex": "ab ovo usque ad mala",
+      "exT": "from the egg to the apples (from start to finish of a Roman dinner)"
+    },
+    {
+      "c": "caro, carnis (f)",
+      "a": "meat, flesh",
+      "d": [
+        "cheese",
+        "bread"
+      ]
+    },
+    {
+      "c": "sal, salis (m)",
+      "a": "salt",
+      "d": [
+        "sun",
+        "pepper"
+      ]
+    },
+    {
+      "c": "cena (f)",
+      "a": "dinner",
+      "d": [
+        "breakfast",
+        "lunch"
+      ]
+    },
+    {
+      "c": "prandium (n)",
+      "a": "lunch",
+      "d": [
+        "dinner",
+        "breakfast"
+      ]
+    },
+    {
+      "c": "sitis, sitis (f)",
+      "a": "thirst",
+      "d": [
+        "hunger",
+        "fever"
+      ]
+    },
+    {
+      "c": "fames, famis (f)",
+      "a": "hunger",
+      "d": [
+        "fame, rumor",
+        "thirst"
+      ],
+      "ex": "Fames est mala.",
+      "exT": "Hunger is bad."
+    },
+    {
+      "c": "bibere",
+      "a": "to drink",
+      "d": [
+        "to eat",
+        "to live"
+      ]
+    },
+    {
+      "c": "cenare",
+      "a": "to dine, eat dinner",
+      "d": [
+        "to sing",
+        "to cook"
+      ]
+    },
+    {
+      "c": "Pueri aquam ___. (bibere)",
+      "a": "bibunt",
+      "d": [
+        "bibent",
+        "bibit"
+      ],
+      "ex": "Pueri aquam bibunt.",
+      "exT": "The boys are drinking water."
+    },
+    {
+      "c": "Ego in villa ___. (cenare)",
+      "a": "ceno",
+      "d": [
+        "cenat",
+        "cenas"
+      ],
+      "ex": "Ego in villa ceno.",
+      "exT": "I am dining at the farmhouse."
+    }
+  ]
+}

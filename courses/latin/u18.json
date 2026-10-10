@@ -1,0 +1,310 @@
+{
+  "title": "Perfect tense and principal parts",
+  "note": "The perfect tells what happened or has happened: amavi, I loved or have loved. Its endings are -i, -isti, -it, -imus, -istis, -erunt. Its stem is the third principal part and must be learned with each verb: amo, amare, amavi; video, videre, vidi; venio, venire, veni. Veni, vidi, vici: I came, I saw, I conquered.",
+  "src": {
+    "t": "Allen and Greenough, The Perfect Stem",
+    "u": "https://dcc.dickinson.edu/grammar/latin/perfect-stem"
+  },
+  "items": [
+    {
+      "c": "amavi",
+      "a": "I loved, I have loved",
+      "d": [
+        "I was loving",
+        "I will love"
+      ]
+    },
+    {
+      "c": "fui",
+      "a": "I was, I have been",
+      "d": [
+        "I will be",
+        "I am"
+      ],
+      "ex": "Ego in Graecia fui.",
+      "exT": "I have been in Greece."
+    },
+    {
+      "c": "vidi",
+      "a": "I saw",
+      "d": [
+        "I see",
+        "I conquered"
+      ],
+      "ex": "Romam vidi.",
+      "exT": "I saw Rome."
+    },
+    {
+      "c": "veni (perfect of venire)",
+      "a": "I came",
+      "d": [
+        "I come",
+        "I will come"
+      ]
+    },
+    {
+      "c": "vici",
+      "a": "I conquered",
+      "d": [
+        "I lived",
+        "I saw"
+      ]
+    },
+    {
+      "c": "dixi",
+      "a": "I said",
+      "d": [
+        "I led",
+        "I say"
+      ]
+    },
+    {
+      "c": "feci",
+      "a": "I made, I did",
+      "d": [
+        "I make, I do",
+        "I took"
+      ]
+    },
+    {
+      "c": "scripsi",
+      "a": "I wrote",
+      "d": [
+        "I read (past)",
+        "I write"
+      ],
+      "ex": "Quod scripsi, scripsi.",
+      "exT": "What I have written, I have written. (John 19:22)"
+    },
+    {
+      "c": "legi (perfect of legere)",
+      "a": "I read (past); I chose",
+      "d": [
+        "I write",
+        "I will read"
+      ]
+    },
+    {
+      "c": "cepi",
+      "a": "I took, I seized",
+      "d": [
+        "I began",
+        "I take"
+      ]
+    },
+    {
+      "c": "dedi",
+      "a": "I gave",
+      "d": [
+        "I give",
+        "I said"
+      ],
+      "ex": "Amico librum dedi.",
+      "exT": "I gave my friend a book."
+    },
+    {
+      "c": "duxi",
+      "a": "I led",
+      "d": [
+        "I said",
+        "I lead"
+      ]
+    },
+    {
+      "c": "misi",
+      "a": "I sent",
+      "d": [
+        "I put",
+        "I send"
+      ]
+    },
+    {
+      "c": "credidi",
+      "a": "I believed",
+      "d": [
+        "I believe",
+        "I grew"
+      ]
+    },
+    {
+      "c": "vixit",
+      "a": "he/she lived",
+      "d": [
+        "he/she conquered",
+        "he/she lives"
+      ],
+      "ex": "Vixit annos XXX.",
+      "exT": "He lived thirty years. (a common epitaph)"
+    },
+    {
+      "c": "audivi",
+      "a": "I heard",
+      "d": [
+        "I dared",
+        "I hear"
+      ],
+      "ex": "Vocem tuam audivi.",
+      "exT": "I heard your voice."
+    },
+    {
+      "c": "habui",
+      "a": "I had",
+      "d": [
+        "I have",
+        "I lived (in)"
+      ]
+    },
+    {
+      "c": "timui",
+      "a": "I feared",
+      "d": [
+        "I fear",
+        "I was silent"
+      ]
+    },
+    {
+      "c": "potui",
+      "a": "I was able, I could",
+      "d": [
+        "I am able",
+        "I will be able"
+      ]
+    },
+    {
+      "c": "dixit",
+      "a": "he/she said",
+      "d": [
+        "he/she says",
+        "he/she led"
+      ],
+      "ex": "Dixitque Deus: Fiat lux.",
+      "exT": "And God said: Let there be light. (Genesis 1:3)"
+    },
+    {
+      "c": "fecerunt",
+      "a": "they made, they did",
+      "d": [
+        "they make, they do",
+        "they will make"
+      ]
+    },
+    {
+      "c": "venisti",
+      "a": "you came (one person)",
+      "d": [
+        "you come (one person)",
+        "you came (more than one)"
+      ]
+    },
+    {
+      "c": "vidimus",
+      "a": "we saw",
+      "d": [
+        "we see",
+        "they saw"
+      ]
+    },
+    {
+      "c": "Heri epistulam ___. (scribere, I, perfect)",
+      "a": "scripsi",
+      "d": [
+        "scribo",
+        "scribebam"
+      ],
+      "ex": "Heri epistulam scripsi.",
+      "exT": "Yesterday I wrote a letter."
+    },
+    {
+      "c": "Milites fortiter ___. (pugnare, perfect)",
+      "a": "pugnaverunt",
+      "d": [
+        "pugnabant",
+        "pugnant"
+      ],
+      "ex": "Milites fortiter pugnaverunt.",
+      "exT": "The soldiers fought bravely."
+    },
+    {
+      "c": "Quid ___? (facere, you singular, perfect)",
+      "a": "fecisti",
+      "d": [
+        "facisti",
+        "facis"
+      ],
+      "ex": "Quid fecisti?",
+      "exT": "What have you done?"
+    },
+    {
+      "c": "Caesar Galliam ___. (vincere, perfect)",
+      "a": "vicit",
+      "d": [
+        "vincit",
+        "vincet"
+      ],
+      "ex": "Caesar Galliam vicit.",
+      "exT": "Caesar conquered Gaul."
+    },
+    {
+      "c": "video, videre, ___, visum",
+      "a": "vidi",
+      "d": [
+        "videvi",
+        "vidui"
+      ]
+    },
+    {
+      "c": "duco, ducere, ___, ductum",
+      "a": "duxi",
+      "d": [
+        "ducavi",
+        "ducui"
+      ]
+    },
+    {
+      "c": "do, dare, ___, datum",
+      "a": "dedi",
+      "d": [
+        "davi",
+        "dedavi"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Nauta et Lucius",
+    "text": [
+      "Heri Marcus et Lucius ad mare ambulaverunt. Ibi navem magnam viderunt. In nave erat nauta antiquus.",
+      "Nauta dixit: \"Ego in Graecia fui. Multas insulas vidi et multa pericula superavi.\"",
+      "Marcus nautae credidit, sed Lucius risit: \"Numquam in Graecia fuisti!\"",
+      "Tum nauta Lucio epistulam dedit. In epistula erat nomen regis Graeci. Lucius epistulam legit et tacuit."
+    ],
+    "q": [
+      {
+        "q": "Where did Marcus and Lucius walk?",
+        "o": [
+          "To the forum",
+          "To the sea",
+          "To Greece"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What did the sailor claim?",
+        "o": [
+          "That he had been in Greece",
+          "That he was a king",
+          "That he had never seen an island"
+        ],
+        "k": 0
+      },
+      {
+        "q": "How did Lucius react at first?",
+        "o": [
+          "He believed him",
+          "He ran away",
+          "He laughed"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

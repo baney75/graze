@@ -1,0 +1,57 @@
+{
+  "title": "Consciousness and sleep",
+  "note": "Consciousness is awareness of internal and external stimuli, and it shifts across the day. A roughly 24-hour circadian clock in the hypothalamus times sleep. Each night the brain cycles through NREM stages, from light sleep to deep slow-wave sleep, and REM sleep, when most vivid dreaming occurs.",
+  "src": { "t": "OpenStax Psychology 2e, 4.3 Stages of Sleep", "u": "https://openstax.org/books/psychology-2e/pages/4-3-stages-of-sleep" },
+  "items": [
+    { "c": "Consciousness", "a": "Awareness of internal and external stimuli", "d": ["The brain's electrical activity during sleep", "Any behavior learned through experience", "Memory for personal events"] },
+    { "c": "Circadian rhythm", "a": "A biological cycle of about 24 hours", "d": ["A cycle of about 90 minutes", "A cycle of about one week", "A cycle of about 28 days"] },
+    { "c": "Suprachiasmatic nucleus (SCN)", "a": "The brain's master clock in the hypothalamus", "d": ["The gland that releases melatonin", "The hindbrain area that controls breathing", "The region that triggers dreaming"], "ex": "Light signals from the retina keep it in sync with the day." },
+    { "c": "Gland that releases melatonin", "a": "Pineal gland", "d": ["Pituitary gland", "Thyroid gland", "Adrenal gland"] },
+    { "c": "Effect of darkness on melatonin", "a": "It increases melatonin release", "d": ["It stops melatonin release", "It has no effect on melatonin", "It turns melatonin into serotonin"] },
+    { "c": "Jet lag", "a": "Mismatch between the body clock and local time", "d": ["Sleep that skips the REM stage", "Waking during deep slow-wave sleep", "Brain waves slowing before sleep"] },
+    { "c": "Sleep debt", "a": "Accumulated effect of too little sleep", "d": ["Extra REM after missing REM", "Sleep borrowed during a nap", "Time spent in stage 1 sleep"] },
+    { "c": "Chronotype", "a": "A person's natural lean toward mornings or evenings", "d": ["The number of sleep cycles in a night", "A dream's hidden meaning", "The deepest stage of sleep"], "ex": "'Morning larks' and 'night owls' differ in chronotype." },
+    { "c": "Typical adult sleep need", "a": "About 7 to 9 hours a night", "d": ["About 4 to 5 hours a night", "About 12 to 18 hours a night", "About 10 to 12 hours a night"] },
+    { "c": "Brain waves of alert wakefulness", "a": "Beta waves", "d": ["Delta waves", "Theta waves", "Alpha waves"] },
+    { "c": "Brain waves of relaxed, drowsy wakefulness", "a": "Alpha waves", "d": ["Delta waves", "Beta waves", "Theta waves"] },
+    { "c": "Brain waves that dominate stage 2 sleep", "a": "Theta waves", "d": ["Delta waves", "Beta waves", "Alpha waves"] },
+    { "c": "Brain waves of stage 3 (deep) sleep", "a": "Delta waves", "d": ["Theta waves", "Beta waves", "Alpha waves"], "ex": "Delta waves are slow, under 3 Hz, and high in amplitude." },
+    { "c": "Stage 1 (N1) sleep", "a": "A light transition between waking and sleep", "d": ["The deepest, hardest stage to wake from", "The stage with vivid dreams and paralysis", "The stage of sleep spindles"] },
+    { "c": "Sleep spindles and K-complexes mark", "a": "Stage 2 sleep", "d": ["Stage 1 sleep", "REM sleep", "Stage 3 sleep"] },
+    { "c": "Sleep stage hardest to wake someone from", "a": "Stage 3 slow-wave sleep", "d": ["Stage 1 sleep", "Stage 2 sleep", "Drowsy wakefulness"] },
+    { "c": "REM sleep", "a": "Rapid eye movements, vivid dreams, body paralysis", "d": ["Slow delta waves and deep rest", "Light sleep with drifting alpha waves", "Bursts of spindles and K-complexes"] },
+    { "c": "Why REM is called paradoxical sleep", "a": "Brain is active while muscles are paralyzed", "d": ["It happens only in the morning", "Dreams in REM are never remembered", "It is the deepest stage of sleep"] },
+    { "c": "REM rebound", "a": "Extra REM sleep after being deprived of REM", "d": ["Waking up during REM", "Skipping REM after a late night", "REM appearing right at sleep onset"] },
+    { "c": "How REM periods change across a night", "a": "They grow longer toward morning", "d": ["They grow shorter toward morning", "They stay the same length", "They occur only once"] },
+    { "c": "Pituitary hormone surging during deep sleep", "a": "Growth hormone", "d": ["Epinephrine", "Insulin", "Thyroxine"] },
+    { "c": "Sleep after learning a new task", "a": "Helps consolidate the memory", "d": ["Erases the new memory", "Has no effect on the memory", "Turns it into an implicit memory"], "ex": "Pulling an all-nighter to cram can backfire." },
+    { "c": "Manifest content of a dream", "a": "The dream's surface storyline", "d": ["The dream's hidden meaning", "The brain activity behind the dream", "The dreamer's awareness of dreaming"] },
+    { "c": "Latent content of a dream", "a": "The dream's hidden meaning, in Freud's view", "d": ["The dream's surface storyline", "Random REM brain activity", "A dream the sleeper controls"] },
+    { "c": "Activation-synthesis theory", "a": "Dreams are the brain making sense of REM activity", "d": ["Dreams reveal hidden wishes", "Dreams replay the day exactly", "Dreams come from a collective unconscious"], "ex": "Proposed by J. Allan Hobson." },
+    { "c": "Lucid dream", "a": "A dream in which you know you are dreaming", "d": ["A dream with no images", "A dream during stage 3 sleep", "A dream forgotten on waking"] },
+    { "c": "Depressants such as alcohol mainly act as", "a": "GABA agonists that slow neural activity", "d": ["Dopamine reuptake blockers", "Adenosine blockers", "Serotonin antagonists"] },
+    { "c": "How caffeine keeps you awake", "a": "It blocks adenosine, a sleep-promoting chemical", "d": ["It mimics melatonin", "It increases GABA activity", "It blocks dopamine receptors"] },
+    { "c": "Drug class that increases neural activity", "a": "Stimulants", "d": ["Depressants", "Opioids", "Sedatives"] },
+    { "c": "Opioids relieve pain by", "a": "Mimicking the body's own endorphins", "d": ["Blocking adenosine", "Increasing dopamine reuptake", "Raising melatonin levels"] },
+    { "c": "Drug tolerance", "a": "Needing more of a drug for the same effect", "d": ["Feeling ill when a drug is stopped", "An emotional need for a drug", "A drug's effect on sleep stages"] },
+    { "c": "Withdrawal", "a": "Unpleasant symptoms when a drug is stopped", "d": ["Needing more for the same effect", "Mild euphoria from a small dose", "A drug's effect on reaction time"] },
+    { "c": "Hypnosis", "a": "Intense inner focus with heightened suggestibility", "d": ["A light stage of normal sleep", "Awareness that one is dreaming", "Total loss of consciousness"] },
+    { "c": "Hilgard's view of hypnosis", "a": "A dissociated, divided state of consciousness", "d": ["Acting out the role of a hypnotized person", "A form of REM sleep", "A drug-like brain state"] },
+    { "c": "Social-cognitive theory of hypnosis", "a": "People act out the role they expect of hypnosis", "d": ["Hypnosis splits consciousness into parts", "Hypnosis is a stage of sleep", "Hypnosis reveals repressed memories"] },
+    { "c": "Meditation", "a": "Focusing attention to reach relaxed awareness", "d": ["Sleep with rapid eye movements", "A drug-induced altered state", "Following a hypnotist's suggestions"] }
+  ],
+  "read": {
+    "title": "A night in four stages",
+    "text": [
+      "Sleep is not one steady state. Recordings of brain waves show that each night we pass through several cycles of distinct stages.",
+      "As you drift off, the fast beta waves of alert waking give way to slower alpha waves, then to theta waves in stage 1, a light, easily interrupted transition. Stage 2 is still theta-dominated but is marked by sleep spindles, brief bursts that may help memory, and K-complexes. Stage 3 is slow-wave sleep: big, slow delta waves, slowed heart rate and breathing, and the hardest time to wake someone.",
+      "Then comes REM sleep. The eyes dart under closed lids and the brain looks almost awake on an EEG, yet the voluntary muscles are paralyzed. This is when most vivid dreams happen. Across the night, REM periods grow longer, so much of a morning's sleep is REM.",
+      "Both kinds of sleep matter for learning. Slow-wave sleep after studying improves later performance, and REM is linked to memory and emotional processing. When people lose REM, they show REM rebound, spending extra time in it the next chance they get. That is one reason cramming all night can cost more than it gains."
+    ],
+    "q": [
+      { "q": "Which stage features delta waves and is hardest to wake from?", "o": ["Stage 1", "Stage 2", "Stage 3", "REM"], "k": 2 },
+      { "q": "During REM sleep, the brain is very active and the voluntary muscles are", "o": ["Tense", "Paralyzed", "Twitching constantly"], "k": 1 },
+      { "q": "According to the reading, why can cramming all night backfire?", "o": ["Sleep helps consolidate what was learned", "REM erases new memories", "Delta waves block recall", "Sleep spindles cause forgetting"], "k": 0 }
+    ]
+  }
+}

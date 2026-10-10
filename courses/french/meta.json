@@ -1,0 +1,16 @@
+{
+  "key": "french",
+  "name": "French",
+  "group": "Languages",
+  "tag": "FRANÇAIS",
+  "lang": "fr-FR",
+  "speak": "recognize",
+  "level": "Beginner to A2",
+  "blurb": "Standard French from first greetings to everyday conversation: about 600 high-frequency words with their articles, the present, near future and passé composé, and the core grammar to read simple texts and handle daily situations.",
+  "sources": [
+    { "t": "Français interactif, COERLL, University of Texas at Austin", "u": "https://www.laits.utexas.edu/fi/" },
+    { "t": "Tex's French Grammar, COERLL, University of Texas at Austin", "u": "https://utexas.pressbooks.pub/texfrenchgrammar/" },
+    { "t": "French OER 1 (Carrasco, Zahedi and Parrish), Humanities LibreTexts", "u": "https://human.libretexts.org/Courses/Mount_Saint_Mary's_University_LA/French_OER_1_(Carrasco_Zahedi_and_Parrish)" },
+    { "t": "Wiktionary, French entries", "u": "https://en.m.wiktionary.org/wiki/maison" }
+  ]
+}

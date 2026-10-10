@@ -1,0 +1,12 @@
+{
+  "key": "anatomy",
+  "name": "Anatomy & Physiology",
+  "group": "Medicine",
+  "tag": "A&P",
+  "level": "Intro college",
+  "blurb": "The normal structure and function of the human body, system by system, at the level of a two-semester college A&P course for pre-med and nursing students. You will know the core terms, named structures, numbers, and mechanisms an exam expects.",
+  "sources": [
+    { "t": "Anatomy and Physiology 2e, OpenStax", "u": "https://openstax.org/details/books/anatomy-and-physiology-2e" },
+    { "t": "Anatomy and Physiology 2e (OpenStax), Medicine LibreTexts", "u": "https://med.libretexts.org/Bookshelves/Anatomy_and_Physiology/Anatomy_and_Physiology_2e_(OpenStax)" }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Musculoskeletal system: bones, joints and muscles",
+  "note": "Core roots: oste/o bone, arthr/o joint, chondr/o cartilage, my/o muscle, ten/o or tendin/o tendon. Watch myel/o: it means bone marrow or spinal cord, not muscle. Many bones have their own roots, such as crani/o, cost/o, stern/o and vertebr/o.",
+  "src": { "t": "Medical Terminology 2e (Open RN), 13.2 Word Components Related to the Skeletal System", "u": "https://med.libretexts.org/Bookshelves/Medicine/Medical_Terminology_2e_(OpenRN)/13%3A_Skeletal_System_Terminology/13.02%3A_Word_Components_Related_to_the_Skeletal_System" },
+  "items": [
+    { "c": "oste/o", "a": "bone", "d": ["cartilage", "joint"] },
+    { "c": "arthr/o", "a": "joint", "d": ["bone", "muscle"] },
+    { "c": "chondr/o", "a": "cartilage", "d": ["tendon", "bone marrow"] },
+    { "c": "my/o, myos/o", "a": "muscle", "d": ["bone marrow, spinal cord", "tendon"] },
+    { "c": "myel/o", "a": "bone marrow, spinal cord", "d": ["muscle", "cartilage"], "ex": "Osteomyelitis is inflammation of bone and bone marrow." },
+    { "c": "ten/o, tendin/o", "a": "tendon", "d": ["ligament", "fascia"] },
+    { "c": "burs/o", "a": "bursa, a fluid-filled sac at a joint", "d": ["meniscus, a crescent of cartilage", "fascia, a sheet of connective tissue"] },
+    { "c": "crani/o", "a": "skull (cranium)", "d": ["lower jaw", "rib"] },
+    { "c": "cost/o", "a": "rib", "d": ["breastbone", "vertebra"] },
+    { "c": "stern/o", "a": "breastbone (sternum)", "d": ["collarbone (clavicle)", "shoulder blade (scapula)"] },
+    { "c": "vertebr/o, spondyl/o", "a": "vertebra, spine", "d": ["rib", "skull"] },
+    { "c": "scapul/o", "a": "shoulder blade", "d": ["collarbone", "breastbone"] },
+    { "c": "clavicul/o", "a": "collarbone", "d": ["shoulder blade", "upper arm bone"] },
+    { "c": "femor/o", "a": "femur, thigh bone", "d": ["tibia, shin bone", "humerus, upper arm bone"] },
+    { "c": "patell/o", "a": "kneecap", "d": ["ankle bone", "heel bone"] },
+    { "c": "carp/o", "a": "wrist bones", "d": ["ankle bones", "finger bones"] },
+    { "c": "tars/o", "a": "ankle bones", "d": ["wrist bones", "toe bones"] },
+    { "c": "phalang/o", "a": "bones of the fingers and toes", "d": ["bones of the wrist", "bones of the middle ear"] },
+    { "c": "ankyl/o", "a": "stiff, bent", "d": ["crooked, curved", "soft"], "ex": "Ankylosis: stiffening of a joint." },
+    { "c": "kinesi/o", "a": "movement", "d": ["weakness", "pain"] },
+    { "c": "-asthenia", "a": "weakness", "d": ["paralysis", "stiffness"], "ex": "Myasthenia: muscle weakness." },
+    { "c": "-trophy", "a": "nourishment, development", "d": ["breakdown, dissolving", "hardening"], "ex": "Atrophy: wasting away from lack of development." },
+    { "c": "-desis", "a": "surgical fusion, binding together", "d": ["surgical crushing", "surgical suturing"], "ex": "Arthrodesis: surgical fusion of a joint." },
+    { "c": "oste/o/blast", "a": "cell that builds new bone", "d": ["cell that breaks down bone", "cell that forms cartilage"] },
+    { "c": "oste/o/clast", "a": "cell that breaks down bone", "d": ["cell that builds new bone", "cell that stores fat in marrow"] },
+    { "c": "oste/o/porosis", "a": "condition of porous, thinning bone", "d": ["softening of bone", "inflammation of bone marrow"] },
+    { "c": "chondr/o/malacia", "a": "softening of cartilage", "d": ["hardening of cartilage", "inflammation of cartilage"] },
+    { "c": "my/algia", "a": "muscle pain", "d": ["nerve pain", "joint pain"] },
+    { "c": "arthr/o/scopy", "a": "visual examination of a joint", "d": ["surgical repair of a joint", "puncture of a joint"] },
+    { "c": "arthr/o/centesis", "a": "puncture of a joint to remove fluid", "d": ["incision into a joint", "surgical fusion of a joint"] },
+    { "c": "arthr/o/plasty", "a": "surgical repair or replacement of a joint", "d": ["surgical removal of a joint", "image of a joint"] },
+    { "c": "sub/cost/al", "a": "pertaining to below the ribs", "d": ["pertaining to between the ribs", "pertaining to above the breastbone"] },
+    { "c": "electr/o/my/o/graphy", "a": "recording of muscle electrical activity", "d": ["recording of heart electrical activity", "recording of brain electrical activity"] },
+    { "c": "Connects bone to bone", "a": "ligament", "d": ["tendon", "bursa"] }
+  ],
+  "read": {
+    "title": "Builders and breakers",
+    "text": [
+      "Bone is living tissue that is constantly rebuilt. Two kinds of cell share the work, and their names show how word parts carry meaning. An osteoblast is a bone-forming cell: oste/o means bone and -blast means a formative or immature cell. An osteoclast breaks bone down, from -clast, meaning to break. Their balance keeps the skeleton strong; when breakdown outpaces building, bone becomes porous, which is the literal meaning of osteoporosis.",
+      "Joints have their own vocabulary. Arthr/o means joint, chondr/o means cartilage, and burs/o names the small fluid-filled sacs that cushion movement. Combine them with procedure suffixes: arthroscopy views the inside of a joint, arthrocentesis draws out fluid with a needle, arthroplasty repairs or replaces the joint, and arthrodesis fuses it so it no longer moves.",
+      "Muscle terms rely on my/o. Myalgia is muscle pain and electromyography records the electrical activity of muscle. Be careful with myel/o, which looks similar but refers to bone marrow or the spinal cord. Tendons attach muscle to bone, while ligaments attach bone to bone."
+    ],
+    "q": [
+      { "q": "What does the suffix -blast indicate in osteoblast?", "o": ["A formative cell", "A cell that breaks tissue", "A tumor", "Inflammation"], "k": 0 },
+      { "q": "Which procedure fuses a joint so it no longer moves?", "o": ["Arthrodesis", "Arthroplasty", "Arthroscopy", "Arthrocentesis"], "k": 0 },
+      { "q": "What does myel/o refer to?", "o": ["Bone marrow or spinal cord", "Muscle", "Joint cartilage"], "k": 0 }
+    ]
+  }
+}

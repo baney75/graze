@@ -1,0 +1,56 @@
+{
+  "title": "Atoms, isotopes and the mole",
+  "note": "An atom's identity is set by its proton count, the atomic number Z. The mass number A counts protons plus neutrons, so isotopes of one element differ only in neutrons. The mole links atoms to grams: one mole is 6.022 × 10²³ particles, and an element's molar mass in g/mol equals its average atomic mass in u.",
+  "src": { "t": "Chemistry 2e, 2.3 Atomic Structure and Symbolism, OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism" },
+  "items": [
+    { "c": "Charge of a proton", "a": "+1", "d": ["−1", "0"] },
+    { "c": "Charge of a neutron", "a": "0 (neutral)", "d": ["+1", "−1"] },
+    { "c": "Subatomic particle with charge −1", "a": "electron", "d": ["proton", "neutron"], "ex": "An electron's mass is about 1/1800 of a proton's." },
+    { "c": "Atomic number (Z)", "a": "number of protons in the nucleus", "d": ["number of neutrons in the nucleus", "protons plus neutrons"] },
+    { "c": "Mass number (A)", "a": "protons plus neutrons", "d": ["protons plus electrons", "protons only"] },
+    { "c": "Isotopes", "a": "atoms of one element with different neutron counts", "d": ["atoms of one element with different proton counts", "atoms of different elements with equal mass numbers"] },
+    { "c": "Neutrons in carbon-14 (¹⁴C)", "a": "8", "d": ["6", "14"] },
+    { "c": "Protons in uranium-235 (²³⁵U)", "a": "92", "d": ["143", "235"] },
+    { "c": "Neutrons in chlorine-37 (³⁷Cl)", "a": "20", "d": ["17", "37"] },
+    { "c": "Electrons in ²⁴Mg²⁺", "a": "10", "d": ["12", "14"] },
+    { "c": "Electrons in ³²S²⁻", "a": "18", "d": ["16", "14"] },
+    { "c": "Unified atomic mass unit (u)", "a": "1/12 the mass of a carbon-12 atom", "d": ["the mass of one hydrogen atom", "1/16 the mass of an oxygen-16 atom"] },
+    { "c": "Average atomic mass on the periodic table", "a": "abundance-weighted mean of isotope masses", "d": ["mass of the most common isotope", "simple mean of the isotope masses"] },
+    { "c": "Boron: 19.9% ¹⁰B and 80.1% ¹¹B. Average mass?", "a": "about 10.81 u", "d": ["about 10.51 u", "about 10.21 u"] },
+    { "c": "Avogadro's number", "a": "6.022 × 10²³ per mole", "d": ["6.022 × 10⁻²³ per mole", "3.011 × 10²³ per mole"] },
+    { "c": "Molar mass", "a": "mass in grams of one mole of a substance", "d": ["mass in grams of one molecule", "mass of one liter of a substance"] },
+    { "c": "Molar mass of H₂O", "a": "18.02 g/mol", "d": ["16.00 g/mol", "17.01 g/mol"] },
+    { "c": "Molar mass of CO₂", "a": "44.01 g/mol", "d": ["28.01 g/mol", "32.00 g/mol"] },
+    { "c": "Molar mass of NaCl", "a": "58.44 g/mol", "d": ["35.45 g/mol", "22.99 g/mol"] },
+    { "c": "Moles in 36.0 g of water", "a": "about 2.00 mol", "d": ["about 0.500 mol", "about 18.0 mol"] },
+    { "c": "Atoms in 1.00 mol of helium", "a": "6.022 × 10²³ atoms", "d": ["4.00 atoms", "2.409 × 10²⁴ atoms"] },
+    { "c": "Moles of O atoms in 1 mol of CO₂", "a": "2 mol", "d": ["1 mol", "3 mol"] },
+    { "c": "Empirical formula", "a": "simplest whole-number ratio of atoms", "d": ["actual number of atoms in a molecule", "arrangement of atoms in space"] },
+    { "c": "Empirical formula of C₆H₁₂O₆", "a": "CH₂O", "d": ["C₂H₄O₂", "CHO"] },
+    { "c": "Mass percent of hydrogen in H₂O", "a": "about 11.2%", "d": ["about 66.7%", "about 5.6%"] },
+    { "c": "Gold foil experiment showed", "a": "atoms have a tiny, dense, positive nucleus", "d": ["electrons are spread through positive matter", "atoms are solid, indivisible spheres"] },
+    { "c": "Discovered the electron using cathode rays", "a": "J. J. Thomson", "d": ["Ernest Rutherford", "John Dalton"] },
+    { "c": "Element symbol Na", "a": "sodium", "d": ["nitrogen", "neon"], "ex": "From the Latin natrium." },
+    { "c": "Element symbol K", "a": "potassium", "d": ["krypton", "phosphorus"], "ex": "From the Latin kalium." },
+    { "c": "Element symbol Fe", "a": "iron", "d": ["fluorine", "francium"], "ex": "From the Latin ferrum." },
+    { "c": "Element symbol Pb", "a": "lead", "d": ["platinum", "palladium"], "ex": "From the Latin plumbum." },
+    { "c": "Element symbol Ag", "a": "silver", "d": ["gold", "aluminum"], "ex": "From the Latin argentum." },
+    { "c": "Element symbol Au", "a": "gold", "d": ["silver", "argon"], "ex": "From the Latin aurum." },
+    { "c": "Element symbol Hg", "a": "mercury", "d": ["hydrogen", "hafnium"], "ex": "From the Latin hydrargyrum." },
+    { "c": "Element symbol Sn", "a": "tin", "d": ["sodium", "strontium"], "ex": "From the Latin stannum." },
+    { "c": "Element symbol Cu", "a": "copper", "d": ["curium", "calcium"], "ex": "From the Latin cuprum." }
+  ],
+  "read": {
+    "title": "Counting atoms by weighing them",
+    "text": [
+      "Atoms are far too small to count one by one, so chemists count them by mass. The tool that makes this possible is the mole. One mole is exactly 6.02214076 × 10²³ particles, a number chosen so that the mass of one mole in grams matches, for all practical purposes, the mass of one particle in atomic mass units.",
+      "The atomic mass unit is defined as one twelfth of the mass of a carbon-12 atom. A single carbon-12 atom has a mass of exactly 12 u, so a mole of carbon-12 atoms has a mass of 12 grams. The atomic masses on the periodic table are weighted averages over each element's natural isotopes. Chlorine, for example, is a mix of chlorine-35 and chlorine-37, and its listed mass of about 35.45 u matches no single atom.",
+      "To find the molar mass of a compound, add the molar masses of its atoms. Water, H₂O, is about 2(1.008) + 16.00 = 18.02 g/mol. With that number you can move between grams and moles: 9.01 g of water is half a mole, which contains about 3.01 × 10²³ water molecules. Grams, moles, and particles are three views of the same amount of matter."
+    ],
+    "q": [
+      { "q": "Why does chlorine's atomic mass of about 35.45 u match no single chlorine atom?", "o": ["Chlorine atoms lose mass when they bond", "It includes the mass of electrons twice", "It is an average over chlorine's isotopes"], "k": 2 },
+      { "q": "About how many molecules are in 9.01 g of water?", "o": ["3.01 × 10²³", "6.02 × 10²³", "1.20 × 10²⁴"], "k": 0 },
+      { "q": "What makes the mole convenient?", "o": ["It contains exactly 10²³ particles", "Grams per mole equal the particle's mass in u", "It is defined by the mass of hydrogen"], "k": 1 }
+    ]
+  }
+}

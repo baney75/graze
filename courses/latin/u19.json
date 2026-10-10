@@ -1,0 +1,248 @@
+{
+  "title": "Can, want and go: possum, volo, eo",
+  "note": "Possum, posse (can, be able) is pot- + sum: possum, potes, potest, possumus, potestis, possunt, with pot- before e and pos- before s. Volo, velle (want), nolo, nolle (not want), malo, malle (prefer) and eo, ire (go) are irregular too. They take an infinitive: Possum legere, I can read. Noli plus an infinitive means don't.",
+  "src": {
+    "t": "Allen and Greenough, Irregular Verbs: Compounds of sum",
+    "u": "https://dcc.dickinson.edu/grammar/latin/irregular-verbs-compounds-sum"
+  },
+  "items": [
+    {
+      "c": "posse",
+      "a": "to be able",
+      "d": [
+        "to put",
+        "to want"
+      ]
+    },
+    {
+      "c": "possum",
+      "a": "I can, I am able",
+      "d": [
+        "I want",
+        "I must"
+      ],
+      "ex": "Latine legere possum.",
+      "exT": "I can read Latin."
+    },
+    {
+      "c": "potes",
+      "a": "you can (one person)",
+      "d": [
+        "you want (one person)",
+        "you must (one person)"
+      ]
+    },
+    {
+      "c": "potest",
+      "a": "he/she can",
+      "d": [
+        "he/she wants",
+        "he/she must"
+      ],
+      "ex": "Marcus currere potest.",
+      "exT": "Marcus can run."
+    },
+    {
+      "c": "possumus",
+      "a": "we can",
+      "d": [
+        "they can",
+        "we want"
+      ]
+    },
+    {
+      "c": "potestis",
+      "a": "you can (more than one)",
+      "d": [
+        "we can",
+        "they can"
+      ]
+    },
+    {
+      "c": "possunt",
+      "a": "they can",
+      "d": [
+        "we can",
+        "they want"
+      ],
+      "ex": "Possunt, quia posse videntur.",
+      "exT": "They can because they think they can. (Vergil)"
+    },
+    {
+      "c": "poterat",
+      "a": "he/she could, was able",
+      "d": [
+        "he/she will be able",
+        "he/she can"
+      ]
+    },
+    {
+      "c": "poterit",
+      "a": "he/she will be able",
+      "d": [
+        "he/she was able",
+        "he/she can"
+      ]
+    },
+    {
+      "c": "velle",
+      "a": "to want, wish",
+      "d": [
+        "to fly",
+        "to be able"
+      ]
+    },
+    {
+      "c": "Volo legere.",
+      "a": "I want to read.",
+      "d": [
+        "I can read.",
+        "I must read."
+      ]
+    },
+    {
+      "c": "Quid vis?",
+      "a": "What do you want?",
+      "d": [
+        "What can you do?",
+        "Who are you?"
+      ]
+    },
+    {
+      "c": "vult",
+      "a": "he/she wants",
+      "d": [
+        "he/she can",
+        "he/she must"
+      ]
+    },
+    {
+      "c": "volumus",
+      "a": "we want",
+      "d": [
+        "we can",
+        "they want"
+      ]
+    },
+    {
+      "c": "volunt",
+      "a": "they want",
+      "d": [
+        "they can",
+        "we want"
+      ]
+    },
+    {
+      "c": "nolo",
+      "a": "I don't want",
+      "d": [
+        "I don't know",
+        "I can't"
+      ],
+      "ex": "Laborare nolo.",
+      "exT": "I don't want to work."
+    },
+    {
+      "c": "Noli timere.",
+      "a": "Don't be afraid. (to one person)",
+      "d": [
+        "Don't be silent. (to one person)",
+        "You must be afraid. (to one person)"
+      ],
+      "ex": "Noli timere, Marce.",
+      "exT": "Don't be afraid, Marcus."
+    },
+    {
+      "c": "Malo legere quam currere.",
+      "a": "I'd rather read than run.",
+      "d": [
+        "I can read and run.",
+        "I want to read and run."
+      ]
+    },
+    {
+      "c": "ire",
+      "a": "to go",
+      "d": [
+        "to come",
+        "to be"
+      ]
+    },
+    {
+      "c": "Eo ad forum.",
+      "a": "I'm going to the forum.",
+      "d": [
+        "I'm coming from the forum.",
+        "He goes to the forum."
+      ]
+    },
+    {
+      "c": "Marcus domum it.",
+      "a": "Marcus goes home.",
+      "d": [
+        "Marcus is at home.",
+        "Marcus comes from home."
+      ]
+    },
+    {
+      "c": "eunt",
+      "a": "they go",
+      "d": [
+        "they are",
+        "we go"
+      ],
+      "ex": "Pueri in ludum eunt.",
+      "exT": "The boys are going to school."
+    },
+    {
+      "c": "Ego Latine legere ___. (posse)",
+      "a": "possum",
+      "d": [
+        "potest",
+        "potes"
+      ],
+      "ex": "Ego Latine legere possum.",
+      "exT": "I can read Latin."
+    },
+    {
+      "c": "Nos venire non ___. (posse)",
+      "a": "possumus",
+      "d": [
+        "possunt",
+        "potestis"
+      ],
+      "ex": "Nos venire non possumus.",
+      "exT": "We cannot come."
+    },
+    {
+      "c": "Pueri currere ___. (posse)",
+      "a": "possunt",
+      "d": [
+        "potest",
+        "possumus"
+      ],
+      "ex": "Pueri currere possunt.",
+      "exT": "The boys can run."
+    },
+    {
+      "c": "Marcus domum ire ___. (velle)",
+      "a": "vult",
+      "d": [
+        "volunt",
+        "vis"
+      ],
+      "ex": "Marcus domum ire vult.",
+      "exT": "Marcus wants to go home."
+    },
+    {
+      "c": "Puellae cantare ___. (velle)",
+      "a": "volunt",
+      "d": [
+        "vult",
+        "volumus"
+      ],
+      "ex": "Puellae cantare volunt.",
+      "exT": "The girls want to sing."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Categorical logic and syllogisms",
+  "note": "Categorical statements relate two classes: A 'All S are P', E 'No S are P', I 'Some S are P', O 'Some S are not P'. A and O are contradictories, as are E and I. A syllogism has three terms: the major term (predicate of the conclusion), the minor term (subject of the conclusion), and the middle term, which appears in both premises but not the conclusion.",
+  "src": { "t": "The Traditional Square of Opposition, Stanford Encyclopedia of Philosophy", "u": "https://plato.stanford.edu/entries/square/" },
+  "items": [
+    { "c": "A proposition (universal affirmative)", "a": "All S are P", "d": ["No S are P", "Some S are P", "Some S are not P"] },
+    { "c": "E proposition (universal negative)", "a": "No S are P", "d": ["All S are P", "Some S are not P", "Some S are P"] },
+    { "c": "I proposition (particular affirmative)", "a": "Some S are P", "d": ["All S are P", "Some S are not P", "No S are P"] },
+    { "c": "O proposition (particular negative)", "a": "Some S are not P", "d": ["No S are P", "Some S are P", "All S are P"] },
+    { "c": "'Some students are not athletes' has form", "a": "O", "d": ["A", "E", "I"] },
+    { "c": "'No reptiles are mammals' has form", "a": "E", "d": ["A", "I", "O"] },
+    { "c": "Quantity of a categorical statement", "a": "universal or particular", "d": ["affirmative or negative", "true or false"] },
+    { "c": "Quality of a categorical statement", "a": "affirmative or negative", "d": ["universal or particular", "valid or invalid"] },
+    { "c": "Contradictories (A and O, E and I)", "a": "cannot both be true and cannot both be false", "d": ["cannot both be true, but can both be false", "cannot both be false, but can both be true"] },
+    { "c": "Contraries (A and E, traditional square)", "a": "cannot both be true, but can both be false", "d": ["cannot both be false, but can both be true", "cannot both be true and cannot both be false"] },
+    { "c": "Subcontraries (I and O, traditional square)", "a": "cannot both be false, but can both be true", "d": ["cannot both be true, but can both be false", "must always have the same truth value"] },
+    { "c": "Subalternation (traditional square)", "a": "if A is true, so is I; if E is true, so is O", "d": ["if I is true, so is A; if O is true, so is E", "if A is true, so is O; if E is true, so is I"] },
+    { "c": "Contradictory of 'All dogs bark'", "a": "Some dogs do not bark", "d": ["No dogs bark", "Some dogs bark"] },
+    { "c": "Contradictory of 'No lies are harmless'", "a": "Some lies are harmless", "d": ["All lies are harmless", "Some lies are not harmless"] },
+    { "c": "Relations kept by the modern (Boolean) square", "a": "only the contradictories", "d": ["only the contraries", "only subalternation", "all of the traditional ones"] },
+    { "c": "Existential import", "a": "implying that the subject class has members", "d": ["being about the physical world", "being the most important premise"] },
+    { "c": "Boolean reading: forms with existential import", "a": "only I and O", "d": ["only A and E", "all four forms", "only A and I"] },
+    { "c": "Major term of a syllogism", "a": "the predicate of the conclusion", "d": ["the subject of the conclusion", "the term found only in the premises"] },
+    { "c": "Minor term of a syllogism", "a": "the subject of the conclusion", "d": ["the predicate of the conclusion", "the term found only in the premises"] },
+    { "c": "Middle term of a syllogism", "a": "the term in both premises but not the conclusion", "d": ["the subject of the conclusion", "the predicate of the conclusion"] },
+    { "c": "Distributed term", "a": "a term referring to every member of its class", "d": ["a term that appears in both premises", "a term used in the conclusion"] },
+    { "c": "Terms distributed in an A statement", "a": "the subject only", "d": ["the predicate only", "both subject and predicate", "neither term"] },
+    { "c": "Terms distributed in an E statement", "a": "both subject and predicate", "d": ["the subject only", "the predicate only", "neither term"] },
+    { "c": "Terms distributed in an I statement", "a": "neither term", "d": ["the subject only", "the predicate only", "both subject and predicate"] },
+    { "c": "Terms distributed in an O statement", "a": "the predicate only", "d": ["the subject only", "neither term", "both subject and predicate"] },
+    { "c": "Traditional name of the AAA-1 syllogism", "a": "Barbara", "d": ["Celarent", "Darii", "Ferio"], "ex": "All M are P; all S are M; so all S are P." },
+    { "c": "Shading a region of a Venn diagram means", "a": "that region is empty", "d": ["that region has members", "that region is uncertain"] },
+    { "c": "An X or asterisk in a Venn region means", "a": "at least one thing is in that region", "d": ["that region is empty", "everything is in that region"] },
+    { "c": "Conversion (swap S and P) is valid for", "a": "E and I statements", "d": ["A and O statements", "all four forms", "A and E statements"] },
+    { "c": "Obversion", "a": "change the quality and negate the predicate", "d": ["swap the subject and the predicate", "swap and negate both terms"] },
+    { "c": "Contraposition is valid for", "a": "A and O statements", "d": ["E and I statements", "all four forms", "I and O statements"] },
+    { "c": "Obverse of 'All S are P'", "a": "No S are non-P", "d": ["No P are S", "Some S are non-P"] },
+    { "c": "Aristotle's work that develops the syllogism", "a": "Prior Analytics", "d": ["Nicomachean Ethics", "Rhetoric", "Metaphysics"] }
+  ],
+  "read": {
+    "title": "The square of opposition",
+    "text": [
+      "Categorical logic, begun by Aristotle, studies statements that relate two classes. There are four standard forms. A: All S are P. E: No S are P. I: Some S are P. O: Some S are not P. A and E are universal, I and O particular; A and I are affirmative, E and O negative.",
+      "The square of opposition maps their logical relations. A and O are contradictories, as are E and I: exactly one of each pair is true. 'All dogs bark' is false precisely when some dog does not bark. On the traditional square, A and E are contraries, which cannot both be true but can both be false, while I and O are subcontraries, which cannot both be false. Truth also flows downward: if all S are P, then some S are P.",
+      "Modern logic reads universal statements differently. 'All unicorns have horns' is treated as 'anything that is a unicorn has a horn', which is true if there are no unicorns at all. On this Boolean reading only I and O imply that something exists, so the downward inference fails, and only the contradictory relations survive.",
+      "Venn diagrams test these claims: shade a region to mark it empty, and place an X to mark that something is there."
+    ],
+    "q": [
+      { "q": "On any reading, what is the relation between 'All dogs bark' and 'Some dogs do not bark'?", "o": ["Contraries", "Subcontraries", "Contradictories"], "k": 2 },
+      { "q": "Why does the downward inference from A to I fail on the Boolean reading?", "o": ["Universal statements do not imply that their subjects exist", "I statements are always false", "A and I are contradictories"], "k": 0 },
+      { "q": "On the traditional square, contraries", "o": ["must have the same truth value", "cannot both be true but can both be false", "cannot both be false"], "k": 1 }
+    ]
+  }
+}

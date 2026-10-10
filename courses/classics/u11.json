@@ -1,0 +1,200 @@
+{
+  "title": "Darwin, On the Origin of Species",
+  "note": "Darwin opens the first edition of On the Origin of Species (1859) by telling how the voyage of HMS Beagle started his inquiry, and why Alfred Russel Wallace's independent arrival at the same theory pushed him to publish this 'Abstract' of a larger work.",
+  "src": {
+    "t": "On the Origin of Species, 1859 first edition, Project Gutenberg eBook #1228",
+    "u": "https://www.gutenberg.org/ebooks/1228"
+  },
+  "items": [
+    {
+      "c": "Ship on which Darwin sailed as naturalist",
+      "a": "HMS Beagle",
+      "d": [
+        "HMS Endeavour",
+        "HMS Bounty",
+        "HMS Victory"
+      ]
+    },
+    {
+      "c": "Continent whose species first struck Darwin",
+      "a": "South America",
+      "d": [
+        "Africa",
+        "Australia",
+        "Asia"
+      ]
+    },
+    {
+      "c": "the distribution of the inhabitants (Darwin)",
+      "a": "where living species are found geographically",
+      "d": [
+        "how food is shared among animals",
+        "how people settled the land"
+      ]
+    },
+    {
+      "c": "'that mystery of mysteries' (Darwin)",
+      "a": "the origin of species",
+      "d": [
+        "the origin of life",
+        "the age of the earth"
+      ]
+    },
+    {
+      "c": "Astronomer behind 'mystery of mysteries'",
+      "a": "John Herschel",
+      "d": [
+        "Isaac Newton",
+        "Edmond Halley",
+        "William Whewell"
+      ]
+    },
+    {
+      "c": "Year Darwin began gathering facts on species",
+      "a": "1837",
+      "d": [
+        "1831",
+        "1844",
+        "1859"
+      ]
+    },
+    {
+      "c": "Year Darwin enlarged his notes into a sketch",
+      "a": "1844",
+      "d": [
+        "1837",
+        "1858",
+        "1851"
+      ]
+    },
+    {
+      "c": "speculate (Darwin)",
+      "a": "form a theory from the evidence",
+      "d": [
+        "invest money for gain",
+        "doubt everything"
+      ]
+    },
+    {
+      "c": "Why Darwin recounts his personal history",
+      "a": "to show he was not hasty in his conclusions",
+      "d": [
+        "to win sympathy for his poor health",
+        "to claim credit over Lyell"
+      ]
+    },
+    {
+      "c": "Abstract (Darwin's word for the Origin)",
+      "a": "a shortened summary of a larger work",
+      "d": [
+        "a theory without evidence",
+        "a final, complete treatise"
+      ]
+    },
+    {
+      "c": "Naturalist who reached Darwin's conclusions too",
+      "a": "Alfred Russel Wallace",
+      "d": [
+        "Thomas Huxley",
+        "Gregor Mendel",
+        "Jean-Baptiste Lamarck"
+      ]
+    },
+    {
+      "c": "Where Wallace was studying in 1858",
+      "a": "the Malay archipelago",
+      "d": [
+        "the Galapagos Islands",
+        "the Amazon basin",
+        "the Cape of Good Hope"
+      ]
+    },
+    {
+      "c": "memoir (Darwin)",
+      "a": "a scholarly paper",
+      "d": [
+        "a life story",
+        "a private diary"
+      ]
+    },
+    {
+      "c": "Society whose journal printed Wallace's paper",
+      "a": "the Linnean Society",
+      "d": [
+        "the Royal Society",
+        "the Geological Society"
+      ]
+    },
+    {
+      "c": "Field of Sir Charles Lyell",
+      "a": "geology",
+      "d": [
+        "botany",
+        "astronomy",
+        "chemistry"
+      ]
+    },
+    {
+      "c": "Field of Dr. Joseph Hooker",
+      "a": "botany",
+      "d": [
+        "geology",
+        "zoology",
+        "astronomy"
+      ]
+    },
+    {
+      "c": "Year On the Origin of Species was published",
+      "a": "1859",
+      "d": [
+        "1831",
+        "1871",
+        "1844"
+      ]
+    },
+    {
+      "c": "Mechanism named in the Origin's full title",
+      "a": "natural selection",
+      "d": [
+        "inheritance of acquired traits",
+        "special creation"
+      ]
+    }
+  ],
+  "read": {
+    "title": "On the Origin of Species, Introduction (1859)",
+    "text": [
+      "When on board H.M.S. ‘Beagle,’ as naturalist, I was much struck with certain facts in the distribution of the inhabitants of South America, and in the geological relations of the present to the past inhabitants of that continent. These facts seemed to me to throw some light on the origin of species—that mystery of mysteries, as it has been called by one of our greatest philosophers. On my return home, it occurred to me, in 1837, that something might perhaps be made out on this question by patiently accumulating and reflecting on all sorts of facts which could possibly have any bearing on it. After five years’ work I allowed myself to speculate on the subject, and drew up some short notes; these I enlarged in 1844 into a sketch of the conclusions, which then seemed to me probable: from that period to the present day I have steadily pursued the same object. I hope that I may be excused for entering on these personal details, as I give them to show that I have not been hasty in coming to a decision.",
+      "My work is now nearly finished; but as it will take me two or three more years to complete it, and as my health is far from strong, I have been urged to publish this Abstract. I have more especially been induced to do this, as Mr. Wallace, who is now studying the natural history of the Malay archipelago, has arrived at almost exactly the same general conclusions that I have on the origin of species. Last year he sent to me a memoir on this subject, with a request that I would forward it to Sir Charles Lyell, who sent it to the Linnean Society, and it is published in the third volume of the Journal of that Society. Sir C. Lyell and Dr. Hooker, who both knew of my work—the latter having read my sketch of 1844—honoured me by thinking it advisable to publish, with Mr. Wallace’s excellent memoir, some brief extracts from my manuscripts."
+    ],
+    "q": [
+      {
+        "q": "What is the main purpose of these paragraphs?",
+        "o": [
+          "To explain how Darwin's long study began and why he is publishing a summary now",
+          "To argue that Wallace copied Darwin's work",
+          "To describe the animals of the Malay archipelago"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why did Wallace's memoir hasten Darwin's publication?",
+        "o": [
+          "Another naturalist had independently reached nearly the same conclusions",
+          "Wallace had attacked Darwin's ideas",
+          "Lyell had refused to read Darwin's sketch"
+        ],
+        "k": 0
+      },
+      {
+        "q": "'I have not been hasty in coming to a decision' means:",
+        "o": [
+          "he reached his conclusions slowly, over many years",
+          "he decided quickly after the voyage",
+          "he has not yet decided"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

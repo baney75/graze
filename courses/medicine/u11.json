@@ -1,0 +1,328 @@
+{
+ "title": "The clinical method: history, exam, diagnosis and evidence",
+ "note": "Diagnosis is a reasoning process: the history and examination generate a ranked differential diagnosis, and tests are chosen to raise or lower the probability of each item. Sensitivity and specificity describe the test itself; predictive values also depend on how common the condition is in the people tested.",
+ "src": {
+  "t": "StatPearls (NCBI Bookshelf), Diagnostic Testing Accuracy: Sensitivity, Specificity, Predictive Values and Likelihood Ratios",
+  "u": "https://www.ncbi.nlm.nih.gov/books/NBK557491/"
+ },
+ "items": [
+  {
+   "c": "Chief complaint",
+   "a": "The main reason for the visit, in the patient's words",
+   "d": [
+    "The final diagnosis after testing",
+    "The patient's list of medications"
+   ]
+  },
+  {
+   "c": "History of present illness",
+   "a": "A detailed account of the current problem",
+   "d": [
+    "Illnesses in blood relatives",
+    "A checklist of symptoms by body system"
+   ]
+  },
+  {
+   "c": "Review of systems",
+   "a": "A symptom checklist organized by body system",
+   "d": [
+    "A list of past surgeries",
+    "The exam of each organ system"
+   ]
+  },
+  {
+   "c": "Family history",
+   "a": "Health conditions in blood relatives",
+   "d": [
+    "Living situation and daily habits",
+    "Past illnesses of the patient"
+   ]
+  },
+  {
+   "c": "Social history",
+   "a": "Habits, work and living situation",
+   "d": [
+    "Conditions in blood relatives",
+    "Allergies and current medications"
+   ]
+  },
+  {
+   "c": "Symptom (versus sign)",
+   "a": "Something the patient experiences and reports",
+   "d": [
+    "A finding the examiner observes or measures",
+    "A lab value outside the reference range"
+   ]
+  },
+  {
+   "c": "Sign (versus symptom)",
+   "a": "An objective finding the examiner observes or measures",
+   "d": [
+    "Something the patient feels and reports",
+    "A diagnosis suggested by the patient"
+   ]
+  },
+  {
+   "c": "The four classic physical exam techniques",
+   "a": "Inspection, palpation, percussion, auscultation",
+   "d": [
+    "Interview, imaging, biopsy, culture",
+    "Observation, history, testing, treatment"
+   ]
+  },
+  {
+   "c": "Palpation",
+   "a": "Examining by touch",
+   "d": [
+    "Examining by listening",
+    "Examining by tapping"
+   ]
+  },
+  {
+   "c": "Percussion (physical exam)",
+   "a": "Tapping to judge what lies beneath",
+   "d": [
+    "Listening with a stethoscope",
+    "Looking closely at the surface"
+   ]
+  },
+  {
+   "c": "Auscultation",
+   "a": "Listening, usually with a stethoscope",
+   "d": [
+    "Feeling with the hands",
+    "Tapping over a body cavity"
+   ]
+  },
+  {
+   "c": "Why auscultate the abdomen before palpating",
+   "a": "Pressing can change bowel sounds",
+   "d": [
+    "Auscultation is always done last",
+    "Palpation requires a stethoscope"
+   ]
+  },
+  {
+   "c": "Differential diagnosis",
+   "a": "A ranked list of possible causes for the findings",
+   "d": [
+    "The single confirmed diagnosis",
+    "A list of tests ordered"
+   ]
+  },
+  {
+   "c": "Pretest probability",
+   "a": "Likelihood of a condition before a test is done",
+   "d": [
+    "Chance the test machine fails",
+    "Accuracy of the test in a lab"
+   ]
+  },
+  {
+   "c": "Anchoring bias",
+   "a": "Holding too firmly to an early impression",
+   "d": [
+    "Ordering every available test",
+    "Weighing all evidence equally"
+   ]
+  },
+  {
+   "c": "Premature closure",
+   "a": "Stopping the search once one plausible answer appears",
+   "d": [
+    "Refusing to make any diagnosis",
+    "Closing the chart before the visit ends"
+   ]
+  },
+  {
+   "c": "Sensitivity",
+   "a": "Share of people with the condition who test positive",
+   "d": [
+    "Share of people without it who test negative",
+    "Share of positive tests that are true"
+   ]
+  },
+  {
+   "c": "Specificity",
+   "a": "Share of people without the condition who test negative",
+   "d": [
+    "Share of people with it who test positive",
+    "Share of negative tests that are true"
+   ]
+  },
+  {
+   "c": "Positive predictive value (PPV)",
+   "a": "Share of positive results that are true positives",
+   "d": [
+    "Share of sick people who test positive",
+    "Share of negative results that are true negatives"
+   ]
+  },
+  {
+   "c": "Negative predictive value (NPV)",
+   "a": "Share of negative results that are true negatives",
+   "d": [
+    "Share of healthy people who test negative",
+    "Share of positive results that are true"
+   ]
+  },
+  {
+   "c": "Formula for sensitivity",
+   "a": "TP / (TP + FN)",
+   "d": [
+    "TN / (TN + FP)",
+    "TP / (TP + FP)"
+   ]
+  },
+  {
+   "c": "Formula for specificity",
+   "a": "TN / (TN + FP)",
+   "d": [
+    "TP / (TP + FN)",
+    "TN / (TN + FN)"
+   ]
+  },
+  {
+   "c": "Formula for positive predictive value",
+   "a": "TP / (TP + FP)",
+   "d": [
+    "TP / (TP + FN)",
+    "TN / (TN + FN)"
+   ]
+  },
+  {
+   "c": "SnNout",
+   "a": "A negative result on a very sensitive test helps rule out",
+   "d": [
+    "A positive result on a very sensitive test rules in",
+    "A negative result on a specific test rules in"
+   ]
+  },
+  {
+   "c": "SpPin",
+   "a": "A positive result on a very specific test helps rule in",
+   "d": [
+    "A negative result on a specific test rules out",
+    "A positive result on a sensitive test rules out"
+   ]
+  },
+  {
+   "c": "As prevalence rises, a test's PPV",
+   "a": "Rises",
+   "d": [
+    "Falls",
+    "Stays the same"
+   ]
+  },
+  {
+   "c": "Test measures not affected by prevalence",
+   "a": "Sensitivity, specificity and likelihood ratios",
+   "d": [
+    "PPV and NPV",
+    "Pretest and posttest probability"
+   ]
+  },
+  {
+   "c": "Positive likelihood ratio (LR+)",
+   "a": "Sensitivity / (1 − specificity)",
+   "d": [
+    "Specificity / (1 − sensitivity)",
+    "(1 − sensitivity) / specificity"
+   ]
+  },
+  {
+   "c": "90 of 100 affected people test positive: sensitivity?",
+   "a": "90%",
+   "d": [
+    "10%",
+    "100%"
+   ]
+  },
+  {
+   "c": "40 true positives and 10 false positives. PPV?",
+   "a": "80%",
+   "d": [
+    "40%",
+    "25%"
+   ]
+  },
+  {
+   "c": "Evidence-based medicine integrates",
+   "a": "Best research evidence, clinical expertise, patient values",
+   "d": [
+    "Expert opinion, tradition and cost",
+    "Lab results, imaging and billing codes"
+   ]
+  },
+  {
+   "c": "Highest level in the usual evidence hierarchy",
+   "a": "Systematic reviews and meta-analyses of RCTs",
+   "d": [
+    "Case reports",
+    "Expert opinion"
+   ]
+  },
+  {
+   "c": "Main purpose of randomization in a trial",
+   "a": "Balance known and unknown confounders between groups",
+   "d": [
+    "Make the trial cheaper",
+    "Ensure every participant gets the drug"
+   ]
+  },
+  {
+   "c": "Number needed to treat (NNT)",
+   "a": "1 / absolute risk reduction",
+   "d": [
+    "1 / relative risk",
+    "Absolute risk reduction × 100"
+   ]
+  },
+  {
+   "c": "Risk falls from 10% to 5% with treatment. NNT?",
+   "a": "20",
+   "d": [
+    "5",
+    "50"
+   ]
+  }
+ ],
+ "read": {
+  "title": "Why a positive test can still be wrong",
+  "text": [
+   "Imagine a test with 90 percent sensitivity and 90 percent specificity, used to screen 1,000 people. If the condition is present in 1 percent of them, 10 people have it. The test catches 9 of them. Of the 990 people without it, 10 percent, or 99, also test positive. That gives 108 positive results, of which only 9 are true. The positive predictive value is about 8 percent.",
+   "Now use the same test in a clinic where half of the 1,000 patients have the condition. It catches 450 of the 500 who have it and falsely flags 50 of the 500 who do not. Of 500 positives, 450 are true, so the positive predictive value is 90 percent. Nothing about the test changed. Only the pretest probability did.",
+   "This is why clinicians think about who is being tested. A good history and examination raise or lower the probability of a condition before any test is ordered, and that starting probability shapes how much a result should change their thinking. It is also why a screening program for a rare condition expects many false positives and plans confirmatory testing for anyone who screens positive."
+  ],
+  "q": [
+   {
+    "q": "In the 1% prevalence example, what is the PPV?",
+    "o": [
+     "About 90%",
+     "About 50%",
+     "About 8%",
+     "About 1%"
+    ],
+    "k": 2
+   },
+   {
+    "q": "Between the two examples, what changed?",
+    "o": [
+     "The test's sensitivity",
+     "The prevalence (pretest probability)",
+     "The test's specificity"
+    ],
+    "k": 1
+   },
+   {
+    "q": "Why do screening programs for rare conditions plan confirmatory testing?",
+    "o": [
+     "Most positive results will be false positives",
+     "Screening tests are never sensitive",
+     "Confirmatory tests are cheaper"
+    ],
+    "k": 0
+   }
+  ]
+ }
+}

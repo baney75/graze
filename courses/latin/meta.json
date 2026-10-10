@@ -1,0 +1,17 @@
+{
+  "key": "latin",
+  "name": "Latin",
+  "group": "Languages",
+  "tag": "LATINE",
+  "lang": "it-IT",
+  "speak": "listen",
+  "level": "Beginner to early intermediate",
+  "blurb": "Learn the five declensions and their cases, the four conjugations, sum and possum, the core tenses and about 700 high-frequency words, phrases and mottos, so you can start reading real Latin, from Caesar to the Vulgate and the Mass. No browser has a Latin voice, so audio uses an Italian voice, close to church pronunciation.",
+  "sources": [
+    { "t": "Dickinson College Commentaries, Latin Core Vocabulary", "u": "https://dcc.dickinson.edu/latin-core-list1" },
+    { "t": "Allen and Greenough, New Latin Grammar (DCC edition)", "u": "https://dcc.dickinson.edu/grammar/latin/text-search" },
+    { "t": "B. L. D'Ooge, Latin for Beginners (Project Gutenberg)", "u": "https://www.gutenberg.org/ebooks/18251" },
+    { "t": "Wiktionary, Appendix: Latin phrases", "u": "https://en.wiktionary.org/wiki/Appendix:Latin_phrases" },
+    { "t": "Biblia Sacra Vulgata (Stuttgart edition), Deutsche Bibelgesellschaft", "u": "https://www.die-bibel.de/en/bible/VUL/JHN.14" }
+  ]
+}

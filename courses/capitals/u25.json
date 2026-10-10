@@ -1,0 +1,26 @@
+{
+  "title": "Capitals of South and Central Asia",
+  "note": "Pakistan built Islamabad as a new capital in the 1960s, and Kazakhstan moved its capital from Almaty to Astana in 1997. Bishkek, Dushanbe and Ashgabat sit at the foot of mountain ranges.",
+  "src": {
+    "t": "CIA World Factbook (archived JSON edition)",
+    "u": "https://github.com/factbook/factbook.json"
+  },
+  "items": [
+    { "c": "Afghanistan", "a": "Kabul", "d": ["Kandahar", "Herat", "Mazar-i-Sharif"] },
+    { "c": "Pakistan", "a": "Islamabad", "d": ["Karachi", "Lahore", "Peshawar"] },
+    { "c": "India", "a": "New Delhi", "d": ["Mumbai", "Kolkata", "Bengaluru"] },
+    { "c": "Nepal", "a": "Kathmandu", "d": ["Pokhara", "Lalitpur", "Biratnagar"] },
+    { "c": "Bhutan", "a": "Thimphu", "d": ["Paro", "Punakha", "Phuntsholing"] },
+    { "c": "Bangladesh", "a": "Dhaka", "d": ["Chittagong", "Khulna", "Sylhet"] },
+    { "c": "Sri Lanka", "a": "Sri Jayewardenepura Kotte", "d": ["Kandy", "Galle", "Jaffna"], "ex": "Kotte is the legislative capital; neighboring Colombo is the commercial capital." },
+    { "c": "Maldives", "a": "Malé", "d": ["Addu City", "Fuvahmulah", "Kulhudhuffushi"] },
+    { "c": "Kazakhstan", "a": "Astana", "d": ["Almaty", "Shymkent", "Karaganda"], "ex": "Astana replaced Almaty as the capital in 1997." },
+    { "c": "Uzbekistan", "a": "Tashkent", "d": ["Samarkand", "Bukhara", "Namangan"] },
+    { "c": "Turkmenistan", "a": "Ashgabat", "d": ["Türkmenabat", "Mary", "Balkanabat"] },
+    { "c": "Kyrgyzstan", "a": "Bishkek", "d": ["Osh", "Jalal-Abad", "Karakol"] },
+    { "c": "Tajikistan", "a": "Dushanbe", "d": ["Khujand", "Kulob", "Bokhtar"] },
+    { "c": "Georgia", "a": "Tbilisi", "d": ["Batumi", "Rustavi", "Zugdidi"] },
+    { "c": "Armenia", "a": "Yerevan", "d": ["Gyumri", "Vanadzor", "Vagharshapat"] },
+    { "c": "Azerbaijan", "a": "Baku", "d": ["Ganja", "Sumgait", "Lankaran"] }
+  ]
+}

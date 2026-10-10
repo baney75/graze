@@ -1,0 +1,54 @@
+{
+  "title": "Urinary system: kidneys to urethra",
+  "note": "Kidney has a Greek root (nephr/o) and a Latin one (ren/o); bladder is cyst/o or vesic/o. The suffix -uria means urine or urination. Do not confuse pyel/o (renal pelvis) with py/o (pus), or ureter/o (kidney to bladder) with urethr/o (bladder to outside).",
+  "src": { "t": "Medical Terminology 2e (Open RN), 5.3 Word Components Related to the Urinary System", "u": "https://med.libretexts.org/Bookshelves/Medicine/Medical_Terminology_2e_(OpenRN)/05%3A_Urinary_System_Terminology/5.03%3A_Word_Components_Related_to_the_Urinary_System" },
+  "items": [
+    { "c": "nephr/o, ren/o", "a": "kidney", "d": ["bladder", "ureter"] },
+    { "c": "cyst/o, vesic/o", "a": "bladder, sac", "d": ["kidney", "urethra"] },
+    { "c": "ureter/o", "a": "ureter, tube from kidney to bladder", "d": ["urethra, tube from bladder to outside", "renal pelvis, collecting basin of the kidney"] },
+    { "c": "urethr/o", "a": "urethra, tube from bladder to outside", "d": ["ureter, tube from kidney to bladder", "meatus, opening of a canal"] },
+    { "c": "pyel/o", "a": "renal pelvis", "d": ["pus", "glomerulus"] },
+    { "c": "glomerul/o", "a": "glomerulus, filtering capillaries of the kidney", "d": ["renal pelvis, collecting basin of the kidney", "ureter, tube from kidney to bladder"] },
+    { "c": "ur/o, urin/o", "a": "urine, urinary tract", "d": ["sweat", "blood"] },
+    { "c": "-uria", "a": "urine, urination", "d": ["blood condition", "flow, discharge"] },
+    { "c": "lith/o", "a": "stone", "d": ["sac", "sugar"] },
+    { "c": "noct/i", "a": "night", "d": ["day", "sleep"] },
+    { "c": "olig/o", "a": "few, scanty", "d": ["many, much", "none"] },
+    { "c": "azot/o", "a": "urea, nitrogen", "d": ["sugar", "albumin"] },
+    { "c": "glyc/o, glycos/o", "a": "sugar", "d": ["salt", "fat"] },
+    { "c": "albumin/o", "a": "albumin, a blood protein", "d": ["urea, a nitrogen waste", "glucose, a sugar"] },
+    { "c": "hydr/o", "a": "water", "d": ["sweat", "stone"] },
+    { "c": "an/uria", "a": "absence of urine production", "d": ["scanty urine production", "painful urination"] },
+    { "c": "olig/uria", "a": "scanty urine production", "d": ["absence of urine production", "excessive urine production"] },
+    { "c": "dys/uria", "a": "painful or difficult urination", "d": ["urination at night", "blood in the urine"] },
+    { "c": "noct/uria", "a": "excessive urination at night", "d": ["absence of urination at night", "painful urination by day"] },
+    { "c": "hemat/uria", "a": "blood in the urine", "d": ["pus in the urine", "sugar in the urine"] },
+    { "c": "py/uria", "a": "pus in the urine", "d": ["blood in the urine", "protein in the urine"] },
+    { "c": "glycos/uria", "a": "sugar in the urine", "d": ["protein in the urine", "pus in the urine"] },
+    { "c": "cyst/itis", "a": "inflammation of the bladder", "d": ["inflammation of the kidney", "inflammation of the urethra"] },
+    { "c": "pyel/o/nephr/itis", "a": "inflammation of the renal pelvis and kidney", "d": ["inflammation of the bladder and urethra", "inflammation of the glomeruli"] },
+    { "c": "nephr/o/lith/iasis", "a": "condition of kidney stones", "d": ["condition of gallstones", "enlargement of the kidney"] },
+    { "c": "hydr/o/nephr/osis", "a": "swelling of the kidney with trapped urine", "d": ["condition of kidney stones", "hardening of the kidney"] },
+    { "c": "nephr/o/ptosis", "a": "drooping (prolapse) of a kidney", "d": ["surgical fixation of a kidney", "narrowing of a ureter"] },
+    { "c": "nephr/ectomy", "a": "removal of a kidney", "d": ["incision into a kidney", "fixation of a kidney"] },
+    { "c": "cyst/o/scopy", "a": "visual examination of the bladder", "d": ["image of the kidneys", "removal of the bladder"] },
+    { "c": "urinalysis", "a": "laboratory analysis of urine", "d": ["filtering of blood by machine", "measurement of kidney size"] },
+    { "c": "dia-", "a": "through, complete", "d": ["around, surrounding", "below, under"] },
+    { "c": "hem/o/dia/lysis", "a": "filtering wastes from blood with a machine", "d": ["breakdown of red blood cells", "crushing of a kidney stone"] },
+    { "c": "Functional unit of the kidney", "a": "nephron", "d": ["glomerulus", "renal pelvis"] },
+    { "c": "Organ that stores urine", "a": "urinary bladder", "d": ["kidney", "ureter"] }
+  ],
+  "read": {
+    "title": "Filter, funnel, store, release",
+    "text": [
+      "The urinary system makes, carries and stores urine. Each kidney (nephr/o, ren/o) holds about a million nephrons, its functional units. At the start of each nephron a glomerulus, a tuft of capillaries, filters the blood; the tubules then reclaim water and useful substances and leave wastes behind. Urine collects in the renal pelvis (pyel/o), drains down a ureter (ureter/o) to the bladder (cyst/o, vesic/o), and leaves through the urethra (urethr/o).",
+      "Two spelling traps deserve attention. Ureter and urethra are different tubes: there are two ureters, one from each kidney, but only one urethra. And pyel/o, the renal pelvis, is not py/o, pus, so pyelonephritis involves the kidney while pyuria means pus in the urine.",
+      "Many urinary terms end in -uria. Put a word part in front to say what is unusual: anuria is no urine, oliguria is scanty urine, nocturia is excessive urination at night, and hematuria is blood in the urine. Procedure terms reuse familiar suffixes: cystoscopy views the bladder and nephrectomy removes a kidney."
+    ],
+    "q": [
+      { "q": "What is the functional unit of the kidney?", "o": ["The nephron", "The ureter", "The renal pelvis", "The bladder"], "k": 0 },
+      { "q": "How many ureters and urethras does a person normally have?", "o": ["Two ureters, one urethra", "One ureter, two urethras", "Two of each"], "k": 0 },
+      { "q": "What does pyuria mean?", "o": ["Pus in the urine", "Inflammation of the renal pelvis", "Fever with urination"], "k": 0 }
+    ]
+  }
+}

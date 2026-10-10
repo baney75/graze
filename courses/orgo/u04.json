@@ -1,0 +1,322 @@
+{
+  "title": "Functional groups",
+  "note": "A functional group is the part of a molecule that sets its characteristic reactions; the rest is the carbon skeleton, written R. Learn to spot the carbonyl family by what is attached to the C=O: H (aldehyde), two carbons (ketone), OH (acid), OR (ester), N (amide), Cl (acid chloride).",
+  "src": {
+    "t": "LibreTexts, Organic Chemistry (Morsch et al.), Ch. 3 Organic Compounds: Alkanes (3.1 Functional Groups)",
+    "u": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/03%3A_Organic_Compounds-_Alkanes_and_Their_Stereochemistry"
+  },
+  "items": [
+    {
+      "c": "Functional group",
+      "a": "atom group that sets a molecule's typical reactions",
+      "d": [
+        "the longest carbon chain in a molecule",
+        "any carbon bonded to four hydrogens"
+      ]
+    },
+    {
+      "c": "R–OH",
+      "a": "alcohol",
+      "d": [
+        "ether",
+        "aldehyde"
+      ]
+    },
+    {
+      "c": "R–O–R′",
+      "a": "ether",
+      "d": [
+        "ester",
+        "alcohol"
+      ]
+    },
+    {
+      "c": "R–CHO",
+      "a": "aldehyde",
+      "d": [
+        "ketone",
+        "carboxylic acid"
+      ]
+    },
+    {
+      "c": "R–CO–R′",
+      "a": "ketone",
+      "d": [
+        "aldehyde",
+        "ester"
+      ]
+    },
+    {
+      "c": "R–COOH",
+      "a": "carboxylic acid",
+      "d": [
+        "ester",
+        "aldehyde"
+      ]
+    },
+    {
+      "c": "R–COOR′",
+      "a": "ester",
+      "d": [
+        "ether",
+        "carboxylic acid"
+      ]
+    },
+    {
+      "c": "R–CONH₂",
+      "a": "amide",
+      "d": [
+        "amine",
+        "nitrile"
+      ]
+    },
+    {
+      "c": "R–NH₂",
+      "a": "primary amine",
+      "d": [
+        "amide",
+        "secondary amine"
+      ]
+    },
+    {
+      "c": "R₂NH",
+      "a": "secondary amine",
+      "d": [
+        "primary amine",
+        "tertiary amine"
+      ]
+    },
+    {
+      "c": "R₃N",
+      "a": "tertiary amine",
+      "d": [
+        "secondary amine",
+        "quaternary ammonium ion"
+      ]
+    },
+    {
+      "c": "R₄N⁺",
+      "a": "quaternary ammonium ion",
+      "d": [
+        "tertiary amine",
+        "imine"
+      ]
+    },
+    {
+      "c": "R–C≡N",
+      "a": "nitrile",
+      "d": [
+        "imine",
+        "alkyne"
+      ]
+    },
+    {
+      "c": "R₂C=N–R′",
+      "a": "imine",
+      "d": [
+        "nitrile",
+        "amide"
+      ]
+    },
+    {
+      "c": "R–NO₂",
+      "a": "nitro compound",
+      "d": [
+        "nitrile",
+        "amine"
+      ]
+    },
+    {
+      "c": "R–X (X = halogen)",
+      "a": "alkyl halide",
+      "d": [
+        "acid chloride",
+        "thiol"
+      ]
+    },
+    {
+      "c": "R–SH",
+      "a": "thiol",
+      "d": [
+        "sulfide",
+        "alcohol"
+      ]
+    },
+    {
+      "c": "R–S–R′",
+      "a": "sulfide (thioether)",
+      "d": [
+        "thiol",
+        "disulfide"
+      ]
+    },
+    {
+      "c": "R–S–S–R′",
+      "a": "disulfide",
+      "d": [
+        "sulfide (thioether)",
+        "thiol"
+      ]
+    },
+    {
+      "c": "R–COCl",
+      "a": "acid chloride",
+      "d": [
+        "alkyl halide",
+        "acid anhydride"
+      ]
+    },
+    {
+      "c": "(RCO)₂O",
+      "a": "acid anhydride",
+      "d": [
+        "ester",
+        "ether"
+      ]
+    },
+    {
+      "c": "R₂C=CR₂",
+      "a": "alkene",
+      "d": [
+        "alkyne",
+        "arene"
+      ]
+    },
+    {
+      "c": "R–C≡C–R′",
+      "a": "alkyne",
+      "d": [
+        "alkene",
+        "nitrile"
+      ]
+    },
+    {
+      "c": "Three-membered ring of two C and one O",
+      "a": "epoxide",
+      "d": [
+        "cyclic ester (lactone)",
+        "acetal"
+      ]
+    },
+    {
+      "c": "OH bonded directly to a benzene ring",
+      "a": "phenol",
+      "d": [
+        "benzyl alcohol",
+        "anisole"
+      ]
+    },
+    {
+      "c": "C₆H₅– substituent",
+      "a": "phenyl group",
+      "d": [
+        "benzyl group",
+        "vinyl group"
+      ]
+    },
+    {
+      "c": "C₆H₅CH₂– substituent",
+      "a": "benzyl group",
+      "d": [
+        "phenyl group",
+        "allyl group"
+      ]
+    },
+    {
+      "c": "The C=O unit",
+      "a": "carbonyl group",
+      "d": [
+        "carboxyl group",
+        "hydroxyl group"
+      ]
+    },
+    {
+      "c": "The –OH unit",
+      "a": "hydroxyl group",
+      "d": [
+        "carbonyl group",
+        "carboxyl group"
+      ]
+    },
+    {
+      "c": "The –COOH unit",
+      "a": "carboxyl group",
+      "d": [
+        "carbonyl group",
+        "hydroxyl group"
+      ]
+    },
+    {
+      "c": "Alcohol with 2 carbons on its C–OH carbon",
+      "a": "secondary (2°) alcohol",
+      "d": [
+        "primary (1°) alcohol",
+        "tertiary (3°) alcohol"
+      ]
+    },
+    {
+      "c": "Alcohol with 3 carbons on its C–OH carbon",
+      "a": "tertiary (3°) alcohol",
+      "d": [
+        "secondary (2°) alcohol",
+        "quaternary (4°) alcohol"
+      ]
+    },
+    {
+      "c": "HCHO, the simplest aldehyde",
+      "a": "formaldehyde (methanal)",
+      "d": [
+        "acetaldehyde (ethanal)",
+        "formic acid (methanoic acid)"
+      ]
+    },
+    {
+      "c": "CH₃COCH₃, the simplest ketone",
+      "a": "acetone (propanone)",
+      "d": [
+        "acetaldehyde (ethanal)",
+        "propanal"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Seeing the reactive part",
+    "text": [
+      "Millions of organic compounds exist, but they behave in a few dozen predictable ways because reactivity lives in functional groups. A hydroxyl group reacts much the same in a two-carbon alcohol as in a twenty-carbon steroid. Chemists therefore write the unreactive carbon framework as R and focus on the group itself.",
+      "Some groups contain only carbon: alkenes have a C=C, alkynes a C≡C, and arenes a benzene-type ring. Others put a single bond from carbon to an electronegative atom: alcohols (C–OH), ethers (C–O–C), alkyl halides (C–X), amines (C–N) and thiols (C–SH).",
+      "The largest family contains the carbonyl group, C=O. What sits next to the carbonyl decides the name. With a hydrogen it is an aldehyde; with two carbons, a ketone. With an OH it is a carboxylic acid, with an OR an ester, with a nitrogen an amide, and with a chlorine an acid chloride. The last four, which carry an electronegative atom on the carbonyl carbon, are the carboxylic acid derivatives, and they share a reaction pattern you will meet later: nucleophilic acyl substitution."
+    ],
+    "q": [
+      {
+        "q": "What does R stand for in a general formula like R–OH?",
+        "o": [
+          "A reactive halogen",
+          "The carbon framework",
+          "A ring",
+          "A radical"
+        ],
+        "k": 1
+      },
+      {
+        "q": "A carbonyl carbon bonded to two other carbons is part of a",
+        "o": [
+          "Aldehyde",
+          "Ester",
+          "Ketone",
+          "Amide"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Which group is a carboxylic acid derivative?",
+        "o": [
+          "Ketone",
+          "Ether",
+          "Alkene",
+          "Ester"
+        ],
+        "k": 3
+      }
+    ]
+  }
+}

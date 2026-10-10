@@ -1,0 +1,365 @@
+{
+  "title": "Pronouns",
+  "note": "ἐγώ: με, μου, μοι; σύ: σε, σου, σοι; ἡμεῖς: ἡμᾶς, ἡμῶν, ἡμῖν; ὑμεῖς: ὑμᾶς, ὑμῶν, ὑμῖν. αὐτός in other cases means him, her, it (αὐτοῦ, his); with a noun outside the article it means 'self' (αὐτὸς ὁ θεός, God himself), and after the article 'same' (ὁ αὐτὸς λόγος). οὗτος is 'this', ἐκεῖνος 'that'; both stand outside the article: οὗτος ὁ ἄνθρωπος.",
+  "src": {
+    "t": "Dickinson College Commentaries, Greek Core Vocabulary",
+    "u": "https://dcc.dickinson.edu/greek-core-list"
+  },
+  "items": [
+    {
+      "c": "με",
+      "a": "me",
+      "d": [
+        "my",
+        "to me"
+      ],
+      "ex": "ὁ πέμψας με",
+      "exT": "the one who sent me",
+      "r": "me"
+    },
+    {
+      "c": "μου",
+      "a": "my, of me",
+      "d": [
+        "me",
+        "to me, for me"
+      ],
+      "ex": "ὁ πατήρ μου",
+      "exT": "my father",
+      "r": "mou"
+    },
+    {
+      "c": "μοι",
+      "a": "to me, for me",
+      "d": [
+        "my, of me",
+        "me"
+      ],
+      "ex": "ἀκολούθει μοι.",
+      "exT": "Follow me.",
+      "r": "moi"
+    },
+    {
+      "c": "σε",
+      "a": "you (one person, as object)",
+      "d": [
+        "your (one person)",
+        "to you (one person)"
+      ],
+      "r": "se"
+    },
+    {
+      "c": "σου",
+      "a": "your (one person)",
+      "d": [
+        "your (plural)",
+        "to you (one person)"
+      ],
+      "ex": "τὸ ὄνομά σου",
+      "exT": "your name",
+      "r": "sou"
+    },
+    {
+      "c": "σοι",
+      "a": "to you, for you (one person)",
+      "d": [
+        "your (one person)",
+        "to you, for you (plural)"
+      ],
+      "ex": "λέγω σοι.",
+      "exT": "I say to you.",
+      "r": "soi"
+    },
+    {
+      "c": "ἡμᾶς",
+      "a": "us",
+      "d": [
+        "our",
+        "you (plural)"
+      ],
+      "r": "hēmas"
+    },
+    {
+      "c": "ἡμῶν",
+      "a": "our, of us",
+      "d": [
+        "your (plural)",
+        "us"
+      ],
+      "ex": "Πάτερ ἡμῶν",
+      "exT": "Our Father",
+      "r": "hēmōn"
+    },
+    {
+      "c": "ἡμῖν",
+      "a": "to us, for us",
+      "d": [
+        "to you, for you (plural)",
+        "our"
+      ],
+      "r": "hēmin"
+    },
+    {
+      "c": "ὑμᾶς",
+      "a": "you (plural, as object)",
+      "d": [
+        "us",
+        "your (plural)"
+      ],
+      "r": "hymas"
+    },
+    {
+      "c": "ὑμῶν",
+      "a": "your (plural)",
+      "d": [
+        "our, of us",
+        "your (one person)"
+      ],
+      "r": "hymōn"
+    },
+    {
+      "c": "ὑμῖν",
+      "a": "to you, for you (plural)",
+      "d": [
+        "to us, for us",
+        "to you, for you (one person)"
+      ],
+      "r": "hymin"
+    },
+    {
+      "c": "αὐτοῦ",
+      "a": "his, of him; its",
+      "d": [
+        "her, of her",
+        "their, of them"
+      ],
+      "ex": "οἱ μαθηταὶ αὐτοῦ",
+      "exT": "his disciples",
+      "r": "autou"
+    },
+    {
+      "c": "αὐτῆς",
+      "a": "her, of her",
+      "d": [
+        "his, of him; its",
+        "their, of them"
+      ],
+      "r": "autēs"
+    },
+    {
+      "c": "αὐτόν",
+      "a": "him (as object)",
+      "d": [
+        "her (as object)",
+        "to him"
+      ],
+      "r": "auton"
+    },
+    {
+      "c": "αὐτῷ",
+      "a": "to him, for him",
+      "d": [
+        "him (as object)",
+        "his, of him; its"
+      ],
+      "r": "autō"
+    },
+    {
+      "c": "αὐτῶν",
+      "a": "their, of them",
+      "d": [
+        "his, of him; its",
+        "to them"
+      ],
+      "r": "autōn"
+    },
+    {
+      "c": "ὁ αὐτὸς λόγος",
+      "a": "the same word",
+      "d": [
+        "the word itself",
+        "his word"
+      ],
+      "r": "ho autos logos"
+    },
+    {
+      "c": "αὐτὸς ὁ θεός",
+      "a": "God himself",
+      "d": [
+        "the same God",
+        "his God"
+      ],
+      "r": "autos ho theos"
+    },
+    {
+      "c": "οὗτος, αὕτη, τοῦτο",
+      "a": "this",
+      "d": [
+        "that",
+        "he, she, it"
+      ],
+      "ex": "οὗτος ὁ ἄνθρωπος",
+      "exT": "this man",
+      "r": "houtos, hautē, touto"
+    },
+    {
+      "c": "ἐκεῖνος, ἐκείνη, ἐκεῖνο",
+      "a": "that",
+      "d": [
+        "this",
+        "such"
+      ],
+      "ex": "ἐν ἐκείνῃ τῇ ἡμέρᾳ",
+      "exT": "on that day",
+      "r": "ekeinos, ekeinē, ekeino"
+    },
+    {
+      "c": "ὅς, ἥ, ὅ",
+      "a": "who, which, that (relative)",
+      "d": [
+        "who? what? (question)",
+        "someone, something"
+      ],
+      "r": "hos, hē, ho"
+    },
+    {
+      "c": "τίς, τί",
+      "a": "who? what? (question)",
+      "d": [
+        "who, which, that (relative)",
+        "someone, something"
+      ],
+      "ex": "τίς εἶ;",
+      "exT": "Who are you?",
+      "r": "tis, ti"
+    },
+    {
+      "c": "τις, τι",
+      "a": "someone, something; a certain",
+      "d": [
+        "who? what? (question)",
+        "no one, nothing"
+      ],
+      "ex": "ἄνθρωπός τις",
+      "exT": "a certain man",
+      "r": "tis, ti"
+    },
+    {
+      "c": "ἑαυτοῦ, -ῆς, -οῦ",
+      "a": "of himself, herself, itself (reflexive)",
+      "d": [
+        "of one another",
+        "of the same"
+      ],
+      "r": "heautou",
+      "say": "ἑαυτοῦ"
+    },
+    {
+      "c": "σεαυτόν",
+      "a": "yourself (one person, as object)",
+      "d": [
+        "himself",
+        "one another"
+      ],
+      "r": "seauton"
+    },
+    {
+      "c": "ἀλλήλων",
+      "a": "of one another, of each other",
+      "d": [
+        "of themselves",
+        "of others"
+      ],
+      "ex": "ἀγαπᾶτε ἀλλήλους.",
+      "exT": "Love one another.",
+      "r": "allēlōn"
+    },
+    {
+      "c": "οὐδείς, οὐδεμία, οὐδέν",
+      "a": "no one, nothing",
+      "d": [
+        "someone, something",
+        "each, every"
+      ],
+      "r": "oudeis, oudemia, ouden"
+    },
+    {
+      "c": "ἐμός, ἐμή, ἐμόν",
+      "a": "my, mine",
+      "d": [
+        "your, yours (one person)",
+        "our, ours"
+      ],
+      "r": "emos, emē, emon"
+    },
+    {
+      "c": "ἀμὴν λέγω ___. (I say to you, plural)",
+      "a": "ὑμῖν",
+      "d": [
+        "ὑμᾶς",
+        "ὑμῶν"
+      ]
+    },
+    {
+      "c": "this (feminine nominative singular)",
+      "a": "αὕτη",
+      "d": [
+        "αὐτή",
+        "ταύτην"
+      ]
+    },
+    {
+      "c": "this (neuter nominative singular)",
+      "a": "τοῦτο",
+      "d": [
+        "τοῦτον",
+        "ταῦτα"
+      ]
+    },
+    {
+      "c": "ἡ βασιλεία ___ (his kingdom)",
+      "a": "αὐτοῦ",
+      "d": [
+        "αὐτῷ",
+        "αὐτόν"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Who is this?",
+    "text": [
+      "Ὁ Ἰησοῦς λέγει τοῖς μαθηταῖς αὐτοῦ· Ὑμεῖς ἐστε οἱ φίλοι μου. ἐγὼ ἀγαπῶ ὑμᾶς, καὶ ὑμεῖς ἀγαπᾶτε ἀλλήλους.",
+      "Ὁ δὲ Πέτρος λέγει αὐτῷ· Κύριε, ποῦ μένεις; ὁ δὲ λέγει· Ἐν τῇ οἰκίᾳ τοῦ πατρός μου. τοῦτο τὸ ῥῆμα οὐκ ἐγίνωσκον οἱ μαθηταί.",
+      "Τότε τις ἐκ τοῦ ὄχλου εἶπεν· Τίς ἐστιν οὗτος; ἄλλος δὲ εἶπεν· Οὗτός ἐστιν ὁ προφήτης. ἐκεῖνος δὲ ὁ ἄνθρωπος οὐκ ἐπίστευσεν."
+    ],
+    "q": [
+      {
+        "q": "What does Jesus call his disciples?",
+        "o": [
+          "his servants",
+          "his friends",
+          "his brothers"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Where does Jesus say he stays?",
+        "o": [
+          "in his father's house",
+          "in the temple",
+          "on the mountain"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does one man in the crowd say about Jesus?",
+        "o": [
+          "He is a king.",
+          "He is a scribe.",
+          "He is the prophet."
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

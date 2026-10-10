@@ -1,0 +1,368 @@
+{
+  "title": "Carboxylic acids and their derivatives",
+  "note": "Acid derivatives react by nucleophilic acyl substitution: the nucleophile adds to C=O to give a tetrahedral intermediate, which then expels the leaving group. Reactivity runs acid chloride > anhydride > ester > amide, and reactions run downhill: a more reactive derivative can make a less reactive one, not the reverse.",
+  "src": {
+    "t": "OpenStax, Organic Chemistry, 21.2 Nucleophilic Acyl Substitution Reactions",
+    "u": "https://openstax.org/books/organic-chemistry/pages/21-2-nucleophilic-acyl-substitution-reactions"
+  },
+  "items": [
+    {
+      "c": "Reactivity order of carboxylic acid derivatives",
+      "a": "acid chloride > anhydride > ester > amide",
+      "d": [
+        "amide > ester > anhydride > acid chloride",
+        "ester > acid chloride > amide > anhydride"
+      ]
+    },
+    {
+      "c": "Nucleophilic acyl substitution happens by",
+      "a": "addition to C=O, then loss of the leaving group",
+      "d": [
+        "one-step backside displacement, as in SN2",
+        "loss of H⁺ from the α carbon, then attack"
+      ]
+    },
+    {
+      "c": "Intermediate in nucleophilic acyl substitution",
+      "a": "a tetrahedral intermediate",
+      "d": [
+        "a planar carbocation",
+        "a free radical"
+      ]
+    },
+    {
+      "c": "Why ketones don’t undergo acyl substitution",
+      "a": "H⁻ and R⁻ are not leaving groups",
+      "d": [
+        "their carbonyl carbon is not electrophilic",
+        "they cannot form a tetrahedral intermediate"
+      ]
+    },
+    {
+      "c": "Why acid chlorides are the most reactive",
+      "a": "Cl withdraws electrons, so C=O is very electrophilic",
+      "d": [
+        "Cl donates electrons strongly by resonance",
+        "the C=O of an acid chloride is nonpolar"
+      ]
+    },
+    {
+      "c": "Why amides are the least reactive derivative",
+      "a": "N's lone pair donates strongly into the C=O",
+      "d": [
+        "N is more electronegative than O",
+        "amides have no carbonyl group"
+      ]
+    },
+    {
+      "c": "Convert an amide directly to an acid chloride?",
+      "a": "no; reactions run from more to less reactive",
+      "d": [
+        "yes, with water at room temperature",
+        "yes, with an alcohol and acid"
+      ]
+    },
+    {
+      "c": "Fischer esterification",
+      "a": "acid + alcohol (H⁺) → ester",
+      "d": [
+        "acid chloride + amine → amide",
+        "ester + NaOH → carboxylate + alcohol"
+      ]
+    },
+    {
+      "c": "Driving a Fischer esterification toward ester",
+      "a": "use excess alcohol or remove the water",
+      "d": [
+        "add extra water",
+        "add a full equivalent of NaOH"
+      ],
+      "ex": "Every step is reversible, and K is close to 1."
+    },
+    {
+      "c": "SOCl₂ + a carboxylic acid",
+      "a": "acid chloride",
+      "d": [
+        "alkyl chloride",
+        "acid anhydride"
+      ]
+    },
+    {
+      "c": "Acid chloride + an alcohol, pyridine",
+      "a": "ester",
+      "d": [
+        "ether",
+        "aldehyde"
+      ]
+    },
+    {
+      "c": "Acid chloride + 2 equiv of an amine",
+      "a": "amide",
+      "d": [
+        "imine",
+        "nitrile"
+      ],
+      "ex": "The second equivalent of amine soaks up the HCl formed."
+    },
+    {
+      "c": "Acid chloride + a carboxylate ion",
+      "a": "acid anhydride",
+      "d": [
+        "ester",
+        "lactone"
+      ]
+    },
+    {
+      "c": "Acid chloride + water",
+      "a": "carboxylic acid + HCl",
+      "d": [
+        "aldehyde + HCl",
+        "alcohol + HCl"
+      ]
+    },
+    {
+      "c": "Acid chloride + R₂CuLi (Gilman), −78 °C",
+      "a": "ketone, which can be isolated",
+      "d": [
+        "tertiary alcohol",
+        "carboxylic acid"
+      ]
+    },
+    {
+      "c": "Ester + excess RMgBr, then H₃O⁺",
+      "a": "tertiary alcohol with two identical R groups",
+      "d": [
+        "ketone, which can be isolated",
+        "secondary alcohol"
+      ],
+      "ex": "A ketone forms first and adds a second Grignard."
+    },
+    {
+      "c": "LiAlH₄",
+      "a": "strong reducer: esters and acids to alcohols",
+      "d": [
+        "mild reducer: aldehydes and ketones only",
+        "oxidizer: alcohols to carboxylic acids"
+      ]
+    },
+    {
+      "c": "LiAlH₄ + an ester, then H₃O⁺",
+      "a": "1° alcohol from the acyl part, plus R′OH",
+      "d": [
+        "aldehyde from the acyl part, plus R′OH",
+        "an ether, RCH₂–O–R′"
+      ]
+    },
+    {
+      "c": "DIBAH (1 equiv), −78 °C + an ester",
+      "a": "aldehyde",
+      "d": [
+        "primary alcohol",
+        "carboxylic acid"
+      ]
+    },
+    {
+      "c": "Reagent to reduce a ketone but leave an ester",
+      "a": "NaBH₄",
+      "d": [
+        "LiAlH₄",
+        "DIBAH in excess"
+      ]
+    },
+    {
+      "c": "BH₃ in THF + a carboxylic acid",
+      "a": "primary alcohol",
+      "d": [
+        "alkane",
+        "ester"
+      ]
+    },
+    {
+      "c": "LiAlH₄ + an amide, then H₂O",
+      "a": "amine; the C=O becomes CH₂",
+      "d": [
+        "alcohol plus an amine",
+        "aldehyde plus ammonia"
+      ]
+    },
+    {
+      "c": "Saponification",
+      "a": "base hydrolysis of an ester to carboxylate + alcohol",
+      "d": [
+        "acid-catalyzed formation of an ester",
+        "reduction of an ester to two alcohols"
+      ]
+    },
+    {
+      "c": "Why saponification goes to completion",
+      "a": "the acid formed is deprotonated to carboxylate",
+      "d": [
+        "the alcohol formed precipitates",
+        "hydroxide is regenerated at the end"
+      ]
+    },
+    {
+      "c": "Conditions to hydrolyze an amide",
+      "a": "prolonged heating in strong acid or base",
+      "d": [
+        "water at room temperature",
+        "dilute NaHCO₃ at room temperature"
+      ]
+    },
+    {
+      "c": "Nitrile + H₃O⁺, heat",
+      "a": "carboxylic acid, via an amide",
+      "d": [
+        "primary amine",
+        "aldehyde, via an imine"
+      ]
+    },
+    {
+      "c": "Nitrile + RMgBr, then H₃O⁺",
+      "a": "ketone, via an imine anion",
+      "d": [
+        "tertiary alcohol, via a ketone",
+        "primary amine, via an imine"
+      ]
+    },
+    {
+      "c": "LiAlH₄ + a nitrile, then H₂O",
+      "a": "primary amine, RCH₂NH₂",
+      "d": [
+        "secondary amine, R₂NH",
+        "amide, RCONH₂"
+      ]
+    },
+    {
+      "c": "SOCl₂ + a primary amide",
+      "a": "nitrile, by dehydration",
+      "d": [
+        "amine, by reduction",
+        "ester, by substitution"
+      ]
+    },
+    {
+      "c": "Reagent that couples an acid and an amine",
+      "a": "DCC (dicyclohexylcarbodiimide)",
+      "d": [
+        "PCC (pyridinium chlorochromate)",
+        "NaBH₄ (sodium borohydride)"
+      ],
+      "ex": "Mixed alone, the amine just deprotonates the acid."
+    },
+    {
+      "c": "Strongest acid: 2-, 3- or 4-chlorobutanoic?",
+      "a": "2-chlorobutanoic acid (pKa 2.86)",
+      "d": [
+        "3-chlorobutanoic acid",
+        "4-chlorobutanoic acid"
+      ],
+      "ex": "Inductive effects fade with distance from the COOH."
+    },
+    {
+      "c": "p-Nitrobenzoic acid compared with benzoic acid",
+      "a": "stronger; NO₂ withdraws electrons",
+      "d": [
+        "weaker; NO₂ donates electrons",
+        "the same strength"
+      ],
+      "ex": "pKa 3.41 versus 4.19."
+    },
+    {
+      "c": "pKa of acetic acid",
+      "a": "4.76",
+      "d": [
+        "9.26",
+        "15.7"
+      ]
+    },
+    {
+      "c": "Main form of RCOOH (pKa ~5) at pH 7.4",
+      "a": "the carboxylate anion, RCOO⁻",
+      "d": [
+        "the neutral acid, RCOOH",
+        "the protonated acid, RC(OH)₂⁺"
+      ]
+    },
+    {
+      "c": "Why carboxylic acids boil so high",
+      "a": "they form hydrogen-bonded dimers",
+      "d": [
+        "they are ionic solids",
+        "they have no polar bonds"
+      ]
+    },
+    {
+      "c": "Cyclic ester",
+      "a": "lactone",
+      "d": [
+        "lactam",
+        "acetal"
+      ]
+    },
+    {
+      "c": "Cyclic amide",
+      "a": "lactam",
+      "d": [
+        "lactone",
+        "imine"
+      ]
+    },
+    {
+      "c": "CH₃COOCH₂CH₃",
+      "a": "ethyl acetate (ethyl ethanoate)",
+      "d": [
+        "methyl propanoate",
+        "propyl formate"
+      ]
+    },
+    {
+      "c": "Claisen condensation",
+      "a": "ester enolate + ester → β-keto ester",
+      "d": [
+        "enolate + aldehyde → β-hydroxy aldehyde",
+        "acid + alcohol → ester + water"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Walking down the reactivity ladder",
+    "text": [
+      "Carboxylic acids and their derivatives all carry a carbonyl carbon bonded to an electronegative group, Y. That group can leave, which gives this family its own reaction pattern. A nucleophile first adds to the carbonyl carbon, forming a tetrahedral intermediate. The C=O then reforms and pushes Y out. The net result is that the nucleophile takes the place of Y. Aldehydes and ketones begin the same way, but hydride and alkyl groups cannot leave, so they stop at the alcohol stage instead.",
+      "How fast the first step goes depends on how electron-poor the carbonyl carbon is. Chlorine withdraws electrons, so acid chlorides react fastest. The oxygen of an ester and, even more, the nitrogen of an amide donate a lone pair into the carbonyl, which calms it down. The order is acid chloride, then anhydride, then ester, then amide.",
+      "This ladder tells you which conversions work. An acid chloride readily becomes an anhydride, an ester, or an amide, but an amide cannot be turned straight back into an ester or acid chloride. To climb the ladder, chemists start from the acid itself and activate it, for example with thionyl chloride."
+    ],
+    "q": [
+      {
+        "q": "Why do ketones not undergo nucleophilic acyl substitution?",
+        "o": [
+          "They have no electrophilic carbon",
+          "Alkyl groups cannot act as leaving groups",
+          "They cannot form a tetrahedral intermediate",
+          "They are too reactive"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Which derivative reacts fastest with nucleophiles?",
+        "o": [
+          "Amide",
+          "Ester",
+          "Acid chloride",
+          "Anhydride"
+        ],
+        "k": 2
+      },
+      {
+        "q": "According to the reading, how do chemists make an acid chloride?",
+        "o": [
+          "From the acid with thionyl chloride",
+          "From an amide with water",
+          "From an ester with an alcohol",
+          "From an anhydride with an amine"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

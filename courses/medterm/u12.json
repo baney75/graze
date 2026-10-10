@@ -1,0 +1,53 @@
+{
+  "title": "Endocrine system: glands and hormones",
+  "note": "Endocrine glands release hormones into the blood. Gland roots: aden/o (gland), thyr/o or thyroid/o, parathyroid/o, adren/o or adrenal/o, pituitar/o. Electrolyte roots pair with -emia: calc/i calcium, kal/i potassium, natr/o sodium. The suffix -ism means condition or state.",
+  "src": { "t": "Medical Terminology 2e (Open RN), 17.2 Word Components Related to the Endocrine System", "u": "https://med.libretexts.org/Bookshelves/Medicine/Medical_Terminology_2e_(OpenRN)/17%3A_Endocrine_System_Terminology/17.02%3A_Word_Components_Related_to_the_Endocrine_System" },
+  "items": [
+    { "c": "aden/o", "a": "gland", "d": ["hormone", "duct"] },
+    { "c": "endocrine gland", "a": "gland that releases hormones into the blood", "d": ["gland that releases secretions through a duct", "gland that stores bile"] },
+    { "c": "exocrine gland", "a": "gland that releases secretions through a duct", "d": ["gland that releases hormones into the blood", "gland that filters lymph"], "ex": "Sweat and salivary glands are exocrine." },
+    { "c": "thyr/o, thyroid/o", "a": "thyroid gland", "d": ["thymus gland", "parathyroid glands"] },
+    { "c": "parathyroid/o", "a": "parathyroid glands", "d": ["thyroid gland", "adrenal glands"] },
+    { "c": "adren/o, adrenal/o", "a": "adrenal glands", "d": ["pituitary gland", "kidneys"] },
+    { "c": "pituitar/o", "a": "pituitary gland", "d": ["pineal gland", "thyroid gland"] },
+    { "c": "cortic/o", "a": "cortex, outer layer of an organ", "d": ["medulla, inner part of an organ", "capsule, fibrous covering"] },
+    { "c": "acr/o", "a": "extremities, top", "d": ["center, trunk", "gland"] },
+    { "c": "somat/o", "a": "body", "d": ["sleep", "mind"], "ex": "Do not confuse with somn/o, which means sleep." },
+    { "c": "home/o", "a": "sameness, unchanging", "d": ["different, other", "home, dwelling"] },
+    { "c": "calc/i", "a": "calcium", "d": ["potassium", "sodium"] },
+    { "c": "kal/i", "a": "potassium", "d": ["calcium", "sodium"], "ex": "From kalium, the Latin name; the symbol is K." },
+    { "c": "natr/o", "a": "sodium", "d": ["potassium", "nitrogen"], "ex": "From natrium, the Latin name; the symbol is Na." },
+    { "c": "dips/o", "a": "thirst", "d": ["hunger", "urine"] },
+    { "c": "-ism", "a": "condition, state", "d": ["inflammation", "removal"] },
+    { "c": "home/o/stasis", "a": "keeping a stable internal environment", "d": ["rapid change in internal conditions", "overproduction of a hormone"] },
+    { "c": "poly/dipsia", "a": "excessive thirst", "d": ["excessive urination", "excessive hunger"] },
+    { "c": "hypo/glyc/emia", "a": "low blood sugar", "d": ["high blood sugar", "sugar in the urine"] },
+    { "c": "hyper/kal/emia", "a": "high blood potassium", "d": ["high blood sodium", "low blood potassium"] },
+    { "c": "hypo/natr/emia", "a": "low blood sodium", "d": ["low blood calcium", "high blood sodium"] },
+    { "c": "hyper/calc/emia", "a": "high blood calcium", "d": ["high blood potassium", "low blood calcium"] },
+    { "c": "hyper/thyroid/ism", "a": "condition of excess thyroid activity", "d": ["condition of deficient thyroid activity", "inflammation of the thyroid"] },
+    { "c": "hypo/thyroid/ism", "a": "condition of deficient thyroid activity", "d": ["condition of excess thyroid activity", "removal of the thyroid"] },
+    { "c": "eu/thyroid", "a": "normal thyroid function", "d": ["absent thyroid function", "enlarged thyroid"] },
+    { "c": "thyroid/ectomy", "a": "removal of the thyroid gland", "d": ["incision into the thyroid", "enlargement of the thyroid"] },
+    { "c": "acr/o/megaly", "a": "enlargement of the extremities", "d": ["enlargement of the thyroid", "enlargement of the adrenal glands"] },
+    { "c": "aden/oma", "a": "tumor of a gland", "d": ["inflammation of a gland", "enlargement of a lymph node"] },
+    { "c": "Hormone that lowers blood glucose", "a": "insulin", "d": ["glucagon", "cortisol"] },
+    { "c": "Hormone that raises blood glucose", "a": "glucagon", "d": ["insulin", "calcitonin"] },
+    { "c": "Gland whose islets secrete insulin", "a": "pancreas", "d": ["liver", "adrenal gland"] },
+    { "c": "Gland often called the master gland", "a": "pituitary", "d": ["thyroid", "adrenal"] },
+    { "c": "Part of the adrenal gland that makes cortisol", "a": "adrenal cortex", "d": ["adrenal medulla", "adrenal capsule"] }
+  ],
+  "read": {
+    "title": "Messages in the blood",
+    "text": [
+      "Glands come in two kinds. Exocrine glands, such as sweat and salivary glands, release their secretions through ducts. Endocrine glands have no ducts; they release hormones directly into the blood, which carries them to distant target tissues. Endo- means within and -crine comes from a Greek word for secrete, so the name means secreting internally.",
+      "The pituitary gland, at the base of the brain, is often called the master gland because many of its hormones direct other glands. The thyroid in the neck sets the pace of metabolism; hyperthyroidism and hypothyroidism describe too much and too little of its activity, and euthyroid means normal function. The adrenal glands sit on top of the kidneys, which is exactly what ad- (toward) and ren (kidney) say. Their outer cortex makes cortisol.",
+      "The pancreas works both ways. Most of it is exocrine, sending digestive enzymes into the intestine, but its islets release insulin, which lowers blood glucose, and glucagon, which raises it. Together these hormones support homeostasis, the body's effort to keep internal conditions stable."
+    ],
+    "q": [
+      { "q": "How do endocrine glands release their hormones?", "o": ["Directly into the blood", "Through ducts onto a surface", "Into the intestine only"], "k": 0 },
+      { "q": "What does the name adrenal describe?", "o": ["The glands' position on the kidneys", "The hormones they release", "Their effect on blood sugar", "Their shape"], "k": 0 },
+      { "q": "Which hormone raises blood glucose?", "o": ["Glucagon", "Insulin", "Calcitonin"], "k": 0 }
+    ]
+  }
+}

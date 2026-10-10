@@ -1,0 +1,29 @@
+{
+  "title": "The South of the United States",
+  "kind": "map",
+  "set": "us",
+  "note": "The Census South runs from Delaware and Maryland down the Atlantic coast to Florida, across the Gulf states to Texas and Oklahoma. It also includes Washington, D.C., the federal district between Maryland and Virginia.",
+  "src": {
+    "t": "US Census Bureau cartographic boundaries via us-atlas",
+    "u": "https://github.com/topojson/us-atlas"
+  },
+  "items": [
+    { "p": "DE", "a": "Delaware", "d": ["District of Columbia", "Maryland", "Virginia"] },
+    { "p": "DC", "a": "District of Columbia", "d": ["Maryland", "Delaware", "Virginia"] },
+    { "p": "FL", "a": "Florida", "d": ["Georgia", "Alabama", "South Carolina"] },
+    { "p": "GA", "a": "Georgia", "d": ["South Carolina", "Alabama", "Tennessee"] },
+    { "p": "MD", "a": "Maryland", "d": ["District of Columbia", "Delaware", "Virginia"] },
+    { "p": "NC", "a": "North Carolina", "d": ["South Carolina", "Virginia", "West Virginia"] },
+    { "p": "SC", "a": "South Carolina", "d": ["Georgia", "North Carolina", "Virginia"] },
+    { "p": "VA", "a": "Virginia", "d": ["West Virginia", "Maryland", "District of Columbia"] },
+    { "p": "WV", "a": "West Virginia", "d": ["Virginia", "Maryland", "District of Columbia"] },
+    { "p": "AL", "a": "Alabama", "d": ["Mississippi", "Georgia", "Tennessee"] },
+    { "p": "KY", "a": "Kentucky", "d": ["Tennessee", "West Virginia", "Virginia"] },
+    { "p": "MS", "a": "Mississippi", "d": ["Louisiana", "Alabama", "Arkansas"] },
+    { "p": "TN", "a": "Tennessee", "d": ["Kentucky", "Alabama", "Georgia"] },
+    { "p": "AR", "a": "Arkansas", "d": ["Mississippi", "Louisiana", "Tennessee"] },
+    { "p": "LA", "a": "Louisiana", "d": ["Mississippi", "Arkansas", "Alabama"] },
+    { "p": "OK", "a": "Oklahoma", "d": ["Texas", "Arkansas", "Louisiana"] },
+    { "p": "TX", "a": "Texas", "d": ["Oklahoma", "Louisiana", "Arkansas"] }
+  ]
+}

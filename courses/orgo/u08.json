@@ -1,0 +1,300 @@
+{
+  "title": "Alkenes and addition reactions",
+  "note": "Adding HX or water with acid goes through the more stable carbocation (Markovnikov) and can rearrange. Oxymercuration also gives Markovnikov products but never rearranges. Hydroboration puts OH on the less substituted carbon with syn addition. Halogens add anti through a bridged halonium ion.",
+  "src": {
+    "t": "LibreTexts, Organic Chemistry (Morsch et al.), Ch. 8 Alkenes: Reactions and Synthesis",
+    "u": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/08%3A_Alkenes-_Reactions_and_Synthesis"
+  },
+  "items": [
+    {
+      "c": "Markovnikov’s rule",
+      "a": "H adds to the carbon with more H’s",
+      "d": [
+        "H adds to the carbon with fewer H’s",
+        "X adds to the less substituted carbon"
+      ]
+    },
+    {
+      "c": "HBr + alkene, no peroxides",
+      "a": "Markovnikov addition of HBr",
+      "d": [
+        "anti-Markovnikov addition of HBr",
+        "anti addition of Br₂"
+      ]
+    },
+    {
+      "c": "HBr with peroxides",
+      "a": "anti-Markovnikov addition of Br",
+      "d": [
+        "Markovnikov addition of Br",
+        "no reaction"
+      ]
+    },
+    {
+      "c": "Mechanism of HBr addition with ROOR",
+      "a": "radical chain; Br• adds first",
+      "d": [
+        "carbocation; H⁺ adds first",
+        "concerted, four-center addition"
+      ]
+    },
+    {
+      "c": "HCl + alkene with peroxides",
+      "a": "Markovnikov; the peroxide effect is for HBr only",
+      "d": [
+        "anti-Markovnikov addition of Cl",
+        "no reaction at all"
+      ]
+    },
+    {
+      "c": "Rearranged product: HCl + 3-methyl-1-butene",
+      "a": "2-chloro-2-methylbutane (hydride shift)",
+      "d": [
+        "2-chloro-3-methylbutane",
+        "1-chloro-3-methylbutane"
+      ],
+      "ex": "The unrearranged Markovnikov product forms in a similar amount."
+    },
+    {
+      "c": "H₂O, H₂SO₄ (cat.) + alkene",
+      "a": "Markovnikov alcohol; rearrangement possible",
+      "d": [
+        "anti-Markovnikov alcohol, syn",
+        "1,2-diol"
+      ]
+    },
+    {
+      "c": "Oxymercuration–demercuration",
+      "a": "Markovnikov alcohol, no rearrangement",
+      "d": [
+        "anti-Markovnikov alcohol, syn addition",
+        "Markovnikov alkyl halide"
+      ]
+    },
+    {
+      "c": "Hg(OAc)₂/H₂O, then NaBH₄ on 1-methylcyclohexene",
+      "a": "1-methylcyclohexanol",
+      "d": [
+        "trans-2-methylcyclohexanol",
+        "methylcyclohexane"
+      ]
+    },
+    {
+      "c": "Hydroboration–oxidation",
+      "a": "anti-Markovnikov alcohol, syn addition",
+      "d": [
+        "Markovnikov alcohol, anti addition",
+        "1,2-diol, syn addition"
+      ]
+    },
+    {
+      "c": "BH₃, then H₂O₂/NaOH on 1-methylcyclohexene",
+      "a": "trans-2-methylcyclohexanol",
+      "d": [
+        "1-methylcyclohexanol",
+        "cis-2-methylcyclohexanol"
+      ]
+    },
+    {
+      "c": "Why hydroboration never rearranges",
+      "a": "it is concerted; no carbocation forms",
+      "d": [
+        "boron blocks the carbocation",
+        "it runs only at low temperature"
+      ]
+    },
+    {
+      "c": "Br₂ + alkene",
+      "a": "anti addition, vicinal dibromide",
+      "d": [
+        "syn addition, vicinal dibromide",
+        "geminal dibromide"
+      ]
+    },
+    {
+      "c": "Intermediate in Br₂ addition to an alkene",
+      "a": "cyclic bromonium ion",
+      "d": [
+        "open carbocation",
+        "bromine radical"
+      ]
+    },
+    {
+      "c": "Br₂ in H₂O + alkene",
+      "a": "bromohydrin; OH on the more substituted C",
+      "d": [
+        "bromohydrin; OH on the less substituted C",
+        "vicinal dibromide only"
+      ]
+    },
+    {
+      "c": "H₂, Pd/C",
+      "a": "syn hydrogenation",
+      "d": [
+        "anti hydrogenation",
+        "anti-Markovnikov hydration"
+      ]
+    },
+    {
+      "c": "Lower heat of hydrogenation means the alkene is",
+      "a": "more stable",
+      "d": [
+        "less stable",
+        "more reactive toward H₂"
+      ]
+    },
+    {
+      "c": "More stable: cis- or trans-2-butene?",
+      "a": "trans; less steric strain",
+      "d": [
+        "cis; groups closer together",
+        "equal stability"
+      ]
+    },
+    {
+      "c": "General trend in alkene stability",
+      "a": "more substituted alkenes are more stable",
+      "d": [
+        "less substituted alkenes are more stable",
+        "substitution has no effect"
+      ]
+    },
+    {
+      "c": "mCPBA",
+      "a": "epoxidizes an alkene",
+      "d": [
+        "cleaves an alkene",
+        "hydrogenates an alkene"
+      ]
+    },
+    {
+      "c": "mCPBA, then H₃O⁺, on an alkene",
+      "a": "anti (trans) 1,2-diol",
+      "d": [
+        "syn (cis) 1,2-diol",
+        "two carbonyl compounds"
+      ]
+    },
+    {
+      "c": "OsO₄",
+      "a": "syn dihydroxylation of an alkene",
+      "d": [
+        "anti dihydroxylation of an alkene",
+        "epoxidation of an alkene"
+      ]
+    },
+    {
+      "c": "Cold, dilute KMnO₄, NaOH + alkene",
+      "a": "syn 1,2-diol",
+      "d": [
+        "anti 1,2-diol",
+        "ketones and carboxylic acids"
+      ]
+    },
+    {
+      "c": "Hot, acidic KMnO₄ + alkene",
+      "a": "cleavage to ketones and/or carboxylic acids",
+      "d": [
+        "syn 1,2-diol",
+        "epoxide"
+      ]
+    },
+    {
+      "c": "Ozonolysis (O₃, then DMS)",
+      "a": "cleaves C=C into two carbonyls",
+      "d": [
+        "adds two OH groups syn",
+        "forms an epoxide"
+      ]
+    },
+    {
+      "c": "O₃, then DMS, on 2-methyl-2-butene",
+      "a": "acetone + acetaldehyde",
+      "d": [
+        "two molecules of acetone",
+        "acetic acid + acetone"
+      ]
+    },
+    {
+      "c": "CH₂I₂, Zn(Cu) + alkene",
+      "a": "cyclopropane (Simmons–Smith)",
+      "d": [
+        "epoxide",
+        "vicinal diiodide"
+      ]
+    },
+    {
+      "c": "CHCl₃, KOH + alkene",
+      "a": "dichlorocyclopropane via dichlorocarbene",
+      "d": [
+        "vicinal dichloride",
+        "chlorohydrin"
+      ]
+    },
+    {
+      "c": "NBS, light + cyclohexene",
+      "a": "3-bromocyclohexene (allylic bromination)",
+      "d": [
+        "trans-1,2-dibromocyclohexane",
+        "bromocyclohexane"
+      ]
+    },
+    {
+      "c": "Degree of unsaturation formula",
+      "a": "(2C + 2 + N − H − X) ÷ 2",
+      "d": [
+        "(2C + 2 − N + H + X) ÷ 2",
+        "(C + H − X) ÷ 2"
+      ]
+    },
+    {
+      "c": "Degrees of unsaturation in benzene, C₆H₆",
+      "a": "four",
+      "d": [
+        "three",
+        "six"
+      ],
+      "ex": "One ring plus three C=C."
+    }
+  ],
+  "read": {
+    "title": "Where the hydrogen goes",
+    "text": [
+      "An alkene's π electrons make it a nucleophile, so many reagents add across the double bond. With HBr, the π bond first grabs a proton. The proton goes to the carbon that already has more hydrogens, because that leaves the positive charge on the more substituted carbon, where alkyl groups stabilize it. Bromide then adds to that cation. This is Markovnikov's rule, and acid-catalyzed hydration follows it too. Because a free carbocation forms, a hydride or methyl group can shift to make an even more stable cation first.",
+      "Other methods give different results. Oxymercuration–demercuration also places OH on the more substituted carbon, but it goes through a bridged mercurinium ion, so no rearrangement occurs. Hydroboration–oxidation reverses the orientation: boron adds to the less hindered carbon and hydrogen to the other in one concerted, syn step, and oxidation then replaces boron with OH. With peroxides, HBr also adds anti-Markovnikov, but by a radical chain.",
+      "Bromine adds through a three-membered bromonium ion. Bromide must attack from the opposite face, so the two bromines end up anti. If water is the solvent, water opens the ring at the more substituted carbon and gives a bromohydrin."
+    ],
+    "q": [
+      {
+        "q": "Why does H add to the carbon with more hydrogens in HBr addition?",
+        "o": [
+          "It is less hindered",
+          "It leaves the more stable carbocation",
+          "Bromine prefers the CH₂ end",
+          "It forms a radical"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why does oxymercuration avoid rearrangements?",
+        "o": [
+          "It uses peroxides",
+          "It forms a free carbocation",
+          "It goes through a bridged mercurinium ion",
+          "It is run in the gas phase"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Why are the two bromines anti after Br₂ addition?",
+        "o": [
+          "Both bromines add at once from one face",
+          "A radical forms",
+          "The alkene rotates first",
+          "Bromide attacks the bromonium ion from the opposite face"
+        ],
+        "k": 3
+      }
+    ]
+  }
+}

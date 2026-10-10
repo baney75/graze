@@ -1,0 +1,328 @@
+{
+  "title": "Body organization, directions, planes and cavities",
+  "note": "Every directional term assumes anatomical position: standing upright, facing forward, feet together, arms at the sides with palms facing forward. Terms come in opposite pairs, and planes are named for how they divide the body.",
+  "src": {
+    "t": "OpenStax A&P 2e, 1.6 Anatomical Terminology",
+    "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology"
+  },
+  "items": [
+    {
+      "c": "In anatomical position, the palms face",
+      "a": "Forward (anteriorly)",
+      "d": [
+        "Backward (posteriorly)",
+        "Toward the thighs"
+      ]
+    },
+    {
+      "c": "Anterior (ventral)",
+      "a": "Toward the front of the body",
+      "d": [
+        "Toward the back of the body",
+        "Toward the head"
+      ]
+    },
+    {
+      "c": "Posterior (dorsal)",
+      "a": "Toward the back of the body",
+      "d": [
+        "Toward the front of the body",
+        "Toward the feet"
+      ]
+    },
+    {
+      "c": "Superior (cranial)",
+      "a": "Toward the head, or above",
+      "d": [
+        "Toward the feet, or below",
+        "Toward the midline"
+      ]
+    },
+    {
+      "c": "Inferior (caudal)",
+      "a": "Away from the head, or below",
+      "d": [
+        "Toward the head, or above",
+        "Away from the midline"
+      ]
+    },
+    {
+      "c": "Medial",
+      "a": "Toward the midline of the body",
+      "d": [
+        "Away from the midline",
+        "Toward the body surface"
+      ]
+    },
+    {
+      "c": "Lateral",
+      "a": "Away from the midline, toward the side",
+      "d": [
+        "Toward the midline",
+        "Toward the back"
+      ]
+    },
+    {
+      "c": "Proximal",
+      "a": "Closer to a limb's attachment to the trunk",
+      "d": [
+        "Farther from a limb's attachment",
+        "Closer to the body surface"
+      ]
+    },
+    {
+      "c": "Distal",
+      "a": "Farther from a limb's attachment to the trunk",
+      "d": [
+        "Closer to a limb's attachment",
+        "Farther from the body surface"
+      ]
+    },
+    {
+      "c": "Superficial",
+      "a": "Closer to the body surface",
+      "d": [
+        "Farther from the body surface",
+        "Closer to the midline"
+      ]
+    },
+    {
+      "c": "Deep (directional term)",
+      "a": "Farther from the body surface",
+      "d": [
+        "Closer to the body surface",
+        "Farther from the midline"
+      ]
+    },
+    {
+      "c": "The wrist is ___ to the elbow.",
+      "a": "distal",
+      "d": [
+        "proximal",
+        "deep"
+      ]
+    },
+    {
+      "c": "The nose is ___ to the ears.",
+      "a": "medial",
+      "d": [
+        "lateral",
+        "posterior"
+      ]
+    },
+    {
+      "c": "The skin is ___ to the skeletal muscles.",
+      "a": "superficial",
+      "d": [
+        "deep",
+        "medial"
+      ]
+    },
+    {
+      "c": "Sagittal plane",
+      "a": "Divides the body into right and left parts",
+      "d": [
+        "Divides it into front and back parts",
+        "Divides it into upper and lower parts"
+      ]
+    },
+    {
+      "c": "Frontal (coronal) plane",
+      "a": "Divides the body into anterior and posterior parts",
+      "d": [
+        "Divides it into right and left parts",
+        "Divides it into superior and inferior parts"
+      ]
+    },
+    {
+      "c": "Transverse plane",
+      "a": "Divides the body into superior and inferior parts",
+      "d": [
+        "Divides it into anterior and posterior parts",
+        "Divides it into right and left parts"
+      ]
+    },
+    {
+      "c": "A cross section is cut along which plane?",
+      "a": "Transverse",
+      "d": [
+        "Sagittal",
+        "Frontal"
+      ]
+    },
+    {
+      "c": "Cranial cavity contains",
+      "a": "The brain",
+      "d": [
+        "The spinal cord",
+        "The heart"
+      ]
+    },
+    {
+      "c": "Dorsal body cavity subdivisions",
+      "a": "Cranial and vertebral cavities",
+      "d": [
+        "Thoracic and abdominopelvic cavities",
+        "Pleural and pericardial cavities"
+      ]
+    },
+    {
+      "c": "Ventral body cavity subdivisions",
+      "a": "Thoracic and abdominopelvic cavities",
+      "d": [
+        "Cranial and vertebral cavities",
+        "Abdominal and cranial cavities"
+      ]
+    },
+    {
+      "c": "Muscle separating the thoracic and abdominopelvic cavities",
+      "a": "Diaphragm",
+      "d": [
+        "Rectus abdominis",
+        "Internal intercostals"
+      ]
+    },
+    {
+      "c": "Mediastinum",
+      "a": "Central region of the thorax that holds the heart",
+      "d": [
+        "Space surrounding each lung",
+        "Lower part of the abdominopelvic cavity"
+      ]
+    },
+    {
+      "c": "Parietal layer of a serous membrane",
+      "a": "Lines the wall of the body cavity",
+      "d": [
+        "Covers the surface of an organ",
+        "Fills the space between the layers"
+      ]
+    },
+    {
+      "c": "Pleura",
+      "a": "Serous membrane around the lungs",
+      "d": [
+        "Serous membrane around the heart",
+        "Serous membrane of the abdomen"
+      ]
+    },
+    {
+      "c": "Pericardium",
+      "a": "Serous membrane around the heart",
+      "d": [
+        "Serous membrane around the lungs",
+        "Membrane around the brain"
+      ]
+    },
+    {
+      "c": "Peritoneum",
+      "a": "Serous membrane of the abdominopelvic cavity",
+      "d": [
+        "Serous membrane around the lungs",
+        "Serous membrane around the heart"
+      ]
+    },
+    {
+      "c": "Main job of serous fluid",
+      "a": "Reduces friction as organs move",
+      "d": [
+        "Carries nutrients to organs",
+        "Produces new blood cells"
+      ]
+    },
+    {
+      "c": "Levels of organization, smallest first",
+      "a": "Chemical, cellular, tissue, organ, organ system, organism",
+      "d": [
+        "Chemical, tissue, cellular, organ, organ system, organism",
+        "Cellular, chemical, organ, tissue, organ system, organism"
+      ]
+    },
+    {
+      "c": "Homeostasis",
+      "a": "Keeping the internal environment within a stable range",
+      "d": [
+        "Constant growth of body tissues",
+        "Matching body temperature to the room"
+      ]
+    },
+    {
+      "c": "Negative feedback",
+      "a": "Response that reverses a deviation from the set point",
+      "d": [
+        "Response that amplifies a change",
+        "Response that ignores small changes"
+      ]
+    },
+    {
+      "c": "Positive feedback",
+      "a": "Response that intensifies a change until an end point",
+      "d": [
+        "Response that reverses a deviation",
+        "Response that holds a value fixed"
+      ]
+    },
+    {
+      "c": "Feedback-loop part that detects a change",
+      "a": "Sensor (receptor)",
+      "d": [
+        "Effector",
+        "Control center"
+      ]
+    },
+    {
+      "c": "Oxytocin release during labor is an example of",
+      "a": "Positive feedback",
+      "d": [
+        "Negative feedback"
+      ]
+    },
+    {
+      "c": "Normal core body temperature",
+      "a": "About 37°C (98.6°F)",
+      "d": [
+        "About 35°C (95°F)",
+        "About 39°C (102.2°F)"
+      ]
+    }
+  ],
+  "read": {
+    "title": "A shared map of the body",
+    "text": [
+      "Anatomy needs a language that means the same thing to everyone, no matter how a person happens to be standing or lying. The solution is anatomical position: upright, facing forward, feet together, arms at the sides, palms forward. Every directional term is defined against this posture, even when the person is actually lying on a table.",
+      "The terms come in opposite pairs. Anterior and posterior mean front and back. Superior and inferior mean toward or away from the head. Medial and lateral mean toward or away from the midline. Proximal and distal apply mainly to limbs and compare distance from the trunk, so the wrist is distal to the elbow. Superficial and deep compare distance from the body surface.",
+      "Planes describe how the body is cut. A sagittal plane separates right from left, a frontal plane separates front from back, and a transverse plane separates top from bottom and produces a cross section.",
+      "The body also has two main cavities. The dorsal cavity holds the brain and spinal cord. The ventral cavity holds the thoracic organs and, below the diaphragm, the abdominopelvic organs. Serous membranes line these spaces, with a parietal layer on the wall and a visceral layer on each organ, separated by a thin film of fluid that lets organs slide without friction."
+    ],
+    "q": [
+      {
+        "q": "Why are directional terms defined from anatomical position?",
+        "o": [
+          "So they mean the same thing however the body is placed",
+          "Because most patients are examined standing",
+          "Because the palms must face backward",
+          "So the terms apply only to limbs"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Which plane produces a cross section?",
+        "o": [
+          "Sagittal",
+          "Frontal",
+          "Transverse"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What lies between the parietal and visceral layers of a serous membrane?",
+        "o": [
+          "A thin film of fluid",
+          "A layer of bone",
+          "The diaphragm"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

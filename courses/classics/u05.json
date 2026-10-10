@@ -1,0 +1,199 @@
+{
+  "title": "Thoreau, Walden",
+  "note": "In Walden (1854), Thoreau tells of living alone for two years and two months in a cabin he built at Walden Pond in Concord, Massachusetts. This passage, from the first chapter, 'Economy,' asks whether most people ever truly chose the way they live.",
+  "src": {
+    "t": "Walden, and On the Duty of Civil Disobedience, Project Gutenberg eBook #205",
+    "u": "https://www.gutenberg.org/ebooks/205"
+  },
+  "items": [
+    {
+      "c": "The mass of men lead lives of...",
+      "a": "quiet desperation",
+      "d": [
+        "simple contentment",
+        "noble struggle",
+        "idle luxury"
+      ]
+    },
+    {
+      "c": "resignation (Thoreau)",
+      "a": "passive acceptance of one's lot",
+      "d": [
+        "leaving a job",
+        "a written complaint"
+      ]
+    },
+    {
+      "c": "confirmed desperation",
+      "a": "despair that has become settled",
+      "d": [
+        "despair that has been cured",
+        "despair felt only in cities"
+      ]
+    },
+    {
+      "c": "console (Thoreau)",
+      "a": "comfort",
+      "d": [
+        "count",
+        "blame"
+      ]
+    },
+    {
+      "c": "stereotyped (Thoreau)",
+      "a": "fixed and conventional",
+      "d": [
+        "new and surprising",
+        "loud and public"
+      ]
+    },
+    {
+      "c": "'There is no play in them' (Thoreau)",
+      "a": "amusements are only rest from toil, not real play",
+      "d": [
+        "games are banned until work is done",
+        "children should not play"
+      ]
+    },
+    {
+      "c": "Source of the phrase 'the chief end of man'",
+      "a": "the Westminster Shorter Catechism",
+      "d": [
+        "the Declaration of Independence",
+        "Bacon's Essays",
+        "the Book of Common Prayer"
+      ],
+      "ex": "Its first answer: man's chief end is to glorify God and enjoy him forever."
+    },
+    {
+      "c": "the true necessaries of life",
+      "a": "the things truly needed to live",
+      "d": [
+        "the luxuries of the rich",
+        "the laws of the land"
+      ]
+    },
+    {
+      "c": "prejudices (Thoreau)",
+      "a": "opinions held without examination",
+      "d": [
+        "proven facts",
+        "religious duties"
+      ]
+    },
+    {
+      "c": "mere smoke of opinion",
+      "a": "empty belief with nothing solid in it",
+      "d": [
+        "a warning of coming danger",
+        "a widely tested truth"
+      ]
+    },
+    {
+      "c": "'the sun rose clear' (Thoreau)",
+      "a": "each day still offers a fresh start",
+      "d": [
+        "the weather will be fine",
+        "the old ways are best"
+      ]
+    },
+    {
+      "c": "Old deeds for old people, and new deeds for new",
+      "a": "each generation should find its own way",
+      "d": [
+        "the old should rest and do nothing",
+        "new things are always better made"
+      ]
+    },
+    {
+      "c": "Where Thoreau built his cabin",
+      "a": "Walden Pond, Concord, Massachusetts",
+      "d": [
+        "Brook Farm, West Roxbury",
+        "Cape Cod, Massachusetts",
+        "Lake Placid, New York"
+      ]
+    },
+    {
+      "c": "How long Thoreau lived at Walden",
+      "a": "two years and two months",
+      "d": [
+        "six months",
+        "five years",
+        "one winter"
+      ]
+    },
+    {
+      "c": "Year Walden was published",
+      "a": "1854",
+      "d": [
+        "1836",
+        "1849",
+        "1865"
+      ]
+    },
+    {
+      "c": "First chapter of Walden",
+      "a": "Economy",
+      "d": [
+        "Solitude",
+        "The Pond in Winter",
+        "Spring"
+      ]
+    },
+    {
+      "c": "Thoreau's essay on refusing to pay a tax",
+      "a": "Civil Disobedience",
+      "d": [
+        "Self-Reliance",
+        "Walking",
+        "Life Without Principle"
+      ]
+    },
+    {
+      "c": "Movement that joined Thoreau and Emerson",
+      "a": "Transcendentalism",
+      "d": [
+        "Puritanism",
+        "Pragmatism",
+        "Realism"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Walden, from 'Economy' (1854)",
+    "text": [
+      "The mass of men lead lives of quiet desperation. What is called resignation is confirmed desperation. From the desperate city you go into the desperate country, and have to console yourself with the bravery of minks and muskrats. A stereotyped but unconscious despair is concealed even under what are called the games and amusements of mankind. There is no play in them, for this comes after work. But it is a characteristic of wisdom not to do desperate things.",
+      "When we consider what, to use the words of the catechism, is the chief end of man, and what are the true necessaries and means of life, it appears as if men had deliberately chosen the common mode of living because they preferred it to any other. Yet they honestly think there is no choice left. But alert and healthy natures remember that the sun rose clear. It is never too late to give up our prejudices. No way of thinking or doing, however ancient, can be trusted without proof. What everybody echoes or in silence passes by as true to-day may turn out to be falsehood to-morrow, mere smoke of opinion, which some had trusted for a cloud that would sprinkle fertilizing rain on their fields. What old people say you cannot do you try and find that you can. Old deeds for old people, and new deeds for new."
+    ],
+    "q": [
+      {
+        "q": "What is the main idea of the passage?",
+        "o": [
+          "Most people live in quiet, unexamined despair, yet it is never too late to question custom and live differently",
+          "City life is better than country life",
+          "Games and amusements are the cure for despair"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why does Thoreau say it only 'appears as if' people chose the common way of living?",
+        "o": [
+          "They follow custom without seriously considering any alternative",
+          "The law forces them to live that way",
+          "They have studied every alternative and rejected it"
+        ],
+        "k": 0
+      },
+      {
+        "q": "'It is never too late to give up our prejudices' urges readers to:",
+        "o": [
+          "re-examine beliefs they took for granted",
+          "respect the opinions of the elderly",
+          "keep old traditions unchanged"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+ "title": "Vital signs and normal adult ranges",
+ "note": "The classic vital signs are temperature, pulse, respiratory rate and blood pressure, often joined by oxygen saturation. The ranges here are typical values for resting adults from MedlinePlus; reference ranges vary by source, age, fitness and measuring method, so treat them as guides, not sharp cutoffs.",
+ "src": {
+  "t": "MedlinePlus, Vital Signs",
+  "u": "https://medlineplus.gov/ency/article/002341.htm"
+ },
+ "items": [
+  {
+   "c": "The four classic vital signs",
+   "a": "Temperature, pulse, respiratory rate, blood pressure",
+   "d": [
+    "Height, weight, pulse, temperature",
+    "Glucose, pulse, blood pressure, pain"
+   ]
+  },
+  {
+   "c": "Average adult body temperature",
+   "a": "About 98.6°F (37°C)",
+   "d": [
+    "About 96.6°F (35.9°C)",
+    "About 100.6°F (38.1°C)"
+   ]
+  },
+  {
+   "c": "Normal adult temperature range (MedlinePlus)",
+   "a": "97.7–99.1°F (36.5–37.3°C)",
+   "d": [
+    "95.0–96.5°F (35.0–35.8°C)",
+    "99.5–101.0°F (37.5–38.3°C)"
+   ]
+  },
+  {
+   "c": "Fever is commonly defined as a temperature of",
+   "a": "100.4°F (38°C) or higher",
+   "d": [
+    "98.6°F (37°C) or higher",
+    "104°F (40°C) or higher"
+   ]
+  },
+  {
+   "c": "Normal adult resting heart rate",
+   "a": "60–100 beats per minute",
+   "d": [
+    "30–50 beats per minute",
+    "100–140 beats per minute"
+   ]
+  },
+  {
+   "c": "Typical resting heart rate of well-trained athletes",
+   "a": "40–60 beats per minute",
+   "d": [
+    "100–120 beats per minute",
+    "20–30 beats per minute"
+   ]
+  },
+  {
+   "c": "Tachycardia in an adult",
+   "a": "Resting heart rate above 100 beats per minute",
+   "d": [
+    "Resting heart rate below 60 beats per minute",
+    "An irregular rhythm at any rate"
+   ]
+  },
+  {
+   "c": "Bradycardia in an adult",
+   "a": "Resting heart rate below 60 beats per minute",
+   "d": [
+    "Resting heart rate above 100 beats per minute",
+    "A missing pulse in one limb"
+   ]
+  },
+  {
+   "c": "Normal adult resting respiratory rate (MedlinePlus)",
+   "a": "12–18 breaths per minute",
+   "d": [
+    "4–8 breaths per minute",
+    "24–32 breaths per minute"
+   ]
+  },
+  {
+   "c": "Tachypnea",
+   "a": "Abnormally fast breathing",
+   "d": [
+    "Abnormally slow breathing",
+    "Absence of breathing"
+   ]
+  },
+  {
+   "c": "Apnea",
+   "a": "Absence of breathing",
+   "d": [
+    "Abnormally fast breathing",
+    "Difficulty breathing when lying flat"
+   ]
+  },
+  {
+   "c": "Normal oxygen saturation by pulse oximetry",
+   "a": "95–100%",
+   "d": [
+    "80–85%",
+    "70–75%"
+   ]
+  },
+  {
+   "c": "Typical pulse oximeter error (MedlinePlus)",
+   "a": "About 2–4% above or below the true level",
+   "d": [
+    "About 20–30% above or below",
+    "Always exact to within 0.1%"
+   ]
+  },
+  {
+   "c": "Things that can distort a pulse oximeter reading",
+   "a": "Dark nail polish, cold skin, poor circulation",
+   "d": [
+    "Recent meals, sitting upright, calm breathing",
+    "Wearing glasses, talking, hand washing"
+   ]
+  },
+  {
+   "c": "Systolic pressure",
+   "a": "Arterial pressure when the heart contracts",
+   "d": [
+    "Arterial pressure when the heart relaxes",
+    "Pressure inside the veins"
+   ]
+  },
+  {
+   "c": "Diastolic pressure",
+   "a": "Arterial pressure when the heart relaxes between beats",
+   "d": [
+    "Arterial pressure when the heart contracts",
+    "Average of pressures over a day"
+   ]
+  },
+  {
+   "c": "Units for blood pressure",
+   "a": "Millimeters of mercury (mm Hg)",
+   "d": [
+    "Kilopascals per minute",
+    "Beats per minute"
+   ]
+  },
+  {
+   "c": "Normal adult blood pressure category",
+   "a": "Systolic under 120 and diastolic under 80",
+   "d": [
+    "Systolic under 140 and diastolic under 90",
+    "Systolic 120–129 and diastolic under 80"
+   ]
+  },
+  {
+   "c": "Elevated blood pressure category",
+   "a": "Systolic 120–129 and diastolic under 80",
+   "d": [
+    "Systolic under 120 and diastolic under 80",
+    "Systolic 140 or higher"
+   ]
+  },
+  {
+   "c": "Stage 1 hypertension category",
+   "a": "Systolic 130–139 or diastolic 80–89",
+   "d": [
+    "Systolic 120–129 and diastolic under 80",
+    "Systolic 140 or higher or diastolic 90 or higher"
+   ]
+  },
+  {
+   "c": "Stage 2 hypertension category",
+   "a": "Systolic 140 or higher or diastolic 90 or higher",
+   "d": [
+    "Systolic 130–139 or diastolic 80–89",
+    "Systolic 120–129 and diastolic under 80"
+   ]
+  },
+  {
+   "c": "Pulse pressure",
+   "a": "Systolic minus diastolic pressure",
+   "d": [
+    "Systolic plus diastolic pressure",
+    "Heart rate times stroke volume"
+   ]
+  },
+  {
+   "c": "Pulse pressure for a reading of 120/80",
+   "a": "40 mm Hg",
+   "d": [
+    "200 mm Hg",
+    "80 mm Hg"
+   ]
+  },
+  {
+   "c": "Common estimate of mean arterial pressure",
+   "a": "Diastolic + 1/3 × (systolic − diastolic)",
+   "d": [
+    "(Systolic + diastolic) × 2",
+    "Systolic − 1/3 × diastolic"
+   ]
+  },
+  {
+   "c": "Estimated mean arterial pressure for 120/80",
+   "a": "About 93 mm Hg",
+   "d": [
+    "About 100 mm Hg",
+    "About 80 mm Hg"
+   ]
+  },
+  {
+   "c": "Korotkoff sounds",
+   "a": "Sounds over the artery as a blood pressure cuff deflates",
+   "d": [
+    "Normal heart valve sounds",
+    "Breath sounds heard at the lung bases"
+   ]
+  },
+  {
+   "c": "The first Korotkoff sound marks the",
+   "a": "Systolic pressure",
+   "d": [
+    "Diastolic pressure",
+    "Mean arterial pressure"
+   ]
+  },
+  {
+   "c": "When Korotkoff sounds disappear, the reading is",
+   "a": "Diastolic pressure",
+   "d": [
+    "Systolic pressure",
+    "Pulse pressure"
+   ]
+  },
+  {
+   "c": "A blood pressure cuff that is too small tends to",
+   "a": "Read falsely high",
+   "d": [
+    "Read falsely low",
+    "Have no effect on the reading"
+   ]
+  },
+  {
+   "c": "Pulse site on the thumb side of the wrist",
+   "a": "Radial artery",
+   "d": [
+    "Ulnar artery",
+    "Brachial artery"
+   ]
+  },
+  {
+   "c": "Pulse site beside the windpipe in the neck",
+   "a": "Carotid artery",
+   "d": [
+    "Jugular vein",
+    "Temporal artery"
+   ]
+  },
+  {
+   "c": "Why not press both carotid pulses at once",
+   "a": "It can reduce blood flow to the brain",
+   "d": [
+    "It gives a falsely fast pulse",
+    "It doubles the pulse count"
+   ]
+  },
+  {
+   "c": "Quick way to count a regular pulse",
+   "a": "Count for 30 seconds and double it",
+   "d": [
+    "Count for 5 seconds and multiply by 6",
+    "Count for 10 seconds and double it"
+   ]
+  },
+  {
+   "c": "Orthostatic vital signs",
+   "a": "Readings lying and then standing, to detect a drop",
+   "d": [
+    "Readings before and after a meal",
+    "Readings taken only during sleep"
+   ]
+  },
+  {
+   "c": "Rectal temperature compared with oral",
+   "a": "Usually slightly higher",
+   "d": [
+    "Usually slightly lower",
+    "Always identical"
+   ]
+  }
+ ],
+ "read": {
+  "title": "Taking a blood pressure",
+  "text": [
+   "The classic way to measure blood pressure uses a cuff, a gauge and a stethoscope. The cuff is wrapped around the upper arm at heart level and inflated until it squeezes the brachial artery shut. The examiner then lets the air out slowly while listening over the artery below the cuff.",
+   "At first there is silence, because no blood gets through. When cuff pressure drops just below the peak pressure in the artery, blood spurts through with each beat and tapping sounds appear. These are Korotkoff sounds, and the pressure at the first one is the systolic pressure. As the cuff keeps deflating, the sounds change and then vanish when blood flows smoothly again; that point is the diastolic pressure. A reading of 120/80 means a systolic of 120 and a diastolic of 80 millimeters of mercury.",
+   "Technique matters. A cuff that is too small for the arm tends to read falsely high, and so can talking or an unsupported arm. Readings also vary through the day, which is why a single high value is rechecked rather than taken as the final word."
+  ],
+  "q": [
+   {
+    "q": "What does the first Korotkoff sound indicate?",
+    "o": [
+     "Diastolic pressure",
+     "Systolic pressure",
+     "Heart rate",
+     "Mean arterial pressure"
+    ],
+    "k": 1
+   },
+   {
+    "q": "Why are no sounds heard when the cuff is fully inflated?",
+    "o": [
+     "The artery is squeezed shut, so no blood passes",
+     "The heart has stopped",
+     "The stethoscope is blocked by the cuff"
+    ],
+    "k": 0
+   },
+   {
+    "q": "A cuff that is too small for the arm tends to",
+    "o": [
+     "Give an exact reading",
+     "Read falsely low",
+     "Read falsely high"
+    ],
+    "k": 2
+   }
+  ]
+ }
+}

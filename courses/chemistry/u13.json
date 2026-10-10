@@ -1,0 +1,50 @@
+{
+  "title": "Chemical equilibrium",
+  "note": "At equilibrium the forward and reverse rates are equal, and the reaction quotient Q equals the constant K. Write K as products over reactants, each raised to its coefficient, leaving out pure solids and liquids. If Q < K the reaction moves forward; if Q > K it moves back. Le Chatelier: a stressed equilibrium shifts to partly undo the stress, and only temperature changes K.",
+  "src": { "t": "Chemistry 2e, 13.3 Shifting Equilibria: Le Châtelier's Principle, OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/13-3-shifting-equilibria-le-chateliers-principle" },
+  "items": [
+    { "c": "Chemical equilibrium", "a": "forward and reverse rates are equal", "d": ["reactant and product concentrations are equal", "the reaction has completely stopped"] },
+    { "c": "K expression for aA + bB ⇌ cC + dD", "a": "[C]ᶜ[D]ᵈ / [A]ᵃ[B]ᵇ", "d": ["[A]ᵃ[B]ᵇ / [C]ᶜ[D]ᵈ", "c[C] + d[D] − a[A] − b[B]"] },
+    { "c": "Species left out of K expressions", "a": "pure solids and pure liquids", "d": ["gases", "dissolved ions"] },
+    { "c": "Kc for N₂ + 3H₂ ⇌ 2NH₃", "a": "[NH₃]² / ([N₂][H₂]³)", "d": ["[NH₃] / ([N₂][H₂])", "[N₂][H₂]³ / [NH₃]²"] },
+    { "c": "Kc for CaCO₃(s) ⇌ CaO(s) + CO₂(g)", "a": "[CO₂]", "d": ["[CaO][CO₂] / [CaCO₃]", "1 / [CO₂]"] },
+    { "c": "A very large K (K ≫ 1) means", "a": "products are favored at equilibrium", "d": ["reactants are favored at equilibrium", "the reaction is very fast"] },
+    { "c": "Does K tell you how fast equilibrium is reached?", "a": "No, K says nothing about rate", "d": ["Yes, a large K means a fast reaction"] },
+    { "c": "When Q < K, the reaction", "a": "proceeds forward, making products", "d": ["proceeds in reverse, making reactants", "is already at equilibrium"] },
+    { "c": "When Q > K, the reaction", "a": "proceeds in reverse, making reactants", "d": ["proceeds forward, making products", "is already at equilibrium"] },
+    { "c": "K for the reverse of a reaction", "a": "1/K", "d": ["−K", "K²"] },
+    { "c": "K for a reaction multiplied by 2", "a": "K²", "d": ["2K", "√K"] },
+    { "c": "Relation between Kp and Kc", "a": "Kp = Kc(RT)^Δn", "d": ["Kp = Kc/(RT)", "Kp = Kc + RTΔn"] },
+    { "c": "Kp equals Kc when", "a": "gas moles are equal on both sides", "d": ["the temperature is 0 °C", "all species are solids"] },
+    { "c": "Le Chatelier's principle", "a": "a stressed equilibrium shifts to partly offset the stress", "d": ["a stressed equilibrium stops reacting", "a stressed equilibrium always shifts to products"] },
+    { "c": "Add more reactant to an equilibrium", "a": "shifts toward products", "d": ["shifts toward reactants", "causes no shift"] },
+    { "c": "Add more product to an equilibrium", "a": "shifts toward reactants", "d": ["shifts toward products", "changes the value of K"] },
+    { "c": "Shrink the volume of N₂ + 3H₂ ⇌ 2NH₃", "a": "shifts toward NH₃, the side with fewer gas moles", "d": ["shifts toward N₂ and H₂, the side with more gas moles", "causes no shift"] },
+    { "c": "Shrink the volume of H₂ + I₂ ⇌ 2HI (all gases)", "a": "no shift; gas moles are equal", "d": ["shifts toward HI", "shifts toward H₂ and I₂"] },
+    { "c": "Heat an exothermic reaction at equilibrium", "a": "shifts left and K decreases", "d": ["shifts right and K increases", "shifts left but K is unchanged"] },
+    { "c": "Heat an endothermic reaction at equilibrium", "a": "shifts right and K increases", "d": ["shifts left and K decreases", "shifts right but K is unchanged"] },
+    { "c": "The only change that alters K", "a": "changing the temperature", "d": ["adding a catalyst", "changing concentrations"] },
+    { "c": "Effect of a catalyst on an equilibrium", "a": "reached faster; position unchanged", "d": ["shifts toward products", "increases K"] },
+    { "c": "Rows of an ICE table", "a": "initial, change, equilibrium", "d": ["ionic, covalent, elemental", "input, catalyst, energy"] },
+    { "c": "A ⇌ B, Kc = 4.0, [A]eq = 0.10 M: [B]eq?", "a": "0.40 M", "d": ["0.025 M", "4.1 M"] },
+    { "c": "Homogeneous equilibrium", "a": "all species in the same phase", "d": ["species in more than one phase", "only one species present"] },
+    { "c": "Ksp expression for AgCl", "a": "[Ag⁺][Cl⁻]", "d": ["[AgCl]", "[Ag⁺][Cl⁻] / [AgCl]"] },
+    { "c": "Ksp expression for PbI₂", "a": "[Pb²⁺][I⁻]²", "d": ["[Pb²⁺][I⁻]", "[Pb²⁺]²[I⁻]"] },
+    { "c": "Common-ion effect", "a": "a shared ion lowers a salt's solubility", "d": ["a shared ion raises a salt's solubility", "a shared ion changes the value of Ksp"] },
+    { "c": "Standard free energy and K", "a": "ΔG° = −RT ln K", "d": ["ΔG° = RT ln K", "ΔG° = −RT/K"] }
+  ],
+  "read": {
+    "title": "A balance that keeps moving",
+    "text": [
+      "Many reactions do not run to completion. As products build up, the reverse reaction speeds up, until the forward and reverse reactions run at the same rate. From then on the concentrations stay constant even though molecules keep reacting in both directions. This is dynamic equilibrium.",
+      "The equilibrium constant K captures where that balance lies. For a general reaction, K is the product concentrations over the reactant concentrations, each raised to its coefficient. Pure solids and liquids are left out because their concentrations do not change. A large K means mostly products at equilibrium; a small K means mostly reactants. K says nothing about speed.",
+      "At any moment you can compute the same ratio from the actual concentrations; this is the reaction quotient Q. If Q is less than K, there are too few products and the reaction moves forward. If Q is greater than K, it moves backward.",
+      "Le Chatelier's principle predicts responses to change. Add a reactant and the system uses some of it up by making more product. Squeeze a gas mixture and it shifts toward the side with fewer gas molecules. Heat an exothermic reaction and it shifts back toward reactants, as if heat were a product. Only that last kind of change, temperature, actually changes K. A catalyst changes nothing about the final balance; it only gets there sooner."
+    ],
+    "q": [
+      { "q": "At dynamic equilibrium, which is true?", "o": ["All reactions have stopped", "Forward and reverse reactions continue at equal rates", "Reactant and product concentrations are equal"], "k": 1 },
+      { "q": "If Q is less than K, the reaction will", "o": ["move backward to make reactants", "stay where it is", "move forward to make more products"], "k": 2 },
+      { "q": "Which change alters the value of K?", "o": ["Changing the temperature", "Adding a reactant", "Adding a catalyst"], "k": 0 }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Thucydides and the Peloponnesian War",
+  "note": "From 431 to 404 BCE, sea power Athens and land power Sparta fought for mastery of Greece. Thucydides, an Athenian general turned historian, traced the war to fear of rising power and recorded the speeches in which interest, fear and honor collided with justice. His history is the founding text of realist thinking about power.",
+  "src": {"t": "Thucydides, History of the Peloponnesian War, tr. Richard Crawley, Project Gutenberg", "u": "https://www.gutenberg.org/ebooks/7142"},
+  "items": [
+    {"c": "Dates of the Peloponnesian War", "a": "431 to 404 BCE", "d": ["490 to 479 BCE", "338 to 323 BCE"]},
+    {"c": "The two leading powers in the Peloponnesian War", "a": "Athens and Sparta", "d": ["Athens and Persia", "Sparta and Thebes"]},
+    {"c": "Athens's alliance, which became an empire", "a": "The Delian League", "d": ["The Peloponnesian League", "The Hellenic League"]},
+    {"c": "Sparta led which alliance?", "a": "The Peloponnesian League", "d": ["The Delian League", "The Achaean League"]},
+    {"c": "Athens's main military strength", "a": "Its navy", "d": ["Its heavy infantry", "Its cavalry"]},
+    {"c": "Thucydides's \"real cause\" of the war", "a": "The growth of Athenian power and Sparta's alarm", "d": ["The theft of a Spartan queen", "A quarrel over Olympic victories"]},
+    {"c": "\"Thucydides Trap\" names the danger when", "a": "A rising power alarms an established one", "d": ["A navy fights too far from home", "A democracy wages a long war"]},
+    {"c": "Thucydides wrote his history as", "a": "A possession for all time", "d": ["An essay to win applause", "A hymn to the gods of Athens"]},
+    {"c": "Three motives the Athenians cite for empire", "a": "Fear, honour and interest", "d": ["Justice, piety and law", "Wealth, glory and revenge"]},
+    {"c": "Thucydides's own role in the war", "a": "Athenian general, exiled after Amphipolis", "d": ["Spartan king who led the invasion", "Persian envoy to the Greek cities"], "ex": "He wrote that he lived in exile for twenty years after his command at Amphipolis."},
+    {"c": "Pericles's strategy at the start of the war", "a": "Shelter behind the walls and rely on the navy", "d": ["March out to fight Sparta on land at once", "Ally with Persia to invade the Peloponnese"]},
+    {"c": "Long Walls of Athens linked the city to", "a": "Its port, the Piraeus", "d": ["The silver mines of Laurium", "The plain of Marathon"]},
+    {"c": "Disaster in crowded Athens early in the war", "a": "A plague that killed Pericles and many others", "d": ["An earthquake that leveled the Acropolis", "A famine caused by a Persian blockade"]},
+    {"c": "Pericles's famous speech honoring the war dead", "a": "The Funeral Oration", "d": ["The Melian Dialogue", "The Mytilenean Debate"]},
+    {"c": "First phase of the war, named for a Spartan king", "a": "The Archidamian War", "d": ["The Lamian War", "The Corinthian War"]},
+    {"c": "Spartan surrender that shocked Greece, 425 BCE", "a": "Sphacteria, near Pylos", "d": ["Thermopylae", "Leuctra"]},
+    {"c": "Peace that paused the war in 421 BCE", "a": "The Peace of Nicias", "d": ["The Peace of Callias", "The King's Peace"]},
+    {"c": "Melian Dialogue, 416 BCE", "a": "Athens demands a neutral island submit or be destroyed", "d": ["Sparta offers peace to Athens", "Pericles defends democracy"]},
+    {"c": "\"The strong do what they can...\"", "a": "and the weak suffer what they must", "d": ["and the just rule over them", "and the gods judge them both"]},
+    {"c": "The Athenians at Melos argue that justice", "a": "Only arises between equals in power", "d": ["Always binds the strong", "Belongs to the gods alone"]},
+    {"c": "Sicilian Expedition target, 415 BCE", "a": "Syracuse", "d": ["Carthage", "Corinth"]},
+    {"c": "Outcome of the Sicilian Expedition", "a": "The entire Athenian force was destroyed (413 BCE)", "d": ["Athens conquered Sicily", "A truce split the island"]},
+    {"c": "Athenian leader who defected to Sparta", "a": "Alcibiades", "d": ["Pericles", "Cleon"]},
+    {"c": "Spartan fort in Attica urged by Alcibiades", "a": "Decelea", "d": ["Pylos", "Plataea"]},
+    {"c": "Who paid for Sparta's winning fleet?", "a": "Persia", "d": ["Carthage", "Egypt"]},
+    {"c": "Battle where Sparta destroyed the Athenian navy", "a": "Aegospotami, 405 BCE", "d": ["Salamis, 480 BCE", "Mantinea, 362 BCE"]},
+    {"c": "Spartan admiral who won the war at sea", "a": "Lysander", "d": ["Leonidas", "Pausanias"]},
+    {"c": "Why Athens surrendered in 404 BCE", "a": "Without ships it could not bring in food", "d": ["Its walls were breached by siege engines", "Its allies voted to dissolve the city"]},
+    {"c": "Thucydides on civil war at Corcyra", "a": "Words had to change their ordinary meaning", "d": ["The gods punished both factions", "Law grew stronger in the crisis"]},
+    {"c": "Translator of the classic English Thucydides", "a": "Richard Crawley", "d": ["Lionel Giles", "J. J. Graham"]},
+    {"c": "Year Thucydides's narrative breaks off", "a": "411 BCE", "d": ["404 BCE", "431 BCE"]},
+    {"c": "Ancient historian who continued Thucydides", "a": "Xenophon", "d": ["Herodotus", "Plutarch"]}
+  ],
+  "read": {
+    "title": "Fear, power and the weak",
+    "text": [
+      "Thucydides on his purpose and on the cause of the war (Book I):",
+      "In fine, I have written my work, not as an essay which is to win the applause of the moment, but as a possession for all time.",
+      "The real cause I consider to be the one which was formally most kept out of sight. The growth of the power of Athens, and the alarm which this inspired in Lacedaemon, made war inevitable.",
+      "The Athenian envoys to the Melians, 416 BCE (Book V):",
+      "For ourselves, we shall not trouble you with specious pretences—either of how we have a right to our empire because we overthrew the Mede, or are now attacking you because of wrong that you have done us—and make a long speech which would not be believed; and in return we hope that you, instead of thinking to influence us by saying that you did not join the Lacedaemonians, although their colonists, or that you have done us no wrong, will aim at what is feasible, holding in view the real sentiments of us both; since you know as well as we do that right, as the world goes, is only in question between equals in power, while the strong do what they can and the weak suffer what they must."
+    ],
+    "q": [
+      {"q": "What does Thucydides call the real cause of the war?", "o": ["The growth of Athenian power and the alarm it caused in Sparta", "The grievances each side announced openly", "A dispute over the Olympic games"], "k": 0},
+      {"q": "How do the Athenians tell the Melians to argue?", "o": ["By appealing to the gods", "By recalling past wrongs Athens did them", "By aiming at what is feasible given their real interests"], "k": 2},
+      {"q": "According to the Athenians, when is right in question?", "o": ["Whenever a treaty is broken", "Only between equals in power", "Only in matters of religion"], "k": 1}
+    ]
+  }
+}

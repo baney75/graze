@@ -1,0 +1,51 @@
+{
+  "title": "The Renaissance and the Reformation",
+  "note": "The Renaissance (c. 1350 to 1600) began in the wealthy city-states of Italy as a revival of classical learning called humanism. The printing press spread its ideas. In 1517 Martin Luther's protest against indulgences began the Protestant Reformation, which permanently divided Western Christianity.",
+  "src": { "t": "Western Civilization: A Concise History II (Brooks), LibreTexts, Ch. 3 and 6", "u": "https://human.libretexts.org/Bookshelves/History/World_History/Western_Civilization_3e%3A_A_Concise_History_II/Chapters_3%3A_The_Renaissance" },
+  "items": [
+    { "c": "\"Renaissance\" means", "a": "Rebirth", "d": ["Reform", "Discovery", "Enlightenment"] },
+    { "c": "Region where the Renaissance began", "a": "The city-states of Italy", "d": ["The towns of Flanders", "The kingdoms of Spain", "The cities of the Hanseatic League"] },
+    { "c": "Renaissance humanism", "a": "Study of classical texts and human potential", "d": ["Study of theology by medieval logic", "Belief that reason replaces religion"] },
+    { "c": "Petrarch", "a": "Italian poet called the father of humanism", "d": ["Florentine banker and patron of artists", "Dutch scholar who edited the New Testament"] },
+    { "c": "Medici family", "a": "Florentine bankers and patrons of the arts", "d": ["Venetian merchants who ruled by election", "Spanish nobles who funded Columbus"] },
+    { "c": "Patron (in Renaissance art)", "a": "Wealthy sponsor who paid artists", "d": ["Master who trained apprentices", "Guild that set prices for art"] },
+    { "c": "Brunelleschi", "a": "Architect of the dome of Florence's cathedral", "d": ["Painter of the Sistine Chapel ceiling", "Painter of The Birth of Venus"] },
+    { "c": "Painter of the Mona Lisa and The Last Supper", "a": "Leonardo da Vinci", "d": ["Michelangelo", "Raphael", "Botticelli"] },
+    { "c": "Painter of the Sistine Chapel ceiling", "a": "Michelangelo", "d": ["Leonardo da Vinci", "Raphael", "Titian"] },
+    { "c": "Linear perspective", "a": "Technique for showing depth on a flat surface", "d": ["Technique for painting on wet plaster", "Technique for mixing oil paints"] },
+    { "c": "Machiavelli's The Prince", "a": "Practical guide to gaining and keeping power", "d": ["Guide to the manners of a courtier", "Satire on corrupt clergy and scholars"] },
+    { "c": "Johannes Gutenberg", "a": "German who developed movable-type printing", "d": ["German monk who posted 95 theses", "Dutch humanist who mocked church abuses"] },
+    { "c": "Gutenberg Bible printed", "a": "c. 1455", "d": ["c. 1350", "c. 1517", "c. 1600"] },
+    { "c": "Erasmus", "a": "Dutch humanist who edited the Greek New Testament", "d": ["Swiss reformer who led Zurich", "English chancellor who wrote Utopia"] },
+    { "c": "Indulgence", "a": "Church remission of punishment due for forgiven sins", "d": ["Church tax on church lands", "Church order expelling a member"] },
+    { "c": "Martin Luther posts his Ninety-five Theses", "a": "1517", "d": ["1455", "1534", "1648"] },
+    { "c": "Luther taught salvation comes through", "a": "Faith alone", "d": ["Good works alone", "Obedience to the pope"] },
+    { "c": "Diet of Worms (1521)", "a": "Imperial assembly where Luther refused to recant", "d": ["Council that reformed Catholic teaching", "Treaty that ended the Thirty Years' War"] },
+    { "c": "Why printing helped the Reformation spread", "a": "Pamphlets and Bibles reached many readers fast", "d": ["The pope paid printers to copy Luther", "Printing replaced church sermons"] },
+    { "c": "John Calvin", "a": "Reformer in Geneva who taught predestination", "d": ["Reformer in Wittenberg who taught faith alone", "Founder of the Jesuit order"] },
+    { "c": "Predestination", "a": "Belief that God has already chosen the saved", "d": ["Belief that good works earn salvation", "Belief that the soul is reborn"] },
+    { "c": "Henry VIII and the Act of Supremacy (1534)", "a": "Made the king head of the Church of England", "d": ["Returned England to papal authority", "Granted freedom of worship in England"] },
+    { "c": "Main trigger of Henry VIII's break with Rome", "a": "The pope refused to annul his marriage", "d": ["The pope excommunicated Elizabeth I", "Luther visited the English court"] },
+    { "c": "Catholic (Counter-) Reformation", "a": "Catholic renewal in response to Protestantism", "d": ["Protestant split into rival churches", "Union of Catholic and Orthodox churches"] },
+    { "c": "Council of Trent", "a": "Catholic council of 1545 to 1563 that defined doctrine", "d": ["Protestant meeting that united Lutherans", "Peace that ended the wars of religion"] },
+    { "c": "Ignatius of Loyola", "a": "Founder of the Jesuits", "d": ["Founder of the Calvinists", "Founder of the Franciscans"] },
+    { "c": "Jesuits", "a": "Catholic order known for schools and missions", "d": ["Protestant sect that rejected infant baptism", "Monks devoted to silence and farming"] },
+    { "c": "Peace of Augsburg (1555)", "a": "Let each German prince choose Lutheran or Catholic", "d": ["Gave the pope control over German bishops", "Banned Protestant worship in the empire"] },
+    { "c": "Defeat of the Spanish Armada by England", "a": "1588", "d": ["1517", "1648", "1453"] },
+    { "c": "Thirty Years' War", "a": "1618 to 1648", "d": ["1337 to 1453", "1756 to 1763", "1545 to 1563"] },
+    { "c": "Peace of Westphalia (1648)", "a": "Ended the Thirty Years' War", "d": ["Ended the Hundred Years' War", "Ended the Italian Wars"] }
+  ],
+  "read": {
+    "title": "New learning, divided faith",
+    "text": [
+      "In the 1300s and 1400s, Italian cities such as Florence grew rich from banking and trade. Wealthy families like the Medici paid artists and scholars to glorify their cities. Humanists such as Petrarch searched monasteries for lost Latin and Greek texts and urged the study of grammar, history, poetry and ethics. Artists studied ancient sculpture and used perspective to make paintings seem real. This revival is called the Renaissance, or rebirth.",
+      "Around 1450 Johannes Gutenberg developed printing with movable metal type. Books became cheaper and more plentiful, and ideas could spread across Europe in weeks. Northern humanists such as Erasmus used the new tool to publish better editions of the Bible and to criticize abuses in the church.",
+      "In 1517 Martin Luther, a monk and professor in Wittenberg, challenged the sale of indulgences. He taught that salvation came through faith alone and that the Bible, not the pope, was the final authority. Printed copies of his writings spread rapidly. Some German princes protected him, and other reformers, such as John Calvin in Geneva, founded their own churches. In England, Henry VIII broke with Rome for political and personal reasons. The Catholic Church answered with the Council of Trent and new orders such as the Jesuits. Religious wars followed, ending in Germany only with the Peace of Westphalia in 1648."
+    ],
+    "q": [
+      { "q": "Why could Luther's ideas spread so quickly?", "o": ["Printed copies circulated widely", "The pope endorsed them", "He traveled across Europe", "Calvin translated them"], "k": 0 },
+      { "q": "What did Luther hold to be the final authority in religion?", "o": ["The Bible", "The pope", "Church councils", "The German princes"], "k": 0 },
+      { "q": "What paid for much Renaissance art in Italy?", "o": ["Wealthy patrons from banking and trade", "Taxes from the Holy Roman Empire", "Gold from the Americas", "Sales of printed books"], "k": 0 }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "key": "italian",
+  "name": "Italian",
+  "group": "Languages",
+  "tag": "ITALIANO",
+  "lang": "it-IT",
+  "speak": "recognize",
+  "level": "Beginner to A2",
+  "blurb": "Standard Italian from first greetings to everyday conversation: core vocabulary with the right articles, the present, past and future tenses, and the phrases you need to read simple texts and get by in Italy.",
+  "sources": [
+    { "t": "Voci: Corso elementare di lingua e culture italiane I (Bozzato, Benetollo, Mugnai; Haverford College), LibreTexts", "u": "https://human.libretexts.org/Bookshelves/Languages/Italian/Voci%3A_Corso_elementare_di_lingua_e_culture_italiane_I_(Bozzato_Benetollo_and_Mugnai)" },
+    { "t": "D'accordo! Intermediate Italian (Blum, Gemmani; University of Iowa), LibreTexts", "u": "https://human.libretexts.org/Bookshelves/Languages/Italian/D'accordo_-_Intermediate_Italian_(Blum_and_Gemmani)" },
+    { "t": "Vocabolario Treccani, Istituto della Enciclopedia Italiana", "u": "https://www.treccani.it/vocabolario/" },
+    { "t": "Wiktionary, Italian entry: gli", "u": "https://en.wiktionary.org/wiki/gli" }
+  ]
+}

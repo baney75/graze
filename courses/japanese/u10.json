@@ -1,0 +1,339 @@
+{
+  "title": "Days, months and telling time",
+  "note": "Clock times use 〜時 (o'clock) and 〜分 (minutes), and 半 is half past. Mark a specific time or day with に: 七時に, 日曜日に. Relative words like 今日, 明日 and 毎日 take no に. Watch 四時 yoji, 九時 kuji, 四月 shigatsu and 九月 kugatsu. Months are simply number + 月.",
+  "src": {
+    "t": "Tae Kim's Guide: Particles used with verbs (に for time)",
+    "u": "https://guidetojapanese.org/learn/grammar/verbparticles"
+  },
+  "items": [
+    {
+      "c": "今日",
+      "r": "kyō",
+      "a": "today",
+      "d": [
+        "tomorrow",
+        "yesterday"
+      ],
+      "ex": "(きょう) 今日は月曜日です。",
+      "exT": "Today is Monday."
+    },
+    {
+      "c": "明日",
+      "r": "ashita",
+      "a": "tomorrow",
+      "d": [
+        "today",
+        "yesterday"
+      ]
+    },
+    {
+      "c": "昨日",
+      "r": "kinō",
+      "a": "yesterday",
+      "d": [
+        "tomorrow",
+        "today"
+      ]
+    },
+    {
+      "c": "毎日",
+      "r": "mainichi",
+      "a": "every day",
+      "d": [
+        "every week",
+        "today"
+      ]
+    },
+    {
+      "c": "今",
+      "r": "ima",
+      "a": "now",
+      "d": [
+        "later",
+        "before"
+      ]
+    },
+    {
+      "c": "朝",
+      "r": "asa",
+      "a": "morning",
+      "d": [
+        "noon",
+        "night"
+      ]
+    },
+    {
+      "c": "夜",
+      "r": "yoru",
+      "a": "night",
+      "d": [
+        "morning",
+        "afternoon"
+      ]
+    },
+    {
+      "c": "午前",
+      "r": "gozen",
+      "a": "a.m., morning",
+      "d": [
+        "p.m., afternoon",
+        "noon"
+      ]
+    },
+    {
+      "c": "午後",
+      "r": "gogo",
+      "a": "p.m., afternoon",
+      "d": [
+        "a.m., morning",
+        "midnight"
+      ],
+      "ex": "(ごご) 午後三時です。",
+      "exT": "It's 3 p.m."
+    },
+    {
+      "c": "〜時",
+      "r": "-ji",
+      "a": "o'clock",
+      "d": [
+        "minutes",
+        "hours (duration)"
+      ]
+    },
+    {
+      "c": "〜分",
+      "r": "-fun / -pun",
+      "a": "minute(s)",
+      "d": [
+        "o'clock",
+        "second(s)"
+      ],
+      "ex": "(ふん) 十時十五分",
+      "exT": "10:15"
+    },
+    {
+      "c": "半",
+      "r": "han",
+      "a": "half, half past",
+      "d": [
+        "quarter past",
+        "o'clock"
+      ]
+    },
+    {
+      "c": "何時",
+      "r": "nanji",
+      "a": "what time",
+      "d": [
+        "how many hours",
+        "what day"
+      ]
+    },
+    {
+      "c": "月曜日",
+      "r": "getsuyōbi",
+      "a": "Monday",
+      "d": [
+        "Sunday",
+        "Wednesday"
+      ]
+    },
+    {
+      "c": "火曜日",
+      "r": "kayōbi",
+      "a": "Tuesday",
+      "d": [
+        "Thursday",
+        "Friday"
+      ]
+    },
+    {
+      "c": "水曜日",
+      "r": "suiyōbi",
+      "a": "Wednesday",
+      "d": [
+        "Monday",
+        "Thursday"
+      ]
+    },
+    {
+      "c": "木曜日",
+      "r": "mokuyōbi",
+      "a": "Thursday",
+      "d": [
+        "Tuesday",
+        "Saturday"
+      ]
+    },
+    {
+      "c": "金曜日",
+      "r": "kin'yōbi",
+      "a": "Friday",
+      "d": [
+        "Monday",
+        "Saturday"
+      ],
+      "ex": "(きんようび) 金曜日の夜",
+      "exT": "Friday night"
+    },
+    {
+      "c": "土曜日",
+      "r": "doyōbi",
+      "a": "Saturday",
+      "d": [
+        "Sunday",
+        "Tuesday"
+      ]
+    },
+    {
+      "c": "日曜日",
+      "r": "nichiyōbi",
+      "a": "Sunday",
+      "d": [
+        "Saturday",
+        "Monday"
+      ]
+    },
+    {
+      "c": "週末",
+      "r": "shūmatsu",
+      "a": "weekend",
+      "d": [
+        "weekday",
+        "next week"
+      ]
+    },
+    {
+      "c": "来週",
+      "r": "raishū",
+      "a": "next week",
+      "d": [
+        "last week",
+        "this week"
+      ]
+    },
+    {
+      "c": "先週",
+      "r": "senshū",
+      "a": "last week",
+      "d": [
+        "next week",
+        "every week"
+      ]
+    },
+    {
+      "c": "四月",
+      "r": "shigatsu",
+      "a": "April",
+      "d": [
+        "the fourth day",
+        "four months"
+      ]
+    },
+    {
+      "c": "九月",
+      "r": "kugatsu",
+      "a": "September",
+      "d": [
+        "nine months",
+        "the ninth day"
+      ]
+    },
+    {
+      "c": "四時 (read as)",
+      "say": "四時",
+      "a": "yoji",
+      "d": [
+        "yonji",
+        "shiji"
+      ]
+    },
+    {
+      "c": "九時 (read as)",
+      "say": "九時",
+      "a": "kuji",
+      "d": [
+        "kyūji",
+        "kyuji"
+      ]
+    },
+    {
+      "c": "今何時ですか。",
+      "r": "Ima nanji desu ka.",
+      "a": "What time is it now?",
+      "d": [
+        "What day is it today?",
+        "How many hours is it?"
+      ]
+    },
+    {
+      "c": "三時半です。",
+      "r": "Sanji han desu.",
+      "a": "It's half past three.",
+      "d": [
+        "It's three hours.",
+        "It's a quarter past three."
+      ]
+    },
+    {
+      "c": "七時___朝ご飯を食べます。",
+      "r": "Shichiji ___ asagohan o tabemasu.",
+      "a": "に",
+      "d": [
+        "を",
+        "へ"
+      ],
+      "ex": "七時に朝ご飯を食べます。",
+      "exT": "I eat breakfast at seven."
+    },
+    {
+      "c": "今、午後三時___。(It's 3 p.m.)",
+      "r": "Ima, gogo sanji ___.",
+      "a": "です",
+      "d": [
+        "ます",
+        "に"
+      ],
+      "ex": "今、午後三時です。",
+      "exT": "It's 3 p.m. now."
+    }
+  ],
+  "read": {
+    "title": "わたしの 一日",
+    "text": [
+      "わたしは 毎朝 七時に 朝ご飯を 食べます。 パンと 卵を 食べます。 コーヒーを 飲みます。",
+      "日本語の クラスは 月曜日と 水曜日です。 クラスは 午前 九時です。 わたしの 母は 先生です。 母の クラスは 午後 一時です。",
+      "昼ご飯は 十二時半です。 晩ご飯は 午後 七時です。 母が 晩ご飯を 作ります。 日曜日の 晩ご飯は 魚です。 とても おいしいです。 夜 十時に お茶を 飲みます。",
+      "今日は 土曜日です。 明日は 日曜日です。 週末です！"
+    ],
+    "q": [
+      {
+        "q": "What does the writer have for breakfast?",
+        "o": [
+          "Bread and eggs",
+          "Rice and fish",
+          "Only coffee"
+        ],
+        "k": 0
+      },
+      {
+        "q": "When are the Japanese classes?",
+        "o": [
+          "Tuesday and Thursday",
+          "Monday and Wednesday",
+          "Saturday and Sunday"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What day is it today?",
+        "o": [
+          "Sunday",
+          "Friday",
+          "Saturday"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

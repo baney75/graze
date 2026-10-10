@@ -1,0 +1,44 @@
+{
+  "title": "Semicolons, colons, dashes and parentheses",
+  "note": "A semicolon joins two closely related independent clauses, including before a conjunctive adverb such as however, and separates list items that already contain commas. A colon follows a complete clause to introduce a list, an explanation or a quotation. Dashes set material off with emphasis; parentheses set it off quietly.",
+  "src": { "t": "Purdue OWL, Punctuation: Brief Overview", "u": "https://owl.purdue.edu/owl/general_writing/punctuation/punctuation/index.html" },
+  "items": [
+    { "c": "Semicolon", "a": "links independent clauses or divides complex list items", "d": ["introduces a list after a complete clause", "sets off a quotation"] },
+    { "c": "Colon", "a": "introduces a list, explanation or quotation after a clause", "d": ["joins two clauses that contrast with 'but'", "separates every item in a simple list"] },
+    { "c": "Clauses joined by 'therefore'", "a": "We lost; therefore, we trained harder.", "d": ["We lost, therefore, we trained harder.", "We lost; therefore we, trained harder."] },
+    { "c": "Fix the splice: 'He left, it was late.'", "a": "He left; it was late.", "d": ["He left: it was, late.", "He left, it, was late."] },
+    { "c": "Conjunctive adverbs", "a": "however, therefore, moreover", "d": ["and, but, so", "because, although, since"] },
+    { "c": "List items that contain commas", "a": "Erie, PA; Dayton, OH; and Troy, NY", "d": ["Erie, PA, Dayton, OH, and Troy, NY", "Erie; PA, Dayton; OH, and Troy; NY"] },
+    { "c": "Error in 'Although it rained; we played.'", "a": "a semicolon after a dependent clause", "d": ["a comma splice", "a missing colon"], "ex": "Use a comma: 'Although it rained, we played.'" },
+    { "c": "Semicolon before 'and' in two short clauses?", "a": "no; use a comma with 'and'", "d": ["yes; always use a semicolon before 'and'"] },
+    { "c": "Colon before a list", "a": "Bring three things: a pen, paper, and water.", "d": ["Bring: a pen, paper, and water.", "Bring three things; a pen, paper, and water."] },
+    { "c": "What must come before a colon in a sentence", "a": "a complete independent clause", "d": ["a coordinating conjunction", "a dependent clause"] },
+    { "c": "Error in 'My hobbies are: chess and golf.'", "a": "the colon follows an incomplete clause", "d": ["it needs a semicolon instead", "it needs a comma before 'and'"] },
+    { "c": "Colon or not after 'such as'?", "a": "no colon: 'fruits such as apples'", "d": ["colon: 'fruits such as: apples'"] },
+    { "c": "When a colon may join two clauses", "a": "the second explains or expands the first", "d": ["the second contrasts with the first", "the clauses are unrelated"] },
+    { "c": "One thing matters ___ effort. (colon/semicolon)", "a": "colon", "d": ["semicolon"] },
+    { "c": "Colons in times and Bible references", "a": "10:30 a.m. and John 3:16", "d": ["10;30 a.m. and John 3;16"] },
+    { "c": "Formal business letter greeting", "a": "Dear Dr. Lee:", "d": ["Dear Dr. Lee;"] },
+    { "c": "Em dash", "a": "a long dash that sets off material with emphasis", "d": ["a short mark that joins compound words", "a mark used only between numbers"] },
+    { "c": "Dashes vs. parentheses", "a": "dashes add emphasis; parentheses play it down", "d": ["parentheses add emphasis; dashes play it down", "they differ only in length"] },
+    { "c": "Paired dashes around an interruption", "a": "The suits—except the purple one—fit.", "d": ["The suits—except the purple one, fit.", "The suits, except the purple one—fit."] },
+    { "c": "Dashes neatly set off an appositive that", "a": "already contains commas", "d": ["is only one word long", "comes at the start of a sentence"], "ex": "Three cities—Rome, Paris, and Vienna—were on the list." },
+    { "c": "A dash before a final, emphatic word", "a": "She had one goal—revenge.", "d": ["She had one goal; revenge."] },
+    { "c": "Parentheses", "a": "set off extra material with less emphasis", "d": ["set off material with strong emphasis", "join two independent clauses"] },
+    { "c": "Parenthetical aside ending a sentence", "a": "We left early (it was late).", "d": ["We left early (it was late.)"] },
+    { "c": "Standalone sentence in parentheses: the period", "a": "goes inside the closing parenthesis", "d": ["goes outside the closing parenthesis"], "ex": "We left early. (It was late.)" }
+  ],
+  "read": {
+    "title": "Three ways to join two thoughts",
+    "text": [
+      "Suppose you have two complete sentences that belong together: \"The museum closed early. A storm was coming.\" You can leave them as two sentences. You can join them with a comma and a coordinating conjunction: \"The museum closed early, for a storm was coming.\" Or you can use a semicolon, which signals that the clauses are equal partners: \"The museum closed early; a storm was coming.\" What you may not do is join them with a bare comma, which creates a comma splice.",
+      "The colon does a more specific job. It says that what follows will explain, list or illustrate what came before: \"The museum closed early for one reason: a storm was coming.\" The words before a colon must form a complete clause. \"The reasons were: wind and rain\" breaks this rule, since \"The reasons were\" cannot stand alone.",
+      "Dashes and parentheses both interrupt a sentence, but with opposite tones. A dash raises its voice—look at this. Parentheses lower theirs (a quiet aside). Choose the mark that matches how loudly you want the extra material to speak."
+    ],
+    "q": [
+      { "q": "Which joins the two sentences correctly?", "o": ["The museum closed early, a storm was coming.", "The museum closed early; a storm was coming.", "The museum closed early: and a storm was coming."], "k": 1 },
+      { "q": "Why is \"The reasons were: wind and rain\" faulty?", "o": ["The words before the colon are not a complete clause", "A colon can never introduce a list", "It needs a semicolon after rain"], "k": 0 },
+      { "q": "According to the reading, how do dashes differ from parentheses?", "o": ["Dashes are only for numbers", "Parentheses add more emphasis", "Dashes emphasize; parentheses play material down"], "k": 2 }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "title": "Concurrency",
+  "note": "When threads share memory, the order of their steps is unpredictable, so any read–modify–write on shared data needs synchronization. Deadlock needs four conditions at once (the Coffman conditions): mutual exclusion, hold and wait, no preemption, and circular wait. Break any one and deadlock cannot occur.",
+  "src": {
+    "t": "Think OS (Downey), Engineering LibreTexts: threads, condition variables, semaphores",
+    "u": "https://eng.libretexts.org/Bookshelves/Computer_Science/Operating_Systems/Think_OS_-_A_Brief_Introduction_to_Operating_Systems_(Downey)"
+  },
+  "items": [
+    {
+      "c": "Concurrency",
+      "a": "structuring a program as overlapping tasks",
+      "d": [
+        "running tasks at the same instant on many cores",
+        "running tasks strictly one after another"
+      ]
+    },
+    {
+      "c": "Parallelism",
+      "a": "executing tasks at the same instant on many cores",
+      "d": [
+        "interleaving tasks on a single core",
+        "splitting code across many files"
+      ]
+    },
+    {
+      "c": "Threads in one process share",
+      "a": "the same memory address space",
+      "d": [
+        "nothing; each has private memory",
+        "only the call stack"
+      ]
+    },
+    {
+      "c": "Each thread has its own",
+      "a": "call stack and registers",
+      "d": [
+        "heap and global variables",
+        "copy of the program's code"
+      ]
+    },
+    {
+      "c": "Race condition",
+      "a": "the result depends on unpredictable timing",
+      "d": [
+        "two threads finish at the same moment",
+        "a thread runs faster than expected"
+      ]
+    },
+    {
+      "c": "Why count++ is not thread-safe",
+      "a": "it is a separate read, modify, and write",
+      "d": [
+        "integers cannot be shared between threads",
+        "the ++ operator is always asynchronous"
+      ]
+    },
+    {
+      "c": "Critical section",
+      "a": "code touching shared state that one thread at a time may run",
+      "d": [
+        "the most performance-sensitive loop",
+        "the code that starts all threads"
+      ]
+    },
+    {
+      "c": "Mutex",
+      "a": "a lock that admits one thread at a time",
+      "d": [
+        "a counter that admits up to N threads",
+        "a queue of pending messages"
+      ]
+    },
+    {
+      "c": "Counting semaphore",
+      "a": "a counter that admits up to N holders",
+      "d": [
+        "a lock that admits exactly one thread",
+        "a flag that wakes every thread"
+      ]
+    },
+    {
+      "c": "Read–write lock",
+      "a": "many readers at once, or one writer alone",
+      "d": [
+        "one reader and one writer together",
+        "writers first, readers never"
+      ]
+    },
+    {
+      "c": "Condition variable",
+      "a": "lets a thread sleep until another signals it",
+      "d": [
+        "a variable that is never shared",
+        "a lock that times out automatically"
+      ]
+    },
+    {
+      "c": "Atomic operation",
+      "a": "happens indivisibly, with no visible halfway state",
+      "d": [
+        "runs on a dedicated core",
+        "can be undone after it completes"
+      ]
+    },
+    {
+      "c": "Compare-and-swap (CAS)",
+      "a": "write only if the value still equals the expected one",
+      "d": [
+        "swap two threads' priorities",
+        "compare two locks and take the free one"
+      ]
+    },
+    {
+      "c": "Deadlock",
+      "a": "threads wait forever on resources the others hold",
+      "d": [
+        "threads stay busy but make no progress",
+        "one thread never gets scheduled"
+      ]
+    },
+    {
+      "c": "The four Coffman conditions for deadlock",
+      "a": "mutual exclusion, hold and wait, no preemption, circular wait",
+      "d": [
+        "mutual exclusion, starvation, livelock, circular wait",
+        "shared memory, preemption, priority, timeouts"
+      ]
+    },
+    {
+      "c": "Deadlock condition broken by a global lock order",
+      "a": "circular wait",
+      "d": [
+        "mutual exclusion",
+        "no preemption"
+      ]
+    },
+    {
+      "c": "Deadlock condition broken by locking all at once",
+      "a": "hold and wait",
+      "d": [
+        "circular wait",
+        "mutual exclusion"
+      ]
+    },
+    {
+      "c": "Deadlock condition: held locks can't be seized",
+      "a": "no preemption",
+      "d": [
+        "hold and wait",
+        "circular wait"
+      ]
+    },
+    {
+      "c": "Livelock",
+      "a": "threads keep reacting to each other but make no progress",
+      "d": [
+        "threads block forever on each other's locks",
+        "a lock that is never released"
+      ]
+    },
+    {
+      "c": "Starvation",
+      "a": "a thread is denied the resource it needs indefinitely",
+      "d": [
+        "every thread is blocked at once",
+        "a thread exits before finishing"
+      ]
+    },
+    {
+      "c": "Priority inversion",
+      "a": "a high-priority task waits on a low-priority lock holder",
+      "d": [
+        "a low-priority task always runs first",
+        "two tasks swap priorities on purpose"
+      ]
+    },
+    {
+      "c": "Why immutable data simplifies concurrency",
+      "a": "data that never changes needs no locks",
+      "d": [
+        "immutable data is stored on the GPU",
+        "immutable data is copied per thread"
+      ]
+    },
+    {
+      "c": "Optimistic concurrency control",
+      "a": "work freely, detect conflicts at commit time",
+      "d": [
+        "lock every row before reading it",
+        "run all transactions on one thread"
+      ]
+    },
+    {
+      "c": "Pessimistic concurrency control",
+      "a": "lock data before working on it",
+      "d": [
+        "check version numbers only at commit",
+        "retry blindly until it works"
+      ]
+    },
+    {
+      "c": "async/await lets you",
+      "a": "write non-blocking code that reads sequentially",
+      "d": [
+        "run code on many cores automatically",
+        "make any function finish faster"
+      ]
+    },
+    {
+      "c": "What await does in JavaScript",
+      "a": "pauses the function until the promise settles",
+      "d": [
+        "blocks the whole thread until done",
+        "starts a new operating-system thread"
+      ]
+    },
+    {
+      "c": "The JavaScript event loop",
+      "a": "runs callbacks one at a time on one thread",
+      "d": [
+        "runs every callback in parallel",
+        "creates a thread per request"
+      ]
+    },
+    {
+      "c": "Blocking CPU work inside an event loop",
+      "a": "stalls every other pending task",
+      "d": [
+        "runs on a spare thread automatically",
+        "is cancelled after one second"
+      ]
+    },
+    {
+      "c": "Idempotent operation",
+      "a": "repeating it has the same effect as doing it once",
+      "d": [
+        "it always returns the same value",
+        "it can run on only one thread"
+      ]
+    },
+    {
+      "c": "Why retried requests need idempotency",
+      "a": "a timed-out request may already have succeeded",
+      "d": [
+        "retries are always sent twice",
+        "servers reject duplicate headers"
+      ]
+    },
+    {
+      "c": "Idempotency key",
+      "a": "a client-chosen ID that makes a retry run only once",
+      "d": [
+        "the encryption key for a request",
+        "a lock shared by all servers"
+      ]
+    },
+    {
+      "c": "Actor model",
+      "a": "isolated actors that communicate only by messages",
+      "d": [
+        "threads that share one global heap",
+        "functions that run in a fixed order"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Two threads, one counter",
+    "text": [
+      "Imagine two threads each adding one to a shared counter a million times. The total should be two million, but it usually comes out lower. The line count++ is really three steps: read the value, add one, write it back. If both threads read 41 before either writes, both write 42 and one increment is lost. That is a race condition, and it appears only under certain timing, which makes it hard to reproduce.",
+      "The fix is to make the read–modify–write indivisible, either with an atomic instruction or by guarding it with a mutex so only one thread is in that critical section at a time. Locks bring their own hazard. If thread A holds lock 1 and waits for lock 2 while thread B holds lock 2 and waits for lock 1, neither can proceed. Deadlock needs all four Coffman conditions, so the common cure is to break circular wait by always acquiring locks in the same global order.",
+      "Async code avoids many of these problems by running callbacks on a single thread, but it trades them for others. One long, blocking computation freezes every other task waiting in the event loop."
+    ],
+    "q": [
+      {
+        "q": "Why does the shared counter come out too low?",
+        "o": [
+          "Increments are lost when both threads read before writing",
+          "The counter overflows",
+          "One thread exits early"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What common cure for deadlock does the reading describe?",
+        "o": [
+          "Using more threads",
+          "Acquiring locks in one global order",
+          "Removing all mutexes"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What is the main hazard of async code named in the reading?",
+        "o": [
+          "Data races between threads",
+          "Phantom reads",
+          "A blocking computation freezing other tasks"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

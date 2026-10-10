@@ -1,0 +1,80 @@
+{
+  "title": "Body and health",
+  "note": "Doer (to hurt) agrees with the body part that hurts: Minha cabeça dói, Meus pés doem. Aches use estar com dor de...: Estou com dor de cabeça. Watch gender: a mão (hand) is feminine even though it ends in -o.",
+  "src": {"t": "Língua da Gente, Beginning 39: You Caught A Cold!", "u": "https://linguadagente.coerll.utexas.edu/beginning-you-caught-a-cold/"},
+  "items": [
+    {"c": "o corpo", "a": "the body", "d": ["the heart", "the head"]},
+    {"c": "a cabeça", "a": "the head", "d": ["the hair", "the face"], "ex": "Minha cabeça dói.", "exT": "My head hurts."},
+    {"c": "o cabelo", "a": "the hair", "d": ["the head", "the eyebrow"]},
+    {"c": "o rosto", "a": "the face", "d": ["the neck", "the head"]},
+    {"c": "o olho", "a": "the eye", "d": ["the ear", "the nose"], "ex": "Ela tem olhos verdes.", "exT": "She has green eyes."},
+    {"c": "a orelha", "a": "the ear", "d": ["the eye", "the mouth"]},
+    {"c": "o nariz", "a": "the nose", "d": ["the mouth", "the chin"]},
+    {"c": "a boca", "a": "the mouth", "d": ["the nose", "the tooth"]},
+    {"c": "o dente", "a": "the tooth", "d": ["the tongue", "the mouth"]},
+    {"c": "o pescoço", "a": "the neck", "d": ["the shoulder", "the face"]},
+    {"c": "o braço", "a": "the arm", "d": ["the leg", "the hand"]},
+    {"c": "a mão", "a": "the hand", "d": ["the foot", "the arm"], "ex": "Lava as mãos!", "exT": "Wash your hands!"},
+    {"c": "o dedo", "a": "the finger, toe", "d": ["the hand", "the nail"]},
+    {"c": "a perna", "a": "the leg", "d": ["the arm", "the foot"], "ex": "Ele quebrou a perna.", "exT": "He broke his leg."},
+    {"c": "o pé", "a": "the foot", "d": ["the leg", "the hand"]},
+    {"c": "as costas", "a": "the back (of the body)", "d": ["the ribs", "the shoulders"], "ex": "Minhas costas doem.", "exT": "My back hurts."},
+    {"c": "a barriga", "a": "the belly", "d": ["the back", "the chest"]},
+    {"c": "o coração", "a": "the heart", "d": ["the stomach", "the chest"]},
+    {"c": "o médico", "a": "the doctor", "d": ["the nurse", "the pharmacist"], "ex": "Vou ao médico amanhã.", "exT": "I'm going to the doctor tomorrow."},
+    {"c": "o remédio", "a": "the medicine", "d": ["the prescription", "the bandage"], "ex": "Você já tomou o remédio?", "exT": "Have you taken the medicine yet?"},
+    {"c": "a gripe", "a": "the flu, a bad cold", "d": ["the fever", "the cough"]},
+    {"c": "a febre", "a": "the fever", "d": ["the flu", "the cough"], "ex": "O bebê está com febre.", "exT": "The baby has a fever."},
+    {"c": "a tosse", "a": "the cough", "d": ["the fever", "the sneeze"]},
+    {"c": "Estou doente.", "a": "I'm sick.", "d": ["I'm tired.", "I'm better."], "ex": "Hoje não vou trabalhar. Estou doente.", "exT": "I'm not going to work today. I'm sick."},
+    {"c": "Estou com dor de cabeça.", "a": "I have a headache.", "d": ["I have a stomachache.", "My head is fine."]},
+    {"c": "Dói aqui.", "a": "It hurts here.", "d": ["It's here.", "It doesn't hurt."]},
+    {"c": "Preciso de um médico.", "a": "I need a doctor.", "d": ["I am a doctor.", "I need medicine."], "ex": "Por favor, preciso de um médico!", "exT": "Please, I need a doctor!"},
+    {"c": "Melhoras!", "a": "Get well soon!", "d": ["Congratulations!", "Be careful!"], "ex": "Você está com gripe? Melhoras!", "exT": "You have the flu? Get well soon!"},
+    {"c": "Minha cabeça ___. (doer)", "a": "dói", "d": ["doem", "doe"]},
+    {"c": "Meus pés ___. (doer)", "a": "doem", "d": ["dói", "doí"]},
+    {"c": "___ mãos (the)", "a": "as", "d": ["os"]},
+    {"c": "Ele ___ com febre. (estar)", "a": "está", "d": ["é", "tem"]},
+    {"c": "Eu ___ o remédio à noite. (tomar)", "a": "tomo", "d": ["toma", "tomam"]}
+  ],
+  "read": {
+    "title": "No médico",
+    "text": [
+      "O Pedro não está bem. Ele está com febre e com dor de cabeça desde ontem. A garganta também dói.",
+      "Ele vai ao médico de manhã. A médica pergunta: \"O que o senhor tem?\" O Pedro responde: \"Estou com dor de cabeça, febre e um pouco de tosse.\"",
+      "A médica diz: \"É uma gripe. O senhor precisa descansar, beber muita água e tomar este remédio três vezes por dia.\"",
+      "O Pedro vai à farmácia, compra o remédio e volta para casa. Ele dorme a tarde toda. À noite, ele já está melhor."
+    ],
+    "q": [
+      {
+        "q": "What symptoms does Pedro have?",
+        "o": [
+          "Fever, headache and a sore throat",
+          "A stomachache and back pain",
+          "Only a cough",
+          "Pain in his feet"
+        ],
+        "k": 0
+      },
+      {
+        "q": "How often should he take the medicine?",
+        "o": [
+          "Once a day",
+          "Twice a day",
+          "Three times a day"
+        ],
+        "k": 2
+      },
+      {
+        "q": "How does Pedro feel at night?",
+        "o": [
+          "Worse",
+          "Already better",
+          "The same",
+          "Very hungry"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

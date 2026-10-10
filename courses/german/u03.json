@@ -1,0 +1,53 @@
+{
+  "title": "Numbers and age",
+  "note": "From 21 to 99, German says the ones first: einundzwanzig is \"one-and-twenty\" (21). Watch the spelling: sechzehn and siebzehn drop letters, and dreißig is written with ß. Give your age with sein: Ich bin 20 Jahre alt.",
+  "src": { "t": "Deutsch im Blick, Kapitel 1: Zahlen", "u": "https://coerll.utexas.edu/dib/voc.php?k=1&s=7" },
+  "items": [
+    { "c": "null", "a": "0", "d": ["9", "1"] },
+    { "c": "eins", "a": "1", "d": ["2", "11"] },
+    { "c": "zwei", "a": "2", "d": ["3", "12"] },
+    { "c": "drei", "a": "3", "d": ["30", "13"] },
+    { "c": "vier", "a": "4", "d": ["5", "14"] },
+    { "c": "fünf", "a": "5", "d": ["4", "15"] },
+    { "c": "sechs", "a": "6", "d": ["7", "60"] },
+    { "c": "sieben", "a": "7", "d": ["6", "17"] },
+    { "c": "acht", "a": "8", "d": ["18", "9"] },
+    { "c": "neun", "a": "9", "d": ["8", "19"] },
+    { "c": "zehn", "a": "10", "d": ["20", "100"] },
+    { "c": "elf", "a": "11", "d": ["12", "15"] },
+    { "c": "zwölf", "a": "12", "d": ["20", "11"] },
+    { "c": "sechzehn", "a": "16", "d": ["60", "17"] },
+    { "c": "siebzehn", "a": "17", "d": ["70", "7"] },
+    { "c": "zwanzig", "a": "20", "d": ["12", "200"] },
+    { "c": "dreißig", "a": "30", "d": ["13", "3"] },
+    { "c": "vierzig", "a": "40", "d": ["14", "4"] },
+    { "c": "dreiundzwanzig", "a": "23", "d": ["32", "33"], "ex": "drei + und + zwanzig: the ones come first", "exT": "three + and + twenty" },
+    { "c": "fünfundsechzig", "a": "65", "d": ["56", "55"] },
+    { "c": "hundert", "a": "100", "d": ["1,000", "10"] },
+    { "c": "tausend", "a": "1,000", "d": ["100", "10,000"] },
+    { "c": "die Zahl", "a": "the number", "d": ["the letter", "the year"], "ex": "Pl. die Zahlen", "exT": "the numbers" },
+    { "c": "das Jahr", "a": "the year", "d": ["the month", "the week"], "ex": "Pl. die Jahre: Ich bin zwanzig Jahre alt.", "exT": "I'm twenty years old." },
+    { "c": "Wie alt bist du?", "a": "How old are you?", "d": ["How are you?", "How tall are you?"] },
+    { "c": "Ich bin zwanzig Jahre alt.", "a": "I'm twenty years old.", "d": ["I'm twelve years old.", "I've lived here twenty years."] },
+    { "c": "die Telefonnummer", "a": "the phone number", "d": ["the address", "the zip code"] },
+    { "c": "die Adresse", "a": "the address", "d": ["the phone number", "the name"], "ex": "Pl. die Adressen" },
+    { "c": "das Handy", "a": "the cell phone", "d": ["the hand", "the computer"], "ex": "Pl. die Handys: Wo ist mein Handy?", "exT": "Where is my cell phone?" },
+    { "c": "Wie ist deine Telefonnummer?", "a": "What's your phone number?", "d": ["What's your address?", "What's your name?"] },
+    { "c": "Lena ___ 19 Jahre alt. (sein)", "a": "ist", "d": ["sind", "bist"] },
+    { "c": "Wie alt ___ Sie? (sein)", "a": "sind", "d": ["ist", "seid"], "ex": "Wie alt sind Sie, Herr Braun?", "exT": "How old are you, Mr. Braun?" },
+    { "c": "Ich ___ zwei Handys. (haben)", "a": "habe", "d": ["hat", "bin"] }
+  ],
+  "read": {
+    "title": "Das ist Jonas",
+    "text": [
+      "Hallo! Ich heiße Jonas. Ich bin dreiundzwanzig Jahre alt und ich bin Student. Ich komme aus Österreich, aus Graz.",
+      "Meine Freundin heißt Mia. Sie ist einundzwanzig. Sie kommt aus Deutschland. Mia ist sehr nett.",
+      "Meine Telefonnummer ist null-sechs-neun-zwei, vier-fünf, acht-acht. Meine Adresse ist Bahnhofstraße zwölf. Tschüss und bis bald!"
+    ],
+    "q": [
+      { "q": "How old is Jonas?", "o": ["23", "32", "21"], "k": 0 },
+      { "q": "Where is Mia from?", "o": ["Austria", "Germany", "Graz"], "k": 1 },
+      { "q": "What is the house number in Jonas's address?", "o": ["20", "2", "12"], "k": 2 }
+    ]
+  }
+}

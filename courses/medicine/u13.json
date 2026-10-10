@@ -1,0 +1,328 @@
+{
+ "title": "Medical ethics: principles, consent and the Hippocratic tradition",
+ "note": "Clinical ethics is often organized around four principles: respect for autonomy, beneficence, non-maleficence and justice. Informed consent puts autonomy into practice. Research ethics grew from hard lessons, recorded in the Nuremberg Code, the Declaration of Helsinki and the Belmont Report.",
+ "src": {
+  "t": "U.S. HHS Office for Human Research Protections, The Belmont Report",
+  "u": "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html"
+ },
+ "items": [
+  {
+   "c": "The four principles of biomedical ethics",
+   "a": "Autonomy, beneficence, non-maleficence, justice",
+   "d": [
+    "Honesty, loyalty, privacy, efficiency",
+    "Liberty, equality, fraternity, charity"
+   ]
+  },
+  {
+   "c": "Authors of Principles of Biomedical Ethics (1979)",
+   "a": "Tom Beauchamp and James Childress",
+   "d": [
+    "Hippocrates and Galen",
+    "Immanuel Kant and John Stuart Mill"
+   ]
+  },
+  {
+   "c": "Respect for autonomy",
+   "a": "Honoring a capable person's own informed choices",
+   "d": [
+    "Doing whatever produces the most benefit",
+    "Treating every patient identically"
+   ]
+  },
+  {
+   "c": "Beneficence",
+   "a": "Acting for the patient's good",
+   "d": [
+    "Avoiding causing harm",
+    "Distributing resources fairly"
+   ]
+  },
+  {
+   "c": "Non-maleficence",
+   "a": "Avoiding causing harm",
+   "d": [
+    "Acting to promote the patient's good",
+    "Respecting the patient's choices"
+   ]
+  },
+  {
+   "c": "Justice (in medical ethics)",
+   "a": "Fair distribution of benefits, risks and resources",
+   "d": [
+    "Punishing medical errors",
+    "Following the patient's wishes"
+   ]
+  },
+  {
+   "c": "Paternalism",
+   "a": "Overriding a patient's choices for their supposed good",
+   "d": [
+    "Sharing decisions equally with the patient",
+    "Deferring entirely to family wishes"
+   ]
+  },
+  {
+   "c": "Core elements of informed consent",
+   "a": "Capacity, disclosure, understanding, voluntariness",
+   "d": [
+    "Payment, signature, witness, notary",
+    "Diagnosis, prognosis, cost, insurance"
+   ]
+  },
+  {
+   "c": "Decision-making capacity",
+   "a": "Ability to understand, weigh and communicate a choice",
+   "d": [
+    "Having reached the age of 21",
+    "Agreeing with the clinician's advice"
+   ]
+  },
+  {
+   "c": "Competence (as distinct from capacity)",
+   "a": "A legal determination made by a court",
+   "d": [
+    "A bedside judgment by a nurse",
+    "A score on a memory test"
+   ]
+  },
+  {
+   "c": "A capable adult refuses a recommended treatment",
+   "a": "The refusal must be respected",
+   "d": [
+    "Treatment may proceed anyway",
+    "The family can override the refusal"
+   ]
+  },
+  {
+   "c": "Surrogate decision-maker",
+   "a": "Person who decides for a patient who lacks capacity",
+   "d": [
+    "Clinician who signs the consent form",
+    "Lawyer who reviews the medical chart"
+   ]
+  },
+  {
+   "c": "Substituted judgment standard",
+   "a": "Choosing as the patient would have chosen",
+   "d": [
+    "Choosing what the surrogate prefers",
+    "Choosing whatever is cheapest"
+   ]
+  },
+  {
+   "c": "Best-interest standard",
+   "a": "Choosing what most benefits a patient whose wishes are unknown",
+   "d": [
+    "Choosing as the patient said they wanted",
+    "Choosing what the hospital prefers"
+   ]
+  },
+  {
+   "c": "Advance directive",
+   "a": "A document stating future care wishes",
+   "d": [
+    "A prescription for future medications",
+    "A referral to a specialist"
+   ]
+  },
+  {
+   "c": "Emergency exception to informed consent",
+   "a": "Treating an unconscious patient when delay risks serious harm",
+   "d": [
+    "Skipping consent to save clinic time",
+    "Treating any patient who seems anxious"
+   ]
+  },
+  {
+   "c": "Confidentiality",
+   "a": "Keeping a patient's information private",
+   "d": [
+    "Telling the patient the full truth",
+    "Sharing records with any relative"
+   ]
+  },
+  {
+   "c": "1996 U.S. health information privacy law",
+   "a": "HIPAA",
+   "d": [
+    "EMTALA",
+    "ADA"
+   ]
+  },
+  {
+   "c": "Veracity",
+   "a": "Truthfulness with patients",
+   "d": [
+    "Keeping information private",
+    "Fair use of resources"
+   ]
+  },
+  {
+   "c": "Where the Hippocratic Oath comes from",
+   "a": "Ancient Greece",
+   "d": [
+    "Ancient Egypt",
+    "Medieval France"
+   ]
+  },
+  {
+   "c": "Hippocratic Oath pledge about lethal drugs",
+   "a": "Not to give one, even if asked",
+   "d": [
+    "To give one whenever a patient asks",
+    "To give one only to the dying"
+   ]
+  },
+  {
+   "c": "Is 'First, do no harm' in the Hippocratic Oath?",
+   "a": "No, not in those words",
+   "d": [
+    "Yes, as its first line",
+    "Yes, as its closing line"
+   ]
+  },
+  {
+   "c": "Hippocratic Oath pledge on patients' secrets",
+   "a": "To keep private what should not be spoken of",
+   "d": [
+    "To publish every case in detail",
+    "To share it freely with other families"
+   ]
+  },
+  {
+   "c": "World Medical Association physician's pledge (1948)",
+   "a": "Declaration of Geneva",
+   "d": [
+    "Declaration of Helsinki",
+    "Belmont Report"
+   ]
+  },
+  {
+   "c": "Nuremberg Code (1947)",
+   "a": "Research rules stressing voluntary consent, after Nazi experiments",
+   "d": [
+    "The first U.S. law on hospital billing",
+    "A medieval guild oath for surgeons"
+   ]
+  },
+  {
+   "c": "Declaration of Helsinki (1964)",
+   "a": "World Medical Association principles for research on humans",
+   "d": [
+    "U.S. law on health insurance",
+    "Treaty on chemical weapons"
+   ]
+  },
+  {
+   "c": "U.S. Public Health Service study at Tuskegee",
+   "a": "Withheld treatment from Black men without informed consent",
+   "d": [
+    "First trial of the polio vaccine",
+    "Study that discovered penicillin"
+   ]
+  },
+  {
+   "c": "Belmont Report (1979) basic principles",
+   "a": "Respect for persons, beneficence, justice",
+   "d": [
+    "Autonomy, fidelity, veracity",
+    "Safety, efficiency, profit"
+   ]
+  },
+  {
+   "c": "Belmont Report: informed consent follows from",
+   "a": "Respect for persons",
+   "d": [
+    "Justice",
+    "Beneficence"
+   ]
+  },
+  {
+   "c": "Belmont Report: fair subject selection follows from",
+   "a": "Justice",
+   "d": [
+    "Respect for persons",
+    "Beneficence"
+   ]
+  },
+  {
+   "c": "Belmont Report: weighing risks and benefits comes from",
+   "a": "Beneficence",
+   "d": [
+    "Justice",
+    "Respect for persons"
+   ]
+  },
+  {
+   "c": "Institutional review board (IRB)",
+   "a": "Committee that reviews research to protect participants",
+   "d": [
+    "Board that sets hospital prices",
+    "Panel that licenses physicians"
+   ]
+  },
+  {
+   "c": "Principle of double effect",
+   "a": "A foreseen but unintended harm may be acceptable for a good end",
+   "d": [
+    "Any harm is justified if the goal is good",
+    "Two treatments must always be offered"
+   ]
+  },
+  {
+   "c": "Equipoise in a clinical trial",
+   "a": "Genuine uncertainty about which treatment is better",
+   "d": [
+    "Certainty that the new drug works",
+    "Equal pay for trial staff"
+   ]
+  },
+  {
+   "c": "Placebo use in research is most ethical when",
+   "a": "No proven effective treatment is being withheld",
+   "d": [
+    "Participants are not told it is a trial",
+    "It saves money for the sponsor"
+   ]
+  }
+ ],
+ "read": {
+  "title": "What informed consent requires",
+  "text": [
+   "Informed consent is not a signature; it is a process. It rests on respect for autonomy, the idea that capable adults have the right to decide what is done to their own bodies. A signed form only records that the process happened.",
+   "Several elements must be present. The patient needs decision-making capacity: the ability to understand the relevant information, appreciate how it applies to their situation, reason about the options and communicate a choice. The clinician must disclose the nature of the proposed treatment, its expected benefits, its significant risks, the reasonable alternatives, and what would likely happen with no treatment. The patient must actually understand that information, so it has to be explained in plain language and checked. Finally, the choice must be voluntary, free of coercion or undue pressure.",
+   "Capacity is specific to a decision and can change, so a person may be able to make a simple choice but not a complex one. When a patient lacks capacity, a surrogate decides, ideally using substituted judgment, choosing as the patient would have chosen. In a true emergency, when an unconscious patient needs urgent treatment and no one can consent, clinicians may act to prevent serious harm."
+  ],
+  "q": [
+   {
+    "q": "According to the reading, a signed consent form is",
+    "o": [
+     "The whole of informed consent",
+     "A record that the consent process happened",
+     "Unnecessary in all cases",
+     "Legally meaningless"
+    ],
+    "k": 1
+   },
+   {
+    "q": "Which is NOT one of the disclosures described?",
+    "o": [
+     "Reasonable alternatives",
+     "Significant risks",
+     "The clinician's salary"
+    ],
+    "k": 2
+   },
+   {
+    "q": "Substituted judgment means a surrogate",
+    "o": [
+     "Chooses as the patient would have chosen",
+     "Chooses what the surrogate personally prefers",
+     "Lets the hospital decide"
+    ],
+    "k": 0
+   }
+  ]
+ }
+}

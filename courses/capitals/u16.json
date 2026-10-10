@@ -1,0 +1,34 @@
+{
+  "title": "Flags of East and Southern Africa",
+  "kind": "flag",
+  "note": "Kenya, South Sudan and Malawi share black, red and green, recalling Pan-African movements. South Africa’s flag (1994) uses six colors and a horizontal Y. Island states such as Mauritius and Seychelles use bands of several bright colors.",
+  "src": {
+    "t": "flag-icons (MIT)",
+    "u": "https://github.com/lipis/flag-icons"
+  },
+  "items": [
+    { "p": "ss", "a": "South Sudan", "d": ["Kenya", "Sudan", "Uganda"] },
+    { "p": "et", "a": "Ethiopia", "d": ["Djibouti", "Somalia", "Eritrea"] },
+    { "p": "er", "a": "Eritrea", "d": ["Djibouti", "Ethiopia", "South Sudan"] },
+    { "p": "dj", "a": "Djibouti", "d": ["Ethiopia", "Eritrea", "Somalia"] },
+    { "p": "so", "a": "Somalia", "d": ["Vietnam", "Micronesia", "Ethiopia"] },
+    { "p": "ke", "a": "Kenya", "d": ["South Sudan", "Malawi", "Uganda"] },
+    { "p": "ug", "a": "Uganda", "d": ["Rwanda", "Kenya", "Burundi"] },
+    { "p": "rw", "a": "Rwanda", "d": ["Burundi", "Uganda", "Tanzania"] },
+    { "p": "bi", "a": "Burundi", "d": ["Rwanda", "Tanzania", "Uganda"] },
+    { "p": "tz", "a": "Tanzania", "d": ["Burundi", "Rwanda", "Malawi"] },
+    { "p": "mw", "a": "Malawi", "d": ["Kenya", "Zambia", "Mozambique"] },
+    { "p": "mz", "a": "Mozambique", "d": ["Zimbabwe", "Malawi", "Zambia"] },
+    { "p": "zm", "a": "Zambia", "d": ["Malawi", "Zimbabwe", "Mozambique"] },
+    { "p": "zw", "a": "Zimbabwe", "d": ["Botswana", "Mozambique", "Zambia"] },
+    { "p": "bw", "a": "Botswana", "d": ["Namibia", "Zimbabwe", "Eswatini"] },
+    { "p": "na", "a": "Namibia", "d": ["Botswana", "Zimbabwe", "Lesotho"] },
+    { "p": "za", "a": "South Africa", "d": ["Lesotho", "Eswatini", "Botswana"] },
+    { "p": "ls", "a": "Lesotho", "d": ["Eswatini", "South Africa", "Botswana"] },
+    { "p": "sz", "a": "Eswatini", "d": ["Lesotho", "Botswana", "Zimbabwe"] },
+    { "p": "mg", "a": "Madagascar", "d": ["Comoros", "Mauritius", "Mozambique"] },
+    { "p": "km", "a": "Comoros", "d": ["Malawi", "Madagascar", "Tanzania"] },
+    { "p": "mu", "a": "Mauritius", "d": ["Madagascar", "Comoros", "Seychelles"] },
+    { "p": "sc", "a": "Seychelles", "d": ["Comoros", "Somalia", "Kenya"] }
+  ]
+}

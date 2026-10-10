@@ -1,0 +1,299 @@
+{
+  "title": "Conjugation, aromaticity and EAS",
+  "note": "A ring is aromatic if it is cyclic, planar, fully conjugated, and holds 4n + 2 π electrons (2, 6, 10...). In electrophilic aromatic substitution, an electrophile adds to give a resonance-stabilized arenium ion, then loss of H⁺ restores the aromatic ring. Activators direct ortho/para; most deactivators direct meta, but halogens deactivate and still direct ortho/para.",
+  "src": {
+    "t": "LibreTexts, Organic Chemistry (Morsch et al.), Ch. 16 Chemistry of Benzene: Electrophilic Aromatic Substitution",
+    "u": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/16%3A_Chemistry_of_Benzene_-_Electrophilic_Aromatic_Substitution"
+  },
+  "items": [
+    {
+      "c": "Hückel rule for aromaticity",
+      "a": "4n + 2 π electrons in a planar conjugated ring",
+      "d": [
+        "4n π electrons in a planar conjugated ring",
+        "any ring with alternating double bonds"
+      ]
+    },
+    {
+      "c": "Planar cyclobutadiene (4 π electrons)",
+      "a": "antiaromatic",
+      "d": [
+        "aromatic",
+        "nonaromatic"
+      ]
+    },
+    {
+      "c": "Cyclooctatetraene (tub-shaped, 8 π electrons)",
+      "a": "nonaromatic",
+      "d": [
+        "aromatic",
+        "antiaromatic"
+      ]
+    },
+    {
+      "c": "Cyclopentadienyl anion",
+      "a": "aromatic, 6 π electrons",
+      "d": [
+        "antiaromatic, 4 π electrons",
+        "nonaromatic, 5 π electrons"
+      ]
+    },
+    {
+      "c": "Cyclopentadienyl cation",
+      "a": "antiaromatic, 4 π electrons",
+      "d": [
+        "aromatic, 6 π electrons",
+        "aromatic, 2 π electrons"
+      ]
+    },
+    {
+      "c": "Tropylium (cycloheptatrienyl) cation",
+      "a": "aromatic; 6 π electrons over 7 carbons",
+      "d": [
+        "antiaromatic; 8 π electrons",
+        "nonaromatic; it is not planar"
+      ]
+    },
+    {
+      "c": "Pyrrole's nitrogen lone pair",
+      "a": "part of the aromatic sextet",
+      "d": [
+        "in the ring plane, outside the π system",
+        "not present; N has no lone pair"
+      ]
+    },
+    {
+      "c": "Pyridine's nitrogen lone pair",
+      "a": "in the ring plane, outside the π system",
+      "d": [
+        "part of the aromatic sextet",
+        "delocalized onto every carbon"
+      ]
+    },
+    {
+      "c": "π electrons in naphthalene",
+      "a": "10",
+      "d": [
+        "12",
+        "8"
+      ]
+    },
+    {
+      "c": "Intermediate formed when E⁺ attacks benzene",
+      "a": "arenium ion (σ complex)",
+      "d": [
+        "benzyne",
+        "aryl radical"
+      ]
+    },
+    {
+      "c": "Br₂, FeBr₃ + benzene",
+      "a": "bromobenzene",
+      "d": [
+        "1,2-dibromocyclohexadiene",
+        "benzyl bromide"
+      ]
+    },
+    {
+      "c": "HNO₃, H₂SO₄ + benzene",
+      "a": "nitrobenzene (via NO₂⁺)",
+      "d": [
+        "aniline",
+        "benzenesulfonic acid"
+      ]
+    },
+    {
+      "c": "SO₃, H₂SO₄ + benzene",
+      "a": "benzenesulfonic acid",
+      "d": [
+        "nitrobenzene",
+        "phenol"
+      ]
+    },
+    {
+      "c": "CH₃Cl, AlCl₃ + benzene",
+      "a": "toluene (Friedel–Crafts alkylation)",
+      "d": [
+        "chlorobenzene",
+        "benzyl chloride"
+      ]
+    },
+    {
+      "c": "Friedel–Crafts acylation",
+      "a": "adds an acyl group to an aromatic ring",
+      "d": [
+        "adds an alkyl group with rearrangement",
+        "removes a carbonyl group from a ring"
+      ]
+    },
+    {
+      "c": "1-chloropropane, AlCl₃ + benzene",
+      "a": "mostly isopropylbenzene (rearrangement)",
+      "d": [
+        "only propylbenzene",
+        "chlorobenzene"
+      ]
+    },
+    {
+      "c": "Rings on which Friedel–Crafts reactions fail",
+      "a": "strongly deactivated rings, such as nitrobenzene",
+      "d": [
+        "activated rings, such as anisole",
+        "alkylbenzenes, such as toluene"
+      ]
+    },
+    {
+      "c": "–OH, –NH₂ or –OCH₃ on benzene",
+      "a": "strongly activating, ortho/para directing",
+      "d": [
+        "deactivating, meta directing",
+        "deactivating, ortho/para directing"
+      ]
+    },
+    {
+      "c": "–CH₃ on benzene",
+      "a": "weakly activating, ortho/para directing",
+      "d": [
+        "weakly deactivating, meta directing",
+        "strongly deactivating, ortho/para directing"
+      ]
+    },
+    {
+      "c": "–NO₂, –CN, –SO₃H or –C=O on benzene",
+      "a": "deactivating, meta directing",
+      "d": [
+        "activating, ortho/para directing",
+        "deactivating, ortho/para directing"
+      ]
+    },
+    {
+      "c": "–Cl or –Br on benzene",
+      "a": "deactivating, yet ortho/para directing",
+      "d": [
+        "activating, meta directing",
+        "deactivating, meta directing"
+      ]
+    },
+    {
+      "c": "HNO₃, H₂SO₄ + nitrobenzene",
+      "a": "1,3-dinitrobenzene (meta)",
+      "d": [
+        "1,4-dinitrobenzene (para)",
+        "1,2-dinitrobenzene (ortho)"
+      ]
+    },
+    {
+      "c": "Hot KMnO₄ + toluene",
+      "a": "benzoic acid",
+      "d": [
+        "benzyl alcohol",
+        "no reaction"
+      ],
+      "ex": "Any alkyl side chain with a benzylic H is cut back to COOH."
+    },
+    {
+      "c": "Nucleophilic aromatic substitution requires",
+      "a": "strong EWGs ortho/para to the leaving group",
+      "d": [
+        "electron-donating groups on the ring",
+        "a meta-directing alkyl group"
+      ]
+    },
+    {
+      "c": "HBr + 1,3-butadiene, 0 °C (kinetic)",
+      "a": "mainly 1,2-addition product",
+      "d": [
+        "mainly 1,4-addition product",
+        "no addition"
+      ]
+    },
+    {
+      "c": "HBr + 1,3-butadiene, 40 °C (thermodynamic)",
+      "a": "mainly 1,4-addition product",
+      "d": [
+        "mainly 1,2-addition product",
+        "only polymer"
+      ]
+    },
+    {
+      "c": "Diels–Alder",
+      "a": "diene + dienophile → cyclohexene ring",
+      "d": [
+        "two alkenes → cyclobutane",
+        "diene + H₂ → cyclohexane"
+      ]
+    },
+    {
+      "c": "Diene conformation needed for Diels–Alder",
+      "a": "s-cis",
+      "d": [
+        "s-trans",
+        "any; conformation does not matter"
+      ]
+    },
+    {
+      "c": "Best Diels–Alder dienophiles carry",
+      "a": "electron-withdrawing groups on the C=C",
+      "d": [
+        "electron-donating groups on the C=C",
+        "no substituents at all"
+      ]
+    },
+    {
+      "c": "Cis substituents on the dienophile end up",
+      "a": "cis in the product (stereospecific)",
+      "d": [
+        "trans in the product",
+        "randomly cis or trans"
+      ]
+    },
+    {
+      "c": "Effect of more conjugation on UV-vis λmax",
+      "a": "shifts it to longer wavelength",
+      "d": [
+        "shifts it to shorter wavelength",
+        "no effect"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Why benzene resists addition",
+    "text": [
+      "Benzene has three C=C bonds on paper, yet it does not add bromine the way an alkene does. Its six π electrons are delocalized over a flat ring, giving extra stability called aromaticity. Hückel's rule states the requirement: a planar, cyclic, fully conjugated system with 4n + 2 π electrons. Six (n = 1) fits, which is why the cyclopentadienyl anion and the tropylium cation are aromatic, while planar cyclobutadiene, with four, is antiaromatic.",
+      "Because addition would destroy aromaticity, benzene undergoes substitution instead. A strong electrophile, such as Br⁺ generated with FeBr₃ or NO₂⁺ from nitric and sulfuric acids, accepts a pair of π electrons. This forms an arenium ion, a carbocation spread over three ring carbons. A base then removes the proton from the carbon bearing the electrophile, and the aromatic ring returns.",
+      "Groups already on the ring control both rate and position. Donors such as –OH and –NH₂ push electron density into the ring, speeding the reaction and stabilizing attack at the ortho and para positions. Withdrawing groups such as –NO₂ slow the reaction, and attack at the meta position avoids placing positive charge next to them. Halogens are the exception: they withdraw inductively but donate a lone pair by resonance, so they deactivate yet direct ortho/para."
+    ],
+    "q": [
+      {
+        "q": "Why does benzene undergo substitution rather than addition?",
+        "o": [
+          "Benzene has no π electrons",
+          "Addition would destroy aromaticity",
+          "Bromine cannot reach the ring",
+          "Addition is too exothermic"
+        ],
+        "k": 1
+      },
+      {
+        "q": "How many π electrons does Hückel's rule allow for n = 1?",
+        "o": [
+          "4",
+          "8",
+          "6",
+          "5"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Why are halogens ortho/para directors despite deactivating?",
+        "o": [
+          "They donate electrons inductively",
+          "They are meta directors",
+          "They form arenium ions",
+          "They donate a lone pair by resonance"
+        ],
+        "k": 3
+      }
+    ]
+  }
+}

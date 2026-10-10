@@ -1,0 +1,52 @@
+{
+  "title": "The special senses",
+  "note": "Each special sense turns one kind of stimulus into receptor potentials: chemicals for taste and smell, fluid waves bending hair cells for hearing and balance, and light absorbed by photopigments for vision. Smell is the only sense that reaches the cortex without first relaying in the thalamus.",
+  "src": { "t": "OpenStax A&P 2e, 14.1 Sensory Perception", "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception" },
+  "items": [
+    { "c": "The five basic tastes", "a": "Sweet, salty, sour, bitter, umami", "d": ["Sweet, salty, sour, bitter, spicy", "Sweet, salty, sour, savory, fatty"] },
+    { "c": "Umami receptors respond to", "a": "L-glutamate", "d": ["Sodium ions", "Hydrogen ions"] },
+    { "c": "Salty taste is produced by", "a": "Na+ entering taste cells", "d": ["H+ entering taste cells", "Sugars binding G protein receptors"] },
+    { "c": "Sour taste is produced by", "a": "H+ ions", "d": ["Na+ ions", "L-glutamate"] },
+    { "c": "Cranial nerves carrying taste", "a": "Facial, glossopharyngeal, and vagus", "d": ["Trigeminal, facial, and hypoglossal", "Olfactory, optic, and vagus"] },
+    { "c": "Sense that reaches the cortex without a thalamic relay", "a": "Smell", "d": ["Taste", "Hearing"] },
+    { "c": "Olfactory axons reach the olfactory bulb through the", "a": "Cribriform plate of the ethmoid", "d": ["Foramen magnum of the occipital", "Sella turcica of the sphenoid"] },
+    { "c": "Middle ear ossicles, from the eardrum inward", "a": "Malleus, incus, stapes", "d": ["Stapes, incus, malleus", "Incus, malleus, stapes"] },
+    { "c": "The stapes pushes on the", "a": "Oval window", "d": ["Round window", "Tympanic membrane"] },
+    { "c": "Auditory (eustachian) tube", "a": "Links the middle ear to the nasopharynx", "d": ["Links the cochlea to the brainstem", "Holds fluid in the semicircular canals"] },
+    { "c": "Organ of Corti", "a": "Hearing receptor on the basilar membrane", "d": ["Balance receptor in the utricle", "Fluid duct of the semicircular canals"] },
+    { "c": "Hair cells signal when", "a": "Their stereocilia bend", "d": ["Light strikes them", "Odorants bind them"] },
+    { "c": "High-pitched sounds stimulate the basilar membrane's", "a": "Base, near the oval window", "d": ["Apex, far from the oval window", "Whole length equally"] },
+    { "c": "Utricle and saccule", "a": "Sense head position and linear acceleration", "d": ["Sense rotation of the head", "Sense sound frequency"] },
+    { "c": "Semicircular canals", "a": "Sense rotation of the head", "d": ["Sense head tilt and linear acceleration", "Amplify sound vibrations"] },
+    { "c": "Otoliths", "a": "Crystals that weigh down the otolithic membrane", "d": ["Bones of the middle ear", "Hairs on cochlear receptor cells"] },
+    { "c": "Cornea", "a": "Clear front of the eye that bends light", "d": ["White outer coat of the eye", "Colored ring that sizes the pupil"] },
+    { "c": "Sclera", "a": "White, tough outer coat of the eye", "d": ["Clear front of the eye", "Pigmented layer behind the retina"] },
+    { "c": "Iris", "a": "Adjusts the size of the pupil", "d": ["Changes the shape of the lens", "Converts light to signals"] },
+    { "c": "Structure that changes the lens shape to focus", "a": "Ciliary body (ciliary muscle)", "d": ["Iris", "Choroid"] },
+    { "c": "Rods", "a": "Dim-light photoreceptors that do not sense color", "d": ["Bright-light photoreceptors that sense color", "Ganglion cells forming the optic nerve"] },
+    { "c": "Cones", "a": "Photoreceptors for color and fine detail", "d": ["Photoreceptors for dim light only", "Cells that form the optic nerve"] },
+    { "c": "Fovea", "a": "Retinal spot of sharpest vision", "d": ["Blind spot where the optic nerve exits", "Clear dome at the front of the eye"] },
+    { "c": "Optic disc", "a": "Blind spot where the optic nerve leaves the eye", "d": ["Retinal spot of sharpest vision", "Opening in the center of the iris"] },
+    { "c": "Rhodopsin", "a": "Photopigment of rods", "d": ["Pigment that colors the iris", "Fluid in the front of the eye"] },
+    { "c": "Light converts retinal from", "a": "11-cis to all-trans form", "d": ["All-trans to 11-cis form", "Retinal to vitamin D"] },
+    { "c": "Signal path through the retina", "a": "Photoreceptors, bipolar cells, ganglion cells", "d": ["Ganglion cells, bipolar cells, photoreceptors", "Bipolar cells, photoreceptors, ganglion cells"] },
+    { "c": "Axons of the optic nerve come from", "a": "Retinal ganglion cells", "d": ["Rods and cones", "Bipolar cells"] },
+    { "c": "Nociceptor", "a": "Receptor for painful stimuli", "d": ["Receptor for body position", "Receptor for blood chemistry"] },
+    { "c": "Proprioceptor", "a": "Senses body position and movement", "d": ["Senses painful stimuli", "Senses light"] },
+    { "c": "Interoceptor", "a": "Senses conditions in internal organs", "d": ["Senses the external environment", "Senses only light"] }
+  ],
+  "read": {
+    "title": "How the ear sorts pitch",
+    "text": [
+      "Sound reaches the ear as pressure waves in air. They vibrate the tympanic membrane, and three tiny bones, the malleus, incus, and stapes, pass the motion inward. Because the eardrum is much larger than the oval window where the stapes presses, the force is concentrated, which helps drive vibrations into the fluid of the cochlea.",
+      "Inside the coiled cochlea, the pressure waves travel through fluid and flex the basilar membrane. On this membrane sits the organ of Corti, lined with hair cells. When the membrane moves, the stereocilia on the hair cells bend against the overlying tectorial membrane. Bending opens ion channels and the hair cell signals to sensory neurons of the vestibulocochlear nerve.",
+      "The basilar membrane is not uniform. Near its base, close to the oval window, it is narrow and stiff and vibrates most for high frequencies. Toward the apex it is wider and more flexible and responds best to low frequencies. A given pitch therefore makes one region vibrate most, and the brain reads pitch from which hair cells are firing.",
+      "The same hair-cell trick serves balance. In the utricle and saccule and in the semicircular canals, head movement shifts gel or fluid and bends stereocilia."
+    ],
+    "q": [
+      { "q": "Which part of the basilar membrane responds most to high pitches?", "o": ["The base, near the oval window", "The apex", "The whole membrane equally"], "k": 0 },
+      { "q": "What opens the ion channels of hair cells?", "o": ["Light striking pigments", "Bending of the stereocilia", "Chemicals binding receptors"], "k": 1 },
+      { "q": "How does the brain tell pitch apart?", "o": ["By which hair cells are firing", "By the size of each action potential", "By the temperature of the cochlea"], "k": 0 }
+    ]
+  }
+}

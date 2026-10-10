@@ -1,0 +1,57 @@
+{
+  "title": "The integumentary system",
+  "note": "Skin has an epidermis of keratinized stratified squamous epithelium over a connective tissue dermis; the hypodermis lies beneath. Epidermal layers from deep to superficial: basale, spinosum, granulosum, lucidum (thick skin only), corneum. The epidermis has no blood vessels.",
+  "src": { "t": "OpenStax A&P 2e, 5.1 Layers of the Skin", "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin" },
+  "items": [
+    { "c": "Skin layers, superficial to deep", "a": "Epidermis, dermis, hypodermis", "d": ["Dermis, epidermis, hypodermis", "Epidermis, hypodermis, dermis"] },
+    { "c": "Epidermal layers, deep to superficial", "a": "Basale, spinosum, granulosum, lucidum, corneum", "d": ["Corneum, lucidum, granulosum, spinosum, basale", "Basale, granulosum, spinosum, lucidum, corneum"] },
+    { "c": "Stratum basale", "a": "Deepest epidermal layer, with dividing stem cells", "d": ["Outermost layer of dead cells", "Clear layer found only in thick skin"] },
+    { "c": "Stratum spinosum", "a": "Layer of 8 to 10 rows of keratinocytes", "d": ["Layer of 15 to 30 rows of dead cells", "Single row of cuboidal stem cells"] },
+    { "c": "Stratum granulosum", "a": "Layer where cells flatten and fill with keratohyalin", "d": ["Layer where stem cells divide", "Clear layer found only in thick skin"] },
+    { "c": "Stratum lucidum", "a": "Clear layer found only in thick skin", "d": ["Deepest layer of dividing cells", "Layer housing most Langerhans cells"] },
+    { "c": "Stratum corneum", "a": "Outermost layer of dead keratinized cells", "d": ["Deepest layer of dividing cells", "Layer where cells first fill with keratohyalin"] },
+    { "c": "Thick skin is found on", "a": "The palms and soles", "d": ["The scalp and face", "The back and thighs"] },
+    { "c": "Number of epidermal layers in thin skin", "a": "Four", "d": ["Five", "Three"] },
+    { "c": "Keratinocyte", "a": "Main epidermal cell; makes keratin", "d": ["Cell that makes melanin", "Touch receptor cell"] },
+    { "c": "Melanocyte", "a": "Makes the pigment melanin", "d": ["Makes the protein keratin", "Engulfs microbes in the epidermis"] },
+    { "c": "Merkel cell", "a": "Touch receptor cell in the stratum basale", "d": ["Pigment cell in the stratum basale", "Immune cell in the stratum spinosum"] },
+    { "c": "Langerhans cell", "a": "Epidermal immune cell that engulfs microbes", "d": ["Epidermal cell that makes melanin", "Dermal cell that makes collagen"] },
+    { "c": "Main protective role of melanin", "a": "Absorbs ultraviolet radiation", "d": ["Waterproofs the skin surface", "Kills surface bacteria"] },
+    { "c": "How are epidermal cells nourished?", "a": "By diffusion from dermal blood vessels", "d": ["By capillaries in every epidermal layer", "By the sweat that bathes them"] },
+    { "c": "Papillary layer of the dermis", "a": "Superficial loose areolar layer with dermal papillae", "d": ["Deep dense irregular layer", "Fatty layer anchoring skin to muscle"] },
+    { "c": "Reticular layer of the dermis", "a": "Thick deep layer of dense irregular connective tissue", "d": ["Thin superficial layer of areolar tissue", "Layer of dead keratinized cells"] },
+    { "c": "Hypodermis", "a": "Subcutaneous layer of areolar and adipose tissue", "d": ["Deepest layer of the epidermis", "Dense irregular layer of the dermis"] },
+    { "c": "Dermal protein that gives the skin strength", "a": "Collagen", "d": ["Keratin", "Melanin"] },
+    { "c": "Dermal protein that gives the skin elasticity", "a": "Elastin", "d": ["Collagen", "Keratin"] },
+    { "c": "Meissner (tactile) corpuscle", "a": "Receptor for light touch in the dermal papillae", "d": ["Deep receptor for vibration", "Free nerve ending for pain"] },
+    { "c": "Pacinian (lamellated) corpuscle", "a": "Deep receptor that senses vibration", "d": ["Receptor for light touch in the papillae", "Touch cell in the stratum basale"] },
+    { "c": "Eccrine sweat gland", "a": "Makes watery sweat for cooling", "d": ["Makes thick sweat into hair follicles", "Makes oily sebum"], "ex": "Most abundant on the palms, soles, and forehead." },
+    { "c": "Apocrine sweat gland", "a": "Makes thicker sweat into follicles of the axilla and groin", "d": ["Makes watery sweat all over the body", "Makes oily sebum on the face"] },
+    { "c": "Sebaceous gland", "a": "Secretes oily sebum, usually into hair follicles", "d": ["Secretes watery sweat onto the skin", "Secretes melanin into keratinocytes"] },
+    { "c": "Arrector pili", "a": "Smooth muscle that raises a hair", "d": ["Gland that oils the hair shaft", "Skeletal muscle that wrinkles the skin"] },
+    { "c": "Hair matrix", "a": "Dividing cells in the bulb that build the hair", "d": ["Dead keratinized cells of the shaft", "Smooth muscle at the follicle"] },
+    { "c": "Anagen", "a": "Active growth phase of a hair", "d": ["Short transition phase of a hair", "Resting phase before the hair sheds"] },
+    { "c": "Telogen", "a": "Resting phase before a hair sheds", "d": ["Active growth phase of a hair", "Short transition phase of a hair"] },
+    { "c": "Lunula", "a": "Pale crescent at the base of the nail", "d": ["Fold of skin over the proximal nail", "Thickened skin under the free edge"] },
+    { "c": "Eponychium", "a": "Cuticle fold where skin meets the proximal nail", "d": ["Pale crescent at the nail base", "Thickened skin under the free edge"] },
+    { "c": "First step of vitamin D synthesis in skin", "a": "UV light forms cholecalciferol (vitamin D3)", "d": ["The kidney forms calcitriol", "The liver forms calcidiol"] },
+    { "c": "Active form of vitamin D", "a": "Calcitriol", "d": ["Calcidiol", "Cholecalciferol"] },
+    { "c": "Organ that converts calcidiol to calcitriol", "a": "Kidney", "d": ["Liver", "Skin"] },
+    { "c": "Skin's response to overheating", "a": "Sweating and dermal vasodilation", "d": ["Dermal vasoconstriction and shivering", "Raising the hairs to trap air"] },
+    { "c": "Time for the stratum corneum to turn over", "a": "About 4 weeks", "d": ["About 4 days", "About 6 months"] }
+  ],
+  "read": {
+    "title": "The life of a keratinocyte",
+    "text": [
+      "The epidermis renews itself from the bottom up. In the stratum basale, a single row of stem cells sits on the basement membrane next to the dermis. When one divides, a daughter cell is pushed upward and becomes a keratinocyte.",
+      "As it rises into the stratum spinosum, the cell begins making keratin and is joined tightly to its neighbors. In the stratum granulosum it flattens and fills with keratohyalin granules, and soon its nucleus and organelles break down. In thick skin it then passes through the clear stratum lucidum. By the time it reaches the stratum corneum it is a dead, flat, keratin-filled scale, part of a waterproof surface many cells thick that is shed and replaced roughly every four weeks.",
+      "Why do the cells die? Distance is part of the answer. The epidermis has no blood vessels of its own, so its cells depend on nutrients diffusing up from capillaries in the dermis. The farther a cell travels from that supply, the less it receives.",
+      "Other cells share the epidermis. Melanocytes in the basale pass melanin to nearby keratinocytes, where it shields DNA from ultraviolet light. Merkel cells sense touch, and Langerhans cells patrol for microbes."
+    ],
+    "q": [
+      { "q": "Where are new keratinocytes produced?", "o": ["Stratum corneum", "Stratum basale", "Stratum lucidum", "Dermis"], "k": 1 },
+      { "q": "Why do epidermal cells die as they rise?", "o": ["They move away from the dermal blood supply", "Melanin poisons them", "Langerhans cells destroy them"], "k": 0 },
+      { "q": "What does melanin protect?", "o": ["Keratin from water", "Cell DNA from ultraviolet light", "Nerve endings from pressure"], "k": 1 }
+    ]
+  }
+}

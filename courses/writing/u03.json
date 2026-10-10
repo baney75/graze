@@ -1,0 +1,51 @@
+{
+  "title": "Agreement",
+  "note": "A verb agrees in number with its subject, not with a noun that happens to sit nearby. Each, either, neither, everyone and somebody are singular. With or or nor, the verb agrees with the nearer subject. A pronoun agrees with its antecedent, the word it refers back to.",
+  "src": { "t": "Purdue OWL, Making Subjects and Verbs Agree", "u": "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html" },
+  "items": [
+    { "c": "Neither of them ___ ready. (is/are)", "a": "is", "d": ["are"], "ex": "The subject is 'neither', which is singular." },
+    { "c": "Each of the players ___ a locker. (owns/own)", "a": "owns", "d": ["own"] },
+    { "c": "Everyone in class ___ the answer. (knows/know)", "a": "knows", "d": ["know"] },
+    { "c": "The box of letters ___ upstairs. (was/were)", "a": "was", "d": ["were"], "ex": "The subject is 'box'; 'of letters' is a prepositional phrase." },
+    { "c": "The keys to the cabinet ___ missing. (is/are)", "a": "are", "d": ["is"] },
+    { "c": "Tom and Ana ___ every day. (runs/run)", "a": "run", "d": ["runs"], "ex": "Subjects joined by 'and' are plural." },
+    { "c": "The coach or the kids ___ the bus. (loads/load)", "a": "load", "d": ["loads"], "ex": "With 'or', the verb agrees with the nearer subject, 'kids'." },
+    { "c": "The kids or the coach ___ first. (speaks/speak)", "a": "speaks", "d": ["speak"] },
+    { "c": "Neither the twins nor Sam ___ tea. (likes/like)", "a": "likes", "d": ["like"] },
+    { "c": "There ___ many questions. (remains/remain)", "a": "remain", "d": ["remains"], "ex": "'There' is not the subject; 'questions' is." },
+    { "c": "The mayor, with aides, ___. (arrives/arrive)", "a": "arrives", "d": ["arrive"], "ex": "Phrases like 'with', 'along with' and 'as well as' do not change the subject's number." },
+    { "c": "The team ___ on Tuesdays. (practices/practice)", "a": "practices", "d": ["practice"], "ex": "In American usage a collective noun acting as a unit takes a singular verb." },
+    { "c": "Five dollars ___ a fair price. (seems/seem)", "a": "seems", "d": ["seem"], "ex": "An amount treated as one sum is singular." },
+    { "c": "The news ___ good today. (sounds/sound)", "a": "sounds", "d": ["sound"] },
+    { "c": "These scissors ___ sharpening. (needs/need)", "a": "need", "d": ["needs"] },
+    { "c": "Physics ___ my best subject. (remains/remain)", "a": "remains", "d": ["remain"] },
+    { "c": "One of the windows ___ broken. (looks/look)", "a": "looks", "d": ["look"], "ex": "The subject is 'one'." },
+    { "c": "Nobody ___ the rules. (follows/follow)", "a": "follows", "d": ["follow"] },
+    { "c": "Here ___ the results. (comes/come)", "a": "come", "d": ["comes"] },
+    { "c": "The number of students ___ grown. (has/have)", "a": "has", "d": ["have"], "ex": "'The number' is singular; 'a number' means 'several' and is plural." },
+    { "c": "A number of students ___ absent. (was/were)", "a": "were", "d": ["was"] },
+    { "c": "The bus or the trains ___ soon. (arrives/arrive)", "a": "arrive", "d": ["arrives"] },
+    { "c": "Gymnastics ___ hard work. (requires/require)", "a": "requires", "d": ["require"] },
+    { "c": "The committee released ___ report. (its/their)", "a": "its", "d": ["their"], "ex": "The committee acts as one unit here." },
+    { "c": "The players packed ___ bags. (his/their)", "a": "their", "d": ["his"] },
+    { "c": "Antecedent", "a": "the word a pronoun refers to", "d": ["the word a verb agrees with", "the last word of a clause"] },
+    { "c": "A pronoun must match its antecedent in", "a": "number, person and gender", "d": ["tense and voice", "case and mood"] },
+    { "c": "Problem in 'Jo told Ann that she won.'", "a": "'she' could mean Jo or Ann", "d": ["'she' should be 'her'", "'told' should be 'tells'"] },
+    { "c": "What a verb agrees with", "a": "its subject, not a nearby noun", "d": ["the nearest noun before it", "the object that follows it"] },
+    { "c": "Is 'there' the subject of 'There are two cats'?", "a": "no; the subject is 'cats'", "d": ["yes; 'there' is the subject"] }
+  ],
+  "read": {
+    "title": "Finding the true subject",
+    "text": [
+      "Most agreement errors happen when something distracts the writer from the real subject. The commonest distraction is a phrase between the subject and the verb. In \"The list of names is long,\" the verb is singular because the subject is list. The plural word names sits inside a prepositional phrase, and a noun inside such a phrase is never the subject.",
+      "Phrases such as along with, together with and as well as cause the same trouble. \"The mayor, as well as her aides, is here\" takes a singular verb, because the added phrase does not make the subject plural. Only and joins subjects into a plural.",
+      "Word order can also hide the subject. In sentences that begin with there or here, the subject comes after the verb: \"There are three reasons,\" \"Here is the key.\" Finally, with or and nor the verb agrees with whichever subject is closer to it: \"Neither the coach nor the players were ready.\"",
+      "The fix in every case is the same. Strip away the phrases, find the word the sentence is really about, and make the verb agree with it."
+    ],
+    "q": [
+      { "q": "Why is \"The list of names is long\" correct?", "o": ["The subject is list, not names", "Names is a collective noun", "Of always takes a singular verb"], "k": 0 },
+      { "q": "According to the reading, which word joins subjects into a plural?", "o": ["as well as", "together with", "and"], "k": 2 },
+      { "q": "In \"Neither the coach nor the players were ready,\" why is were plural?", "o": ["Neither is always plural", "The verb agrees with the closer subject, players", "The coach is a collective noun"], "k": 1 }
+    ]
+  }
+}

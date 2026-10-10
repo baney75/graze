@@ -1,0 +1,328 @@
+{
+ "title": "Drug classes II: pain, mood and antibiotics",
+ "note": "NSAIDs block the cyclooxygenase enzymes that make prostaglandins; opioids activate opioid receptors; SSRIs block serotonin reuptake. Antibiotics are grouped by their bacterial target: the cell wall, the 70S ribosome, DNA replication, RNA synthesis or folate synthesis.",
+ "src": {
+  "t": "OpenStax Microbiology, 14.3 Mechanisms of Antibacterial Drugs",
+  "u": "https://openstax.org/books/microbiology/pages/14-3-mechanisms-of-antibacterial-drugs"
+ },
+ "items": [
+  {
+   "c": "NSAIDs such as ibuprofen inhibit",
+   "a": "Cyclooxygenase (COX-1 and COX-2)",
+   "d": [
+    "HMG-CoA reductase",
+    "Monoamine oxidase"
+   ]
+  },
+  {
+   "c": "COX enzymes convert arachidonic acid into",
+   "a": "Prostaglandins and thromboxanes",
+   "d": [
+    "Histamine and serotonin",
+    "Bradykinin and substance P"
+   ]
+  },
+  {
+   "c": "Why NSAIDs can injure the stomach lining",
+   "a": "Less COX-1 prostaglandin protection of the mucosa",
+   "d": [
+    "They neutralize stomach acid",
+    "They kill protective gut bacteria"
+   ]
+  },
+  {
+   "c": "Selective COX-2 inhibitor",
+   "a": "Celecoxib",
+   "d": [
+    "Aspirin",
+    "Naproxen"
+   ]
+  },
+  {
+   "c": "Acetaminophen differs from NSAIDs by having",
+   "a": "Little anti-inflammatory effect",
+   "d": [
+    "Strong anti-inflammatory effect",
+    "No effect on fever"
+   ]
+  },
+  {
+   "c": "Organ harmed by acetaminophen overdose",
+   "a": "Liver",
+   "d": [
+    "Lungs",
+    "Thyroid"
+   ]
+  },
+  {
+   "c": "Main receptor for opioid pain relief",
+   "a": "Mu opioid receptor",
+   "d": [
+    "GABA-A receptor",
+    "Beta-2 adrenergic receptor"
+   ]
+  },
+  {
+   "c": "Most dangerous effect of opioid overdose",
+   "a": "Respiratory depression",
+   "d": [
+    "High blood pressure",
+    "Seizures from low sodium"
+   ]
+  },
+  {
+   "c": "Common opioid effects besides pain relief",
+   "a": "Constipation and pinpoint pupils",
+   "d": [
+    "Diarrhea and dilated pupils",
+    "Fast heart rate and fever"
+   ]
+  },
+  {
+   "c": "Naloxone",
+   "a": "Opioid receptor antagonist that reverses overdose",
+   "d": [
+    "Long-acting opioid agonist",
+    "Benzodiazepine reversal agent"
+   ]
+  },
+  {
+   "c": "Buprenorphine at the mu receptor",
+   "a": "Partial agonist",
+   "d": [
+    "Full agonist",
+    "Pure antagonist"
+   ]
+  },
+  {
+   "c": "SSRIs such as fluoxetine block",
+   "a": "The serotonin reuptake transporter",
+   "d": [
+    "Serotonin receptors on the postsynaptic cell",
+    "The enzyme that synthesizes serotonin"
+   ]
+  },
+  {
+   "c": "Net synaptic effect of an SSRI",
+   "a": "More serotonin stays in the synapse",
+   "d": [
+    "Less serotonin is released",
+    "Serotonin is broken down faster"
+   ]
+  },
+  {
+   "c": "Combining an SSRI with an MAO inhibitor risks",
+   "a": "Serotonin syndrome",
+   "d": [
+    "Opioid withdrawal",
+    "Vitamin K deficiency"
+   ]
+  },
+  {
+   "c": "Benzodiazepines enhance the action of",
+   "a": "GABA at GABA-A receptors",
+   "d": [
+    "Dopamine at D2 receptors",
+    "Glutamate at NMDA receptors"
+   ]
+  },
+  {
+   "c": "Penicillins and cephalosporins belong to the class",
+   "a": "Beta-lactams",
+   "d": [
+    "Macrolides",
+    "Aminoglycosides"
+   ]
+  },
+  {
+   "c": "Beta-lactam target",
+   "a": "Penicillin-binding proteins that cross-link peptidoglycan",
+   "d": [
+    "The 30S ribosomal subunit",
+    "DNA gyrase"
+   ]
+  },
+  {
+   "c": "Beta-lactamase",
+   "a": "Bacterial enzyme that inactivates beta-lactam drugs",
+   "d": [
+    "Human enzyme that activates penicillin",
+    "Bacterial pump that expels tetracycline"
+   ]
+  },
+  {
+   "c": "Clavulanic acid is added to amoxicillin to",
+   "a": "Inhibit beta-lactamase",
+   "d": [
+    "Widen its spectrum to fungi",
+    "Speed its kidney excretion"
+   ]
+  },
+  {
+   "c": "Vancomycin works by",
+   "a": "Binding peptidoglycan precursor ends, blocking wall building",
+   "d": [
+    "Inhibiting DNA gyrase",
+    "Blocking the 50S ribosomal subunit"
+   ]
+  },
+  {
+   "c": "Aminoglycosides such as gentamicin bind",
+   "a": "The 30S ribosomal subunit, causing faulty proteins",
+   "d": [
+    "The 50S subunit, blocking peptide bonds",
+    "Penicillin-binding proteins"
+   ]
+  },
+  {
+   "c": "Tetracyclines bind",
+   "a": "The 30S subunit, blocking tRNA attachment",
+   "d": [
+    "The 50S subunit, blocking elongation",
+    "RNA polymerase, blocking transcription"
+   ]
+  },
+  {
+   "c": "Macrolides such as azithromycin bind",
+   "a": "The 50S subunit, blocking elongation",
+   "d": [
+    "The 30S subunit, causing misreading",
+    "DNA gyrase, blocking replication"
+   ]
+  },
+  {
+   "c": "Fluoroquinolones such as ciprofloxacin inhibit",
+   "a": "DNA gyrase (topoisomerase)",
+   "d": [
+    "Cell wall cross-linking",
+    "Folate synthesis"
+   ]
+  },
+  {
+   "c": "Rifampin inhibits",
+   "a": "Bacterial RNA polymerase",
+   "d": [
+    "Bacterial DNA gyrase",
+    "The 30S ribosomal subunit"
+   ]
+  },
+  {
+   "c": "Sulfonamides block folate synthesis by",
+   "a": "Mimicking PABA",
+   "d": [
+    "Mimicking dihydrofolate",
+    "Binding the 50S ribosome"
+   ]
+  },
+  {
+   "c": "Trimethoprim inhibits",
+   "a": "Dihydrofolate reductase, a later folate step",
+   "d": [
+    "Dihydropteroate synthase, an early folate step",
+    "Peptidoglycan cross-linking"
+   ]
+  },
+  {
+   "c": "Polymyxins such as colistin",
+   "a": "Disrupt the membranes of gram-negative bacteria",
+   "d": [
+    "Inhibit gram-positive wall synthesis",
+    "Block bacterial RNA polymerase"
+   ]
+  },
+  {
+   "c": "Isoniazid blocks synthesis of",
+   "a": "Mycolic acid in mycobacteria",
+   "d": [
+    "Ergosterol in fungi",
+    "Chitin in fungal walls"
+   ]
+  },
+  {
+   "c": "Bactericidal",
+   "a": "Kills bacteria",
+   "d": [
+    "Only stops bacterial growth",
+    "Only prevents bacterial spread"
+   ]
+  },
+  {
+   "c": "Bacteriostatic",
+   "a": "Stops bacterial growth without killing directly",
+   "d": [
+    "Kills bacteria outright",
+    "Dissolves bacterial biofilms"
+   ]
+  },
+  {
+   "c": "Broad-spectrum antibiotic",
+   "a": "Active against many gram-positive and gram-negative bacteria",
+   "d": [
+    "Active against only one species",
+    "Active against viruses and fungi"
+   ]
+  },
+  {
+   "c": "Azole antifungals block",
+   "a": "Ergosterol synthesis",
+   "d": [
+    "Chitin synthesis",
+    "Peptidoglycan synthesis"
+   ]
+  },
+  {
+   "c": "Acyclovir is activated by",
+   "a": "Viral thymidine kinase",
+   "d": [
+    "Human liver CYP enzymes",
+    "Bacterial beta-lactamase"
+   ]
+  },
+  {
+   "c": "Oseltamivir blocks influenza",
+   "a": "Neuraminidase, so new virions cannot be released",
+   "d": [
+    "Reverse transcriptase, so RNA is not copied",
+    "Protease, so proteins are not cut"
+   ]
+  }
+ ],
+ "read": {
+  "title": "Selective toxicity",
+  "text": [
+   "A good antimicrobial drug harms the microbe while sparing the patient, a property called selective toxicity. It is easiest to achieve when the drug's target exists only in the microbe. Bacteria offer several such targets because they differ so much from human cells.",
+   "The peptidoglycan cell wall is the clearest example: human cells have no wall, so beta-lactams and vancomycin, which block wall construction, are generally well tolerated. Bacterial 70S ribosomes differ from the 80S ribosomes in human cytoplasm, so aminoglycosides, tetracyclines and macrolides can block bacterial protein synthesis selectively. Bacteria must make their own folate, while humans absorb it from food, which is why sulfonamides and trimethoprim spare human cells.",
+   "Fungi and viruses are harder. Fungi are eukaryotes, so they share most of our machinery; antifungals usually target ergosterol, the sterol fungi use where human cells use cholesterol. Viruses use the host cell's own machinery, so antivirals must hit steps unique to the virus, such as viral enzymes. Acyclovir, for example, becomes active only after a viral enzyme modifies it, so it concentrates its action in infected cells."
+  ],
+  "q": [
+   {
+    "q": "Why are sulfonamides relatively safe for human cells?",
+    "o": [
+     "Humans get folate from food rather than making it",
+     "Human cells have 70S ribosomes",
+     "Humans lack ergosterol"
+    ],
+    "k": 0
+   },
+   {
+    "q": "Antifungal drugs often target ergosterol because",
+    "o": [
+     "Fungi lack cell membranes",
+     "Human cells use cholesterol instead",
+     "Ergosterol is found in bacterial walls",
+     "Fungi have 70S ribosomes"
+    ],
+    "k": 1
+   },
+   {
+    "q": "Why are antivirals hard to design?",
+    "o": [
+     "Viruses have thick cell walls",
+     "Viruses reproduce outside cells",
+     "Viruses use the host cell's own machinery"
+    ],
+    "k": 2
+   }
+  ]
+ }
+}

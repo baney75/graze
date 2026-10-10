@@ -1,0 +1,16 @@
+{
+  "key": "chemistry",
+  "name": "General Chemistry",
+  "group": "Sciences",
+  "tag": "CHEM",
+  "level": "Intro college",
+  "blurb": "The core of a two-semester college general chemistry course, from significant figures and the mole to equilibrium, acids and bases, and electrochemistry. Learn the symbols, names, rules, and numbers you need to read and solve chemistry problems.",
+  "sources": [
+    { "t": "Chemistry 2e, OpenStax (Flowers, Theopold, Langley, Robinson)", "u": "https://openstax.org/details/books/chemistry-2e" },
+    { "t": "Chemistry 2e, 2.7 Chemical Nomenclature, OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature" },
+    { "t": "Chemistry 2e, 6.5 Periodic Variations in Element Properties, OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties" },
+    { "t": "Chemistry 2e, 14.3 Relative Strengths of Acids and Bases, OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases" },
+    { "t": "Chemistry 2e, 17.3 Electrode and Cell Potentials, OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/17-3-electrode-and-cell-potentials" },
+    { "t": "Introductory Chemistry (CK-12), 7.9 Polyatomic Ions, LibreTexts Chemistry", "u": "https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Introductory_Chemistry_(CK-12)/07%3A_Chemical_Nomenclature/7.09%3A_Polyatomic_Ions" }
+  ]
+}

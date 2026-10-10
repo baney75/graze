@@ -1,0 +1,52 @@
+{
+  "title": "Gases",
+  "note": "The ideal gas law PV = nRT ties together pressure, volume, amount, and temperature, and contains Boyle's, Charles's, Gay-Lussac's, and Avogadro's laws as special cases. Temperatures must be in kelvin. In a mixture, each gas contributes its own partial pressure (Dalton's law), and lighter gases effuse faster (Graham's law).",
+  "src": { "t": "Chemistry 2e, 9.2 Relating Pressure, Volume, Amount, and Temperature: The Ideal Gas Law, OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law" },
+  "items": [
+    { "c": "Pressure", "a": "force per unit area", "d": ["mass per unit volume", "energy per mole"] },
+    { "c": "1 atm in torr", "a": "760 torr", "d": ["101.3 torr", "1000 torr"] },
+    { "c": "1 atm in kilopascals", "a": "101.325 kPa", "d": ["100.000 kPa", "760 kPa"] },
+    { "c": "1 bar in kilopascals", "a": "exactly 100 kPa", "d": ["exactly 101.325 kPa", "exactly 1000 kPa"] },
+    { "c": "Boyle's law", "a": "P and V are inversely proportional", "d": ["V and T are directly proportional", "P and T are directly proportional"] },
+    { "c": "Charles's law", "a": "V ∝ T at constant P and n", "d": ["V ∝ 1/P at constant T and n", "V ∝ n at constant P and T"] },
+    { "c": "Gay-Lussac's (Amontons's) law", "a": "P ∝ T at constant V and n", "d": ["P ∝ 1/V at constant T and n", "P ∝ n at constant V and T"] },
+    { "c": "Avogadro's law", "a": "V ∝ n at constant P and T", "d": ["V ∝ T at constant P and n", "P ∝ T at constant V and n"] },
+    { "c": "Ideal gas law", "a": "PV = nRT", "d": ["PV = RT/n", "P/V = nRT"] },
+    { "c": "Combined gas law", "a": "P₁V₁/T₁ = P₂V₂/T₂", "d": ["P₁V₁T₁ = P₂V₂T₂", "P₁T₁/V₁ = P₂T₂/V₂"] },
+    { "c": "R in L·atm/(mol·K)", "a": "0.08206", "d": ["8.314", "62.36"] },
+    { "c": "R in J/(mol·K)", "a": "8.314", "d": ["0.08206", "4.184"] },
+    { "c": "Temperature unit required in gas laws", "a": "kelvin", "d": ["degrees Celsius", "degrees Fahrenheit"] },
+    { "c": "Standard temperature and pressure (STP)", "a": "0 °C (273.15 K) and 1 atm", "d": ["25 °C (298.15 K) and 1 atm", "0 °C (273.15 K) and 10 atm"] },
+    { "c": "Molar volume of an ideal gas at 0 °C and 1 atm", "a": "22.4 L", "d": ["24.5 L", "1.00 L"] },
+    { "c": "Moles of ideal gas in 44.8 L at STP", "a": "2.00 mol", "d": ["0.500 mol", "44.8 mol"] },
+    { "c": "Double kelvin temperature at constant P: volume", "a": "doubles", "d": ["halves", "stays the same"] },
+    { "c": "Triple pressure at constant T and n: volume", "a": "becomes one-third as large", "d": ["becomes three times as large", "stays the same"] },
+    { "c": "Gas density from the ideal gas law", "a": "d = PM/RT", "d": ["d = RT/PM", "d = PV/nR"] },
+    { "c": "Dalton's law of partial pressures", "a": "total pressure is the sum of partial pressures", "d": ["each gas's pressure equals the total", "pressure is proportional to molar mass"] },
+    { "c": "Partial pressure from mole fraction", "a": "P_A = X_A × P_total", "d": ["P_A = P_total ÷ X_A", "P_A = X_A + P_total"] },
+    { "c": "Pressure of a dry gas collected over water", "a": "total pressure minus water vapor pressure", "d": ["total pressure plus water vapor pressure", "water vapor pressure alone"] },
+    { "c": "Graham's law of effusion", "a": "rate is inversely proportional to √(molar mass)", "d": ["rate is directly proportional to molar mass", "rate is inversely proportional to molar mass"] },
+    { "c": "How many times faster H₂ effuses than O₂", "a": "4 times", "d": ["16 times", "2 times"] },
+    { "c": "Effusion", "a": "gas escaping through a tiny hole into a vacuum", "d": ["gas spreading evenly through another gas", "gas dissolving into a liquid"] },
+    { "c": "Faster molecules at the same T: He or Ar?", "a": "He, the lighter gas", "d": ["Ar, the heavier gas"] },
+    { "c": "Average kinetic energy of a gas depends on", "a": "absolute temperature only", "d": ["molar mass only", "pressure only"] },
+    { "c": "Ideal gas assumption about particle volume", "a": "negligible compared with the container", "d": ["equal to the container volume", "larger at higher temperature"] },
+    { "c": "Real gases deviate most from ideal behavior at", "a": "high pressure and low temperature", "d": ["low pressure and high temperature", "low pressure and room temperature"] },
+    { "c": "van der Waals constant a corrects for", "a": "attractions between molecules", "d": ["the volume of the molecules", "collisions with container walls"] },
+    { "c": "1.00 mol gas in 22.4 L at 273 K: pressure", "a": "about 1.00 atm", "d": ["about 0.500 atm", "about 22.4 atm"] }
+  ],
+  "read": {
+    "title": "One equation for every gas",
+    "text": [
+      "Gases are mostly empty space. Their particles are tiny compared with the distances between them, and they move fast in straight lines until they collide. Because of this, gases of very different chemicals behave almost the same way, and one equation describes them all: PV = nRT.",
+      "Each older gas law is this equation with two variables held fixed. Hold n and T fixed and PV is constant, which is Boyle's law: squeeze a gas to half its volume and its pressure doubles. Hold n and P fixed and V is proportional to T, which is Charles's law. These proportions work only with kelvin temperatures, because 0 K is a true zero and 0 °C is not.",
+      "The equation also explains mixtures. In air, nitrogen, oxygen, and argon each push on the walls as if alone, and the total pressure is the sum of these partial pressures. A gas's share of the pressure equals its share of the moles.",
+      "Temperature sets the average kinetic energy of the particles, so at the same temperature light molecules move faster than heavy ones. That is why hydrogen effuses four times faster than oxygen: its molar mass is one-sixteenth as large, and rate depends on the square root. Gases stop behaving ideally at high pressure and low temperature, when the particles crowd together and attract each other."
+    ],
+    "q": [
+      { "q": "Why must gas law calculations use kelvin?", "o": ["Gas laws need a true zero of temperature", "Kelvin values are always larger", "Celsius cannot measure gases"], "k": 0 },
+      { "q": "In a gas mixture, a component's partial pressure is set by", "o": ["its molar mass alone", "its mole fraction times the total pressure", "the volume of its molecules"], "k": 1 },
+      { "q": "Why does hydrogen effuse four times faster than oxygen?", "o": ["Hydrogen molecules have more kinetic energy", "Oxygen molecules attract the walls", "Rate depends on the square root of molar mass"], "k": 2 }
+    ]
+  }
+}

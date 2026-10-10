@@ -1,0 +1,54 @@
+{
+  "title": "Work and school",
+  "note": "会 (huì) + verb means you have learned how to do something: 我会说汉语. 正在 (or just 在) + verb shows an action in progress: 他正在上课 \"He's in class right now.\" Ask what something means with …是什么意思？",
+  "src": { "t": "Chinese Grammar Wiki: expressing a learned skill with 会", "u": "https://resources.allsetlearning.com/chinese/grammar/ASGRHM0E" },
+  "items": [
+    { "c": "上班", "r": "shàngbān", "a": "to go to work, be at work", "d": ["to get off work", "to go to class"], "ex": "我爸爸八点上班。", "exT": "My dad starts work at eight." },
+    { "c": "下班", "r": "xiàbān", "a": "to get off work", "d": ["to go to work", "to get off the bus"] },
+    { "c": "公司", "r": "gōngsī", "a": "company, firm", "d": ["factory", "store"] },
+    { "c": "办公室", "r": "bàngōngshì", "a": "office", "d": ["classroom", "meeting"] },
+    { "c": "同事", "r": "tóngshì", "a": "colleague, coworker", "d": ["classmate", "boss"] },
+    { "c": "经理", "r": "jīnglǐ", "a": "manager", "d": ["secretary", "customer"] },
+    { "c": "忙", "r": "máng", "a": "busy", "d": ["free", "tired"], "ex": "你今天忙吗？", "exT": "Are you busy today?" },
+    { "c": "课", "r": "kè", "a": "class, lesson", "d": ["exam", "homework"] },
+    { "c": "上课", "r": "shàngkè", "a": "to attend class; class starts", "d": ["to finish class; class ends", "to go to work; work starts"] },
+    { "c": "下课", "r": "xiàkè", "a": "to finish class; class ends", "d": ["to attend class; class starts", "to skip class"] },
+    { "c": "教室", "r": "jiàoshì", "a": "classroom", "d": ["office", "library"] },
+    { "c": "大学", "r": "dàxué", "a": "university, college", "d": ["high school", "elementary school"] },
+    { "c": "考试", "r": "kǎoshì", "a": "exam, test; to take an exam", "d": ["homework; to do homework", "class; to attend class"] },
+    { "c": "作业", "r": "zuòyè", "a": "homework", "d": ["exam", "textbook"], "ex": "我在做作业。", "exT": "I'm doing my homework." },
+    { "c": "问题", "r": "wèntí", "a": "question; problem", "d": ["answer; reply", "meaning; sense"] },
+    { "c": "回答", "r": "huídá", "a": "to answer", "d": ["to ask", "to return home"] },
+    { "c": "懂", "r": "dǒng", "a": "to understand", "d": ["to remember", "to explain"] },
+    { "c": "明白", "r": "míngbai", "a": "to understand; clear", "d": ["to forget; unclear", "to explain; simple"] },
+    { "c": "意思", "r": "yìsi", "a": "meaning", "d": ["word", "question"] },
+    { "c": "教", "r": "jiāo", "a": "to teach", "d": ["to learn", "to ask"], "ex": "王老师教我们汉语。", "exT": "Teacher Wang teaches us Chinese." },
+    { "c": "汉语", "r": "Hànyǔ", "a": "Chinese (language)", "d": ["English (language)", "Chinese character"] },
+    { "c": "中文", "r": "Zhōngwén", "a": "Chinese (language, esp. written)", "d": ["Chinese (person)", "Japanese (language)"] },
+    { "c": "英语", "r": "Yīngyǔ", "a": "English (language)", "d": ["British person", "German (language)"] },
+    { "c": "汉字", "r": "Hànzì", "a": "Chinese character", "d": ["Chinese sentence", "pinyin syllable"] },
+    { "c": "准备", "r": "zhǔnbèi", "a": "to prepare; to plan to", "d": ["to finish; to be done", "to review; to go over"] },
+    { "c": "开始", "r": "kāishǐ", "a": "to begin, start", "d": ["to finish", "to continue"] },
+    { "c": "会", "r": "huì", "a": "can (a learned skill); will", "d": ["can (be allowed to)", "want to"] },
+    { "c": "正在", "r": "zhèngzài", "a": "in the middle of (doing)", "d": ["just finished (doing)", "about to (do)"] },
+    { "c": "我会说一点儿汉语。", "r": "Wǒ huì shuō yīdiǎnr Hànyǔ.", "a": "I can speak a little Chinese.", "d": ["I'm going to study Chinese.", "I don't speak any Chinese."] },
+    { "c": "这个字是什么意思？", "r": "Zhège zì shì shénme yìsi?", "a": "What does this character mean?", "d": ["How do you write this character?", "How do you say this character?"] },
+    { "c": "我___说汉语。(learned skill)", "r": "Wǒ ___ shuō Hànyǔ.", "a": "会", "d": ["有", "是"], "ex": "我会说汉语。", "exT": "I can speak Chinese." },
+    { "c": "他___上课。(right now)", "r": "Tā ___ shàngkè.", "a": "正在", "d": ["已经", "刚才"] },
+    { "c": "你___了吗？(understand)", "r": "Nǐ ___ le ma?", "a": "懂", "d": ["认识", "是"] },
+    { "c": "我们八点___上课。(begin)", "r": "Wǒmen bā diǎn ___ shàngkè.", "a": "开始", "d": ["完", "到"] }
+  ],
+  "read": {
+    "title": "我的工作",
+    "text": [
+      "我姓陈，我是英语老师，我在一个大学工作。我每天早上八点上班。九点开始上课，十二点下课。",
+      "我的学生都很好，他们上课的时候问很多问题。下午我在办公室准备明天的课。我的同事王老师教汉语。她教我写汉字，我教她说英语。",
+      "今天我很忙，因为明天学生们有考试。我晚上六点下班。"
+    ],
+    "q": [
+      { "q": "What does Teacher Chen teach?", "o": ["Chinese", "English", "Math"], "k": 1 },
+      { "q": "What does Teacher Chen do in the afternoon?", "o": ["Prepares the next day's classes", "Takes an exam", "Goes home"], "k": 0 },
+      { "q": "Why is Teacher Chen busy today?", "o": ["Teacher Wang is sick", "The office is moving", "The students have an exam tomorrow"], "k": 2 }
+    ]
+  }
+}

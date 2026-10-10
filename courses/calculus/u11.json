@@ -1,0 +1,50 @@
+{
+  "title": "Antiderivatives and the definite integral",
+  "note": "An antiderivative reverses differentiation, and + C records that functions differing by a constant share a derivative. The definite integral ∫ₐᵇ f(x) dx is a limit of Riemann sums, Σ f(xᵢ*) Δx: signed area, counting area below the x-axis as negative.",
+  "src": { "t": "Calculus Volume 1, 5.2 The Definite Integral", "u": "https://openstax.org/books/calculus-volume-1/pages/5-2-the-definite-integral" },
+  "items": [
+    { "c": "∫ xⁿ dx, n ≠ −1", "a": "xⁿ⁺¹/(n + 1) + C", "d": ["n xⁿ⁻¹ + C", "xⁿ⁺¹ + C"] },
+    { "c": "∫ 1/x dx", "a": "ln|x| + C", "d": ["−1/x² + C", "x ln x + C"] },
+    { "c": "∫ eˣ dx", "a": "eˣ + C", "d": ["eˣ⁺¹/(x + 1) + C", "x eˣ + C"] },
+    { "c": "∫ cos x dx", "a": "sin x + C", "d": ["−sin x + C", "−cos x + C"] },
+    { "c": "∫ sin x dx", "a": "−cos x + C", "d": ["cos x + C", "−sin x + C"] },
+    { "c": "∫ sec²x dx", "a": "tan x + C", "d": ["sec x + C", "sec x tan x + C"] },
+    { "c": "∫ 1/(1 + x²) dx", "a": "arctan x + C", "d": ["ln(1 + x²) + C", "arcsin x + C"] },
+    { "c": "∫ 1/√(1 − x²) dx", "a": "arcsin x + C", "d": ["arctan x + C", "√(1 − x²) + C"] },
+    { "c": "∫ 3x² dx", "a": "x³ + C", "d": ["6x + C", "3x³ + C"] },
+    { "c": "∫ dx", "a": "x + C", "d": ["C", "1 + C"] },
+    { "c": "∫ (4x³ − 2x) dx", "a": "x⁴ − x² + C", "d": ["12x² − 2 + C", "x⁴ − 2x² + C"] },
+    { "c": "Why add + C to an antiderivative?", "a": "antiderivatives of f differ by a constant", "d": ["to make the integral positive", "C is the area under f"] },
+    { "c": "F′(x) = 2x and F(0) = 3: F(x)", "a": "x² + 3", "d": ["x² + 3x", "2x + 3"] },
+    { "c": "a(t) = 32 and v(0) = 0: v(t)", "a": "v(t) = 32t", "d": ["v(t) = 16t²", "v(t) = 32"] },
+    { "c": "Riemann sum for f on [a, b]", "a": "Σ f(xᵢ*) Δx", "d": ["Σ f(xᵢ*) + Δx", "Σ Δx / f(xᵢ*)"] },
+    { "c": "Δx for n equal subintervals of [a, b]", "a": "(b − a)/n", "d": ["(b + a)/n", "n/(b − a)"] },
+    { "c": "∫ₐᵇ f(x) dx with f ≥ 0 represents", "a": "the area under f from a to b", "d": ["the slope of f from a to b", "the average height of f"] },
+    { "c": "∫ₐᵃ f(x) dx", "a": "0", "d": ["f(a)", "1"] },
+    { "c": "Swapping the limits of integration", "a": "negates the integral", "d": ["leaves it unchanged", "doubles it"] },
+    { "c": "∫₀² 3 dx", "a": "6", "d": ["3", "2"] },
+    { "c": "∫₀¹ x dx", "a": "1/2", "d": ["1", "1/4"], "ex": "A triangle with base 1 and height 1." },
+    { "c": "∫₋₁¹ x³ dx", "a": "0, since x³ is odd", "d": ["1/2", "2"] },
+    { "c": "∫₀³ √(9 − x²) dx, by geometry", "a": "9π/4", "d": ["9π", "9π/2"], "ex": "A quarter of a circle of radius 3." },
+    { "c": "Region of f below the x-axis counts as", "a": "negative signed area", "d": ["positive area", "zero"] },
+    { "c": "Average value of f on [a, b]", "a": "(1/(b − a)) ∫ₐᵇ f(x) dx", "d": ["(f(a) + f(b))/2", "∫ₐᵇ f(x) dx"] },
+    { "c": "Integral of a sum f + g", "a": "the sum of the integrals", "d": ["the product of the integrals", "the integral of f times g"] },
+    { "c": "Left Riemann sum of an increasing f", "a": "underestimates the integral", "d": ["overestimates the integral", "gives the exact integral"] },
+    { "c": "Σ i for i = 1 to n", "a": "n(n + 1)/2", "d": ["n²/2", "n(n − 1)/2"] },
+    { "c": "Σ i² for i = 1 to n", "a": "n(n + 1)(2n + 1)/6", "d": ["n²(n + 1)²/4", "n(n + 1)/2"] }
+  ],
+  "read": {
+    "title": "Adding up thin rectangles",
+    "text": [
+      "How much area lies under a curve between x = a and x = b? Slice the interval into n equal pieces of width Δx = (b − a)/n. Over each piece, build a rectangle whose height is the function's value at some sample point. The total area of the rectangles, Σ f(xᵢ*) Δx, is a Riemann sum, and it approximates the area.",
+      "With only a few rectangles the estimate is rough. For an increasing function, rectangles using left endpoints sit below the curve and underestimate, while right endpoints overestimate. As n grows the rectangles get thinner, the errors shrink, and the sums approach a single number. That limit is the definite integral, ∫ₐᵇ f(x) dx.",
+      "The integral measures signed area. Where f is negative, rectangle heights are negative, so that region subtracts from the total. This is why ∫₋₁¹ x³ dx = 0: the odd function x³ has equal areas above and below the axis that cancel.",
+      "Some integrals can be read directly from geometry. ∫₀¹ x dx is a triangle of area 1/2, and ∫₀³ √(9 − x²) dx is a quarter circle of area 9π/4. For most functions, though, the Fundamental Theorem of Calculus offers a far faster route."
+    ],
+    "q": [
+      { "q": "For an increasing f, left-endpoint rectangles", "o": ["underestimate the area", "overestimate the area", "give the exact area"], "k": 0 },
+      { "q": "Why is ∫₋₁¹ x³ dx equal to 0?", "o": ["Areas above and below the axis cancel", "x³ is zero on [−1, 1]", "The limits are equal"], "k": 0 },
+      { "q": "What is the definite integral, by definition?", "o": ["The limit of Riemann sums as the rectangles get thinner", "The sum of f at the endpoints", "The slope of f at b minus at a"], "k": 0 }
+    ]
+  }
+}

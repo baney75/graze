@@ -1,0 +1,307 @@
+{
+  "title": "Arguments from consciousness and reason",
+  "note": "These arguments claim that minds fit poorly into a purely physical world. The argument from consciousness says subjective experience is more to be expected if God exists. The argument from reason (Lewis) and Plantinga's evolutionary argument against naturalism say that if naturalism were true, we would lack good reason to trust the very reasoning that leads to naturalism.",
+  "src": {
+    "t": "Notre Dame Philosophical Reviews: Naturalism Defeated? (review)",
+    "u": "https://ndpr.nd.edu/news/naturalism-defeated-essays-on-plantinga-s-evolutionary-argument-against-naturalism/"
+  },
+  "items": [
+    {
+      "c": "Core claim of the argument from consciousness",
+      "a": "conscious experience is likelier if God exists than if not",
+      "d": [
+        "consciousness proves the brain is immortal",
+        "consciousness is fully explained by physics"
+      ]
+    },
+    {
+      "c": "Richard Swinburne's 1986 book on mind",
+      "a": "The Evolution of the Soul",
+      "d": [
+        "The Coherence of Theism",
+        "Mind and Cosmos"
+      ]
+    },
+    {
+      "c": "J. P. Moreland's 2008 book",
+      "a": "Consciousness and the Existence of God",
+      "d": [
+        "The Evolution of the Soul",
+        "C. S. Lewis's Dangerous Idea"
+      ]
+    },
+    {
+      "c": "Robert Adams's 1987 essay on mind and God",
+      "a": "Flavors, Colors, and God",
+      "d": [
+        "What Is It Like to Be a Bat?",
+        "Epiphenomenal Qualia"
+      ]
+    },
+    {
+      "c": "Leibniz's mill (Monadology, section 17)",
+      "a": "inside a thinking machine we'd find only parts pushing",
+      "d": [
+        "the mind grinds ideas as a mill grinds grain",
+        "God turns the world as water turns a mill"
+      ]
+    },
+    {
+      "c": "David Chalmers's 'hard problem' (1995)",
+      "a": "why physical processes give rise to felt experience",
+      "d": [
+        "how neurons transmit electrical signals",
+        "why the brain uses so much energy"
+      ]
+    },
+    {
+      "c": "Thomas Nagel's 1974 essay",
+      "a": "What Is It Like to Be a Bat?",
+      "d": [
+        "Facing Up to the Problem of Consciousness",
+        "Epiphenomenal Qualia"
+      ]
+    },
+    {
+      "c": "Thomas Nagel's 2012 book",
+      "a": "Mind and Cosmos",
+      "d": [
+        "The View from Nowhere",
+        "Mortal Questions"
+      ],
+      "ex": "Mind and Cosmos argues the materialist neo-Darwinian view of nature is almost certainly false; Nagel, an atheist, rejects theism too."
+    },
+    {
+      "c": "Frank Jackson's Mary (1982)",
+      "a": "knows all physical facts of color, yet learns on seeing red",
+      "d": [
+        "is a zombie with no inner life at all",
+        "sees colors no other person can see"
+      ]
+    },
+    {
+      "c": "Naturalist reply to the consciousness argument",
+      "a": "consciousness may be physical or emerge from matter",
+      "d": [
+        "consciousness does not exist at all",
+        "consciousness proves God does not exist"
+      ]
+    },
+    {
+      "c": "Lewis's 1947 book with the argument from reason",
+      "a": "Miracles",
+      "d": [
+        "Mere Christianity",
+        "The Abolition of Man"
+      ]
+    },
+    {
+      "c": "Lewis's original chapter title in Miracles",
+      "a": "The Self-Contradiction of the Naturalist",
+      "d": [
+        "The Cardinal Difficulty of Naturalism",
+        "The Law of Human Nature"
+      ]
+    },
+    {
+      "c": "Who critiqued Lewis at the Socratic Club (1948)?",
+      "a": "Elizabeth Anscombe",
+      "d": [
+        "Iris Murdoch",
+        "Philippa Foot"
+      ]
+    },
+    {
+      "c": "Lewis's revised chapter title (1960)",
+      "a": "The Cardinal Difficulty of Naturalism",
+      "d": [
+        "The Self-Contradiction of the Naturalist",
+        "The Self-Refutation of Materialism"
+      ]
+    },
+    {
+      "c": "Distinction Lewis drew in his 1960 revision",
+      "a": "cause and effect versus ground and consequent",
+      "d": [
+        "matter and form versus act and potency",
+        "analytic versus synthetic judgments"
+      ]
+    },
+    {
+      "c": "Scientist whose worry about atoms Lewis quoted",
+      "a": "J. B. S. Haldane",
+      "d": [
+        "Julian Huxley",
+        "Arthur Eddington"
+      ]
+    },
+    {
+      "c": "Argument from reason's core claim",
+      "a": "wholly non-rational causes would make thought untrustworthy",
+      "d": [
+        "reason proves the soul is made of atoms",
+        "reason cannot be used about God at all"
+      ]
+    },
+    {
+      "c": "Prime minister who anticipated Lewis's argument",
+      "a": "Arthur Balfour",
+      "d": [
+        "William Gladstone",
+        "Benjamin Disraeli"
+      ]
+    },
+    {
+      "c": "Victor Reppert's 2003 defense of Lewis",
+      "a": "C. S. Lewis's Dangerous Idea",
+      "d": [
+        "Naturalism Defeated?",
+        "Where the Conflict Really Lies"
+      ]
+    },
+    {
+      "c": "Where Plantinga first fully stated the EAAN",
+      "a": "Warrant and Proper Function, chapter 12",
+      "d": [
+        "The Nature of Necessity, chapter 10",
+        "God and Other Minds, chapter 5"
+      ]
+    },
+    {
+      "c": "In Plantinga's EAAN, R stands for",
+      "a": "our cognitive faculties are reliable",
+      "d": [
+        "religious belief is rational",
+        "reason can prove God exists"
+      ]
+    },
+    {
+      "c": "In Plantinga's EAAN, N&E stands for",
+      "a": "naturalism conjoined with evolution",
+      "d": [
+        "necessity and existence",
+        "nature and essence"
+      ]
+    },
+    {
+      "c": "EAAN's first claim",
+      "a": "P(R given N&E) is low or inscrutable",
+      "d": [
+        "P(R given N&E) is very high",
+        "P(N&E) is exactly zero"
+      ]
+    },
+    {
+      "c": "What the EAAN says a reflective naturalist gets",
+      "a": "a defeater for R, and so for N&E itself",
+      "d": [
+        "a proof of R from evolution",
+        "a reason to doubt evolution only"
+      ]
+    },
+    {
+      "c": "What Plantinga's EAAN targets",
+      "a": "naturalism, not evolution",
+      "d": [
+        "evolution, not naturalism",
+        "theism and evolution together"
+      ]
+    },
+    {
+      "c": "Recipient of Darwin's 1881 'horrid doubt' letter",
+      "a": "William Graham",
+      "d": [
+        "Asa Gray",
+        "Thomas Henry Huxley"
+      ]
+    },
+    {
+      "c": "Patricia Churchland's 'four Fs'",
+      "a": "feeding, fleeing, fighting and reproducing",
+      "d": [
+        "feeling, fearing, finding and forgetting",
+        "focus, form, function and fitness"
+      ]
+    },
+    {
+      "c": "Content epiphenomenalism, in the EAAN",
+      "a": "a belief's content does no work in causing behavior",
+      "d": [
+        "a belief's content is caused by God",
+        "beliefs have no content at all"
+      ]
+    },
+    {
+      "c": "Ramsey's and Fodor's reply to the EAAN",
+      "a": "true beliefs aid survival, so selection favors reliability",
+      "d": [
+        "evolution never acts on behavior",
+        "reliable faculties are impossible"
+      ]
+    },
+    {
+      "c": "Pair who argued the EAAN's probabilities fail",
+      "a": "Branden Fitelson and Elliott Sober",
+      "d": [
+        "Paul and Patricia Churchland",
+        "Daniel Dennett and Richard Dawkins"
+      ]
+    },
+    {
+      "c": "James Beilby's 2002 volume on the EAAN",
+      "a": "Naturalism Defeated?",
+      "d": [
+        "Naturalism Undefeated",
+        "The Blind Watchmaker"
+      ]
+    },
+    {
+      "c": "Plantinga's 2011 book restating the EAAN",
+      "a": "Where the Conflict Really Lies",
+      "d": [
+        "Warranted Christian Belief",
+        "Knowledge and Christian Belief"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Can naturalism trust itself?",
+    "text": [
+      "Alvin Plantinga's evolutionary argument against naturalism (EAAN) does not attack evolution. It argues that naturalism (N) combined with evolution (E) undermines itself. Let R be the claim that our cognitive faculties are reliable, mostly producing true beliefs.",
+      "(1) The probability of R, given N and E, is low or inscrutable. (2) Anyone who accepts N and E, and sees that (1) is true, has a defeater for R. (3) A defeater for R is a defeater for every belief one's faculties produce, including N and E. (4) So accepting N and E is self-defeating, and cannot rationally be held.",
+      "Premise (1) rests on this thought: natural selection rewards adaptive behavior, not true belief. If, on naturalism, a belief causes behavior by its brain chemistry rather than by its content, selection would not care whether that content is true. Darwin himself, in an 1881 letter, voiced a 'horrid doubt' about trusting a mind descended from lower animals.",
+      "The main objection, from William Ramsey and Jerry Fodor among others, is that true beliefs generally help us survive. An animal that believes 'a tiger is near' when a tiger is near will tend to live longer.",
+      "Plantinga replies that this assumes what is in question: that content, not mere neurophysiology, causes behavior. On materialism, he argues, that is exactly what is hard to secure; theism, by contrast, gives a reason to expect minds made to know truth."
+    ],
+    "q": [
+      {
+        "q": "What is R in the EAAN?",
+        "o": [
+          "Religion is rational",
+          "Our cognitive faculties are reliable",
+          "Reasoning is impossible"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Why does premise (3) extend the defeater to N and E?",
+        "o": [
+          "N and E are themselves products of our faculties",
+          "N and E are known by revelation",
+          "Evolution has been disproved"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does Plantinga say the Ramsey-Fodor reply assumes?",
+        "o": [
+          "That tigers are dangerous",
+          "That evolution is false",
+          "That theism is true",
+          "That belief content, not just brain chemistry, causes behavior"
+        ],
+        "k": 3
+      }
+    ]
+  }
+}

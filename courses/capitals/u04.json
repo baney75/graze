@@ -1,0 +1,28 @@
+{
+  "title": "South and Central Asia on the map",
+  "kind": "map",
+  "set": "world",
+  "note": "India fills the subcontinent with Pakistan, Nepal, Bhutan and Bangladesh around it and Sri Lanka and the Maldives offshore. North of the mountains lie the five Central Asian states, and between the Black and Caspian Seas the three countries of the Caucasus.",
+  "src": {
+    "t": "Natural Earth 1:50m boundaries via world-atlas",
+    "u": "https://github.com/topojson/world-atlas"
+  },
+  "items": [
+    { "p": "AF", "a": "Afghanistan", "d": ["Pakistan", "Tajikistan", "Kyrgyzstan"] },
+    { "p": "PK", "a": "Pakistan", "d": ["Afghanistan", "Tajikistan", "Kyrgyzstan"] },
+    { "p": "IN", "a": "India", "d": ["Bangladesh", "Nepal", "Bhutan"] },
+    { "p": "NP", "a": "Nepal", "d": ["Bhutan", "Bangladesh", "India"] },
+    { "p": "BT", "a": "Bhutan", "d": ["Bangladesh", "Nepal", "India"] },
+    { "p": "BD", "a": "Bangladesh", "d": ["Bhutan", "India", "Nepal"] },
+    { "p": "LK", "a": "Sri Lanka", "d": ["Maldives", "India", "Bangladesh"] },
+    { "p": "MV", "a": "Maldives", "d": ["Sri Lanka", "India", "Bangladesh"] },
+    { "p": "KZ", "a": "Kazakhstan", "d": ["Uzbekistan", "Turkmenistan", "Kyrgyzstan"] },
+    { "p": "UZ", "a": "Uzbekistan", "d": ["Turkmenistan", "Kazakhstan", "Tajikistan"] },
+    { "p": "TM", "a": "Turkmenistan", "d": ["Uzbekistan", "Afghanistan", "Kazakhstan"] },
+    { "p": "KG", "a": "Kyrgyzstan", "d": ["Tajikistan", "Uzbekistan", "Afghanistan"] },
+    { "p": "TJ", "a": "Tajikistan", "d": ["Kyrgyzstan", "Afghanistan", "Uzbekistan"] },
+    { "p": "GE", "a": "Georgia", "d": ["Armenia", "Azerbaijan", "Turkmenistan"] },
+    { "p": "AM", "a": "Armenia", "d": ["Azerbaijan", "Georgia", "Turkmenistan"] },
+    { "p": "AZ", "a": "Azerbaijan", "d": ["Armenia", "Georgia", "Turkmenistan"] }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "title": "Plato, Meno: the slave boy and recollection",
+  "note": "Meno asks whether virtue can be taught. Socrates answers by questioning Meno's untaught slave boy, who finally sees that the square on the diagonal is double the original square; Socrates takes this as evidence that learning is recollection.",
+  "src": {
+    "t": "Meno, by Plato, tr. Benjamin Jowett, Project Gutenberg eBook #1643",
+    "u": "https://www.gutenberg.org/ebooks/1643"
+  },
+  "items": [
+    {
+      "c": "Meno's opening question",
+      "a": "Can virtue be taught?",
+      "d": [
+        "What is justice?",
+        "Is the soul immortal?"
+      ]
+    },
+    {
+      "c": "Meno's home region",
+      "a": "Thessaly",
+      "d": [
+        "Sicily",
+        "Ionia",
+        "Crete"
+      ]
+    },
+    {
+      "c": "Meno's paradox",
+      "a": "one cannot seek what one knows, nor what one does not",
+      "d": [
+        "virtue is both teachable and unteachable",
+        "the soul is both mortal and immortal"
+      ]
+    },
+    {
+      "c": "Problem Socrates sets the slave boy",
+      "a": "find the side of a square of double the area",
+      "d": [
+        "find the area of a circle",
+        "divide a line into equal parts"
+      ]
+    },
+    {
+      "c": "Area of the first square in the Meno",
+      "a": "four square feet",
+      "d": [
+        "two square feet",
+        "eight square feet",
+        "sixteen square feet"
+      ]
+    },
+    {
+      "c": "Boy's first wrong answer",
+      "a": "double the side",
+      "d": [
+        "halve the side",
+        "triple the side"
+      ]
+    },
+    {
+      "c": "Line whose square is double the original",
+      "a": "the diagonal",
+      "d": [
+        "the doubled side",
+        "the half side",
+        "the perimeter"
+      ]
+    },
+    {
+      "c": "The 'torpedo's shock'",
+      "a": "the numbing perplexity Socrates causes",
+      "d": [
+        "the boy's fear of a beating",
+        "a sudden flash of insight"
+      ]
+    },
+    {
+      "c": "torpedo (Meno)",
+      "a": "the electric ray, a fish that numbs",
+      "d": [
+        "a weapon fired from a ship",
+        "a wasp with a numbing sting"
+      ]
+    },
+    {
+      "c": "aporia (Meno)",
+      "a": "perplexity, being at a loss",
+      "d": [
+        "proof by contradiction",
+        "recollection of a past life"
+      ]
+    },
+    {
+      "c": "Why the perplexed boy is better off",
+      "a": "he now knows his ignorance and wants to learn",
+      "d": [
+        "he has memorized the right answer",
+        "he will no longer ask questions"
+      ]
+    },
+    {
+      "c": "What Socrates claims he does with the boy",
+      "a": "only asks questions, never teaches",
+      "d": [
+        "explains the proof step by step",
+        "makes him memorize the answer"
+      ]
+    },
+    {
+      "c": "Whose answers the boy's answers were, says Meno",
+      "a": "all his own",
+      "d": [
+        "all Socrates'",
+        "all Meno's"
+      ]
+    },
+    {
+      "c": "'stirred up in him, as in a dream'",
+      "a": "true notions not yet firm knowledge",
+      "d": [
+        "false beliefs left from sleep",
+        "memories of a past lesson"
+      ]
+    },
+    {
+      "c": "anamnesis",
+      "a": "recollection: learning as recovering what the soul knew",
+      "d": [
+        "memorizing what a teacher says",
+        "skill inherited from parents"
+      ]
+    },
+    {
+      "c": "Proof Socrates gives that no one taught the boy",
+      "a": "he was born and bred in Meno's house",
+      "d": [
+        "he was too young to attend school",
+        "he could not read or write"
+      ]
+    },
+    {
+      "c": "Conclusion Socrates draws from the boy",
+      "a": "the soul is immortal",
+      "d": [
+        "virtue is a branch of geometry",
+        "slaves cannot learn"
+      ]
+    },
+    {
+      "c": "'try to recollect what you do not know'",
+      "a": "inquiry recovers what the soul already holds",
+      "d": [
+        "guessing is as good as knowing",
+        "forgetting is the start of wisdom"
+      ]
+    },
+    {
+      "c": "Images of Daedalus, in the Meno",
+      "a": "true opinions that run away unless tied down",
+      "d": [
+        "proofs that never change",
+        "virtues given by the gods"
+      ]
+    },
+    {
+      "c": "Knowledge, compared with true opinion (Meno)",
+      "a": "true opinion fastened by reasoning",
+      "d": [
+        "exactly the same thing",
+        "opinion that happens to be popular"
+      ]
+    },
+    {
+      "c": "Socrates' future accuser who appears in the Meno",
+      "a": "Anytus",
+      "d": [
+        "Meletus",
+        "Lycon",
+        "Crito"
+      ]
+    },
+    {
+      "c": "The Meno's last answer on how virtue comes",
+      "a": "by the gift of God, not by teaching",
+      "d": [
+        "by the teaching of sophists",
+        "by nature, to all men alike"
+      ]
+    }
+  ],
+  "read": {
+    "title": "The Meno: knowledge already in the soul",
+    "text": [
+      "SOCRATES: And that is the line which the learned call the diagonal. And if this is the proper name, then you, Meno's slave, are prepared to affirm that the double space is the square of the diagonal?",
+      "BOY: Certainly, Socrates.",
+      "SOCRATES: What do you say of him, Meno? Were not all these answers given out of his own head?",
+      "MENO: Yes, they were all his own.",
+      "SOCRATES: And yet, as we were just now saying, he did not know?",
+      "MENO: True.",
+      "SOCRATES: But still he had in him those notions of his--had he not?",
+      "MENO: Yes.",
+      "SOCRATES: Then he who does not know may still have true notions of that which he does not know?",
+      "MENO: He has.",
+      "SOCRATES: And at present these notions have just been stirred up in him, as in a dream; but if he were frequently asked the same questions, in different forms, he would know as well as any one at last?",
+      "MENO: I dare say.",
+      "SOCRATES: Without any one teaching him he will recover his knowledge for himself, if he is only asked questions?",
+      "MENO: Yes.",
+      "SOCRATES: And this spontaneous recovery of knowledge in him is recollection?",
+      "MENO: True.",
+      "SOCRATES: And this knowledge which he now has must he not either have acquired or always possessed?",
+      "MENO: Yes.",
+      "SOCRATES: But if he always possessed this knowledge he would always have known; or if he has acquired the knowledge he could not have acquired it in this life, unless he has been taught geometry; for he may be made to do the same with all geometry and every other branch of knowledge. Now, has any one ever taught him all this? You must know about him, if, as you say, he was born and bred in your house.",
+      "MENO: And I am certain that no one ever did teach him.",
+      "SOCRATES: And yet he has the knowledge?",
+      "MENO: The fact, Socrates, is undeniable.",
+      "SOCRATES: But if he did not acquire the knowledge in this life, then he must have had and learned it at some other time?",
+      "MENO: Clearly he must.",
+      "SOCRATES: Which must have been the time when he was not a man?",
+      "MENO: Yes.",
+      "SOCRATES: And if there have been always true thoughts in him, both at the time when he was and was not a man, which only need to be awakened into knowledge by putting questions to him, his soul must have always possessed this knowledge, for he always either was or was not a man?",
+      "MENO: Obviously.",
+      "SOCRATES: And if the truth of all things always existed in the soul, then the soul is immortal. Wherefore be of good cheer, and try to recollect what you do not know, or rather what you do not remember."
+    ],
+    "q": [
+      {
+        "q": "What does Socrates say has happened to the boy's notions?",
+        "o": [
+          "They have been stirred up as in a dream and could become knowledge",
+          "They were taught to him by Socrates",
+          "They are false and must be forgotten"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why does Socrates argue the boy did not learn geometry in this life?",
+        "o": [
+          "The boy says he dreamed it",
+          "No one ever taught him, yet he has the knowledge",
+          "Geometry was unknown in Athens"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What conclusion follows, for Socrates, if truth always existed in the soul?",
+        "o": [
+          "The boy should be freed",
+          "Geometry can be taught to anyone",
+          "The soul is immortal"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

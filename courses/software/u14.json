@@ -1,0 +1,323 @@
+{
+  "title": "Software process",
+  "note": "Modern teams ship in small increments and get feedback fast. Agile values working software and responding to change; continuous integration merges and tests changes many times a day; semantic versioning tells users what an upgrade will break. Technical debt is the future cost of shortcuts taken now.",
+  "src": {
+    "t": "Semantic Versioning 2.0.0",
+    "u": "https://semver.org/"
+  },
+  "items": [
+    {
+      "c": "Year the Agile Manifesto was written",
+      "a": "2001",
+      "d": [
+        "1995",
+        "2008",
+        "1990"
+      ]
+    },
+    {
+      "c": "Agile: individuals and interactions over",
+      "a": "processes and tools",
+      "d": [
+        "following a plan",
+        "contract negotiation"
+      ]
+    },
+    {
+      "c": "Agile: working software over",
+      "a": "comprehensive documentation",
+      "d": [
+        "processes and tools",
+        "customer collaboration"
+      ]
+    },
+    {
+      "c": "Agile: customer collaboration over",
+      "a": "contract negotiation",
+      "d": [
+        "comprehensive documentation",
+        "responding to change"
+      ]
+    },
+    {
+      "c": "Agile: responding to change over",
+      "a": "following a plan",
+      "d": [
+        "working software",
+        "individuals and interactions"
+      ]
+    },
+    {
+      "c": "Maximum length of a Scrum sprint",
+      "a": "one month",
+      "d": [
+        "one week",
+        "three months",
+        "six months"
+      ]
+    },
+    {
+      "c": "The three Scrum accountabilities",
+      "a": "Product Owner, Scrum Master, Developers",
+      "d": [
+        "Project Manager, Architect, Testers",
+        "Sponsor, Team Lead, QA"
+      ]
+    },
+    {
+      "c": "Who orders the Scrum product backlog",
+      "a": "the Product Owner",
+      "d": [
+        "the Scrum Master",
+        "the most senior developer"
+      ]
+    },
+    {
+      "c": "Time-box of the Daily Scrum",
+      "a": "15 minutes",
+      "d": [
+        "5 minutes",
+        "1 hour"
+      ]
+    },
+    {
+      "c": "Purpose of a sprint retrospective",
+      "a": "find ways to improve how the team works",
+      "d": [
+        "demo the increment to stakeholders",
+        "assign blame for missed goals"
+      ]
+    },
+    {
+      "c": "Core Kanban practices",
+      "a": "visualize work and limit work in progress",
+      "d": [
+        "fixed sprints and story points",
+        "big design up front"
+      ]
+    },
+    {
+      "c": "Waterfall model",
+      "a": "sequential phases from requirements to maintenance",
+      "d": [
+        "short iterations with frequent releases",
+        "continuous deployment of every commit"
+      ]
+    },
+    {
+      "c": "Standard user story template",
+      "a": "As a <role>, I want <goal>, so that <benefit>",
+      "d": [
+        "Given <state>, when <action>, then <result>",
+        "If <condition>, then <feature>"
+      ]
+    },
+    {
+      "c": "Main goals of code review",
+      "a": "catch defects and spread knowledge",
+      "d": [
+        "measure each developer's speed",
+        "replace automated testing"
+      ]
+    },
+    {
+      "c": "Continuous integration",
+      "a": "merge to mainline often, with automated build and tests",
+      "d": [
+        "deploy every commit straight to users",
+        "integrate features once per release"
+      ]
+    },
+    {
+      "c": "Continuous delivery",
+      "a": "every change is kept releasable at any time",
+      "d": [
+        "every change ships to users automatically",
+        "releases happen once per quarter"
+      ]
+    },
+    {
+      "c": "Continuous deployment",
+      "a": "every change that passes the pipeline ships automatically",
+      "d": [
+        "changes are releasable but shipped by hand",
+        "code is merged only once a month"
+      ]
+    },
+    {
+      "c": "Trunk-based development",
+      "a": "short-lived branches merged into main at least daily",
+      "d": [
+        "long-lived feature branches per release",
+        "one branch per developer forever"
+      ]
+    },
+    {
+      "c": "Feature flag",
+      "a": "turns a feature on or off without redeploying",
+      "d": [
+        "a comment marking unfinished code",
+        "a git tag for each release"
+      ]
+    },
+    {
+      "c": "Canary release",
+      "a": "roll out to a small share of users first",
+      "d": [
+        "release to every user at midnight",
+        "keep two full environments and switch"
+      ]
+    },
+    {
+      "c": "Blue-green deployment",
+      "a": "switch traffic between two identical environments",
+      "d": [
+        "roll out to a small share of users first",
+        "run blue and green test suites in turn"
+      ]
+    },
+    {
+      "c": "Semantic version format",
+      "a": "MAJOR.MINOR.PATCH",
+      "d": [
+        "YEAR.MONTH.BUILD",
+        "PATCH.MINOR.MAJOR"
+      ]
+    },
+    {
+      "c": "SemVer part to bump for incompatible API changes",
+      "a": "MAJOR",
+      "d": [
+        "MINOR",
+        "PATCH"
+      ]
+    },
+    {
+      "c": "SemVer part for backward-compatible new features",
+      "a": "MINOR",
+      "d": [
+        "MAJOR",
+        "PATCH"
+      ]
+    },
+    {
+      "c": "SemVer part for backward-compatible bug fixes",
+      "a": "PATCH",
+      "d": [
+        "MINOR",
+        "MAJOR"
+      ]
+    },
+    {
+      "c": "After 1.4.2, a compatible new feature gives",
+      "a": "1.5.0",
+      "d": [
+        "1.4.3",
+        "2.0.0",
+        "1.5.2"
+      ]
+    },
+    {
+      "c": "SemVer version 0.y.z signals",
+      "a": "initial development; anything may change",
+      "d": [
+        "a stable public API",
+        "a version with known security flaws"
+      ]
+    },
+    {
+      "c": "Higher precedence: 1.0.0-rc.1 or 1.0.0?",
+      "a": "1.0.0",
+      "d": [
+        "1.0.0-rc.1"
+      ],
+      "ex": "A pre-release ranks below its normal version."
+    },
+    {
+      "c": "Coined the term technical debt (1992)",
+      "a": "Ward Cunningham",
+      "d": [
+        "Martin Fowler",
+        "Kent Beck",
+        "Fred Brooks"
+      ]
+    },
+    {
+      "c": "Technical debt",
+      "a": "the future rework cost of expedient shortcuts",
+      "d": [
+        "money owed for software licenses",
+        "the number of open bug reports"
+      ]
+    },
+    {
+      "c": "The interest on technical debt",
+      "a": "extra effort each change costs until it is repaid",
+      "d": [
+        "a fee charged by the cloud provider",
+        "the time spent in code review"
+      ]
+    },
+    {
+      "c": "Definition of Done",
+      "a": "the shared quality bar every increment must meet",
+      "d": [
+        "the date the project must end",
+        "a list of features for next year"
+      ]
+    },
+    {
+      "c": "Blameless postmortem",
+      "a": "studies a failure to fix systems, not punish people",
+      "d": [
+        "a review that names who caused the outage",
+        "a meeting held only for successful launches"
+      ]
+    },
+    {
+      "c": "DORA metric for how often a team ships",
+      "a": "deployment frequency",
+      "d": [
+        "lead time for changes",
+        "change failure rate"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Small batches, fast feedback",
+    "text": [
+      "In 2001 seventeen developers met in Utah and wrote the Agile Manifesto. Its four values favor individuals and interactions, working software, customer collaboration, and responding to change over the things that had dominated big projects: processes and tools, comprehensive documentation, contract negotiation, and following a plan. The idea was not that documents and plans are worthless, but that delivering working software in small pieces and learning from it beats predicting everything up front.",
+      "Continuous integration applies the same thinking to code. Developers merge into the main line at least daily, and every merge triggers an automated build and test run, so integration problems surface within minutes instead of at the end of a release. Continuous delivery keeps the main line always releasable; continuous deployment goes further and ships every passing change automatically.",
+      "Semantic versioning makes releases legible to the people who depend on them. Breaking the public API bumps the major version, adding backward-compatible features bumps the minor version, and backward-compatible fixes bump the patch. Shortcuts taken to ship sooner are fine if chosen deliberately, but, as Ward Cunningham warned with his debt metaphor, they charge interest on every later change until someone pays them down."
+    ],
+    "q": [
+      {
+        "q": "What did the manifesto's authors think about documentation and plans?",
+        "o": [
+          "They are worthless",
+          "They matter, but less than working software and adapting",
+          "They should replace working software"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What separates continuous deployment from continuous delivery?",
+        "o": [
+          "Delivery skips automated tests",
+          "Deployment merges only once a month",
+          "Deployment ships every passing change automatically"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Which version part changes when the public API breaks?",
+        "o": [
+          "Major",
+          "Minor",
+          "Patch"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

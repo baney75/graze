@@ -1,0 +1,288 @@
+{
+  "title": "Everyday verbs in the present",
+  "note": "Drop -are, -ere, -ire and add the endings. -are: o, i, a, iamo, ate, ano. -ere: o, i, e, iamo, ete, ono. -ire: o, i, e, iamo, ite, ono, and many -ire verbs add -isc- (capisco, capisci, capisce, capiscono). Put non before the verb to negate.",
+  "src": {
+    "t": "Voci, Unità 3: Grammatica (presente indicativo)",
+    "u": "https://human.libretexts.org/Bookshelves/Languages/Italian/Voci%3A_Corso_elementare_di_lingua_e_culture_italiane_I_(Bozzato_Benetollo_and_Mugnai)/03%3A_Unita_3/3.02%3A_Unita_3_-_Grammatica"
+  },
+  "items": [
+    {
+      "c": "parlare",
+      "a": "to speak",
+      "d": [
+        "to hear",
+        "to read"
+      ],
+      "ex": "Parlo un po' d'italiano.",
+      "exT": "I speak a little Italian."
+    },
+    {
+      "c": "mangiare",
+      "a": "to eat",
+      "d": [
+        "to drink",
+        "to cook"
+      ]
+    },
+    {
+      "c": "bere",
+      "a": "to drink",
+      "d": [
+        "to eat",
+        "to pour"
+      ]
+    },
+    {
+      "c": "dormire",
+      "a": "to sleep",
+      "d": [
+        "to rest",
+        "to wake up"
+      ]
+    },
+    {
+      "c": "leggere",
+      "a": "to read",
+      "d": [
+        "to write",
+        "to listen"
+      ]
+    },
+    {
+      "c": "scrivere",
+      "a": "to write",
+      "d": [
+        "to read",
+        "to draw"
+      ]
+    },
+    {
+      "c": "vedere",
+      "a": "to see",
+      "d": [
+        "to look for",
+        "to sell"
+      ]
+    },
+    {
+      "c": "guardare",
+      "a": "to watch; to look at",
+      "d": [
+        "to drive",
+        "to hear"
+      ]
+    },
+    {
+      "c": "ascoltare",
+      "a": "to listen to",
+      "d": [
+        "to hear",
+        "to speak"
+      ]
+    },
+    {
+      "c": "sentire",
+      "a": "to hear; to feel",
+      "d": [
+        "to sit",
+        "to send"
+      ]
+    },
+    {
+      "c": "capire",
+      "a": "to understand",
+      "d": [
+        "to choose",
+        "to take"
+      ]
+    },
+    {
+      "c": "aprire",
+      "a": "to open",
+      "d": [
+        "to close",
+        "to learn"
+      ]
+    },
+    {
+      "c": "chiudere",
+      "a": "to close",
+      "d": [
+        "to open",
+        "to ask"
+      ]
+    },
+    {
+      "c": "prendere",
+      "a": "to take",
+      "d": [
+        "to give",
+        "to lend"
+      ],
+      "ex": "Prendo un caffè.",
+      "exT": "I'll have a coffee."
+    },
+    {
+      "c": "fare",
+      "a": "to do; to make",
+      "d": [
+        "to say",
+        "to go"
+      ]
+    },
+    {
+      "c": "andare",
+      "a": "to go",
+      "d": [
+        "to come",
+        "to walk"
+      ]
+    },
+    {
+      "c": "venire",
+      "a": "to come",
+      "d": [
+        "to go",
+        "to stay"
+      ]
+    },
+    {
+      "c": "abitare",
+      "a": "to live (reside)",
+      "d": [
+        "to dress",
+        "to stay over"
+      ]
+    },
+    {
+      "c": "aspettare",
+      "a": "to wait for",
+      "d": [
+        "to hope",
+        "to look for"
+      ]
+    },
+    {
+      "c": "cercare",
+      "a": "to look for",
+      "d": [
+        "to find",
+        "to wait for"
+      ]
+    },
+    {
+      "c": "trovare",
+      "a": "to find",
+      "d": [
+        "to look for",
+        "to try"
+      ]
+    },
+    {
+      "c": "finire",
+      "a": "to finish",
+      "d": [
+        "to begin",
+        "to pretend"
+      ]
+    },
+    {
+      "c": "conoscere",
+      "a": "to know (a person or place)",
+      "d": [
+        "to know (a fact)",
+        "to grow"
+      ]
+    },
+    {
+      "c": "sapere",
+      "a": "to know (a fact; how to)",
+      "d": [
+        "to know (a person)",
+        "to save"
+      ]
+    },
+    {
+      "c": "Noi ___ italiano. (parlare)",
+      "a": "parliamo",
+      "d": [
+        "parlate",
+        "parlano"
+      ]
+    },
+    {
+      "c": "Loro ___ la TV. (guardare)",
+      "a": "guardano",
+      "d": [
+        "guardono",
+        "guardate"
+      ]
+    },
+    {
+      "c": "Tu ___ un libro. (leggere)",
+      "a": "leggi",
+      "d": [
+        "legge",
+        "leggo"
+      ]
+    },
+    {
+      "c": "Lei ___ fino a tardi. (dormire)",
+      "a": "dorme",
+      "d": [
+        "dorma",
+        "dormi"
+      ]
+    },
+    {
+      "c": "Io non ___. (capire)",
+      "a": "capisco",
+      "d": [
+        "capo",
+        "capiscono"
+      ]
+    },
+    {
+      "c": "Voi ___ al cinema? (andare)",
+      "a": "andate",
+      "d": [
+        "vanno",
+        "andiamo"
+      ]
+    },
+    {
+      "c": "Io ___ colazione alle otto. (fare)",
+      "a": "faccio",
+      "d": [
+        "facco",
+        "fai"
+      ]
+    },
+    {
+      "c": "Tu ___ nuotare? (sapere)",
+      "a": "sai",
+      "d": [
+        "sa",
+        "sei"
+      ]
+    },
+    {
+      "c": "Non parlo inglese.",
+      "a": "I don't speak English.",
+      "d": [
+        "I speak English well.",
+        "I don't like English."
+      ],
+      "ex": "Scusi, non parlo inglese.",
+      "exT": "Excuse me, I don't speak English."
+    },
+    {
+      "c": "Dove abiti?",
+      "a": "Where do you live?",
+      "d": [
+        "Where do you work?",
+        "Where are you from?"
+      ]
+    }
+  ]
+}

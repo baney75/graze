@@ -1,0 +1,299 @@
+{
+  "title": "Clothing, shopping and prices",
+  "note": "\"Wear\" depends on the body part: 着ます for shirts, coats and dresses; はきます for shoes, socks, pants and skirts; かぶります for hats; かけます for glasses. Ask prices with いくらですか. Prices are number + 円 (en): 三千円. To buy something, point and say これをください.",
+  "src": {
+    "t": "Jisho.org (JMdict): 着る, 履く, 被る",
+    "u": "https://jisho.org/"
+  },
+  "items": [
+    {
+      "c": "服",
+      "r": "fuku",
+      "a": "clothes",
+      "d": [
+        "shoes",
+        "bag"
+      ],
+      "ex": "(ふく) 新しい服を買いました。",
+      "exT": "I bought new clothes."
+    },
+    {
+      "c": "シャツ",
+      "r": "shatsu",
+      "a": "shirt",
+      "d": [
+        "skirt",
+        "socks"
+      ]
+    },
+    {
+      "c": "ズボン",
+      "r": "zubon",
+      "a": "pants, trousers",
+      "d": [
+        "skirt",
+        "coat"
+      ]
+    },
+    {
+      "c": "スカート",
+      "r": "sukāto",
+      "a": "skirt",
+      "d": [
+        "pants",
+        "scarf"
+      ]
+    },
+    {
+      "c": "靴",
+      "r": "kutsu",
+      "a": "shoes",
+      "d": [
+        "socks",
+        "hat"
+      ],
+      "ex": "(くつ) 靴をはきます。",
+      "exT": "I put on my shoes."
+    },
+    {
+      "c": "靴下",
+      "r": "kutsushita",
+      "a": "socks",
+      "d": [
+        "shoes",
+        "gloves"
+      ]
+    },
+    {
+      "c": "帽子",
+      "r": "bōshi",
+      "a": "hat, cap",
+      "d": [
+        "umbrella",
+        "glasses"
+      ]
+    },
+    {
+      "c": "めがね",
+      "r": "megane",
+      "a": "glasses",
+      "d": [
+        "hat",
+        "watch"
+      ]
+    },
+    {
+      "c": "コート",
+      "r": "kōto",
+      "a": "coat",
+      "d": [
+        "sweater",
+        "shirt"
+      ]
+    },
+    {
+      "c": "セーター",
+      "r": "sētā",
+      "a": "sweater",
+      "d": [
+        "coat",
+        "skirt"
+      ]
+    },
+    {
+      "c": "着ます",
+      "r": "kimasu",
+      "a": "put on, wear (shirts, coats)",
+      "d": [
+        "put on, wear (shoes, pants)",
+        "put on, wear (a hat)"
+      ]
+    },
+    {
+      "c": "はきます",
+      "r": "hakimasu",
+      "a": "put on, wear (shoes, pants, skirts)",
+      "d": [
+        "put on, wear (shirts, coats)",
+        "put on, wear (glasses)"
+      ]
+    },
+    {
+      "c": "めがねをかけます",
+      "r": "megane o kakemasu",
+      "a": "put on glasses",
+      "d": [
+        "take off glasses",
+        "buy glasses"
+      ]
+    },
+    {
+      "c": "買い物",
+      "r": "kaimono",
+      "a": "shopping",
+      "d": [
+        "cooking",
+        "travel"
+      ],
+      "ex": "(かいもの) デパートで買い物をします。",
+      "exT": "I go shopping at the department store."
+    },
+    {
+      "c": "デパート",
+      "r": "depāto",
+      "a": "department store",
+      "d": [
+        "supermarket",
+        "apartment"
+      ]
+    },
+    {
+      "c": "店員",
+      "r": "ten'in",
+      "a": "store clerk",
+      "d": [
+        "customer",
+        "company employee"
+      ]
+    },
+    {
+      "c": "いくら",
+      "r": "ikura",
+      "a": "how much (price)",
+      "d": [
+        "how many (things)",
+        "how long (time)"
+      ]
+    },
+    {
+      "c": "円",
+      "r": "en",
+      "a": "yen",
+      "d": [
+        "dollar",
+        "coin"
+      ]
+    },
+    {
+      "c": "お金",
+      "r": "okane",
+      "a": "money",
+      "d": [
+        "wallet",
+        "price"
+      ]
+    },
+    {
+      "c": "財布",
+      "r": "saifu",
+      "a": "wallet",
+      "d": [
+        "money",
+        "bag"
+      ]
+    },
+    {
+      "c": "売ります",
+      "r": "urimasu",
+      "a": "sell",
+      "d": [
+        "buy",
+        "pay"
+      ]
+    },
+    {
+      "c": "三千円",
+      "r": "sanzen-en",
+      "a": "3,000 yen",
+      "d": [
+        "300 yen",
+        "30,000 yen"
+      ]
+    },
+    {
+      "c": "一万円",
+      "r": "ichiman-en",
+      "a": "10,000 yen",
+      "d": [
+        "1,000 yen",
+        "100,000 yen"
+      ]
+    },
+    {
+      "c": "五百円",
+      "r": "gohyaku-en",
+      "a": "500 yen",
+      "d": [
+        "5,000 yen",
+        "50 yen"
+      ]
+    },
+    {
+      "c": "いくらですか。",
+      "r": "Ikura desu ka.",
+      "a": "How much is it?",
+      "d": [
+        "How many are there?",
+        "What is this?"
+      ]
+    },
+    {
+      "c": "これをください。",
+      "r": "Kore o kudasai.",
+      "a": "I'll take this, please.",
+      "d": [
+        "What is this?",
+        "Do you have this?"
+      ]
+    },
+    {
+      "c": "全部で千円です。",
+      "r": "Zenbu de sen-en desu.",
+      "a": "It's 1,000 yen in total.",
+      "d": [
+        "Everything is 100 yen.",
+        "Each one is 1,000 yen."
+      ]
+    },
+    {
+      "c": "Mサイズはありますか。",
+      "r": "Emu saizu wa arimasu ka.",
+      "a": "Do you have a medium?",
+      "d": [
+        "Is this a medium?",
+        "How much is a medium?"
+      ]
+    },
+    {
+      "c": "このシャツはいくら___。",
+      "r": "Kono shatsu wa ikura ___.",
+      "a": "ですか",
+      "d": [
+        "ますか",
+        "ませんか"
+      ],
+      "ex": "このシャツはいくらですか。",
+      "exT": "How much is this shirt?"
+    },
+    {
+      "c": "靴を___。(put on)",
+      "r": "Kutsu o ___.",
+      "a": "はきます",
+      "d": [
+        "着ます",
+        "かぶります"
+      ]
+    },
+    {
+      "c": "帽子を___。(put on)",
+      "r": "Bōshi o ___.",
+      "a": "かぶります",
+      "d": [
+        "着ます",
+        "はきます"
+      ],
+      "ex": "帽子をかぶります。",
+      "exT": "I put on a hat."
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "title": "Design patterns by intent",
+  "note": "A design pattern is a named, reusable solution to a recurring design problem, not a piece of code to paste. The 1994 Gang of Four book catalogs 23 patterns in three groups: creational (how objects are made), structural (how objects are assembled), and behavioral (how objects share work and communicate).",
+  "src": {
+    "t": "Refactoring Guru, Design patterns catalog",
+    "u": "https://refactoring.guru/design-patterns/catalog"
+  },
+  "items": [
+    {
+      "c": "Gang of Four authors",
+      "a": "Gamma, Helm, Johnson, and Vlissides",
+      "d": [
+        "Fowler, Beck, Cunningham, and Martin",
+        "Knuth, Dijkstra, Hoare, and Wirth"
+      ]
+    },
+    {
+      "c": "Number of patterns in the Gang of Four book",
+      "a": "23",
+      "d": [
+        "12",
+        "36",
+        "10"
+      ]
+    },
+    {
+      "c": "Pattern group about how objects are created",
+      "a": "creational patterns",
+      "d": [
+        "structural patterns",
+        "behavioral patterns"
+      ]
+    },
+    {
+      "c": "Pattern group for assembling larger structures",
+      "a": "structural patterns",
+      "d": [
+        "creational patterns",
+        "behavioral patterns"
+      ]
+    },
+    {
+      "c": "Pattern group for sharing work between objects",
+      "a": "behavioral patterns",
+      "d": [
+        "structural patterns",
+        "creational patterns"
+      ]
+    },
+    {
+      "c": "Ensure a class has exactly one instance",
+      "a": "Singleton",
+      "d": [
+        "Prototype",
+        "Flyweight"
+      ]
+    },
+    {
+      "c": "Subclasses decide which class to instantiate",
+      "a": "Factory Method",
+      "d": [
+        "Abstract Factory",
+        "Builder"
+      ]
+    },
+    {
+      "c": "Create families of related objects together",
+      "a": "Abstract Factory",
+      "d": [
+        "Factory Method",
+        "Prototype"
+      ]
+    },
+    {
+      "c": "Construct a complex object step by step",
+      "a": "Builder",
+      "d": [
+        "Abstract Factory",
+        "Composite"
+      ]
+    },
+    {
+      "c": "Create new objects by cloning an existing one",
+      "a": "Prototype",
+      "d": [
+        "Singleton",
+        "Memento"
+      ]
+    },
+    {
+      "c": "Convert an interface into one clients expect",
+      "a": "Adapter",
+      "d": [
+        "Facade",
+        "Decorator",
+        "Bridge"
+      ]
+    },
+    {
+      "c": "Separate an abstraction from its implementation",
+      "a": "Bridge",
+      "d": [
+        "Adapter",
+        "Proxy",
+        "Strategy"
+      ]
+    },
+    {
+      "c": "Treat single objects and trees of them uniformly",
+      "a": "Composite",
+      "d": [
+        "Decorator",
+        "Iterator",
+        "Flyweight"
+      ]
+    },
+    {
+      "c": "Add responsibilities by wrapping an object",
+      "a": "Decorator",
+      "d": [
+        "Adapter",
+        "Proxy",
+        "Composite"
+      ]
+    },
+    {
+      "c": "One simple front for a complex subsystem",
+      "a": "Facade",
+      "d": [
+        "Adapter",
+        "Mediator",
+        "Proxy"
+      ]
+    },
+    {
+      "c": "Share common state among many small objects",
+      "a": "Flyweight",
+      "d": [
+        "Singleton",
+        "Prototype",
+        "Composite"
+      ]
+    },
+    {
+      "c": "A stand-in that controls access to an object",
+      "a": "Proxy",
+      "d": [
+        "Facade",
+        "Decorator",
+        "Adapter"
+      ],
+      "ex": "Used for lazy loading, access checks, and remote objects."
+    },
+    {
+      "c": "Pass a request along handlers until one takes it",
+      "a": "Chain of Responsibility",
+      "d": [
+        "Command",
+        "Mediator",
+        "Observer"
+      ]
+    },
+    {
+      "c": "Turn a request into an object (queue, undo, log)",
+      "a": "Command",
+      "d": [
+        "Memento",
+        "Strategy",
+        "Chain of Responsibility"
+      ]
+    },
+    {
+      "c": "Define a grammar and evaluate its sentences",
+      "a": "Interpreter",
+      "d": [
+        "Visitor",
+        "Composite",
+        "Command"
+      ]
+    },
+    {
+      "c": "Step through a collection without exposing it",
+      "a": "Iterator",
+      "d": [
+        "Visitor",
+        "Composite",
+        "Observer"
+      ]
+    },
+    {
+      "c": "Route all object interactions through a hub",
+      "a": "Mediator",
+      "d": [
+        "Facade",
+        "Observer",
+        "Proxy"
+      ]
+    },
+    {
+      "c": "Snapshot an object's state to restore later",
+      "a": "Memento",
+      "d": [
+        "Prototype",
+        "Command",
+        "State"
+      ]
+    },
+    {
+      "c": "Notify all dependents when one object changes",
+      "a": "Observer",
+      "d": [
+        "Mediator",
+        "Chain of Responsibility",
+        "Command"
+      ]
+    },
+    {
+      "c": "Change behavior when internal state changes",
+      "a": "State",
+      "d": [
+        "Strategy",
+        "Template Method",
+        "Memento"
+      ]
+    },
+    {
+      "c": "Swap interchangeable algorithms at runtime",
+      "a": "Strategy",
+      "d": [
+        "State",
+        "Template Method",
+        "Command"
+      ]
+    },
+    {
+      "c": "Fixed algorithm skeleton, subclasses fill steps",
+      "a": "Template Method",
+      "d": [
+        "Strategy",
+        "Factory Method",
+        "Builder"
+      ]
+    },
+    {
+      "c": "Add operations without changing element classes",
+      "a": "Visitor",
+      "d": [
+        "Decorator",
+        "Iterator",
+        "Interpreter"
+      ],
+      "ex": "Visitor relies on double dispatch."
+    },
+    {
+      "c": "GoF maxim about reuse",
+      "a": "favor object composition over class inheritance",
+      "d": [
+        "favor class inheritance over object composition",
+        "favor global state over passing parameters"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Patterns are a shared vocabulary",
+    "text": [
+      "In 1994 Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, the Gang of Four, published 23 object-oriented design patterns. Their real gift was names. Saying \"wrap it in an adapter\" or \"make the pricing rule a strategy\" tells a teammate the structure you have in mind in a few words.",
+      "Several patterns look alike in code and differ only in intent, so learning the intent is the point. Adapter, Decorator, and Proxy all wrap another object. An adapter changes the interface so incompatible code can work together. A decorator keeps the interface and adds behavior, and decorators can be stacked. A proxy keeps the interface and controls access, for example by loading the real object lazily or checking permissions first. A facade is different again: it offers one simple interface over a whole subsystem.",
+      "Strategy and State are another lookalike pair. Both delegate work to a swappable object. With Strategy the client picks the algorithm, such as a sorting or pricing rule. With State the object switches its own behavior as its situation changes, such as a document moving from draft to published. Template Method solves a similar problem through inheritance rather than delegation, fixing the outline of an algorithm and letting subclasses fill in steps.",
+      "Patterns are tools, not goals. Forcing one where a plain function would do adds complexity without benefit."
+    ],
+    "q": [
+      {
+        "q": "How does a decorator differ from an adapter?",
+        "o": [
+          "A decorator converts to a new interface",
+          "A decorator keeps the interface and adds behavior",
+          "A decorator controls access to a remote object"
+        ],
+        "k": 1
+      },
+      {
+        "q": "In the State pattern, what triggers a change of behavior?",
+        "o": [
+          "The client picks a new algorithm",
+          "A subclass overrides a step",
+          "The object's own situation changes"
+        ],
+        "k": 2
+      },
+      {
+        "q": "How does Template Method differ from Strategy?",
+        "o": [
+          "It uses inheritance rather than delegation",
+          "It creates objects instead of running algorithms",
+          "It only works with collections"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

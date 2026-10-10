@@ -1,0 +1,268 @@
+{
+  "title": "The order of the Old Testament books",
+  "note": "English Bibles arrange the 39 Old Testament books in four blocks: Law (Genesis to Deuteronomy), History (Joshua to Esther), Wisdom and Poetry (Job to Song of Solomon), and Prophets (Isaiah to Malachi, Major then Minor). Samuel, Kings and Chronicles each come in two parts. Fill each blank with the book that comes next.",
+  "src": {
+    "t": "The King James Version of the Bible, list of books, Project Gutenberg eBook #10",
+    "u": "https://www.gutenberg.org/ebooks/10"
+  },
+  "items": [
+    {
+      "c": "Genesis, Exodus, ___",
+      "a": "Leviticus",
+      "d": [
+        "Numbers",
+        "Deuteronomy"
+      ]
+    },
+    {
+      "c": "Exodus, Leviticus, ___",
+      "a": "Numbers",
+      "d": [
+        "Deuteronomy",
+        "Joshua"
+      ]
+    },
+    {
+      "c": "Fifth book of the Bible",
+      "a": "Deuteronomy",
+      "d": [
+        "Numbers",
+        "Joshua"
+      ]
+    },
+    {
+      "c": "Numbers, Deuteronomy, ___",
+      "a": "Joshua",
+      "d": [
+        "Judges",
+        "Ruth"
+      ]
+    },
+    {
+      "c": "Joshua, ___, Ruth",
+      "a": "Judges",
+      "d": [
+        "1 Samuel",
+        "Numbers"
+      ]
+    },
+    {
+      "c": "Judges, Ruth, ___",
+      "a": "1 Samuel",
+      "d": [
+        "1 Kings",
+        "Esther"
+      ]
+    },
+    {
+      "c": "1 Samuel, 2 Samuel, ___",
+      "a": "1 Kings",
+      "d": [
+        "1 Chronicles",
+        "Ruth"
+      ]
+    },
+    {
+      "c": "1 Kings, 2 Kings, ___",
+      "a": "1 Chronicles",
+      "d": [
+        "Ezra",
+        "1 Samuel"
+      ]
+    },
+    {
+      "c": "2 Chronicles, ___, Nehemiah",
+      "a": "Ezra",
+      "d": [
+        "Esther",
+        "Ruth"
+      ]
+    },
+    {
+      "c": "Ezra, Nehemiah, ___",
+      "a": "Esther",
+      "d": [
+        "Job",
+        "Ruth"
+      ]
+    },
+    {
+      "c": "Nehemiah, Esther, ___",
+      "a": "Job",
+      "d": [
+        "Psalms",
+        "Proverbs"
+      ]
+    },
+    {
+      "c": "Job, ___, Proverbs",
+      "a": "Psalms",
+      "d": [
+        "Ecclesiastes",
+        "Lamentations"
+      ]
+    },
+    {
+      "c": "Job, Psalms, ___",
+      "a": "Proverbs",
+      "d": [
+        "Ecclesiastes",
+        "Isaiah"
+      ]
+    },
+    {
+      "c": "Proverbs, ___, Song of Solomon",
+      "a": "Ecclesiastes",
+      "d": [
+        "Lamentations",
+        "Job"
+      ]
+    },
+    {
+      "c": "Ecclesiastes, ___, Isaiah",
+      "a": "Song of Solomon",
+      "d": [
+        "Lamentations",
+        "Psalms"
+      ]
+    },
+    {
+      "c": "Ecclesiastes, Song of Solomon, ___",
+      "a": "Isaiah",
+      "d": [
+        "Jeremiah",
+        "Psalms"
+      ]
+    },
+    {
+      "c": "Isaiah, ___, Lamentations",
+      "a": "Jeremiah",
+      "d": [
+        "Ezekiel",
+        "Daniel"
+      ]
+    },
+    {
+      "c": "Jeremiah, ___, Ezekiel",
+      "a": "Lamentations",
+      "d": [
+        "Daniel",
+        "Hosea"
+      ]
+    },
+    {
+      "c": "Lamentations, Ezekiel, ___",
+      "a": "Daniel",
+      "d": [
+        "Hosea",
+        "Isaiah"
+      ]
+    },
+    {
+      "c": "Ezekiel, Daniel, ___",
+      "a": "Hosea",
+      "d": [
+        "Joel",
+        "Malachi"
+      ]
+    },
+    {
+      "c": "Hosea, ___, Amos",
+      "a": "Joel",
+      "d": [
+        "Obadiah",
+        "Micah"
+      ]
+    },
+    {
+      "c": "Joel, Amos, ___",
+      "a": "Obadiah",
+      "d": [
+        "Jonah",
+        "Nahum"
+      ]
+    },
+    {
+      "c": "Obadiah, ___, Micah",
+      "a": "Jonah",
+      "d": [
+        "Nahum",
+        "Joel"
+      ]
+    },
+    {
+      "c": "Jonah, ___, Nahum",
+      "a": "Micah",
+      "d": [
+        "Habakkuk",
+        "Amos"
+      ]
+    },
+    {
+      "c": "Jonah, Micah, ___",
+      "a": "Nahum",
+      "d": [
+        "Habakkuk",
+        "Obadiah"
+      ]
+    },
+    {
+      "c": "Nahum, ___, Zephaniah",
+      "a": "Habakkuk",
+      "d": [
+        "Haggai",
+        "Micah"
+      ]
+    },
+    {
+      "c": "Habakkuk, ___, Haggai",
+      "a": "Zephaniah",
+      "d": [
+        "Zechariah",
+        "Nahum"
+      ]
+    },
+    {
+      "c": "Habakkuk, Zephaniah, ___",
+      "a": "Haggai",
+      "d": [
+        "Zechariah",
+        "Malachi"
+      ]
+    },
+    {
+      "c": "Haggai, ___, Malachi",
+      "a": "Zechariah",
+      "d": [
+        "Zephaniah",
+        "Nahum"
+      ]
+    },
+    {
+      "c": "Number of Old Testament history books",
+      "a": "12",
+      "d": [
+        "5",
+        "17"
+      ],
+      "ex": "Joshua, Judges, Ruth, 1 and 2 Samuel, 1 and 2 Kings, 1 and 2 Chronicles, Ezra, Nehemiah, Esther."
+    },
+    {
+      "c": "Old Testament books named after women",
+      "a": "Ruth and Esther",
+      "d": [
+        "Ruth and Deborah",
+        "Esther and Miriam"
+      ]
+    },
+    {
+      "c": "Why Ruth comes right after Judges",
+      "a": "its story is set in the days of the judges",
+      "d": [
+        "Ruth was the last of the judges",
+        "it was written by the same judge"
+      ],
+      "ex": "Ruth 1:1 opens 'in the days when the judges ruled.'"
+    }
+  ]
+}

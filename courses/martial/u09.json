@@ -1,0 +1,327 @@
+{
+  "title": "Karate and taekwondo",
+  "note": "Karate, the empty hand, grew up in Okinawa and is trained through kihon (basics), kata (forms), and kumite (sparring). Taekwondo, the way of foot and fist, is Korean and famous for kicking; its forms are poomsae and its sparring kyorugi. Both run on scored, rule-bound competition and colored-belt then black-belt ranks.",
+  "src": {
+    "t": "World Karate Federation, What is kumite?",
+    "u": "https://www.wkf.net/news-center-new/olympic-games-karate-competition-what-is-kumite/1631"
+  },
+  "items": [
+    {
+      "c": "Literal meaning of karate",
+      "a": "empty hand",
+      "d": [
+        "gentle way",
+        "foot and fist"
+      ]
+    },
+    {
+      "c": "Island where karate developed",
+      "a": "Okinawa",
+      "d": [
+        "Hokkaido",
+        "Taiwan"
+      ]
+    },
+    {
+      "c": "Founder of Shotokan karate",
+      "a": "Gichin Funakoshi",
+      "d": [
+        "Chojun Miyagi",
+        "Jigoro Kano"
+      ]
+    },
+    {
+      "c": "Founder of Goju-ryu karate",
+      "a": "Chojun Miyagi",
+      "d": [
+        "Gichin Funakoshi",
+        "Hironori Otsuka"
+      ]
+    },
+    {
+      "c": "Goju-ryu name means",
+      "a": "hard-soft style",
+      "d": [
+        "empty-hand style",
+        "peace-harmony style"
+      ]
+    },
+    {
+      "c": "Kihon",
+      "a": "basic techniques drilled repeatedly",
+      "d": [
+        "prearranged solo forms",
+        "free sparring"
+      ]
+    },
+    {
+      "c": "Kata",
+      "a": "prearranged sequences of techniques, done solo",
+      "d": [
+        "free sparring with a partner",
+        "basic stances only"
+      ]
+    },
+    {
+      "c": "Kumite",
+      "a": "sparring with a partner",
+      "d": [
+        "solo forms",
+        "breaking boards"
+      ]
+    },
+    {
+      "c": "Tsuki, or -zuki, in karate",
+      "a": "a punch or thrust",
+      "d": [
+        "a kick",
+        "a block"
+      ]
+    },
+    {
+      "c": "Geri, in karate",
+      "a": "a kick",
+      "d": [
+        "a punch",
+        "a stance"
+      ]
+    },
+    {
+      "c": "Uke, in karate technique names",
+      "a": "a block, or receiving technique",
+      "d": [
+        "a kick",
+        "a sweep"
+      ]
+    },
+    {
+      "c": "Mae-geri",
+      "a": "front kick",
+      "d": [
+        "roundhouse kick",
+        "side kick"
+      ]
+    },
+    {
+      "c": "Mawashi-geri",
+      "a": "roundhouse kick",
+      "d": [
+        "front kick",
+        "back kick"
+      ]
+    },
+    {
+      "c": "Yoko-geri",
+      "a": "side kick",
+      "d": [
+        "front kick",
+        "roundhouse kick"
+      ]
+    },
+    {
+      "c": "Gyaku-zuki",
+      "a": "reverse punch, with the rear hand",
+      "d": [
+        "lunge punch, with the lead hand",
+        "rising block"
+      ]
+    },
+    {
+      "c": "Zenkutsu-dachi",
+      "a": "front stance",
+      "d": [
+        "horse stance",
+        "back stance"
+      ]
+    },
+    {
+      "c": "Kiba-dachi",
+      "a": "horse stance",
+      "d": [
+        "front stance",
+        "cat stance"
+      ]
+    },
+    {
+      "c": "WKF kumite: kick to the head scores",
+      "a": "ippon, 3 points",
+      "d": [
+        "waza-ari, 2 points",
+        "yuko, 1 point"
+      ]
+    },
+    {
+      "c": "WKF kumite: kick to the body scores",
+      "a": "waza-ari, 2 points",
+      "d": [
+        "ippon, 3 points",
+        "yuko, 1 point"
+      ]
+    },
+    {
+      "c": "WKF kumite: punch to head or body scores",
+      "a": "yuko, 1 point",
+      "d": [
+        "waza-ari, 2 points",
+        "ippon, 3 points"
+      ]
+    },
+    {
+      "c": "WKF senshu",
+      "a": "tie-break edge for the first unopposed score",
+      "d": [
+        "a penalty for stepping out",
+        "the judges' flag decision"
+      ]
+    },
+    {
+      "c": "Literal meaning of taekwondo",
+      "a": "the way of the foot and fist",
+      "d": [
+        "the empty hand",
+        "the gentle way"
+      ]
+    },
+    {
+      "c": "Poomsae",
+      "a": "forms, prearranged patterns in taekwondo",
+      "d": [
+        "sparring",
+        "breaking"
+      ]
+    },
+    {
+      "c": "Kyorugi",
+      "a": "taekwondo sparring",
+      "d": [
+        "taekwondo forms",
+        "the taekwondo uniform"
+      ]
+    },
+    {
+      "c": "Dobok",
+      "a": "the taekwondo uniform",
+      "d": [
+        "the taekwondo training hall",
+        "the taekwondo belt test"
+      ]
+    },
+    {
+      "c": "Dojang",
+      "a": "the taekwondo training hall",
+      "d": [
+        "the taekwondo uniform",
+        "a taekwondo form"
+      ]
+    },
+    {
+      "c": "Taegeuk",
+      "a": "the set of eight beginner poomsae",
+      "d": [
+        "the black belt sparring rules",
+        "the uniform's chest emblem"
+      ]
+    },
+    {
+      "c": "Dollyeo chagi",
+      "a": "the taekwondo roundhouse kick",
+      "d": [
+        "the taekwondo front kick",
+        "the taekwondo back kick"
+      ]
+    },
+    {
+      "c": "Ap chagi",
+      "a": "the taekwondo front kick",
+      "d": [
+        "the taekwondo side kick",
+        "the taekwondo axe kick"
+      ]
+    },
+    {
+      "c": "Dwi chagi",
+      "a": "the taekwondo back kick",
+      "d": [
+        "the taekwondo front kick",
+        "the taekwondo roundhouse kick"
+      ]
+    },
+    {
+      "c": "World Taekwondo: punch to the trunk protector",
+      "a": "1 point",
+      "d": [
+        "2 points",
+        "3 points"
+      ]
+    },
+    {
+      "c": "World Taekwondo: kick to the trunk protector",
+      "a": "2 points",
+      "d": [
+        "1 point",
+        "4 points"
+      ]
+    },
+    {
+      "c": "World Taekwondo: plain kick to the head",
+      "a": "3 points",
+      "d": [
+        "2 points",
+        "5 points"
+      ]
+    },
+    {
+      "c": "World Taekwondo gam-jeom",
+      "a": "a penalty giving the opponent 1 point",
+      "d": [
+        "a 3-point head kick",
+        "the referee's call to begin"
+      ]
+    },
+    {
+      "c": "Kukkiwon",
+      "a": "taekwondo's headquarters in Seoul that certifies dan ranks",
+      "d": [
+        "the Olympic taekwondo rule book",
+        "the first taekwondo form"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Two striking arts, two scoring systems",
+    "text": [
+      "Karate grew up in Okinawa, where local fighting methods mixed with Chinese influences, and reached mainland Japan in the early twentieth century through teachers such as Gichin Funakoshi, founder of Shotokan. Its training rests on three pillars: kihon, the basics drilled over and over; kata, prearranged solo sequences that store technique and principle; and kumite, sparring.",
+      "World Karate Federation kumite rewards control and clean contact. A punch scores yuko, 1 point; a kick to the body scores waza-ari, 2; a kick to the head, or a score on a thrown or fallen opponent, earns ippon, 3. If points are level, senshu gives the edge to whoever scored first unopposed.",
+      "Taekwondo, a Korean art whose name means the way of foot and fist, is best known for fast, high kicks. Students practice poomsae, the forms, and kyorugi, sparring. In World Taekwondo competition, electronic sensors help register hits: a punch to the trunk protector scores 1 point, a kick to it 2, and a kick to the head 3, with more for spinning kicks. Each gam-jeom penalty hands the opponent a point."
+    ],
+    "q": [
+      {
+        "q": "What does a kick to the head earn in WKF kumite?",
+        "o": [
+          "Yuko, 1 point",
+          "Ippon, 3 points",
+          "Waza-ari, 2 points"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What are taekwondo's forms called?",
+        "o": [
+          "Poomsae",
+          "Kyorugi",
+          "Kumite"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What happens when a taekwondo athlete receives a gam-jeom?",
+        "o": [
+          "The bout ends",
+          "The athlete gains a point",
+          "The opponent gains a point"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

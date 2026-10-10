@@ -1,0 +1,56 @@
+{
+  "title": "Ecology and ecosystems",
+  "note": "Ecology runs from populations to communities to ecosystems. Populations grow until resources limit them at carrying capacity. In ecosystems, energy flows one way, from sunlight through producers and consumers, and is lost as heat at each step, while matter such as carbon and nitrogen cycles.",
+  "src": { "t": "OpenStax Biology 2e, Ch. 46: Ecosystems (with Ch. 45: Population and Community Ecology)", "u": "https://openstax.org/books/biology-2e/pages/46-introduction" },
+  "items": [
+    { "c": "Ecology", "a": "Study of how organisms interact with each other and their environment", "d": ["Study of how cells divide and grow", "Study of fossils and Earth's history"] },
+    { "c": "Population (ecology)", "a": "Members of one species living in one area", "d": ["All species living in one area", "All species plus their physical environment"] },
+    { "c": "Community (ecology)", "a": "All the populations of different species in an area", "d": ["Members of one species in an area", "A region defined by climate alone"] },
+    { "c": "Ecosystem", "a": "A community plus its physical environment", "d": ["Members of one species in one area", "All the alleles in a population"] },
+    { "c": "Abiotic factor", "a": "Nonliving influence such as temperature or water", "d": ["Living influence such as predators", "Gene that affects survival"] },
+    { "c": "Biotic factor", "a": "Living influence such as predators or competitors", "d": ["Nonliving influence such as sunlight", "Rock layer that stores nutrients"] },
+    { "c": "Exponential growth", "a": "J-shaped growth when resources are unlimited", "d": ["S-shaped growth that levels off", "Steady decline toward extinction"] },
+    { "c": "Logistic growth", "a": "S-shaped growth that levels off at carrying capacity", "d": ["J-shaped growth with unlimited resources", "Boom-and-bust cycles with no limit"] },
+    { "c": "Carrying capacity (K)", "a": "Largest population an environment can sustain", "d": ["Fastest possible growth rate of a population", "Number of species in a community"] },
+    { "c": "Density-dependent factor", "a": "Limit that strengthens as crowding rises, like disease", "d": ["Limit that acts regardless of density, like a flood", "Factor that only affects plants"] },
+    { "c": "Density-independent factor", "a": "Limit that acts regardless of density, like a wildfire", "d": ["Limit that strengthens with crowding, like competition", "Factor that only affects predators"] },
+    { "c": "Ecological niche", "a": "A species' role and use of resources in its environment", "d": ["The physical address where a species lives", "The number of offspring a species has"] },
+    { "c": "Competitive exclusion principle", "a": "Two species cannot share the exact same niche indefinitely", "d": ["Predators always outnumber prey", "Every species has exactly one predator"] },
+    { "c": "Mutualism", "a": "Both species benefit", "d": ["One benefits, the other is unaffected", "One benefits at the other's expense"], "ex": "Pollinators and flowering plants." },
+    { "c": "Commensalism", "a": "One species benefits, the other is unaffected", "d": ["Both species benefit", "One benefits at the other's expense"] },
+    { "c": "Parasitism", "a": "One species benefits at the other's expense", "d": ["Both species benefit", "One benefits, the other is unaffected"] },
+    { "c": "Keystone species", "a": "Species with an outsized effect on its community's structure", "d": ["The most abundant species in a community", "The first species to colonize bare rock"] },
+    { "c": "Primary succession", "a": "Community develops on new ground with no soil", "d": ["Community recovers where soil remains", "A climax community changes its climate"], "ex": "For example, on cooled lava." },
+    { "c": "Secondary succession", "a": "Community recovers after disturbance where soil remains", "d": ["Community develops on bare rock with no soil", "Species leave a stable community"], "ex": "For example, a forest regrowing after a fire." },
+    { "c": "Pioneer species", "a": "First organisms to colonize a newly exposed area", "d": ["Top predators of a mature community", "Species that only arrive at the climax stage"] },
+    { "c": "Primary producer", "a": "Autotroph at the base of a food chain", "d": ["Herbivore that eats plants", "Organism that breaks down dead matter"] },
+    { "c": "Primary consumer", "a": "Herbivore that eats producers", "d": ["Carnivore that eats herbivores", "Autotroph that makes its own food"] },
+    { "c": "Decomposer", "a": "Breaks down dead matter and recycles nutrients", "d": ["Captures sunlight to make sugar", "Eats only living herbivores"] },
+    { "c": "Chemoautotroph", "a": "Makes food using energy from inorganic chemicals", "d": ["Makes food using energy from sunlight", "Gets energy by eating other organisms"], "ex": "Example: bacteria at deep-sea vents using hydrogen sulfide." },
+    { "c": "Gross primary productivity", "a": "Rate at which producers capture energy", "d": ["Energy producers retain after respiration", "Energy passed to top predators"] },
+    { "c": "Net primary productivity", "a": "Energy producers retain after their own respiration", "d": ["Total energy producers capture", "Energy lost by consumers as heat"] },
+    { "c": "Why food chains rarely exceed a few links", "a": "Much energy is lost, mostly as heat, at each transfer", "d": ["Predators cannot digest herbivores", "Nutrients are destroyed at each level"] },
+    { "c": "Ecological pyramid that is always upright", "a": "Pyramid of energy", "d": ["Pyramid of biomass", "Pyramid of numbers"] },
+    { "c": "Biomagnification", "a": "Persistent toxins concentrate at higher trophic levels", "d": ["Energy increases at higher trophic levels", "Populations grow faster at lower levels"], "ex": "DDT, PCBs, and mercury build up in top predators." },
+    { "c": "Food web", "a": "Interconnected food chains in an ecosystem", "d": ["A single linear feeding path", "A graph of population growth"] },
+    { "c": "Process that removes CO2 from the air", "a": "Photosynthesis", "d": ["Cellular respiration", "Decomposition"] },
+    { "c": "Nitrogen fixation", "a": "Converting N2 gas into ammonia", "d": ["Converting nitrate into N2 gas", "Converting ammonia into proteins"], "ex": "Done by certain bacteria, some in legume root nodules." },
+    { "c": "Denitrification", "a": "Bacteria convert nitrate back into N2 gas", "d": ["Bacteria convert N2 gas into ammonia", "Plants absorb nitrate from soil"] },
+    { "c": "Largest reservoir of nitrogen", "a": "The atmosphere, as N2 gas", "d": ["Living organisms", "Ocean sediments"] },
+    { "c": "The phosphorus cycle lacks…", "a": "a significant gas phase in the atmosphere", "d": ["any role in living cells", "a reservoir in rocks"] },
+    { "c": "Eutrophication", "a": "Nutrient runoff causes algal blooms and oxygen loss", "d": ["Soil gains nitrogen from legumes", "Toxins concentrate in top predators"] }
+  ],
+  "read": {
+    "title": "Energy flows, matter cycles",
+    "text": [
+      "Every ecosystem runs on two kinds of movement. The first is the flow of energy. Sunlight is captured by producers such as plants and algae, which store it in sugars. Herbivores eat the producers, carnivores eat the herbivores, and decomposers break down whatever dies. At each step, organisms use most of the energy they take in to stay alive, and that energy leaves as heat. Only a small fraction is stored in new tissue that the next level can eat.",
+      "Because so much energy is lost at each transfer, a pyramid of energy always narrows toward the top, and food chains rarely run beyond four to six levels. It also explains why large predators are scarce compared with the plants that ultimately support them. Energy does not cycle; an ecosystem needs a constant new supply from the sun or, at deep-sea vents, from chemicals.",
+      "The second movement is the cycling of matter. Carbon is pulled from the air by photosynthesis and returned by respiration and decay. Nitrogen gas, plentiful in the atmosphere, is useless to most organisms until bacteria fix it into ammonia. Phosphorus moves mostly through rock, soil, and water. Atoms are reused again and again, so the same carbon may pass through a tree, a deer, and a fungus."
+    ],
+    "q": [
+      { "q": "Why are large predators scarce compared with plants?", "o": ["Predators reproduce slowly", "Most energy is lost as heat at each feeding level", "Plants contain no usable energy"], "k": 1 },
+      { "q": "What is the difference between energy and matter in ecosystems?", "o": ["Energy cycles; matter flows one way", "Energy flows one way; matter cycles", "Both cycle endlessly"], "k": 1 },
+      { "q": "How does nitrogen become usable to most organisms?", "o": ["Bacteria fix N2 into ammonia", "Plants absorb N2 gas directly", "It is released from rocks by weathering"], "k": 0 }
+    ]
+  }
+}

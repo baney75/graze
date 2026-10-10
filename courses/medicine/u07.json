@@ -1,0 +1,328 @@
+{
+ "title": "Drug classes I: heart, blood vessels, clotting and metabolism",
+ "note": "Most drug classes act on one well-defined target: a receptor, an enzyme or a transporter. Name endings often signal the class: -olol (beta blockers), -pril (ACE inhibitors), -sartan (ARBs), -statin (statins), -xaban (factor Xa inhibitors). Knowing the target predicts both the main effect and the classic side effects.",
+ "src": {
+  "t": "OpenStax Pharmacology for Nurses (LibreTexts), Ch. 18 Antihypertensive and Antianginal Drugs",
+  "u": "https://med.libretexts.org/Bookshelves/Nursing/Pharmacology_for_Nurses_(Openstax)/18%3A_Antihypertensive_and_Antianginal_Drugs"
+ },
+ "items": [
+  {
+   "c": "Drug-name ending for beta blockers",
+   "a": "-olol",
+   "d": [
+    "-pril",
+    "-sartan"
+   ]
+  },
+  {
+   "c": "Drug-name ending for ACE inhibitors",
+   "a": "-pril",
+   "d": [
+    "-olol",
+    "-xaban"
+   ]
+  },
+  {
+   "c": "Drug-name ending for ARBs",
+   "a": "-sartan",
+   "d": [
+    "-pril",
+    "-statin"
+   ]
+  },
+  {
+   "c": "Beta blockers block",
+   "a": "Beta-adrenergic receptors for epinephrine and norepinephrine",
+   "d": [
+    "Muscarinic receptors for acetylcholine",
+    "Angiotensin II receptors"
+   ]
+  },
+  {
+   "c": "Beta-1 receptors are found mainly in the",
+   "a": "Heart and kidneys",
+   "d": [
+    "Bronchial smooth muscle",
+    "Skeletal muscle"
+   ]
+  },
+  {
+   "c": "Effect of beta-1 blockade on the heart",
+   "a": "Lower heart rate and contractility",
+   "d": [
+    "Higher heart rate and contractility",
+    "No change in rate, only rhythm"
+   ]
+  },
+  {
+   "c": "Why nonselective beta blockers are risky in asthma",
+   "a": "Blocking beta-2 receptors can narrow the airways",
+   "d": [
+    "They raise blood glucose sharply",
+    "They dilate the airways too much"
+   ]
+  },
+  {
+   "c": "Cardioselective (beta-1 selective) blocker",
+   "a": "Metoprolol",
+   "d": [
+    "Propranolol",
+    "Lisinopril"
+   ]
+  },
+  {
+   "c": "ACE inhibitors block",
+   "a": "Conversion of angiotensin I to angiotensin II",
+   "d": [
+    "Conversion of angiotensinogen to angiotensin I",
+    "Binding of angiotensin II to its receptor"
+   ]
+  },
+  {
+   "c": "Main effects of angiotensin II",
+   "a": "Vasoconstriction and aldosterone release",
+   "d": [
+    "Vasodilation and sodium excretion",
+    "Bronchodilation and faster heart rate"
+   ]
+  },
+  {
+   "c": "ACE inhibitor side effect linked to bradykinin",
+   "a": "Persistent dry cough",
+   "d": [
+    "Ankle swelling",
+    "Slow heart rate"
+   ]
+  },
+  {
+   "c": "Rare but dangerous ACE inhibitor reaction",
+   "a": "Angioedema (swelling of lips, tongue, airway)",
+   "d": [
+    "Severe low blood sugar",
+    "Bleeding from the gums"
+   ]
+  },
+  {
+   "c": "Electrolyte that ACE inhibitors can raise",
+   "a": "Potassium",
+   "d": [
+    "Sodium",
+    "Calcium"
+   ]
+  },
+  {
+   "c": "How ARBs such as losartan work",
+   "a": "Block angiotensin II at its AT1 receptor",
+   "d": [
+    "Block the ACE enzyme",
+    "Block beta-1 receptors"
+   ]
+  },
+  {
+   "c": "Calcium channel blockers lower blood pressure by",
+   "a": "Relaxing arterial smooth muscle",
+   "d": [
+    "Increasing urine sodium loss in the loop",
+    "Blocking aldosterone receptors"
+   ]
+  },
+  {
+   "c": "Where loop diuretics such as furosemide act",
+   "a": "Thick ascending limb of the loop of Henle",
+   "d": [
+    "Proximal convoluted tubule",
+    "Collecting duct"
+   ]
+  },
+  {
+   "c": "Thiazide diuretics block",
+   "a": "Na-Cl reabsorption in the distal convoluted tubule",
+   "d": [
+    "Na-K-2Cl transport in the loop of Henle",
+    "Water channels in the collecting duct"
+   ]
+  },
+  {
+   "c": "Nitroglycerin relieves angina by",
+   "a": "Releasing nitric oxide, which dilates vessels",
+   "d": [
+    "Blocking beta-1 receptors",
+    "Dissolving coronary clots"
+   ]
+  },
+  {
+   "c": "Statins inhibit",
+   "a": "HMG-CoA reductase",
+   "d": [
+    "Cyclooxygenase",
+    "Angiotensin-converting enzyme"
+   ]
+  },
+  {
+   "c": "Why statins lower blood LDL",
+   "a": "Liver cells make less cholesterol and add LDL receptors",
+   "d": [
+    "They bind cholesterol in the gut",
+    "They dissolve plaque in artery walls"
+   ]
+  },
+  {
+   "c": "Statin adverse effect to monitor",
+   "a": "Muscle pain or muscle damage",
+   "d": [
+    "Dry cough",
+    "Hearing loss"
+   ]
+  },
+  {
+   "c": "Insulin lowers blood glucose mainly by",
+   "a": "Moving glucose into muscle and fat via GLUT4",
+   "d": [
+    "Increasing glucose loss in urine",
+    "Blocking glucose absorption in the gut"
+   ]
+  },
+  {
+   "c": "Rapid-acting insulin",
+   "a": "Insulin lispro",
+   "d": [
+    "Insulin glargine",
+    "NPH insulin"
+   ]
+  },
+  {
+   "c": "Long-acting basal insulin",
+   "a": "Insulin glargine",
+   "d": [
+    "Insulin lispro",
+    "Regular insulin"
+   ]
+  },
+  {
+   "c": "Main danger of too much insulin",
+   "a": "Hypoglycemia (low blood glucose)",
+   "d": [
+    "Hyperkalemia (high potassium)",
+    "Hypertension (high blood pressure)"
+   ]
+  },
+  {
+   "c": "Metformin's main action",
+   "a": "Reduces glucose production by the liver",
+   "d": [
+    "Stimulates insulin release from beta cells",
+    "Replaces missing insulin"
+   ]
+  },
+  {
+   "c": "How heparin prevents clotting",
+   "a": "Boosts antithrombin to inactivate thrombin and factor Xa",
+   "d": [
+    "Blocks vitamin K recycling",
+    "Irreversibly blocks platelet COX"
+   ]
+  },
+  {
+   "c": "Reversal agent for heparin",
+   "a": "Protamine sulfate",
+   "d": [
+    "Vitamin K",
+    "Naloxone"
+   ]
+  },
+  {
+   "c": "How warfarin prevents clotting",
+   "a": "Blocks vitamin K recycling, lowering factors II, VII, IX, X",
+   "d": [
+    "Activates antithrombin directly",
+    "Inhibits factor Xa directly"
+   ]
+  },
+  {
+   "c": "Lab test used to monitor warfarin",
+   "a": "INR (prothrombin time)",
+   "d": [
+    "A1C",
+    "Troponin"
+   ]
+  },
+  {
+   "c": "Reversal agent for warfarin",
+   "a": "Vitamin K",
+   "d": [
+    "Protamine sulfate",
+    "Flumazenil"
+   ]
+  },
+  {
+   "c": "Apixaban and rivaroxaban",
+   "a": "Direct factor Xa inhibitors",
+   "d": [
+    "Vitamin K antagonists",
+    "Direct thrombin inhibitors"
+   ]
+  },
+  {
+   "c": "Dabigatran",
+   "a": "Direct thrombin inhibitor",
+   "d": [
+    "Direct factor Xa inhibitor",
+    "Platelet P2Y12 blocker"
+   ]
+  },
+  {
+   "c": "Low-dose aspirin prevents clots by",
+   "a": "Irreversibly blocking platelet COX, cutting thromboxane",
+   "d": [
+    "Activating antithrombin",
+    "Dissolving fibrin in existing clots"
+   ]
+  },
+  {
+   "c": "Thrombolytics such as alteplase",
+   "a": "Convert plasminogen to plasmin to dissolve clots",
+   "d": [
+    "Prevent new clots by blocking vitamin K",
+    "Stop platelets from sticking"
+   ]
+  }
+ ],
+ "read": {
+  "title": "One hormone system, three drug targets",
+  "text": [
+   "The renin–angiotensin–aldosterone system shows how one pathway can be blocked at several points. When blood pressure or kidney blood flow falls, the kidney releases renin. Renin cuts angiotensinogen, a liver protein, into angiotensin I. Angiotensin-converting enzyme, found largely in the lungs, then turns angiotensin I into angiotensin II, which constricts arteries and triggers aldosterone release, so the kidneys retain sodium and water.",
+   "ACE inhibitors such as lisinopril block the converting step, lowering angiotensin II. ACE also breaks down bradykinin, so blocking it lets bradykinin build up, which is linked to the dry cough and, rarely, the swelling called angioedema. Angiotensin II receptor blockers such as losartan act one step later, blocking the receptor itself; they cause cough much less often because bradykinin is unaffected. Beta blockers act upstream by reducing renin release from the kidney, as well as by slowing the heart.",
+   "Because aldosterone normally promotes potassium loss, both ACE inhibitors and ARBs can raise blood potassium, which clinicians monitor."
+  ],
+  "q": [
+   {
+    "q": "Why do ACE inhibitors cause cough more often than ARBs?",
+    "o": [
+     "ACE inhibitors let bradykinin accumulate",
+     "ARBs are inhaled",
+     "ACE inhibitors irritate the stomach",
+     "ARBs block histamine"
+    ],
+    "k": 0
+   },
+   {
+    "q": "Where do ARBs act in the pathway?",
+    "o": [
+     "On renin release",
+     "On the converting enzyme",
+     "On the angiotensin II receptor"
+    ],
+    "k": 2
+   },
+   {
+    "q": "Why can ACE inhibitors raise blood potassium?",
+    "o": [
+     "They contain potassium",
+     "They reduce aldosterone, which normally promotes potassium loss",
+     "They destroy red blood cells"
+    ],
+    "k": 1
+   }
+  ]
+ }
+}

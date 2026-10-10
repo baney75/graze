@@ -1,0 +1,54 @@
+{
+  "title": "Eyes and ears",
+  "note": "Eye: ophthalm/o or ocul/o (eye), opt/o (vision), blephar/o (eyelid), kerat/o (cornea), irid/o (iris), retin/o (retina); -opia means vision. Ear: ot/o or aur/i (ear), audi/o or acous/o (hearing), tympan/o or myring/o (eardrum). Note kerat/o: cornea in the eye, horny tissue in the skin.",
+  "src": { "t": "Medical Terminology 2e (Open RN), 15.2 Word Components Related to the Sensory Systems", "u": "https://med.libretexts.org/Bookshelves/Medicine/Medical_Terminology_2e_(OpenRN)/15%3A_Sensory_System_Terminology/15.02%3A_Word_Components_Related_to_the_Sensory_Systems" },
+  "items": [
+    { "c": "ophthalm/o, ocul/o", "a": "eye", "d": ["ear", "eyelid"] },
+    { "c": "opt/o", "a": "vision", "d": ["light", "eyelid"] },
+    { "c": "blephar/o", "a": "eyelid", "d": ["eyebrow", "tear duct"] },
+    { "c": "kerat/itis", "a": "inflammation of the cornea", "d": ["inflammation of the eyelid", "inflammation of the conjunctiva"] },
+    { "c": "irid/o, ir/o", "a": "iris", "d": ["pupil", "retina"] },
+    { "c": "core/o, pupill/o", "a": "pupil", "d": ["iris", "lens"] },
+    { "c": "retin/o", "a": "retina", "d": ["cornea", "sclera"] },
+    { "c": "conjunctiv/o", "a": "conjunctiva", "d": ["cornea", "choroid"], "ex": "The thin membrane lining the eyelids and covering the white of the eye." },
+    { "c": "scler/o", "a": "sclera (white of the eye); hardening", "d": ["cornea (clear front of the eye); softening", "iris (colored ring); dryness"] },
+    { "c": "phac/o, phak/o", "a": "lens", "d": ["pupil", "cornea"] },
+    { "c": "dacry/o, lacrim/o", "a": "tear, tear duct", "d": ["eyelid", "sweat"] },
+    { "c": "phot/o", "a": "light", "d": ["color", "sound"] },
+    { "c": "-opia", "a": "vision condition", "d": ["hearing condition", "eye pain"] },
+    { "c": "dipl/opia", "a": "double vision", "d": ["dim vision", "loss of near focus"] },
+    { "c": "my/opia", "a": "nearsightedness", "d": ["farsightedness", "double vision"] },
+    { "c": "hyper/opia", "a": "farsightedness", "d": ["nearsightedness", "night blindness"] },
+    { "c": "presby/opia", "a": "age-related loss of near focusing", "d": ["clouding of the lens", "sensitivity to light"], "ex": "presby/o means old age." },
+    { "c": "blephar/itis", "a": "inflammation of the eyelid", "d": ["inflammation of the cornea", "drooping of the eyelid"] },
+    { "c": "ton/o/meter", "a": "instrument that measures eye pressure", "d": ["instrument for viewing the retina", "instrument that tests hearing"] },
+    { "c": "ophthalm/o/scope", "a": "instrument for viewing the inside of the eye", "d": ["instrument that measures eye pressure", "instrument for viewing the eardrum"] },
+    { "c": "ophthalm/o/logist", "a": "physician specializing in the eye", "d": ["physician specializing in the ear", "physician specializing in the skin"] },
+    { "c": "ot/o, aur/i", "a": "ear", "d": ["eye", "nose"] },
+    { "c": "audi/o, acous/o", "a": "hearing", "d": ["balance", "voice"] },
+    { "c": "tympan/o, myring/o", "a": "eardrum (tympanic membrane)", "d": ["cochlea", "auditory tube"] },
+    { "c": "cochle/o", "a": "cochlea, the snail-shaped hearing organ", "d": ["vestibule, the balance chamber", "stapes, a middle ear bone"] },
+    { "c": "labyrinth/o", "a": "inner ear (labyrinth)", "d": ["middle ear", "outer ear canal"] },
+    { "c": "ossicul/o", "a": "ossicle, a small bone of the middle ear", "d": ["cochlea, the inner ear spiral", "pinna, the outer ear flap"] },
+    { "c": "ot/algia", "a": "ear pain", "d": ["discharge from the ear", "ringing in the ear"] },
+    { "c": "ot/o/rrhea", "a": "discharge from the ear", "d": ["ear pain", "bleeding from the nose"] },
+    { "c": "otitis media", "a": "inflammation of the middle ear", "d": ["inflammation of the outer ear canal", "inflammation of the inner ear"] },
+    { "c": "myring/otomy", "a": "incision into the eardrum", "d": ["surgical repair of the eardrum", "removal of a middle ear bone"] },
+    { "c": "audi/o/metry", "a": "measurement of hearing", "d": ["measurement of eye pressure", "visual examination of the ear"] },
+    { "c": "presby/cusis", "a": "age-related hearing loss", "d": ["age-related loss of near vision", "ringing in the ears"] },
+    { "c": "Three bones of the middle ear", "a": "malleus, incus, stapes", "d": ["cochlea, vestibule, canals", "pinna, canal, eardrum"] }
+  ],
+  "read": {
+    "title": "Two senses, two vocabularies",
+    "text": [
+      "The eye and the ear each have a Greek and a Latin root. The eye is ophthalm/o or ocul/o; the ear is ot/o or aur/i. A specialist in the eye is an ophthalmologist, and the instrument for looking inside the eye is an ophthalmoscope.",
+      "Light enters the eye through the cornea, the clear front window, then passes through the pupil, the opening in the colored iris, and is focused by the cornea and lens onto the retina at the back. The white outer coat is the sclera. Notice that kerat/o means cornea in eye terms, while in skin terms it refers to hard, horny tissue, and scler/o can mean the sclera or simply hardening. Vision terms end in -opia: myopia is nearsightedness, hyperopia farsightedness, and diplopia double vision.",
+      "Sound travels down the outer ear canal to the eardrum, the tympanic membrane (tympan/o, myring/o). Three tiny bones, the ossicles, pass the vibration across the middle ear to the cochlea in the inner ear, where it becomes a nerve signal. Hearing roots are audi/o and acous/o, so audiometry measures hearing and presbycusis is hearing loss that comes with age."
+    ],
+    "q": [
+      { "q": "Which structure is the colored ring around the pupil?", "o": ["The iris", "The sclera", "The retina", "The lens"], "k": 0 },
+      { "q": "What does kerat/o mean in an eye term?", "o": ["Cornea", "Horny tissue", "Eyelid"], "k": 0 },
+      { "q": "Where are sound vibrations turned into nerve signals?", "o": ["In the cochlea", "In the eardrum", "In the ossicles"], "k": 0 }
+    ]
+  }
+}

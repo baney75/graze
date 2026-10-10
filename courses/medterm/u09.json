@@ -1,0 +1,55 @@
+{
+  "title": "Digestive system: the tract and its helpers",
+  "note": "Roots follow the tract: or/o or stomat/o (mouth), esophag/o, gastr/o (stomach), enter/o (intestine), duoden/o, jejun/o, ile/o, col/o (colon), proct/o or rect/o, an/o. Accessory organs: hepat/o (liver), chol/e (bile), cholecyst/o (gallbladder), pancreat/o.",
+  "src": { "t": "Medical Terminology 2e (Open RN), 12.2 Word Components Related to the Digestive System", "u": "https://med.libretexts.org/Bookshelves/Medicine/Medical_Terminology_2e_(OpenRN)/12%3A_Digestive_System_Terminology/12.02%3A_Word_Components_Related_to_the_Digestive_System" },
+  "items": [
+    { "c": "or/o, stomat/o", "a": "mouth", "d": ["lip", "tongue"] },
+    { "c": "gloss/o, lingu/o", "a": "tongue", "d": ["lip", "gum"] },
+    { "c": "cheil/o", "a": "lip", "d": ["gum", "palate"] },
+    { "c": "gingiv/o", "a": "gum", "d": ["tooth", "tongue"] },
+    { "c": "dent/i, odont/o", "a": "tooth", "d": ["gum", "jaw"] },
+    { "c": "sial/o", "a": "saliva, salivary gland", "d": ["bile, gallbladder", "mucus, mucous gland"] },
+    { "c": "esophag/o", "a": "esophagus", "d": ["stomach", "pharynx"] },
+    { "c": "gastr/o", "a": "stomach", "d": ["intestine", "esophagus"] },
+    { "c": "enter/o", "a": "intestine", "d": ["stomach", "rectum"] },
+    { "c": "duoden/o", "a": "duodenum, first part of the small intestine", "d": ["ileum, last part of the small intestine", "cecum, first part of the large intestine"] },
+    { "c": "ile/o", "a": "ileum, last part of the small intestine", "d": ["ilium, upper part of the hip bone", "jejunum, middle part of the small intestine"], "ex": "Spelled with an e for the intestine, an i for the hip bone." },
+    { "c": "col/o, colon/o", "a": "colon (large intestine)", "d": ["small intestine", "rectum"] },
+    { "c": "proct/o, rect/o", "a": "rectum", "d": ["anus", "colon"] },
+    { "c": "an/o", "a": "anus", "d": ["rectum", "cecum"] },
+    { "c": "hepat/o", "a": "liver", "d": ["pancreas", "gallbladder"] },
+    { "c": "chol/e", "a": "bile, gall", "d": ["bladder", "liver"] },
+    { "c": "cholecyst/o", "a": "gallbladder", "d": ["common bile duct", "urinary bladder"] },
+    { "c": "choledoch/o", "a": "common bile duct", "d": ["gallbladder", "pancreatic duct"] },
+    { "c": "pancreat/o", "a": "pancreas", "d": ["spleen", "liver"] },
+    { "c": "lapar/o, celi/o", "a": "abdomen", "d": ["peritoneum", "stomach"] },
+    { "c": "peritone/o", "a": "peritoneum, lining of the abdominal cavity", "d": ["pleura, lining around the lungs", "mesentery, fold holding the intestines"] },
+    { "c": "-phagia", "a": "eating, swallowing", "d": ["digestion", "vomiting"] },
+    { "c": "-emesis", "a": "vomiting", "d": ["swallowing", "digestion"] },
+    { "c": "-lith", "a": "stone", "d": ["pouch", "hernia"] },
+    { "c": "dys/pepsia", "a": "indigestion, difficult digestion", "d": ["difficult swallowing", "absence of appetite"], "ex": "-pepsia means digestion." },
+    { "c": "hemat/emesis", "a": "vomiting blood", "d": ["coughing up blood", "blood in the stool"] },
+    { "c": "chol/e/lith/iasis", "a": "condition of gallstones", "d": ["inflammation of the gallbladder", "condition of kidney stones"] },
+    { "c": "hepat/o/megaly", "a": "enlargement of the liver", "d": ["softening of the liver", "enlargement of the spleen"] },
+    { "c": "gastr/ectomy", "a": "removal of all or part of the stomach", "d": ["incision into the stomach", "opening into the stomach"] },
+    { "c": "cholecyst/ectomy", "a": "removal of the gallbladder", "d": ["removal of a bile duct stone", "incision into the gallbladder"] },
+    { "c": "ile/o/stomy", "a": "opening from the ileum to the abdominal surface", "d": ["incision into the ileum", "removal of the ileum"] },
+    { "c": "lapar/o/scopy", "a": "visual examination of the abdominal cavity", "d": ["visual examination of the colon", "incision into the abdomen"] },
+    { "c": "EGD (esophagogastroduodenoscopy)", "a": "scope exam of the esophagus, stomach and duodenum", "d": ["scope exam of the colon and rectum", "X-ray image of the bile ducts"] },
+    { "c": "sub/lingu/al", "a": "pertaining to under the tongue", "d": ["pertaining to around the mouth", "pertaining to behind the throat"] },
+    { "c": "Order of the small intestine segments", "a": "duodenum, jejunum, ileum", "d": ["jejunum, duodenum, ileum", "ileum, jejunum, duodenum"] }
+  ],
+  "read": {
+    "title": "A tube with helpers",
+    "text": [
+      "The digestive tract is one long tube, and its roots run in the same order food travels. Food enters the mouth (or/o, stomat/o), where the teeth (dent/i, odont/o), tongue (gloss/o, lingu/o) and saliva (sial/o) begin the work. It passes down the esophagus into the stomach (gastr/o), then into the small intestine, whose three parts are the duodenum, jejunum and ileum. The large intestine, most of which is the colon (col/o), absorbs water and ends at the rectum (proct/o, rect/o) and anus (an/o).",
+      "Three accessory organs pour secretions into the tract without food passing through them. The liver (hepat/o) makes bile, which the gallbladder (cholecyst/o, from chol/e for bile and cyst/o for sac) stores. The pancreas (pancreat/o) adds digestive enzymes.",
+      "Two pairs of look-alikes cause frequent errors. The ileum, part of the small intestine, is spelled with an e, while the ilium of the hip is spelled with an i. And -scopy terms name what the scope reaches: laparoscopy looks into the abdominal cavity, and esophagogastroduodenoscopy looks through the esophagus and stomach into the duodenum."
+    ],
+    "q": [
+      { "q": "What are the three parts of the small intestine, in order?", "o": ["Duodenum, jejunum, ileum", "Ileum, cecum, colon", "Jejunum, duodenum, colon"], "k": 0 },
+      { "q": "Which organ stores bile?", "o": ["Gallbladder", "Liver", "Pancreas", "Stomach"], "k": 0 },
+      { "q": "How is the intestinal ileum spelled differently from the hip's ilium?", "o": ["With an e instead of an i", "With a double l", "With a y"], "k": 0 }
+    ]
+  }
+}

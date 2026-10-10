@@ -1,0 +1,53 @@
+{
+  "title": "Days, months and time",
+  "note": "Days and months are masculine and not capitalized. Dates use le + number (le 14 juillet), except le premier for the first. Le lundi means \"on Mondays\"; lundi alone means one particular Monday. Time uses il est ... heure(s): et quart (:15), et demie (:30), moins le quart (:45).",
+  "src": { "t": "Français interactif, Chapitre 1 vocabulaire (la date)", "u": "https://laits.utexas.edu/fi/voc/01/" },
+  "items": [
+    { "c": "lundi", "a": "Monday", "d": ["Tuesday", "Sunday"] },
+    { "c": "mardi", "a": "Tuesday", "d": ["Thursday", "Wednesday"] },
+    { "c": "mercredi", "a": "Wednesday", "d": ["Monday", "Tuesday"] },
+    { "c": "jeudi", "a": "Thursday", "d": ["Tuesday", "Friday"] },
+    { "c": "vendredi", "a": "Friday", "d": ["Saturday", "Thursday"], "ex": "Vendredi soir, je vais au cinéma.", "exT": "Friday evening, I'm going to the movies." },
+    { "c": "samedi", "a": "Saturday", "d": ["Sunday", "Friday"] },
+    { "c": "dimanche", "a": "Sunday", "d": ["Saturday", "Monday"] },
+    { "c": "janvier", "a": "January", "d": ["June", "February"] },
+    { "c": "février", "a": "February", "d": ["January", "April"] },
+    { "c": "mars", "a": "March", "d": ["May", "Tuesday"] },
+    { "c": "avril", "a": "April", "d": ["August", "March"] },
+    { "c": "mai", "a": "May", "d": ["March", "June"] },
+    { "c": "juin", "a": "June", "d": ["July", "January"] },
+    { "c": "juillet", "a": "July", "d": ["June", "August"], "ex": "La fête nationale, c'est le 14 juillet.", "exT": "The national holiday is July 14." },
+    { "c": "août", "a": "August", "d": ["April", "October"] },
+    { "c": "septembre", "a": "September", "d": ["November", "July"] },
+    { "c": "octobre", "a": "October", "d": ["August", "December"] },
+    { "c": "novembre", "a": "November", "d": ["September", "December"] },
+    { "c": "décembre", "a": "December", "d": ["November", "October"] },
+    { "c": "aujourd'hui", "a": "today", "d": ["tomorrow", "yesterday"], "ex": "Aujourd'hui, c'est mercredi.", "exT": "Today is Wednesday." },
+    { "c": "demain", "a": "tomorrow", "d": ["today", "yesterday"] },
+    { "c": "hier", "a": "yesterday", "d": ["tomorrow", "last night"] },
+    { "c": "la semaine", "a": "week", "d": ["month", "weekend"] },
+    { "c": "le mois", "a": "month", "d": ["week", "year"] },
+    { "c": "l'année (f)", "a": "year", "d": ["month", "day"], "say": "l'année" },
+    { "c": "C'est le premier mai.", "a": "It's May 1st.", "d": ["It's May 2nd.", "It's the first Monday."] },
+    { "c": "Quelle heure est-il ?", "a": "What time is it?", "d": ["What day is it?", "How long is it?"], "ex": "Quelle heure est-il ? — Il est dix heures.", "exT": "What time is it? — It's ten o'clock." },
+    { "c": "Il est midi.", "a": "It's noon.", "d": ["It's midnight.", "It's one o'clock."] },
+    { "c": "Il est minuit.", "a": "It's midnight.", "d": ["It's noon.", "It's eleven o'clock."] },
+    { "c": "Il est deux heures et quart.", "a": "It's 2:15.", "d": ["It's 2:45.", "It's 1:45."] },
+    { "c": "Il est trois heures et demie.", "a": "It's 3:30.", "d": ["It's 3:15.", "It's 2:30."] },
+    { "c": "Il est huit heures moins le quart.", "a": "It's 7:45.", "d": ["It's 8:15.", "It's 8:45."] },
+    { "c": "Il est vingt heures.", "a": "It's 8 p.m.", "d": ["It's 10 p.m.", "It's 2 a.m."] },
+    { "c": "le lundi", "a": "on Mondays", "d": ["next Monday", "last Monday"], "ex": "Le lundi, je travaille.", "exT": "On Mondays, I work." }
+  ],
+  "read": {
+    "title": "La semaine de Thomas",
+    "text": [
+      "Thomas est étudiant à Paris. Le lundi, le mercredi et le vendredi, il a cours à huit heures du matin. Le mardi et le jeudi, il travaille dans un café de midi à six heures du soir. Le samedi, il joue au football avec ses amis. Le dimanche, il reste à la maison avec sa famille.",
+      "Aujourd'hui, c'est le premier octobre. C'est l'anniversaire de sa sœur Camille. Elle a seize ans. Ce soir, toute la famille dîne ensemble à sept heures et demie."
+    ],
+    "q": [
+      { "q": "On which days does Thomas work at the café?", "o": ["Monday and Wednesday", "Saturday and Sunday", "Tuesday and Thursday"], "k": 2 },
+      { "q": "What is special about today?", "o": ["It is his sister's birthday", "He has an exam", "He starts a new job"], "k": 0 },
+      { "q": "At what time does the family eat tonight?", "o": ["8:00", "7:30", "6:00"], "k": 1 }
+    ]
+  }
+}

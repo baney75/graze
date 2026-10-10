@@ -1,0 +1,279 @@
+{
+  "title": "Imperfect and future",
+  "note": "Past tenses add an augment: ε- before a consonant (λύω → ἔλυον) or a lengthened first vowel (ἀκούω → ἤκουον). The imperfect is ongoing or repeated past action: ἔλυον, ἔλυες, ἔλυε(ν), ἐλύομεν, ἐλύετε, ἔλυον. The future adds σ: λύσω, λύσεις, λύσει, λύσομεν, λύσετε, λύσουσι(ν). εἰμί has imperfect ἦν (was) and future ἔσομαι.",
+  "src": {
+    "t": "Perseus Digital Library (Smyth, Greek Grammar: tenses)",
+    "u": "https://www.perseus.tufts.edu/"
+  },
+  "items": [
+    {
+      "c": "ἔλυον",
+      "a": "I was loosing; they were loosing",
+      "d": [
+        "I loosed; they loosed",
+        "I will loose; they will loose"
+      ],
+      "r": "elyon"
+    },
+    {
+      "c": "ἔλυες",
+      "a": "you (one person) were loosing",
+      "d": [
+        "you (plural) were loosing",
+        "he, she, it was loosing"
+      ],
+      "r": "elyes"
+    },
+    {
+      "c": "ἔλυε(ν)",
+      "a": "he, she, it was loosing",
+      "d": [
+        "he, she, it looses",
+        "we were loosing"
+      ],
+      "r": "elye(n)"
+    },
+    {
+      "c": "ἐλύομεν",
+      "a": "we were loosing",
+      "d": [
+        "we loose",
+        "you (plural) were loosing"
+      ],
+      "r": "elyomen"
+    },
+    {
+      "c": "ἐλύετε",
+      "a": "you (plural) were loosing",
+      "d": [
+        "you (plural) loose",
+        "we were loosing"
+      ],
+      "r": "elyete"
+    },
+    {
+      "c": "λύσω",
+      "a": "I will loose",
+      "d": [
+        "I was loosing",
+        "I loose"
+      ],
+      "r": "lysō"
+    },
+    {
+      "c": "λύσεις",
+      "a": "you (one person) will loose",
+      "d": [
+        "he, she, it will loose",
+        "you (one person) were loosing"
+      ],
+      "r": "lyseis"
+    },
+    {
+      "c": "λύσει",
+      "a": "he, she, it will loose",
+      "d": [
+        "you (one person) will loose",
+        "he, she, it looses"
+      ],
+      "r": "lysei"
+    },
+    {
+      "c": "λύσομεν",
+      "a": "we will loose",
+      "d": [
+        "they will loose",
+        "we were loosing"
+      ],
+      "r": "lysomen"
+    },
+    {
+      "c": "λύσουσι(ν)",
+      "a": "they will loose",
+      "d": [
+        "we will loose",
+        "they loose"
+      ],
+      "r": "lysousi(n)"
+    },
+    {
+      "c": "ἦσαν",
+      "a": "they were",
+      "d": [
+        "they are",
+        "they will be"
+      ],
+      "r": "ēsan",
+      "ex": "ἦσαν γὰρ ἁλιεῖς.",
+      "exT": "For they were fishermen."
+    },
+    {
+      "c": "ἔσομαι",
+      "a": "I will be",
+      "d": [
+        "I was",
+        "I am"
+      ],
+      "r": "esomai",
+      "ex": "μεθ’ ὑμῶν ἔσομαι.",
+      "exT": "I will be with you."
+    },
+    {
+      "c": "ἔσται",
+      "a": "he, she, it will be",
+      "d": [
+        "he, she, it was",
+        "they will be"
+      ],
+      "r": "estai",
+      "ex": "ἔσται γὰρ μέγας.",
+      "exT": "For he will be great."
+    },
+    {
+      "c": "ἔσονται",
+      "a": "they will be",
+      "d": [
+        "they were",
+        "he, she, it will be"
+      ],
+      "r": "esontai",
+      "ex": "ἔσονται οἱ δύο εἰς σάρκα μίαν.",
+      "exT": "The two will become one flesh."
+    },
+    {
+      "c": "Ἔσεσθε οὖν ὑμεῖς τέλειοι.",
+      "a": "You therefore shall be perfect.",
+      "d": [
+        "You therefore were perfect.",
+        "We therefore shall be perfect."
+      ],
+      "r": "Esesthe oun hymeis teleioi."
+    },
+    {
+      "c": "εἶχον",
+      "a": "I had, was having; they had",
+      "d": [
+        "I will have; they will have",
+        "I have; they have"
+      ],
+      "r": "eichon"
+    },
+    {
+      "c": "ἔλεγεν",
+      "a": "he, she, it was saying",
+      "d": [
+        "he, she, it will say",
+        "they were saying"
+      ],
+      "r": "elegen",
+      "ex": "ἔλεγεν αὐτοῖς.",
+      "exT": "He was saying to them."
+    },
+    {
+      "c": "οὐκ ἐπίστευον εἰς αὐτόν.",
+      "a": "They were not believing in him.",
+      "d": [
+        "They will not believe in him.",
+        "I do not believe in him."
+      ],
+      "r": "ouk episteuon eis auton."
+    },
+    {
+      "c": "ὁ ὄχλος ___ αὐτοῦ. (was listening to him; ἀκούω)",
+      "a": "ἤκουεν",
+      "d": [
+        "ἀκούει",
+        "ἀκούσει"
+      ]
+    },
+    {
+      "c": "___ ἐν τῷ ἱερῷ. (he was teaching; διδάσκω)",
+      "a": "ἐδίδασκεν",
+      "d": [
+        "διδάσκει",
+        "διδάξει"
+      ]
+    },
+    {
+      "c": "γράψω",
+      "a": "I will write",
+      "d": [
+        "I was writing",
+        "I write"
+      ],
+      "r": "grapsō"
+    },
+    {
+      "c": "αὐτὸς γὰρ ___ τὸν λαόν. (he will save; σῴζω)",
+      "a": "σώσει",
+      "d": [
+        "σῴζει",
+        "ἔσῳζεν"
+      ]
+    },
+    {
+      "c": "ὄψομαι",
+      "a": "I will see",
+      "d": [
+        "I see",
+        "I was seeing"
+      ],
+      "r": "opsomai",
+      "ex": "πάλιν δὲ ὄψομαι ὑμᾶς.",
+      "exT": "But I will see you again."
+    },
+    {
+      "c": "γνώσεσθε τὴν ἀλήθειαν.",
+      "a": "You will know the truth.",
+      "d": [
+        "You knew the truth.",
+        "We will know the truth."
+      ],
+      "r": "gnōsesthe tēn alētheian."
+    },
+    {
+      "c": "ποιήσω",
+      "a": "I will do, make",
+      "d": [
+        "I was doing, making",
+        "I do, make"
+      ],
+      "r": "poiēsō",
+      "ex": "ποιήσω ὑμᾶς ἁλιεῖς ἀνθρώπων.",
+      "exT": "I will make you fishers of men."
+    },
+    {
+      "c": "ἐλεύσομαι",
+      "a": "I will come",
+      "d": [
+        "I came",
+        "I am coming"
+      ],
+      "r": "eleusomai"
+    },
+    {
+      "c": "the ε- added in front of a past-tense verb",
+      "a": "augment",
+      "d": [
+        "reduplication",
+        "movable nu"
+      ]
+    },
+    {
+      "c": "past tense for ongoing or repeated action",
+      "a": "imperfect",
+      "d": [
+        "aorist",
+        "future"
+      ]
+    },
+    {
+      "c": "letter that marks most future forms: λύσω",
+      "a": "σ (sigma)",
+      "d": [
+        "ε (epsilon)",
+        "θ (theta)"
+      ]
+    }
+  ]
+}

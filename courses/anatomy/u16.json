@@ -1,0 +1,54 @@
+{
+  "title": "The lymphatic and immune systems",
+  "note": "Innate defenses (barriers, phagocytes, NK cells, complement, inflammation) act fast and respond the same way every time. Adaptive immunity uses B cells, which make antibodies, and T cells, which recognize antigen displayed on MHC; it is specific and builds memory. MHC I presents to CD8 cytotoxic T cells, and MHC II presents to CD4 helper T cells.",
+  "src": { "t": "OpenStax A&P 2e, 21.3 The Adaptive Immune Response: T Lymphocytes", "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-3-the-adaptive-immune-response-t-lymphocytes-and-their-functional-types" },
+  "items": [
+    { "c": "Lymphatic capillaries", "a": "Blind-ended vessels with overlapping endothelial flaps", "d": ["Thick-walled vessels with muscular valves", "Fenestrated vessels that carry blood"] },
+    { "c": "Thoracic duct empties into the", "a": "Left subclavian vein", "d": ["Right subclavian vein", "Inferior vena cava"] },
+    { "c": "Region drained by the right lymphatic duct", "a": "Right arm and right side of the head and thorax", "d": ["Entire right half of the body", "Both legs and the abdomen"] },
+    { "c": "Primary lymphoid organs", "a": "Red bone marrow and thymus", "d": ["Lymph nodes and spleen", "Tonsils and Peyer's patches"] },
+    { "c": "Where T cells mature", "a": "Thymus", "d": ["Red bone marrow", "Spleen"] },
+    { "c": "Where B cells mature", "a": "Red bone marrow", "d": ["Thymus", "Lymph nodes"] },
+    { "c": "Red pulp of the spleen", "a": "Filters blood and removes worn-out red cells", "d": ["Holds lymphocyte zones around arterioles", "Produces most new T cells"] },
+    { "c": "Lymph node function", "a": "Filters lymph and hosts adaptive responses", "d": ["Makes red blood cells", "Matures T cells"] },
+    { "c": "Peyer's patches", "a": "Lymphoid nodules in the wall of the ileum", "d": ["Lymphoid tissue in the throat", "Lymphoid tissue of the thymus"] },
+    { "c": "NK cells kill targets using", "a": "Perforin and granzymes", "d": ["Antibodies they secrete", "Histamine and heparin"] },
+    { "c": "Interferons", "a": "Signals that help neighboring cells resist viruses", "d": ["Proteins that punch holes in bacteria", "Antibodies made by plasma cells"] },
+    { "c": "Opsonization", "a": "Tagging a pathogen to aid phagocytosis", "d": ["Punching holes in a pathogen's membrane", "Blocking a toxin's binding site"] },
+    { "c": "Membrane attack complex", "a": "Complement pores that lyse pathogens", "d": ["Antibody cluster on mast cells", "MHC molecules on infected cells"] },
+    { "c": "Cardinal signs of inflammation", "a": "Heat, redness, swelling, pain", "d": ["Heat, pallor, swelling, numbness", "Cold, redness, dryness, pain"] },
+    { "c": "Cell that releases histamine in tissues", "a": "Mast cell", "d": ["Neutrophil", "Plasma cell"], "ex": "Histamine dilates vessels and makes capillaries leakier." },
+    { "c": "Adaptive vs innate immunity", "a": "Adaptive is specific and builds memory", "d": ["Innate is specific and builds memory", "Adaptive acts within minutes"] },
+    { "c": "Epitope", "a": "Small part of an antigen that a receptor binds", "d": ["Receptor on the surface of a B cell", "Whole pathogen seen by the immune system"] },
+    { "c": "MHC class I is found on", "a": "Nearly all nucleated cells", "d": ["Only antigen-presenting cells", "Only red blood cells"] },
+    { "c": "MHC class I presents antigen to", "a": "CD8 cytotoxic T cells", "d": ["CD4 helper T cells", "B cells"] },
+    { "c": "MHC class II presents antigen to", "a": "CD4 helper T cells", "d": ["CD8 cytotoxic T cells", "NK cells"] },
+    { "c": "Professional antigen-presenting cells", "a": "Dendritic cells, macrophages, and B cells", "d": ["Neutrophils, eosinophils, and basophils", "Red cells, platelets, and mast cells"] },
+    { "c": "Negative selection in the thymus", "a": "Removes T cells that bind self-antigens", "d": ["Keeps T cells that recognize self-MHC", "Turns T cells into plasma cells"] },
+    { "c": "Helper T cells (CD4+)", "a": "Secrete cytokines that direct other immune cells", "d": ["Kill infected cells directly", "Secrete antibodies into the blood"] },
+    { "c": "Cytotoxic T cells (CD8+)", "a": "Kill infected or abnormal cells", "d": ["Secrete antibodies", "Present antigen on MHC class II"] },
+    { "c": "Regulatory T cells", "a": "Suppress responses that would attack the body's own cells", "d": ["Kill virus-infected cells", "Secrete IgE"] },
+    { "c": "Plasma cell", "a": "Activated B cell that secretes antibodies", "d": ["T cell that kills infected cells", "Phagocyte that lines lymph nodes"] },
+    { "c": "Basic antibody structure", "a": "Two heavy chains and two light chains", "d": ["Four identical heavy chains", "One heavy chain and three light chains"] },
+    { "c": "First antibody made in a primary response", "a": "IgM", "d": ["IgG", "IgA"], "ex": "IgM is a pentamer with 10 antigen-binding sites." },
+    { "c": "Antibody that crosses the placenta", "a": "IgG", "d": ["IgM", "IgA"] },
+    { "c": "Antibody in mucus, tears, and breast milk", "a": "IgA", "d": ["IgE", "IgD"] },
+    { "c": "Antibody that binds to mast cells", "a": "IgE", "d": ["IgA", "IgG"] },
+    { "c": "Secondary immune response", "a": "Faster and stronger, thanks to memory cells", "d": ["Slower and weaker than the first", "Identical to the primary response"] },
+    { "c": "Immunity from a vaccine", "a": "Artificial active immunity", "d": ["Artificial passive immunity", "Natural passive immunity"] },
+    { "c": "Maternal antibodies in breast milk give", "a": "Natural passive immunity", "d": ["Natural active immunity", "Artificial active immunity"] }
+  ],
+  "read": {
+    "title": "Why the second time is different",
+    "text": [
+      "The innate defenses act within minutes and respond the same way to every threat. Skin and mucous membranes block entry, macrophages and neutrophils engulf invaders, natural killer cells destroy infected cells, and complement proteins tag or puncture microbes. Inflammation brings extra fluid and cells to the site.",
+      "Adaptive immunity is slower to start but far more precise. Each B or T lymphocyte carries receptors for one particular epitope. On first exposure to a pathogen, only the few lymphocytes that happen to recognize it are activated. They divide into a large clone and differentiate. Helper T cells release cytokines that drive the response, cytotoxic T cells kill infected cells displaying the antigen on MHC class I, and B cells become plasma cells that secrete antibodies, IgM first and IgG later. Building these clones takes days, which is why a first infection often causes symptoms.",
+      "Some cells of each clone become long-lived memory cells. If the same pathogen returns, the memory cells respond faster and more strongly, often clearing it before symptoms appear. A vaccine uses this design: it presents antigen safely, so the body builds memory without going through the illness."
+    ],
+    "q": [
+      { "q": "Why is the primary adaptive response slow?", "o": ["Few lymphocytes recognize the antigen at first", "Antibodies must cross the placenta", "The liver must make complement"], "k": 0 },
+      { "q": "Which cells kill infected cells displaying antigen on MHC class I?", "o": ["Helper T cells", "Cytotoxic T cells", "Plasma cells"], "k": 1 },
+      { "q": "What makes the secondary response faster?", "o": ["Thicker skin barriers", "More complement proteins", "Memory cells from the first exposure"], "k": 2 }
+    ]
+  }
+}

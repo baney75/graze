@@ -1,0 +1,13 @@
+{
+  "key": "philosophy",
+  "name": "Philosophy",
+  "group": "Mind",
+  "tag": "PHILO",
+  "level": "Intro college",
+  "blurb": "Learn to judge arguments and trace Western thought from the Presocratics through Augustine, Aquinas, Descartes, Hume, and Kant to the twentieth century, with the major theories of ethics, politics, and mind stated as their defenders hold them.",
+  "sources": [
+    { "t": "Introduction to Philosophy, OpenStax", "u": "https://openstax.org/details/books/introduction-philosophy" },
+    { "t": "Stanford Encyclopedia of Philosophy", "u": "https://plato.stanford.edu/" },
+    { "t": "Internet Encyclopedia of Philosophy", "u": "https://iep.utm.edu/" }
+  ]
+}

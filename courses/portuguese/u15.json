@@ -1,0 +1,80 @@
+{
+  "title": "Weather, nature and seasons",
+  "note": "Weather often uses fazer with no subject: Faz calor, Faz frio, Faz sol. Estar describes right now: Está quente, Está nublado, Está chovendo (estar + -ndo). Brazil is in the Southern Hemisphere, so summer (o verão) runs from December to March.",
+  "src": {"t": "Língua da Gente, Beginning 19: It's So Hot!", "u": "https://linguadagente.coerll.utexas.edu/beginning-its-so-hot/"},
+  "items": [
+    {"c": "o tempo", "a": "the weather; time", "d": ["the season; year", "the sky; heaven"], "ex": "Como está o tempo aí?", "exT": "What's the weather like there?"},
+    {"c": "o sol", "a": "the sun", "d": ["the moon", "the sky"], "ex": "Aqui sempre faz sol.", "exT": "It's always sunny here."},
+    {"c": "a chuva", "a": "the rain", "d": ["the snow", "the wind"], "ex": "Que chuva forte!", "exT": "What heavy rain!"},
+    {"c": "o vento", "a": "the wind", "d": ["the rain", "the cloud"]},
+    {"c": "a nuvem", "a": "the cloud", "d": ["the fog", "the sky"]},
+    {"c": "o céu", "a": "the sky", "d": ["the sea", "the cloud"], "ex": "O céu está azul hoje.", "exT": "The sky is blue today."},
+    {"c": "a neve", "a": "the snow", "d": ["the rain", "the ice"]},
+    {"c": "o mar", "a": "the sea", "d": ["the river", "the lake"]},
+    {"c": "o rio", "a": "the river", "d": ["the sea", "the lake"]},
+    {"c": "a montanha", "a": "the mountain", "d": ["the valley", "the beach"]},
+    {"c": "a árvore", "a": "the tree", "d": ["the flower", "the forest"]},
+    {"c": "a flor", "a": "the flower", "d": ["the tree", "the leaf"]},
+    {"c": "a floresta", "a": "the forest", "d": ["the field", "the garden"], "ex": "A floresta amazônica é enorme.", "exT": "The Amazon rainforest is huge."},
+    {"c": "a estação do ano", "a": "the season", "d": ["the month", "the time of day"]},
+    {"c": "o verão", "a": "summer", "d": ["winter", "spring"], "ex": "No verão, a gente vai à praia.", "exT": "In the summer, we go to the beach."},
+    {"c": "o inverno", "a": "winter", "d": ["summer", "fall"]},
+    {"c": "a primavera", "a": "spring", "d": ["fall", "summer"]},
+    {"c": "o outono", "a": "fall, autumn", "d": ["spring", "winter"]},
+    {"c": "quente", "a": "hot", "d": ["cold", "wet"]},
+    {"c": "frio", "a": "cold", "d": ["hot", "dry"], "ex": "Em julho faz frio em Curitiba.", "exT": "It's cold in Curitiba in July."},
+    {"c": "Faz calor.", "a": "It's hot.", "d": ["It's cold.", "It's windy."]},
+    {"c": "Está chovendo.", "a": "It's raining.", "d": ["It's snowing.", "It rained."], "ex": "Está chovendo. Leva o guarda-chuva!", "exT": "It's raining. Take the umbrella!"},
+    {"c": "Está nublado.", "a": "It's cloudy.", "d": ["It's sunny.", "It's foggy."]},
+    {"c": "Que calor!", "a": "It's so hot!", "d": ["It's so cold!", "What a nice day!"], "ex": "Ai, que calor, não aguento mais!", "exT": "Oh, it's so hot, I can't take it anymore!"},
+    {"c": "Como está o tempo?", "a": "What's the weather like?", "d": ["What time is it?", "How long does it take?"]},
+    {"c": "a previsão do tempo", "a": "the weather forecast", "d": ["the rainy season", "the time zone"], "ex": "Vamos ver a previsão do tempo.", "exT": "Let's check the weather forecast."},
+    {"c": "o guarda-chuva", "a": "the umbrella", "d": ["the raincoat", "the sunscreen"]},
+    {"c": "Vai chover amanhã.", "a": "It's going to rain tomorrow.", "d": ["It rained yesterday.", "It's raining today."]},
+    {"c": "Hoje ___ muito frio. (fazer)", "a": "faz", "d": ["fazem", "faço"]},
+    {"c": "___ muito em abril. (chover)", "a": "Chove", "d": ["Chovem", "Chovo"]},
+    {"c": "Está ___ agora. (chover)", "a": "chovendo", "d": ["chove", "chovido"]},
+    {"c": "A água do mar está ___. (frio)", "a": "fria", "d": ["frio", "frias"], "ex": "A água do mar está fria hoje.", "exT": "The seawater is cold today."},
+    {"c": "Em dezembro ___ verão no Brasil.", "a": "é", "d": ["está", "faz"]}
+  ],
+  "read": {
+    "title": "O tempo no Brasil",
+    "text": [
+      "O Brasil é um país muito grande, e o tempo muda de uma região para outra. No Norte, perto da floresta amazônica, faz calor o ano todo e chove muito.",
+      "No Sul, em cidades como Porto Alegre e Curitiba, o inverno é frio. Em julho, às vezes faz cinco graus de manhã. A neve é muito rara.",
+      "No Rio de Janeiro, o verão é muito quente. Em janeiro, as pessoas vão à praia, bebem água de coco e ficam no mar.",
+      "Hoje é sábado e está nublado em São Paulo. A Ana olha a previsão do tempo: vai chover à tarde. Ela pega o guarda-chuva e sai de casa."
+    ],
+    "q": [
+      {
+        "q": "Where is it hot all year with a lot of rain?",
+        "o": [
+          "In the South",
+          "In the North, near the Amazon",
+          "Only in São Paulo"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What can happen in July in the South?",
+        "o": [
+          "It can be about 5 degrees in the morning",
+          "It snows every day",
+          "It is the hottest month",
+          "People go to the beach"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does Ana take with her?",
+        "o": [
+          "A coat",
+          "Coconut water",
+          "An umbrella",
+          "Sunscreen"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

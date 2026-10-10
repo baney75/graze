@@ -1,0 +1,51 @@
+{
+  "title": "Cellular respiration",
+  "note": "Glucose is oxidized in stages: glycolysis in the cytoplasm, pyruvate oxidation and the citric acid cycle in the mitochondrial matrix, then oxidative phosphorylation on the inner membrane. NADH and FADH2 carry electrons to the electron transport chain, which builds an H+ gradient that ATP synthase uses to make most of the ATP.",
+  "src": { "t": "OpenStax Biology 2e, Ch. 7: Cellular Respiration", "u": "https://openstax.org/books/biology-2e/pages/7-introduction" },
+  "items": [
+    { "c": "Overall equation of aerobic respiration", "a": "C6H12O6 + 6O2 → 6CO2 + 6H2O + energy", "d": ["6CO2 + 6H2O → C6H12O6 + 6O2", "C6H12O6 → 2C2H5OH + 2CO2"] },
+    { "c": "Oxidation", "a": "Loss of electrons", "d": ["Gain of electrons", "Gain of protons"] },
+    { "c": "Reduction", "a": "Gain of electrons", "d": ["Loss of electrons", "Loss of oxygen atoms only"] },
+    { "c": "NAD+ in respiration", "a": "Electron carrier that is reduced to NADH", "d": ["Enzyme that splits glucose", "Final electron acceptor of the chain"] },
+    { "c": "Where glycolysis occurs", "a": "Cytoplasm", "d": ["Mitochondrial matrix", "Inner mitochondrial membrane"], "ex": "It runs in both prokaryotes and eukaryotes." },
+    { "c": "Net ATP from glycolysis per glucose", "a": "2 ATP", "d": ["4 ATP", "36 ATP"], "ex": "It makes 4 ATP but spends 2." },
+    { "c": "NADH made in glycolysis per glucose", "a": "2 NADH", "d": ["6 NADH", "10 NADH"] },
+    { "c": "End product of glycolysis", "a": "Two pyruvate molecules", "d": ["Two acetyl CoA molecules", "Six CO2 molecules"] },
+    { "c": "Pyruvate oxidation yields, per pyruvate", "a": "Acetyl CoA, one CO2, and one NADH", "d": ["Citrate, one ATP, and one FADH2", "Lactate and NAD+"] },
+    { "c": "Where the citric acid cycle occurs", "a": "Mitochondrial matrix", "d": ["Intermembrane space", "Cytoplasm"] },
+    { "c": "Acetyl CoA + oxaloacetate form…", "a": "citrate", "d": ["pyruvate", "lactate"] },
+    { "c": "Outputs of one citric acid cycle turn", "a": "3 NADH, 1 FADH2, 1 ATP or GTP, 2 CO2", "d": ["2 NADH, 2 FADH2, 2 ATP, 1 CO2", "1 NADH, 1 FADH2, 3 ATP, 3 CO2"] },
+    { "c": "Citric acid cycle turns per glucose", "a": "Two", "d": ["One", "Six"], "ex": "One turn for each acetyl CoA." },
+    { "c": "Electron transport chain location (eukaryotes)", "a": "Inner mitochondrial membrane", "d": ["Outer mitochondrial membrane", "Mitochondrial matrix"] },
+    { "c": "Final electron acceptor in aerobic respiration", "a": "Oxygen", "d": ["NAD+", "Pyruvate"], "ex": "O2 accepts electrons and H+ to form water." },
+    { "c": "The ETC pumps H+ from the matrix into the…", "a": "intermembrane space", "d": ["cytoplasm", "thylakoid lumen"] },
+    { "c": "Chemiosmosis", "a": "ATP synthesis powered by H+ flowing down its gradient", "d": ["ATP synthesis by direct phosphate transfer", "Diffusion of water across a membrane"] },
+    { "c": "Main route for H+ back into the matrix", "a": "ATP synthase", "d": ["Cytochrome c", "Ubiquinone"] },
+    { "c": "Share of aerobic ATP made by chemiosmosis", "a": "About 90 percent", "d": ["About 10 percent", "About 50 percent"] },
+    { "c": "Ubiquinone (Q)", "a": "Lipid-soluble carrier from Complexes I and II to III", "d": ["Enzyme that reduces O2 to water at Complex IV", "Protein that binds oxygen at Complex IV"] },
+    { "c": "Why FADH2 yields less ATP than NADH", "a": "Its electrons enter at Complex II, bypassing Complex I", "d": ["It carries no electrons to the chain", "It gives electrons straight to oxygen"] },
+    { "c": "Substrate-level phosphorylation", "a": "ATP made by direct phosphate transfer from a substrate", "d": ["ATP made using an H+ gradient and ATP synthase", "ATP made by light energy in chloroplasts"] },
+    { "c": "Oxidative phosphorylation", "a": "ATP made using the ETC and chemiosmosis", "d": ["ATP made directly in glycolysis", "ATP made by fermentation"] },
+    { "c": "Main purpose of fermentation", "a": "Regenerate NAD+ so glycolysis can continue", "d": ["Make extra ATP in the ETC", "Produce oxygen for the cell"] },
+    { "c": "Product of lactic acid fermentation", "a": "Lactate", "d": ["Ethanol and CO2", "Acetyl CoA"] },
+    { "c": "Products of alcohol fermentation", "a": "Ethanol and CO2", "d": ["Lactate only", "Water and O2"], "ex": "Yeast making bread rise and brewing use this." },
+    { "c": "Anaerobic respiration", "a": "Uses an ETC with a final acceptor other than O2", "d": ["Uses no electron transport chain at all", "Uses O2 but skips glycolysis"], "ex": "Some prokaryotes use sulfate or nitrate." },
+    { "c": "Fatty acids enter respiration as…", "a": "acetyl CoA", "d": ["glucose", "lactate"], "ex": "They are broken down by beta-oxidation." },
+    { "c": "Before amino acids enter respiration they are…", "a": "deaminated (amino group removed)", "d": ["joined into polypeptides", "converted into fatty acids"] },
+    { "c": "Share of glucose energy captured as ATP", "a": "About 34 percent", "d": ["About 90 percent", "About 5 percent"], "ex": "The rest is released as heat." }
+  ],
+  "read": {
+    "title": "Following the electrons",
+    "text": [
+      "Cellular respiration is easiest to understand by following electrons. Glucose holds them in high-energy C–H bonds. Step by step, enzymes strip them away and hand them to carriers, mainly NAD+, which becomes NADH.",
+      "Glycolysis, in the cytoplasm, splits glucose into two pyruvate molecules, netting two ATP and two NADH. Each pyruvate then enters a mitochondrion, loses a carbon as CO2, and becomes acetyl CoA, producing another NADH. In the citric acid cycle, acetyl CoA joins oxaloacetate to form citrate, and the cycle releases the remaining carbons as CO2 while loading more NADH and FADH2.",
+      "Up to this point the cell has made only a few ATP. The real payoff comes at the inner mitochondrial membrane. NADH and FADH2 deliver their electrons to the electron transport chain. As electrons pass from protein to protein, their energy pumps hydrogen ions into the intermembrane space. At the end of the chain, oxygen accepts the spent electrons and combines with H+ to form water.",
+      "The crowded hydrogen ions return to the matrix mainly through ATP synthase. Their flow spins part of the enzyme, which joins ADP and phosphate. This chemiosmosis makes about 90 percent of the ATP from aerobic respiration. Without oxygen, the chain backs up, and many cells fall back on fermentation."
+    ],
+    "q": [
+      { "q": "Where does most of the ATP from aerobic respiration come from?", "o": ["Glycolysis", "The citric acid cycle", "Chemiosmosis through ATP synthase", "Fermentation"], "k": 2 },
+      { "q": "What role does oxygen play?", "o": ["It splits glucose", "It accepts electrons at the end of the chain", "It carries electrons from glycolysis"], "k": 1 },
+      { "q": "Where are hydrogen ions concentrated by the chain?", "o": ["Intermembrane space", "Cytoplasm", "Mitochondrial matrix"], "k": 0 }
+    ]
+  }
+}

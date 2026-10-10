@@ -1,0 +1,296 @@
+{
+  "title": "Psalms and wisdom literature",
+  "note": "The Psalms are Israel's 150 songs and prayers; many carry David's name in their headings. The wisdom books (Job, Proverbs, Ecclesiastes) ask how to live well and why the righteous suffer. Hebrew poetry rhymes ideas rather than sounds: a second line echoes, contrasts or extends the first.",
+  "src": {
+    "t": "Psalm 23, King James Version, Project Gutenberg eBook #10",
+    "u": "https://www.gutenberg.org/ebooks/10"
+  },
+  "items": [
+    {
+      "c": "Number of psalms in the book of Psalms",
+      "a": "150",
+      "d": [
+        "100",
+        "119"
+      ]
+    },
+    {
+      "c": "Person traditionally credited with many psalms",
+      "a": "King David",
+      "d": [
+        "King Solomon",
+        "the prophet Samuel"
+      ]
+    },
+    {
+      "c": "Psalm headed 'A Prayer of Moses the man of God'",
+      "a": "Psalm 90",
+      "d": [
+        "Psalm 1",
+        "Psalm 51"
+      ]
+    },
+    {
+      "c": "Longest psalm and longest chapter in the Bible",
+      "a": "Psalm 119",
+      "d": [
+        "Psalm 23",
+        "Psalm 150"
+      ]
+    },
+    {
+      "c": "Shortest psalm, just two verses",
+      "a": "Psalm 117",
+      "d": [
+        "Psalm 1",
+        "Psalm 100"
+      ]
+    },
+    {
+      "c": "Structure of Psalm 119",
+      "a": "an acrostic: one section per Hebrew letter",
+      "d": [
+        "a dialogue between God and David",
+        "a list of the kings of Judah"
+      ]
+    },
+    {
+      "c": "Psalm 51's heading",
+      "a": "David's prayer after Nathan rebuked him over Bathsheba",
+      "d": [
+        "David's song after killing Goliath",
+        "Solomon's prayer at the temple"
+      ]
+    },
+    {
+      "c": "Selah",
+      "a": "a word of uncertain meaning, perhaps a musical pause",
+      "d": [
+        "a name for God meaning 'the Most High'",
+        "a Hebrew word meaning 'amen'"
+      ]
+    },
+    {
+      "c": "Main device of Hebrew poetry",
+      "a": "parallelism: a line echoed or answered by the next",
+      "d": [
+        "end rhyme between lines",
+        "a fixed count of syllables"
+      ]
+    },
+    {
+      "c": "'Blessed is the man that walketh not...'",
+      "a": "Psalm 1",
+      "d": [
+        "Psalm 23",
+        "Psalm 119"
+      ]
+    },
+    {
+      "c": "'The heavens declare the glory of God'",
+      "a": "Psalm 19",
+      "d": [
+        "Psalm 51",
+        "Psalm 137"
+      ]
+    },
+    {
+      "c": "Psalm that begins 'My God, my God...'",
+      "a": "Psalm 22",
+      "d": [
+        "Psalm 23",
+        "Psalm 90"
+      ],
+      "ex": "Jesus cries these words from the cross in Matthew 27:46 and Mark 15:34."
+    },
+    {
+      "c": "'God is our refuge and strength'",
+      "a": "Psalm 46",
+      "d": [
+        "Psalm 23",
+        "Psalm 137"
+      ]
+    },
+    {
+      "c": "'I will lift up mine eyes unto the hills'",
+      "a": "Psalm 121",
+      "d": [
+        "Psalm 1",
+        "Psalm 51"
+      ]
+    },
+    {
+      "c": "'Make a joyful noise unto the LORD, all ye lands'",
+      "a": "Psalm 100",
+      "d": [
+        "Psalm 22",
+        "Psalm 137"
+      ]
+    },
+    {
+      "c": "Traditionally credited with most of Proverbs",
+      "a": "Solomon",
+      "d": [
+        "David",
+        "Job"
+      ]
+    },
+    {
+      "c": "'The fear of the LORD is the beginning of knowledge'",
+      "a": "Proverbs",
+      "d": [
+        "Ecclesiastes",
+        "Job"
+      ]
+    },
+    {
+      "c": "'Fear of the LORD' in the wisdom books",
+      "a": "reverent awe and obedience toward God",
+      "d": [
+        "dread of punishment and nothing more",
+        "a ritual of sacrifice"
+      ]
+    },
+    {
+      "c": "'Train up a child in the way he should go'",
+      "a": "early training lasts into old age",
+      "d": [
+        "children should choose their own path",
+        "only kings should teach the young"
+      ]
+    },
+    {
+      "c": "'Pride goeth before destruction'",
+      "a": "Proverbs 16:18",
+      "d": [
+        "Psalm 1:1",
+        "Ecclesiastes 1:2"
+      ]
+    },
+    {
+      "c": "Subject of Proverbs 31",
+      "a": "a virtuous, capable wife",
+      "d": [
+        "a wise and just king",
+        "a faithful servant"
+      ]
+    },
+    {
+      "c": "'Vanity of vanities; all is vanity'",
+      "a": "Ecclesiastes",
+      "d": [
+        "Proverbs",
+        "Lamentations"
+      ]
+    },
+    {
+      "c": "'Vanity' in Ecclesiastes means",
+      "a": "breath or vapor: what is fleeting",
+      "d": [
+        "pride in one's looks",
+        "open wickedness"
+      ]
+    },
+    {
+      "c": "Speaker of Ecclesiastes",
+      "a": "the Preacher, son of David, king in Jerusalem",
+      "d": [
+        "the Psalmist of Babylon",
+        "a shepherd of Tekoa"
+      ]
+    },
+    {
+      "c": "'To every thing there is a season'",
+      "a": "Ecclesiastes 3",
+      "d": [
+        "Proverbs 3",
+        "Psalm 3"
+      ]
+    },
+    {
+      "c": "Ecclesiastes' conclusion of the whole matter",
+      "a": "Fear God, and keep his commandments",
+      "d": [
+        "Trust in riches and wisdom",
+        "Nothing can be known of God"
+      ]
+    },
+    {
+      "c": "Man from Uz, 'perfect and upright'",
+      "a": "Job",
+      "d": [
+        "Noah",
+        "Abraham"
+      ]
+    },
+    {
+      "c": "Job's three friends",
+      "a": "Eliphaz, Bildad and Zophar",
+      "d": [
+        "Shadrach, Meshach and Abednego",
+        "Peter, James and John"
+      ]
+    },
+    {
+      "c": "'The LORD gave, and the LORD hath taken away'",
+      "a": "Job, after losing his children and wealth",
+      "d": [
+        "David, mourning Absalom",
+        "Naomi, returning from Moab"
+      ]
+    },
+    {
+      "c": "How God finally answers Job",
+      "a": "out of the whirlwind",
+      "d": [
+        "through Job's three friends",
+        "in a dream at night"
+      ]
+    },
+    {
+      "c": "Song of Solomon (Song of Songs)",
+      "a": "love poetry between a bride and her beloved",
+      "d": [
+        "a book of temple laws",
+        "a history of Solomon's reign"
+      ]
+    }
+  ],
+  "read": {
+    "title": "The LORD is my shepherd (Psalm 23)",
+    "text": [
+      "The LORD is my shepherd; I shall not want. He maketh me to lie down in green pastures: he leadeth me beside the still waters. He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.",
+      "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.",
+      "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over. Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever."
+    ],
+    "q": [
+      {
+        "q": "Beside what does the shepherd lead the speaker?",
+        "o": [
+          "The still waters",
+          "The rivers of Babylon",
+          "The sea of Galilee"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What comforts the speaker in the valley of the shadow of death?",
+        "o": [
+          "His harp and his song",
+          "Thy rod and thy staff",
+          "The light of the morning"
+        ],
+        "k": 1
+      },
+      {
+        "q": "How long will the speaker dwell in the house of the LORD?",
+        "o": [
+          "Seven days",
+          "Until the harvest",
+          "For ever"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

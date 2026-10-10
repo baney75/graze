@@ -1,0 +1,55 @@
+{
+  "title": "The respiratory system",
+  "note": "Air moves along pressure gradients: contracting the diaphragm enlarges the thorax and lowers alveolar pressure below atmospheric (Boyle's law). Each gas then diffuses down its own partial-pressure gradient. Nearly all O2 travels bound to hemoglobin, and most CO2 travels as bicarbonate made by carbonic anhydrase in red cells.",
+  "src": { "t": "OpenStax A&P 2e, 22.4 Gas Exchange", "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-4-gas-exchange" },
+  "items": [
+    { "c": "Conducting zone of the airway", "a": "Airways that move, clean, warm, and humidify air", "d": ["Structures where gas exchange occurs", "Muscles that expand the thorax"] },
+    { "c": "Respiratory zone begins at the", "a": "Respiratory bronchioles", "d": ["Terminal bronchioles", "Primary bronchi"] },
+    { "c": "Part of the pharynx that carries only air", "a": "Nasopharynx", "d": ["Oropharynx", "Laryngopharynx"] },
+    { "c": "Largest cartilage of the larynx", "a": "Thyroid cartilage", "d": ["Cricoid cartilage", "Arytenoid cartilage"] },
+    { "c": "Epiglottis", "a": "Flap that covers the larynx during swallowing", "d": ["Ring of cartilage below the larynx", "Fold that vibrates to make sound"] },
+    { "c": "Tracheal cartilage rings", "a": "C-shaped rings of hyaline cartilage", "d": ["Complete rings of elastic cartilage", "C-shaped rings of fibrocartilage"] },
+    { "c": "Carina", "a": "Ridge where the trachea divides; triggers coughing", "d": ["Opening between the vocal folds", "Flap over the larynx"] },
+    { "c": "Type I alveolar cells", "a": "Thin squamous cells forming most of the alveolar wall", "d": ["Cells that secrete surfactant", "Phagocytes that clear debris"] },
+    { "c": "Type II alveolar cells", "a": "Secrete surfactant", "d": ["Form most of the alveolar wall", "Engulf inhaled particles"] },
+    { "c": "Surfactant", "a": "Lowers surface tension so alveoli stay open", "d": ["Raises surface tension to aid recoil", "Traps dust in the airways"] },
+    { "c": "Number of lobes in the right lung", "a": "Three", "d": ["Two", "Four"] },
+    { "c": "Boyle's law", "a": "Gas pressure varies inversely with volume", "d": ["Gas pressure varies directly with volume", "Dissolved gas varies with partial pressure"] },
+    { "c": "During inspiration, the diaphragm", "a": "Contracts and flattens", "d": ["Relaxes and domes upward", "Stays relaxed as the ribs fall"] },
+    { "c": "Quiet expiration is driven by", "a": "Elastic recoil of the lungs and chest wall", "d": ["Contraction of the diaphragm", "Contraction of the external intercostals"] },
+    { "c": "Intrapleural pressure", "a": "Always slightly below alveolar pressure", "d": ["Always above atmospheric pressure", "Equal to alveolar pressure between breaths"] },
+    { "c": "Typical resting tidal volume", "a": "About 500 mL", "d": ["About 50 mL", "About 2,500 mL"] },
+    { "c": "Residual volume", "a": "Air left in the lungs after a maximal exhalation", "d": ["Air moved in one quiet breath", "Extra air inhaled after a normal breath"] },
+    { "c": "Vital capacity", "a": "Tidal volume plus inspiratory and expiratory reserves", "d": ["Total lung capacity plus residual volume", "Inspiratory plus expiratory reserve only"] },
+    { "c": "Normal adult resting breathing rate", "a": "12 to 18 breaths per minute", "d": ["4 to 6 breaths per minute", "30 to 60 breaths per minute"] },
+    { "c": "Medullary group that sets the breathing rhythm", "a": "Ventral respiratory group", "d": ["Dorsal respiratory group", "Pneumotaxic center"] },
+    { "c": "Main chemical stimulus for breathing", "a": "Rising blood CO2", "d": ["Falling blood O2", "Rising blood glucose"], "ex": "Central chemoreceptors detect the H+ it produces in brain fluid." },
+    { "c": "Peripheral chemoreceptors are located in", "a": "Carotid bodies and the aortic arch", "d": ["Medulla oblongata", "Alveolar walls"] },
+    { "c": "Dalton's law", "a": "Total gas pressure is the sum of partial pressures", "d": ["Gases diffuse at equal rates", "Gas pressure is independent of volume"] },
+    { "c": "Henry's law", "a": "Dissolved gas is proportional to partial pressure and solubility", "d": ["Gases dissolve equally at any pressure", "Gas pressure is independent of temperature"] },
+    { "c": "Alveolar PO2", "a": "About 104 mm Hg", "d": ["About 40 mm Hg", "About 160 mm Hg"] },
+    { "c": "PO2 of blood arriving at the lungs", "a": "About 40 mm Hg", "d": ["About 100 mm Hg", "About 160 mm Hg"] },
+    { "c": "Why CO2 crosses well despite a small gradient", "a": "It is about 20 times more soluble than O2", "d": ["It is actively pumped across", "It is carried across by surfactant"] },
+    { "c": "Arterioles serving poorly ventilated alveoli", "a": "Constrict, diverting blood elsewhere", "d": ["Dilate to bring in more blood", "Stay unchanged"] },
+    { "c": "Share of blood O2 bound to hemoglobin", "a": "About 98.5%", "d": ["About 50%", "About 1.5%"] },
+    { "c": "Bohr effect", "a": "Lower pH makes hemoglobin release more O2", "d": ["Higher pH makes hemoglobin release more O2", "Lower pH makes hemoglobin hold O2 tighter"] },
+    { "c": "Fetal vs adult hemoglobin", "a": "Fetal hemoglobin has higher O2 affinity", "d": ["Fetal hemoglobin has lower O2 affinity", "Both have equal O2 affinity"] },
+    { "c": "Main form of CO2 transport in blood", "a": "Bicarbonate ions", "d": ["Carbaminohemoglobin", "Dissolved CO2"], "ex": "About 70% of CO2 travels as bicarbonate." },
+    { "c": "Carbonic anhydrase", "a": "Speeds CO2 + H2O ⇌ H2CO3 in red cells", "d": ["Breaks down surfactant", "Binds O2 to heme"] },
+    { "c": "Chloride shift in tissue capillaries", "a": "HCO3− leaves red cells as Cl− enters", "d": ["Cl− leaves red cells as Na+ enters", "H+ leaves red cells as K+ enters"] },
+    { "c": "Haldane effect", "a": "Deoxygenated hemoglobin binds more CO2", "d": ["Oxygenated hemoglobin binds more CO2", "Lower pH releases more O2"] }
+  ],
+  "read": {
+    "title": "Down the pressure gradient",
+    "text": [
+      "Air flows into the lungs for the same reason it rushes out of a squeezed balloon: gases move from higher pressure to lower. When the diaphragm contracts and flattens and the external intercostals lift the ribs, the thoracic cavity enlarges. By Boyle's law, the larger volume lowers the pressure in the alveoli below atmospheric pressure, and air flows in. Quiet exhalation is mostly passive: the muscles relax, elastic tissue recoils, alveolar pressure rises above atmospheric, and air flows out.",
+      "Once air reaches the alveoli, each gas moves along its own partial-pressure gradient. Alveolar oxygen sits near 104 mm Hg, while blood returning from the tissues arrives at about 40, so oxygen diffuses across the thin respiratory membrane into the blood. Carbon dioxide moves the other way, from about 45 mm Hg in the blood to about 40 in the alveoli. That gradient is small, but carbon dioxide is about twenty times more soluble than oxygen, so similar amounts of the two gases cross.",
+      "In the tissues the gradients reverse. Active cells use oxygen and produce carbon dioxide, so oxygen leaves the blood and carbon dioxide enters it. Nearly all the oxygen travels bound to hemoglobin, and most of the carbon dioxide is converted to bicarbonate inside red blood cells."
+    ],
+    "q": [
+      { "q": "Why does air enter the lungs during inspiration?", "o": ["The trachea pumps it in", "Alveolar pressure falls below atmospheric", "Alveolar pressure rises above atmospheric"], "k": 1 },
+      { "q": "Why can CO2 cross in similar amounts despite a small gradient?", "o": ["It is much more soluble than oxygen", "It binds surfactant", "Its gradient is larger than oxygen's"], "k": 0 },
+      { "q": "What mainly drives quiet exhalation?", "o": ["Contraction of the diaphragm", "Contraction of the external intercostals", "Elastic recoil of the lungs and chest"], "k": 2 }
+    ]
+  }
+}

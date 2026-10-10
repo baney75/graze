@@ -8,20 +8,7 @@ const DAY = 864e5, NEW_CAP = 10, DAILY = 12, CODEX_PER_DAY = 2, MASTER = 5;
 const IV = [0, 6e5, DAY, 3 * DAY, 7 * DAY, 16 * DAY, 35 * DAY, 90 * DAY, 180 * DAY];
 const needXp = L => 100 + L * 60;
 
-const PACKS = {
-  roots:    { name: 'Roots', tag: 'ROOT', col: '#d5b66f', on: true, items: ROOTS, id: c => 'r:' + c, show: c => c + '-' },
-  lex:      { name: 'Words', tag: 'WORD', col: '#7bc4bd', on: true, items: LEX, id: c => 'l:' + c },
-  logic:    { name: 'Logic & Bias', tag: 'LOGIC', col: '#e6a36d', on: true, items: LOGIC },
-  philo:    { name: 'Philosophy & Theology', tag: 'PHILO', col: '#c3a6d6', on: true, items: PHILO },
-  body:     { name: 'Body & Cell', tag: 'BIO', col: '#d98aa6', on: true, items: BODY },
-  capitals: { name: 'Capitals', tag: 'WORLD', col: '#8ab4dc', on: true, items: CAPITALS },
-  nums:     { name: 'Number Sense', tag: 'MATH', col: '#a8c97a', on: true, items: NUMS, norev: true },
-  orgo:     { name: 'Organic Chemistry', tag: 'ORGO', col: '#82c89c', on: false, items: ORGO },
-  latin:    { name: 'Latin', tag: 'LATINE', col: '#e8c98a', on: false, items: LATIN },
-  german:   { name: 'German', tag: 'DEUTSCH', col: '#e3a47c', on: false, items: GERMAN },
-  polish:   { name: 'Polish', tag: 'POLSKI', col: '#e59494', on: false, items: POLISH }
-};
-const DECKS = Object.assign({}, ...Object.entries(PACKS).map(([k, p]) => ({ [k]: { tag: p.tag, name: p.name, col: p.col } })),
+const DECKS = Object.assign({}, ...Object.values(COURSES).map(c => ({ [c.key]: { tag: c.tag || c.name.toUpperCase().slice(0, 8), name: c.name, col: c.col } })),
   { codex: { tag: 'CODEX', name: 'Codex', col: '#db93b4' }, custom: { tag: 'YOURS', name: 'Yours', col: '#82c89c' } });
 
 /* ================= persistence (v2, mergeable) ================= */
@@ -30,7 +17,8 @@ const devId = () => { const a = new Uint8Array(6); crypto.getRandomValues(a); re
 function fresh(dev) {
   return { v: 2, dev: dev || devId(), gc: {}, best: 0, cards: {}, codex: {}, reading: [],
     daily: { day: '', newToday: 0, gatesToday: 0, codexToday: 0 }, streak: { n: 0, last: '' }, shop: {}, seen: ['ember'], tips: {},
-    prefs: { trail: 'ember', cue: '', packs: {}, custom: '', u: 0 },
+    prefs: { trail: 'ember', cue: '', packs: {}, custom: '', u: 0, order: [], unit: {}, newCap: 10, voice: true, onboard: 0 },
+    math: { lv: 2, u: 0 },
     muted: false, missions: null, rr: 0, link: null, lastSave: 0 };
 }
 function migrate(o) {
@@ -62,6 +50,10 @@ function normalize(s) {
   o.streak = Object.assign(fresh().streak, o.streak || {});
   o.prefs = Object.assign(fresh().prefs, o.prefs || {});
   if (!o.prefs.packs || typeof o.prefs.packs !== 'object') o.prefs.packs = {};
+  if (!Array.isArray(o.prefs.order)) o.prefs.order = [];
+  if (!o.prefs.unit || typeof o.prefs.unit !== 'object') o.prefs.unit = {};
+  o.prefs.newCap = clamp(+o.prefs.newCap || 10, 3, 60);
+  if (!o.math || typeof o.math !== 'object') o.math = { lv: 2, u: 0 };
   return o;
 }
 function loadSave() {
@@ -115,6 +107,8 @@ function mergeState(a, b) {
   o.tips = {}; for (const k of ukeys(a.tips, b.tips)) o.tips[k] = 1;
   const pa = a.prefs || {}, pb = b.prefs || {};
   if ((+pb.u || 0) > (+pa.u || 0)) o.prefs = Object.assign(fresh().prefs, JSON.parse(JSON.stringify(pb)));
+  const ma = a.math || {}, mb = b.math || {};
+  o.math = (+mb.u || 0) > (+ma.u || 0) ? { lv: +mb.lv || 2, u: +mb.u } : { lv: +ma.lv || 2, u: +ma.u || 0 };
   return o;
 }
 function exportState(s) {
@@ -287,14 +281,34 @@ function parseCustom(txt) {
   }
   return out;
 }
-function packOn(k) { const p = SV.prefs.packs || {}; if (k === 'custom') return p.custom !== false; if (k === 'codex') return true; return (k in p) ? !!p[k] : !!(PACKS[k] && PACKS[k].on); }
+function packOn(k) {
+  const p = SV.prefs.packs || {};
+  if (k === 'custom') return p.custom !== false;
+  if (k === 'codex') return true;
+  if (!COURSES[k]) return false;
+  return (k in p) ? !!p[k] : (!SV.prefs.onboard && LEGACY_ON.includes(k));
+}
+const newCap = () => clamp(+SV.prefs.newCap || NEW_CAP, 3, 60);
+function cardId(C, u, x) {
+  if (u.k === 'diagram') return 'g:' + u.g + ':' + x[0];
+  if (u.k === 'map') return 'm:' + u.g + ':' + x[0];
+  if (u.k === 'flag') return 'f:' + x[0];
+  return C.idOf ? C.idOf(x[0]) : 'p:' + C.key + ':' + x[0];
+}
 function buildCards() {
   CARDS = {}; for (const k of Object.keys(DECKS)) DECK_IDS[k] = [];
-  const add = (deck, id, c, a, d, pid) => { if (CARDS[id]) return; CARDS[id] = { id, deck, c, a, d, pid }; DECK_IDS[deck].push(id); };
-  for (const [k, p] of Object.entries(PACKS)) p.items.forEach(x => add(k, p.id ? p.id(x[0]) : 'p:' + k + ':' + x[0], p.show ? p.show(x[0]) : x[0], x[1], x[2]));
-  CODEX.forEach(p => p.cards.forEach((x, i) => add('codex', 'c:' + p.id + i, x[0], x[1], x[2], p.id)));
-  parseCustom(SV.prefs.custom).forEach(([c, a]) => add('custom', 'u:' + c.toLowerCase(), c, a));
+  const put = card => { if (CARDS[card.id]) return; CARDS[card.id] = card; DECK_IDS[card.deck].push(card.id); };
+  for (const C of Object.values(COURSES)) C.units.forEach((u, ui) => u.i.forEach(x => {
+    const id = cardId(C, u, x);
+    if (u.k) put({ id, deck: C.key, u: ui, img: { k: u.k, g: u.g, p: x[0] }, c: u.k === 'map' && u.g === 'us' ? IMG_CUE.us : IMG_CUE[u.k], a: x[1], d: x[2] || [], ex: x[3] || '' });
+    else put({ id, deck: C.key, u: ui, c: C.show ? C.show(x[0]) : x[0], a: x[1], d: x[2] || [], ex: x[3] || '', exT: x[4] || '', r: x[5] || '', say: x[6] || '' });
+  }));
+  CODEX.forEach(p => p.cards.forEach((x, i) => put({ id: 'c:' + p.id + i, deck: 'codex', c: x[0], a: x[1], d: x[2] || [], pid: p.id })));
+  parseCustom(SV.prefs.custom).forEach(([c, a]) => put({ id: 'u:' + c.toLowerCase(), deck: 'custom', c, a, d: [] }));
 }
+const cardLabel = c => c.img ? (c.img.k === 'diagram' && typeof DIAGRAMS !== 'undefined' && DIAGRAMS[c.img.g] ? DIAGRAMS[c.img.g].name.replace(/\s*\(.*\)$/, '') : c.img.k === 'flag' ? 'Flag' : 'Map') + ': ' + c.a : c.c;
+const cardLang = c => { const C = COURSES[c.deck]; return C && C.lang && !c.img ? C.lang : ''; };
+const speakable = c => !!cardLang(c) && !/_{2,}/.test(c.say || c.c);
 buildCards();
 function eligible(id) {
   const c = CARDS[id]; if (!c) return false;
@@ -319,6 +333,9 @@ function distractor(card) {
   return pool.length ? CARDS[pool[Math.random() * pool.length | 0]].a : 'none of these';
 }
 function distractorPrompt(card) {
-  const pool = (DECK_IDS[card.deck] || []).filter(id => id !== card.id && CARDS[id].c.toLowerCase() !== card.c.toLowerCase() && CARDS[id].a.toLowerCase() !== card.a.toLowerCase());
+  const ok = id => { const x = CARDS[id]; return id !== card.id && !x.img && x.c.toLowerCase() !== card.c.toLowerCase() && x.a.toLowerCase() !== card.a.toLowerCase() && !/_{2,}/.test(x.c) === !/_{2,}/.test(card.c); };
+  const deck = DECK_IDS[card.deck] || [];
+  let pool = deck.filter(id => CARDS[id].u === card.u && ok(id));
+  if (pool.length < 2) pool = deck.filter(ok);
   return pool.length ? CARDS[pool[Math.random() * pool.length | 0]].c : null;
 }

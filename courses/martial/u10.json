@@ -1,0 +1,319 @@
+{
+  "title": "Japanese terms and dojo etiquette",
+  "note": "Japanese arts share a vocabulary. Do means a way of life and training, jutsu a technique or method; budo is the martial way. Etiquette, or reigi, shapes the dojo: bow on entering and leaving, bow to partners before and after practice, respect seniors, and keep the mat and uniform clean.",
+  "src": {
+    "t": "Kodokan Judo Institute, Teachings of Jigoro Kano",
+    "u": "https://kdkjudo.org/doctrine/"
+  },
+  "items": [
+    {
+      "c": "Dojo",
+      "a": "the training hall; literally place of the way",
+      "d": [
+        "the head teacher's rank",
+        "the training uniform"
+      ]
+    },
+    {
+      "c": "Sensei",
+      "a": "teacher; literally one born before",
+      "d": [
+        "senior student",
+        "live-in student"
+      ]
+    },
+    {
+      "c": "Senpai",
+      "a": "a senior student",
+      "d": [
+        "a junior student",
+        "the head teacher"
+      ]
+    },
+    {
+      "c": "Kohai",
+      "a": "a junior student",
+      "d": [
+        "a senior student",
+        "a visiting teacher"
+      ]
+    },
+    {
+      "c": "Rei",
+      "a": "a bow, and the respect it expresses",
+      "d": [
+        "a spirited shout",
+        "a breakfall"
+      ]
+    },
+    {
+      "c": "Ritsurei",
+      "a": "standing bow",
+      "d": [
+        "kneeling bow",
+        "sitting meditation"
+      ]
+    },
+    {
+      "c": "Zarei",
+      "a": "kneeling bow",
+      "d": [
+        "standing bow",
+        "a bow to the referee"
+      ]
+    },
+    {
+      "c": "Seiza",
+      "a": "formal kneeling posture, sitting on the heels",
+      "d": [
+        "cross-legged sitting",
+        "the ready stance"
+      ]
+    },
+    {
+      "c": "Reigi",
+      "a": "etiquette and courtesy",
+      "d": [
+        "a training uniform",
+        "free practice"
+      ]
+    },
+    {
+      "c": "Gi, in martial arts",
+      "a": "the training uniform",
+      "d": [
+        "the belt",
+        "the training mat"
+      ]
+    },
+    {
+      "c": "Obi",
+      "a": "the belt",
+      "d": [
+        "the uniform jacket",
+        "the wide pleated trousers"
+      ]
+    },
+    {
+      "c": "Tatami",
+      "a": "the training mats",
+      "d": [
+        "the wooden practice sword",
+        "the front wall of the dojo"
+      ]
+    },
+    {
+      "c": "Shomen",
+      "a": "the front, or place of honor, of the dojo",
+      "d": [
+        "the entrance door",
+        "the changing room"
+      ]
+    },
+    {
+      "c": "Onegaishimasu, said before practice",
+      "a": "please, a request to train together",
+      "d": [
+        "thank you for practicing",
+        "stop at once"
+      ]
+    },
+    {
+      "c": "Arigato gozaimashita, said after practice",
+      "a": "thank you, for what was done",
+      "d": [
+        "please, let us begin",
+        "excuse me for being late"
+      ]
+    },
+    {
+      "c": "Hajime",
+      "a": "begin",
+      "d": [
+        "stop",
+        "wait"
+      ]
+    },
+    {
+      "c": "Yame",
+      "a": "stop",
+      "d": [
+        "begin",
+        "bow"
+      ]
+    },
+    {
+      "c": "Mokuso",
+      "a": "quiet meditation, often at the start or end of class",
+      "d": [
+        "a fast warm-up drill",
+        "a formal grading test"
+      ]
+    },
+    {
+      "c": "Kiai",
+      "a": "a spirited shout that focuses breath and effort",
+      "d": [
+        "a silent bow",
+        "a defensive block"
+      ]
+    },
+    {
+      "c": "Zanshin",
+      "a": "remaining alert after a technique is done",
+      "d": [
+        "emptying the mind before a fight",
+        "bowing to the front of the dojo"
+      ]
+    },
+    {
+      "c": "Mushin",
+      "a": "no-mind: acting freely without hesitation",
+      "d": [
+        "remaining alert after a technique",
+        "fierce concentration on one target"
+      ]
+    },
+    {
+      "c": "Budo",
+      "a": "the martial way, training as self-development",
+      "d": [
+        "fighting techniques alone",
+        "a warrior's sword"
+      ]
+    },
+    {
+      "c": "Suffix -do, as in judo or kendo",
+      "a": "way, a path of training and life",
+      "d": [
+        "technique or method",
+        "hand or fist"
+      ]
+    },
+    {
+      "c": "Suffix -jutsu, as in jujutsu",
+      "a": "technique, art, or method",
+      "d": [
+        "way of life",
+        "empty"
+      ]
+    },
+    {
+      "c": "Kyu",
+      "a": "a grade below black belt",
+      "d": [
+        "a black belt degree",
+        "a teaching license"
+      ]
+    },
+    {
+      "c": "Dan",
+      "a": "a black belt degree",
+      "d": [
+        "a grade below black belt",
+        "a training partner"
+      ]
+    },
+    {
+      "c": "Shodan",
+      "a": "first-degree black belt",
+      "d": [
+        "the lowest beginner grade",
+        "tenth-degree black belt"
+      ]
+    },
+    {
+      "c": "Keiko",
+      "a": "practice, training",
+      "d": [
+        "a competition",
+        "a rank test"
+      ]
+    },
+    {
+      "c": "Shiai",
+      "a": "a contest or match",
+      "d": [
+        "a practice session",
+        "a bow"
+      ]
+    },
+    {
+      "c": "Uchi-deshi",
+      "a": "a live-in student who trains with the teacher",
+      "d": [
+        "a visiting instructor",
+        "a beginner's first class"
+      ]
+    },
+    {
+      "c": "Hakama",
+      "a": "wide pleated trousers worn in kendo and aikido",
+      "d": [
+        "a wooden practice sword",
+        "a bamboo practice sword"
+      ]
+    },
+    {
+      "c": "Shinai",
+      "a": "the bamboo sword used in kendo",
+      "d": [
+        "a wooden practice sword",
+        "a steel training blade"
+      ]
+    },
+    {
+      "c": "Bokken",
+      "a": "a wooden practice sword",
+      "d": [
+        "a bamboo sparring sword",
+        "a short knife"
+      ]
+    },
+    {
+      "c": "Why bow when stepping on or off the mat?",
+      "a": "to show respect for the place and the training",
+      "d": [
+        "to warm up the back muscles",
+        "to signal the start of a match"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Way and technique",
+    "text": [
+      "Many Japanese art names end in do or jutsu, and the difference carries a philosophy. Jutsu means technique or method, as in jujutsu, the old grappling arts of the samurai. Do means a way, a path followed for life. When Jigoro Kano turned jujutsu into judo, he signaled that training should build character as well as skill. The broader idea is budo, the martial way.",
+      "Etiquette, called reigi, makes that idea visible. Students bow, rei, when they enter or leave the dojo, literally the place of the way, and when they step on or off the tatami. They bow to partners before and after practice, often saying onegaishimasu, please train with me, and afterward arigato gozaimashita, thank you. Seniors, senpai, look after juniors, kohai, and everyone addresses the teacher as sensei, one born before.",
+      "Two mental ideals often appear in classes. Zanshin, remaining mind, is alertness that continues after a technique ends. Mushin, no-mind, is action that flows without hesitation."
+    ],
+    "q": [
+      {
+        "q": "What does the suffix -do signal, according to the reading?",
+        "o": [
+          "A way followed for life",
+          "A technique or method",
+          "A contest"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does onegaishimasu express before practice?",
+        "o": [
+          "An apology",
+          "A request to train together",
+          "A command to stop"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What is zanshin?",
+        "o": [
+          "Action without hesitation",
+          "Respect for seniors",
+          "Alertness that continues after a technique"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

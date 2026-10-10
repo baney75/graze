@@ -1,0 +1,361 @@
+{
+  "title": "Numbers and age",
+  "note": "Uno becomes un before a masculine noun and una before a feminine one: un libro, una casa. From 31 to 99, numbers are three words joined by y: treinta y dos. Age uses tener, not ser: Tengo veinte años means I am twenty. Cien is exactly 100; from 101 it becomes ciento: ciento uno.",
+  "src": {
+    "t": "Spanish 1A (LibreTexts), 2.6 Números 30-100",
+    "u": "https://human.libretexts.org/Courses/Chabot_College/Spanish/Spanish_1A%3A_Beginning_Spanish_(2026)/02%3A_Capitulo_2-_Eres_estudiante/2.06%3A_Vocabulario-_Numeros_30-100"
+  },
+  "items": [
+    {
+      "c": "cero",
+      "a": "0",
+      "d": [
+        "1",
+        "100"
+      ]
+    },
+    {
+      "c": "uno",
+      "a": "1",
+      "d": [
+        "11",
+        "0"
+      ]
+    },
+    {
+      "c": "dos",
+      "a": "2",
+      "d": [
+        "12",
+        "10"
+      ],
+      "ex": "Tengo dos hermanos.",
+      "exT": "I have two siblings."
+    },
+    {
+      "c": "tres",
+      "a": "3",
+      "d": [
+        "13",
+        "30"
+      ]
+    },
+    {
+      "c": "cuatro",
+      "a": "4",
+      "d": [
+        "14",
+        "40"
+      ]
+    },
+    {
+      "c": "cinco",
+      "a": "5",
+      "d": [
+        "15",
+        "50"
+      ]
+    },
+    {
+      "c": "seis",
+      "a": "6",
+      "d": [
+        "7",
+        "16"
+      ]
+    },
+    {
+      "c": "siete",
+      "a": "7",
+      "d": [
+        "6",
+        "17"
+      ]
+    },
+    {
+      "c": "ocho",
+      "a": "8",
+      "d": [
+        "18",
+        "80"
+      ]
+    },
+    {
+      "c": "nueve",
+      "a": "9",
+      "d": [
+        "19",
+        "90"
+      ]
+    },
+    {
+      "c": "diez",
+      "a": "10",
+      "d": [
+        "12",
+        "2"
+      ],
+      "ex": "Tengo diez libros.",
+      "exT": "I have ten books."
+    },
+    {
+      "c": "once",
+      "a": "11",
+      "d": [
+        "1",
+        "12"
+      ]
+    },
+    {
+      "c": "doce",
+      "a": "12",
+      "d": [
+        "2",
+        "11"
+      ]
+    },
+    {
+      "c": "trece",
+      "a": "13",
+      "d": [
+        "3",
+        "30"
+      ]
+    },
+    {
+      "c": "quince",
+      "a": "15",
+      "d": [
+        "5",
+        "50"
+      ],
+      "ex": "Mi hermana tiene quince años.",
+      "exT": "My sister is fifteen."
+    },
+    {
+      "c": "dieciséis",
+      "a": "16",
+      "d": [
+        "6",
+        "60"
+      ]
+    },
+    {
+      "c": "veinte",
+      "a": "20",
+      "d": [
+        "2",
+        "12"
+      ],
+      "ex": "Hay veinte sillas en la clase.",
+      "exT": "There are twenty chairs in the classroom."
+    },
+    {
+      "c": "veintiuno",
+      "a": "21",
+      "d": [
+        "12",
+        "31"
+      ]
+    },
+    {
+      "c": "treinta",
+      "a": "30",
+      "d": [
+        "13",
+        "3"
+      ]
+    },
+    {
+      "c": "cuarenta",
+      "a": "40",
+      "d": [
+        "14",
+        "4"
+      ]
+    },
+    {
+      "c": "cincuenta",
+      "a": "50",
+      "d": [
+        "15",
+        "5"
+      ]
+    },
+    {
+      "c": "sesenta",
+      "a": "60",
+      "d": [
+        "70",
+        "16"
+      ]
+    },
+    {
+      "c": "setenta",
+      "a": "70",
+      "d": [
+        "60",
+        "17"
+      ]
+    },
+    {
+      "c": "ochenta",
+      "a": "80",
+      "d": [
+        "18",
+        "8"
+      ]
+    },
+    {
+      "c": "noventa",
+      "a": "90",
+      "d": [
+        "19",
+        "9"
+      ]
+    },
+    {
+      "c": "cien",
+      "a": "100",
+      "d": [
+        "1,000",
+        "10"
+      ],
+      "ex": "El libro tiene cien páginas.",
+      "exT": "The book has a hundred pages."
+    },
+    {
+      "c": "treinta y cinco",
+      "a": "35",
+      "d": [
+        "53",
+        "45"
+      ],
+      "ex": "Mi padre tiene treinta y cinco años.",
+      "exT": "My father is thirty-five."
+    },
+    {
+      "c": "¿Cuántos años tienes?",
+      "a": "How old are you?",
+      "d": [
+        "How many do you have?",
+        "What year is it?"
+      ],
+      "ex": "—¿Cuántos años tienes? —Tengo diecinueve.",
+      "exT": "How old are you? I'm nineteen."
+    },
+    {
+      "c": "Tengo dieciocho años.",
+      "a": "I'm eighteen years old.",
+      "d": [
+        "I'm eight years old.",
+        "I have eighty years."
+      ]
+    },
+    {
+      "c": "¿Cuántos?",
+      "a": "How many?",
+      "d": [
+        "How?",
+        "When?"
+      ],
+      "ex": "¿Cuántos estudiantes hay?",
+      "exT": "How many students are there?"
+    },
+    {
+      "c": "hay",
+      "a": "there is, there are",
+      "d": [
+        "here is",
+        "it is"
+      ],
+      "ex": "Hay veinte estudiantes en la clase.",
+      "exT": "There are twenty students in the class."
+    },
+    {
+      "c": "el número",
+      "a": "the number",
+      "d": [
+        "the name",
+        "the year"
+      ],
+      "ex": "¿Cuál es tu número de teléfono?",
+      "exT": "What's your phone number?"
+    },
+    {
+      "c": "Yo ___ veinte años. (tener)",
+      "a": "tengo",
+      "d": [
+        "tiene",
+        "tienes"
+      ],
+      "ex": "Yo tengo veinte años.",
+      "exT": "I'm twenty years old."
+    },
+    {
+      "c": "Mi madre ___ cuarenta años. (tener)",
+      "a": "tiene",
+      "d": [
+        "tengo",
+        "tienen"
+      ]
+    },
+    {
+      "c": "Hay ___ libro en la mesa. (1)",
+      "a": "un",
+      "d": [
+        "uno",
+        "una"
+      ],
+      "ex": "Hay un libro en la mesa.",
+      "exT": "There is one book on the table."
+    },
+    {
+      "c": "Tengo ___ hermana. (1)",
+      "a": "una",
+      "d": [
+        "uno",
+        "un"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Me llamo Sofía",
+    "text": [
+      "¡Hola! Me llamo Sofía. Soy estudiante y tengo diecinueve años. Soy de Colombia. Mi amiga se llama Elena. Ella es de España y tiene veinte años.",
+      "En nuestra clase hay treinta estudiantes. El profesor es el señor Ruiz. Él es de México y tiene cuarenta y cinco años. Es muy simpático.",
+      "Elena y yo somos buenas amigas. Por la mañana, ella siempre dice: «¡Buenos días, Sofía! ¿Qué tal?». Y yo digo: «Muy bien, gracias. ¿Y tú?»."
+    ],
+    "q": [
+      {
+        "q": "How old is Sofía?",
+        "o": [
+          "19",
+          "20",
+          "45",
+          "9"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Where is the teacher from?",
+        "o": [
+          "Colombia",
+          "Spain",
+          "Mexico"
+        ],
+        "k": 2
+      },
+      {
+        "q": "How many students are in the class?",
+        "o": [
+          "13",
+          "30",
+          "45",
+          "20"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

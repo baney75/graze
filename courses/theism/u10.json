@@ -1,0 +1,290 @@
+{
+  "title": "Religious experience",
+  "note": "The argument from religious experience treats apparent experiences of God like other perceptual experiences: they are evidence for what they seem to show unless there is reason to doubt them. Swinburne defends this with his principle of credulity, Alston by comparing mystical and sense perception. Critics point to conflicting experiences, missing public checks, and natural explanations.",
+  "src": {
+    "t": "Stanford Encyclopedia of Philosophy: Religious Experience",
+    "u": "https://plato.stanford.edu/entries/religious-experience/"
+  },
+  "items": [
+    {
+      "c": "Core claim of the religious experience argument",
+      "a": "apparent experiences of God are evidence that God exists",
+      "d": [
+        "religious feelings prove that God is a feeling",
+        "experiences of God show that God is unknowable"
+      ]
+    },
+    {
+      "c": "Swinburne's principle of credulity",
+      "a": "things probably are as they seem, unless defeated",
+      "d": [
+        "we should believe nothing without proof",
+        "others' reports are always false"
+      ]
+    },
+    {
+      "c": "Swinburne's principle of testimony",
+      "a": "others' experiences are probably as they report",
+      "d": [
+        "one's own experience is never reliable",
+        "only scientific testimony counts"
+      ]
+    },
+    {
+      "c": "What credulity puts on the skeptic",
+      "a": "the burden of showing a defeater",
+      "d": [
+        "the burden of proving God's existence",
+        "no burden of any kind"
+      ]
+    },
+    {
+      "c": "William Alston's 1991 book",
+      "a": "Perceiving God",
+      "d": [
+        "The Varieties of Religious Experience",
+        "The Idea of the Holy"
+      ]
+    },
+    {
+      "c": "Doxastic practice, for Alston",
+      "a": "a socially established way of forming beliefs",
+      "d": [
+        "a ritual performed to produce belief",
+        "a doctrine accepted on authority"
+      ]
+    },
+    {
+      "c": "Alston's parity argument",
+      "a": "sense perception can't be validated without circularity either",
+      "d": [
+        "mystical perception is better than sight",
+        "sense perception is always unreliable"
+      ]
+    },
+    {
+      "c": "William James's 1902 Gifford Lectures",
+      "a": "The Varieties of Religious Experience",
+      "d": [
+        "The Will to Believe",
+        "Pragmatism"
+      ]
+    },
+    {
+      "c": "James's four marks of mystical states",
+      "a": "ineffability, noetic quality, transiency, passivity",
+      "d": [
+        "clarity, permanence, activity, sociability",
+        "emotion, ritual, doctrine, community"
+      ]
+    },
+    {
+      "c": "Noetic quality, for James",
+      "a": "mystical states seem to be states of knowledge",
+      "d": [
+        "mystical states cannot be described",
+        "mystical states last only briefly"
+      ]
+    },
+    {
+      "c": "Ineffability, for James",
+      "a": "the experience defies adequate description",
+      "d": [
+        "the experience feels like knowledge",
+        "the experience comes and goes quickly"
+      ]
+    },
+    {
+      "c": "James on the authority of mystical states",
+      "a": "they may bind the mystic, but not others",
+      "d": [
+        "they bind everyone who hears of them",
+        "they bind no one, not even the mystic"
+      ]
+    },
+    {
+      "c": "Rudolf Otto's 1917 book",
+      "a": "The Idea of the Holy",
+      "d": [
+        "The Future of an Illusion",
+        "The Christian Faith"
+      ]
+    },
+    {
+      "c": "Otto's term for the sense of the holy",
+      "a": "the numinous",
+      "d": [
+        "the sublime",
+        "the uncanny"
+      ]
+    },
+    {
+      "c": "Otto's mysterium tremendum et fascinans",
+      "a": "a mystery that both overawes and attracts",
+      "d": [
+        "a mystery that bores and repels",
+        "a puzzle solved by careful reasoning"
+      ]
+    },
+    {
+      "c": "Schleiermacher's essence of religion",
+      "a": "the feeling of absolute dependence",
+      "d": [
+        "obedience to the moral law",
+        "assent to doctrines proved by reason"
+      ]
+    },
+    {
+      "c": "Schleiermacher's 1799 speeches",
+      "a": "On Religion: Speeches to Its Cultured Despisers",
+      "d": [
+        "The Idea of the Holy",
+        "Lectures on the Philosophy of Religion"
+      ]
+    },
+    {
+      "c": "Freud's 1927 account of belief in God",
+      "a": "The Future of an Illusion: wish fulfillment",
+      "d": [
+        "Totem and Taboo: the moral law",
+        "Civilization and Its Discontents: reason"
+      ]
+    },
+    {
+      "c": "Conflicting-experiences objection",
+      "a": "experiences in different religions support rival claims",
+      "d": [
+        "no one has ever had a religious experience",
+        "experiences agree perfectly across religions"
+      ]
+    },
+    {
+      "c": "Reply to the conflicting-experiences objection",
+      "a": "disagreeing witnesses call for care, not dismissal",
+      "d": [
+        "all religions say exactly the same thing",
+        "only one's own experiences count"
+      ]
+    },
+    {
+      "c": "Neurological objection to religious experience",
+      "a": "such experiences have brain correlates",
+      "d": [
+        "such experiences occur outside the body",
+        "the brain plays no part in experience"
+      ]
+    },
+    {
+      "c": "Reply to the neurological objection",
+      "a": "every experience has brain correlates, even veridical ones",
+      "d": [
+        "religious experiences have none",
+        "the brain does not exist"
+      ]
+    },
+    {
+      "c": "Objection from missing public checks",
+      "a": "no shared tests confirm an experience of God",
+      "d": [
+        "religious experiences are too common",
+        "God can be seen by anyone who looks"
+      ]
+    },
+    {
+      "c": "John Hick's pluralist hypothesis (1989)",
+      "a": "one Real is experienced differently across traditions",
+      "d": [
+        "only one tradition experiences the Real",
+        "religious experience is purely imaginary"
+      ]
+    },
+    {
+      "c": "Calvin's sensus divinitatis",
+      "a": "a natural sense or awareness of the divine",
+      "d": [
+        "a rational proof from motion",
+        "a mystical union achieved by fasting"
+      ]
+    },
+    {
+      "c": "Properly basic belief",
+      "a": "a rational belief not inferred from other beliefs",
+      "d": [
+        "a belief held without any rational standing",
+        "a belief proved from self-evident axioms"
+      ]
+    },
+    {
+      "c": "Plantinga's 'Great Pumpkin objection'",
+      "a": "if belief in God can be basic, why not anything?",
+      "d": [
+        "pumpkins are evidence of design",
+        "belief in God is like a childish game"
+      ]
+    },
+    {
+      "c": "Plantinga's reply to the Great Pumpkin objection",
+      "a": "basicality requires the right conditions, not any belief",
+      "d": [
+        "belief in the Great Pumpkin is rational",
+        "no belief can ever be basic"
+      ]
+    },
+    {
+      "c": "Plantinga's 2000 book",
+      "a": "Warranted Christian Belief",
+      "d": [
+        "Perceiving God",
+        "The Coherence of Theism"
+      ]
+    },
+    {
+      "c": "Carmelite mystic who wrote The Interior Castle",
+      "a": "Teresa of Ávila",
+      "d": [
+        "John of the Cross",
+        "Catherine of Siena"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Seeming and believing",
+    "text": [
+      "Many people across history report experiences that seem to them to be awareness of God. Richard Swinburne argues that such reports are evidence, using a principle we apply everywhere else: the principle of credulity. If it seems to me that something is present, then probably it is, unless I have special reason to doubt it.",
+      "(1) If it seems to a person that x is present, then probably x is present, unless there is a defeater. (2) It seems to many people that God is present to them. (3) No defeater applies across the board to these experiences. (4) So probably God is present to them, and so God exists.",
+      "Swinburne adds a principle of testimony: other people's experiences are probably as they report them. So those without such experiences can also count them as evidence.",
+      "The best-known objection is from conflict. Christians report experiences of the Trinity, Hindus of Krishna, Buddhists of no personal God at all. If experiences support incompatible beliefs, perhaps none deserves trust.",
+      "Defenders reply that disagreement among witnesses usually calls for care, not wholesale dismissal. Many reports agree on a reality beyond the self that is holy and good. William Alston adds that sense perception also yields conflicting judgments and cannot be checked without relying on itself, yet we rightly trust it. Critics answer that sense perception has far more widely shared checks than religious perception does."
+    ],
+    "q": [
+      {
+        "q": "Which premise does the conflict objection mainly challenge?",
+        "o": [
+          "Premise 1",
+          "Premise 2",
+          "Premise 3"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What does the principle of testimony add?",
+        "o": [
+          "Only mystics' reports count",
+          "Those without the experience can use others' reports as evidence",
+          "Testimony always outweighs one's own experience",
+          "Testimony is never reliable"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What is Alston's comparison?",
+        "o": [
+          "Sense perception also faces conflict and circular checks, yet we trust it",
+          "Mystical perception is identical to sight",
+          "Religious experience needs no defense at all"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

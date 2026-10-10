@@ -1,0 +1,55 @@
+{
+  "title": "Electron configuration and quantum numbers",
+  "note": "Four quantum numbers label each electron: n (shell), l (subshell shape, 0 to n − 1), ml (orientation, −l to +l), and ms (spin, ±½). Electrons fill the lowest-energy subshells first, in the order 1s 2s 2p 3s 3p 4s 3d 4p. Each orbital holds two electrons of opposite spin, and equal-energy orbitals fill singly before pairing.",
+  "src": { "t": "Chemistry 2e, 6.4 Electronic Structure of Atoms (Electron Configurations), OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations" },
+  "items": [
+    { "c": "Principal quantum number n", "a": "sets the shell and main energy level", "d": ["sets the orbital's orientation in space", "sets the direction of electron spin"] },
+    { "c": "Angular momentum quantum number l", "a": "sets the subshell and orbital shape", "d": ["sets the shell and main energy level", "sets the electron's spin"] },
+    { "c": "Allowed values of l when n = 3", "a": "0, 1, 2", "d": ["1, 2, 3", "0, 1, 2, 3"] },
+    { "c": "Subshell letter for l = 2", "a": "d", "d": ["p", "f"] },
+    { "c": "Subshell letter for l = 1", "a": "p", "d": ["s", "d"] },
+    { "c": "Allowed ml values when l = 1", "a": "−1, 0, +1", "d": ["0, +1", "+1, +2, +3"] },
+    { "c": "Possible values of ms", "a": "+½ or −½", "d": ["0 or 1", "−1, 0, or +1"] },
+    { "c": "Orbitals in a d subshell", "a": "5", "d": ["3", "7"] },
+    { "c": "Orbitals in an f subshell", "a": "7", "d": ["9", "14"] },
+    { "c": "Maximum electrons in the n = 3 shell", "a": "18", "d": ["8", "9"], "ex": "A shell holds at most 2n² electrons." },
+    { "c": "Maximum electrons in one orbital", "a": "2", "d": ["1", "8"] },
+    { "c": "Pauli exclusion principle", "a": "no two electrons share all four quantum numbers", "d": ["electrons fill the lowest-energy subshells first", "equal-energy orbitals fill singly before pairing"] },
+    { "c": "Hund's rule", "a": "equal-energy orbitals fill singly before pairing", "d": ["no two electrons share all four quantum numbers", "electrons fill the lowest-energy subshells first"] },
+    { "c": "Aufbau principle", "a": "electrons fill the lowest-energy subshells first", "d": ["equal-energy orbitals fill singly before pairing", "no two electrons share all four quantum numbers"] },
+    { "c": "Subshell filled right after 4s", "a": "3d", "d": ["4p", "4d"] },
+    { "c": "Subshell filled right after 3p", "a": "4s", "d": ["3d", "4p"] },
+    { "c": "Electron configuration of oxygen", "a": "1s²2s²2p⁴", "d": ["1s²2s²2p⁶", "1s²2s⁴2p²"] },
+    { "c": "Electron configuration of sodium", "a": "[Ne]3s¹", "d": ["[Ne]3p¹", "[Ar]4s¹"] },
+    { "c": "Electron configuration of iron", "a": "[Ar]4s²3d⁶", "d": ["[Ar]4s²3d⁸", "[Ar]4s²4p⁶"] },
+    { "c": "Electron configuration of Fe²⁺", "a": "[Ar]3d⁶", "d": ["[Ar]4s²3d⁴", "[Ar]4s²3d⁶"], "ex": "Transition metals lose their 4s electrons before 3d." },
+    { "c": "Actual configuration of chromium", "a": "[Ar]4s¹3d⁵", "d": ["[Ar]4s²3d⁴", "[Ar]3d⁶"], "ex": "A half-filled 3d subshell is favored." },
+    { "c": "Actual configuration of copper", "a": "[Ar]4s¹3d¹⁰", "d": ["[Ar]4s²3d⁹", "[Ar]4s²3d¹⁰"], "ex": "A filled 3d subshell is favored." },
+    { "c": "Unpaired electrons in a ground-state N atom", "a": "three", "d": ["one", "five"] },
+    { "c": "Unpaired electrons in a ground-state C atom", "a": "two", "d": ["zero", "four"] },
+    { "c": "Element with configuration [Ar]4s²3d⁵", "a": "manganese (Mn)", "d": ["iron (Fe)", "chromium (Cr)"] },
+    { "c": "Element with configuration [Ne]3s²3p⁵", "a": "chlorine (Cl)", "d": ["sulfur (S)", "argon (Ar)"] },
+    { "c": "Valence electrons in a group 16 atom", "a": "6", "d": ["2", "16"] },
+    { "c": "Noble gas with the same configuration as Na⁺", "a": "neon", "d": ["argon", "helium"] },
+    { "c": "Radial nodes in a 3p orbital", "a": "1", "d": ["2", "0"], "ex": "Radial nodes = n − l − 1." },
+    { "c": "Shape of an s orbital", "a": "spherical", "d": ["dumbbell", "four-lobed"] },
+    { "c": "Shape of a p orbital", "a": "dumbbell (two lobes)", "d": ["spherical", "four lobes"] },
+    { "c": "Heisenberg uncertainty principle", "a": "position and momentum can't both be known exactly", "d": ["electrons orbit in fixed circular paths", "an orbital holds at most two electrons"] },
+    { "c": "Energy of a photon", "a": "E = hν", "d": ["E = h/ν", "E = hλ"] },
+    { "c": "As light's wavelength increases, photon energy", "a": "decreases", "d": ["increases", "stays the same"] },
+    { "c": "Block of the periodic table with the lanthanides", "a": "f block", "d": ["d block", "p block"] }
+  ],
+  "read": {
+    "title": "An address for every electron",
+    "text": [
+      "Quantum mechanics describes electrons in atoms with four quantum numbers, which work like an address. The principal quantum number n names the shell; larger n means a larger, higher-energy shell. The second number, l, can run from 0 up to n − 1 and names the subshell: 0 is s, 1 is p, 2 is d, and 3 is f. The magnetic number ml picks one orbital within the subshell, so a p subshell has three orbitals and a d subshell has five. The spin number ms is either +½ or −½.",
+      "No two electrons in an atom can share all four numbers. That rule, the Pauli exclusion principle, limits every orbital to two electrons with opposite spins.",
+      "To build a ground-state configuration, add electrons to the lowest-energy subshell available. The order is not simply by shell: 4s fills before 3d, which is why potassium's last electron goes into 4s. Within a subshell, electrons spread out over the orbitals before pairing, so nitrogen has three unpaired 2p electrons. A few elements break the expected pattern, such as chromium and copper, where a half-filled or filled d subshell gives a lower energy. When transition metals form cations, they lose their outer s electrons first."
+    ],
+    "q": [
+      { "q": "Why can an orbital hold no more than two electrons?", "o": ["No two electrons may share all four quantum numbers", "The nucleus can attract only two electrons", "Hund's rule forbids a third electron"], "k": 0 },
+      { "q": "Where does potassium's last electron go?", "o": ["3d", "4s", "3p"], "k": 1 },
+      { "q": "Why does nitrogen have three unpaired 2p electrons?", "o": ["Nitrogen's 2s electrons are unpaired", "The 2p subshell has only one orbital", "Electrons spread over equal orbitals before pairing"], "k": 2 }
+    ]
+  }
+}

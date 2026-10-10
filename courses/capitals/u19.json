@@ -1,0 +1,24 @@
+{
+  "title": "Flags of Oceania",
+  "kind": "flag",
+  "note": "Australia, New Zealand, Tuvalu and Fiji keep the British Union Jack in the corner beside the Southern Cross or other emblems. Other Pacific states use stars for their islands, as Micronesia does with four stars for its four states.",
+  "src": {
+    "t": "flag-icons (MIT)",
+    "u": "https://github.com/lipis/flag-icons"
+  },
+  "items": [
+    { "p": "au", "a": "Australia", "d": ["New Zealand", "United Kingdom", "Fiji"] },
+    { "p": "nz", "a": "New Zealand", "d": ["Australia", "United Kingdom", "Fiji"] },
+    { "p": "pg", "a": "Papua New Guinea", "d": ["Solomon Islands", "Micronesia", "Nauru"] },
+    { "p": "sb", "a": "Solomon Islands", "d": ["Vanuatu", "Papua New Guinea", "Nauru"] },
+    { "p": "vu", "a": "Vanuatu", "d": ["Fiji", "Solomon Islands", "Tonga"] },
+    { "p": "ws", "a": "Samoa", "d": ["Tonga", "Fiji", "Vanuatu"] },
+    { "p": "to", "a": "Tonga", "d": ["Fiji", "Samoa", "Vanuatu"] },
+    { "p": "tv", "a": "Tuvalu", "d": ["Australia", "New Zealand", "Papua New Guinea"] },
+    { "p": "ki", "a": "Kiribati", "d": ["Australia", "Palau", "Papua New Guinea"] },
+    { "p": "nr", "a": "Nauru", "d": ["Marshall Islands", "Solomon Islands", "Micronesia"] },
+    { "p": "mh", "a": "Marshall Islands", "d": ["Nauru", "Micronesia", "Solomon Islands"] },
+    { "p": "fm", "a": "Micronesia", "d": ["Somalia", "Marshall Islands", "Nauru"] },
+    { "p": "pw", "a": "Palau", "d": ["Japan", "Bangladesh", "Laos"] }
+  ]
+}

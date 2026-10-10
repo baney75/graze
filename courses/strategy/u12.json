@@ -1,0 +1,55 @@
+{
+  "title": "Decisive battles of the 20th century",
+  "note": "Five battles show recurring strategic patterns: the Marne (1914) wrecked a plan built on speed and timetables; Stalingrad (1942 to 1943) turned an overextended offensive into an encirclement; Midway (1942) turned on intelligence and minutes; Normandy (1944) combined deception, logistics and mass; Inchon (1950) struck far behind an enemy's front.",
+  "src": { "t": "OpenStax World History Vol. 2, 13.2 Theaters of War", "u": "https://openstax.org/books/world-history-volume-2/pages/13-2-theaters-of-war" },
+  "items": [
+    { "c": "Schlieffen Plan", "a": "German plan to defeat France fast via Belgium, then turn on Russia", "d": ["French plan to retake Alsace-Lorraine", "British plan to blockade Germany"] },
+    { "c": "First Battle of the Marne, September 1914", "a": "France and Britain halt the German advance near Paris", "d": ["Germany captures Paris and ends the war", "Russia defeats Germany in East Prussia"] },
+    { "c": "French commander-in-chief at the Marne", "a": "Joseph Joffre", "d": ["Ferdinand Foch", "Philippe Pétain"] },
+    { "c": "German chief of staff at the Marne", "a": "Helmuth von Moltke the Younger", "d": ["Paul von Hindenburg", "Alfred von Tirpitz"] },
+    { "c": "Famous vehicles that rushed troops to the Marne", "a": "Paris taxicabs", "d": ["London buses", "Armored trains"] },
+    { "c": "Gap the Allies exploited at the Marne", "a": "Between the German First and Second Armies", "d": ["Between Paris and the sea", "Between France and Switzerland"] },
+    { "c": "Strategic result of the Marne", "a": "No quick victory; trench stalemate followed", "d": ["Germany won the war by Christmas", "Russia left the war at once"] },
+    { "c": "Why Hitler drove south in 1942 toward Stalingrad", "a": "To seize the Caucasus oil fields", "d": ["To link up with Japan", "To capture Moscow from behind"] },
+    { "c": "Stalin's Order No. 227 (July 1942)", "a": "\"Not one step back\"", "d": ["\"Scorched earth\"", "\"Peace, land, bread\""] },
+    { "c": "German army trapped at Stalingrad", "a": "The Sixth Army", "d": ["The Afrika Korps", "The Fourth Panzer Army"] },
+    { "c": "Operation Uranus, November 1942", "a": "Soviet counteroffensive that encircled the Germans", "d": ["German drive into Stalingrad's factories", "German airlift to supply the city"] },
+    { "c": "Uranus struck the weak flanks held by", "a": "Romanian armies", "d": ["Japanese divisions", "Finnish ski troops"] },
+    { "c": "Why the Stalingrad pocket could not hold out", "a": "Supply by air fell far short", "d": ["Its commander fled by plane", "Winter froze the Volga too thin"] },
+    { "c": "German commander who surrendered at Stalingrad", "a": "Friedrich Paulus", "d": ["Erwin Rommel", "Erich von Manstein"] },
+    { "c": "When the Germans at Stalingrad surrendered", "a": "January to February 1943", "d": ["December 1941", "June 1944"] },
+    { "c": "Largest tank battle of the war, summer 1943", "a": "Kursk", "d": ["El Alamein", "Kharkov"] },
+    { "c": "Battle of Midway, June 1942", "a": "US carriers sink four Japanese carriers", "d": ["Japan captures Midway and Hawaii", "US battleships sink the Yamato"] },
+    { "c": "Japanese admiral who planned Midway", "a": "Isoroku Yamamoto", "d": ["Chuichi Nagumo", "Heihachiro Togo"] },
+    { "c": "US Pacific Fleet commander at Midway", "a": "Chester Nimitz", "d": ["William Halsey", "Douglas MacArthur"] },
+    { "c": "US edge that set up Midway", "a": "Codebreakers had read Japan's plan", "d": ["The US had more carriers there", "Radar on every US ship"] },
+    { "c": "US carrier lost at Midway", "a": "Yorktown", "d": ["Enterprise", "Lexington"] },
+    { "c": "Strategic result of Midway", "a": "Japan's advance halted; the initiative passed to the US", "d": ["Japan won control of the Pacific", "The US withdrew to the West Coast"] },
+    { "c": "Code name for the 1944 Normandy invasion", "a": "Operation Overlord", "d": ["Operation Torch", "Operation Market Garden"] },
+    { "c": "Date of D-Day", "a": "June 6, 1944", "d": ["June 22, 1941", "December 7, 1941"] },
+    { "c": "Supreme Allied Commander for D-Day", "a": "Dwight D. Eisenhower", "d": ["Bernard Montgomery", "George Marshall"] },
+    { "c": "The five Normandy landing beaches", "a": "Utah, Omaha, Gold, Juno, Sword", "d": ["Red, White, Blue, Green, Gold", "Dover, Calais, Dieppe, Brest, Cherbourg"] },
+    { "c": "Beach taken by Canadian troops on D-Day", "a": "Juno", "d": ["Utah", "Sword"] },
+    { "c": "Why D-Day was postponed from June 5", "a": "Bad weather; a forecast gap allowed June 6", "d": ["A spy revealed the plan", "The paratroopers were not ready"] },
+    { "c": "German coastal defenses facing D-Day", "a": "The Atlantic Wall", "d": ["The Siegfried Line", "The Maginot Line"] },
+    { "c": "Inchon landing, September 1950", "a": "UN forces land behind North Korean lines", "d": ["Chinese forces cross the Yalu", "North Korea captures Seoul"] },
+    { "c": "Commander of the Inchon landing", "a": "Douglas MacArthur", "d": ["Matthew Ridgway", "Omar Bradley"] },
+    { "c": "Main natural hazard at Inchon", "a": "Extreme tides allowing only short landing windows", "d": ["Ice covering the harbor", "Monsoon floods inland"] },
+    { "c": "UN pocket relieved after Inchon", "a": "The Pusan Perimeter", "d": ["The Chosin Reservoir", "The Iron Triangle"] },
+    { "c": "Overreach that followed Inchon", "a": "Advancing toward the Yalu brought China into the war", "d": ["Invading Japan provoked the USSR", "Stopping at Seoul let North Korea recover"] }
+  ],
+  "read": {
+    "title": "Five turning points",
+    "text": [
+      "In 1914 Germany's Schlieffen Plan bet everything on speed: swing through Belgium, take Paris, then turn east. Friction and fatigue wore down the marching armies, a gap opened between two of them, and at the Marne the French and British counterattacked. The plan failed, and the war settled into trenches.",
+      "At Stalingrad in 1942, a German offensive aimed at Caucasus oil became bogged down in street fighting. The Soviets massed reserves and in November struck the weakly held flanks, trapping the Sixth Army, which surrendered early in 1943 when supply by air proved hopeless.",
+      "At Midway in June 1942, American codebreakers learned Japan's plan, and US carrier aircraft sank four Japanese carriers, ending Japan's offensive momentum in the Pacific. Two years later, the Normandy landings of June 6, 1944 combined deception that fixed German attention on Calais, artificial harbors, and overwhelming air and naval power.",
+      "In September 1950, with UN forces penned in around Pusan, Douglas MacArthur landed at Inchon, deep behind North Korean lines, despite dangerous tides. Seoul fell quickly. But the advance north that followed provoked Chinese intervention, a reminder that a brilliant operation can lead into a strategic trap."
+    ],
+    "q": [
+      { "q": "What wrecked the Schlieffen Plan, according to the reading?", "o": ["A Russian victory in the west", "Friction, fatigue and a gap exploited at the Marne", "A British landing in Germany"], "k": 1 },
+      { "q": "What gave the Americans their chance at Midway?", "o": ["Codebreakers learned Japan's plan", "They had twice as many carriers", "Japan's fleet ran out of fuel"], "k": 0 },
+      { "q": "What lesson does the reading draw from the aftermath of Inchon?", "o": ["Amphibious landings never work", "Tides matter more than troops", "A brilliant operation can lead into a strategic trap"], "k": 2 }
+    ]
+  }
+}

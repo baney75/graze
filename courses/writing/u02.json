@@ -1,0 +1,50 @@
+{
+  "title": "Sentence structure",
+  "note": "A sentence needs a subject and a predicate and must express a complete thought. A clause has its own subject and verb: an independent clause can stand alone, a dependent clause cannot. Simple sentences have one independent clause, compound sentences two or more, complex sentences one plus a dependent clause.",
+  "src": { "t": "Purdue OWL, Independent and Dependent Clauses", "u": "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html" },
+  "items": [
+    { "c": "Simple subject of 'The tall boy ran home.'", "a": "boy", "d": ["tall", "home"] },
+    { "c": "Complete predicate: 'The dog barked at the cat.'", "a": "barked at the cat", "d": ["The dog", "the cat"], "ex": "The predicate is the verb plus everything that completes it." },
+    { "c": "Subject of 'Here comes the bus.'", "a": "bus", "d": ["Here", "comes"], "ex": "In inverted sentences the subject follows the verb." },
+    { "c": "Understood subject of 'Close the door.'", "a": "you", "d": ["door", "I"] },
+    { "c": "Direct object in 'Maria wrote a letter.'", "a": "letter", "d": ["Maria", "wrote"] },
+    { "c": "Indirect object: 'She gave her son a book.'", "a": "son", "d": ["book", "She"], "ex": "The indirect object tells to whom or for whom." },
+    { "c": "Subject complement: 'The soup tastes salty.'", "a": "salty", "d": ["soup", "tastes"] },
+    { "c": "Predicate nominative", "a": "a noun after a linking verb that renames the subject", "d": ["a noun that receives the verb's action", "a noun that tells to whom something is given"], "ex": "Ann is the captain." },
+    { "c": "Object complement: 'They elected her mayor.'", "a": "mayor", "d": ["her", "They"] },
+    { "c": "Clause", "a": "a word group with its own subject and verb", "d": ["a word group lacking a subject or a verb", "a single word that joins two sentences"] },
+    { "c": "Phrase", "a": "a word group lacking a subject-verb pair", "d": ["a word group with its own subject and verb", "a complete sentence of one clause"], "ex": "on the shelf; to win the race; running late" },
+    { "c": "Independent clause", "a": "a clause that can stand alone as a sentence", "d": ["a clause that begins with 'because'", "a clause that must attach to another"] },
+    { "c": "Dependent (subordinate) clause", "a": "a clause that cannot stand alone", "d": ["a clause that forms a complete sentence", "a phrase with no verb at all"], "ex": "when Jim studied for his quiz" },
+    { "c": "Type: 'The rain stopped.'", "a": "simple sentence", "d": ["compound sentence", "complex sentence"] },
+    { "c": "Type: 'It rained, so we stayed in.'", "a": "compound sentence", "d": ["complex sentence", "simple sentence"] },
+    { "c": "Type: 'We stayed in because it rained.'", "a": "complex sentence", "d": ["compound sentence", "simple sentence"] },
+    { "c": "Type: 'When it rained, we read, and Al slept.'", "a": "compound-complex sentence", "d": ["complex sentence", "compound sentence"] },
+    { "c": "Compound sentence", "a": "two or more independent clauses", "d": ["one independent and one dependent clause", "one clause with a compound subject"] },
+    { "c": "Complex sentence", "a": "one independent clause plus a dependent clause", "d": ["two independent clauses joined by 'and'", "two dependent clauses and no main clause"] },
+    { "c": "Sentence fragment", "a": "an incomplete word group punctuated as a sentence", "d": ["two sentences joined with only a comma", "a sentence that is correct but long"] },
+    { "c": "Comma splice", "a": "two independent clauses joined by only a comma", "d": ["a comma placed between subject and verb", "a list with no comma before 'and'"] },
+    { "c": "Fused (run-on) sentence", "a": "two independent clauses with no punctuation", "d": ["a sentence that is merely very long", "two clauses joined by a semicolon"], "ex": "Length alone does not make a sentence a run-on." },
+    { "c": "Fragment or sentence? 'Because it was late.'", "a": "fragment", "d": ["complete sentence"] },
+    { "c": "Fragment or sentence? 'Go.'", "a": "complete sentence", "d": ["fragment"], "ex": "A command has the understood subject 'you'." },
+    { "c": "Error in 'I was tired, I went to bed.'", "a": "comma splice", "d": ["sentence fragment", "dangling modifier"] },
+    { "c": "Correct fix for 'It rained, we left.'", "a": "It rained, so we left.", "d": ["It rained, however, we left.", "It rained we left."] },
+    { "c": "Makes a clause dependent: 'since' or 'so'?", "a": "since", "d": ["so"], "ex": "'So' is a coordinating conjunction; 'since' is a subordinating one." },
+    { "c": "Prepositional phrase: 'A box on the shelf fell.'", "a": "on the shelf", "d": ["A box", "fell"] },
+    { "c": "Subject of 'One of the boxes is open.'", "a": "One", "d": ["boxes", "open"], "ex": "The subject is never inside a prepositional phrase." },
+    { "c": "Compound subject in 'Ann and Raj left early.'", "a": "Ann and Raj", "d": ["left early", "Ann"] }
+  ],
+  "read": {
+    "title": "The skeleton of a sentence",
+    "text": [
+      "Every English sentence is built on a frame of subject and predicate. The subject names who or what the sentence is about; the predicate says something about it. In \"The old ferry crossed the river,\" the subject is the old ferry and the predicate is crossed the river. Inside the predicate, river is the direct object: it receives the action of crossed.",
+      "Clauses are the next level up. A clause is any word group with its own subject and verb. \"The ferry crossed the river\" can stand alone, so it is an independent clause. \"Although the ferry crossed the river\" cannot; the word although makes it dependent, and the reader waits for the rest.",
+      "Combining clauses gives the main sentence types. One independent clause makes a simple sentence. Two independent clauses, joined by a comma and a word such as and or but, make a compound sentence. An independent clause plus a dependent clause makes a complex sentence. When writers lose track of this frame, they produce fragments, which lack a complete clause, or comma splices, which join two complete clauses with only a comma."
+    ],
+    "q": [
+      { "q": "In \"The old ferry crossed the river,\" what is the direct object?", "o": ["ferry", "crossed", "river"], "k": 2 },
+      { "q": "What turns \"the ferry crossed the river\" into a dependent clause?", "o": ["Adding the word although", "Adding a comma", "Adding the word old"], "k": 0 },
+      { "q": "According to the reading, a comma splice is...", "o": ["a clause with no subject", "two complete clauses joined by only a comma", "a dependent clause standing alone"], "k": 1 }
+    ]
+  }
+}

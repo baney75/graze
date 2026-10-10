@@ -1,0 +1,301 @@
+{
+  "title": "Acids and bases",
+  "note": "Lower pKa means a stronger acid, and each pKa unit is a factor of 10. An acid–base equilibrium favors the side with the weaker acid (higher pKa). Anything that stabilizes the conjugate base makes the acid stronger: charge on a more electronegative or larger atom, resonance, nearby electron-withdrawing groups, and more s character.",
+  "src": {
+    "t": "LibreTexts, Organic Chemistry (Morsch et al.), 2.8 Predicting Acid–Base Reactions from pKa Values",
+    "u": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/02%3A_Polar_Covalent_Bonds_Acids_and_Bases/2.08%3A_Predicting_Acid-Base_Reactions_from_pKa_Values"
+  },
+  "items": [
+    {
+      "c": "Brønsted–Lowry acid",
+      "a": "a proton (H⁺) donor",
+      "d": [
+        "a proton (H⁺) acceptor",
+        "an electron-pair donor"
+      ]
+    },
+    {
+      "c": "Brønsted–Lowry base",
+      "a": "a proton (H⁺) acceptor",
+      "d": [
+        "a proton (H⁺) donor",
+        "an electron-pair acceptor"
+      ]
+    },
+    {
+      "c": "Lewis acid",
+      "a": "an electron-pair acceptor",
+      "d": [
+        "an electron-pair donor",
+        "a hydroxide donor"
+      ]
+    },
+    {
+      "c": "Lewis base",
+      "a": "an electron-pair donor",
+      "d": [
+        "an electron-pair acceptor",
+        "a proton donor"
+      ]
+    },
+    {
+      "c": "BF₃ and AlCl₃ act as",
+      "a": "Lewis acids (empty orbital)",
+      "d": [
+        "Lewis bases (lone pairs)",
+        "Brønsted acids (H⁺ donors)"
+      ]
+    },
+    {
+      "c": "pKa definition",
+      "a": "−log Ka",
+      "d": [
+        "log Ka",
+        "−log Kb"
+      ]
+    },
+    {
+      "c": "A lower pKa means",
+      "a": "a stronger acid",
+      "d": [
+        "a weaker acid",
+        "a stronger base"
+      ]
+    },
+    {
+      "c": "Acid with pKa 4 vs acid with pKa 6",
+      "a": "pKa 4 acid is 100 times stronger",
+      "d": [
+        "pKa 4 acid is 2 times stronger",
+        "pKa 6 acid is 100 times stronger"
+      ]
+    },
+    {
+      "c": "An acid–base equilibrium favors",
+      "a": "the side with the weaker acid",
+      "d": [
+        "the side with the stronger acid",
+        "the side with more molecules"
+      ]
+    },
+    {
+      "c": "pKa of a typical carboxylic acid",
+      "a": "about 4 to 5",
+      "d": [
+        "about 10",
+        "about 16 to 18"
+      ]
+    },
+    {
+      "c": "pKa of phenol",
+      "a": "about 10",
+      "d": [
+        "about 4 to 5",
+        "about 25"
+      ]
+    },
+    {
+      "c": "pKa of a typical alcohol, such as ethanol",
+      "a": "about 16 to 18",
+      "d": [
+        "about 4 to 5",
+        "about 25"
+      ]
+    },
+    {
+      "c": "pKa of a ketone α-hydrogen (acetone)",
+      "a": "about 19 to 20",
+      "d": [
+        "about 4 to 5",
+        "about 50"
+      ]
+    },
+    {
+      "c": "pKa of a terminal alkyne C–H",
+      "a": "about 25",
+      "d": [
+        "about 16",
+        "about 50"
+      ]
+    },
+    {
+      "c": "pKa of ammonia, NH₃, acting as an acid",
+      "a": "about 36 to 38",
+      "d": [
+        "about 9",
+        "about 16"
+      ]
+    },
+    {
+      "c": "pKa of an alkane C–H",
+      "a": "about 50",
+      "d": [
+        "about 25",
+        "about 16"
+      ]
+    },
+    {
+      "c": "pKa of the ammonium ion, NH₄⁺",
+      "a": "about 9.3",
+      "d": [
+        "about 4.8",
+        "about 36"
+      ]
+    },
+    {
+      "c": "pKa of HCl",
+      "a": "about −7",
+      "d": [
+        "about 4.8",
+        "about 10"
+      ]
+    },
+    {
+      "c": "pKa of hydronium, H₃O⁺",
+      "a": "about −1.7",
+      "d": [
+        "about 4.8",
+        "about 9.3"
+      ]
+    },
+    {
+      "c": "More acidic: HF or HI?",
+      "a": "HI; the large I⁻ ion spreads its charge",
+      "d": [
+        "HF; fluorine is more electronegative",
+        "they are equally acidic"
+      ]
+    },
+    {
+      "c": "Most acidic: CH₄, NH₃ or H₂O?",
+      "a": "H₂O",
+      "d": [
+        "CH₄",
+        "NH₃"
+      ],
+      "ex": "Across a row, the anion is more stable on the more electronegative atom."
+    },
+    {
+      "c": "Why acetic acid is far more acidic than ethanol",
+      "a": "acetate is resonance-stabilized",
+      "d": [
+        "ethanol's oxygen is more electronegative",
+        "acetic acid has more hydrogens"
+      ]
+    },
+    {
+      "c": "Trifluoroacetic acid vs acetic acid",
+      "a": "much stronger; F atoms withdraw electrons",
+      "d": [
+        "much weaker; F atoms donate electrons",
+        "about the same strength"
+      ]
+    },
+    {
+      "c": "An electron-withdrawing group near an acidic H",
+      "a": "increases acidity",
+      "d": [
+        "decreases acidity",
+        "no effect on acidity"
+      ]
+    },
+    {
+      "c": "Why ethyne is more acidic than ethane",
+      "a": "its sp carbon holds the lone pair closer",
+      "d": [
+        "ethyne has more hydrogens",
+        "ethane's anion is resonance-stabilized"
+      ]
+    },
+    {
+      "c": "Base that fully deprotonates a terminal alkyne",
+      "a": "NaNH₂ (sodium amide)",
+      "d": [
+        "NaOH",
+        "NaHCO₃"
+      ],
+      "ex": "NH₃ (pKa ~36) is a weaker acid than the alkyne (pKa ~25)."
+    },
+    {
+      "c": "NaHCO₃ + a carboxylic acid (pKa ~5)",
+      "a": "deprotonates it to the carboxylate",
+      "d": [
+        "no reaction; bicarbonate is too weak",
+        "reduces it to an alcohol"
+      ]
+    },
+    {
+      "c": "NaHCO₃ + phenol (pKa 10)",
+      "a": "essentially no deprotonation",
+      "d": [
+        "complete deprotonation to phenoxide",
+        "forms an ester"
+      ]
+    },
+    {
+      "c": "Conjugate base of ethanol",
+      "a": "ethoxide, CH₃CH₂O⁻",
+      "d": [
+        "ethyl cation, CH₃CH₂⁺",
+        "ethyloxonium, CH₃CH₂OH₂⁺"
+      ]
+    },
+    {
+      "c": "A strong acid has a conjugate base that is",
+      "a": "weak and stable",
+      "d": [
+        "strong and reactive",
+        "also a strong acid"
+      ]
+    },
+    {
+      "c": "Water acting as both an acid and a base",
+      "a": "amphoteric",
+      "d": [
+        "aprotic",
+        "zwitterionic"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Reading a pKa table",
+    "text": [
+      "Organic chemists compare acids with pKa, the negative logarithm of the acid dissociation constant. A small pKa means a strong acid. Because the scale is logarithmic, an acid with pKa 4 is a hundred times stronger than one with pKa 6.",
+      "A handful of values covers most problems: HCl about −7, hydronium about −1.7, carboxylic acids about 4 to 5, phenol about 10, alcohols about 16 to 18, ketone α-hydrogens about 19 to 20, terminal alkynes about 25, ammonia about 36 to 38, and alkanes about 50.",
+      "To predict whether a reaction happens, find the acid on each side. The equilibrium favors the side with the weaker acid, the one with the higher pKa. Sodium amide removes the proton of a terminal alkyne because the ammonia formed (pKa ~36) is a much weaker acid than the alkyne (pKa ~25). Hydroxide cannot do this job well, because the water it would form is a stronger acid than the alkyne.",
+      "The pattern behind the numbers is the stability of the conjugate base. Acetate is stabilized by resonance, so acetic acid is far more acidic than ethanol. Electron-withdrawing fluorines make trifluoroacetic acid stronger still. A lone pair in an sp orbital is held close to carbon, which is why ethyne is so much more acidic than ethane."
+    ],
+    "q": [
+      {
+        "q": "Which side does an acid–base equilibrium favor?",
+        "o": [
+          "The side with the stronger acid",
+          "Always the products",
+          "The side with the weaker acid",
+          "The side with fewer ions"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Why does NaNH₂ deprotonate a terminal alkyne?",
+        "o": [
+          "NH₃ is a stronger acid than the alkyne",
+          "Amide is a weak base",
+          "The alkyne has pKa 50",
+          "NH₃ is a weaker acid than the alkyne"
+        ],
+        "k": 3
+      },
+      {
+        "q": "What makes acetic acid more acidic than ethanol?",
+        "o": [
+          "Resonance stabilization of acetate",
+          "A larger oxygen atom",
+          "More s character in O",
+          "Hydrogen bonding in ethanol"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

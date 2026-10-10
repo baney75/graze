@@ -1,0 +1,61 @@
+{
+  "title": "Research methods and statistics",
+  "note": "Psychology is empirical: claims are tested against observations. Only an experiment with random assignment can show cause and effect; correlations show that two variables move together, not why. Descriptive statistics summarize a set of scores by its center and its spread.",
+  "src": { "t": "OpenStax Psychology 2e, 2.3 Analyzing Findings", "u": "https://openstax.org/books/psychology-2e/pages/2-3-analyzing-findings" },
+  "items": [
+    { "c": "Hypothesis", "a": "A specific, testable prediction", "d": ["A well-supported explanation of many findings", "A record of past observations", "A measure of how spread out scores are"] },
+    { "c": "Scientific theory", "a": "A well-developed set of ideas that explains findings", "d": ["A single untested guess", "A one-time personal observation", "A cutoff for statistical significance"] },
+    { "c": "Falsifiable hypothesis", "a": "One that could be shown to be wrong", "d": ["One that has already been proven true", "One that only experts can test", "One that predicts every possible outcome"], "ex": "Scientific hypotheses must be falsifiable; ideas that fit any result cannot be tested." },
+    { "c": "Deductive reasoning", "a": "Testing a general idea against specific observations", "d": ["Building a general rule from specific observations", "Relying on intuition instead of data", "Repeating a study with a new sample"] },
+    { "c": "Inductive reasoning", "a": "Drawing general conclusions from specific observations", "d": ["Testing a general idea against specific observations", "Assigning participants to groups by chance", "Measuring the same people over many years"] },
+    { "c": "Independent variable", "a": "The factor the experimenter manipulates", "d": ["The outcome that is measured", "A factor that varies only by chance", "The number of participants in a study"] },
+    { "c": "Dependent variable", "a": "The outcome measured to see the effect", "d": ["The factor the experimenter manipulates", "The group that gets no treatment", "A factor kept identical across groups"] },
+    { "c": "Operational definition", "a": "A precise description of how a variable is measured", "d": ["A broad theory that explains a behavior", "A prediction of what a study will find", "A summary of a study's conclusions"], "ex": "Example: 'learning' measured as the score on a 20-item quiz." },
+    { "c": "Experimental group", "a": "The group that receives the manipulation", "d": ["The group that receives no manipulation", "The researchers who run the study", "Participants who drop out early"] },
+    { "c": "Control group", "a": "The group treated alike but without the manipulation", "d": ["The group that receives the manipulation", "The group with the highest scores", "The committee that approves a study"] },
+    { "c": "Random assignment", "a": "Each participant has an equal chance of being in any group", "d": ["Participants pick the group they prefer", "The first volunteers go in the treatment group", "Every population member may be sampled"], "ex": "It balances known and unknown differences across groups." },
+    { "c": "Random sampling", "a": "Each member of the population has an equal chance of selection", "d": ["Participants are split into groups by chance", "Only volunteers who respond first are studied", "The same people are followed for years"] },
+    { "c": "Confounding variable", "a": "An outside factor that offers another explanation", "d": ["The variable the researcher manipulates", "The outcome the researcher measures", "A statistic that shows effect size"] },
+    { "c": "Placebo", "a": "An inactive treatment, such as a sugar pill", "d": ["The strongest version of a treatment", "A survey given before a study begins", "A participant who knows the hypothesis"] },
+    { "c": "Double-blind study", "a": "Neither participants nor researchers know group assignments", "d": ["Only participants are unaware of their group", "Participants choose their own group", "Two observers record the same behavior"] },
+    { "c": "Experimenter bias", "a": "A researcher's expectations skewing the results", "d": ["Participants leaving before a study ends", "Observers agreeing on what they recorded", "Chance differences between groups"] },
+    { "c": "Range of a correlation coefficient", "a": "-1 to +1", "d": ["0 to 1", "0 to 100", "-10 to +10"] },
+    { "c": "Correlation of r = -0.85", "a": "A strong negative relationship", "d": ["A weak negative relationship", "A strong positive relationship", "Almost no relationship"] },
+    { "c": "Positive correlation", "a": "Both variables tend to rise or fall together", "d": ["One variable rises as the other falls", "The two variables are unrelated", "One variable is proven to cause the other"] },
+    { "c": "Why can't a correlation alone prove cause?", "a": "A third variable or reversed direction may explain it", "d": ["Correlations are always too weak", "Correlations cannot be calculated exactly", "Correlations require a placebo group"] },
+    { "c": "Illusory correlation", "a": "Believing two things are related when they are not", "d": ["A real relationship hidden by a third variable", "A correlation very close to +1", "A relationship confirmed by experiment"] },
+    { "c": "Naturalistic observation", "a": "Watching behavior in its natural setting", "d": ["Studying one person in great depth", "Asking many people a set of questions", "Analyzing existing records"] },
+    { "c": "Case study", "a": "An in-depth study of one person or a few", "d": ["Watching behavior in its natural setting", "A survey of a large random sample", "An experiment with many groups"], "ex": "Rich detail, but hard to generalize to a whole population." },
+    { "c": "Survey method", "a": "Self-report questions answered by many people", "d": ["An in-depth study of one person", "Watching behavior without interfering", "Manipulating a variable in a lab"] },
+    { "c": "Archival research", "a": "Analyzing existing records or data sets", "d": ["Following one group over decades", "Watching people in public places", "Running a lab experiment"] },
+    { "c": "Longitudinal research", "a": "Following the same people over a long time", "d": ["Comparing different age groups at one time", "Studying one person in depth", "Analyzing old records"] },
+    { "c": "Cross-sectional research", "a": "Comparing different age groups at one time", "d": ["Following the same people over a long time", "Repeating a study with a new sample", "Observing behavior in its natural setting"], "ex": "Fast, but differences may reflect cohort, not age." },
+    { "c": "Attrition", "a": "Loss of participants who drop out of a study", "d": ["Bias from a researcher's expectations", "Agreement between observers", "Overlap between two groups"] },
+    { "c": "Reliability of a measure", "a": "It produces consistent results", "d": ["It measures what it claims to measure", "It always finds significant effects", "It uses a random sample"] },
+    { "c": "Validity of a measure", "a": "It measures what it is intended to measure", "d": ["It produces the same score each time", "It can be given to many people at once", "It has been peer reviewed"] },
+    { "c": "Inter-rater reliability", "a": "Consistency between different observers", "d": ["Consistency of one person's scores over time", "Accuracy of a test's predictions", "Agreement between a sample and population"] },
+    { "c": "Usual cutoff for statistical significance", "a": "p < .05", "d": ["p < .50", "p < .25", "p > .95"], "ex": "A result this unlikely under chance alone is called significant." },
+    { "c": "Mean", "a": "Sum of the scores divided by their number", "d": ["The middle score when ordered", "The most frequent score", "Highest score minus lowest score"] },
+    { "c": "Median", "a": "The middle score when scores are ordered", "d": ["Sum of the scores divided by their number", "The most frequent score", "The typical distance from the mean"] },
+    { "c": "Mode", "a": "The most frequent score", "d": ["The middle score when ordered", "The average of all scores", "The highest score"] },
+    { "c": "Standard deviation", "a": "The typical distance of scores from the mean", "d": ["The most frequent score", "The middle score in a distribution", "The percentage of scores below a score"] },
+    { "c": "Center measure most pulled by extreme scores", "a": "The mean", "d": ["The median", "The mode"], "ex": "One billionaire raises a town's mean income but barely moves the median." },
+    { "c": "Informed consent", "a": "Agreeing to take part after learning the risks", "d": ["Explaining a study's purpose afterward", "Approval of a study by a review board", "Keeping participants' names secret"] },
+    { "c": "Debriefing", "a": "Explaining a study's true purpose after it ends", "d": ["Agreeing to take part after learning the risks", "Reviewing a study before publication", "Assigning participants to groups"] },
+    { "c": "Institutional Review Board (IRB)", "a": "Committee that reviews research with human participants", "d": ["Panel that reviews articles before publication", "Group that inspects animal research facilities", "Agency that funds psychology research"] }
+  ],
+  "read": {
+    "title": "Why random assignment matters",
+    "text": [
+      "Suppose researchers notice that students who drink coffee get higher grades. Does coffee improve learning? A correlation like this cannot answer the question. Coffee drinkers might also sleep less, study more, or come from different backgrounds. Any of these third variables could produce the link, and it is even possible that working hard leads students to drink coffee rather than the reverse.",
+      "To test cause and effect, researchers run an experiment. They decide what to manipulate, the independent variable, such as caffeine or no caffeine. They decide what to measure, the dependent variable, such as a quiz score, and give it an operational definition so others can repeat the study.",
+      "The key step is random assignment. Each participant has an equal chance of landing in the experimental or control group, so differences in sleep, motivation or background tend to balance out across groups. If the groups then differ on the quiz, the manipulation is the most likely cause.",
+      "A double-blind design adds protection: neither participants nor researchers know who got caffeine, so expectations cannot quietly shape the results. Finally, a statistical test asks whether the difference is larger than chance alone would usually produce."
+    ],
+    "q": [
+      { "q": "Why can't the coffee-and-grades correlation show that coffee causes better grades?", "o": ["Other variables, or reversed direction, could explain the link", "Correlations can only be negative", "The sample of students was too large", "Grades cannot be measured"], "k": 0 },
+      { "q": "What does random assignment accomplish?", "o": ["It lets participants choose their group", "It balances other differences across groups", "It guarantees a significant result", "It hides the hypothesis from researchers"], "k": 1 },
+      { "q": "In the caffeine experiment, the quiz score is the", "o": ["Independent variable", "Placebo", "Dependent variable"], "k": 2 }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Capitals of West and Central Africa",
+  "note": "Several capitals here were planned to move power inland: Nigeria moved from Lagos to Abuja in 1991, and Côte d’Ivoire made Yamoussoukro its capital in 1983. Brazzaville and Kinshasa face each other across the Congo River.",
+  "src": {
+    "t": "CIA World Factbook (archived JSON edition)",
+    "u": "https://github.com/factbook/factbook.json"
+  },
+  "items": [
+    { "c": "Mauritania", "a": "Nouakchott", "d": ["Nouadhibou", "Rosso", "Kiffa"] },
+    { "c": "Senegal", "a": "Dakar", "d": ["Saint-Louis", "Thiès", "Touba"] },
+    { "c": "Gambia", "a": "Banjul", "d": ["Serekunda", "Brikama", "Dakar"] },
+    { "c": "Guinea-Bissau", "a": "Bissau", "d": ["Bafatá", "Gabú", "Conakry"] },
+    { "c": "Guinea", "a": "Conakry", "d": ["Kankan", "Nzérékoré", "Kindia"] },
+    { "c": "Sierra Leone", "a": "Freetown", "d": ["Bo", "Kenema", "Makeni"] },
+    { "c": "Liberia", "a": "Monrovia", "d": ["Buchanan", "Gbarnga", "Harper"] },
+    { "c": "Côte d'Ivoire", "a": "Yamoussoukro", "d": ["Bouaké", "San-Pédro", "Korhogo"], "ex": "Abidjan is the largest city and the seat of most government offices." },
+    { "c": "Mali", "a": "Bamako", "d": ["Timbuktu", "Sikasso", "Mopti"] },
+    { "c": "Burkina Faso", "a": "Ouagadougou", "d": ["Bobo-Dioulasso", "Koudougou", "Niamey"] },
+    { "c": "Ghana", "a": "Accra", "d": ["Kumasi", "Tamale", "Takoradi"] },
+    { "c": "Togo", "a": "Lomé", "d": ["Sokodé", "Kara", "Cotonou"] },
+    { "c": "Benin", "a": "Porto-Novo", "d": ["Parakou", "Abomey", "Lomé"], "ex": "Cotonou is the largest city and the seat of government." },
+    { "c": "Niger", "a": "Niamey", "d": ["Zinder", "Maradi", "Agadez"] },
+    { "c": "Nigeria", "a": "Abuja", "d": ["Lagos", "Kano", "Ibadan"], "ex": "Abuja replaced Lagos as the capital in 1991." },
+    { "c": "Cabo Verde", "a": "Praia", "d": ["Mindelo", "Assomada", "Dakar"] },
+    { "c": "Cameroon", "a": "Yaoundé", "d": ["Douala", "Garoua", "Bamenda"] },
+    { "c": "Chad", "a": "N'Djamena", "d": ["Moundou", "Abéché", "Sarh"] },
+    { "c": "Central African Republic", "a": "Bangui", "d": ["Bimbo", "Berbérati", "Bambari"] },
+    { "c": "Gabon", "a": "Libreville", "d": ["Port-Gentil", "Franceville", "Oyem"] },
+    { "c": "Republic of the Congo", "a": "Brazzaville", "d": ["Pointe-Noire", "Dolisie", "Kinshasa"], "ex": "Brazzaville faces Kinshasa, capital of DR Congo, across the Congo River." },
+    { "c": "DR Congo", "a": "Kinshasa", "d": ["Lubumbashi", "Kisangani", "Brazzaville"] },
+    { "c": "São Tomé and Príncipe", "a": "São Tomé", "d": ["Santo António", "Neves", "Libreville"] },
+    { "c": "Angola", "a": "Luanda", "d": ["Huambo", "Lobito", "Benguela"] }
+  ]
+}

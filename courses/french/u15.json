@@ -1,0 +1,52 @@
+{
+  "title": "Weather, nature and seasons",
+  "note": "Most weather expressions use il fait: il fait beau, il fait froid. Rain and snow have their own verbs: il pleut, il neige. With seasons, say en été, en automne, en hiver, but au printemps.",
+  "src": { "t": "Français interactif, Chapitre 3 vocabulaire (le temps, les saisons)", "u": "https://laits.utexas.edu/fi/voc/03/" },
+  "items": [
+    { "c": "Quel temps fait-il ?", "a": "What's the weather like?", "d": ["What time is it?", "How long does it take?"], "ex": "Quel temps fait-il à Paris ?", "exT": "What's the weather like in Paris?" },
+    { "c": "Il fait beau.", "a": "The weather is nice.", "d": ["The weather is bad.", "It's very hot."] },
+    { "c": "Il fait mauvais.", "a": "The weather is bad.", "d": ["The weather is nice.", "It's cool out."] },
+    { "c": "Il fait chaud.", "a": "It's hot out.", "d": ["It's cold out.", "It's cool out."] },
+    { "c": "Il fait froid.", "a": "It's cold out.", "d": ["It's hot out.", "It's foggy."], "ex": "En hiver, il fait froid à Montréal.", "exT": "In winter, it's cold in Montreal." },
+    { "c": "Il fait frais.", "a": "It's cool out.", "d": ["It's freezing.", "It's hot out."] },
+    { "c": "Il pleut.", "a": "It's raining.", "d": ["It's snowing.", "It's crying."] },
+    { "c": "Il neige.", "a": "It's snowing.", "d": ["It's raining.", "It's freezing."] },
+    { "c": "Il y a du vent.", "a": "It's windy.", "d": ["It's sunny.", "It's cloudy."] },
+    { "c": "Il y a du soleil.", "a": "It's sunny.", "d": ["It's windy.", "It's hot."] },
+    { "c": "Il y a des nuages.", "a": "It's cloudy.", "d": ["It's stormy.", "It's foggy."] },
+    { "c": "la saison", "a": "season", "d": ["weather", "month"] },
+    { "c": "le printemps", "a": "spring", "d": ["summer", "fall"] },
+    { "c": "l'été (m)", "a": "summer", "d": ["spring", "winter"], "say": "l'été" },
+    { "c": "l'automne (m)", "a": "fall / autumn", "d": ["winter", "spring"], "say": "l'automne" },
+    { "c": "l'hiver (m)", "a": "winter", "d": ["fall", "summer"], "say": "l'hiver" },
+    { "c": "la pluie", "a": "rain", "d": ["snow", "cloud"] },
+    { "c": "la neige", "a": "snow", "d": ["ice", "rain"] },
+    { "c": "le soleil", "a": "sun", "d": ["moon", "sky"] },
+    { "c": "le ciel", "a": "sky", "d": ["sun", "cloud"] },
+    { "c": "la mer", "a": "sea", "d": ["mother", "lake"] },
+    { "c": "la montagne", "a": "mountain", "d": ["hill", "valley"], "ex": "En hiver, nous faisons du ski à la montagne.", "exT": "In winter, we go skiing in the mountains." },
+    { "c": "la forêt", "a": "forest", "d": ["field", "park"] },
+    { "c": "la campagne", "a": "countryside", "d": ["campground", "city"] },
+    { "c": "le lac", "a": "lake", "d": ["sea", "river"] },
+    { "c": "la rivière", "a": "river", "d": ["lake", "shore"] },
+    { "c": "l'arbre (m)", "a": "tree", "d": ["flower", "branch"], "say": "l'arbre" },
+    { "c": "la fleur", "a": "flower", "d": ["tree", "flour"] },
+    { "c": "___ hiver, il neige.", "a": "En", "d": ["Au", "À"], "ex": "En hiver, il neige souvent.", "exT": "In winter, it often snows." },
+    { "c": "___ printemps, il pleut.", "a": "Au", "d": ["En", "À la"] },
+    { "c": "Il ___ beau aujourd'hui.", "a": "fait", "d": ["fais", "a"] }
+  ],
+  "read": {
+    "title": "Une carte postale de Nice",
+    "text": [
+      "Chère Julie,",
+      "Je suis en vacances à Nice avec ma famille. Ici, il fait beau et il fait chaud. Il y a du soleil tous les jours ! Le matin, nous allons à la plage et nous nageons dans la mer. L'après-midi, nous visitons la ville.",
+      "Demain, nous allons à la montagne en voiture. Là-bas, il fait plus frais. Et chez toi, à Lille ? Il pleut encore ? En automne, il pleut souvent dans le nord.",
+      "À bientôt ! Emma"
+    ],
+    "q": [
+      { "q": "Where is Emma on vacation?", "o": ["Lille", "Nice", "In the mountains"], "k": 1 },
+      { "q": "What is the weather like in Nice?", "o": ["Rainy and cool", "Windy and cold", "Sunny and hot"], "k": 2 },
+      { "q": "What will the family do tomorrow?", "o": ["Drive to the mountains", "Spend the day at the beach", "Take the train to Lille"], "k": 0 }
+    ]
+  }
+}

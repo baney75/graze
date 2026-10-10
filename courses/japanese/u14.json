@@ -1,0 +1,292 @@
+{
+  "title": "Places in town and directions",
+  "note": "Three place particles: に marks a destination or where something exists (駅に行きます, 駅にあります); へ (read e) marks a direction of movement (日本へ行きます); で marks where an action happens (図書館で本を読みます). With 行きます, に and へ are both fine.",
+  "src": {
+    "t": "Tae Kim's Guide: Particles used with verbs (に, へ, で)",
+    "u": "https://guidetojapanese.org/learn/grammar/verbparticles"
+  },
+  "items": [
+    {
+      "c": "町",
+      "r": "machi",
+      "a": "town",
+      "d": [
+        "country",
+        "station"
+      ]
+    },
+    {
+      "c": "駅",
+      "r": "eki",
+      "a": "station",
+      "d": [
+        "airport",
+        "bus stop"
+      ],
+      "ex": "(えき) 駅はどこですか。",
+      "exT": "Where is the station?"
+    },
+    {
+      "c": "病院",
+      "r": "byōin",
+      "a": "hospital",
+      "d": [
+        "bank",
+        "beauty salon"
+      ]
+    },
+    {
+      "c": "銀行",
+      "r": "ginkō",
+      "a": "bank",
+      "d": [
+        "post office",
+        "hospital"
+      ]
+    },
+    {
+      "c": "郵便局",
+      "r": "yūbinkyoku",
+      "a": "post office",
+      "d": [
+        "police box",
+        "bank"
+      ]
+    },
+    {
+      "c": "店",
+      "r": "mise",
+      "a": "shop, store",
+      "d": [
+        "street",
+        "house"
+      ]
+    },
+    {
+      "c": "スーパー",
+      "r": "sūpā",
+      "a": "supermarket",
+      "d": [
+        "department store",
+        "convenience store"
+      ]
+    },
+    {
+      "c": "コンビニ",
+      "r": "konbini",
+      "a": "convenience store",
+      "d": [
+        "supermarket",
+        "café"
+      ],
+      "ex": "コンビニでお茶を買います。",
+      "exT": "I buy tea at the convenience store."
+    },
+    {
+      "c": "レストラン",
+      "r": "resutoran",
+      "a": "restaurant",
+      "d": [
+        "hotel",
+        "café"
+      ]
+    },
+    {
+      "c": "図書館",
+      "r": "toshokan",
+      "a": "library",
+      "d": [
+        "bookstore",
+        "museum"
+      ]
+    },
+    {
+      "c": "公園",
+      "r": "kōen",
+      "a": "park",
+      "d": [
+        "garden at home",
+        "school"
+      ]
+    },
+    {
+      "c": "喫茶店",
+      "r": "kissaten",
+      "a": "coffee shop, café",
+      "d": [
+        "restaurant",
+        "bar"
+      ]
+    },
+    {
+      "c": "道",
+      "r": "michi",
+      "a": "road, way",
+      "d": [
+        "bridge",
+        "corner"
+      ]
+    },
+    {
+      "c": "右",
+      "r": "migi",
+      "a": "right",
+      "d": [
+        "left",
+        "straight"
+      ]
+    },
+    {
+      "c": "左",
+      "r": "hidari",
+      "a": "left",
+      "d": [
+        "right",
+        "back"
+      ]
+    },
+    {
+      "c": "まっすぐ",
+      "r": "massugu",
+      "a": "straight (ahead)",
+      "d": [
+        "to the right",
+        "back (behind you)"
+      ]
+    },
+    {
+      "c": "近い",
+      "r": "chikai",
+      "a": "near, close",
+      "d": [
+        "far",
+        "big"
+      ],
+      "ex": "(ちかい) 駅は近いです。",
+      "exT": "The station is close."
+    },
+    {
+      "c": "遠い",
+      "r": "tōi",
+      "a": "far",
+      "d": [
+        "near",
+        "long"
+      ]
+    },
+    {
+      "c": "東",
+      "r": "higashi",
+      "a": "east",
+      "d": [
+        "west",
+        "north"
+      ]
+    },
+    {
+      "c": "西",
+      "r": "nishi",
+      "a": "west",
+      "d": [
+        "east",
+        "south"
+      ]
+    },
+    {
+      "c": "南",
+      "r": "minami",
+      "a": "south",
+      "d": [
+        "north",
+        "east"
+      ]
+    },
+    {
+      "c": "北",
+      "r": "kita",
+      "a": "north",
+      "d": [
+        "south",
+        "west"
+      ]
+    },
+    {
+      "c": "曲がります",
+      "r": "magarimasu",
+      "a": "turn (a corner)",
+      "d": [
+        "cross (a street)",
+        "stop (moving)"
+      ]
+    },
+    {
+      "c": "まっすぐ行ってください。",
+      "r": "Massugu itte kudasai.",
+      "a": "Please go straight.",
+      "d": [
+        "Please turn right.",
+        "Please go back."
+      ]
+    },
+    {
+      "c": "右に曲がってください。",
+      "r": "Migi ni magatte kudasai.",
+      "a": "Please turn right.",
+      "d": [
+        "Please turn left.",
+        "It's on the right."
+      ]
+    },
+    {
+      "c": "銀行の隣にあります。",
+      "r": "Ginkō no tonari ni arimasu.",
+      "a": "It's next to the bank.",
+      "d": [
+        "It's in front of the bank.",
+        "It's behind the bank."
+      ]
+    },
+    {
+      "c": "ここから近いですか。",
+      "r": "Koko kara chikai desu ka.",
+      "a": "Is it close to here?",
+      "d": [
+        "Is it far from here?",
+        "Is it here?"
+      ]
+    },
+    {
+      "c": "図書館___本を読みます。",
+      "r": "Toshokan ___ hon o yomimasu.",
+      "a": "で",
+      "d": [
+        "に",
+        "を"
+      ],
+      "ex": "図書館で本を読みます。",
+      "exT": "I read books at the library."
+    },
+    {
+      "c": "日本___行きます。",
+      "r": "Nihon ___ ikimasu.",
+      "a": "へ",
+      "d": [
+        "で",
+        "を"
+      ],
+      "ex": "日本へ行きます。",
+      "exT": "I'm going to Japan."
+    },
+    {
+      "c": "公園は駅の北___あります。",
+      "r": "Kōen wa eki no kita ___ arimasu.",
+      "a": "に",
+      "d": [
+        "で",
+        "を"
+      ],
+      "ex": "公園は駅の北にあります。",
+      "exT": "The park is north of the station."
+    }
+  ]
+}

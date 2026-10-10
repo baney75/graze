@@ -1,0 +1,413 @@
+{
+  "title": "Sensation and perception",
+  "note": "Sensation is detection: receptors turn physical energy into neural signals (transduction). Perception is interpretation: the brain organizes those signals using both the incoming data (bottom-up) and what it already knows and expects (top-down).",
+  "src": {
+    "t": "OpenStax Psychology 2e, 5.1 Sensation versus Perception",
+    "u": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception"
+  },
+  "items": [
+    {
+      "c": "Sensation",
+      "a": "Detection of physical energy by sensory receptors",
+      "d": [
+        "Organizing and interpreting sensory signals",
+        "Storing sensory signals in memory",
+        "Paying attention to one stimulus"
+      ]
+    },
+    {
+      "c": "Perception",
+      "a": "Organizing and interpreting sensory information",
+      "d": [
+        "Detection of energy by sensory receptors",
+        "Converting light into neural signals",
+        "Ceasing to notice a constant stimulus"
+      ]
+    },
+    {
+      "c": "Transduction",
+      "a": "Converting stimulus energy into neural signals",
+      "d": [
+        "Organizing sensations into wholes",
+        "Sending signals across the corpus callosum",
+        "Fading response to a constant stimulus"
+      ]
+    },
+    {
+      "c": "Absolute threshold",
+      "a": "Weakest stimulus detected 50% of the time",
+      "d": [
+        "Smallest detectable change in a stimulus",
+        "Strongest stimulus before pain",
+        "Point at which receptors stop firing"
+      ]
+    },
+    {
+      "c": "Just noticeable difference",
+      "a": "Smallest change in a stimulus that can be detected",
+      "d": [
+        "Weakest stimulus detected half the time",
+        "A message below conscious awareness",
+        "The gap between the two ears"
+      ]
+    },
+    {
+      "c": "Weber's law",
+      "a": "The noticeable difference is a constant fraction of the stimulus",
+      "d": [
+        "Perception is the sum of its parts",
+        "Colors are coded in opposing pairs",
+        "Pitch depends on neural firing rate"
+      ],
+      "ex": "Adding 1 pound is noticed in a 5-pound bag, not a 100-pound one."
+    },
+    {
+      "c": "Subliminal message",
+      "a": "One presented below conscious awareness",
+      "d": [
+        "One repeated until it is ignored",
+        "One processed only by the right hemisphere",
+        "One that is too loud to process"
+      ]
+    },
+    {
+      "c": "Signal detection theory",
+      "a": "Detecting a stimulus against background noise",
+      "d": [
+        "Perceiving depth with two eyes",
+        "Grouping nearby objects together",
+        "Converting sound into nerve signals"
+      ],
+      "ex": "Motivation and expectations shift what we report detecting."
+    },
+    {
+      "c": "Bottom-up processing",
+      "a": "Perception driven by incoming sensory data",
+      "d": [
+        "Perception driven by knowledge and expectations",
+        "Ignoring a constant stimulus",
+        "Focusing on one voice in a crowd"
+      ]
+    },
+    {
+      "c": "Top-down processing",
+      "a": "Perception guided by knowledge and expectations",
+      "d": [
+        "Perception built only from raw sensory data",
+        "Reflexes that bypass the brain",
+        "Signals traveling from eye to brain"
+      ]
+    },
+    {
+      "c": "Sensory adaptation",
+      "a": "No longer noticing a constant stimulus",
+      "d": [
+        "Becoming more sensitive to a stimulus",
+        "Missing an object because attention is elsewhere",
+        "Seeing color after staring at an image"
+      ],
+      "ex": "You stop feeling your watch on your wrist."
+    },
+    {
+      "c": "Inattentional blindness",
+      "a": "Missing a visible object because attention is elsewhere",
+      "d": [
+        "Ceasing to notice an unchanging stimulus",
+        "A gap where the optic nerve leaves the eye",
+        "Seeing an image after the stimulus ends"
+      ]
+    },
+    {
+      "c": "Perceptual set",
+      "a": "A readiness to perceive something a certain way",
+      "d": [
+        "The smallest change you can detect",
+        "The full range of visible light",
+        "The number of receptors in the eye"
+      ]
+    },
+    {
+      "c": "Wavelength of light is perceived as",
+      "a": "Color (hue)",
+      "d": [
+        "Brightness",
+        "Depth",
+        "Loudness"
+      ]
+    },
+    {
+      "c": "Amplitude of a sound wave is heard as",
+      "a": "Loudness",
+      "d": [
+        "Pitch",
+        "Timbre",
+        "Direction"
+      ]
+    },
+    {
+      "c": "Frequency of a sound wave is heard as",
+      "a": "Pitch",
+      "d": [
+        "Loudness",
+        "Brightness",
+        "Duration"
+      ]
+    },
+    {
+      "c": "Visible light for humans spans about",
+      "a": "380 to 740 nanometers",
+      "d": [
+        "20 to 20,000 nanometers",
+        "1 to 100 nanometers",
+        "1,000 to 5,000 nanometers"
+      ]
+    },
+    {
+      "c": "Visible color with the longest wavelength",
+      "a": "Red",
+      "d": [
+        "Violet",
+        "Green",
+        "Blue"
+      ]
+    },
+    {
+      "c": "Typical range of human hearing",
+      "a": "About 20 to 20,000 Hz",
+      "d": [
+        "About 2 to 200 Hz",
+        "About 200 to 2,000 Hz",
+        "About 380 to 740 Hz"
+      ]
+    },
+    {
+      "c": "Loudness of normal conversation",
+      "a": "About 60 decibels",
+      "d": [
+        "About 10 decibels",
+        "About 130 decibels",
+        "About 100 decibels"
+      ]
+    },
+    {
+      "c": "Cornea",
+      "a": "Clear front covering that helps focus light",
+      "d": [
+        "Muscle ring that sets pupil size",
+        "Light-sensitive lining at the back",
+        "Bundle of axons leaving the eye"
+      ]
+    },
+    {
+      "c": "Lens of the eye",
+      "a": "Changes shape to focus near or far",
+      "d": [
+        "Contains rods and cones",
+        "Crosses signals to the opposite side",
+        "Controls how much light enters"
+      ]
+    },
+    {
+      "c": "Retina",
+      "a": "Light-sensitive lining with the photoreceptors",
+      "d": [
+        "Clear outer covering of the eye",
+        "Opening that lets light in",
+        "Structure that changes shape to focus"
+      ]
+    },
+    {
+      "c": "Fovea",
+      "a": "Retinal spot packed with cones for sharp vision",
+      "d": [
+        "Spot with no receptors at all",
+        "Region full of rods for night vision",
+        "Point where the optic nerves cross"
+      ]
+    },
+    {
+      "c": "Rods",
+      "a": "Receptors for dim light and peripheral motion",
+      "d": [
+        "Receptors for color and fine detail",
+        "Receptors for sound vibration",
+        "Receptors for body position"
+      ]
+    },
+    {
+      "c": "Cones",
+      "a": "Receptors for color and fine detail",
+      "d": [
+        "Receptors for dim light and motion",
+        "Receptors that sense head tilt",
+        "Cells that form the optic nerve"
+      ]
+    },
+    {
+      "c": "Blind spot",
+      "a": "Where the optic nerve leaves, with no receptors",
+      "d": [
+        "The spot of sharpest vision",
+        "Where the optic nerves cross",
+        "The colored ring around the pupil"
+      ]
+    },
+    {
+      "c": "Trichromatic theory",
+      "a": "Three cone types sensitive to different wavelengths",
+      "d": [
+        "Colors are coded in opposing pairs",
+        "Pitch is coded by place on a membrane",
+        "Wholes differ from their parts"
+      ]
+    },
+    {
+      "c": "Opponent-process theory",
+      "a": "Color is coded in opposing pairs, like red-green",
+      "d": [
+        "Three cone types each code one color",
+        "Each eye sees a slightly different view",
+        "Pitch depends on firing rate"
+      ]
+    },
+    {
+      "c": "Negative color afterimages support",
+      "a": "Opponent-process theory",
+      "d": [
+        "Trichromatic theory",
+        "Place theory",
+        "Signal detection theory"
+      ]
+    },
+    {
+      "c": "Binocular disparity",
+      "a": "Depth cue from each eye's slightly different view",
+      "d": [
+        "Depth cue from parallel lines converging",
+        "Depth cue from objects overlapping",
+        "Grouping of similar items"
+      ]
+    },
+    {
+      "c": "Railroad tracks seeming to meet far away",
+      "a": "Linear perspective",
+      "d": [
+        "Binocular disparity",
+        "Interposition",
+        "Closure"
+      ]
+    },
+    {
+      "c": "Cochlea",
+      "a": "Fluid-filled inner-ear coil with hair cells",
+      "d": [
+        "Three tiny bones of the middle ear",
+        "Visible outer part of the ear",
+        "Canals that sense head rotation"
+      ]
+    },
+    {
+      "c": "Place theory of pitch",
+      "a": "Pitch depends on where the basilar membrane vibrates",
+      "d": [
+        "Pitch depends only on neural firing rate",
+        "Pitch depends on the size of the pinna",
+        "Pitch depends on the loudness of sound"
+      ]
+    },
+    {
+      "c": "Vestibular sense",
+      "a": "Sense of balance from the inner ear",
+      "d": [
+        "Sense of where the limbs are",
+        "Sense of temperature on the skin",
+        "Sense of taste on the tongue"
+      ]
+    },
+    {
+      "c": "Proprioception",
+      "a": "Awareness of body position",
+      "d": [
+        "Awareness of temperature",
+        "Awareness of taste",
+        "Awareness of sound direction"
+      ]
+    },
+    {
+      "c": "Umami",
+      "a": "Savory taste linked to glutamate",
+      "d": [
+        "Bitter taste linked to toxins",
+        "Sour taste linked to acids",
+        "Taste for fat"
+      ]
+    },
+    {
+      "c": "Figure-ground",
+      "a": "Separating an object from its background",
+      "d": [
+        "Grouping items that are close together",
+        "Filling gaps to see a complete shape",
+        "Grouping items that look alike"
+      ],
+      "ex": "The vase-or-faces image flips as figure and ground switch."
+    },
+    {
+      "c": "Gestalt principle: proximity",
+      "a": "Nearby elements are grouped together",
+      "d": [
+        "Alike elements are grouped together",
+        "Gaps are filled to form whole shapes",
+        "Smooth lines are preferred over jagged ones"
+      ]
+    },
+    {
+      "c": "Gestalt principle: closure",
+      "a": "We fill gaps to see complete objects",
+      "d": [
+        "Nearby elements are grouped together",
+        "Similar elements are grouped together",
+        "Smooth lines are preferred"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Seeing is partly believing",
+    "text": [
+      "Your eyes do not send the brain a finished picture. Light passes through the cornea and lens and lands on the retina, where rods and cones transduce it into neural signals. Cones, packed into the fovea, give color and sharp detail in good light. Rods, spread across the rest of the retina, work in dim light and catch motion at the edges of vision.",
+      "Those signals are only raw material. Perception builds a world from them using two streams at once. Bottom-up processing works from the data: a sudden flash pulls your eyes toward it. Top-down processing works from knowledge and expectation: you find your keys faster by looking where you usually leave them.",
+      "Because expectations shape perception, people can miss what is right in front of them. In studies of inattentional blindness, viewers busy counting basketball passes often fail to notice a person in a gorilla suit walking through the scene.",
+      "The brain also groups what it sees in predictable ways, as the Gestalt psychologists described. Items close together seem to belong together, similar items form groups, and gaps get filled to make complete shapes."
+    ],
+    "q": [
+      {
+        "q": "Which receptors handle dim light and peripheral motion?",
+        "o": [
+          "Cones",
+          "Rods",
+          "Hair cells"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Looking for your keys where you usually leave them is an example of",
+        "o": [
+          "Bottom-up processing",
+          "Sensory adaptation",
+          "Top-down processing",
+          "Transduction"
+        ],
+        "k": 2
+      },
+      {
+        "q": "The gorilla study shows that",
+        "o": [
+          "Attention limits what we consciously see",
+          "Rods detect color",
+          "Gestalt grouping is learned in school"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+ "title": "Pharmacology principles: how drugs move and act",
+ "note": "Pharmacokinetics is what the body does to a drug: absorption, distribution, metabolism and excretion (ADME). Pharmacodynamics is what the drug does to the body, usually by binding a receptor as an agonist or antagonist. Half-life, bioavailability and therapeutic index turn these ideas into numbers.",
+ "src": {
+  "t": "OpenStax Pharmacology for Nurses, 2.2 Pharmacokinetics and Pharmacodynamics",
+  "u": "https://openstax.org/books/pharmacology/pages/2-2-pharmacokinetics-and-pharmacodynamics"
+ },
+ "items": [
+  {
+   "c": "Pharmacokinetics",
+   "a": "What the body does to a drug",
+   "d": [
+    "What a drug does to the body",
+    "How a drug is manufactured"
+   ]
+  },
+  {
+   "c": "Pharmacodynamics",
+   "a": "What a drug does to the body",
+   "d": [
+    "What the body does to a drug",
+    "How a drug is priced and regulated"
+   ]
+  },
+  {
+   "c": "ADME stands for",
+   "a": "Absorption, distribution, metabolism, excretion",
+   "d": [
+    "Administration, dosing, monitoring, effect",
+    "Agonism, desensitization, metabolism, elimination"
+   ]
+  },
+  {
+   "c": "Drug absorption",
+   "a": "Movement from the site of administration into blood",
+   "d": [
+    "Chemical change of a drug in the liver",
+    "Removal of a drug in urine"
+   ]
+  },
+  {
+   "c": "Bioavailability",
+   "a": "Fraction of a dose reaching circulation unchanged",
+   "d": [
+    "Time for drug levels to fall by half",
+    "Ratio of toxic dose to effective dose"
+   ]
+  },
+  {
+   "c": "Bioavailability of an intravenous dose",
+   "a": "100%",
+   "d": [
+    "About 50%",
+    "About 10%"
+   ]
+  },
+  {
+   "c": "First-pass effect",
+   "a": "Liver metabolism of an oral drug before it reaches the body",
+   "d": [
+    "Kidney excretion of an IV drug",
+    "Binding of a drug to its first receptor"
+   ]
+  },
+  {
+   "c": "Route that largely avoids first-pass metabolism",
+   "a": "Sublingual (under the tongue)",
+   "d": [
+    "Swallowed tablet",
+    "Swallowed oral liquid"
+   ]
+  },
+  {
+   "c": "Main plasma protein that binds drugs",
+   "a": "Albumin",
+   "d": [
+    "Hemoglobin",
+    "Fibrinogen"
+   ]
+  },
+  {
+   "c": "Fraction of plasma drug that can act on targets",
+   "a": "The free, unbound fraction",
+   "d": [
+    "The albumin-bound fraction",
+    "The fraction stored in fat"
+   ]
+  },
+  {
+   "c": "Volume of distribution (Vd)",
+   "a": "Apparent volume a dose would fill at plasma concentration",
+   "d": [
+    "Actual volume of blood in the body",
+    "Volume of urine needed to excrete a drug"
+   ]
+  },
+  {
+   "c": "Drugs that cross the blood–brain barrier tend to be",
+   "a": "Small and lipid-soluble",
+   "d": [
+    "Large and highly charged",
+    "Tightly bound to albumin"
+   ]
+  },
+  {
+   "c": "Main organ of drug metabolism",
+   "a": "Liver",
+   "d": [
+    "Kidney",
+    "Lung"
+   ]
+  },
+  {
+   "c": "Major family of drug-metabolizing enzymes",
+   "a": "Cytochrome P450 (CYP)",
+   "d": [
+    "Carbonic anhydrase",
+    "Monoamine oxidase only"
+   ]
+  },
+  {
+   "c": "Effect of a CYP enzyme inducer on another drug",
+   "a": "Faster metabolism, lower levels of the other drug",
+   "d": [
+    "Slower metabolism, higher levels",
+    "No change in levels"
+   ]
+  },
+  {
+   "c": "Effect of a CYP enzyme inhibitor on another drug",
+   "a": "Slower metabolism, higher levels of the other drug",
+   "d": [
+    "Faster metabolism, lower levels",
+    "Immediate excretion in urine"
+   ]
+  },
+  {
+   "c": "Prodrug",
+   "a": "An inactive compound the body converts to an active drug",
+   "d": [
+    "A drug given before surgery",
+    "A drug that only blocks receptors"
+   ]
+  },
+  {
+   "c": "Main organ of drug excretion",
+   "a": "Kidneys",
+   "d": [
+    "Liver",
+    "Skin"
+   ]
+  },
+  {
+   "c": "Half-life",
+   "a": "Time for plasma concentration to fall by 50%",
+   "d": [
+    "Time to reach peak concentration",
+    "Time for half the dose to be absorbed"
+   ]
+  },
+  {
+   "c": "Half-life formula",
+   "a": "t½ = 0.693 × Vd / CL",
+   "d": [
+    "t½ = CL / (0.693 × Vd)",
+    "t½ = Vd × CL / 0.693"
+   ]
+  },
+  {
+   "c": "Half-lives needed to reach steady state",
+   "a": "About 4 to 5",
+   "d": [
+    "About 1",
+    "About 10 to 12"
+   ]
+  },
+  {
+   "c": "Fraction of drug left after 3 half-lives",
+   "a": "1/8 (12.5%)",
+   "d": [
+    "1/3 (33%)",
+    "1/6 (17%)"
+   ]
+  },
+  {
+   "c": "First-order elimination",
+   "a": "A constant fraction is removed per unit time",
+   "d": [
+    "A constant amount is removed per unit time",
+    "No drug is removed until a threshold"
+   ]
+  },
+  {
+   "c": "Zero-order elimination",
+   "a": "A constant amount is removed per unit time",
+   "d": [
+    "A constant fraction is removed per unit time",
+    "Elimination stops at high doses"
+   ]
+  },
+  {
+   "c": "Classic drug with zero-order elimination",
+   "a": "Ethanol",
+   "d": [
+    "Penicillin",
+    "Lisinopril"
+   ]
+  },
+  {
+   "c": "Purpose of a loading dose",
+   "a": "Reach the target concentration quickly",
+   "d": [
+    "Prevent all side effects",
+    "Lengthen the drug's half-life"
+   ]
+  },
+  {
+   "c": "Therapeutic index",
+   "a": "Ratio of toxic dose to effective dose (TD50/ED50)",
+   "d": [
+    "Ratio of effective dose to toxic dose",
+    "Fraction of a dose reaching circulation"
+   ]
+  },
+  {
+   "c": "A narrow therapeutic index means",
+   "a": "Effective and toxic doses are close together",
+   "d": [
+    "The drug is safe at any dose",
+    "The drug works in only a few people"
+   ]
+  },
+  {
+   "c": "Agonist",
+   "a": "Binds a receptor and activates it",
+   "d": [
+    "Binds a receptor and blocks it",
+    "Destroys a receptor permanently"
+   ]
+  },
+  {
+   "c": "Antagonist",
+   "a": "Binds a receptor without activating it, blocking agonists",
+   "d": [
+    "Binds a receptor and fully activates it",
+    "Speeds the metabolism of agonists"
+   ]
+  },
+  {
+   "c": "Partial agonist",
+   "a": "Activates a receptor less fully than a full agonist",
+   "d": [
+    "Blocks a receptor completely",
+    "Activates a receptor more than the body's own ligand"
+   ]
+  },
+  {
+   "c": "Potency",
+   "a": "Amount of drug needed for a given effect",
+   "d": [
+    "Maximum effect a drug can produce",
+    "Duration of a drug's action"
+   ]
+  },
+  {
+   "c": "Efficacy",
+   "a": "Maximum effect a drug can produce",
+   "d": [
+    "Amount of drug needed for a given effect",
+    "Speed of a drug's onset"
+   ]
+  },
+  {
+   "c": "Competitive antagonist effect on dose-response",
+   "a": "Shifts it right; the same maximum is still reachable",
+   "d": [
+    "Shifts it left and raises the maximum",
+    "Lowers the maximum in a way more agonist cannot overcome"
+   ]
+  },
+  {
+   "c": "Tolerance",
+   "a": "A reduced response after repeated doses",
+   "d": [
+    "An allergic reaction to a drug",
+    "A stronger response after repeated doses"
+   ]
+  }
+ ],
+ "read": {
+  "title": "Half-life and steady state",
+  "text": [
+   "Most drugs leave the body by first-order kinetics: in each unit of time, a constant fraction of the drug is removed, not a constant amount. The half-life is the time it takes for the plasma concentration to fall by half. After one half-life 50 percent remains, after two 25 percent, after three 12.5 percent. After four to five half-lives only about 3 to 6 percent is left, and the drug is usually considered effectively gone.",
+   "The same arithmetic governs how levels build up. When a drug is given repeatedly at a steady rate, the amount eliminated per hour rises as the concentration rises, until elimination matches intake. That balance point is steady state, and it is reached after about four to five half-lives. A drug with a 6-hour half-life reaches steady state in about a day; one with a 1-week half-life takes about a month or longer, which is why a loading dose is sometimes given to reach the target level sooner.",
+   "Half-life depends on two things: how widely a drug distributes (volume of distribution) and how efficiently the body clears it (clearance). A larger volume or slower clearance means a longer half-life."
+  ],
+  "q": [
+   {
+    "q": "After two half-lives, how much of a drug remains?",
+    "o": [
+     "50%",
+     "12.5%",
+     "25%",
+     "0%"
+    ],
+    "k": 2
+   },
+   {
+    "q": "About how long does a drug with a 6-hour half-life take to reach steady state?",
+    "o": [
+     "About a day",
+     "About 6 hours",
+     "About a month"
+    ],
+    "k": 0
+   },
+   {
+    "q": "Which change would lengthen a drug's half-life?",
+    "o": [
+     "Faster clearance",
+     "Slower clearance",
+     "A smaller volume of distribution"
+    ],
+    "k": 1
+   }
+  ]
+ }
+}

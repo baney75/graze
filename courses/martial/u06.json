@@ -1,0 +1,319 @@
+{
+  "title": "Judo: the Kodokan and throwing techniques",
+  "note": "Jigoro Kano founded Kodokan judo in 1882 from older jujutsu schools. The Kodokan classifies 100 techniques: 68 nage-waza (throws) and 32 katame-waza (grappling). Throws split into tachi-waza, standing throws by hand, hip, or foot and leg, and sutemi-waza, sacrifice throws in which tori goes to the mat.",
+  "src": {
+    "t": "IJF-Kodokan Classification of Judo Techniques (British Judo)",
+    "u": "https://www.britishjudo.org.uk/wp-content/uploads/2025/06/IJF-Kodokan-Classification-of-Judo.pdf"
+  },
+  "items": [
+    {
+      "c": "Literal meaning of judo",
+      "a": "the gentle way",
+      "d": [
+        "the empty hand",
+        "the way of the fist"
+      ]
+    },
+    {
+      "c": "Founder of judo",
+      "a": "Jigoro Kano",
+      "d": [
+        "Gichin Funakoshi",
+        "Morihei Ueshiba"
+      ]
+    },
+    {
+      "c": "Kodokan",
+      "a": "the judo institute Kano founded in Tokyo",
+      "d": [
+        "the governing body of world karate",
+        "the Japanese name for a judo belt"
+      ]
+    },
+    {
+      "c": "Year Kano founded Kodokan judo",
+      "a": "1882",
+      "d": [
+        "1868",
+        "1905"
+      ]
+    },
+    {
+      "c": "Jujutsu schools Kano mastered before judo",
+      "a": "Tenjin Shin'yo-ryu and Kito-ryu",
+      "d": [
+        "Shotokan and Goju-ryu",
+        "Niten Ichi-ryu and Yagyu Shinkage-ryu"
+      ]
+    },
+    {
+      "c": "Tori",
+      "a": "the partner who performs the technique",
+      "d": [
+        "the partner who receives the technique",
+        "the referee of the contest"
+      ]
+    },
+    {
+      "c": "Uke, in judo",
+      "a": "the partner who receives the technique",
+      "d": [
+        "the partner who performs the technique",
+        "a judge seated at the corner"
+      ]
+    },
+    {
+      "c": "Nage-waza",
+      "a": "throwing techniques",
+      "d": [
+        "pinning techniques",
+        "striking techniques"
+      ]
+    },
+    {
+      "c": "Tachi-waza",
+      "a": "standing throwing techniques",
+      "d": [
+        "sacrifice throws",
+        "groundwork techniques"
+      ]
+    },
+    {
+      "c": "Sutemi-waza",
+      "a": "sacrifice throws, where tori goes to the mat",
+      "d": [
+        "standing hand throws",
+        "joint locks applied standing"
+      ]
+    },
+    {
+      "c": "Te-waza",
+      "a": "hand techniques",
+      "d": [
+        "hip techniques",
+        "foot and leg techniques"
+      ]
+    },
+    {
+      "c": "Koshi-waza",
+      "a": "hip techniques",
+      "d": [
+        "hand techniques",
+        "side sacrifice techniques"
+      ]
+    },
+    {
+      "c": "Ashi-waza",
+      "a": "foot and leg techniques",
+      "d": [
+        "hip techniques",
+        "rear sacrifice techniques"
+      ]
+    },
+    {
+      "c": "Ma-sutemi-waza",
+      "a": "rear sacrifice throws, tori falling onto the back",
+      "d": [
+        "side sacrifice throws",
+        "standing hip throws"
+      ]
+    },
+    {
+      "c": "Yoko-sutemi-waza",
+      "a": "side sacrifice throws, tori falling onto the side",
+      "d": [
+        "rear sacrifice throws",
+        "standing foot sweeps"
+      ]
+    },
+    {
+      "c": "Number of throws in the Kodokan classification",
+      "a": "68",
+      "d": [
+        "40",
+        "100"
+      ]
+    },
+    {
+      "c": "Gokyo no waza",
+      "a": "the Kodokan's 40 classic throws in five groups",
+      "d": [
+        "the five basic breakfalls",
+        "the five ranks of black belt"
+      ]
+    },
+    {
+      "c": "Seoi-nage",
+      "a": "shoulder throw",
+      "d": [
+        "major hip throw",
+        "inner thigh throw"
+      ]
+    },
+    {
+      "c": "O-goshi",
+      "a": "major hip throw",
+      "d": [
+        "shoulder throw",
+        "body drop"
+      ]
+    },
+    {
+      "c": "O-soto-gari",
+      "a": "major outer reap",
+      "d": [
+        "major inner reap",
+        "minor inner reap"
+      ]
+    },
+    {
+      "c": "O-uchi-gari",
+      "a": "major inner reap",
+      "d": [
+        "major outer reap",
+        "advanced foot sweep"
+      ]
+    },
+    {
+      "c": "Ko-uchi-gari",
+      "a": "minor inner reap",
+      "d": [
+        "major inner reap",
+        "minor outer reap"
+      ]
+    },
+    {
+      "c": "De-ashi-harai",
+      "a": "advanced foot sweep",
+      "d": [
+        "sweeping hip throw",
+        "minor inner reap"
+      ]
+    },
+    {
+      "c": "Uchi-mata",
+      "a": "inner thigh throw",
+      "d": [
+        "major outer reap",
+        "circle throw"
+      ]
+    },
+    {
+      "c": "Harai-goshi",
+      "a": "sweeping hip throw",
+      "d": [
+        "advanced foot sweep",
+        "shoulder throw"
+      ]
+    },
+    {
+      "c": "Tai-otoshi",
+      "a": "body drop",
+      "d": [
+        "circle throw",
+        "major hip throw"
+      ]
+    },
+    {
+      "c": "Tomoe-nage",
+      "a": "circle throw",
+      "d": [
+        "body drop",
+        "inner thigh throw"
+      ]
+    },
+    {
+      "c": "Kodokan group for seoi-nage",
+      "a": "te-waza (hand techniques)",
+      "d": [
+        "koshi-waza (hip techniques)",
+        "ashi-waza (foot and leg techniques)"
+      ]
+    },
+    {
+      "c": "Kodokan group for uchi-mata",
+      "a": "ashi-waza (foot and leg techniques)",
+      "d": [
+        "koshi-waza (hip techniques)",
+        "te-waza (hand techniques)"
+      ]
+    },
+    {
+      "c": "Kodokan group for tomoe-nage",
+      "a": "ma-sutemi-waza (rear sacrifice)",
+      "d": [
+        "yoko-sutemi-waza (side sacrifice)",
+        "koshi-waza (hip techniques)"
+      ]
+    },
+    {
+      "c": "Kumikata",
+      "a": "gripping methods",
+      "d": [
+        "breakfalling methods",
+        "pinning methods"
+      ]
+    },
+    {
+      "c": "Hikite",
+      "a": "the pulling hand, usually on the sleeve",
+      "d": [
+        "the lifting hand, usually on the lapel",
+        "the hand that taps in submission"
+      ]
+    },
+    {
+      "c": "Tsurite",
+      "a": "the lifting hand, usually on the lapel",
+      "d": [
+        "the pulling hand, usually on the sleeve",
+        "the hand posted on the mat"
+      ]
+    },
+    {
+      "c": "Judogi",
+      "a": "the judo uniform",
+      "d": [
+        "the judo mat",
+        "the judo referee"
+      ]
+    }
+  ],
+  "read": {
+    "title": "How the Kodokan sorts its throws",
+    "text": [
+      "When Jigoro Kano opened the Kodokan in Tokyo in 1882, he drew on the jujutsu he had mastered, chiefly Tenjin Shin'yo-ryu and Kito-ryu, and reorganized it around principles that could be practiced safely at full effort. The name judo means the gentle way, not because it is soft, but because it yields to and redirects force.",
+      "The Kodokan's modern classification lists 100 techniques. Sixty-eight are nage-waza, throws, and thirty-two are katame-waza, grappling techniques. Throws are divided by how tori stays or falls. In tachi-waza, standing techniques, tori stays on the feet and throws mainly with the hands (te-waza), the hips (koshi-waza), or the feet and legs (ashi-waza). In sutemi-waza, sacrifice techniques, tori deliberately drops to the mat, either onto the back (ma-sutemi-waza) or onto the side (yoko-sutemi-waza).",
+      "So seoi-nage, the shoulder throw, is a hand technique; o-goshi, the major hip throw, is a hip technique; o-soto-gari, the major outer reap, is a leg technique; and tomoe-nage, the circle throw, in which tori falls back and lifts uke over with a foot, is a rear sacrifice."
+    ],
+    "q": [
+      {
+        "q": "How many techniques are nage-waza in the Kodokan classification?",
+        "o": [
+          "32",
+          "68",
+          "100"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What separates sutemi-waza from tachi-waza?",
+        "o": [
+          "Tori deliberately goes to the mat",
+          "Sutemi-waza use only the hands",
+          "Sutemi-waza are banned in contests"
+        ],
+        "k": 0
+      },
+      {
+        "q": "According to the reading, why is judo called the gentle way?",
+        "o": [
+          "It forbids all throws",
+          "It is practiced only in kata",
+          "It yields to and redirects force"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Photosynthesis",
+  "note": "Photosynthesis runs in two linked stages in the chloroplast. The light-dependent reactions on the thylakoid membranes split water, release O2, and make ATP and NADPH. The Calvin cycle in the stroma spends that ATP and NADPH to fix CO2 into sugar.",
+  "src": { "t": "OpenStax Biology 2e, Ch. 8: Photosynthesis", "u": "https://openstax.org/books/biology-2e/pages/8-introduction" },
+  "items": [
+    { "c": "Overall equation of photosynthesis", "a": "6CO2 + 6H2O → C6H12O6 + 6O2", "d": ["C6H12O6 + 6O2 → 6CO2 + 6H2O", "6O2 + 6H2O → C6H12O6 + 6CO2"] },
+    { "c": "Autotroph", "a": "Organism that makes its own food from inorganic sources", "d": ["Organism that eats other organisms", "Organism that feeds on dead matter only"] },
+    { "c": "Mesophyll", "a": "Middle leaf tissue where most photosynthesis occurs", "d": ["Waxy coating on the leaf surface", "Tubes that carry water up the stem"] },
+    { "c": "Stomata", "a": "Leaf pores that let CO2 in and O2 out", "d": ["Stacks of thylakoids in a chloroplast", "Fluid surrounding the thylakoids"] },
+    { "c": "Thylakoid", "a": "Membrane sac where the light reactions occur", "d": ["Fluid where the Calvin cycle occurs", "Pore in the leaf surface"] },
+    { "c": "Granum", "a": "Stack of thylakoids", "d": ["Fluid around the thylakoids", "Pair of chlorophyll molecules"] },
+    { "c": "Stroma", "a": "Fluid around the thylakoids; site of the Calvin cycle", "d": ["Space inside a thylakoid; site of H+ buildup", "Leaf layer that holds the veins"] },
+    { "c": "Source of the O2 released in photosynthesis", "a": "Splitting of water", "d": ["Breakdown of CO2", "Breakdown of glucose"] },
+    { "c": "Colors chlorophyll absorbs best", "a": "Blue and red", "d": ["Green and yellow", "Yellow and orange"] },
+    { "c": "Why most leaves look green", "a": "Chlorophyll reflects green light", "d": ["Chlorophyll absorbs green light most", "Leaves emit green light"] },
+    { "c": "Carotenoids", "a": "Yellow-orange pigments that absorb blue light and shed excess energy", "d": ["Green pigments in the reaction center", "Enzymes that fix CO2"] },
+    { "c": "Light wavelength and energy", "a": "Shorter wavelengths carry more energy", "d": ["Longer wavelengths carry more energy", "All wavelengths carry equal energy"], "ex": "Blue light carries more energy than red." },
+    { "c": "Photosystem", "a": "Light-harvesting complex plus a reaction center", "d": ["Enzyme complex that fixes CO2", "Stack of thylakoids in the stroma"] },
+    { "c": "P680", "a": "Reaction center of photosystem II", "d": ["Reaction center of photosystem I", "Enzyme of the Calvin cycle"] },
+    { "c": "P700", "a": "Reaction center of photosystem I", "d": ["Reaction center of photosystem II", "Carrier between the two photosystems"] },
+    { "c": "Photosystem that splits water", "a": "Photosystem II", "d": ["Photosystem I", "ATP synthase"] },
+    { "c": "Final electron acceptor of the light reactions", "a": "NADP+", "d": ["O2", "CO2"] },
+    { "c": "Products of the light-dependent reactions", "a": "ATP, NADPH, and O2", "d": ["Glucose and CO2", "G3P and RuBP"] },
+    { "c": "During light reactions H+ builds up in the…", "a": "thylakoid lumen", "d": ["stroma", "intermembrane space of mitochondria"] },
+    { "c": "Three stages of the Calvin cycle", "a": "Fixation, reduction, regeneration", "d": ["Glycolysis, oxidation, regeneration", "Fixation, oxidation, phosphorylation"] },
+    { "c": "RuBisCO", "a": "Enzyme that attaches CO2 to RuBP", "d": ["Enzyme that splits water", "Enzyme that makes ATP from ADP"] },
+    { "c": "RuBP", "a": "Five-carbon molecule that accepts CO2", "d": ["Three-carbon sugar exported to make glucose", "Six-carbon product of fixation"] },
+    { "c": "Molecule formed directly by CO2 fixation", "a": "3-PGA", "d": ["G3P", "Glucose"], "ex": "Each CO2 + RuBP gives two 3-PGA." },
+    { "c": "Calvin turns needed to export one G3P", "a": "Three", "d": ["One", "Twelve"] },
+    { "c": "Calvin turns needed for one glucose", "a": "Six", "d": ["Three", "Two"] },
+    { "c": "ATP and NADPH spent per exported G3P", "a": "9 ATP and 6 NADPH", "d": ["6 ATP and 9 NADPH", "3 ATP and 3 NADPH"] },
+    { "c": "The Calvin cycle is also called the…", "a": "light-independent reactions", "d": ["light-dependent reactions", "electron transport chain"] },
+    { "c": "CAM plants open their stomata…", "a": "at night, to save water", "d": ["only at midday, to gain light", "never, since they take no CO2"] },
+    { "c": "Photosynthesis vs. cellular respiration", "a": "The products of each are the reactants of the other", "d": ["Both release O2 and use glucose", "Both happen only in plant cells"] }
+  ],
+  "read": {
+    "title": "Two stages, one chloroplast",
+    "text": [
+      "Inside a leaf cell, each chloroplast contains stacks of flattened membrane sacs called thylakoids, surrounded by a fluid called the stroma. The two stages of photosynthesis divide the work between these spaces.",
+      "The light-dependent reactions happen in the thylakoid membranes. Pigments, mainly chlorophyll, absorb blue and red light and funnel the energy to a reaction center. In photosystem II, excited electrons leave the reaction center and are replaced by electrons pulled from water. Splitting water releases oxygen gas. The electrons travel down a transport chain that pumps hydrogen ions into the thylakoid interior, then photosystem I boosts them again so they can reduce NADP+ to NADPH. The hydrogen ions flow back out through ATP synthase, making ATP.",
+      "The Calvin cycle runs in the stroma. The enzyme RuBisCO attaches CO2 to a five-carbon sugar, RuBP. The resulting molecules are reduced, using ATP and NADPH, into a three-carbon sugar, G3P. For every three CO2 fixed, one G3P leaves the cycle to be built into glucose and other molecules; the rest are rearranged, with more ATP, to regenerate RuBP.",
+      "Light reactions make the energy carriers; the Calvin cycle spends them. Neither stage can keep going for long without the other."
+    ],
+    "q": [
+      { "q": "Where does the Calvin cycle take place?", "o": ["Thylakoid membrane", "Stroma", "Mitochondrial matrix", "Stomata"], "k": 1 },
+      { "q": "What replaces the electrons lost by photosystem II?", "o": ["Electrons from water", "Electrons from NADPH", "Electrons from CO2"], "k": 0 },
+      { "q": "How many CO2 must be fixed for one G3P to leave the cycle?", "o": ["One", "Two", "Three", "Six"], "k": 2 }
+    ]
+  }
+}

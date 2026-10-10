@@ -1,0 +1,261 @@
+{
+  "title": "Feelings and opinions",
+  "note": "Many feelings use the dative case (the \"to whom\" case): Podoba mi się (I like how it looks), Smakuje mi (it tastes good to me), Zimno mi (I'm cold). Dative pronouns: mi, ci, mu (him), jej, nam, wam, im. Nouns: feminine -a → -e/-i (mama → mamie), masculine often -owi (bratu and ojcu are exceptions). Feeling adjectives agree: zmęczony (m), zmęczona (f).",
+  "src": {
+    "t": "Polish grammar: dative case, Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Polish_grammar"
+  },
+  "items": [
+    {
+      "c": "szczęśliwy",
+      "a": "happy",
+      "d": [
+        "sad",
+        "tired"
+      ],
+      "ex": "Jestem bardzo szczęśliwa.",
+      "exT": "I'm very happy. (woman speaking)"
+    },
+    {
+      "c": "smutny",
+      "a": "sad",
+      "d": [
+        "happy",
+        "angry"
+      ]
+    },
+    {
+      "c": "zmęczony",
+      "a": "tired",
+      "d": [
+        "bored",
+        "sick"
+      ]
+    },
+    {
+      "c": "zadowolony",
+      "a": "pleased, satisfied",
+      "d": [
+        "surprised",
+        "worried"
+      ]
+    },
+    {
+      "c": "zdziwiony",
+      "a": "surprised",
+      "d": [
+        "pleased",
+        "tired"
+      ]
+    },
+    {
+      "c": "znudzony",
+      "a": "bored",
+      "d": [
+        "tired",
+        "calm"
+      ]
+    },
+    {
+      "c": "spokojny",
+      "a": "calm, quiet",
+      "d": [
+        "nervous",
+        "bored"
+      ]
+    },
+    {
+      "c": "zdenerwowany",
+      "a": "nervous; annoyed",
+      "d": [
+        "calm",
+        "happy"
+      ]
+    },
+    {
+      "c": "Cieszę się.",
+      "a": "I'm glad.",
+      "d": [
+        "I'm afraid.",
+        "I'm sorry."
+      ],
+      "ex": "Cieszę się, że jesteś.",
+      "exT": "I'm glad you're here."
+    },
+    {
+      "c": "Boję się.",
+      "a": "I'm afraid.",
+      "d": [
+        "I'm glad.",
+        "I'm tired."
+      ]
+    },
+    {
+      "c": "Kocham cię.",
+      "a": "I love you.",
+      "d": [
+        "I miss you.",
+        "I know you."
+      ]
+    },
+    {
+      "c": "Podoba mi się.",
+      "a": "I like it (how it looks).",
+      "d": [
+        "It tastes good to me.",
+        "I don't care."
+      ],
+      "ex": "Ta sukienka bardzo mi się podoba.",
+      "exT": "I really like this dress."
+    },
+    {
+      "c": "Nie podoba mi się.",
+      "a": "I don't like it (how it looks).",
+      "d": [
+        "It doesn't fit me.",
+        "I don't understand it."
+      ]
+    },
+    {
+      "c": "Smakuje mi.",
+      "a": "It tastes good (to me).",
+      "d": [
+        "I like how it looks.",
+        "I'm hungry."
+      ]
+    },
+    {
+      "c": "Zimno mi.",
+      "a": "I'm cold.",
+      "d": [
+        "It's cold outside.",
+        "I have a cold."
+      ]
+    },
+    {
+      "c": "Jest mi przykro.",
+      "a": "I'm sorry (I feel bad about it).",
+      "d": [
+        "I'm bored.",
+        "It's not my fault."
+      ]
+    },
+    {
+      "c": "Wolę herbatę.",
+      "a": "I prefer tea.",
+      "d": [
+        "I want more tea.",
+        "I don't like tea."
+      ]
+    },
+    {
+      "c": "Myślę, że…",
+      "a": "I think that…",
+      "d": [
+        "I know that…",
+        "I hope that…"
+      ],
+      "say": "Myślę, że"
+    },
+    {
+      "c": "Moim zdaniem",
+      "a": "in my opinion",
+      "d": [
+        "in my family",
+        "in my experience"
+      ]
+    },
+    {
+      "c": "Zgadzam się.",
+      "a": "I agree.",
+      "d": [
+        "I disagree.",
+        "I don't know."
+      ]
+    },
+    {
+      "c": "Masz rację.",
+      "a": "You're right.",
+      "d": [
+        "You're wrong.",
+        "You're lucky."
+      ]
+    },
+    {
+      "c": "Szkoda!",
+      "a": "What a pity!",
+      "d": [
+        "Great!",
+        "Be careful!"
+      ]
+    },
+    {
+      "c": "Wszystko jedno.",
+      "a": "It's all the same to me.",
+      "d": [
+        "That's everything.",
+        "Only one, please."
+      ]
+    },
+    {
+      "c": "Daję ___ kwiaty. (mama)",
+      "a": "mamie",
+      "d": [
+        "mamę",
+        "mamy"
+      ],
+      "ex": "Daję mamie kwiaty.",
+      "exT": "I'm giving Mom flowers."
+    },
+    {
+      "c": "Pomagam ___. (brat)",
+      "a": "bratu",
+      "d": [
+        "brata",
+        "bratem"
+      ],
+      "ex": "Pomagam bratu w lekcjach.",
+      "exT": "I help my brother with his homework."
+    },
+    {
+      "c": "Podoba ___ się ten film? (ty)",
+      "a": "ci",
+      "d": [
+        "cię",
+        "ty"
+      ],
+      "ex": "Podoba ci się ten film?",
+      "exT": "Do you like this film?"
+    },
+    {
+      "c": "Ta zupa ___ smakuje. (on)",
+      "a": "mu",
+      "d": [
+        "go",
+        "jego"
+      ],
+      "ex": "Ta zupa mu smakuje.",
+      "exT": "He likes the taste of this soup."
+    },
+    {
+      "c": "Dziękuję ___. (ojciec)",
+      "a": "ojcu",
+      "d": [
+        "ojca",
+        "ojcem"
+      ],
+      "ex": "Dziękuję ojcu.",
+      "exT": "I thank my father."
+    },
+    {
+      "c": "Ona jest ___. (zmęczony)",
+      "a": "zmęczona",
+      "d": [
+        "zmęczony",
+        "zmęczone"
+      ],
+      "ex": "Ona jest zmęczona.",
+      "exT": "She is tired."
+    }
+  ]
+}

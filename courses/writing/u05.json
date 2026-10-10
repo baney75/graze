@@ -1,0 +1,49 @@
+{
+  "title": "Pronoun case: I or me, who or whom",
+  "note": "Use subject forms (I, he, she, we, they, who) for subjects and object forms (me, him, her, us, them, whom) for objects of verbs and prepositions. To check a pair, drop the other person: 'between you and me' is right because you would say 'between me'. For who or whom, answer the clause with he (who) or him (whom).",
+  "src": { "t": "Purdue OWL, Pronoun Case", "u": "https://owl.purdue.edu/owl/general_writing/grammar/pronouns/pronoun_case.html" },
+  "items": [
+    { "c": "Ana and ___ went to the game. (I/me)", "a": "I", "d": ["me"], "ex": "Drop 'Ana and': 'I went', not 'me went'." },
+    { "c": "The coach thanked Ana and ___. (he/him)", "a": "him", "d": ["he"] },
+    { "c": "Keep this between you and ___. (I/me)", "a": "me", "d": ["I"], "ex": "'Between' is a preposition and takes the object form." },
+    { "c": "___ and his sister own the shop. (He/Him)", "a": "He", "d": ["Him"] },
+    { "c": "The prize went to ___ and Lee. (she/her)", "a": "her", "d": ["she"] },
+    { "c": "___ students need more time. (We/Us)", "a": "We", "d": ["Us"], "ex": "Drop 'students': 'We need more time'." },
+    { "c": "The test was hard for ___ students. (we/us)", "a": "us", "d": ["we"] },
+    { "c": "To ___ should I send it? (who/whom)", "a": "whom", "d": ["who"], "ex": "Object of the preposition 'to': send it to him, so 'whom'." },
+    { "c": "the friend ___ I live (with who/with whom)", "a": "with whom", "d": ["with who"] },
+    { "c": "The man ___ I think stole it fled. (who/whom)", "a": "who", "d": ["whom"], "ex": "Ignore 'I think': he stole it, so 'who'." },
+    { "c": "Give it to ___ wants it. (whoever/whomever)", "a": "whoever", "d": ["whomever"], "ex": "The pronoun is the subject of 'wants', so the subject form is needed." },
+    { "c": "Hire ___ you trust. (whoever/whomever)", "a": "whomever", "d": ["whoever"], "ex": "You trust him: the pronoun is the object of 'trust'." },
+    { "c": "Quick test for who vs. whom", "a": "answer with he (who) or him (whom)", "d": ["use 'whom' after any verb", "use 'who' at the start of every question"] },
+    { "c": "He's older than ___ is. (she/her)", "a": "she", "d": ["her"], "ex": "With the verb 'is' stated, the pronoun is a subject." },
+    { "c": "Subject pronouns", "a": "I, he, she, we, they, who", "d": ["me, him, her, us, them, whom", "my, his, her, our, their, whose"] },
+    { "c": "Object pronouns", "a": "me, him, her, us, them, whom", "d": ["I, he, she, we, they, who", "mine, his, hers, ours, theirs"] },
+    { "c": "Possessive form of 'who'", "a": "whose", "d": ["who's", "whom's"] },
+    { "c": "Case of a pronoun after a preposition", "a": "objective", "d": ["subjective", "possessive"] },
+    { "c": "Case of a pronoun that is a verb's subject", "a": "subjective", "d": ["objective", "possessive"] },
+    { "c": "Case of 'whose' and 'my'", "a": "possessive", "d": ["objective", "subjective"] },
+    { "c": "She taught ___ to code. (her/herself)", "a": "herself", "d": ["her"], "ex": "A reflexive pronoun refers back to the subject of its clause." },
+    { "c": "Is 'Contact John or myself' standard?", "a": "no; 'myself' needs an 'I' earlier in the clause", "d": ["yes; 'myself' is more polite than 'me'"], "ex": "Write 'Contact John or me.'" },
+    { "c": "Mia and ___ are partners. (they/them)", "a": "they", "d": ["them"] },
+    { "c": "We invited ___ and their kids. (they/them)", "a": "them", "d": ["they"] },
+    { "c": "Pronoun case", "a": "the form a pronoun takes for its role in the sentence", "d": ["whether a pronoun is singular or plural", "whether a pronoun is capitalized"] },
+    { "c": "Fix: 'Him and me left early.'", "a": "He and I left early.", "d": ["Him and I left early.", "He and me left early."] },
+    { "c": "Fix: 'Join Kim and I for lunch.'", "a": "Join Kim and me for lunch.", "d": ["Join I and Kim for lunch.", "Join Kim and myself for lunch."] },
+    { "c": "Why 'between you and I' is nonstandard", "a": "a preposition takes the object form", "d": ["'I' must always come first", "'between' needs three people"] }
+  ],
+  "read": {
+    "title": "The drop-the-other-name test",
+    "text": [
+      "Pronoun case means choosing the right form for a pronoun's job. Subjects take subject forms: I, he, she, we, they, who. Objects of verbs and prepositions take object forms: me, him, her, us, them, whom.",
+      "Few people say \"Me went home\" or \"She called I.\" The errors appear when a pronoun is paired with another noun. \"My brother and me fixed the sink\" sounds acceptable to many ears, and \"between you and I\" can sound formal. A simple test exposes both. Remove the other person and read what is left: \"Me fixed the sink\" is plainly wrong, so the subject must be \"My brother and I.\" \"Between I\" is wrong too, so the phrase is \"between you and me.\"",
+      "Who and whom follow the same logic. Who is a subject, whom is an object. Isolate the clause and answer it with he or him. In \"the student ___ we chose,\" the clause becomes \"we chose him,\" so the word is whom. In \"the student ___ won,\" it becomes \"he won,\" so the word is who.",
+      "Nervous writers sometimes dodge the choice with myself, as in \"Send it to Dana or myself.\" That is not more correct; it simply avoids the question. Use me."
+    ],
+    "q": [
+      { "q": "How does the reading suggest checking \"My brother and me fixed the sink\"?", "o": ["Read it with the other person removed", "Put the pronoun first", "Replace me with myself"], "k": 0 },
+      { "q": "In \"the student ___ we chose,\" which word fits and why?", "o": ["who, because student is a subject", "whom, because we chose him", "who, because it follows a noun"], "k": 1 },
+      { "q": "What does the reading say about \"Send it to Dana or myself\"?", "o": ["It is the most formal choice", "It is correct in business writing", "It dodges the choice; use me"], "k": 2 }
+    ]
+  }
+}

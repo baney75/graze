@@ -1,0 +1,59 @@
+{
+  "title": "Electrochemistry and redox",
+  "note": "Oxidation happens at the anode and reduction at the cathode, in every kind of cell. In a galvanic cell a spontaneous reaction sends electrons through a wire from anode to cathode; E°cell = E°cathode − E°anode, and E°cell > 0 means spontaneous. ΔG° = −nFE°cell links voltage to free energy. In electrolysis, charge (current × time) ÷ F gives moles of electrons.",
+  "src": { "t": "Chemistry 2e, 17.3 Electrode and Cell Potentials, OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/17-3-electrode-and-cell-potentials" },
+  "items": [
+    { "c": "Electrode where oxidation occurs", "a": "anode", "d": ["cathode", "salt bridge"] },
+    { "c": "Electrode where reduction occurs", "a": "cathode", "d": ["anode", "salt bridge"] },
+    { "c": "Galvanic (voltaic) cell", "a": "a spontaneous redox reaction produces current", "d": ["an outside current drives a nonspontaneous reaction", "a fuel burns to boil water for a turbine"] },
+    { "c": "Electrolytic cell", "a": "an outside power source drives a nonspontaneous reaction", "d": ["a spontaneous redox reaction produces current", "a fuel is fed in continuously to make current"] },
+    { "c": "Electron flow in a galvanic cell", "a": "anode to cathode through the external wire", "d": ["cathode to anode through the external wire", "anode to cathode through the salt bridge"] },
+    { "c": "Job of the salt bridge", "a": "lets ions flow so each half-cell stays neutral", "d": ["carries electrons between the two electrodes", "supplies the metal ions that get reduced"] },
+    { "c": "Charge sign of a galvanic cell's anode", "a": "negative", "d": ["positive"] },
+    { "c": "Charge sign of an electrolytic cell's anode", "a": "positive", "d": ["negative"], "ex": "It is wired to the + terminal of the power supply." },
+    { "c": "In cell notation, a double line (‖) means", "a": "the salt bridge", "d": ["a boundary between two phases", "the external wire"] },
+    { "c": "Anode in Cu(s)│Cu²⁺‖Ag⁺│Ag(s)", "a": "Cu", "d": ["Ag"], "ex": "Cell notation lists the anode on the left and the cathode on the right." },
+    { "c": "Electrode for a couple with no solid metal", "a": "an inert electrode such as platinum", "d": ["an active electrode such as zinc", "a salt bridge such as KNO₃"] },
+    { "c": "Potential of the standard hydrogen electrode", "a": "exactly 0 V", "d": ["exactly 1 V", "−0.76 V"] },
+    { "c": "Standard cell potential from half-cells", "a": "E°cell = E°cathode − E°anode", "d": ["E°cell = E°anode − E°cathode", "E°cell = E°cathode + E°anode"] },
+    { "c": "Standard conditions for E° values", "a": "1 M, 1 bar, 298 K", "d": ["1 M, 1 bar, 273 K", "0.1 M, 10 bar, 298 K"] },
+    { "c": "A spontaneous cell reaction has", "a": "E°cell > 0", "d": ["E°cell < 0", "E°cell = 0"] },
+    { "c": "Cu²⁺/Cu +0.34 V, Zn²⁺/Zn −0.76 V: E°cell?", "a": "+1.10 V", "d": ["+0.42 V", "−1.10 V"], "ex": "Zinc is the anode: 0.34 − (−0.76) = +1.10 V." },
+    { "c": "A more positive reduction potential means", "a": "the species is more easily reduced", "d": ["the species is more easily oxidized", "the species is a stronger reducing agent"] },
+    { "c": "Strongest oxidizing agent in the E° table", "a": "F₂, fluorine gas", "d": ["Li⁺, lithium ion", "H₂, hydrogen gas"] },
+    { "c": "Strongest reducing agent in the E° table", "a": "Li, lithium metal", "d": ["F⁻, fluoride ion", "Au, gold metal"] },
+    { "c": "Faraday constant (F)", "a": "96,485 C per mole of electrons", "d": ["6.022 × 10²³ C per mole of electrons", "8.314 C per mole of electrons"] },
+    { "c": "Free energy from cell potential", "a": "ΔG° = −nFE°cell", "d": ["ΔG° = nFE°cell", "ΔG° = −nF/E°cell"] },
+    { "c": "When E°cell is positive, K is", "a": "greater than 1", "d": ["less than 1", "equal to 1"] },
+    { "c": "Nernst equation at 298 K", "a": "E = E° − (0.0592 V/n) log Q", "d": ["E = E° + (0.0592 V/n) log Q", "E = E° × (0.0592 V/n) log Q"] },
+    { "c": "Cell voltage at equilibrium (a dead battery)", "a": "zero", "d": ["E°cell", "its maximum value"] },
+    { "c": "Charge from current and time", "a": "Q = I × t", "d": ["Q = I ÷ t", "Q = I × V"] },
+    { "c": "Charge from 3.00 A flowing for 10.0 s", "a": "30.0 C", "d": ["3.33 C", "0.300 C"] },
+    { "c": "Moles of electrons to plate 1 mol Cu from Cu²⁺", "a": "2 mol", "d": ["1 mol", "0.5 mol"] },
+    { "c": "Cathode product, electrolysis of molten NaCl", "a": "sodium metal", "d": ["chlorine gas", "hydrogen gas"] },
+    { "c": "Cathode gas in the electrolysis of water", "a": "hydrogen", "d": ["oxygen"], "ex": "H₂ forms at the cathode and O₂ at the anode, in a 2 : 1 ratio." },
+    { "c": "Acidic half-reaction: balance O by adding", "a": "H₂O", "d": ["O₂", "OH⁻"] },
+    { "c": "Acidic half-reaction: balance H by adding", "a": "H⁺", "d": ["H₂", "H₂O"] },
+    { "c": "Extra step for redox balancing in base", "a": "add OH⁻ to both sides to cancel each H⁺", "d": ["add H⁺ to both sides to cancel each OH⁻", "replace each H₂O with O₂ and H₂"] },
+    { "c": "Before adding two half-reactions, match", "a": "electrons lost and electrons gained", "d": ["oxygen atoms and hydrogen atoms", "the masses of the two half-reactions"] },
+    { "c": "Electrons gained when MnO₄⁻ becomes Mn²⁺", "a": "5", "d": ["7", "2"], "ex": "Mn goes from +7 to +2: MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O." },
+    { "c": "Species reduced as iron rusts", "a": "O₂", "d": ["Fe", "Fe²⁺"] },
+    { "c": "Common sacrificial anode for steel pipes", "a": "magnesium", "d": ["copper", "silver"], "ex": "Mg has a lower reduction potential than Fe, so it oxidizes instead of the iron." },
+    { "c": "Rechargeable battery", "a": "secondary battery", "d": ["primary battery", "fuel cell"] },
+    { "c": "Electrolyte in a car's lead–acid battery", "a": "sulfuric acid", "d": ["potassium hydroxide", "ammonium chloride"] },
+    { "c": "Product of a hydrogen–oxygen fuel cell", "a": "water", "d": ["carbon dioxide", "hydrogen peroxide"] }
+  ],
+  "read": {
+    "title": "Electrons through a wire",
+    "text": [
+      "Drop a strip of zinc into copper(II) sulfate solution and copper metal soon coats the zinc. Zinc atoms hand electrons to Cu²⁺ ions, so zinc is oxidized and the copper ions are reduced. A galvanic cell runs the same reaction with the two halves kept apart. Zinc dips into a zinc salt solution, copper into a copper salt solution, and a wire joins the two metals. Electrons released at the zinc anode travel through the wire to the copper cathode, where Cu²⁺ ions pick them up. A salt bridge lets ions drift between the beakers so that neither solution builds up a charge.",
+      "Each half-reaction has a standard reduction potential, measured against the hydrogen electrode, which is set at 0 V. The cell potential is the cathode's value minus the anode's: 0.34 V − (−0.76 V) = +1.10 V. A positive E°cell means the reaction is spontaneous, and ΔG° = −nFE°cell turns that voltage into a free energy change. As the cell runs, reactants are used up, the voltage falls as the Nernst equation predicts, and it reaches zero at equilibrium.",
+      "An electrolytic cell works the other way. An outside power supply forces a nonspontaneous reaction, such as splitting molten sodium chloride into sodium metal and chlorine gas. The amount of product follows from the charge passed: current times time gives coulombs, and dividing by the Faraday constant, 96,485 C per mole of electrons, gives moles of electrons."
+    ],
+    "q": [
+      { "q": "In the zinc–copper cell, which way do the electrons go?", "o": ["Through the wire from zinc to copper", "Through the salt bridge from zinc to copper", "Through the wire from copper to zinc"], "k": 0 },
+      { "q": "Why does the cell's voltage fall as it runs?", "o": ["The salt bridge stops carrying electrons", "Reactants are used up as it nears equilibrium", "The hydrogen electrode loses its 0 V value"], "k": 1 },
+      { "q": "What does an electrolytic cell need that a galvanic cell does not?", "o": ["A spontaneous reaction", "Two electrodes", "An outside power supply"], "k": 2 }
+    ]
+  }
+}

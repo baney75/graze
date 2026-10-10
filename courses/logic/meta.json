@@ -1,0 +1,16 @@
+{
+  "key": "logic",
+  "name": "Logic & Critical Thinking",
+  "group": "Mind",
+  "tag": "LOGIC",
+  "level": "Intro college",
+  "blurb": "Learn to find and judge arguments, use propositional and categorical logic, name formal and informal fallacies, weigh causes, probabilities and sources, and argue persuasively while treating opponents fairly.",
+  "sources": [
+    { "t": "forall x: Calgary, an open introduction to formal logic (Zach et al.)", "u": "https://forallx.openlogicproject.org/" },
+    { "t": "Critical Reasoning: A User's Manual (Southworth and Swoyer), LibreTexts", "u": "https://human.libretexts.org/Bookshelves/Philosophy/Critical_Reasoning%3A_A_User's_Manual_(Southworth_and_Swoyer)" },
+    { "t": "Introduction to Logic and Critical Thinking (van Cleave), LibreTexts, 2.14 Categorical Logic", "u": "https://human.libretexts.org/Bookshelves/Philosophy/Logic_and_Reasoning/Introduction_to_Logic_and_Critical_Thinking_2e_(van_Cleave)/02%3A_Formal_Methods_of_Evaluating_Arguments/2.14%3A_Categorical_Logic" },
+    { "t": "Fallacies, Internet Encyclopedia of Philosophy", "u": "https://iep.utm.edu/fallacy/" },
+    { "t": "The Traditional Square of Opposition, Stanford Encyclopedia of Philosophy", "u": "https://plato.stanford.edu/entries/square/" },
+    { "t": "Informal Logic, Stanford Encyclopedia of Philosophy", "u": "https://plato.stanford.edu/entries/logic-informal/" }
+  ]
+}

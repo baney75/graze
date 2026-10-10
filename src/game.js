@@ -59,9 +59,27 @@ function genRush() {
 }
 
 /* ---------- gate scheduling ---------- */
-function firstNew(dk) {
+function courseOrder() {
+  const o = (SV.prefs.order || []).filter(k => COURSES[k] && packOn(k));
+  for (const k of COURSE_KEYS) if (packOn(k) && !o.includes(k)) o.push(k);
+  return o;
+}
+function firstNew(dk, skip) {
   if (!packOn(dk)) return null;
-  for (const id of DECK_IDS[dk] || []) if (!SV.cards[id] && !G.pending.has(id) && eligible(id)) return id;
+  const ids = DECK_IDS[dk] || [], start = +((SV.prefs.unit || {})[dk]) || 0;
+  const pend = G && G.pending, free = id => !SV.cards[id] && !(pend && pend.has(id)) && !(skip && skip.has(id)) && eligible(id);
+  for (const id of ids) if ((CARDS[id].u || 0) >= start && free(id)) return id;
+  for (const id of ids) if (free(id)) return id;
+  return null;
+}
+function newOpen(extra) { rollDay(); return SV.daily.newToday + (extra || 0) < newCap(); }
+function pickNew(skip) {
+  for (const dk of ['codex', 'custom']) { const id = firstNew(dk, skip); if (id) return id; }
+  const order = courseOrder();
+  if (!order.length) return null;
+  if (Math.random() < 0.65) { const id = firstNew(order[0], skip); if (id) return id; }
+  SV.rr = ((+SV.rr || 0) + 1) % 1e6;
+  for (let i = 0; i < order.length; i++) { const id = firstNew(order[(SV.rr + i) % order.length], skip); if (id) return id; }
   return null;
 }
 function pickCard() {
@@ -74,26 +92,33 @@ function pickCard() {
   let best = null, bd = Infinity;
   for (const id in SV.cards) {
     const s = SV.cards[id];
-    if (pend.has(id) || G.relearn.some(r => r.id === id) || !eligible(id)) continue;
-    if (s.due <= now && s.due < bd) { bd = s.due; best = id; }
+    if (s.due > now || s.due >= bd || pend.has(id) || G.relearn.some(r => r.id === id) || !eligible(id)) continue;
+    bd = s.due; best = id;
   }
   if (best) return { id: best, from: 'due' };
   let pendingNew = 0; pend.forEach(id => { if (!SV.cards[id]) pendingNew++; });
-  if (SV.daily.newToday + pendingNew >= NEW_CAP) return null;
-  for (const dk of ['codex', 'custom']) { const id = firstNew(dk); if (id) return { id, from: 'new' }; }
-  const order = Object.keys(PACKS).filter(packOn);
-  if (!order.length) return null;
-  SV.rr = ((+SV.rr || 0) + 1) % 1e6;
-  for (let i = 0; i < order.length; i++) { const id = firstNew(order[(SV.rr + i) % order.length]); if (id) return { id, from: 'new' }; }
-  return null;
+  if (!newOpen(pendingNew)) return null;
+  const id = pickNew();
+  return id ? { id, from: 'new' } : null;
+}
+function genMathGate() {
+  const m = mathProblem(SV.math.lv);
+  const a = G.edge + 1.05 * G.omega, correct = Math.random() < 0.5 ? 0 : 1;
+  const g = { a, id: 'math:' + G.gateN + ':' + Math.random(), from: 'math', kind: 'math', mq: m, correct, opts: ['', ''], done: false, focus: false, rev: false };
+  g.opts[correct] = m.a; g.opts[1 - correct] = m.w[0];
+  G.gates.push(g); G.pending.add(g.id); G.edge = a + 0.75 * G.omega;
+  return true;
 }
 function genGate() {
-  const pick = pickCard(); if (!pick) return false;
+  if (packOn('nums') && Math.random() < 0.18) return genMathGate();
+  const pick = pickCard();
+  if (!pick) return packOn('nums') ? genMathGate() : false;
   const card = CARDS[pick.id];
+  if (card.img) cardImage(card);
   const a = G.edge + 1.05 * G.omega;
   const g = { a, id: pick.id, from: pick.from, kind: SV.cards[pick.id] ? 'quiz' : 'new', correct: Math.random() < 0.5 ? 0 : 1, opts: ['', ''], done: false, focus: false, rev: false };
   if (g.kind === 'quiz') {
-    const s = SV.cards[pick.id], canRev = !(PACKS[card.deck] && PACKS[card.deck].norev) && s.b >= 3 && Math.random() < 0.4;
+    const C = COURSES[card.deck], s = SV.cards[pick.id], canRev = !card.img && !(C && C.norev) && s.b >= 3 && Math.random() < 0.4;
     const dp = canRev ? distractorPrompt(card) : null;
     if (dp) { g.rev = true; g.opts[g.correct] = card.c; g.opts[1 - g.correct] = dp; }
     else { g.opts[g.correct] = card.a; g.opts[1 - g.correct] = distractor(card); }
@@ -252,7 +277,10 @@ function collect(s) {
 /* ---------- gates ---------- */
 function enterGate(g) {
   g.focus = true; g.t0 = tNow; G.focus = g; sfx.gateIn(); duck(0.16);
-  if (g.kind === 'new') tip('new', 'New sigil', 'Read it and remember it. It comes back soon.');
+  const cd = CARDS[g.id];
+  if (cd && !g.rev && SV.prefs.voice !== false && speakable(cd)) SPEECH.say(cd.say || cd.c, cardLang(cd));
+  if (g.kind === 'math') tip('math', 'Quick math', 'Work it out, then steer into the right answer');
+  else if (g.kind === 'new') tip('new', 'New sigil', 'Read it and remember it. It comes back soon.');
   else if (g.rev) tip('rev', 'Reverse gate', 'Strong sigils come back flipped: pick the prompt.');
   else tip('gate', 'Recall gate', 'Steer into the lane with the right answer');
 }
@@ -271,6 +299,17 @@ function resolveGate(g) {
   const card = CARDS[g.id];
   rollDay(); SV.daily.gatesToday++;
   const p = ppos(G);
+  if (g.kind === 'math') {
+    G.gatesQ++; const ok = g.chose === g.correct; g.ok = ok; mathAdapt(ok);
+    if (ok) {
+      G.recalls++; G.rchain++; G.maxChain = Math.max(G.maxChain, G.rchain);
+      const pts = 300 * G.mult * Math.min(4, 1 + 0.5 * (G.rchain - 1)); G.score += pts; addHeat(0.4); chargeFever(0.25);
+      sfx.recall(); buzz(15); callout(CHAIN_CALLS[G.rchain] || 'SHARP', '#a8c97a'); pop('MATH +' + fmt(pts), '#a8c97a', 1.1);
+      wave(p.x, p.y, '#a8c97a', S * 0.3, 0.5, 4);
+    } else { G.rchain = 0; sfx.miss(); shake = Math.max(shake, 4); toast(g.mq.q, '= ' + g.mq.a, '#ee8991', 2.4); }
+    if (SV.daily.gatesToday >= DAILY && markDone()) { toast('Daily ritual complete', 'Streak: ' + SV.streak.n + ' day' + (SV.streak.n > 1 ? 's' : ''), '#82c89c', 2.4); sfx.mission(); }
+    save(); return;
+  }
   if (!card) return;
   if (g.kind === 'new') {
     SV.daily.newToday++; G.gatesNew++;
@@ -293,11 +332,12 @@ function resolveGate(g) {
       pop((G.rchain > 1 ? 'CHAIN ×' + G.rchain + ' ' : 'RECALL ') + '+' + fmt(pts), '#d5b66f', 1.2);
       wave(p.x, p.y, '#d5b66f', S * 0.35, 0.55, 4); burst(p.x, p.y, 26, '#d5b66f', S * 1.1, 0.55, S * 0.008);
       flash = RM ? 0.08 : 0.25; flashCol = '213,182,111';
-      if (r.prev < MASTER && r.b >= MASTER) toast('Sigil mastered', card.c + '  ·  ' + card.a, '#d5b66f', 2.4);
+      if (r.prev < MASTER && r.b >= MASTER) toast('Sigil mastered', cardLabel(card) + (card.img ? '' : '  ·  ' + card.a), '#d5b66f', 2.4);
     } else {
       G.relearn.push({ id: g.id, after: G.gateN + 2 });
       G.streak = 0; G.rchain = 0; sfx.miss(); shake = Math.max(shake, 4);
-      toast(card.c, '= ' + card.a, '#ee8991', 2.8);
+      toast(card.img ? 'Answer' : card.c, '= ' + card.a, '#ee8991', 2.8);
+      if (g.rev === false && speakable(card) && SV.prefs.voice !== false) SPEECH.say(card.say || card.c, cardLang(card));
     }
   }
   if (SV.daily.gatesToday >= DAILY && markDone()) { toast('Daily ritual complete', 'Streak: ' + SV.streak.n + ' day' + (SV.streak.n > 1 ? 's' : ''), '#82c89c', 2.4); sfx.mission(); }
@@ -353,6 +393,7 @@ function tryRevive(h) {
   shake = RM ? 3 : 12; flash = RM ? 0.12 : 0.45; flashCol = '238,137,145';
   $('rvMeta').textContent = DECKS[card.deck].tag + ' · answer to keep your run';
   $('rvCue').textContent = card.c;
+  setCardImg($('rvImg'), card);
   const box = $('rvOpts'); box.textContent = '';
   opts.forEach((o, i) => {
     const b = el('button'); b.append(el('kbd', '', String(i + 1)), document.createTextNode(o));
@@ -616,14 +657,16 @@ function renderMenu() {
   $('mShards').textContent = fmt(bank());
   animBar($('mXp'), lv.xp / lv.need, lv.xp / lv.need);
   renderDaily();
-  const open = pageOpen(), read = Object.keys(SV.codex).length;
+  const open = pageOpen(), read = CODEX.filter(p => SV.codex[p.id]).length;
   $('bCodex').classList.toggle('hot', open);
   $('tCodex').textContent = open ? 'New page' : `${read} / ${CODEX.length} read`;
   const due = dueCount();
   $('bSigils').classList.toggle('hot', due > 0 && !open);
   $('tSigils').textContent = due ? `${due} ready` : `${masteredCount()} mastered`;
-  const packsOn = Object.keys(PACKS).filter(packOn).length;
-  $('tForge').textContent = `${packsOn} packs${DECK_IDS.custom.length ? ' + yours' : ''}`;
+  const on = courseOrder();
+  $('tForge').textContent = on.length ? `${on.length} course${on.length > 1 ? 's' : ''} · ${COURSES[on[0]].name}` : 'Choose courses';
+  $('bForge').classList.toggle('hot', !SV.prefs.onboard);
+  renderNextLesson();
   const afford = Object.keys(SHOP).some(k => shopLv(k) < SHOP[k].costs.length && bank() >= SHOP[k].costs[shopLv(k)]);
   $('bShop').classList.toggle('hot', afford);
   $('tShop').textContent = afford ? 'Upgrade ready' : `${fmt(bank())}◆ banked`;
@@ -695,19 +738,23 @@ function renderResults(r) {
 }
 
 /* ================= panels ================= */
-const PANELS = ['codex', 'sigils', 'forge', 'shop', 'sync', 'news'];
+const PANELS = ['codex', 'sigils', 'forge', 'shop', 'sync', 'news', 'library', 'learn', 'feed'];
 function openPanel(id) {
   if (mode === 'play' || mode === 'dying' || mode === 'paused' || mode === 'boon' || mode === 'revive') return;
   if (mode === 'results') { mode = 'menu'; show('results', false); }
   panel = id; show('menu', false);
   PANELS.forEach(p => show(p, p === id));
-  ({ codex: codexList, sigils: renderSigils, forge: renderForge, shop: renderShop, sync: renderSync, news: renderNews })[id]();
-  const f = $(id).querySelector('button, textarea'); if (f) try { f.focus({ preventScroll: true }); } catch (e) {}
+  $('mute').hidden = id === 'feed';
+  ({ codex: codexList, sigils: renderSigils, forge: renderForge, shop: renderShop, sync: renderSync, news: renderNews, library: () => renderLibrary(), learn: () => {}, feed: () => feedOpen() })[id]();
+  const f = id === 'feed' ? null : ($(id).querySelector('.cta') || $(id).querySelector('button, textarea')); if (f) try { f.focus({ preventScroll: true }); } catch (e) {}
 }
 function closePanel() {
   if (!panel) return;
+  if (panel === 'feed') feedClose();
+  if (panel === 'learn') learnClose();
+  SPEECH.stop();
   RD = null;
-  PANELS.forEach(p => show(p, false));
+  PANELS.forEach(p => show(p, false)); $('mute').hidden = false;
   panel = null; renderMenu(); show('menu', true);
 }
 document.addEventListener('click', e => { const t = e.target.closest && e.target.closest('[data-close]'); if (t) closePanel(); });
@@ -729,7 +776,7 @@ function readingSummary() {
 }
 function codexList() {
   const B = $('codexBody'); B.textContent = '';
-  const read = Object.keys(SV.codex).length;
+  const read = CODEX.filter(p => SV.codex[p.id]).length;
   B.appendChild(head('Codex', `${read} of ${CODEX.length} pages · ${readingSummary()}`));
   B.appendChild(el('p', 'how', 'Lost pages from the orbit archive. Read one, then answer from memory. Each page seeds new sigils into your gates. Two new pages open each day.'));
   const ul = el('ul', 'pages'), nx = nextPage(), open = pageOpen();
@@ -827,7 +874,7 @@ function renderSigils() {
   B.appendChild(head('Sigils', `${masteredCount()} mastered · ${due} ready to recall`));
   B.appendChild(el('p', 'how', tot >= 5 ? `Recall accuracy on returning sigils: ${Math.round(100 * r / tot)}% across ${tot} reviews. A sigil is mastered once you recall it after a week away.` : 'Sigils appear at gates. Each returns after a longer gap every time you recall it. Recall one after a week away and it is mastered.'));
   const wrap = el('div', 'decks');
-  for (const dk of ['custom', 'codex', ...Object.keys(PACKS)]) {
+  for (const dk of ['custom', 'codex', ...courseOrder()]) {
     if (dk === 'custom' && !DECK_IDS.custom.length) continue;
     if (dk !== 'codex' && dk !== 'custom' && !packOn(dk)) continue;
     const s = deckStats(dk), d = el('div', 'deck');
@@ -837,30 +884,24 @@ function renderSigils() {
     animBar(i, 0, s.total ? s.mastered / s.total : 0);
   }
   B.appendChild(wrap);
-  const strong = Object.keys(SV.cards).filter(id => CARDS[id]).sort((a, b) => (SV.cards[b].b - SV.cards[a].b) || (SV.cards[b].n - SV.cards[a].n)).slice(0, 24);
+  const strong = Object.keys(SV.cards).filter(id => CARDS[id] && eligible(id)).sort((a, b) => (SV.cards[b].b - SV.cards[a].b) || (SV.cards[b].n - SV.cards[a].n)).slice(0, 24);
   const sec = el('div', 'sec'); sec.appendChild(el('span', 'lbl', 'Strongest sigils'));
   if (!strong.length) sec.appendChild(el('p', 'empty', 'None yet. Your first gate appears a few seconds into a run.'));
-  else { const chips = el('div', 'chips'); strong.forEach(id => { const c = CARDS[id], ch = el('span', 'chip', c.c + ' '); ch.appendChild(el('span', '', '· ' + c.a)); ch.title = c.c + ' = ' + c.a; chips.appendChild(ch); }); sec.appendChild(chips); }
+  else { const chips = el('div', 'chips'); strong.forEach(id => { const c = CARDS[id], ch = el('span', 'chip', (c.img ? cardLabel(c) : c.c) + ' '); if (!c.img) ch.appendChild(el('span', '', '· ' + c.a)); ch.title = c.img ? cardLabel(c) : c.c + ' = ' + c.a; chips.appendChild(ch); }); sec.appendChild(chips); }
   B.appendChild(sec);
   const row = el('div', 'row'), b = el('button', 'cta', 'Play'); b.addEventListener('click', () => { closePanel(); start(); }); row.appendChild(b); B.appendChild(row);
 }
 
-/* ---------- Forge ---------- */
+/* ---------- Forge: your own lists ---------- */
 function renderForge() {
   $('fText').value = SV.prefs.custom || '';
-  const box = $('fPacks'); box.textContent = '';
-  const mk = (k, name, n) => { const l = el('label'), c = el('input'); c.type = 'checkbox'; c.dataset.k = k; c.checked = packOn(k); l.append(c, document.createTextNode(name), el('small', '', String(n))); box.appendChild(l); };
-  for (const [k, p] of Object.entries(PACKS)) mk(k, p.name, p.items.length);
-  mk('custom', 'Yours', DECK_IDS.custom.length);
   $('fSaved').textContent = ''; $('fSaved').classList.remove('err');
 }
 $('fSave').addEventListener('click', () => {
-  const packs = {}; $('fPacks').querySelectorAll('input').forEach(c => packs[c.dataset.k] = c.checked);
-  SV.prefs.custom = $('fText').value.slice(0, 80000); SV.prefs.packs = packs; SV.prefs.u = Date.now();
+  SV.prefs.custom = $('fText').value.slice(0, 80000); SV.prefs.u = Date.now();
   buildCards(); save();
-  const n = DECK_IDS.custom.length, on = Object.keys(PACKS).filter(packOn).length;
-  $('fSaved').textContent = `Saved. ${on} pack${on === 1 ? '' : 's'} on${n ? `, ${n} of your sigils forged and placed first at gates` : ''}.`;
-  renderForge(); $('fSaved').textContent = `Saved. ${on} pack${on === 1 ? '' : 's'} on${n ? `, ${n} of your sigils forged and placed first at gates` : ''}.`;
+  const n = DECK_IDS.custom.length;
+  $('fSaved').textContent = n ? `Saved. ${n} of your sigils forged and placed first at gates.` : 'Saved. Add lines like "dom = house".';
   sfx.learn();
 });
 
@@ -992,7 +1033,8 @@ SYNC.onPrefs = () => { buildCards(); if (mode === 'menu' && !panel) renderMenu()
 $('cue').addEventListener('change', e => setPref('cue', e.target.value));
 $('bCodex').addEventListener('click', () => openPanel('codex'));
 $('bSigils').addEventListener('click', () => openPanel('sigils'));
-$('bForge').addEventListener('click', () => openPanel('forge'));
+$('bForge').addEventListener('click', () => openPanel('library'));
+$('feedBtn').addEventListener('click', () => openPanel('feed'));
 $('bShop').addEventListener('click', () => openPanel('shop'));
 $('bSync').addEventListener('click', () => openPanel('sync'));
 $('rRead').addEventListener('click', () => { openPanel('codex'); const i = nextPage(); if (i >= 0) codexIntro(i); });
@@ -1020,6 +1062,8 @@ window.addEventListener('keydown', e => {
   const tg = e.target && e.target.tagName;
   if (tg === 'TEXTAREA' || tg === 'INPUT' || tg === 'SELECT') { if (e.key === 'Escape' && panel) closePanel(); return; }
   const k = e.key;
+  if (panel === 'feed') return feedKey(e);
+  if (panel === 'learn') return learnKey(e);
   if (panel) { if (k === 'Escape') closePanel(); return; }
   if (mode === 'boon') { const n = +k; if (n >= 1 && n <= 3 && G.boonOpts && G.boonOpts[n - 1]) { e.preventDefault(); takeBoon(G.boonOpts[n - 1]); } return; }
   if (mode === 'revive') { if (k === '1' || k === '2') { e.preventDefault(); answerRevive(+k - 1); } return; }
@@ -1030,6 +1074,7 @@ window.addEventListener('keydown', e => {
   } else if (k === 'Escape' || k === 'p' || k === 'P') {
     if (mode === 'play') pause(); else if (mode === 'paused') resume(); else if (mode === 'results' && k === 'Escape') toMenu();
   } else if (k === 'm' || k === 'M') { toggleMute(); }
+  else if ((k === 'f' || k === 'F') && (mode === 'menu' || mode === 'results')) { e.preventDefault(); openPanel('feed'); }
 });
 document.addEventListener('visibilitychange', () => { if (document.hidden) pause(); });
 window.addEventListener('blur', pause);

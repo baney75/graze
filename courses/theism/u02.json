@@ -1,0 +1,300 @@
+{
+  "title": "The ontological argument",
+  "note": "Ontological arguments reason from the concept of God alone. Anselm defines God as that than which nothing greater can be conceived and argues that such a being must exist in reality, not only in the mind. Critics attack the step from concept to existence; modal versions shift the weight onto one premise: that God's existence is possible.",
+  "src": {
+    "t": "Stanford Encyclopedia of Philosophy: Ontological Arguments",
+    "u": "https://plato.stanford.edu/entries/ontological-arguments/"
+  },
+  "items": [
+    {
+      "c": "Anselm's book with the ontological argument",
+      "a": "the Proslogion",
+      "d": [
+        "the Monologion",
+        "Cur Deus Homo"
+      ]
+    },
+    {
+      "c": "Approximate date of Anselm's Proslogion",
+      "a": "1077 to 1078",
+      "d": [
+        "1265 to 1274",
+        "1637 to 1641"
+      ]
+    },
+    {
+      "c": "Kind of reasoning ontological arguments use",
+      "a": "a priori: from the concept of God alone",
+      "d": [
+        "a posteriori: from observed effects",
+        "inductive: from many observed cases"
+      ]
+    },
+    {
+      "c": "Anselm: if God existed in the mind alone, then",
+      "a": "a greater being could be conceived, which is absurd",
+      "d": [
+        "God would still be the greatest conceivable",
+        "God would exist only as a contingent being"
+      ]
+    },
+    {
+      "c": "Logical form of Proslogion II",
+      "a": "a reductio ad absurdum",
+      "d": [
+        "an inductive generalization",
+        "an inference to the best explanation"
+      ]
+    },
+    {
+      "c": "What Proslogion III adds",
+      "a": "God cannot even be conceived not to exist",
+      "d": [
+        "God is the first cause of all motion",
+        "God is known through the voice of conscience"
+      ]
+    },
+    {
+      "c": "Gaunilo of Marmoutier was",
+      "a": "a Benedictine monk",
+      "d": [
+        "an archbishop of Canterbury",
+        "a Dominican friar"
+      ]
+    },
+    {
+      "c": "Gaunilo's 'Lost Island' is meant to show",
+      "a": "Anselm's reasoning proves too much",
+      "d": [
+        "islands cannot be conceived at all",
+        "God's existence is self-evident to all"
+      ]
+    },
+    {
+      "c": "Anselm's own reply to Gaunilo's island",
+      "a": "the reasoning fits only the greatest conceivable being",
+      "d": [
+        "the island does exist somewhere unknown",
+        "Gaunilo had misquoted the Proslogion"
+      ]
+    },
+    {
+      "c": "Plantinga's reply to the island parody",
+      "a": "an island's great-making qualities have no maximum",
+      "d": [
+        "islands exist only in the imagination",
+        "islands cannot be greater than one another"
+      ]
+    },
+    {
+      "c": "Aquinas: 'God exists' is self-evident",
+      "a": "in itself, but not to us",
+      "d": [
+        "to us, but not in itself",
+        "both in itself and to us"
+      ]
+    },
+    {
+      "c": "Why Aquinas rejects the Anselmian proof",
+      "a": "we do not know God's essence",
+      "d": [
+        "he denies God exists necessarily",
+        "he holds God can be conceived as nonexistent"
+      ]
+    },
+    {
+      "c": "Descartes's premise about existence",
+      "a": "existence is a perfection a perfect being cannot lack",
+      "d": [
+        "existence is a property no being can have",
+        "existence is known only through the senses"
+      ]
+    },
+    {
+      "c": "Descartes likens God's existence to a triangle's",
+      "a": "angles summing to two right angles",
+      "d": [
+        "having exactly three sides of equal length",
+        "being drawn by a geometer's hand"
+      ],
+      "ex": "He also compares it to a mountain that cannot lack a valley."
+    },
+    {
+      "c": "Leibniz's addition to Descartes's argument",
+      "a": "first prove that a perfect being is possible",
+      "d": [
+        "first prove that the world had a beginning",
+        "first prove that existence is not a predicate"
+      ]
+    },
+    {
+      "c": "Kant: 'Being is obviously not a real...'",
+      "a": "predicate",
+      "d": [
+        "perfection",
+        "substance"
+      ]
+    },
+    {
+      "c": "Kant's hundred thalers illustrate",
+      "a": "real coins add nothing to the concept of the coins",
+      "d": [
+        "imagined coins are worth more than real ones",
+        "a perfect sum of money must exist"
+      ]
+    },
+    {
+      "c": "Kant's work attacking the ontological proof",
+      "a": "Critique of Pure Reason",
+      "d": [
+        "Critique of Practical Reason",
+        "Groundwork of the Metaphysics of Morals"
+      ]
+    },
+    {
+      "c": "'Whatever we conceive as existent, we can...'",
+      "a": "conceive as non-existent (Cleanthes, in Hume)",
+      "d": [
+        "prove to exist by reason (Demea, in Hume)",
+        "doubt is truly real (Philo, in Hume)"
+      ],
+      "ex": "Dialogues Concerning Natural Religion, Part IX."
+    },
+    {
+      "c": "Malcolm (1960) found the sound argument in",
+      "a": "Proslogion III, on necessary existence",
+      "d": [
+        "Proslogion II, on existence as a perfection",
+        "Gaunilo's reply on behalf of the fool"
+      ]
+    },
+    {
+      "c": "Process theist who defended a modal version",
+      "a": "Charles Hartshorne",
+      "d": [
+        "Norman Malcolm",
+        "Kurt Gödel"
+      ]
+    },
+    {
+      "c": "Plantinga's 1974 book with his modal argument",
+      "a": "The Nature of Necessity",
+      "d": [
+        "Warranted Christian Belief",
+        "Warrant and Proper Function"
+      ]
+    },
+    {
+      "c": "Maximal excellence, for Plantinga",
+      "a": "omnipotence, omniscience and moral perfection",
+      "d": [
+        "existing in every possible world",
+        "being the cause of every other being"
+      ]
+    },
+    {
+      "c": "Maximal greatness, for Plantinga",
+      "a": "maximal excellence in every possible world",
+      "d": [
+        "maximal excellence in the actual world",
+        "power greater than any actual being"
+      ]
+    },
+    {
+      "c": "Key premise of Plantinga's modal argument",
+      "a": "possibly, a maximally great being exists",
+      "d": [
+        "necessarily, the universe has a cause",
+        "actually, a maximally great being is conceived"
+      ]
+    },
+    {
+      "c": "S5 lets one infer from 'possibly necessary'",
+      "a": "'necessary'",
+      "d": [
+        "'actual but contingent'",
+        "'possibly not'"
+      ]
+    },
+    {
+      "c": "Possible world, in modal logic",
+      "a": "a complete way reality could have been",
+      "d": [
+        "a planet that might support life",
+        "a world that exists in the mind only"
+      ]
+    },
+    {
+      "c": "Reverse ontological argument concludes",
+      "a": "a maximally great being is impossible",
+      "d": [
+        "a maximally great being is actual",
+        "a maximally great being is contingent"
+      ]
+    },
+    {
+      "c": "What Plantinga claims his argument shows",
+      "a": "theism is rationally acceptable, not proven",
+      "d": [
+        "theism is proven to every rational mind",
+        "theism is false unless proven a priori"
+      ]
+    },
+    {
+      "c": "Logician whose proof uses 'positive properties'",
+      "a": "Kurt Gödel",
+      "d": [
+        "Bertrand Russell",
+        "Gottlob Frege"
+      ]
+    },
+    {
+      "c": "Who said the fallacy is easier felt than found?",
+      "a": "Bertrand Russell, on the ontological argument",
+      "d": [
+        "Immanuel Kant, on the cosmological argument",
+        "David Hume, on the design argument"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Anselm's argument and the island",
+    "text": [
+      "In Proslogion II, Anselm answers the fool of the Psalms, who says in his heart that there is no God. Even the fool understands the phrase 'a being than which nothing greater can be conceived.' Anselm's argument can be set out as a reductio:",
+      "(1) God is that than which nothing greater can be conceived. (2) God exists at least in the understanding. (3) Existing in reality as well as in the understanding is greater than existing in the understanding alone. (4) Suppose God existed in the understanding alone. (5) Then a greater being could be conceived: one that also exists in reality. (6) But nothing greater than God can be conceived. (7) Therefore God exists in reality.",
+      "The monk Gaunilo replied with a parody. Imagine an island more excellent than all other lands. By the same steps, it must exist, since an island that exists is more excellent than one that does not. Since that conclusion is absurd, something in the method must be wrong.",
+      "Anselm answered that his reasoning applies only to the being than which nothing greater can be conceived, not to the greatest member of a limited kind. Plantinga later sharpened the reply: the qualities that make an island great, such as beaches, have no intrinsic maximum, so 'the greatest possible island' is incoherent. Power, knowledge, and goodness, by contrast, do have maximal degrees.",
+      "Kant's objection goes deeper. Existence, he argued, is not a real predicate: it adds nothing to a concept, so no concept, however rich, can contain a guarantee of its own instance."
+    ],
+    "q": [
+      {
+        "q": "Which step does the reductio suppose in order to refute it?",
+        "o": [
+          "That God exists in the understanding alone",
+          "That God exists in reality",
+          "That the fool understands nothing"
+        ],
+        "k": 0
+      },
+      {
+        "q": "How does Plantinga answer the island parody?",
+        "o": [
+          "Islands are too small to matter",
+          "Island greatness has no intrinsic maximum",
+          "Gaunilo's island really exists",
+          "Islands exist only in the mind"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What is Kant's objection?",
+        "o": [
+          "God is not conceivable",
+          "The fool does not understand the phrase",
+          "Existence is not a real predicate that a concept can contain"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

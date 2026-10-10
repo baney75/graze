@@ -1,0 +1,322 @@
+{
+  "title": "Data structures and their costs",
+  "note": "A data structure is a trade-off: it makes some operations cheap by making others expensive. Arrays give O(1) indexing, linked lists give O(1) insertion at a known node, hash tables give O(1) average lookup, balanced trees keep order with O(log n) operations, and heaps give fast access to the minimum or maximum.",
+  "src": {
+    "t": "Open Data Structures (Morin), Engineering LibreTexts",
+    "u": "https://eng.libretexts.org/Bookshelves/Computer_Science/Databases_and_Data_Structures/Open_Data_Structures_-_An_Introduction_(Morin)"
+  },
+  "items": [
+    {
+      "c": "Order in which a stack removes items",
+      "a": "LIFO: last in, first out",
+      "d": [
+        "FIFO: first in, first out",
+        "smallest key first"
+      ]
+    },
+    {
+      "c": "Order in which a queue removes items",
+      "a": "FIFO: first in, first out",
+      "d": [
+        "LIFO: last in, first out",
+        "largest key first"
+      ]
+    },
+    {
+      "c": "Stack push or pop cost",
+      "a": "constant time",
+      "d": [
+        "linear time",
+        "logarithmic time"
+      ]
+    },
+    {
+      "c": "Structure behind an undo history",
+      "a": "stack",
+      "d": [
+        "queue",
+        "hash table"
+      ]
+    },
+    {
+      "c": "Structure that serves jobs in arrival order",
+      "a": "queue",
+      "d": [
+        "stack",
+        "binary search tree"
+      ]
+    },
+    {
+      "c": "Deque",
+      "a": "a double-ended queue: add or remove at both ends",
+      "d": [
+        "a queue ordered by priority",
+        "a stack with a size limit"
+      ]
+    },
+    {
+      "c": "Linked list: reach the k-th element",
+      "a": "O(n): follow pointers from the head",
+      "d": [
+        "O(1): jump straight to it",
+        "O(log n): binary search the nodes"
+      ]
+    },
+    {
+      "c": "Linked list: insert at the head",
+      "a": "O(1)",
+      "d": [
+        "O(n)",
+        "O(log n)"
+      ]
+    },
+    {
+      "c": "Array: insert at the front",
+      "a": "O(n): every element shifts",
+      "d": [
+        "O(1): just write slot 0",
+        "O(log n): only half the elements move"
+      ]
+    },
+    {
+      "c": "Main advantage of arrays over linked lists",
+      "a": "O(1) random access and good cache locality",
+      "d": [
+        "O(1) insertion at the front",
+        "no need for contiguous memory"
+      ]
+    },
+    {
+      "c": "Hash table lookup, average case",
+      "a": "O(1) on average",
+      "d": [
+        "O(log n) on average",
+        "O(n) on average"
+      ]
+    },
+    {
+      "c": "Hash table lookup, worst case",
+      "a": "O(n), when every key collides",
+      "d": [
+        "O(1), even when every key collides",
+        "O(n²), when every key collides"
+      ],
+      "ex": "Chaining with one overloaded bucket turns lookup into a list scan."
+    },
+    {
+      "c": "A hash collision",
+      "a": "two different keys map to the same bucket",
+      "d": [
+        "one key is inserted twice",
+        "a bucket is left empty"
+      ]
+    },
+    {
+      "c": "Separate chaining",
+      "a": "each bucket holds a list of its entries",
+      "d": [
+        "probing the array for the next free slot",
+        "rehashing with a second hash function only"
+      ]
+    },
+    {
+      "c": "Open addressing",
+      "a": "probing other slots in the same array",
+      "d": [
+        "keeping a linked list in each bucket",
+        "storing keys in a balanced tree"
+      ]
+    },
+    {
+      "c": "Load factor of a hash table",
+      "a": "number of entries ÷ number of buckets",
+      "d": [
+        "number of buckets ÷ number of entries",
+        "number of collisions per lookup"
+      ]
+    },
+    {
+      "c": "Binary search tree ordering rule",
+      "a": "left subtree smaller, right subtree larger",
+      "d": [
+        "each parent smaller than both children",
+        "all leaves at the same depth"
+      ]
+    },
+    {
+      "c": "Search in a balanced binary search tree",
+      "a": "O(log n)",
+      "d": [
+        "O(1)",
+        "O(n)"
+      ]
+    },
+    {
+      "c": "Search in an unbalanced BST, worst case",
+      "a": "O(n): the tree degenerates into a chain",
+      "d": [
+        "O(log n): the height stays logarithmic",
+        "O(1): the root always holds the key"
+      ],
+      "ex": "Inserting keys in sorted order produces that chain."
+    },
+    {
+      "c": "In-order traversal of a BST visits keys",
+      "a": "in sorted order",
+      "d": [
+        "level by level",
+        "in insertion order"
+      ]
+    },
+    {
+      "c": "Two self-balancing binary search trees",
+      "a": "AVL trees and red-black trees",
+      "d": [
+        "binary heaps and tries",
+        "skip lists and hash tables"
+      ]
+    },
+    {
+      "c": "Min-heap property",
+      "a": "every parent ≤ its children",
+      "d": [
+        "left child < parent < right child",
+        "every parent ≥ its children"
+      ]
+    },
+    {
+      "c": "Binary heap: insert or extract-min",
+      "a": "O(log n): one root-to-leaf path",
+      "d": [
+        "O(1): only the root changes",
+        "O(n): every node moves"
+      ]
+    },
+    {
+      "c": "Binary heap: peek at the minimum",
+      "a": "O(1): the minimum sits at the root",
+      "d": [
+        "O(log n): walk down to a leaf",
+        "O(n): scan every node"
+      ]
+    },
+    {
+      "c": "Build a binary heap from n items, bottom-up",
+      "a": "O(n)",
+      "d": [
+        "O(n log n)",
+        "O(n²)"
+      ]
+    },
+    {
+      "c": "Children of index i in a 0-based array heap",
+      "a": "2i + 1 and 2i + 2",
+      "d": [
+        "2i and 2i + 1",
+        "i + 1 and i + 2"
+      ]
+    },
+    {
+      "c": "Usual structure behind a priority queue",
+      "a": "binary heap",
+      "d": [
+        "stack",
+        "singly linked list"
+      ]
+    },
+    {
+      "c": "Space for a graph's adjacency list",
+      "a": "O(V + E)",
+      "d": [
+        "O(V²)",
+        "O(E²)"
+      ]
+    },
+    {
+      "c": "Space for a graph's adjacency matrix",
+      "a": "O(V²)",
+      "d": [
+        "O(V + E)",
+        "O(E)"
+      ]
+    },
+    {
+      "c": "Check for edge (u, v) in an adjacency matrix",
+      "a": "O(1): read cell [u][v]",
+      "d": [
+        "O(V): scan all of row u",
+        "O(E): scan every edge"
+      ]
+    },
+    {
+      "c": "DAG stands for",
+      "a": "directed acyclic graph",
+      "d": [
+        "dense adjacency graph",
+        "doubly acyclic graph"
+      ]
+    },
+    {
+      "c": "Trie",
+      "a": "a tree keyed by characters, for prefix lookup",
+      "d": [
+        "a tree that keeps the minimum at the root",
+        "a tree whose nodes each have three children"
+      ]
+    },
+    {
+      "c": "Trie lookup for a key of length m",
+      "a": "O(m)",
+      "d": [
+        "O(log n)",
+        "O(n · m)"
+      ]
+    },
+    {
+      "c": "Number of edges in a tree with n nodes",
+      "a": "n − 1",
+      "d": [
+        "n",
+        "n + 1",
+        "2n"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Pick the structure for the question you ask most",
+    "text": [
+      "Every data structure answers some questions quickly and others slowly, so the right choice depends on which operations your program performs most. An array stores items side by side in memory. That makes reading element i instant and plays well with CPU caches, but inserting at the front forces every element to shift. A linked list flips the trade: splicing in a node next to one you already hold is O(1), while finding the k-th node means walking from the head.",
+      "A hash table turns a key into an array index with a hash function. On average, lookups, inserts, and deletes are O(1). Two keys can land in the same bucket, a collision, which is handled by chaining or by probing for another slot. If many keys collide, operations degrade toward O(n), so tables resize when the load factor gets too high.",
+      "When you need order, use a tree. A balanced binary search tree such as a red-black tree supports search, insert, delete, and sorted traversal in O(log n). A binary heap is weaker but cheaper: it only promises that each parent beats its children, which is enough to read the minimum in O(1) and remove it in O(log n). That is exactly what a priority queue needs."
+    ],
+    "q": [
+      {
+        "q": "Why is inserting at the front of an array slow?",
+        "o": [
+          "The hash function must be recomputed",
+          "Every element has to shift over",
+          "The array must be sorted first"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What makes hash table operations degrade toward O(n)?",
+        "o": [
+          "Many keys colliding in the same buckets",
+          "Using too many buckets",
+          "Storing keys in sorted order"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why is a heap enough for a priority queue?",
+        "o": [
+          "It keeps all keys fully sorted",
+          "It stores items side by side for cache speed",
+          "Its parent-beats-children rule exposes the minimum cheaply"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

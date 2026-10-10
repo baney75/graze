@@ -1,0 +1,329 @@
+{
+  "title": "Evaluating sources",
+  "note": "Professional fact-checkers read laterally: before trusting a page, they leave it and see what others say about the source. Mike Caulfield's SIFT packs this into four moves: Stop, Investigate the source, Find better coverage, and Trace claims to their original context.",
+  "src": {
+    "t": "SIFT (The Four Moves), Mike Caulfield",
+    "u": "https://hapgood.us/2019/06/19/sift-the-four-moves/"
+  },
+  "items": [
+    {
+      "c": "SIFT",
+      "a": "Stop, Investigate the source, Find better coverage, Trace",
+      "d": [
+        "Search, Index, Filter, Test",
+        "Skim, Identify, Footnote, Type",
+        "Source, Intent, Facts, Timeliness"
+      ]
+    },
+    {
+      "c": "Creator of the SIFT method",
+      "a": "Mike Caulfield",
+      "d": [
+        "Sam Wineburg",
+        "Sarah Blakeslee",
+        "Carl Sagan"
+      ]
+    },
+    {
+      "c": "SIFT's Stop move asks you to",
+      "a": "Pause and ask whether you know this source",
+      "d": [
+        "Stop reading and share the page",
+        "Stop searching after one result",
+        "Stop citing sources you disagree with"
+      ]
+    },
+    {
+      "c": "Goal of SIFT's Investigate the source move",
+      "a": "Know who made it and why before you read it",
+      "d": [
+        "Read every page on the site first",
+        "Count the number of citations",
+        "Check the page's spelling and grammar"
+      ]
+    },
+    {
+      "c": "SIFT's Find better coverage move",
+      "a": "Look for what trusted sources report on the claim",
+      "d": [
+        "Find a page that agrees with you",
+        "Find the longest article available",
+        "Find the newest post on the topic"
+      ]
+    },
+    {
+      "c": "SIFT's Trace move helps you catch",
+      "a": "Quotes or images stripped of their original context",
+      "d": [
+        "Spelling errors in a headline",
+        "Slow-loading web pages",
+        "Articles behind a paywall"
+      ]
+    },
+    {
+      "c": "Lateral reading",
+      "a": "Leaving a site to see what others say about it",
+      "d": [
+        "Reading a site's About page closely",
+        "Reading every page of a site in order",
+        "Skimming headings before reading"
+      ]
+    },
+    {
+      "c": "Vertical reading",
+      "a": "Judging a source only from the source itself",
+      "d": [
+        "Checking what others say about it",
+        "Tracing a claim to its origin",
+        "Searching a database by subject"
+      ]
+    },
+    {
+      "c": "Lateral readers in Wineburg's Stanford study",
+      "a": "Professional fact-checkers",
+      "d": [
+        "History professors",
+        "Undergraduate students",
+        "Web designers"
+      ]
+    },
+    {
+      "c": "Why not trust a site's About page alone?",
+      "a": "Sites can describe themselves in flattering terms",
+      "d": [
+        "About pages are always out of date",
+        "About pages are written by search engines",
+        "Law forbids sites from describing themselves"
+      ]
+    },
+    {
+      "c": "CRAAP test",
+      "a": "Currency, Relevance, Authority, Accuracy, Purpose",
+      "d": [
+        "Clarity, Reach, Audience, Age, Popularity",
+        "Citations, Rank, Author, Access, Proof",
+        "Content, Reviews, Ads, Appeal, Price"
+      ]
+    },
+    {
+      "c": "Currency, in the CRAAP test",
+      "a": "How recent the information is",
+      "d": [
+        "How much the source costs",
+        "How popular the source is",
+        "How the source is formatted"
+      ]
+    },
+    {
+      "c": "Purpose, in the CRAAP test",
+      "a": "Why it exists: to inform, sell, persuade, or entertain",
+      "d": [
+        "How recently it was updated",
+        "Whether it fits your topic",
+        "Who the author's employer is"
+      ]
+    },
+    {
+      "c": "Authority, in the CRAAP test",
+      "a": "Who created it and what qualifies them",
+      "d": [
+        "How many people have shared it",
+        "How long the source is",
+        "Whether it has a publication date"
+      ]
+    },
+    {
+      "c": "Caulfield's critique of checklists like CRAAP",
+      "a": "They keep you on the page instead of checking elsewhere",
+      "d": [
+        "They take too little time to apply",
+        "They ignore whether a source is recent",
+        "They work only for printed books"
+      ]
+    },
+    {
+      "c": "Conflict of interest",
+      "a": "A competing interest that could bias judgment",
+      "d": [
+        "A disagreement between two reviewers",
+        "Two studies with opposite results",
+        "A dispute over author order"
+      ]
+    },
+    {
+      "c": "Where journals report conflicts of interest",
+      "a": "In a disclosure or competing interests statement",
+      "d": [
+        "In the reference list",
+        "In the figure legends",
+        "In the journal's title"
+      ]
+    },
+    {
+      "c": "A disclosed conflict of interest makes a study",
+      "a": "Not automatically wrong, but worth closer scrutiny",
+      "d": [
+        "Certainly fraudulent",
+        "Guaranteed to be accurate",
+        "Automatically retracted"
+      ]
+    },
+    {
+      "c": "Why funding source matters",
+      "a": "Sponsors may stand to gain from certain results",
+      "d": [
+        "Funded studies cannot be peer reviewed",
+        "Only unfunded studies are published",
+        "Funding changes the citation style"
+      ]
+    },
+    {
+      "c": "Retraction",
+      "a": "Formal withdrawal of a published article",
+      "d": [
+        "A brief correction of a typo",
+        "A reply from the authors to critics",
+        "A second edition of an article"
+      ]
+    },
+    {
+      "c": "Common reasons for retraction",
+      "a": "Serious error, fabrication, or plagiarism",
+      "d": [
+        "Low citation counts",
+        "Disagreement with a reviewer's taste",
+        "Being published as open access"
+      ]
+    },
+    {
+      "c": "Retraction Watch",
+      "a": "A site that tracks and reports retractions",
+      "d": [
+        "A journal that publishes only replications",
+        "A tool that detects plagiarism",
+        "NLM's list of approved journals"
+      ]
+    },
+    {
+      "c": "Expression of concern",
+      "a": "A journal notice that a paper's reliability is in doubt",
+      "d": [
+        "A reviewer's private comment to the editor",
+        "A reader's letter praising the paper",
+        "An author's request for a correction"
+      ]
+    },
+    {
+      "c": "Correction (erratum)",
+      "a": "A published fix for an error in an article",
+      "d": [
+        "A full withdrawal of an article",
+        "A new study that replicates it",
+        "A summary written for the public"
+      ]
+    },
+    {
+      "c": "Reverse image search",
+      "a": "Finding where else an image has appeared online",
+      "d": [
+        "Flipping an image to check for edits",
+        "Searching for images by color",
+        "Converting an image into text"
+      ]
+    },
+    {
+      "c": "Sponsored content (native advertising)",
+      "a": "Paid advertising made to look like editorial content",
+      "d": [
+        "Reporting paid for by readers' subscriptions",
+        "A correction a publisher is required to print",
+        "A news story with no named author"
+      ]
+    },
+    {
+      "c": "Astroturfing",
+      "a": "Fake grassroots support created by a hidden sponsor",
+      "d": [
+        "Real community organizing by volunteers",
+        "Planting trees to offset emissions",
+        "Citing sources that are too old"
+      ]
+    },
+    {
+      "c": "Wayback Machine",
+      "a": "Internet Archive tool showing past versions of pages",
+      "d": [
+        "A database of retracted papers",
+        "A tool that dates photos by their pixels",
+        "A search engine for old books"
+      ]
+    },
+    {
+      "c": "WHOIS lookup",
+      "a": "Shows registration details for a domain name",
+      "d": [
+        "Shows who wrote an anonymous article",
+        "Shows how many people visit a site",
+        "Shows a site's impact factor"
+      ]
+    },
+    {
+      "c": "A strong emotional reaction to a claim online",
+      "a": "A cue to stop and check before sharing",
+      "d": [
+        "Proof that the claim is true",
+        "A reason to share it quickly",
+        "A sign the source is scholarly"
+      ]
+    },
+    {
+      "c": "One surprising study versus expert consensus",
+      "a": "Weigh it as one data point in the larger evidence",
+      "d": [
+        "Treat it as overturning the consensus",
+        "Ignore it because it is new",
+        "Trust it because it is surprising"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Reading sideways",
+    "text": [
+      "When people judge an unfamiliar website, most do what they were taught: they study the page itself. They read the About section, look at the design, and check whether it cites sources. Sam Wineburg's research group at Stanford found that this kind of vertical reading often fails, because a polished site with an official-sounding name can be run by a lobbying group or a single motivated person.",
+      "Professional fact-checkers did something different. Within seconds they opened new tabs and searched for the organization, its funders, and what reliable outlets said about it. This is lateral reading: you learn about a source by leaving it.",
+      "Mike Caulfield built the habit into four moves called SIFT. Stop and notice whether you know the source. Investigate the source, briefly, before reading closely. Find better coverage when what matters is the claim rather than this article. Trace claims, quotes and images back to their original context, since material is often clipped or recaptioned as it spreads.",
+      "For scholarly sources the same instinct applies. Check the authors' expertise, read the funding and conflict-of-interest statements, and search the title to see whether the paper has been corrected or retracted."
+    ],
+    "q": [
+      {
+        "q": "Why does vertical reading often fail?",
+        "o": [
+          "Polished sites can hide who is behind them",
+          "It takes too long to load pages",
+          "Most sites have no About page",
+          "Search engines block it"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What did the professional fact-checkers do?",
+        "o": [
+          "Read the About page twice",
+          "Judged the site by its design",
+          "Opened new tabs to see what others said about the source"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Which SIFT move addresses quotes and images that were clipped or recaptioned?",
+        "o": [
+          "Stop",
+          "Find better coverage",
+          "Trace",
+          "Investigate the source"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

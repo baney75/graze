@@ -1,0 +1,50 @@
+{
+  "title": "Anselm, Aquinas, and scholasticism",
+  "note": "Scholastics used logic and disputation to understand faith. Anselm argued that God, that than which nothing greater can be thought, must exist in reality. Aquinas held that reason can prove God exists, giving the Five Ways, and that natural law is the rational creature's share in God's eternal law.",
+  "src": { "t": "Stanford Encyclopedia of Philosophy, Thomas Aquinas", "u": "https://plato.stanford.edu/entries/aquinas/" },
+  "items": [
+    { "c": "Anselm's motto, fides quaerens intellectum", "a": "faith seeking understanding", "d": ["reason ruling faith", "belief without understanding"] },
+    { "c": "Church office Anselm held", "a": "Archbishop of Canterbury", "d": ["Bishop of Hippo", "Pope", "Abbot of Cluny"] },
+    { "c": "Anselm's name for God in the Proslogion", "a": "that than which nothing greater can be thought", "d": ["the first unmoved mover", "the cause of all contingent things"] },
+    { "c": "Key premise of Proslogion chapter 2", "a": "existing in reality is greater than in the mind alone", "d": ["every event has a cause", "nature shows signs of design"] },
+    { "c": "The 'fool' Anselm answers (Psalm 14)", "a": "one who says in his heart there is no God", "d": ["one who worships many gods", "one who refuses to reason"] },
+    { "c": "Gaunilo's objection to Anselm", "a": "the same logic would prove a perfect island", "d": ["God cannot be thought of at all", "existence is merely a habit of mind"] },
+    { "c": "Title of Gaunilo's reply", "a": "On Behalf of the Fool", "d": ["Against the Philosophers", "Monologion"] },
+    { "c": "Question in Anselm's Cur Deus Homo", "a": "why God became man", "d": ["whether God exists", "how the soul knows"] },
+    { "c": "Scholasticism", "a": "medieval method of reasoned disputation on faith", "d": ["a Renaissance return to Greek poetry", "the rejection of all philosophy"] },
+    { "c": "Religious order Aquinas joined", "a": "the Dominicans", "d": ["the Franciscans", "the Benedictines", "the Jesuits"] },
+    { "c": "Aquinas's teacher", "a": "Albert the Great", "d": ["Anselm", "Peter Abelard", "Bonaventure"] },
+    { "c": "'The Philosopher' in Aquinas's writings", "a": "Aristotle", "d": ["Plato", "Augustine", "Boethius"] },
+    { "c": "'The Commentator' in Aquinas's writings", "a": "Averroes", "d": ["Avicenna", "Maimonides", "Boethius"] },
+    { "c": "Aquinas's two great Summae", "a": "Summa theologiae and Summa contra Gentiles", "d": ["Monologion and Proslogion", "Confessions and City of God"] },
+    { "c": "Natural theology", "a": "knowledge of God reached by reason alone", "d": ["knowledge of God from revelation only", "worship of nature as divine"] },
+    { "c": "Doctrine Aquinas held reason alone cannot prove", "a": "that God is a Trinity", "d": ["that God exists", "that God is one"] },
+    { "c": "Aquinas's First Way", "a": "from motion to a first unmoved mover", "d": ["from degrees of goodness to a maximum", "from contingent things to a necessary being"] },
+    { "c": "Aquinas's Second Way", "a": "from ordered efficient causes to a first cause", "d": ["from motion to a first unmoved mover", "from goal-directed nature to a director"] },
+    { "c": "Aquinas's Third Way", "a": "from things that can not-be to a necessary being", "d": ["from ordered causes to a first cause", "from degrees of goodness to a maximum"] },
+    { "c": "Aquinas's Fourth Way", "a": "from degrees of perfection to a greatest being", "d": ["from motion to a first unmoved mover", "from contingent things to a necessary being"] },
+    { "c": "Aquinas's Fifth Way", "a": "from things without minds acting for ends to a director", "d": ["from ordered causes to a first cause", "from the idea of God to his existence"] },
+    { "c": "Why the Ways rule out an infinite causal regress", "a": "with no first cause, middle causes would not act", "d": ["infinite numbers are contradictory", "scripture forbids an infinite past"] },
+    { "c": "Aquinas on essence and existence in God", "a": "they are identical: God is subsistent being", "d": ["they are really distinct, as in creatures", "God has essence but no existence"] },
+    { "c": "Analogical language about God", "a": "words apply to God and creatures in related senses", "d": ["words mean exactly the same of both", "words have unrelated meanings for each"] },
+    { "c": "Aquinas's four kinds of law", "a": "eternal, natural, human, divine", "d": ["civil, canon, moral, natural", "written, unwritten, divine, human"] },
+    { "c": "Natural law, in Aquinas's definition", "a": "the rational creature's share in eternal law", "d": ["the laws of physics", "whatever a ruler commands"] },
+    { "c": "First precept of natural law", "a": "good is to be done and pursued, evil avoided", "d": ["obey the ruler in all things", "maximize the happiness of all"] },
+    { "c": "Aquinas on a human law contrary to natural law", "a": "a corruption of law rather than true law", "d": ["binding as long as it is enacted", "binding on all except clergy"] },
+    { "c": "Avicenna's key metaphysical distinction", "a": "necessary versus contingent existence", "d": ["matter versus void", "faith versus reason"] },
+    { "c": "Maimonides's chief philosophical work", "a": "The Guide for the Perplexed", "d": ["Summa contra Gentiles", "The Incoherence of the Philosophers"] },
+    { "c": "Ockham's nominalism", "a": "universals are names or concepts, not real things", "d": ["universals exist apart from things", "only universals are real"] }
+  ],
+  "read": {
+    "title": "Proving God by reason",
+    "text": [
+      "Anselm of Canterbury began from faith but wanted to understand what he believed. In the Proslogion he defined God as that than which nothing greater can be thought. Even the fool who denies God understands this phrase, so such a being exists at least in the mind. But a being that existed in reality as well would be greater. So if the greatest conceivable being existed only in the mind, a greater one could be thought, which is a contradiction. Therefore it exists in reality. The monk Gaunilo replied that the same reasoning would prove a perfect island; Anselm answered that his argument applies only to the greatest conceivable being.",
+      "Thomas Aquinas preferred to argue from the world. His Five Ways begin from things we observe: motion, causation, things that can come to be and pass away, degrees of goodness, and natural things acting for ends. Each reasons from such facts to a first source that depends on nothing else, which everyone calls God; the first three argue that an endless chain of dependent causes could explain nothing. Aquinas held that reason can know God exists, while doctrines such as the Trinity are known by revelation. Faith and reason, he insisted, cannot truly conflict, since both come from the same God."
+    ],
+    "q": [
+      { "q": "Where does Anselm's argument start?", "o": ["From motion in the world", "From the concept of the greatest conceivable being", "From the order of nature"], "k": 1 },
+      { "q": "How do the Five Ways differ from Anselm's argument?", "o": ["They begin from observed features of the world", "They rely on scripture alone", "They deny that God can be proved"], "k": 0 },
+      { "q": "Why did Aquinas think faith and reason cannot truly conflict?", "o": ["Reason always gives way to faith", "Both come from the same God", "Faith concerns only feelings"], "k": 1 }
+    ]
+  }
+}

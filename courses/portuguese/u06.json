@@ -1,0 +1,81 @@
+{
+  "title": "Days, months and time",
+  "note": "Weekdays are counted from Sunday: segunda-feira (Monday) is the \"second day,\" and -feira is often dropped: na segunda. Days and months are written in lowercase. For clock time use São... for hours above one (São duas horas) and É... for one o'clock, noon and midnight.",
+  "src": {"t": "Língua da Gente, Elementary 07: No Class Tomorrow", "u": "https://linguadagente.coerll.utexas.edu/elementary-no-class-tomorrow/"},
+  "items": [
+    {"c": "segunda-feira", "a": "Monday", "d": ["Tuesday", "Sunday"], "ex": "Tenho aula na segunda-feira.", "exT": "I have class on Monday."},
+    {"c": "terça-feira", "a": "Tuesday", "d": ["Thursday", "Wednesday"]},
+    {"c": "quarta-feira", "a": "Wednesday", "d": ["Thursday", "Tuesday"]},
+    {"c": "quinta-feira", "a": "Thursday", "d": ["Friday", "Tuesday"]},
+    {"c": "sexta-feira", "a": "Friday", "d": ["Saturday", "Thursday"]},
+    {"c": "sábado", "a": "Saturday", "d": ["Sunday", "Friday"], "ex": "No sábado eu vou à praia.", "exT": "On Saturday I'm going to the beach."},
+    {"c": "domingo", "a": "Sunday", "d": ["Saturday", "Monday"], "ex": "Domingo é dia de almoço em família.", "exT": "Sunday is the day for family lunch."},
+    {"c": "o fim de semana", "a": "the weekend", "d": ["the weekday", "the end of the month"], "ex": "Bom fim de semana!", "exT": "Have a good weekend!"},
+    {"c": "hoje", "a": "today", "d": ["tomorrow", "yesterday"], "ex": "Hoje é sexta-feira!", "exT": "Today is Friday!"},
+    {"c": "amanhã", "a": "tomorrow", "d": ["today", "yesterday"], "ex": "Até amanhã!", "exT": "See you tomorrow!"},
+    {"c": "ontem", "a": "yesterday", "d": ["tomorrow", "today"]},
+    {"c": "a semana", "a": "the week", "d": ["the month", "the day"]},
+    {"c": "o mês", "a": "the month", "d": ["the week", "the year"], "ex": "Este mês tem trinta dias.", "exT": "This month has thirty days."},
+    {"c": "o ano", "a": "the year", "d": ["the month", "the hour"]},
+    {"c": "janeiro", "a": "January", "d": ["June", "February"]},
+    {"c": "março", "a": "March", "d": ["May", "April"]},
+    {"c": "maio", "a": "May", "d": ["March", "June"]},
+    {"c": "julho", "a": "July", "d": ["June", "August"]},
+    {"c": "setembro", "a": "September", "d": ["October", "November"]},
+    {"c": "dezembro", "a": "December", "d": ["November", "October"]},
+    {"c": "Que horas são?", "a": "What time is it?", "d": ["How many hours?", "What day is it?"], "ex": "Que horas são? São dez horas.", "exT": "What time is it? It's ten o'clock."},
+    {"c": "São duas horas.", "a": "It's two o'clock.", "d": ["It's twelve o'clock.", "It's been two hours."]},
+    {"c": "São três e meia.", "a": "It's three thirty.", "d": ["It's three fifteen.", "It's half past two."]},
+    {"c": "meio-dia", "a": "noon", "d": ["midnight", "afternoon"], "ex": "Almoço ao meio-dia.", "exT": "I have lunch at noon."},
+    {"c": "meia-noite", "a": "midnight", "d": ["noon", "night"]},
+    {"c": "de manhã", "a": "in the morning", "d": ["in the afternoon", "at night"], "ex": "Eu estudo de manhã.", "exT": "I study in the morning."},
+    {"c": "à tarde", "a": "in the afternoon", "d": ["in the morning", "late"]},
+    {"c": "à noite", "a": "at night", "d": ["in the afternoon", "in the morning"], "ex": "Eu leio à noite.", "exT": "I read at night."},
+    {"c": "Que dia é hoje?", "a": "What day is it today?", "d": ["What time is it today?", "Is it a holiday today?"]},
+    {"c": "das oito às nove", "a": "from eight to nine", "d": ["at eight or nine", "after eight and nine"]},
+    {"c": "___ três horas. (it's)", "a": "São", "d": ["É", "Está"]},
+    {"c": "___ meio-dia. (it's)", "a": "É", "d": ["São", "Estão"]},
+    {"c": "A festa é ___ sábado. (on)", "a": "no", "d": ["na", "em o"]},
+    {"c": "A aula é ___ segunda. (on)", "a": "na", "d": ["no", "em a"], "ex": "A gente continua na quarta.", "exT": "We'll continue on Wednesday."}
+  ],
+  "read": {
+    "title": "A semana do Marcos",
+    "text": [
+      "O Marcos é estudante em Belo Horizonte. De segunda a sexta, ele tem aula de manhã, das oito ao meio-dia.",
+      "Na segunda e na quarta, ele trabalha à tarde num café. Na terça e na quinta, ele estuda na biblioteca.",
+      "Na sexta à noite, ele janta com os amigos. No sábado, ele dorme até tarde e almoça com a família. O domingo é o dia favorito dele: ele vai ao parque e não estuda.",
+      "Hoje é quarta-feira. São duas e meia da tarde, e o Marcos está no café."
+    ],
+    "q": [
+      {
+        "q": "When does Marcos have class?",
+        "o": [
+          "Weekday mornings",
+          "Weekday evenings",
+          "Saturday afternoon"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does he do on Tuesdays and Thursdays in the afternoon?",
+        "o": [
+          "Works in a café",
+          "Studies at the library",
+          "Has lunch with family",
+          "Goes to the park"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What time is it now in the text?",
+        "o": [
+          "2:00 p.m.",
+          "3:30 p.m.",
+          "2:30 p.m.",
+          "12:30 p.m."
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

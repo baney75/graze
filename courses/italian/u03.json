@@ -1,0 +1,343 @@
+{
+  "title": "Numbers and age",
+  "note": "Learn 0 to 20 by heart. From 21 the tens join the units, and the tens drop their final vowel before uno and otto: ventuno, ventotto. Age uses avere (to have): Ho vent'anni, \"I'm twenty.\"",
+  "src": {
+    "t": "Voci, Unità 1: Grammatica (i numeri)",
+    "u": "https://human.libretexts.org/Bookshelves/Languages/Italian/Voci%3A_Corso_elementare_di_lingua_e_culture_italiane_I_(Bozzato_Benetollo_and_Mugnai)/01%3A_Unita_1/1.03%3A_Unita_1_-_Grammatica"
+  },
+  "items": [
+    {
+      "c": "zero",
+      "a": "0",
+      "d": [
+        "10",
+        "100"
+      ]
+    },
+    {
+      "c": "uno",
+      "a": "1",
+      "d": [
+        "11",
+        "7"
+      ]
+    },
+    {
+      "c": "due",
+      "a": "2",
+      "d": [
+        "12",
+        "10"
+      ]
+    },
+    {
+      "c": "tre",
+      "a": "3",
+      "d": [
+        "13",
+        "30"
+      ]
+    },
+    {
+      "c": "quattro",
+      "a": "4",
+      "d": [
+        "14",
+        "40"
+      ]
+    },
+    {
+      "c": "cinque",
+      "a": "5",
+      "d": [
+        "15",
+        "50"
+      ]
+    },
+    {
+      "c": "sei",
+      "a": "6",
+      "d": [
+        "16",
+        "60"
+      ]
+    },
+    {
+      "c": "sette",
+      "a": "7",
+      "d": [
+        "17",
+        "70"
+      ]
+    },
+    {
+      "c": "otto",
+      "a": "8",
+      "d": [
+        "18",
+        "80"
+      ]
+    },
+    {
+      "c": "nove",
+      "a": "9",
+      "d": [
+        "19",
+        "90"
+      ]
+    },
+    {
+      "c": "dieci",
+      "a": "10",
+      "d": [
+        "12",
+        "100"
+      ]
+    },
+    {
+      "c": "undici",
+      "a": "11",
+      "d": [
+        "1",
+        "21"
+      ]
+    },
+    {
+      "c": "dodici",
+      "a": "12",
+      "d": [
+        "2",
+        "20"
+      ]
+    },
+    {
+      "c": "tredici",
+      "a": "13",
+      "d": [
+        "3",
+        "30"
+      ]
+    },
+    {
+      "c": "quindici",
+      "a": "15",
+      "d": [
+        "5",
+        "50"
+      ]
+    },
+    {
+      "c": "sedici",
+      "a": "16",
+      "d": [
+        "6",
+        "60"
+      ]
+    },
+    {
+      "c": "diciassette",
+      "a": "17",
+      "d": [
+        "70",
+        "27"
+      ]
+    },
+    {
+      "c": "diciannove",
+      "a": "19",
+      "d": [
+        "90",
+        "29"
+      ]
+    },
+    {
+      "c": "venti",
+      "a": "20",
+      "d": [
+        "2",
+        "12"
+      ]
+    },
+    {
+      "c": "ventuno",
+      "a": "21",
+      "d": [
+        "12",
+        "31"
+      ]
+    },
+    {
+      "c": "ventotto",
+      "a": "28",
+      "d": [
+        "82",
+        "18"
+      ]
+    },
+    {
+      "c": "trenta",
+      "a": "30",
+      "d": [
+        "13",
+        "3"
+      ]
+    },
+    {
+      "c": "quaranta",
+      "a": "40",
+      "d": [
+        "14",
+        "4"
+      ]
+    },
+    {
+      "c": "cinquanta",
+      "a": "50",
+      "d": [
+        "15",
+        "5"
+      ]
+    },
+    {
+      "c": "settanta",
+      "a": "70",
+      "d": [
+        "17",
+        "60"
+      ]
+    },
+    {
+      "c": "novanta",
+      "a": "90",
+      "d": [
+        "19",
+        "80"
+      ]
+    },
+    {
+      "c": "cento",
+      "a": "100",
+      "d": [
+        "1,000",
+        "10"
+      ]
+    },
+    {
+      "c": "mille",
+      "a": "1,000",
+      "d": [
+        "100",
+        "1,000,000"
+      ],
+      "ex": "Mille grazie!",
+      "exT": "A thousand thanks!"
+    },
+    {
+      "c": "primo",
+      "a": "first",
+      "d": [
+        "second",
+        "last"
+      ]
+    },
+    {
+      "c": "secondo",
+      "a": "second",
+      "d": [
+        "first",
+        "third"
+      ]
+    },
+    {
+      "c": "Quanti anni hai?",
+      "a": "How old are you?",
+      "d": [
+        "How many brothers do you have?",
+        "What time is it?"
+      ],
+      "ex": "Quanti anni hai? Ho diciotto anni.",
+      "exT": "How old are you? I'm eighteen."
+    },
+    {
+      "c": "Io ___ vent'anni. (avere)",
+      "a": "ho",
+      "d": [
+        "sono",
+        "hai"
+      ]
+    },
+    {
+      "c": "Mia sorella ___ dieci anni. (avere)",
+      "a": "ha",
+      "d": [
+        "è",
+        "hai"
+      ]
+    },
+    {
+      "c": "Noi ___ un cane. (avere)",
+      "a": "abbiamo",
+      "d": [
+        "avete",
+        "hanno"
+      ]
+    },
+    {
+      "c": "Loro ___ due figli. (avere)",
+      "a": "hanno",
+      "d": [
+        "anno",
+        "avete"
+      ]
+    },
+    {
+      "c": "l'anno",
+      "a": "year",
+      "d": [
+        "age",
+        "month"
+      ],
+      "ex": "Quest'anno studio l'italiano.",
+      "exT": "This year I'm studying Italian."
+    }
+  ],
+  "read": {
+    "title": "Mi presento",
+    "text": [
+      "Ciao! Mi chiamo Sara e sono di Firenze. Ho diciannove anni e sono una studentessa. Il mio amico Marco è di Roma. Lui ha ventidue anni.",
+      "Nella mia classe ci sono venti studenti: dodici ragazze e otto ragazzi. Il professore si chiama Paolo e ha cinquant'anni. Lui è molto simpatico.",
+      "E tu? Come ti chiami? Quanti anni hai? A presto!"
+    ],
+    "q": [
+      {
+        "q": "How old is Sara?",
+        "o": [
+          "21",
+          "19",
+          "20",
+          "50"
+        ],
+        "k": 1
+      },
+      {
+        "q": "How many boys are in Sara's class?",
+        "o": [
+          "Twelve",
+          "Twenty",
+          "Two",
+          "Eight"
+        ],
+        "k": 3
+      },
+      {
+        "q": "Where is Marco from?",
+        "o": [
+          "Florence",
+          "Milan",
+          "Rome"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

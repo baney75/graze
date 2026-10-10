@@ -1,0 +1,250 @@
+{
+  "title": "Participles and infinitives",
+  "note": "A participle is a verbal adjective: λύων, λύουσα, λῦον, 'loosing'. It agrees with its noun, and with the article it means 'the one who': ὁ πιστεύων, 'the one who believes'. The present participle shows ongoing action; the aorist (λύσας, 'having loosed') a single or earlier one. The participle of εἰμί is ὤν, οὖσα, ὄν. The infinitive is a verbal noun: λύειν, λῦσαι, εἶναι.",
+  "src": {
+    "t": "Perseus Digital Library (Smyth, Greek Grammar: participles)",
+    "u": "https://www.perseus.tufts.edu/"
+  },
+  "items": [
+    {
+      "c": "λύων, λύουσα, λῦον",
+      "a": "loosing (present active participle)",
+      "d": [
+        "having loosed",
+        "to loose"
+      ],
+      "r": "lyōn, lyousa, lyon"
+    },
+    {
+      "c": "λύσας, λύσασα, λῦσαν",
+      "a": "having loosed (aorist active participle)",
+      "d": [
+        "loosing",
+        "being loosed"
+      ],
+      "r": "lysas, lysasa, lysan"
+    },
+    {
+      "c": "λυόμενος, -η, -ον",
+      "a": "being loosed (present passive participle)",
+      "d": [
+        "having been loosed",
+        "loosing"
+      ],
+      "r": "lyomenos",
+      "say": "λυόμενος"
+    },
+    {
+      "c": "λυθείς, λυθεῖσα, λυθέν",
+      "a": "having been loosed (aorist passive participle)",
+      "d": [
+        "being loosed",
+        "having loosed"
+      ],
+      "r": "lytheis, lytheisa, lythen"
+    },
+    {
+      "c": "ὤν, οὖσα, ὄν",
+      "a": "being (participle of εἰμί)",
+      "d": [
+        "having been",
+        "to be"
+      ],
+      "r": "ōn, ousa, on",
+      "ex": "ὁ ὢν ἐκ τοῦ θεοῦ",
+      "exT": "the one who is from God"
+    },
+    {
+      "c": "λῦσαι",
+      "a": "to loose (aorist infinitive)",
+      "d": [
+        "having loosed",
+        "you loosed"
+      ],
+      "r": "lysai"
+    },
+    {
+      "c": "ὁ πιστεύων",
+      "a": "the one who believes",
+      "d": [
+        "he believed",
+        "the faith"
+      ],
+      "ex": "ὁ πιστεύων εἰς τὸν υἱὸν ἔχει ζωὴν αἰώνιον.",
+      "exT": "The one who believes in the Son has eternal life.",
+      "r": "ho pisteuōn"
+    },
+    {
+      "c": "ὁ ἐρχόμενος",
+      "a": "the one who is coming",
+      "d": [
+        "the one who came",
+        "he will come"
+      ],
+      "ex": "Σὺ εἶ ὁ ἐρχόμενος;",
+      "exT": "Are you the one who is coming?",
+      "r": "ho erchomenos"
+    },
+    {
+      "c": "ὁ ἔχων ὦτα ἀκουέτω.",
+      "a": "Whoever has ears, let him hear.",
+      "d": [
+        "He had ears and heard.",
+        "Whoever hears, let him have ears."
+      ],
+      "r": "ho echōn ōta akouetō."
+    },
+    {
+      "c": "ὁ πέμψας με",
+      "a": "the one who sent me",
+      "d": [
+        "the one whom I sent",
+        "the one who will send me"
+      ],
+      "r": "ho pempsas me"
+    },
+    {
+      "c": "ὁ ὢν καὶ ὁ ἦν",
+      "a": "the one who is and who was",
+      "d": [
+        "the one who was and will be",
+        "the one who is coming"
+      ],
+      "r": "ho ōn kai ho ēn"
+    },
+    {
+      "c": "ὕδωρ ζῶν",
+      "a": "living water",
+      "d": [
+        "holy water",
+        "water and life"
+      ],
+      "r": "hydōr zōn"
+    },
+    {
+      "c": "ὁ πιστεύσας καὶ βαπτισθεὶς σωθήσεται.",
+      "a": "Whoever believes and is baptized will be saved.",
+      "d": [
+        "Whoever was saved believed and was baptized.",
+        "Believe and be baptized, and be saved."
+      ],
+      "r": "ho pisteusas kai baptistheis sōthēsetai."
+    },
+    {
+      "c": "λέγων",
+      "a": "saying",
+      "d": [
+        "having said",
+        "to say"
+      ],
+      "r": "legōn",
+      "ex": "ἐδίδασκεν αὐτοὺς λέγων",
+      "exT": "he was teaching them, saying"
+    },
+    {
+      "c": "ἀκούσας",
+      "a": "having heard",
+      "d": [
+        "hearing",
+        "to hear"
+      ],
+      "r": "akousas",
+      "ex": "ἀκούσας δὲ ὁ Ἰησοῦς εἶπεν",
+      "exT": "when Jesus had heard, he said"
+    },
+    {
+      "c": "ἐλθών",
+      "a": "having come",
+      "d": [
+        "coming",
+        "having seen"
+      ],
+      "r": "elthōn",
+      "ex": "ἐλθὼν εἰς τὴν οἰκίαν",
+      "exT": "having come into the house"
+    },
+    {
+      "c": "εἰπών",
+      "a": "having said",
+      "d": [
+        "saying",
+        "having come"
+      ],
+      "r": "eipōn",
+      "ex": "ταῦτα εἰπών",
+      "exT": "having said these things"
+    },
+    {
+      "c": "ἰδών",
+      "a": "having seen",
+      "d": [
+        "seeing",
+        "having known"
+      ],
+      "r": "idōn",
+      "ex": "ἰδὼν δὲ τοὺς ὄχλους",
+      "exT": "and seeing the crowds"
+    },
+    {
+      "c": "ἀναστάς",
+      "a": "having stood up, having risen",
+      "d": [
+        "having sat down",
+        "standing"
+      ],
+      "r": "anastas",
+      "ex": "ἀναστὰς ἦλθεν πρὸς τὸν πατέρα.",
+      "exT": "He got up and went to his father."
+    },
+    {
+      "c": "μακάριοι οἱ ___ τὸν λόγον τοῦ θεοῦ. (who hear)",
+      "a": "ἀκούοντες",
+      "d": [
+        "ἀκούοντα",
+        "ἀκούουσιν"
+      ]
+    },
+    {
+      "c": "ἡ ___ γυνή (the believing woman; πιστεύω)",
+      "a": "πιστεύουσα",
+      "d": [
+        "πιστεύων",
+        "πιστεῦον"
+      ]
+    },
+    {
+      "c": "δύναμαι ___. (I am able to hear; ἀκούω)",
+      "a": "ἀκούειν",
+      "d": [
+        "ἀκούων",
+        "ἀκούει"
+      ]
+    },
+    {
+      "c": "a participle is",
+      "a": "a verbal adjective",
+      "d": [
+        "a verbal noun",
+        "a kind of adverb only"
+      ]
+    },
+    {
+      "c": "an infinitive (λύειν, 'to loose') is",
+      "a": "a verbal noun",
+      "d": [
+        "a verbal adjective",
+        "a past tense"
+      ]
+    },
+    {
+      "c": "ὁ λέγων (article + participle)",
+      "a": "the one who is speaking",
+      "d": [
+        "he spoke",
+        "the word"
+      ],
+      "r": "ho legōn",
+      "say": "ὁ λέγων"
+    }
+  ]
+}

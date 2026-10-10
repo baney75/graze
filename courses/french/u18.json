@@ -1,0 +1,46 @@
+{
+  "title": "Future and plans, wanting and being able",
+  "note": "The near future is aller + infinitive: Je vais partir demain. Vouloir (je veux), pouvoir (je peux) and devoir (je dois) are followed directly by an infinitive: Tu veux venir ? Je dois travailler. Je voudrais is the polite \"I would like.\" A few common simple-future forms: je serai (I will be), j'irai (I will go), on verra (we'll see).",
+  "src": { "t": "Tex's French Grammar, tense and mood (futur proche, simple future)", "u": "https://laits.utexas.edu/tex/gr/ta1.html" },
+  "items": [
+    { "c": "la semaine prochaine", "a": "next week", "d": ["last week", "this weekend"] },
+    { "c": "l'année prochaine (f)", "a": "next year", "d": ["last year", "this year"], "say": "l'année prochaine" },
+    { "c": "ce soir", "a": "tonight / this evening", "d": ["last night", "this morning"], "ex": "Qu'est-ce que tu fais ce soir ?", "exT": "What are you doing tonight?" },
+    { "c": "bientôt", "a": "soon", "d": ["later", "never"] },
+    { "c": "plus tard", "a": "later", "d": ["too late", "earlier"] },
+    { "c": "le projet", "a": "plan / project", "d": ["dream", "trip"] },
+    { "c": "Je vais voyager.", "a": "I'm going to travel.", "d": ["I traveled.", "I like to travel."] },
+    { "c": "Il va pleuvoir.", "a": "It's going to rain.", "d": ["It rained.", "It's raining hard."] },
+    { "c": "Tu veux venir ?", "a": "Do you want to come?", "d": ["Can you come?", "Are you coming back?"], "ex": "On va au cinéma. Tu veux venir ?", "exT": "We're going to the movies. Do you want to come?" },
+    { "c": "Je ne peux pas.", "a": "I can't.", "d": ["I don't want to.", "I don't know."] },
+    { "c": "Je dois partir.", "a": "I have to leave.", "d": ["I want to leave.", "I can leave."] },
+    { "c": "Tu peux m'aider ?", "a": "Can you help me?", "d": ["Do you want to help me?", "Did you help me?"] },
+    { "c": "Je veux apprendre le français.", "a": "I want to learn French.", "d": ["I can teach French.", "I have to learn French."] },
+    { "c": "Bien sûr !", "a": "Of course!", "d": ["Not at all!", "Good luck!"] },
+    { "c": "D'accord.", "a": "OK. / Agreed.", "d": ["Of course not.", "Thank you."] },
+    { "c": "Peut-être.", "a": "Maybe.", "d": ["Of course.", "Never."] },
+    { "c": "Il faut travailler.", "a": "It's necessary to work.", "d": ["He wants to work.", "It's nice to work."], "ex": "Pour réussir, il faut travailler.", "exT": "To succeed, you have to work." },
+    { "c": "Je serai à Paris.", "a": "I will be in Paris.", "d": ["I was in Paris.", "I would like to be in Paris."] },
+    { "c": "J'irai en Italie.", "a": "I will go to Italy.", "d": ["I went to Italy.", "I live in Italy."] },
+    { "c": "On verra.", "a": "We'll see.", "d": ["We saw it.", "Let's go see."] },
+    { "c": "Je ___ partir demain. (near future)", "a": "vais", "d": ["va", "vas"] },
+    { "c": "Nous ___ voir un film. (near future)", "a": "allons", "d": ["allez", "vont"], "ex": "Ce soir, nous allons voir un film.", "exT": "Tonight we're going to see a movie." },
+    { "c": "Tu ___ venir ce soir ? (vouloir)", "a": "veux", "d": ["veut", "voulez"] },
+    { "c": "Vous ___ m'aider ? (pouvoir)", "a": "pouvez", "d": ["pouvons", "peuvent"] },
+    { "c": "Ils ___ partir à midi. (devoir)", "a": "doivent", "d": ["doit", "devons"] },
+    { "c": "Je ___ un thé. (vouloir, polite)", "a": "voudrais", "d": ["voudrait", "voudrions"] }
+  ],
+  "read": {
+    "title": "Les projets de Hugo",
+    "text": [
+      "Hugo a dix-huit ans. En juin, il va finir le lycée. Après, il veut étudier la médecine à l'université de Toulouse.",
+      "Mais d'abord, il va travailler dans un restaurant cet été, parce qu'il veut gagner de l'argent. En août, il va voyager en Espagne avec deux amis. Ils vont prendre le train et ils vont dormir dans de petits hôtels.",
+      "Hugo ne peut pas partir longtemps : il doit être à Toulouse le premier septembre. Et après l'université ? « On verra ! » dit Hugo."
+    ],
+    "q": [
+      { "q": "What does Hugo want to study?", "o": ["History", "Cooking", "Medicine"], "k": 2 },
+      { "q": "Why will Hugo work this summer?", "o": ["To earn money", "To learn Spanish", "To help his parents"], "k": 0 },
+      { "q": "When must Hugo be in Toulouse?", "o": ["In June", "September 1", "In August"], "k": 1 }
+    ]
+  }
+}

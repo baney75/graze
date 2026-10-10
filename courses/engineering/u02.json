@@ -1,0 +1,340 @@
+{
+  "title": "Units, dimensions and estimation",
+  "note": "Every term in a valid equation has the same dimensions, so checking units catches many errors. Convert by multiplying by ratios equal to 1. Report results with sensible significant figures, and estimate first so you can tell when an answer is absurd.",
+  "src": {
+    "t": "University Physics Volume 1, 1.5 Estimates and Fermi Calculations, OpenStax",
+    "u": "https://openstax.org/books/university-physics-volume-1/pages/1-5-estimates-and-fermi-calculations"
+  },
+  "items": [
+    {
+      "c": "SI unit of force",
+      "a": "newton (N)",
+      "d": [
+        "pascal (Pa)",
+        "joule (J)",
+        "pound-mass (lbm)"
+      ]
+    },
+    {
+      "c": "SI unit of pressure and stress",
+      "a": "pascal (Pa)",
+      "d": [
+        "newton (N)",
+        "bar",
+        "pound per square inch (psi)"
+      ]
+    },
+    {
+      "c": "SI unit of energy and work",
+      "a": "joule (J)",
+      "d": [
+        "watt (W)",
+        "newton (N)",
+        "calorie (cal)"
+      ]
+    },
+    {
+      "c": "SI unit of power",
+      "a": "watt (W)",
+      "d": [
+        "joule (J)",
+        "horsepower (hp)",
+        "volt (V)"
+      ]
+    },
+    {
+      "c": "1 MPa equals",
+      "a": "1 N/mm²",
+      "d": [
+        "1 N/m²",
+        "1 kN/m²",
+        "1 N/cm²"
+      ],
+      "ex": "A square millimeter is 10⁻⁶ m², so 1 N/mm² is 10⁶ N/m²."
+    },
+    {
+      "c": "1 GPa equals",
+      "a": "10⁹ Pa",
+      "d": [
+        "10⁶ Pa",
+        "10³ Pa",
+        "10¹² Pa"
+      ]
+    },
+    {
+      "c": "1 psi is about",
+      "a": "6.9 kPa",
+      "d": [
+        "6.9 MPa",
+        "101 kPa",
+        "0.69 kPa"
+      ]
+    },
+    {
+      "c": "Standard atmospheric pressure",
+      "a": "about 101 kPa (14.7 psi)",
+      "d": [
+        "about 10 kPa (1.5 psi)",
+        "about 1 MPa (147 psi)"
+      ]
+    },
+    {
+      "c": "1 inch equals exactly",
+      "a": "25.4 mm",
+      "d": [
+        "2.54 mm",
+        "25.0 mm",
+        "30.48 mm"
+      ]
+    },
+    {
+      "c": "1 pound-force (lbf) is about",
+      "a": "4.45 N",
+      "d": [
+        "9.81 N",
+        "0.454 N",
+        "2.2 N"
+      ]
+    },
+    {
+      "c": "US unit of mass accelerated 1 ft/s² by 1 lbf",
+      "a": "slug",
+      "d": [
+        "pound-mass",
+        "kilogram",
+        "ounce"
+      ]
+    },
+    {
+      "c": "Gravitational acceleration g in SI units",
+      "a": "9.81 m/s²",
+      "d": [
+        "32.2 m/s²",
+        "9.81 ft/s²",
+        "1.00 m/s²"
+      ]
+    },
+    {
+      "c": "Gravitational acceleration g in US units",
+      "a": "32.2 ft/s²",
+      "d": [
+        "9.81 ft/s²",
+        "32.2 m/s²",
+        "3.22 ft/s²"
+      ]
+    },
+    {
+      "c": "Convert 72 km/h to m/s",
+      "a": "20 m/s",
+      "d": [
+        "7.2 m/s",
+        "259 m/s",
+        "2 m/s"
+      ]
+    },
+    {
+      "c": "Unit conversion factor",
+      "a": "a ratio equal to 1, such as 1000 m / 1 km",
+      "d": [
+        "a constant added to change units",
+        "a ratio greater than 1 that enlarges values"
+      ]
+    },
+    {
+      "c": "Dimensionally homogeneous equation",
+      "a": "every term has the same dimensions",
+      "d": [
+        "every term is a pure number",
+        "every variable is in SI units"
+      ]
+    },
+    {
+      "c": "Dimensions of stress",
+      "a": "[M]/([L][T]²)",
+      "d": [
+        "[M][L]/[T]²",
+        "[M][L]²/[T]²",
+        "[M]/[T]²"
+      ],
+      "ex": "Force [M][L]/[T]² divided by area [L]²."
+    },
+    {
+      "c": "Dimensions of energy",
+      "a": "[M][L]²/[T]²",
+      "d": [
+        "[M][L]/[T]²",
+        "[M][L]²/[T]³",
+        "[M]/([L][T]²)"
+      ]
+    },
+    {
+      "c": "Dimensionless group",
+      "a": "a ratio whose units all cancel, such as Mach number",
+      "d": [
+        "a quantity measured in base SI units",
+        "any number smaller than one"
+      ]
+    },
+    {
+      "c": "Error a units check cannot catch",
+      "a": "a missing pure-number factor such as 2 or π",
+      "d": [
+        "adding a force to a length",
+        "an answer in seconds for a distance"
+      ]
+    },
+    {
+      "c": "Mars Climate Orbiter (1999) was lost because of",
+      "a": "a mix-up between pound-force and newton units",
+      "d": [
+        "a cracked fuel tank",
+        "a collision with a moon"
+      ]
+    },
+    {
+      "c": "Fermi estimate",
+      "a": "a quick order-of-magnitude estimate from reasoned assumptions",
+      "d": [
+        "an exact answer from a computer model",
+        "a random guess with no reasoning"
+      ]
+    },
+    {
+      "c": "Order of magnitude of 2,000",
+      "a": "10³",
+      "d": [
+        "10²",
+        "10⁴",
+        "10⁶"
+      ]
+    },
+    {
+      "c": "Sanity check of an answer",
+      "a": "comparing it with known values to see if it is reasonable",
+      "d": [
+        "repeating the same arithmetic faster",
+        "rounding it to one significant figure"
+      ]
+    },
+    {
+      "c": "Accuracy",
+      "a": "closeness of a measurement to the true value",
+      "d": [
+        "closeness of repeated measurements to each other",
+        "number of digits a gauge displays"
+      ]
+    },
+    {
+      "c": "Precision",
+      "a": "closeness of repeated measurements to each other",
+      "d": [
+        "closeness of a measurement to the true value",
+        "the cost of a measuring instrument"
+      ]
+    },
+    {
+      "c": "Significant figures in 0.00450",
+      "a": "3",
+      "d": [
+        "5",
+        "2",
+        "6"
+      ]
+    },
+    {
+      "c": "Significant figures in 1.020",
+      "a": "4",
+      "d": [
+        "3",
+        "2",
+        "1"
+      ]
+    },
+    {
+      "c": "Leading zeros, as in 0.007, are",
+      "a": "not significant",
+      "d": [
+        "significant"
+      ]
+    },
+    {
+      "c": "Trailing zeros after a decimal point, as in 2.50, are",
+      "a": "significant",
+      "d": [
+        "not significant"
+      ]
+    },
+    {
+      "c": "Sig-fig rule for multiplying or dividing",
+      "a": "keep the fewest significant figures of any input",
+      "d": [
+        "keep the fewest decimal places of any input",
+        "keep every digit the calculator shows"
+      ]
+    },
+    {
+      "c": "Sig-fig rule for adding or subtracting",
+      "a": "keep the fewest decimal places of any input",
+      "d": [
+        "keep the fewest significant figures of any input",
+        "always round to whole numbers"
+      ]
+    },
+    {
+      "c": "2.5 × 3.44, reported with correct sig figs",
+      "a": "8.6",
+      "d": [
+        "8.60",
+        "8.600",
+        "9"
+      ]
+    },
+    {
+      "c": "12.1 + 0.035, reported with correct sig figs",
+      "a": "12.1",
+      "d": [
+        "12.135",
+        "12.14",
+        "12"
+      ]
+    }
+  ],
+  "read": {
+    "title": "A spacecraft lost to units",
+    "text": [
+      "In September 1999, NASA's Mars Climate Orbiter fired its engine to enter orbit and was never heard from again. Investigators found that one team's software reported thruster impulse in pound-force seconds, while the navigation software expected newton seconds. Each small error was off by a factor of about 4.45, and over months of flight the trajectory drifted until the craft passed far too close to Mars.",
+      "The lesson is not that one unit system is better. It is that units carry meaning, and every number that crosses an interface must state its units. Engineers protect themselves with dimensional analysis: every term in a correct equation must have the same dimensions. If you add a force to a pressure, something is wrong.",
+      "A second habit is estimation. Before calculating, guess the order of magnitude from simple assumptions. If a hand-held drill seems to need a megawatt, the arithmetic or the model has failed.",
+      "Finally, results should not claim more precision than the data support. A load known to two significant figures cannot produce a stress known to six. Writing 8.6 rather than 8.6154 tells the reader honestly what you know."
+    ],
+    "q": [
+      {
+        "q": "What caused the Mars Climate Orbiter loss?",
+        "o": [
+          "A thruster explosion",
+          "Impulse given in pound-force seconds where newton seconds were expected",
+          "A sig-fig rounding error"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What does dimensional analysis check?",
+        "o": [
+          "That every term in an equation has the same dimensions",
+          "That numbers have the right sign",
+          "That the answer is exactly correct"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why write 8.6 rather than 8.6154 for a result from two-digit data?",
+        "o": [
+          "It is easier to type",
+          "It shows the uncertainty honestly",
+          "It makes the answer larger"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Propositional logic: connectives and truth tables",
+  "note": "Truth-functional logic builds compound sentences from simple ones with connectives: not (¬), and (∧), or (∨), if-then (→), and if and only if (↔). A compound's truth depends only on the truth of its parts, and a truth table lists every combination. 'Or' is inclusive, and a conditional is false only when its antecedent is true and its consequent false.",
+  "src": { "t": "forall x: Calgary, Ch. 5 Connectives", "u": "https://forallx.openlogicproject.org/html/Ch5.html" },
+  "items": [
+    { "c": "Symbol ¬", "a": "not (negation)", "d": ["and (conjunction)", "or (disjunction)", "if...then (conditional)"] },
+    { "c": "Symbol ∧", "a": "and (conjunction)", "d": ["or (disjunction)", "not (negation)", "if and only if (biconditional)"] },
+    { "c": "Symbol ∨", "a": "or (disjunction)", "d": ["and (conjunction)", "if...then (conditional)", "not (negation)"] },
+    { "c": "Symbol →", "a": "if...then (conditional)", "d": ["if and only if (biconditional)", "and (conjunction)", "or (disjunction)"] },
+    { "c": "Symbol ↔", "a": "if and only if (biconditional)", "d": ["if...then (conditional)", "or (disjunction)", "not (negation)"] },
+    { "c": "When is P ∧ Q true?", "a": "only when P and Q are both true", "d": ["when at least one of them is true", "when exactly one of them is true"] },
+    { "c": "When is P ∨ Q false?", "a": "only when P and Q are both false", "d": ["when exactly one of them is false", "when both of them are true"] },
+    { "c": "When is P → Q false?", "a": "only when P is true and Q is false", "d": ["only when P is false and Q is true", "whenever both are false"] },
+    { "c": "When is P ↔ Q true?", "a": "when P and Q have the same truth value", "d": ["only when both are true", "when they have different truth values"] },
+    { "c": "Is ∨ inclusive or exclusive?", "a": "inclusive: true if one or both disjuncts are true", "d": ["exclusive: true if exactly one disjunct is true"] },
+    { "c": "Value of P → Q when P is false", "a": "true, whatever Q is", "d": ["false, whatever Q is", "the same as Q"] },
+    { "c": "Antecedent", "a": "the 'if' part of a conditional", "d": ["the 'then' part of a conditional", "either side of an 'or'"] },
+    { "c": "Consequent", "a": "the 'then' part of a conditional", "d": ["the 'if' part of a conditional", "either side of an 'and'"] },
+    { "c": "Conjunct", "a": "either part of an 'and' sentence", "d": ["either part of an 'or' sentence", "the 'if' part of a conditional"] },
+    { "c": "Disjunct", "a": "either part of an 'or' sentence", "d": ["either part of an 'and' sentence", "the 'then' part of a conditional"] },
+    { "c": "Rows in a truth table with 3 sentence letters", "a": "8", "d": ["6", "9", "3"] },
+    { "c": "Rows in a truth table with n sentence letters", "a": "2 to the power n", "d": ["n squared", "2 times n"] },
+    { "c": "Tautology", "a": "true in every row of its truth table", "d": ["false in every row of its truth table", "true in at least one row"] },
+    { "c": "Contradiction, in truth-table terms", "a": "false in every row of its truth table", "d": ["true in every row of its truth table", "false in at least one row"] },
+    { "c": "Contingent sentence", "a": "true in some rows and false in others", "d": ["true in every row", "false in every row"] },
+    { "c": "P ∨ ¬P is", "a": "a tautology (law of excluded middle)", "d": ["a contradiction", "a contingent sentence"] },
+    { "c": "P ∧ ¬P is", "a": "a contradiction", "d": ["a tautology", "a contingent sentence"] },
+    { "c": "Logically equivalent sentences", "a": "same truth value in every row", "d": ["same truth value in at least one row", "built from the same connectives"] },
+    { "c": "'A only if B' in symbols", "a": "A → B", "d": ["B → A", "A ↔ B", "A ∧ B"] },
+    { "c": "'A if B' in symbols", "a": "B → A", "d": ["A ∧ B", "A ∨ B", "¬B → A"] },
+    { "c": "'B unless A' in symbols", "a": "A ∨ B (or ¬A → B)", "d": ["A ∧ B", "¬A ∧ ¬B", "B → A"] },
+    { "c": "'Neither A nor B' in symbols", "a": "¬(A ∨ B)", "d": ["¬A ∨ ¬B", "¬(A ∧ B)", "A ∨ B"] },
+    { "c": "'A, but B' in symbols", "a": "A ∧ B", "d": ["A ∨ B", "A → ¬B", "¬A ∧ B"] },
+    { "c": "Truth-functional connective", "a": "the compound's truth depends only on its parts' truth", "d": ["the compound's truth depends on the speaker's intent", "a word that joins only true sentences"] },
+    { "c": "'Oxygen is necessary for fire' means", "a": "if there is fire, there is oxygen", "d": ["if there is oxygen, there is fire", "fire and oxygen always occur together"] },
+    { "c": "'Rain is sufficient for wet roads' means", "a": "if it rains, the roads are wet", "d": ["if the roads are wet, it rained", "the roads are wet only when it rains"] }
+  ],
+  "read": {
+    "title": "Reading a truth table",
+    "text": [
+      "Propositional logic treats whole statements as units. Letters such as P and Q stand for simple sentences, and connectives combine them. The key idea is truth-functionality: the truth value of the compound depends only on the truth values of its parts.",
+      "A truth table shows this by listing every possible combination. With two letters there are four rows; each new letter doubles the count, so three letters need eight. A conjunction, P ∧ Q, is true only in the row where both are true. A disjunction, P ∨ Q, is false only in the row where both are false; logic's 'or' is inclusive, so it is true when both parts are true.",
+      "The conditional, P → Q, surprises beginners. It is false in just one row, where P is true and Q is false. Think of it as a promise: 'If you finish your homework, you can play.' The promise is broken only if you finish and are still not allowed to play. If you never finish, the promise is not broken, whatever happens.",
+      "Truth tables also sort sentences. A tautology is true in every row, a contradiction is false in every row, and anything else is contingent. Two sentences are equivalent when their columns match in every row."
+    ],
+    "q": [
+      { "q": "How many rows does a truth table with three letters need?", "o": ["Three", "Six", "Eight", "Nine"], "k": 2 },
+      { "q": "In the homework promise, when is the conditional false?", "o": ["When you never finish your homework", "When you finish but are not allowed to play", "When you finish and are allowed to play"], "k": 1 },
+      { "q": "Two sentences are logically equivalent when", "o": ["Their truth-table columns match in every row", "They contain the same letters", "Both are contingent"], "k": 0 }
+    ]
+  }
+}

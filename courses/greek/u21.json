@@ -1,0 +1,351 @@
+{
+  "title": "New Testament core: people, things and numbers",
+  "note": "These words each occur 50 times or more in the New Testament. Hebrew names like Ἰσραήλ, Ἀβραάμ and Ἰερουσαλήμ are often indeclinable: they never change their ending, so the article shows the case (τοῦ Ἀβραάμ, of Abraham). Ἰησοῦς has the forms Ἰησοῦ (genitive, dative, vocative) and Ἰησοῦν.",
+  "src": {
+    "t": "SBL Greek New Testament (free edition)",
+    "u": "https://sblgnt.com/"
+  },
+  "items": [
+    {
+      "c": "Ἰησοῦς, -οῦ, ὁ",
+      "a": "Jesus; Joshua",
+      "d": [
+        "John; Jonah",
+        "James; Jacob"
+      ],
+      "r": "Iēsous",
+      "say": "Ἰησοῦς"
+    },
+    {
+      "c": "Πέτρος, -ου, ὁ",
+      "a": "Peter",
+      "d": [
+        "Paul",
+        "Philip"
+      ],
+      "r": "Petros",
+      "say": "Πέτρος",
+      "ex": "Σίμων Πέτρος",
+      "exT": "Simon Peter"
+    },
+    {
+      "c": "Παῦλος, -ου, ὁ",
+      "a": "Paul",
+      "d": [
+        "Peter",
+        "Pilate"
+      ],
+      "r": "Paulos",
+      "say": "Παῦλος"
+    },
+    {
+      "c": "Πιλᾶτος, -ου, ὁ",
+      "a": "Pilate",
+      "d": [
+        "Paul",
+        "Herod"
+      ],
+      "r": "Pilatos",
+      "say": "Πιλᾶτος"
+    },
+    {
+      "c": "Ἰσραήλ, ὁ",
+      "a": "Israel",
+      "d": [
+        "Isaac",
+        "Judea"
+      ],
+      "r": "Israēl",
+      "say": "Ἰσραήλ"
+    },
+    {
+      "c": "Ἰερουσαλήμ, ἡ",
+      "a": "Jerusalem",
+      "d": [
+        "Galilee",
+        "Samaria"
+      ],
+      "r": "Ierousalēm",
+      "say": "Ἰερουσαλήμ",
+      "ex": "εἰς Ἰερουσαλήμ",
+      "exT": "to Jerusalem"
+    },
+    {
+      "c": "Ἀβραάμ, ὁ",
+      "a": "Abraham",
+      "d": [
+        "Adam",
+        "Aaron"
+      ],
+      "r": "Abraam",
+      "say": "Ἀβραάμ",
+      "ex": "τέκνα τοῦ Ἀβραάμ",
+      "exT": "children of Abraham"
+    },
+    {
+      "c": "Μωϋσῆς, -έως, ὁ",
+      "a": "Moses",
+      "d": [
+        "Elijah",
+        "Aaron"
+      ],
+      "r": "Mōysēs",
+      "say": "Μωϋσῆς",
+      "ex": "ὁ νόμος διὰ Μωϋσέως ἐδόθη.",
+      "exT": "The law was given through Moses."
+    },
+    {
+      "c": "Ἰουδαῖος, -α, -ον",
+      "a": "Jewish; (as a noun) a Jew, a Judean",
+      "d": [
+        "Greek; (as a noun) a Greek",
+        "Roman; (as a noun) a Roman"
+      ],
+      "ex": "ὁ βασιλεὺς τῶν Ἰουδαίων",
+      "exT": "the king of the Jews",
+      "r": "Ioudaios",
+      "say": "Ἰουδαῖος"
+    },
+    {
+      "c": "Φαρισαῖος, -ου, ὁ",
+      "a": "Pharisee",
+      "d": [
+        "Sadducee",
+        "scribe"
+      ],
+      "r": "Pharisaios",
+      "say": "Φαρισαῖος"
+    },
+    {
+      "c": "καιρός, -οῦ, ὁ",
+      "a": "time, season; right moment",
+      "d": [
+        "age; eternity",
+        "hour"
+      ],
+      "ex": "πεπλήρωται ὁ καιρός.",
+      "exT": "The time is fulfilled.",
+      "r": "kairos",
+      "say": "καιρός"
+    },
+    {
+      "c": "καρπός, -οῦ, ὁ",
+      "a": "fruit",
+      "d": [
+        "seed",
+        "tree"
+      ],
+      "ex": "ἀπὸ τῶν καρπῶν αὐτῶν ἐπιγνώσεσθε αὐτούς.",
+      "exT": "By their fruits you will know them.",
+      "r": "karpos",
+      "say": "καρπός"
+    },
+    {
+      "c": "θρόνος, -ου, ὁ",
+      "a": "throne",
+      "d": [
+        "crown",
+        "temple"
+      ],
+      "r": "thronos",
+      "say": "θρόνος",
+      "ex": "ὁ θρόνος τοῦ θεοῦ",
+      "exT": "the throne of God"
+    },
+    {
+      "c": "κεφαλή, -ῆς, ἡ",
+      "a": "head",
+      "d": [
+        "hand",
+        "heart"
+      ],
+      "r": "kephalē",
+      "say": "κεφαλή",
+      "ex": "ἡ κεφαλὴ τῆς ἐκκλησίας",
+      "exT": "the head of the church"
+    },
+    {
+      "c": "πρεσβύτερος, -α, -ον",
+      "a": "older; (as a noun) elder",
+      "d": [
+        "younger; (as a noun) child",
+        "first; (as a noun) ruler"
+      ],
+      "r": "presbyteros",
+      "say": "πρεσβύτερος"
+    },
+    {
+      "c": "σάββατον, -ου, τό",
+      "a": "Sabbath; week",
+      "d": [
+        "feast; festival",
+        "temple; sanctuary"
+      ],
+      "r": "sabbaton",
+      "say": "σάββατον",
+      "ex": "τὸ σάββατον διὰ τὸν ἄνθρωπον ἐγένετο.",
+      "exT": "The Sabbath was made for man."
+    },
+    {
+      "c": "χαρά, -ᾶς, ἡ",
+      "a": "joy",
+      "d": [
+        "grace",
+        "peace"
+      ],
+      "ex": "χαρὰ μεγάλη",
+      "exT": "great joy",
+      "r": "chara",
+      "say": "χαρά"
+    },
+    {
+      "c": "διδάσκαλος, -ου, ὁ",
+      "a": "teacher",
+      "d": [
+        "disciple, student",
+        "scribe"
+      ],
+      "ex": "Διδάσκαλε, τί ποιήσω;",
+      "exT": "Teacher, what shall I do?",
+      "r": "didaskalos",
+      "say": "διδάσκαλος"
+    },
+    {
+      "c": "παιδίον, -ου, τό",
+      "a": "little child, infant",
+      "d": [
+        "young man",
+        "servant"
+      ],
+      "r": "paidion",
+      "say": "παιδίον",
+      "ex": "τὸ παιδίον καὶ τὴν μητέρα αὐτοῦ",
+      "exT": "the child and his mother"
+    },
+    {
+      "c": "δεξιός, -ά, -όν",
+      "a": "right (as opposed to left)",
+      "d": [
+        "left",
+        "straight"
+      ],
+      "ex": "ἐκ δεξιῶν τοῦ θεοῦ",
+      "exT": "at the right hand of God",
+      "r": "dexios",
+      "say": "δεξιός"
+    },
+    {
+      "c": "ἕκαστος, -η, -ον",
+      "a": "each, every",
+      "d": [
+        "whole, entire",
+        "other, another"
+      ],
+      "r": "hekastos",
+      "say": "ἕκαστος",
+      "ex": "ἕκαστος ὑμῶν",
+      "exT": "each of you"
+    },
+    {
+      "c": "ἕτερος, -α, -ον",
+      "a": "other, another; different",
+      "d": [
+        "each, every",
+        "same"
+      ],
+      "r": "heteros",
+      "say": "ἕτερος"
+    },
+    {
+      "c": "λοιπός, -ή, -όν",
+      "a": "remaining; (as a noun) the rest",
+      "d": [
+        "first; (as a noun) the leader",
+        "last; (as a noun) the end"
+      ],
+      "r": "loipos",
+      "say": "λοιπός"
+    },
+    {
+      "c": "ὅσος, -η, -ον",
+      "a": "as great as; (plural) as many as",
+      "d": [
+        "such; of this kind",
+        "each; every"
+      ],
+      "r": "hosos",
+      "say": "ὅσος"
+    },
+    {
+      "c": "τοιοῦτος, -αύτη, -οῦτο",
+      "a": "such, of this kind",
+      "d": [
+        "this",
+        "as great as"
+      ],
+      "r": "toioutos",
+      "say": "τοιοῦτος"
+    },
+    {
+      "c": "πλείων, -ον",
+      "a": "more, greater (in number)",
+      "d": [
+        "fewer",
+        "most"
+      ],
+      "r": "pleiōn",
+      "say": "πλείων"
+    },
+    {
+      "c": "εἷς, μία, ἕν",
+      "a": "one",
+      "d": [
+        "two",
+        "first"
+      ],
+      "ex": "εἷς θεός",
+      "exT": "one God",
+      "r": "heis, mia, hen"
+    },
+    {
+      "c": "δύο",
+      "a": "two",
+      "d": [
+        "three",
+        "twelve"
+      ],
+      "r": "dyo"
+    },
+    {
+      "c": "τρεῖς, τρία",
+      "a": "three",
+      "d": [
+        "two",
+        "seven"
+      ],
+      "ex": "μετὰ τρεῖς ἡμέρας",
+      "exT": "after three days",
+      "r": "treis, tria"
+    },
+    {
+      "c": "ἑπτά",
+      "a": "seven",
+      "d": [
+        "six",
+        "twelve"
+      ],
+      "r": "hepta"
+    },
+    {
+      "c": "δώδεκα",
+      "a": "twelve",
+      "d": [
+        "ten",
+        "seven"
+      ],
+      "ex": "οἱ δώδεκα",
+      "exT": "the Twelve (apostles)",
+      "r": "dōdeka"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Days, months and telling time",
+  "note": "Days, months and seasons are all masculine. Use am with days (am Montag), im with months and seasons (im Juli), and um with clock times (um acht Uhr). Halb looks ahead to the next hour: halb drei is 2:30.",
+  "src": { "t": "Grimm Grammar: Die Uhrzeiten", "u": "https://coerll.utexas.edu/gg/gr/cas_04.html" },
+  "items": [
+    { "c": "der Tag", "a": "the day", "d": ["the night", "the week"], "ex": "Pl. die Tage: Guten Tag!", "exT": "Hello! (good day)" },
+    { "c": "die Nacht", "a": "the night", "d": ["the evening", "the day"], "ex": "Pl. die Nächte" },
+    { "c": "die Woche", "a": "the week", "d": ["the month", "the weekend"], "ex": "Pl. die Wochen: Eine Woche hat sieben Tage.", "exT": "A week has seven days." },
+    { "c": "die Zeit", "a": "the time", "d": ["the hour", "the weather"], "ex": "Ich habe keine Zeit.", "exT": "I don't have time." },
+    { "c": "heute", "a": "today", "d": ["tomorrow", "yesterday"] },
+    { "c": "morgen", "a": "tomorrow", "d": ["today", "yesterday"], "ex": "Morgen ist Samstag.", "exT": "Tomorrow is Saturday." },
+    { "c": "gestern", "a": "yesterday", "d": ["tomorrow", "today"] },
+    { "c": "der Montag", "a": "Monday", "d": ["Sunday", "Tuesday"] },
+    { "c": "der Dienstag", "a": "Tuesday", "d": ["Thursday", "Monday"] },
+    { "c": "der Mittwoch", "a": "Wednesday", "d": ["Monday", "Thursday"], "ex": "Am Mittwoch habe ich Deutsch.", "exT": "On Wednesday I have German." },
+    { "c": "der Donnerstag", "a": "Thursday", "d": ["Tuesday", "Wednesday"] },
+    { "c": "der Freitag", "a": "Friday", "d": ["Saturday", "Thursday"] },
+    { "c": "der Samstag", "a": "Saturday", "d": ["Sunday", "Friday"] },
+    { "c": "der Sonntag", "a": "Sunday", "d": ["Saturday", "Monday"] },
+    { "c": "das Wochenende", "a": "the weekend", "d": ["the week", "the holiday"], "ex": "Was machst du am Wochenende?", "exT": "What are you doing on the weekend?" },
+    { "c": "der Monat", "a": "the month", "d": ["the week", "the year"], "ex": "Pl. die Monate" },
+    { "c": "der Juni", "a": "June", "d": ["July", "January"] },
+    { "c": "der Juli", "a": "July", "d": ["June", "April"] },
+    { "c": "der Morgen", "a": "the morning", "d": ["tomorrow", "the evening"], "ex": "am Morgen", "exT": "in the morning" },
+    { "c": "der Abend", "a": "the evening", "d": ["the afternoon", "the night"], "ex": "Pl. die Abende" },
+    { "c": "jetzt", "a": "now", "d": ["later", "soon"] },
+    { "c": "die Uhr", "a": "the clock, the watch", "d": ["the hour", "the calendar"], "ex": "um acht Uhr", "exT": "at eight o'clock" },
+    { "c": "die Stunde", "a": "the hour", "d": ["the minute", "the clock"], "ex": "Pl. die Stunden" },
+    { "c": "die Minute", "a": "the minute", "d": ["the second", "the hour"] },
+    { "c": "Wie spät ist es?", "a": "What time is it?", "d": ["How late are you?", "What day is it?"] },
+    { "c": "Es ist halb drei.", "a": "It's 2:30.", "d": ["It's 3:30.", "It's 3:15."] },
+    { "c": "Es ist Viertel nach vier.", "a": "It's 4:15.", "d": ["It's 3:45.", "It's 4:45."] },
+    { "c": "Es ist zehn vor acht.", "a": "It's 7:50.", "d": ["It's 8:10.", "It's 10:08."] },
+    { "c": "___ Montag habe ich frei. (on)", "a": "Am", "d": ["Im", "Um"] },
+    { "c": "Wir fahren ___ Juli nach Berlin. (in)", "a": "im", "d": ["am", "um"] },
+    { "c": "Der Kurs beginnt ___ neun Uhr. (at)", "a": "um", "d": ["am", "im"], "ex": "Der Kurs beginnt um neun Uhr.", "exT": "The course starts at nine o'clock." }
+  ],
+  "read": {
+    "title": "Meine Woche",
+    "text": [
+      "Ich heiße Sara. Am Montag und am Mittwoch habe ich um neun Uhr Deutsch. Der Kurs ist zwei Stunden lang.",
+      "Am Dienstag und am Donnerstag arbeite ich. Am Freitag habe ich frei. Dann trinke ich Kaffee mit meiner Freundin.",
+      "Am Wochenende besuche ich meine Familie. Am Samstag essen wir um halb eins. Am Sonntag schlafe ich lange.",
+      "Heute ist Mittwoch. Es ist Viertel nach acht. Jetzt habe ich keine Zeit!"
+    ],
+    "q": [
+      { "q": "When does Sara have German class?", "o": ["Tuesday and Thursday at 9", "Friday at 8:15", "Monday and Wednesday at 9"], "k": 2 },
+      { "q": "When does the family eat on Saturday?", "o": ["1:30", "12:30", "1:00"], "k": 1 },
+      { "q": "What time is it now?", "o": ["8:15", "7:45", "8:30"], "k": 0 }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Political philosophy: Hobbes, Locke, Rousseau, Mill",
+  "note": "Social contract theorists ask why government has authority by imagining life without it. Hobbes saw a war of all against all and argued for an absolute sovereign; Locke saw natural rights under natural law and limited government by consent; Rousseau sought freedom through the general will. Mill defended liberty with the harm principle.",
+  "src": { "t": "OpenStax Introduction to Philosophy, Ch. 11 Political Philosophy", "u": "https://openstax.org/books/introduction-philosophy/pages/11-introduction" },
+  "items": [
+    { "c": "Social contract theory", "a": "political authority rests on agreement of the governed", "d": ["political authority rests on birth alone", "political authority rests on force alone"] },
+    { "c": "Hobbes's major political work (1651)", "a": "Leviathan", "d": ["The Social Contract", "Two Treatises of Government", "On Liberty"] },
+    { "c": "Hobbes's picture of the state of nature", "a": "a war of every one against every one", "d": ["a peaceful garden of equals", "a society ruled by natural law courts"] },
+    { "c": "Life without government, in Hobbes's words", "a": "solitary, poor, nasty, brutish, and short", "d": ["free, equal, simple, and happy", "lawful, peaceful, and prosperous"] },
+    { "c": "Main motive for leaving Hobbes's state of nature", "a": "fear of violent death and desire for peace", "d": ["love of one's neighbor", "a command from the church"] },
+    { "c": "Hobbes's sovereign", "a": "absolute and undivided", "d": ["limited by a written constitution", "elected each year"] },
+    { "c": "When subjects' duty to Hobbes's sovereign ends", "a": "when it can no longer protect them", "d": ["whenever they disagree with a law", "never, under any conditions"] },
+    { "c": "Locke's natural rights", "a": "life, liberty, and property", "d": ["speech, assembly, and worship", "food, shelter, and work"] },
+    { "c": "Locke's state of nature", "a": "free and equal, under a law of nature known by reason", "d": ["a war of all against all", "solitary and without any morality"] },
+    { "c": "How property begins, for Locke", "a": "by mixing one's labor with what nature provides", "d": ["by grant from the king", "by agreement of the whole society"] },
+    { "c": "Locke's example of tacit consent", "a": "using the highways or owning land", "d": ["voting in every election", "signing a written oath"] },
+    { "c": "Locke on a government that betrays its trust", "a": "the people may resist and replace it", "d": ["it must be obeyed in all things", "only the church may judge it"] },
+    { "c": "Defender of divine-right monarchy Locke refuted", "a": "Robert Filmer", "d": ["Thomas Hobbes", "Edmund Burke", "Montesquieu"] },
+    { "c": "Locke's case in A Letter Concerning Toleration", "a": "force cannot produce genuine belief", "d": ["the state should choose one faith", "religion is harmful to society"] },
+    { "c": "'Man is born free...everywhere he is in chains'", "a": "Rousseau, The Social Contract", "d": ["Locke, Second Treatise", "Hobbes, Leviathan"] },
+    { "c": "Rousseau's general will", "a": "the citizens' shared will for the common good", "d": ["the sum of private interests", "the will of the strongest faction"] },
+    { "c": "Rousseau's notorious phrase 'forced to be free'", "a": "made to obey the general will one shares", "d": ["sent into exile from the city", "required to own private property"] },
+    { "c": "Rousseau's amour-propre", "a": "self-love that seeks others' esteem", "d": ["simple drive to preserve oneself", "pity for those who suffer"] },
+    { "c": "Rousseau's treatise on education", "a": "Emile", "d": ["Leviathan", "Candide", "The Prince"] },
+    { "c": "Rousseau's main source of social inequality", "a": "private property and social dependence", "d": ["natural differences in strength", "the will of God"] },
+    { "c": "Mill's harm principle", "a": "power over others is justified only to prevent harm to others", "d": ["the state must make citizens virtuous", "the majority may rule on all matters"] },
+    { "c": "Mill's 'tyranny of the majority'", "a": "social pressure that crushes dissent and individuality", "d": ["a king who ignores parliament", "a minority that seizes power"] },
+    { "c": "One of Mill's reasons to protect free speech", "a": "a silenced view may turn out to be true", "d": ["speech has no effects on others", "truth is decided by vote"] },
+    { "c": "Mill's book arguing for women's equality", "a": "The Subjection of Women", "d": ["A Vindication of the Rights of Woman", "The Second Sex"] },
+    { "c": "Plato's ranking of democracy in the Republic", "a": "second worst, just above tyranny", "d": ["the best of all constitutions", "just below aristocracy"] },
+    { "c": "Aristotle's correct forms of rule", "a": "monarchy, aristocracy, polity", "d": ["tyranny, oligarchy, democracy", "monarchy, oligarchy, tyranny"] },
+    { "c": "Montesquieu's best-known political idea", "a": "separation of powers", "d": ["the general will", "the harm principle"] },
+    { "c": "Rawls's veil of ignorance", "a": "choosing principles without knowing your place in society", "d": ["obeying laws you have never read", "ignoring the consequences of a policy"] },
+    { "c": "Rawls's difference principle", "a": "inequalities must benefit the least advantaged", "d": ["all must have exactly equal wealth", "the state should not tax anyone"] },
+    { "c": "Kind of state Nozick defends", "a": "a minimal state", "d": ["a socialist state", "no state at all"] },
+    { "c": "Edmund Burke's political outlook", "a": "conservatism: prudent reform over abstract revolution", "d": ["anarchism: abolish all government", "socialism: abolish private property"] },
+    { "c": "Marx's engine of history", "a": "class struggle", "d": ["the general will", "the social contract"] }
+  ],
+  "read": {
+    "title": "Imagining life without government",
+    "text": [
+      "Why should anyone obey the state? Early modern philosophers answered by imagining a state of nature, life with no common authority, and asking what reasonable people would agree to.",
+      "Thomas Hobbes, writing after the English Civil War, held that people in such a condition are roughly equal in their power to harm one another, and that competition and fear would make life a war of everyone against everyone. To escape, they covenant to hand their power to a sovereign whose authority is absolute, because divided authority invites renewed war.",
+      "John Locke disagreed. Even in the state of nature people are bound by a law of nature, knowable by reason, forbidding harm to anyone's life, liberty, or property. People form governments by consent to protect these rights more reliably. A government that violates them breaks its trust, and the people may replace it.",
+      "Jean-Jacques Rousseau argued that society had corrupted natural human goodness through property and competition. A legitimate state would let each citizen obey only laws he helps make, as a member of the people expressing the general will.",
+      "John Stuart Mill later asked a related question: how far may society, by law or by social pressure, control an individual? Only, he answered, to prevent harm to others."
+    ],
+    "q": [
+      { "q": "Why does Hobbes want the sovereign's power undivided?", "o": ["Divided authority invites renewed war", "God commands it", "The people prefer it"], "k": 0 },
+      { "q": "How does Locke's state of nature differ from Hobbes's?", "o": ["It already has a binding law of nature", "It has a king", "It is a constant war"], "k": 0 },
+      { "q": "For Mill, when may society control an individual?", "o": ["Whenever the majority wishes", "Only to prevent harm to others", "Never"], "k": 1 }
+    ]
+  }
+}

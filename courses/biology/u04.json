@@ -1,0 +1,53 @@
+{
+  "title": "Membranes and transport",
+  "note": "The plasma membrane is a fluid phospholipid bilayer studded with proteins. Small nonpolar molecules slip through; ions and polar molecules need protein channels or carriers. Passive transport runs down a gradient with no ATP; active transport pushes substances against a gradient and costs energy.",
+  "src": { "t": "OpenStax Biology 2e, Ch. 5: Structure and Function of Plasma Membranes", "u": "https://openstax.org/books/biology-2e/pages/5-introduction" },
+  "items": [
+    { "c": "Fluid mosaic model", "a": "Proteins move within a fluid phospholipid bilayer", "d": ["Proteins form rigid layers on both sides of lipids", "Lipids float within a fixed sheet of protein"] },
+    { "c": "Integral membrane protein", "a": "Protein embedded in the bilayer, often spanning it", "d": ["Protein loosely attached to the membrane surface", "Protein dissolved in the cytoplasm"] },
+    { "c": "Peripheral membrane protein", "a": "Protein loosely attached to a membrane surface", "d": ["Protein that spans the whole bilayer", "Protein buried in the hydrophobic core"] },
+    { "c": "Main job of membrane carbohydrate chains", "a": "Cell–cell recognition", "d": ["ATP synthesis", "Lipid storage"], "ex": "Glycoproteins and glycolipids act as identity markers." },
+    { "c": "Cholesterol in animal cell membranes", "a": "Buffers membrane fluidity across temperatures", "d": ["Forms channels for water", "Pumps sodium out of the cell"] },
+    { "c": "Effect of more unsaturated fatty acid tails", "a": "Membrane stays more fluid", "d": ["Membrane becomes more rigid", "Membrane becomes freely permeable to ions"] },
+    { "c": "Selective permeability", "a": "Lets some substances cross more easily than others", "d": ["Lets all substances cross equally", "Blocks all substances except water"] },
+    { "c": "Crosses the lipid bilayer most easily", "a": "Small nonpolar molecules such as O2 and CO2", "d": ["Ions such as Na+ and K+", "Large polar molecules such as glucose"] },
+    { "c": "Passive transport", "a": "Movement down a gradient with no ATP spent", "d": ["Movement up a gradient using ATP", "Movement in vesicles that bud from the membrane"] },
+    { "c": "Diffusion", "a": "Net movement from higher to lower concentration", "d": ["Net movement from lower to higher concentration", "Movement of water only, through channels"] },
+    { "c": "Facilitated diffusion", "a": "Passive movement through transport proteins", "d": ["Active movement through ATP-driven pumps", "Uptake of fluid in small vesicles"] },
+    { "c": "Aquaporin", "a": "Channel protein that lets water cross rapidly", "d": ["Pump that moves sodium out of cells", "Receptor that binds water-soluble hormones"] },
+    { "c": "Carrier protein", "a": "Binds a solute and changes shape to move it", "d": ["Forms a constantly open hydrophilic pore", "Wraps a solute in a membrane vesicle"] },
+    { "c": "Osmosis", "a": "Diffusion of water across a selectively permeable membrane", "d": ["Diffusion of solutes through open channels", "Pumping of water out of the cell with ATP"] },
+    { "c": "Animal cell placed in a hypertonic solution", "a": "Shrinks as water leaves", "d": ["Swells and may burst", "Stays the same size"] },
+    { "c": "Animal cell placed in a hypotonic solution", "a": "Swells and may burst", "d": ["Shrinks as water leaves", "Stays the same size"] },
+    { "c": "Cell placed in an isotonic solution", "a": "No net movement of water", "d": ["Net water flow into the cell", "Net water flow out of the cell"] },
+    { "c": "Plant cell placed in a hypotonic solution", "a": "Becomes turgid; the wall prevents bursting", "d": ["Bursts because walls are permeable", "Undergoes plasmolysis"] },
+    { "c": "Plasmolysis", "a": "Plant membrane pulls away from the wall as water leaves", "d": ["Plant cell bursts after taking in water", "Plant wall thickens in dry conditions"] },
+    { "c": "Electrochemical gradient", "a": "Combined concentration and electrical gradient", "d": ["Gradient of temperature across a membrane", "Gradient of water pressure in plant cells"] },
+    { "c": "Active transport", "a": "Moves solutes against their gradient using energy", "d": ["Moves solutes down their gradient without energy", "Moves only water across membranes"] },
+    { "c": "Sodium-potassium pump, per ATP", "a": "3 Na+ out and 2 K+ in", "d": ["2 Na+ out and 3 K+ in", "3 K+ out and 2 Na+ in"], "ex": "This makes the cell's inside negative relative to outside." },
+    { "c": "Uniporter", "a": "Carries one specific solute in one direction", "d": ["Moves two solutes the same direction", "Moves two solutes opposite directions"] },
+    { "c": "Symporter", "a": "Moves two solutes in the same direction", "d": ["Moves two solutes in opposite directions", "Carries one solute in one direction"] },
+    { "c": "Antiporter", "a": "Moves two solutes in opposite directions", "d": ["Moves two solutes in the same direction", "Carries one solute in one direction"], "ex": "The sodium-potassium pump is an antiporter." },
+    { "c": "Secondary active transport", "a": "Uses an ion gradient made by a pump to move another solute", "d": ["Uses ATP directly at the transporter", "Moves solutes in vesicles"] },
+    { "c": "Endocytosis", "a": "Bringing material in by folding the membrane into vesicles", "d": ["Releasing material by fusing vesicles with the membrane", "Moving solutes through protein channels"] },
+    { "c": "Phagocytosis", "a": "Engulfing large particles or whole cells", "d": ["Taking in droplets of extracellular fluid", "Releasing proteins from secretory vesicles"] },
+    { "c": "Pinocytosis", "a": "Taking in small droplets of extracellular fluid", "d": ["Engulfing large particles or whole cells", "Pumping ions across with ATP"] },
+    { "c": "Receptor-mediated endocytosis", "a": "Uptake of specific molecules bound to surface receptors", "d": ["Nonspecific uptake of any fluid nearby", "Release of hormones from vesicles"] },
+    { "c": "Clathrin", "a": "Protein coating pits used in receptor-mediated endocytosis", "d": ["Channel protein for water", "Enzyme that hydrolyzes ATP in pumps"] },
+    { "c": "Exocytosis", "a": "Vesicles fuse with the membrane to release contents outside", "d": ["Membrane folds inward to bring in particles", "Solutes leak out through open channels"] }
+  ],
+  "read": {
+    "title": "Getting across the membrane",
+    "text": [
+      "The plasma membrane is mostly a double layer of phospholipids, with hydrophilic heads facing the watery fluids on each side and hydrophobic tails tucked inside. That oily core decides what can pass. Small nonpolar molecules such as oxygen and carbon dioxide dissolve in it and diffuse straight through. Ions and large polar molecules such as glucose cannot.",
+      "For those, cells use proteins. Channel proteins form water-filled pores; aquaporins, for example, let water stream across. Carrier proteins bind a solute and change shape to release it on the other side. When substances move this way from high to low concentration, the process is facilitated diffusion, and it needs no ATP.",
+      "Water itself moves by osmosis toward the side with more dissolved solute. A red blood cell in pure water swells and can burst, while one in very salty water shrivels. A plant cell in pure water simply becomes firm, because its wall pushes back.",
+      "Sometimes a cell must move a substance uphill, against its gradient. That is active transport, and it costs energy. The sodium-potassium pump spends one ATP to move three sodium ions out and two potassium ions in. The gradients it builds then power other transporters."
+    ],
+    "q": [
+      { "q": "Why can oxygen cross the membrane without a protein?", "o": ["It is small and nonpolar", "It carries a positive charge", "It binds to aquaporins", "It is pumped by ATP"], "k": 0 },
+      { "q": "What happens to a red blood cell placed in pure water?", "o": ["It shrivels", "It swells and may burst", "Nothing changes"], "k": 1 },
+      { "q": "What makes the sodium-potassium pump active transport?", "o": ["It moves water", "It uses a channel", "It moves ions against their gradients using ATP"], "k": 2 }
+    ]
+  }
+}

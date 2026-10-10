@@ -1,0 +1,194 @@
+{
+  "title": "Plato, the Apology",
+  "note": "Plato's Apology gives Socrates' defense at his trial in Athens in 399 BC on charges of impiety and corrupting the young. Here Socrates tells the jury that condemning him would harm Athens more than it would harm him.",
+  "src": {
+    "t": "Apology, by Plato, tr. Benjamin Jowett, Project Gutenberg eBook #1656",
+    "u": "https://www.gutenberg.org/ebooks/1656"
+  },
+  "items": [
+    {
+      "c": "Apology (from Greek apologia)",
+      "a": "a speech of defense",
+      "d": [
+        "an expression of regret",
+        "a plea for mercy"
+      ]
+    },
+    {
+      "c": "Year of Socrates' trial",
+      "a": "399 BC",
+      "d": [
+        "469 BC",
+        "347 BC",
+        "323 BC"
+      ]
+    },
+    {
+      "c": "Charges brought against Socrates",
+      "a": "impiety and corrupting the young",
+      "d": [
+        "treason and theft",
+        "murder and bribery"
+      ]
+    },
+    {
+      "c": "gadfly",
+      "a": "a biting fly that goads livestock",
+      "d": [
+        "a bee that makes honey",
+        "a moth drawn to light"
+      ]
+    },
+    {
+      "c": "The 'great and noble steed' in the Apology",
+      "a": "the state of Athens",
+      "d": [
+        "the jury",
+        "Socrates himself"
+      ]
+    },
+    {
+      "c": "tardy (Apology)",
+      "a": "slow",
+      "d": [
+        "proud",
+        "wild"
+      ]
+    },
+    {
+      "c": "What the gadfly does for the sluggish steed",
+      "a": "rouses it into motion",
+      "d": [
+        "leads it to water",
+        "calms it down"
+      ]
+    },
+    {
+      "c": "a ludicrous figure of speech",
+      "a": "an absurd-sounding comparison",
+      "d": [
+        "an insulting accusation",
+        "a solemn religious oath"
+      ]
+    },
+    {
+      "c": "exhorting",
+      "a": "urging strongly",
+      "d": [
+        "forbidding",
+        "pardoning"
+      ]
+    },
+    {
+      "c": "impudence",
+      "a": "shameless boldness",
+      "d": [
+        "careful honesty",
+        "fearful silence"
+      ]
+    },
+    {
+      "c": "exacted (Apology)",
+      "a": "demanded",
+      "d": [
+        "refused",
+        "repaid"
+      ]
+    },
+    {
+      "c": "out of temper (Apology)",
+      "a": "irritated",
+      "d": [
+        "out of practice",
+        "out of tune"
+      ]
+    },
+    {
+      "c": "Socrates' 'sufficient witness' to his mission",
+      "a": "his poverty",
+      "d": [
+        "his friend Plato",
+        "the oracle at Delphi"
+      ]
+    },
+    {
+      "c": "Accuser who, Socrates says, advises his death",
+      "a": "Anytus",
+      "d": [
+        "Crito",
+        "Phaedo",
+        "Alcibiades"
+      ]
+    },
+    {
+      "c": "Socrates: the unexamined life is...",
+      "a": "not worth living",
+      "d": [
+        "the happiest life",
+        "the safest life"
+      ]
+    },
+    {
+      "c": "How Socrates was executed",
+      "a": "by drinking hemlock",
+      "d": [
+        "by stoning",
+        "by beheading",
+        "by crucifixion"
+      ]
+    },
+    {
+      "c": "Socrates' pupil who wrote this Apology",
+      "a": "Plato",
+      "d": [
+        "Aristotle",
+        "Aristophanes",
+        "Thucydides"
+      ]
+    },
+    {
+      "c": "Translator of this Apology",
+      "a": "Benjamin Jowett",
+      "d": [
+        "George Long",
+        "H. R. James",
+        "E. B. Pusey"
+      ]
+    }
+  ],
+  "read": {
+    "title": "The Apology: the gadfly",
+    "text": [
+      "And now, Athenians, I am not going to argue for my own sake, as you may think, but for yours, that you may not sin against the God by condemning me, who am his gift to you. For if you kill me you will not easily find a successor to me, who, if I may use such a ludicrous figure of speech, am a sort of gadfly, given to the state by God; and the state is a great and noble steed who is tardy in his motions owing to his very size, and requires to be stirred into life. I am that gadfly which God has attached to the state, and all day long and in all places am always fastening upon you, arousing and persuading and reproaching you. You will not easily find another like me, and therefore I would advise you to spare me. I dare say that you may feel out of temper (like a person who is suddenly awakened from sleep), and you think that you might easily strike me dead as Anytus advises, and then you would sleep on for the remainder of your lives, unless God in his care of you sent you another gadfly. When I say that I am given to you by God, the proof of my mission is this:—if I had been like other men, I should not have neglected all my own concerns or patiently seen the neglect of them during all these years, and have been doing yours, coming to you individually like a father or elder brother, exhorting you to regard virtue; such conduct, I say, would be unlike human nature. If I had gained anything, or if my exhortations had been paid, there would have been some sense in my doing so; but now, as you will perceive, not even the impudence of my accusers dares to say that I have ever exacted or sought pay of any one; of that they have no witness. And I have a sufficient witness to the truth of what I say—my poverty."
+    ],
+    "q": [
+      {
+        "q": "What is Socrates' main argument here?",
+        "o": [
+          "Athens needs him as a God-given critic and would harm itself by killing him",
+          "He begs for mercy for his family's sake",
+          "He admits the charges and asks for a small fine"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why would the Athenians 'sleep on for the remainder of your lives' without him?",
+        "o": [
+          "No one else would keep rousing them to examine themselves and care for virtue",
+          "The city would finally be at peace",
+          "The jurors were tired from the long trial"
+        ],
+        "k": 0
+      },
+      {
+        "q": "'Like a father or elder brother' describes how Socrates:",
+        "o": [
+          "personally urged each citizen toward virtue",
+          "demanded obedience from the young",
+          "inherited his mission from his family"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

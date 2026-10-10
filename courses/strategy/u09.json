@@ -1,0 +1,48 @@
+{
+  "title": "Logistics: moving and feeding armies",
+  "note": "Logistics is the practical art of moving, supplying and sustaining forces. Strategy chooses where to act; logistics decides whether forces can get there and keep fighting. Many campaigns were decided less by battles than by fuel, food, ports and the length of the lines of communication behind the front.",
+  "src": {"t": "Jomini, The Art of War, tr. Mendell and Craighill, Project Gutenberg", "u": "https://www.gutenberg.org/ebooks/13549"},
+  "items": [
+    {"c": "\"Amateurs talk tactics, professionals talk ___\"", "a": "logistics", "d": ["strategy", "politics"], "ex": "A military saying of uncertain origin, often credited to US generals."},
+    {"c": "Logistics, in Jomini's phrase", "a": "The practical art of moving armies", "d": ["The art of fighting on the battlefield", "The art of making war upon the map"]},
+    {"c": "Strategy, in Jomini's phrase", "a": "The art of making war upon the map", "d": ["The practical art of moving armies", "The art of posting troops on the field"]},
+    {"c": "Jomini: strategy decides where to act; logistics", "a": "Brings the troops to that point", "d": ["Decides how the troops will fight", "Chooses the political aim"]},
+    {"c": "Jomini: grand tactics decides", "a": "The manner of execution and use of troops", "d": ["Where to act in the theater", "How to feed and lodge the troops"]},
+    {"c": "Jomini: \"logistics\" comes from the title of", "a": "The officer who lodged and camped the troops", "d": ["The army's chief paymaster", "The king's master of horse"]},
+    {"c": "Lines of communication", "a": "Routes linking a force to its bases of supply", "d": ["Telegraph wires between capitals", "Chains of command in a staff"]},
+    {"c": "Base of operations", "a": "The area from which a force draws supplies and reinforcements", "d": ["The final objective of a campaign", "The ground where a battle is fought"]},
+    {"c": "Tooth-to-tail ratio", "a": "Combat troops compared with support troops", "d": ["Officers compared with enlisted men", "Tanks compared with aircraft"]},
+    {"c": "Why long advances often slow down", "a": "Supply lines lengthen as the enemy falls back on his own", "d": ["Soldiers forget their training", "Maps grow less accurate"]},
+    {"c": "\"Marius's mules\"", "a": "Roman legionaries who carried their own gear", "d": ["Pack animals of Hannibal's army", "Napoleon's supply wagons"]},
+    {"c": "Moltke the Elder's tool for fast mobilization", "a": "Railways", "d": ["Airships", "Canals"]},
+    {"c": "Sherman's March to the Sea, 1864", "a": "Cut loose from supply lines and lived off the land", "d": ["Was supplied entirely by river boats", "Halted for lack of supplies at Atlanta"]},
+    {"c": "Why Rommel's desert advances kept stalling", "a": "His supplies came over vast distances from distant ports", "d": ["His tanks could not cross sand", "Hitler forbade any attack"]},
+    {"c": "Barbarossa rail problem for Germany", "a": "Soviet broad-gauge track had to be converted", "d": ["Soviet trains ran on coal Germany lacked", "Germany had no rail lines to its border"]},
+    {"c": "Lend-Lease (from 1941)", "a": "US supply of war materiel to Allied nations", "d": ["US loans to rebuild Europe after 1945", "A British tax to pay for the war"]},
+    {"c": "Liberty ships", "a": "Mass-produced US cargo ships of World War II", "d": ["Fast US Navy aircraft carriers", "Hospital ships for wounded troops"]},
+    {"c": "Mulberry harbours", "a": "Portable artificial harbors used off Normandy", "d": ["Fortified ports on the German coast", "Floating hospitals in the Channel"]},
+    {"c": "PLUTO (1944)", "a": "Fuel pipelines laid under the English Channel", "d": ["A code for the Normandy beaches", "A plan to bomb German oil fields"]},
+    {"c": "Red Ball Express", "a": "Truck convoys supplying Allied armies across France", "d": ["A train carrying gold out of Paris", "Express mail for soldiers' letters"]},
+    {"c": "Why Patton's Third Army halted in September 1944", "a": "It ran short of fuel", "d": ["It ran into the Atlantic Wall", "It was ordered to invade Italy"]},
+    {"c": "Why the Allies needed Antwerp in 1944", "a": "A large deep-water port for supplies", "d": ["Its factories built tanks", "It was Germany's capital"]},
+    {"c": "\"The Hump\"", "a": "Airlift route over the Himalayas to China", "d": ["A hill fortress on Okinawa", "A supply road across the Sahara"]},
+    {"c": "Berlin Airlift, 1948 to 1949", "a": "Supplying West Berlin by air during a Soviet blockade", "d": ["Evacuating Berlin before the Soviets arrived", "Bombing Berlin to end the war"]},
+    {"c": "Germany's aim in the Battle of the Atlantic", "a": "Sink the convoys supplying Britain", "d": ["Invade Iceland and Greenland", "Destroy the US Pacific Fleet"]},
+    {"c": "Culmination, in logistics terms", "a": "When a force can no longer sustain its advance", "d": ["When a force reaches maximum size", "When supplies are fully stocked"]},
+    {"c": "Sun Tzu on the strain of distant campaigns", "a": "Supplying an army at a distance impoverishes the people", "d": ["Distant wars enrich the treasury", "Distance makes armies stronger"]},
+    {"c": "\"Just in time\" supply", "a": "Delivering stock only as it is needed, with little reserve", "d": ["Stockpiling large reserves in advance", "Supplying only the front-line units"]},
+    {"c": "Trade-off of lean, just-in-time supply chains", "a": "Efficient, but fragile when disrupted", "d": ["Costly, but immune to disruption", "Slow, but always fully stocked"]}
+  ],
+  "read": {
+    "title": "Jomini on the parts of the art of war",
+    "text": [
+      "From Jomini, The Art of War (1838), tr. Mendell and Craighill:",
+      "The maneuvering of an army upon the battle-field, and the different formations of troops for attack, constitute Grand Tactics. Logistics is the art of moving armies. It comprises the order and details of marches and camps, and of quartering and supplying troops; in a word, it is the execution of strategical and tactical enterprises. To repeat. Strategy is the art of making war upon the map, and comprehends the whole theater of operations. Grand Tactics is the art of posting troops upon the battle-field according to the accidents of the ground, of bringing them into action, and the art of fighting upon the ground, in contradistinction to planning upon a map. Its operations may extend over a field of ten or twelve miles in extent. Logistics comprises the means and arrangements which work out the plans of strategy and tactics. Strategy decides where to act; logistics brings the troops to this point; grand tactics decides the manner of execution and the employment of the troops."
+    ],
+    "q": [
+      {"q": "According to Jomini, what does logistics do?", "o": ["Decides where to act", "Brings the troops to the point where strategy decides to act", "Decides the manner of fighting"], "k": 1},
+      {"q": "How does Jomini contrast strategy and grand tactics?", "o": ["Strategy is war upon the map; grand tactics is fighting upon the ground", "Strategy is for navies; grand tactics for armies", "They are the same thing"], "k": 0},
+      {"q": "What does logistics comprise, per Jomini?", "o": ["Only the training of recruits", "The diplomacy before a war", "The means and arrangements that work out the plans of strategy and tactics"], "k": 2}
+    ]
+  }
+}

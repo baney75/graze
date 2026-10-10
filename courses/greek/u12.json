@@ -1,0 +1,362 @@
+{
+  "title": "Adjectives",
+  "note": "Adjectives agree with their noun in gender, number and case; most use first- and second-declension endings: ἀγαθός, ἀγαθή, ἀγαθόν. After the article an adjective is attributive: ὁ ἀγαθὸς λόγος or ὁ λόγος ὁ ἀγαθός, 'the good word'. Outside the article it is a predicate: ἀγαθὸς ὁ λόγος, 'the word is good'. Some adjectives use one form for masculine and feminine: αἰώνιος.",
+  "src": {
+    "t": "Dickinson College Commentaries, Greek Core Vocabulary",
+    "u": "https://dcc.dickinson.edu/greek-core-list"
+  },
+  "items": [
+    {
+      "c": "ἀγαθός, -ή, -όν",
+      "a": "good",
+      "d": [
+        "bad, evil",
+        "wise"
+      ],
+      "ex": "τὸ ἀγαθόν",
+      "exT": "the good",
+      "r": "agathos",
+      "say": "ἀγαθός"
+    },
+    {
+      "c": "κακός, -ή, -όν",
+      "a": "bad, evil; cowardly",
+      "d": [
+        "good; brave",
+        "small; short"
+      ],
+      "r": "kakos",
+      "say": "κακός",
+      "ex": "κακὸν ἀντὶ κακοῦ",
+      "exT": "evil for evil"
+    },
+    {
+      "c": "καλός, -ή, -όν",
+      "a": "beautiful, fine, noble",
+      "d": [
+        "ugly, shameful",
+        "holy, sacred"
+      ],
+      "r": "kalos",
+      "say": "καλός",
+      "ex": "καλὰ ἔργα",
+      "exT": "good works"
+    },
+    {
+      "c": "πονηρός, -ά, -όν",
+      "a": "wicked, evil",
+      "d": [
+        "righteous, just",
+        "blessed, happy"
+      ],
+      "ex": "ἀπὸ τοῦ πονηροῦ",
+      "exT": "from evil (or from the evil one)",
+      "r": "ponēros",
+      "say": "πονηρός"
+    },
+    {
+      "c": "δίκαιος, -α, -ον",
+      "a": "righteous, just",
+      "d": [
+        "wicked, evil",
+        "faithful"
+      ],
+      "r": "dikaios",
+      "say": "δίκαιος",
+      "ex": "ὁ δίκαιος ἐκ πίστεως ζήσεται.",
+      "exT": "The righteous will live by faith."
+    },
+    {
+      "c": "ἅγιος, -α, -ον",
+      "a": "holy",
+      "d": [
+        "blessed, happy",
+        "eternal"
+      ],
+      "r": "hagios",
+      "say": "ἅγιος",
+      "ex": "ὁ ἅγιος τοῦ θεοῦ",
+      "exT": "the Holy One of God"
+    },
+    {
+      "c": "πιστός, -ή, -όν",
+      "a": "faithful, believing",
+      "d": [
+        "righteous, just",
+        "beloved"
+      ],
+      "r": "pistos",
+      "say": "πιστός",
+      "ex": "πιστὸς ὁ θεός.",
+      "exT": "God is faithful."
+    },
+    {
+      "c": "νεκρός, -ά, -όν",
+      "a": "dead",
+      "d": [
+        "blind",
+        "alive"
+      ],
+      "ex": "ἐκ νεκρῶν",
+      "exT": "from the dead",
+      "r": "nekros",
+      "say": "νεκρός"
+    },
+    {
+      "c": "ἀληθής, -ές",
+      "a": "true",
+      "d": [
+        "false",
+        "free"
+      ],
+      "r": "alēthēs",
+      "say": "ἀληθής",
+      "ex": "ὁ θεὸς ἀληθής ἐστιν.",
+      "exT": "God is true."
+    },
+    {
+      "c": "αἰώνιος, -ον",
+      "a": "eternal",
+      "d": [
+        "holy",
+        "first"
+      ],
+      "ex": "ζωὴ αἰώνιος",
+      "exT": "eternal life",
+      "r": "aiōnios",
+      "say": "αἰώνιος"
+    },
+    {
+      "c": "πρῶτος, -η, -ον",
+      "a": "first",
+      "d": [
+        "last",
+        "only"
+      ],
+      "r": "prōtos",
+      "say": "πρῶτος",
+      "ex": "οἱ ἔσχατοι πρῶτοι",
+      "exT": "the last (will be) first"
+    },
+    {
+      "c": "ἔσχατος, -η, -ον",
+      "a": "last",
+      "d": [
+        "first",
+        "whole"
+      ],
+      "r": "eschatos",
+      "say": "ἔσχατος"
+    },
+    {
+      "c": "μόνος, -η, -ον",
+      "a": "alone, only",
+      "d": [
+        "whole, entire",
+        "other, another"
+      ],
+      "r": "monos",
+      "say": "μόνος",
+      "ex": "τὸν μόνον ἀληθινὸν θεόν",
+      "exT": "the only true God"
+    },
+    {
+      "c": "ἄλλος, -η, -ο",
+      "a": "other, another",
+      "d": [
+        "alone, only",
+        "same"
+      ],
+      "r": "allos",
+      "say": "ἄλλος"
+    },
+    {
+      "c": "ὅλος, -η, -ον",
+      "a": "whole, entire",
+      "d": [
+        "each, every",
+        "alone, only"
+      ],
+      "ex": "ὅλος ὁ κόσμος",
+      "exT": "the whole world",
+      "r": "holos",
+      "say": "ὅλος"
+    },
+    {
+      "c": "μακάριος, -α, -ον",
+      "a": "blessed, happy",
+      "d": [
+        "holy",
+        "beloved"
+      ],
+      "r": "makarios",
+      "say": "μακάριος"
+    },
+    {
+      "c": "σοφός, -ή, -όν",
+      "a": "wise",
+      "d": [
+        "foolish",
+        "true"
+      ],
+      "r": "sophos",
+      "say": "σοφός",
+      "ex": "ποῦ σοφός;",
+      "exT": "Where is the wise man?"
+    },
+    {
+      "c": "μικρός, -ά, -όν",
+      "a": "small, little",
+      "d": [
+        "great, large",
+        "few"
+      ],
+      "r": "mikros",
+      "say": "μικρός"
+    },
+    {
+      "c": "πᾶς, πᾶσα, πᾶν",
+      "a": "all, every, whole",
+      "d": [
+        "many, much",
+        "alone, only"
+      ],
+      "ex": "πᾶς ὁ πιστεύων",
+      "exT": "everyone who believes",
+      "r": "pas, pasa, pan"
+    },
+    {
+      "c": "πολύς, πολλή, πολύ",
+      "a": "much; (plural) many",
+      "d": [
+        "all; every",
+        "great; large"
+      ],
+      "r": "polys, pollē, poly"
+    },
+    {
+      "c": "μέγας, μεγάλη, μέγα",
+      "a": "great, large",
+      "d": [
+        "much; many",
+        "small, little"
+      ],
+      "r": "megas, megalē, mega",
+      "ex": "φωνὴ μεγάλη",
+      "exT": "a loud voice"
+    },
+    {
+      "c": "ἴδιος, -α, -ον",
+      "a": "one's own",
+      "d": [
+        "another's",
+        "common, shared"
+      ],
+      "ex": "εἰς τὰ ἴδια ἦλθεν",
+      "exT": "he came to his own",
+      "r": "idios",
+      "say": "ἴδιος"
+    },
+    {
+      "c": "ἀγαπητός, -ή, -όν",
+      "a": "beloved, dear",
+      "d": [
+        "faithful, believing",
+        "blessed, happy"
+      ],
+      "r": "agapētos",
+      "say": "ἀγαπητός"
+    },
+    {
+      "c": "τυφλός, -ή, -όν",
+      "a": "blind",
+      "d": [
+        "deaf",
+        "lame"
+      ],
+      "r": "typhlos",
+      "say": "τυφλός",
+      "ex": "τυφλοὶ ἀναβλέπουσιν.",
+      "exT": "The blind see again."
+    },
+    {
+      "c": "ἐλεύθερος, -α, -ον",
+      "a": "free",
+      "d": [
+        "slave",
+        "true"
+      ],
+      "r": "eleutheros",
+      "say": "ἐλεύθερος"
+    },
+    {
+      "c": "μείζων, -ον",
+      "a": "greater",
+      "d": [
+        "smaller",
+        "greatest"
+      ],
+      "r": "meizōn",
+      "say": "μείζων"
+    },
+    {
+      "c": "ὁ ποιμὴν ὁ ___ (the good shepherd; καλός)",
+      "a": "καλός",
+      "d": [
+        "καλή",
+        "καλόν"
+      ]
+    },
+    {
+      "c": "ἡ ___ ἡμέρα (the last day; ἔσχατος)",
+      "a": "ἐσχάτη",
+      "d": [
+        "ἔσχατος",
+        "ἐσχάτῳ"
+      ]
+    },
+    {
+      "c": "τὸ πνεῦμα τὸ ___ (the Holy Spirit; ἅγιος)",
+      "a": "ἅγιον",
+      "d": [
+        "ἅγιος",
+        "ἁγία"
+      ]
+    },
+    {
+      "c": "ὁ νόμος ___. (the law is holy; ἅγιος)",
+      "a": "ἅγιος",
+      "d": [
+        "ἁγία",
+        "ἁγίου"
+      ]
+    },
+    {
+      "c": "ὁ ἀγαθὸς ἄνθρωπος",
+      "a": "the good man",
+      "d": [
+        "The man is good.",
+        "a man of good things"
+      ],
+      "r": "ho agathos anthrōpos"
+    },
+    {
+      "c": "ἀγαθὸς ὁ ἄνθρωπος.",
+      "a": "The man is good.",
+      "d": [
+        "the good man",
+        "Be good, man!"
+      ],
+      "r": "agathos ho anthrōpos."
+    },
+    {
+      "c": "μακάριοι οἱ πτωχοί.",
+      "a": "Blessed are the poor.",
+      "d": [
+        "The poor bless.",
+        "the blessed poor"
+      ],
+      "r": "makarioi hoi ptōchoi."
+    }
+  ]
+}

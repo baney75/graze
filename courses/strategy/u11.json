@@ -1,0 +1,52 @@
+{
+  "title": "Sea power and air power",
+  "note": "Mahan argued that national greatness rests on sea power and a concentrated battle fleet that wins command of the sea. Corbett answered that command of the sea means control of maritime communications and that wars are decided on land. Douhet later claimed air power could win wars alone by bombing, a promise that World War II only partly bore out.",
+  "src": {"t": "Corbett, Some Principles of Maritime Strategy, Project Gutenberg", "u": "https://www.gutenberg.org/ebooks/15076"},
+  "items": [
+    {"c": "Alfred Thayer Mahan served in", "a": "The US Navy", "d": ["The Royal Navy", "The US Army"]},
+    {"c": "Mahan's most famous book (1890)", "a": "The Influence of Sea Power upon History", "d": ["Some Principles of Maritime Strategy", "The Command of the Air"]},
+    {"c": "Mahan's image of the sea", "a": "A great highway, or a wide common", "d": ["A barrier no army can cross", "A desert empty of value"]},
+    {"c": "Mahan's main prescription for sea power", "a": "A concentrated battle fleet to win command of the sea", "d": ["Many small raiders to attack trade", "Coastal forts instead of warships"]},
+    {"c": "One of Mahan's conditions of sea power", "a": "Geographical position", "d": ["Number of fortresses", "Size of the cavalry"], "ex": "His six: position, physical conformation, extent of territory, population, character of the people, character of the government."},
+    {"c": "Julian Corbett's 1911 book", "a": "Some Principles of Maritime Strategy", "d": ["The Influence of Sea Power upon History", "The Art of War"]},
+    {"c": "Corbett: command of the sea means", "a": "Control of maritime communications", "d": ["Conquest of enemy coastal territory", "Owning more battleships than rivals"]},
+    {"c": "Corbett: the normal state of the sea in war", "a": "Uncommanded, with neither side in control", "d": ["Firmly commanded by the stronger fleet", "Closed to all merchant traffic"]},
+    {"c": "Corbett: why sea power alone rarely decides", "a": "Men live upon the land, not the sea", "d": ["Fleets are too costly to risk", "Storms decide naval battles"]},
+    {"c": "Fleet in being", "a": "A weaker fleet kept intact and active, deterring enemy moves", "d": ["A fleet still under construction in dockyards", "A fleet that seeks battle at any cost"], "ex": "Corbett notes Torrington did not mean a fleet hiding safe in port."},
+    {"c": "Admiral behind the 1690 \"fleet in being\"", "a": "Lord Torrington", "d": ["Horatio Nelson", "John Jellicoe"]},
+    {"c": "Sea lines of communication (SLOCs)", "a": "Maritime routes for trade and military supply", "d": ["Undersea telegraph cables only", "Naval signal flags"]},
+    {"c": "Naval blockade", "a": "Cutting off an enemy's ports and seaborne trade", "d": ["Sinking ships in the open ocean only", "A treaty limiting fleet sizes"]},
+    {"c": "Admiral killed winning at Trafalgar", "a": "Horatio Nelson", "d": ["John Jervis", "Pierre Villeneuve"]},
+    {"c": "HMS Dreadnought (1906)", "a": "An all-big-gun battleship that outclassed older ones", "d": ["The first aircraft carrier", "The first nuclear submarine"]},
+    {"c": "Tsushima, 1905", "a": "Japan destroys the Russian fleet", "d": ["Russia destroys the Japanese fleet", "Britain defeats Germany in the North Sea"]},
+    {"c": "Jutland, 1916", "a": "Largest WWI fleet battle; Britain kept control of the sea", "d": ["German victory that broke the blockade", "First battle fought by aircraft carriers"]},
+    {"c": "Answer that cut U-boat losses in 1917", "a": "Merchant ships sailing in escorted convoys", "d": ["Ships sailing alone at top speed", "Keeping all merchant ships in port"]},
+    {"c": "Capital ship that displaced the battleship", "a": "The aircraft carrier", "d": ["The destroyer", "The cruiser"]},
+    {"c": "Giulio Douhet", "a": "Italian general and theorist of air power", "d": ["French admiral and naval theorist", "German pilot and fighter ace"]},
+    {"c": "Douhet's book (1921)", "a": "The Command of the Air", "d": ["Winged Defense", "The Air Campaign"]},
+    {"c": "Douhet's central claim", "a": "Bombing could break an enemy's will and win wars", "d": ["Aircraft are useful only for scouting", "Navies would always defeat air forces"]},
+    {"c": "US air power advocate court-martialed in 1925", "a": "Billy Mitchell", "d": ["Hap Arnold", "Curtis LeMay"]},
+    {"c": "Mitchell's 1921 bombing tests sank", "a": "The captured German battleship Ostfriesland", "d": ["The British liner Lusitania", "The US battleship Arizona"]},
+    {"c": "First independent air force, founded 1918", "a": "The Royal Air Force", "d": ["The US Air Force", "The Luftwaffe"]},
+    {"c": "\"Father of the RAF\"", "a": "Hugh Trenchard", "d": ["Arthur Harris", "Hugh Dowding"]},
+    {"c": "\"The bomber will always get through\" (1932)", "a": "Stanley Baldwin", "d": ["Winston Churchill", "Giulio Douhet"]},
+    {"c": "Battle of Britain, 1940", "a": "RAF denies the Luftwaffe the air control an invasion needed", "d": ["RAF bombing forces Germany to surrender", "Luftwaffe wins and Britain is invaded"]},
+    {"c": "British technology key in the Battle of Britain", "a": "Radar (Chain Home)", "d": ["Jet fighters", "Guided missiles"]},
+    {"c": "Air superiority", "a": "Enough air control to operate without prohibitive interference", "d": ["Owning more aircraft than the enemy", "Bombing the enemy's cities at will"]}
+  ],
+  "read": {
+    "title": "Mahan and Corbett on the sea",
+    "text": [
+      "From A. T. Mahan, The Influence of Sea Power upon History (1890):",
+      "The first and most obvious light in which the sea presents itself from the political and social point of view is that of a great highway; or better, perhaps, of a wide common, over which men may pass in all directions, but on which some well-worn paths show that controlling reasons have led them to choose certain lines of travel rather than others. These lines of travel are called trade routes; and the reasons which have determined them are to be sought in the history of the world.",
+      "From Julian Corbett, Some Principles of Maritime Strategy (1911):",
+      "Since men live upon the land and not upon the sea, great issues between nations at war have always been decided--except in the rarest cases--either by what your army can do against your enemy's territory and national life or else by the fear of what the fleet makes it possible for your army to do.",
+      "Command of the sea, therefore, means nothing but the control of maritime communications, whether for commercial or military purposes. The object of naval warfare is the control of communications, and not, as in land warfare, the conquest of territory."
+    ],
+    "q": [
+      {"q": "What does Mahan call the regular lines of travel across the sea?", "o": ["Trade routes", "Sea lanes of war", "Fleets in being"], "k": 0},
+      {"q": "According to Corbett, how have great issues between nations usually been decided?", "o": ["By naval battles alone", "By what armies can do on land, or the fear of what the fleet lets them do", "By blockades of neutral trade"], "k": 1},
+      {"q": "What does Corbett say is the object of naval warfare?", "o": ["The conquest of territory", "The destruction of every enemy ship", "The control of communications"], "k": 2}
+    ]
+  }
+}

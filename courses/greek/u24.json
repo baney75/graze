@@ -1,0 +1,306 @@
+{
+  "title": "Plato, Aristotle and Greek sayings",
+  "note": "Classical Attic, the Greek of Plato and Aristotle, is the parent of Koine and reads much the same. Watch for Attic ττ where Koine has σσ (θάλαττα, θάλασσα) and for crasis, two words merged into one (κἀγαθός = καὶ ἀγαθός). Some famous sayings are traditional rather than exact quotations; the notes in parentheses say who said or is credited with each.",
+  "src": {
+    "t": "Scaife Viewer, Perseus Digital Library",
+    "u": "https://scaife.perseus.org/"
+  },
+  "items": [
+    {
+      "c": "γνῶθι σεαυτόν",
+      "a": "Know yourself. (Delphi)",
+      "d": [
+        "Save yourself. (Delphi)",
+        "Love yourself. (Delphi)"
+      ],
+      "r": "gnōthi seauton"
+    },
+    {
+      "c": "μηδὲν ἄγαν",
+      "a": "Nothing in excess. (Delphi)",
+      "d": [
+        "Nothing without effort. (Delphi)",
+        "Nothing is new. (Delphi)"
+      ],
+      "r": "mēden agan"
+    },
+    {
+      "c": "ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ",
+      "a": "The unexamined life is not worth living for a human being. (Socrates)",
+      "d": [
+        "The examined life is too hard for a human being. (Socrates)",
+        "A human life is not worth examining. (Socrates)"
+      ],
+      "r": "ho de anexetastos bios ou biōtos anthrōpō"
+    },
+    {
+      "c": "Πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει.",
+      "a": "All human beings by nature desire to know. (Aristotle)",
+      "d": [
+        "All human beings by nature desire to be happy. (Aristotle)",
+        "By nature few human beings want to know. (Aristotle)"
+      ],
+      "r": "Pantes anthrōpoi tou eidenai oregontai physei."
+    },
+    {
+      "c": "ὁ ἄνθρωπος φύσει πολιτικὸν ζῷον",
+      "a": "A human being is by nature a political animal. (Aristotle)",
+      "d": [
+        "A human being is by nature a rational animal. (Aristotle)",
+        "A human being by nature loves the city. (Aristotle)"
+      ],
+      "r": "ho anthrōpos physei politikon zōon"
+    },
+    {
+      "c": "ἓν οἶδα ὅτι οὐδὲν οἶδα",
+      "a": "I know one thing: that I know nothing. (Socrates)",
+      "d": [
+        "I know nothing about one thing. (Socrates)",
+        "Whoever knows nothing knows all. (Socrates)"
+      ],
+      "r": "hen oida hoti ouden oida"
+    },
+    {
+      "c": "πάντα ῥεῖ",
+      "a": "Everything flows. (Heraclitus)",
+      "d": [
+        "Everything is water. (Heraclitus)",
+        "Everything ends. (Heraclitus)"
+      ],
+      "r": "panta rhei"
+    },
+    {
+      "c": "ἀρχὴ ἥμισυ παντός",
+      "a": "The beginning is half of the whole. (proverb)",
+      "d": [
+        "Half of everything is the end. (proverb)",
+        "Every beginning is hard. (proverb)"
+      ],
+      "r": "archē hēmisy pantos"
+    },
+    {
+      "c": "χαλεπὰ τὰ καλά",
+      "a": "Fine things are hard. (proverb)",
+      "d": [
+        "Hard things are bad. (proverb)",
+        "Beauty is easy. (proverb)"
+      ],
+      "r": "chalepa ta kala"
+    },
+    {
+      "c": "καλὸς κἀγαθός",
+      "a": "noble and good: a true gentleman",
+      "d": [
+        "beautiful but bad: a fraud",
+        "rich and powerful: a tyrant"
+      ],
+      "r": "kalos kagathos"
+    },
+    {
+      "c": "εὐδαιμονία, -ας, ἡ",
+      "a": "happiness, flourishing",
+      "d": [
+        "pleasure, delight",
+        "wealth, prosperity"
+      ],
+      "r": "eudaimonia",
+      "say": "εὐδαιμονία"
+    },
+    {
+      "c": "φιλοσοφία, -ας, ἡ",
+      "a": "philosophy, love of wisdom",
+      "d": [
+        "wisdom, skill",
+        "friendship, affection"
+      ],
+      "r": "philosophia",
+      "say": "φιλοσοφία"
+    },
+    {
+      "c": "ἐπιστήμη, -ης, ἡ",
+      "a": "knowledge, science",
+      "d": [
+        "opinion, belief",
+        "skill, craft"
+      ],
+      "r": "epistēmē",
+      "say": "ἐπιστήμη"
+    },
+    {
+      "c": "τέχνη, -ης, ἡ",
+      "a": "art, skill, craft",
+      "d": [
+        "knowledge, science",
+        "nature"
+      ],
+      "r": "technē",
+      "say": "τέχνη"
+    },
+    {
+      "c": "οὐσία, -ας, ἡ",
+      "a": "being, essence; property",
+      "d": [
+        "form, kind",
+        "nature, growth"
+      ],
+      "r": "ousia",
+      "say": "οὐσία"
+    },
+    {
+      "c": "εἶδος, -ους, τό",
+      "a": "form, shape, kind",
+      "d": [
+        "being, essence",
+        "part, share"
+      ],
+      "r": "eidos",
+      "say": "εἶδος"
+    },
+    {
+      "c": "ἡ τοῦ ἀγαθοῦ ἰδέα",
+      "a": "the Form of the Good (Plato)",
+      "d": [
+        "the good of the city (Plato)",
+        "the Form of the Beautiful (Plato)"
+      ],
+      "r": "hē tou agathou idea"
+    },
+    {
+      "c": "μεσότης, -ητος, ἡ",
+      "a": "the mean, a middle state (Aristotle)",
+      "d": [
+        "excess (Aristotle)",
+        "deficiency (Aristotle)"
+      ],
+      "r": "mesotēs",
+      "say": "μεσότης"
+    },
+    {
+      "c": "ἀθάνατος, -ον",
+      "a": "immortal, deathless",
+      "d": [
+        "mortal",
+        "divine"
+      ],
+      "r": "athanatos",
+      "say": "ἀθάνατος"
+    },
+    {
+      "c": "σῶμα σῆμα",
+      "a": "The body is a tomb. (Platonic wordplay)",
+      "d": [
+        "The body is a temple. (Platonic wordplay)",
+        "The body is the soul. (Platonic wordplay)"
+      ],
+      "r": "sōma sēma"
+    },
+    {
+      "c": "θάλαττα θάλαττα",
+      "a": "The sea! The sea! (Xenophon)",
+      "d": [
+        "Land! Land! (Xenophon)",
+        "Home! Home! (Xenophon)"
+      ],
+      "r": "thalatta thalatta"
+    },
+    {
+      "c": "εὕρηκα",
+      "a": "I have found it! (Archimedes)",
+      "d": [
+        "I have lost it! (Archimedes)",
+        "I have seen it! (Archimedes)"
+      ],
+      "r": "heurēka"
+    },
+    {
+      "c": "μολὼν λαβέ",
+      "a": "Come and take them! (Leonidas)",
+      "d": [
+        "Stand and fight! (Leonidas)",
+        "Come back with your shield! (Leonidas)"
+      ],
+      "r": "molōn labe"
+    },
+    {
+      "c": "ἀεὶ ὁ θεὸς γεωμετρεῖ",
+      "a": "God always does geometry. (credited to Plato)",
+      "d": [
+        "God never plays dice. (credited to Plato)",
+        "God always speaks in riddles. (credited to Plato)"
+      ],
+      "r": "aei ho theos geōmetrei"
+    },
+    {
+      "c": "ἀγεωμέτρητος μηδεὶς εἰσίτω",
+      "a": "Let no one ignorant of geometry enter. (the Academy)",
+      "d": [
+        "Let no one without wisdom speak. (the Academy)",
+        "Let everyone here learn geometry. (the Academy)"
+      ],
+      "r": "ageōmetrētos mēdeis eisitō"
+    },
+    {
+      "c": "Ὁ βίος βραχύς, ἡ δὲ τέχνη μακρή.",
+      "a": "Life is short, and the art is long. (Hippocrates)",
+      "d": [
+        "Life is long, and the art is short. (Hippocrates)",
+        "Life is an art, and art is life. (Hippocrates)"
+      ],
+      "r": "Ho bios brachys, hē de technē makrē."
+    },
+    {
+      "c": "πάντων χρημάτων μέτρον ἐστὶν ἄνθρωπος",
+      "a": "A human being is the measure of all things. (Protagoras)",
+      "d": [
+        "God is the measure of all things. (Protagoras)",
+        "Money is the measure of all things. (Protagoras)"
+      ],
+      "r": "pantōn chrēmatōn metron estin anthrōpos"
+    },
+    {
+      "c": "φύσει ἢ νόμῳ",
+      "a": "by nature or by convention",
+      "d": [
+        "by law or by force",
+        "by reason or by chance"
+      ],
+      "r": "physei ē nomō"
+    }
+  ],
+  "read": {
+    "title": "Socrates and his students",
+    "text": [
+      "Σωκράτης ἦν φιλόσοφος Ἀθηναῖος. ἐν τῇ ἀγορᾷ ἠρώτα τοὺς νεανίας· Τί ἐστιν ἀρετή; τί ἐστιν τὸ ἀγαθόν; οἱ δὲ νεανίαι οὐκ ἐγίνωσκον. Σωκράτης δὲ ἔλεγεν· Ἓν οἶδα, ὅτι οὐδὲν οἶδα.",
+      "Πλάτων, ὁ μαθητὴς αὐτοῦ, ἔγραψεν πολλοὺς λόγους περὶ τῆς ψυχῆς καὶ τῆς δικαιοσύνης. Ἀριστοτέλης δέ, ὁ μαθητὴς τοῦ Πλάτωνος, ἔγραψεν ὅτι πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει."
+    ],
+    "q": [
+      {
+        "q": "What did Socrates ask the young men?",
+        "o": [
+          "What is virtue?",
+          "Where is the city?",
+          "Who is the king?"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Who was Plato's teacher?",
+        "o": [
+          "Aristotle",
+          "Socrates",
+          "Xenophon"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What did Aristotle write?",
+        "o": [
+          "that the soul is a tomb",
+          "that the unexamined life is not worth living",
+          "that all human beings by nature desire to know"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

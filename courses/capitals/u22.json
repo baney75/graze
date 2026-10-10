@@ -1,0 +1,30 @@
+{
+  "title": "Capitals of the Middle East and North Africa",
+  "note": "Gulf capitals sit on the coast, from Kuwait City to Muscat. Turkey’s capital is Ankara, not Istanbul, and Saudi Arabia’s is Riyadh, not Jeddah. Algiers, Tunis and Tripoli are Mediterranean ports, Rabat faces the Atlantic and Cairo sits on the Nile.",
+  "src": {
+    "t": "CIA World Factbook (archived JSON edition)",
+    "u": "https://github.com/factbook/factbook.json"
+  },
+  "items": [
+    { "c": "Turkey", "a": "Ankara", "d": ["Istanbul", "Izmir", "Bursa"] },
+    { "c": "Syria", "a": "Damascus", "d": ["Aleppo", "Homs", "Latakia"] },
+    { "c": "Lebanon", "a": "Beirut", "d": ["Sidon", "Tyre", "Byblos"] },
+    { "c": "Israel", "a": "Jerusalem", "d": ["Haifa", "Eilat", "Beersheba"], "ex": "Israel’s government sits in Jerusalem; many countries keep embassies in Tel Aviv." },
+    { "c": "Jordan", "a": "Amman", "d": ["Zarqa", "Irbid", "Aqaba"] },
+    { "c": "Iraq", "a": "Baghdad", "d": ["Basra", "Mosul", "Najaf"] },
+    { "c": "Iran", "a": "Tehran", "d": ["Isfahan", "Mashhad", "Tabriz"] },
+    { "c": "Saudi Arabia", "a": "Riyadh", "d": ["Jeddah", "Mecca", "Dammam"] },
+    { "c": "Kuwait", "a": "Kuwait City", "d": ["Al Jahra", "Manama", "Doha"] },
+    { "c": "Bahrain", "a": "Manama", "d": ["Riffa", "Muharraq", "Doha"] },
+    { "c": "Qatar", "a": "Doha", "d": ["Al Rayyan", "Al Wakrah", "Manama"] },
+    { "c": "United Arab Emirates", "a": "Abu Dhabi", "d": ["Dubai", "Sharjah", "Al Ain"] },
+    { "c": "Oman", "a": "Muscat", "d": ["Salalah", "Sohar", "Nizwa"] },
+    { "c": "Yemen", "a": "Sanaa", "d": ["Taiz", "Al Hudaydah", "Mukalla"], "ex": "Since 2015 the internationally recognized government has worked mainly from Aden." },
+    { "c": "Egypt", "a": "Cairo", "d": ["Alexandria", "Giza", "Luxor"] },
+    { "c": "Libya", "a": "Tripoli", "d": ["Benghazi", "Misrata", "Sirte"] },
+    { "c": "Tunisia", "a": "Tunis", "d": ["Sfax", "Sousse", "Kairouan"] },
+    { "c": "Algeria", "a": "Algiers", "d": ["Oran", "Constantine", "Annaba"] },
+    { "c": "Morocco", "a": "Rabat", "d": ["Casablanca", "Marrakesh", "Fes"] },
+    { "c": "Sudan", "a": "Khartoum", "d": ["Omdurman", "Kassala", "Nyala"] }
+  ]
+}

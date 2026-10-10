@@ -1,0 +1,331 @@
+{
+  "title": "The aorist",
+  "note": "The aorist views an action as a simple whole, usually in the past: ἔλυσα, 'I loosed'. First aorist: augment + stem + σα: ἔλυσα, ἔλυσας, ἔλυσε(ν), ἐλύσαμεν, ἐλύσατε, ἔλυσαν. Second aorists use a different stem with imperfect endings: λαμβάνω → ἔλαβον. In a compound the augment follows the prefix: ἀπο-θνῄσκω → ἀπέθανον. Aorist passive: ἐλύθην, 'I was loosed'.",
+  "src": {
+    "t": "Perseus Digital Library (Smyth, Greek Grammar: the aorist)",
+    "u": "https://www.perseus.tufts.edu/"
+  },
+  "items": [
+    {
+      "c": "ἔλυσα",
+      "a": "I loosed",
+      "d": [
+        "I was loosing",
+        "I will loose"
+      ],
+      "r": "elysa"
+    },
+    {
+      "c": "ἔλυσας",
+      "a": "you (one person) loosed",
+      "d": [
+        "they loosed",
+        "he, she, it loosed"
+      ],
+      "r": "elysas"
+    },
+    {
+      "c": "ἔλυσε(ν)",
+      "a": "he, she, it loosed",
+      "d": [
+        "he, she, it will loose",
+        "you (one person) loosed"
+      ],
+      "r": "elyse(n)"
+    },
+    {
+      "c": "ἐλύσαμεν",
+      "a": "we loosed",
+      "d": [
+        "you (plural) loosed",
+        "we will loose"
+      ],
+      "r": "elysamen"
+    },
+    {
+      "c": "ἐλύσατε",
+      "a": "you (plural) loosed",
+      "d": [
+        "we loosed",
+        "you (plural) will loose"
+      ],
+      "r": "elysate"
+    },
+    {
+      "c": "ἔλυσαν",
+      "a": "they loosed",
+      "d": [
+        "you (one person) loosed",
+        "they will loose"
+      ],
+      "r": "elysan"
+    },
+    {
+      "c": "ἐλύθην",
+      "a": "I was loosed",
+      "d": [
+        "I loosed",
+        "I am loosed"
+      ],
+      "r": "elythēn"
+    },
+    {
+      "c": "ἐλύθη",
+      "a": "he, she, it was loosed",
+      "d": [
+        "he, she, it loosed",
+        "they were loosed"
+      ],
+      "r": "elythē"
+    },
+    {
+      "c": "εἶπεν",
+      "a": "he, she, it said",
+      "d": [
+        "he, she, it saw",
+        "he, she, it came"
+      ],
+      "ex": "καὶ εἶπεν ὁ θεός· Γενηθήτω φῶς.",
+      "exT": "And God said, Let there be light.",
+      "r": "eipen"
+    },
+    {
+      "c": "ἦλθεν",
+      "a": "he, she, it came",
+      "d": [
+        "he, she, it said",
+        "he, she, it took"
+      ],
+      "ex": "εἰς τὰ ἴδια ἦλθεν.",
+      "exT": "He came to his own.",
+      "r": "ēlthen"
+    },
+    {
+      "c": "εἶδεν",
+      "a": "he, she, it saw",
+      "d": [
+        "he, she, it knew",
+        "he, she, it said"
+      ],
+      "ex": "εἶδεν τὸν Ἰησοῦν.",
+      "exT": "He saw Jesus.",
+      "r": "eiden"
+    },
+    {
+      "c": "ἔλαβεν",
+      "a": "he, she, it took, received",
+      "d": [
+        "he, she, it gave",
+        "he, she, it found"
+      ],
+      "r": "elaben",
+      "ex": "ἔλαβεν τὸν ἄρτον.",
+      "exT": "He took the bread."
+    },
+    {
+      "c": "ἐγένετο",
+      "a": "it happened; he, she, it became",
+      "d": [
+        "it was written",
+        "he, she, it came"
+      ],
+      "ex": "πάντα δι’ αὐτοῦ ἐγένετο.",
+      "exT": "All things came into being through him.",
+      "r": "egeneto"
+    },
+    {
+      "c": "ἔγνων",
+      "a": "I knew, came to know",
+      "d": [
+        "I wrote",
+        "I said"
+      ],
+      "r": "egnōn"
+    },
+    {
+      "c": "ἀπέθανεν",
+      "a": "he, she, it died",
+      "d": [
+        "he, she, it killed",
+        "he, she, it was born"
+      ],
+      "ex": "Χριστὸς ἀπέθανεν ὑπὲρ ἡμῶν.",
+      "exT": "Christ died for us.",
+      "r": "apethanen"
+    },
+    {
+      "c": "εὗρον",
+      "a": "I found; they found",
+      "d": [
+        "I sought; they sought",
+        "I saw; they saw"
+      ],
+      "r": "heuron"
+    },
+    {
+      "c": "ἔφαγον",
+      "a": "I ate; they ate",
+      "d": [
+        "I drank; they drank",
+        "I took; they took"
+      ],
+      "r": "ephagon",
+      "ex": "καὶ ἔφαγον πάντες.",
+      "exT": "And they all ate."
+    },
+    {
+      "c": "ἤγαγον",
+      "a": "I led; they led",
+      "d": [
+        "I sent; they sent",
+        "I heard; they heard"
+      ],
+      "r": "ēgagon"
+    },
+    {
+      "c": "ἔσχον",
+      "a": "I had, got; they had, got",
+      "d": [
+        "I held back; they held back",
+        "I said; they said"
+      ],
+      "r": "eschon"
+    },
+    {
+      "c": "ἔπεμψα",
+      "a": "I sent",
+      "d": [
+        "I led",
+        "I wrote"
+      ],
+      "r": "epempsa"
+    },
+    {
+      "c": "ἔγραψα",
+      "a": "I wrote",
+      "d": [
+        "I sent",
+        "I taught"
+      ],
+      "r": "egrapsa",
+      "ex": "ἔγραψα ὑμῖν.",
+      "exT": "I wrote to you."
+    },
+    {
+      "c": "ἐδίδαξα",
+      "a": "I taught",
+      "d": [
+        "I learned",
+        "I wrote"
+      ],
+      "r": "edidaxa"
+    },
+    {
+      "c": "ἐπίστευσα",
+      "a": "I believed",
+      "d": [
+        "I will believe",
+        "I was persuaded"
+      ],
+      "r": "episteusa",
+      "ex": "ἐπίστευσα, διὸ ἐλάλησα.",
+      "exT": "I believed, therefore I spoke."
+    },
+    {
+      "c": "Οὕτως γὰρ ἠγάπησεν ὁ θεὸς τὸν κόσμον",
+      "a": "For God so loved the world",
+      "d": [
+        "For God will love the world",
+        "For the world so loved God"
+      ],
+      "r": "Houtōs gar ēgapēsen ho theos ton kosmon"
+    },
+    {
+      "c": "ἠγέρθη (ἐγείρω, raise)",
+      "a": "he was raised, he has risen",
+      "d": [
+        "he raised",
+        "he will be raised"
+      ],
+      "ex": "ἠγέρθη, οὐκ ἔστιν ὧδε.",
+      "exT": "He has risen; he is not here.",
+      "r": "ēgerthē",
+      "say": "ἠγέρθη"
+    },
+    {
+      "c": "ἐβαπτίσθη",
+      "a": "he was baptized",
+      "d": [
+        "he baptized",
+        "he was born"
+      ],
+      "r": "ebaptisthē",
+      "ex": "ἐβαπτίσθη ὑπὸ Ἰωάννου.",
+      "exT": "He was baptized by John."
+    },
+    {
+      "c": "ἐγεννήθη",
+      "a": "he was born",
+      "d": [
+        "he was baptized",
+        "he begot"
+      ],
+      "r": "egennēthē",
+      "ex": "ἐγεννήθη ἐν Βηθλέεμ.",
+      "exT": "He was born in Bethlehem."
+    },
+    {
+      "c": "Ἐν ἀρχῇ ___ ὁ θεὸς τὸν οὐρανόν. (made; ποιέω)",
+      "a": "ἐποίησεν",
+      "d": [
+        "ποιεῖ",
+        "ποιήσει"
+      ]
+    },
+    {
+      "c": "how the aorist presents an action",
+      "a": "as a simple whole",
+      "d": [
+        "as ongoing or repeated",
+        "as a completed state"
+      ]
+    }
+  ],
+  "read": {
+    "title": "In the synagogue and on the road",
+    "text": [
+      "Ἦλθεν ὁ Ἰησοῦς εἰς τὴν κώμην μετὰ τῶν μαθητῶν καὶ ἐδίδαξεν ἐν τῇ συναγωγῇ. ὁ δὲ λαὸς ἤκουσεν τοὺς λόγους καὶ ἐπίστευσεν.",
+      "Ἄνθρωπος δὲ ἐν τῇ ὁδῷ εἶδεν τὸν Ἰησοῦν καὶ εἶπεν· Κύριε, τίς εἶ; ὁ δὲ Ἰησοῦς εἶπεν· Ἐγώ εἰμι ἡ ὁδός. καὶ ὁ ἄνθρωπος ἔλαβεν ἄρτον καὶ ἔφαγεν μετὰ τῶν μαθητῶν.",
+      "Τῇ δὲ νυκτὶ ὁ Ἰωάννης ἔγραψεν πάντα τὰ ῥήματα ἐν βιβλίῳ."
+    ],
+    "q": [
+      {
+        "q": "Where did Jesus teach?",
+        "o": [
+          "in the temple",
+          "in the synagogue",
+          "on the road"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What did the man on the road ask?",
+        "o": [
+          "Lord, who are you?",
+          "Where are you going?",
+          "What is truth?"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What did John do at night?",
+        "o": [
+          "He ate bread.",
+          "He taught the people.",
+          "He wrote all the words in a book."
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

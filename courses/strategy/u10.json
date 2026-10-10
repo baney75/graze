@@ -1,0 +1,56 @@
+{
+  "title": "Intelligence and deception",
+  "note": "Intelligence is knowledge of the enemy; deception is shaping what the enemy believes. Sun Tzu prized spies above all, and the greatest deceptions, such as Operation Fortitude in 1944, worked by feeding an enemy the story he already expected, through double agents, fake units and false radio traffic, until it was too late to react.",
+  "src": {"t": "Sun Tzu, The Art of War, ch. XIII, tr. Lionel Giles, Project Gutenberg", "u": "https://www.gutenberg.org/ebooks/132"},
+  "items": [
+    {"c": "Sun Tzu: foreknowledge of the enemy comes from", "a": "Other men, that is, spies", "d": ["Spirits and omens", "Calculation from past wars"]},
+    {"c": "Sun Tzu's five classes of spies", "a": "Local, inward, converted, doomed, surviving", "d": ["Scouts, envoys, traders, priests, monks", "Silent, loud, hidden, open, sleeping"]},
+    {"c": "Sun Tzu's \"inward spies\"", "a": "Officials of the enemy in our service", "d": ["Inhabitants of a district we pass through", "Our men who return with news"]},
+    {"c": "Sun Tzu's \"converted spies\"", "a": "Enemy spies turned to work for us", "d": ["Our spies who are sent to die", "Local villagers paid for news"]},
+    {"c": "Sun Tzu's \"doomed spies\"", "a": "Our agents fed false news to pass to the enemy", "d": ["Enemy officials who betray their ruler", "Spies who return safely with news"]},
+    {"c": "Sun Tzu's most important spy", "a": "The converted spy", "d": ["The local spy", "The surviving spy"]},
+    {"c": "Trojan Horse", "a": "Greeks hidden in a gift horse to enter Troy", "d": ["A Roman siege tower on wheels", "A Persian cavalry charge at night"]},
+    {"c": "HUMINT", "a": "Intelligence from human sources", "d": ["Intelligence from intercepted signals", "Intelligence from photographs"]},
+    {"c": "SIGINT", "a": "Intelligence from intercepted signals", "d": ["Intelligence from human sources", "Intelligence from public media"]},
+    {"c": "IMINT", "a": "Intelligence from imagery such as aerial photos", "d": ["Intelligence from interrogations", "Intelligence from radio intercepts"]},
+    {"c": "OSINT", "a": "Intelligence from open, public sources", "d": ["Intelligence from secret agents", "Intelligence from satellites only"]},
+    {"c": "Zimmermann Telegram, 1917", "a": "German offer to Mexico, decoded by the British", "d": ["British plan to invade Turkey, leaked", "Russian peace offer to Germany"]},
+    {"c": "Ultra", "a": "Allied intelligence from broken German Enigma codes", "d": ["A German rocket program", "A British commando unit"]},
+    {"c": "Center of British wartime codebreaking", "a": "Bletchley Park", "d": ["Scapa Flow", "Whitehall Palace"]},
+    {"c": "Mathematician central to breaking Enigma", "a": "Alan Turing", "d": ["John von Neumann", "Claude Shannon"]},
+    {"c": "\"AF is short of water\" (1942)", "a": "US ruse confirming Midway was Japan's target", "d": ["Japanese ruse that drew the US to Alaska", "British signal to supply Malta"]},
+    {"c": "Pearl Harbor, December 7, 1941", "a": "Japanese surprise attack on the US Pacific Fleet", "d": ["US surprise attack on the Japanese fleet", "German U-boat attack off Hawaii"]},
+    {"c": "Operation Mincemeat, 1943", "a": "A corpse with fake papers misled Germany about Sicily", "d": ["A raid to destroy German heavy water", "A plan to kidnap a German general"]},
+    {"c": "Operation Bodyguard", "a": "Overall Allied deception plan for 1944", "d": ["The real landing plan for Normandy", "Churchill's personal security detail"]},
+    {"c": "Fortitude South's message to Germany", "a": "That the main invasion would hit the Pas-de-Calais", "d": ["That the Allies would land in Norway first", "That the invasion was canceled for 1944"]},
+    {"c": "Fortitude North pointed German fears toward", "a": "Norway", "d": ["Brittany", "The Netherlands"]},
+    {"c": "FUSAG", "a": "A fictitious US army group aimed at Calais", "d": ["The real US army that landed at Omaha", "A German panzer reserve near Paris"]},
+    {"c": "Famous general given command of fictional FUSAG", "a": "George S. Patton", "d": ["Omar Bradley", "Dwight D. Eisenhower"]},
+    {"c": "Fortitude's physical props", "a": "Inflatable tanks, dummy landing craft, fake camps", "d": ["Captured German uniforms and flags", "Smoke screens over every port"]},
+    {"c": "Double Cross System", "a": "British control of turned German agents", "d": ["German code for the Normandy landings", "A US plan to bribe Axis officials"]},
+    {"c": "Juan Pujol García, codename Garbo", "a": "Double agent who fed Germany false invasion news", "d": ["German spy who exposed D-Day", "Spanish general who joined the Axis"]},
+    {"c": "Fortitude's effect after D-Day", "a": "German forces were held near Calais for weeks", "d": ["Germany moved all forces to Normandy at once", "Germany surrendered within days"]},
+    {"c": "The Ghost Army (US, 1944 to 1945)", "a": "A unit that faked larger forces with props and sound", "d": ["Soldiers missing in action in France", "A night-fighter air squadron"]},
+    {"c": "Maskirovka", "a": "Soviet doctrine of military deception", "d": ["Soviet doctrine of deep battle", "Soviet secret police"]},
+    {"c": "Yom Kippur War, 1973", "a": "Egypt and Syria surprised Israel despite warnings", "d": ["Israel surprised Egypt in a preemptive strike", "Jordan seized Jerusalem by surprise"]},
+    {"c": "October 1962 U-2 photographs revealed", "a": "Soviet missiles being installed in Cuba", "d": ["Chinese troops massing in Korea", "A Soviet satellite launch site"]},
+    {"c": "Why the best deceptions work", "a": "They confirm what the enemy already expects", "d": ["They are too complex to be understood", "They use only lies with no truths"]}
+  ],
+  "read": {
+    "title": "Sun Tzu on spies",
+    "text": [
+      "From Sun Tzu, The Art of War, Chapter XIII, “The Use of Spies”:",
+      "4. Thus, what enables the wise sovereign and the good general to strike and conquer, and achieve things beyond the reach of ordinary men, is foreknowledge.",
+      "6. Knowledge of the enemy’s dispositions can only be obtained from other men.",
+      "7. Hence the use of spies, of whom there are five classes: (1) Local spies; (2) inward spies; (3) converted spies; (4) doomed spies; (5) surviving spies.",
+      "11. Having converted spies, getting hold of the enemy’s spies and using them for our own purposes.",
+      "12. Having doomed spies, doing certain things openly for purposes of deception, and allowing our own spies to know of them and report them to the enemy.",
+      "25. The end and aim of spying in all its five varieties is knowledge of the enemy; and this knowledge can only be derived, in the first instance, from the converted spy."
+    ],
+    "q": [
+      {"q": "Where, according to Sun Tzu, must knowledge of the enemy come from?", "o": ["Spirits and omens", "Deductive calculation", "Other men"], "k": 2},
+      {"q": "What are doomed spies used for?", "o": ["Passing deliberately planted information to the enemy", "Bringing back news from the enemy camp", "Bribing enemy officials"], "k": 0},
+      {"q": "Which spy does Sun Tzu say is the first source of knowledge of the enemy?", "o": ["The local spy", "The converted spy", "The surviving spy"], "k": 1}
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+ "title": "Nutrition science: macronutrients, vitamins and minerals",
+ "note": "Macronutrients (carbohydrate, protein, fat) supply energy and building blocks. Vitamins mostly work as coenzymes or signaling molecules; minerals serve as structure, cofactors and electrolytes. Fat-soluble vitamins (A, D, E, K) are stored in the body, while most water-soluble ones are not.",
+ "src": {
+  "t": "NIH Office of Dietary Supplements, Vitamin and Mineral Fact Sheets",
+  "u": "https://ods.od.nih.gov/factsheets/list-VitaminsMinerals/"
+ },
+ "items": [
+  {
+   "c": "The three energy-yielding macronutrients",
+   "a": "Carbohydrate, protein and fat",
+   "d": [
+    "Vitamins, minerals and water",
+    "Sugar, fiber and starch"
+   ]
+  },
+  {
+   "c": "Energy per gram of carbohydrate or protein",
+   "a": "About 4 kcal",
+   "d": [
+    "About 9 kcal",
+    "About 1 kcal"
+   ]
+  },
+  {
+   "c": "Energy per gram of dietary fat",
+   "a": "About 9 kcal",
+   "d": [
+    "About 4 kcal",
+    "About 2 kcal"
+   ]
+  },
+  {
+   "c": "Dietary fiber",
+   "a": "Plant carbohydrate that human enzymes cannot digest",
+   "d": [
+    "Animal protein that resists digestion",
+    "Fat that passes through undigested"
+   ]
+  },
+  {
+   "c": "Essential amino acid",
+   "a": "One the body cannot make, so it must come from food",
+   "d": [
+    "One found only in animal protein",
+    "One needed only during childhood growth"
+   ]
+  },
+  {
+   "c": "Number of essential amino acids for humans",
+   "a": "9",
+   "d": [
+    "20",
+    "3"
+   ]
+  },
+  {
+   "c": "Dietary fat that raises LDL and can lower HDL",
+   "a": "Trans fat",
+   "d": [
+    "Monounsaturated fat",
+    "Polyunsaturated fat"
+   ]
+  },
+  {
+   "c": "The fat-soluble vitamins",
+   "a": "A, D, E and K",
+   "d": [
+    "B1, B2, B12 and C",
+    "A, C, E and folate"
+   ]
+  },
+  {
+   "c": "Why fat-soluble vitamins can reach toxic levels",
+   "a": "They are stored in the liver and fatty tissue",
+   "d": [
+    "They are excreted rapidly in urine",
+    "They cannot be absorbed from food"
+   ]
+  },
+  {
+   "c": "RDA (Recommended Dietary Allowance)",
+   "a": "Intake that meets the needs of nearly all healthy people",
+   "d": [
+    "Highest intake unlikely to cause harm",
+    "Average intake of the population"
+   ]
+  },
+  {
+   "c": "Vitamin required to make collagen",
+   "a": "Vitamin C",
+   "d": [
+    "Vitamin K",
+    "Vitamin B12"
+   ]
+  },
+  {
+   "c": "Severe vitamin C deficiency causes",
+   "a": "Scurvy",
+   "d": [
+    "Rickets",
+    "Beriberi"
+   ]
+  },
+  {
+   "c": "Vitamin C improves absorption of",
+   "a": "Nonheme iron from plant foods",
+   "d": [
+    "Vitamin B12 from animal foods",
+    "Dietary cholesterol"
+   ]
+  },
+  {
+   "c": "Vitamin needed to activate clotting factors",
+   "a": "Vitamin K",
+   "d": [
+    "Vitamin C",
+    "Vitamin E"
+   ]
+  },
+  {
+   "c": "Why newborns get a vitamin K injection",
+   "a": "Little crosses the placenta and breast milk is low in it",
+   "d": [
+    "It prevents newborn jaundice",
+    "It is needed to make newborn insulin"
+   ]
+  },
+  {
+   "c": "Skin makes vitamin D when exposed to",
+   "a": "UVB light",
+   "d": [
+    "Infrared light",
+    "Visible blue light"
+   ]
+  },
+  {
+   "c": "Active vitamin D hormone, made in the kidney",
+   "a": "Calcitriol (1,25-dihydroxyvitamin D)",
+   "d": [
+    "Calcidiol (25-hydroxyvitamin D)",
+    "Cholecalciferol (vitamin D3)"
+   ]
+  },
+  {
+   "c": "Vitamin D's main job",
+   "a": "Increasing calcium absorption from the gut",
+   "d": [
+    "Activating clotting factors",
+    "Forming the retina's visual pigment"
+   ]
+  },
+  {
+   "c": "Vitamin D deficiency in children causes",
+   "a": "Rickets",
+   "d": [
+    "Scurvy",
+    "Pellagra"
+   ]
+  },
+  {
+   "c": "Vitamin in the retina's light-sensing pigment",
+   "a": "Vitamin A",
+   "d": [
+    "Vitamin D",
+    "Vitamin B6"
+   ]
+  },
+  {
+   "c": "Vitamin E's main role",
+   "a": "Fat-soluble antioxidant that protects membranes",
+   "d": [
+    "Coenzyme for clotting factor activation",
+    "Cofactor in collagen synthesis"
+   ]
+  },
+  {
+   "c": "Vitamin B12 absorption requires",
+   "a": "Intrinsic factor made by the stomach",
+   "d": [
+    "Bile salts made by the liver",
+    "Vitamin C from the same meal"
+   ]
+  },
+  {
+   "c": "Where the B12–intrinsic factor complex is absorbed",
+   "a": "Ileum",
+   "d": [
+    "Duodenum",
+    "Colon"
+   ]
+  },
+  {
+   "c": "Folate's core biochemical role",
+   "a": "One-carbon transfers for making DNA and RNA",
+   "d": [
+    "Carboxylating clotting factors",
+    "Protecting membranes from oxidation"
+   ]
+  },
+  {
+   "c": "Daily folic acid advised if pregnancy is possible",
+   "a": "400 mcg",
+   "d": [
+    "40 mcg",
+    "4,000 mcg"
+   ]
+  },
+  {
+   "c": "Anemia typical of folate or B12 deficiency",
+   "a": "Megaloblastic (large, abnormal red cells)",
+   "d": [
+    "Microcytic (small, pale red cells)",
+    "Hemolytic (red cells destroyed early)"
+   ]
+  },
+  {
+   "c": "Thiamin (B1) active coenzyme form",
+   "a": "Thiamin pyrophosphate (diphosphate)",
+   "d": [
+    "Pyridoxal phosphate",
+    "Flavin adenine dinucleotide"
+   ]
+  },
+  {
+   "c": "Classic thiamin deficiency disease",
+   "a": "Beriberi",
+   "d": [
+    "Pellagra",
+    "Scurvy"
+   ]
+  },
+  {
+   "c": "Niacin (B3) is converted into",
+   "a": "NAD",
+   "d": [
+    "FAD",
+    "Coenzyme Q10"
+   ]
+  },
+  {
+   "c": "Riboflavin (B2) forms the coenzymes",
+   "a": "FMN and FAD",
+   "d": [
+    "NAD and NADP",
+    "TPP and PLP"
+   ]
+  },
+  {
+   "c": "Severe niacin deficiency causes",
+   "a": "Pellagra",
+   "d": [
+    "Beriberi",
+    "Rickets"
+   ]
+  },
+  {
+   "c": "Mineral at the oxygen-binding center of hemoglobin",
+   "a": "Iron",
+   "d": [
+    "Zinc",
+    "Magnesium"
+   ]
+  },
+  {
+   "c": "Better-absorbed form of dietary iron",
+   "a": "Heme iron from meat, poultry and seafood",
+   "d": [
+    "Nonheme iron from plants",
+    "Iron in fortified cereals"
+   ]
+  },
+  {
+   "c": "Main iron storage protein",
+   "a": "Ferritin",
+   "d": [
+    "Transferrin",
+    "Hemoglobin"
+   ]
+  },
+  {
+   "c": "Iodine is needed to make",
+   "a": "Thyroid hormones T4 and T3",
+   "d": [
+    "Cortisol and aldosterone",
+    "Insulin and glucagon"
+   ]
+  }
+ ],
+ "read": {
+  "title": "Vitamins as enzyme helpers",
+  "text": [
+   "Vitamins provide almost no energy themselves, yet without them the body cannot use its fuel. The reason is that many vitamins become coenzymes, small molecules that enzymes need in order to work. Niacin is converted into NAD, which carries electrons in hundreds of energy-releasing reactions. Riboflavin becomes FMN and FAD, which play a similar electron-carrying role. Thiamin becomes thiamin pyrophosphate, a cofactor for enzymes in glucose, amino acid and lipid metabolism.",
+   "Other vitamins have narrower jobs. Vitamin K is the coenzyme for an enzyme that carboxylates clotting proteins such as prothrombin, so it is needed for normal clotting. Vitamin C is required to make collagen and helps absorb plant iron. Folate and vitamin B12 support the one-carbon chemistry used to build DNA, which is why a shortage of either shows up first in rapidly dividing cells such as red blood cell precursors.",
+   "Solubility matters too. Fat-soluble vitamins (A, D, E and K) are absorbed with dietary fat and stored in the liver and fatty tissue, so they can accumulate. Most water-soluble vitamins are not stored in large amounts, with B12 an important exception."
+  ],
+  "q": [
+   {
+    "q": "Why can vitamins be essential even though they supply little energy?",
+    "o": [
+     "They are burned as backup fuel",
+     "Many become coenzymes that enzymes need",
+     "They replace minerals in bone",
+     "They are converted into glucose"
+    ],
+    "k": 1
+   },
+   {
+    "q": "A shortage of folate or B12 shows up early in red blood cell precursors because these cells",
+    "o": [
+     "Divide rapidly and need DNA building blocks",
+     "Store large amounts of fat",
+     "Have no mitochondria to make ATP"
+    ],
+    "k": 0
+   },
+   {
+    "q": "Which vitamins are stored in the liver and fatty tissue?",
+    "o": [
+     "B1, B2 and B3",
+     "C and folate",
+     "A, D, E and K"
+    ],
+    "k": 2
+   }
+  ]
+ }
+}

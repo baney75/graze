@@ -1,0 +1,45 @@
+{
+  "title": "Revision and editing",
+  "note": "Revise from large to small. Higher-order concerns (thesis, audience and purpose, organization, development) come first; lower-order concerns (sentence structure, punctuation, word choice, spelling) come after. Let a draft rest, read it aloud, and reread it as if someone else wrote it.",
+  "src": { "t": "Purdue OWL, Higher Order Concerns and Lower Order Concerns", "u": "https://owl.purdue.edu/owl/general_writing/mechanics/hocs_and_locs.html" },
+  "items": [
+    { "c": "Higher-order concerns", "a": "thesis, audience, organization and development", "d": ["spelling, commas and capitals", "fonts and margins"] },
+    { "c": "Lower-order concerns", "a": "sentence structure, punctuation, word choice, spelling", "d": ["thesis and organization", "audience and purpose"] },
+    { "c": "Usual order of revision", "a": "big-picture issues first, then sentences, then proofreading", "d": ["proofreading first, then the argument", "sentences first, then structure"] },
+    { "c": "When to fix lower-order errors first", "a": "when they block a reader from understanding", "d": ["always, before anything else", "never, until the final draft"] },
+    { "c": "Global revision", "a": "changes to argument, structure and content", "d": ["fixing typos and commas", "checking citation format"] },
+    { "c": "Local editing", "a": "changes to sentences, words and mechanics", "d": ["rethinking the thesis", "reordering whole sections"] },
+    { "c": "Proofreading", "a": "the final check for surface errors", "d": ["the first brainstorm of ideas", "rewriting the thesis"] },
+    { "c": "Revision literally means", "a": "seeing again", "d": ["writing faster", "cutting in half"], "ex": "From Latin re- (again) and videre (to see)." },
+    { "c": "Why let a draft rest before revising?", "a": "distance lets you read it as a reader would", "d": ["errors fade on their own", "it makes the draft shorter"] },
+    { "c": "Reading a draft aloud helps you catch", "a": "awkward phrasing and missing words", "d": ["formatting of the bibliography", "the page count"] },
+    { "c": "Reverse outline", "a": "a list of each paragraph's main point, made from the draft", "d": ["an outline written before any research", "the conclusion written before the introduction"] },
+    { "c": "First test of a draft's focus", "a": "can you state its thesis in a sentence?", "d": ["does it meet the page limit?", "does every sentence have a comma?"] },
+    { "c": "Thesis changed while drafting. Next step:", "a": "revise the introduction to match", "d": ["leave the old thesis in place", "delete the conclusion"] },
+    { "c": "Material that doesn't connect to the thesis", "a": "cut it, or revise the thesis to include it", "d": ["move it to the conclusion", "keep it to add length"] },
+    { "c": "Check a paragraph's unity by asking", "a": "does every sentence support the topic sentence?", "d": ["does every sentence start differently?", "does every sentence have a comma?"] },
+    { "c": "Read intro and conclusion together to check", "a": "that they make the same claim", "d": ["that they are the same length", "that they repeat the same words"] },
+    { "c": "Search for 'there is' and 'it is' to find", "a": "slow, wordy openings", "d": ["comma splices", "misplaced modifiers"] },
+    { "c": "Search for words ending in -tion to find", "a": "possible nominalizations", "d": ["possible split infinitives", "pronoun case errors"] },
+    { "c": "Underline each sentence's subject to check", "a": "whether the topic string stays focused", "d": ["whether the commas are right", "whether the spelling is right"] },
+    { "c": "Check each 'it's' by", "a": "reading it as 'it is' or 'it has'", "d": ["counting its letters", "checking the next word for a vowel"] },
+    { "c": "A spell-checker's blind spot", "a": "real words used wrongly, like 'their' for 'there'", "d": ["long words with many syllables", "words that begin with capitals"] },
+    { "c": "Why edit for one problem per pass", "a": "a focused pass catches more errors", "d": ["it makes drafts shorter", "editors require it"] },
+    { "c": "Reading a draft as if someone else wrote it", "a": "shows its strongest and weakest parts", "d": ["fixes its spelling automatically", "proves that the thesis is true"] },
+    { "c": "Peer review is most useful for", "a": "learning how a real reader responds", "d": ["fixing every comma automatically", "replacing the writer's thesis"] }
+  ],
+  "read": {
+    "title": "Revising from the top down",
+    "text": [
+      "Many writers think revision means fixing commas. Commas matter, but they come last. Revision is literally re-seeing: looking at a draft again and asking whether it does what it should.",
+      "Start with the higher-order concerns. Can you state the thesis in one sentence? Does every section serve it? Is the order logical for this audience? Does each paragraph have enough evidence and explanation? A useful tool here is the reverse outline: after drafting, write one line summarizing each paragraph. Gaps, repetitions and detours show up at once.",
+      "Only then move to lower-order concerns: sentence structure, word choice, punctuation and spelling. Fixing these first wastes effort, because a paragraph you polish today may be cut tomorrow. The exception is an error so severe that it stops a reader from understanding; that has to be fixed early.",
+      "Distance helps at every stage. Set the draft aside for a day if you can. Read it aloud, since the ear catches clumsy rhythm and missing words that the eye skips. And read it as if a stranger wrote it, so you judge the words on the page rather than the ideas in your head."
+    ],
+    "q": [
+      { "q": "Why does the reading advise fixing commas last?", "o": ["Commas rarely matter", "Polished paragraphs may later be cut", "Readers ignore punctuation"], "k": 1 },
+      { "q": "What is a reverse outline?", "o": ["A one-line summary of each paragraph, written after drafting", "An outline written before research", "A list of sources in reverse order"], "k": 0 },
+      { "q": "According to the reading, what does reading aloud help catch?", "o": ["Weak evidence", "Citation errors", "Clumsy rhythm and missing words"], "k": 2 }
+    ]
+  }
+}

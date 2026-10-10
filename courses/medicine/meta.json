@@ -1,0 +1,16 @@
+{
+  "key": "medicine",
+  "name": "Medicine",
+  "group": "Medicine",
+  "tag": "MED",
+  "level": "Pre-med",
+  "blurb": "The foundations of medicine as a science and a practice: the biochemistry, microbes, immunity, drugs, genes and nutrients behind health, and the methods clinicians use to examine, test, reason, act ethically and respond in an emergency. Built for pre-med students who want the core mechanisms and numbers right.",
+  "sources": [
+    { "t": "Microbiology, OpenStax", "u": "https://openstax.org/details/books/microbiology" },
+    { "t": "Pharmacology for Nurses, OpenStax", "u": "https://openstax.org/details/books/pharmacology" },
+    { "t": "Anatomy and Physiology 2e, OpenStax", "u": "https://openstax.org/details/books/anatomy-and-physiology-2e" },
+    { "t": "MedlinePlus Medical Tests, U.S. National Library of Medicine", "u": "https://medlineplus.gov/lab-tests/" },
+    { "t": "Vitamin and Mineral Fact Sheets, NIH Office of Dietary Supplements", "u": "https://ods.od.nih.gov/factsheets/list-VitaminsMinerals/" },
+    { "t": "2025 Guidelines for CPR and ECC, American Heart Association", "u": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines" }
+  ]
+}

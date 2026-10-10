@@ -1,0 +1,16 @@
+{
+  "key": "software",
+  "name": "Software Engineering",
+  "group": "Skills",
+  "tag": "CODE",
+  "level": "All levels",
+  "blurb": "The ideas strong engineers use every day: complexity, data structures, algorithms, design principles and patterns, testing, git, HTTP, databases, concurrency, security, systems, process, and the famous laws. Know the standard definitions and costs cold, and reason about trade-offs before you write code.",
+  "sources": [
+    { "t": "Introduction to Algorithms (6.006), MIT OpenCourseWare", "u": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/" },
+    { "t": "Open Data Structures (Morin), Engineering LibreTexts", "u": "https://eng.libretexts.org/Bookshelves/Computer_Science/Databases_and_Data_Structures/Open_Data_Structures_-_An_Introduction_(Morin)" },
+    { "t": "Refactoring Guru: design patterns and refactoring", "u": "https://refactoring.guru/design-patterns/catalog" },
+    { "t": "Pro Git, 2nd edition (Chacon and Straub)", "u": "https://git-scm.com/book/en/v2" },
+    { "t": "MDN Web Docs: HTTP", "u": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status" },
+    { "t": "OWASP Top 10", "u": "https://owasp.org/www-project-top-ten/" }
+  ]
+}

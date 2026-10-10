@@ -1,0 +1,55 @@
+{
+  "title": "Respiratory system: airways and lungs",
+  "note": "Follow the air: rhin/o or nas/o (nose), pharyng/o (throat), laryng/o (voice box), trache/o (windpipe), bronch/o (bronchus), alveol/o (air sac). The suffix -pnea means breathing, and prefixes describe it: a-, dys-, tachy-, brady-, eu-.",
+  "src": { "t": "Medical Terminology 2e (Open RN), 4.2 Word Components Related to the Respiratory System", "u": "https://med.libretexts.org/Bookshelves/Medicine/Medical_Terminology_2e_(OpenRN)/04%3A_Respiratory_System_Terminology/4.02%3A_Word_Components_Related_to_the_Respiratory_System" },
+  "items": [
+    { "c": "rhin/o, nas/o", "a": "nose", "d": ["throat", "sinus"] },
+    { "c": "pharyng/o", "a": "pharynx (throat)", "d": ["larynx (voice box)", "trachea (windpipe)"] },
+    { "c": "laryng/o", "a": "larynx (voice box)", "d": ["pharynx (throat)", "epiglottis (airway flap)"] },
+    { "c": "trache/o", "a": "trachea (windpipe)", "d": ["larynx (voice box)", "bronchus (lung airway)"] },
+    { "c": "bronch/o, bronchi/o", "a": "bronchus, an airway into a lung", "d": ["alveolus, an air sac", "pleura, a lung membrane"] },
+    { "c": "alveol/o", "a": "alveolus, an air sac", "d": ["bronchus, an airway into a lung", "lobe, a section of a lung"] },
+    { "c": "pleur/o", "a": "pleura, membrane around the lungs", "d": ["pericardium, sac around the heart", "diaphragm, muscle below the lungs"] },
+    { "c": "pneum/o, pneumon/o", "a": "lung, air", "d": ["mucus, phlegm", "chest wall"] },
+    { "c": "pulmon/o", "a": "lung", "d": ["diaphragm", "windpipe"] },
+    { "c": "phren/o", "a": "diaphragm", "d": ["chest", "lobe"], "ex": "The phrenic nerve controls the diaphragm." },
+    { "c": "thorac/o", "a": "chest (thorax)", "d": ["diaphragm", "abdomen"] },
+    { "c": "spir/o", "a": "breathe, breathing", "d": ["sound, voice", "sleep"] },
+    { "c": "ox/i, ox/o", "a": "oxygen", "d": ["carbon dioxide", "nitrogen"] },
+    { "c": "capn/o", "a": "carbon dioxide", "d": ["oxygen", "smoke"] },
+    { "c": "muc/o", "a": "mucus", "d": ["pus", "saliva"] },
+    { "c": "-pnea", "a": "breathing", "d": ["coughing up", "chest"] },
+    { "c": "-ptysis", "a": "spitting, coughing up", "d": ["vomiting", "swallowing"] },
+    { "c": "dys/pnea", "a": "difficult breathing", "d": ["absence of breathing", "rapid breathing"] },
+    { "c": "orth/o/pnea", "a": "difficult breathing except when upright", "d": ["difficult breathing only during exercise", "normal breathing at rest"], "ex": "orth/o means straight." },
+    { "c": "hem/o/ptysis", "a": "coughing up blood", "d": ["vomiting blood", "bleeding from the nose"] },
+    { "c": "hyp/ox/ia", "a": "deficient oxygen reaching the tissues", "d": ["excess carbon dioxide in the blood", "absence of breathing"] },
+    { "c": "hyper/capn/ia", "a": "excess carbon dioxide in the blood", "d": ["deficient oxygen in the tissues", "rapid, deep breathing"] },
+    { "c": "rhin/itis", "a": "inflammation of the nasal lining", "d": ["inflammation of the throat", "inflammation of the sinuses"] },
+    { "c": "laryng/itis", "a": "inflammation of the larynx", "d": ["inflammation of the pharynx", "inflammation of the trachea"] },
+    { "c": "pneum/o/thorax", "a": "air in the pleural space of the chest", "d": ["blood in the pleural space", "pus in the pleural space"] },
+    { "c": "hem/o/thorax", "a": "blood in the pleural space of the chest", "d": ["air in the pleural space", "fluid in the alveoli"] },
+    { "c": "atel/ectasis", "a": "incomplete expansion of lung tissue", "d": ["dilation of the bronchi", "inflammation of the pleura"], "ex": "atel/o means imperfect or incomplete." },
+    { "c": "trache/o/tomy", "a": "incision into the trachea", "d": ["creation of an opening into the trachea", "removal of the trachea"] },
+    { "c": "trache/o/stomy", "a": "creation of an opening into the trachea", "d": ["incision into the trachea", "visual examination of the trachea"] },
+    { "c": "bronch/o/scopy", "a": "visual examination of the bronchi", "d": ["image of the lungs", "measurement of breathing"] },
+    { "c": "thorac/o/centesis", "a": "puncture of the chest to remove fluid", "d": ["incision into the chest", "surgical repair of the chest wall"] },
+    { "c": "spir/o/metry", "a": "measurement of breathing volumes", "d": ["visual examination of the airways", "measurement of blood oxygen"] },
+    { "c": "ox/i/metry", "a": "measurement of blood oxygen level", "d": ["measurement of blood carbon dioxide", "measurement of lung volume"] },
+    { "c": "Flap that covers the larynx during swallowing", "a": "epiglottis", "d": ["uvula", "soft palate"] },
+    { "c": "Where gas exchange occurs in the lungs", "a": "alveoli", "d": ["bronchi", "pleura"] }
+  ],
+  "read": {
+    "title": "Following the airway",
+    "text": [
+      "Air entering the body passes a series of structures, and each has its own root. It enters through the nose (rhin/o or nas/o) and moves through the pharynx (pharyng/o), the throat passage shared with food. It then passes the larynx (laryng/o), the voice box, guarded by the epiglottis, a flap that closes over the airway during swallowing. The trachea (trache/o) carries air into the chest, where it splits into two bronchi (bronch/o) and then into smaller and smaller branches.",
+      "The branches end in millions of alveoli, tiny air sacs where oxygen moves into the blood and carbon dioxide moves out. The lungs themselves have three roots, pneum/o, pneumon/o and pulmon/o, and are wrapped in the pleura. Below them sits the diaphragm, named phren/o.",
+      "Breathing words are built on -pnea. Apnea is the absence of breathing, dyspnea is difficult breathing, tachypnea is rapid breathing and eupnea is normal breathing. Gases have roots too: ox/i for oxygen and capn/o for carbon dioxide, so hypoxia is too little oxygen in the tissues and hypercapnia is too much carbon dioxide in the blood."
+    ],
+    "q": [
+      { "q": "What closes over the airway during swallowing?", "o": ["The epiglottis", "The larynx", "The pleura", "The diaphragm"], "k": 0 },
+      { "q": "Where does oxygen pass into the blood?", "o": ["In the alveoli", "In the trachea", "In the pharynx"], "k": 0 },
+      { "q": "Which root names the diaphragm?", "o": ["phren/o", "pleur/o", "pulmon/o", "thorac/o"], "k": 0 }
+    ]
+  }
+}

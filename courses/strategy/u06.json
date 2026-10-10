@@ -1,0 +1,50 @@
+{
+  "title": "Napoleon's way of war",
+  "note": "Napoleon turned the mass armies of the French Revolution into fast, flexible instruments. Self-contained corps marched apart and concentrated to fight; he struck at an enemy's flank, rear or communications, or slipped between two armies to beat each in turn. His downfall in Russia and Spain showed how speed and battle fail against distance, supply and popular resistance.",
+  "src": { "t": "Napoleon's Maxims of War, tr. G. C. D'Aguilar, Project Gutenberg", "u": "https://www.gutenberg.org/ebooks/50750" },
+  "items": [
+    { "c": "Napoleon's birthplace", "a": "Corsica", "d": ["Sardinia", "Paris", "Sicily"] },
+    { "c": "Napoleon's birth and death years", "a": "1769 to 1821", "d": ["1732 to 1799", "1790 to 1858"] },
+    { "c": "Siege where artillery officer Bonaparte rose", "a": "Toulon, 1793", "d": ["Mantua, 1797", "Acre, 1799"] },
+    { "c": "Levée en masse (1793)", "a": "Revolutionary France's mass conscription", "d": ["Napoleon's new tax on the nobility", "A treaty ending war with Austria"] },
+    { "c": "Corps system (corps d'armée)", "a": "Self-contained units of all arms that could fight alone", "d": ["Cavalry kept in one mass behind the line", "Fortress garrisons along the frontier"] },
+    { "c": "Napoleonic rule for corps on the march", "a": "March divided, concentrate to fight", "d": ["March united, fight divided", "Never move without a supply train"] },
+    { "c": "Name of Napoleon's main army from 1805", "a": "The Grande Armée", "d": ["The New Model Army", "The Army of the Potomac"] },
+    { "c": "Napoleon's chief of staff", "a": "Louis-Alexandre Berthier", "d": ["Michel Ney", "Joachim Murat"] },
+    { "c": "Strategy of the central position", "a": "Strike between two enemy armies and beat each in turn", "d": ["Hold the capital at all costs", "Encircle the enemy with two converging armies"] },
+    { "c": "Interior lines (Jomini)", "a": "Lines letting one force concentrate faster than divided enemies", "d": ["Lines of trenches inside a fortress", "Supply routes running through neutral land"] },
+    { "c": "Swiss writer who systematized Napoleon's methods", "a": "Antoine-Henri Jomini", "d": ["Carl von Clausewitz", "Gerhard von Scharnhorst"] },
+    { "c": "Manoeuvre sur les derrières", "a": "Moving onto the enemy's rear and communications", "d": ["A frontal charge by massed cavalry", "A fighting retreat to prepared lines"] },
+    { "c": "Ulm, 1805", "a": "Austrian army under Mack surrounded and surrenders", "d": ["Prussian army routed in a single day", "Russian army wrecked in the snow"] },
+    { "c": "Austerlitz, December 2, 1805", "a": "Napoleon beats Austria and Russia, the Three Emperors", "d": ["Wellington and Blücher defeat Napoleon", "Napoleon beats Prussia in a double battle"] },
+    { "c": "Austerlitz: how Napoleon drew the Allies in", "a": "He left his right weak to lure them off the Pratzen Heights", "d": ["He feigned a retreat across the Danube", "He hid his whole army in a forest"] },
+    { "c": "Jena-Auerstedt, 1806", "a": "Napoleon's twin victory that shattered Prussia", "d": ["Napoleon's defeat by the Russians", "The French defeat at sea by Nelson"] },
+    { "c": "Napoleonic \"grand battery\"", "a": "Many guns massed to blast a hole in the line", "d": ["A fortress ringed with cannon", "Ships' guns landed for a siege"] },
+    { "c": "Continental System (1806)", "a": "Napoleon's ban on trade with Britain", "d": ["His network of military roads", "His code of civil law"] },
+    { "c": "Trafalgar, 1805", "a": "Nelson destroys the French and Spanish fleet", "d": ["The French fleet defeats Nelson off Spain", "Napoleon's army lands in England"], "ex": "It left Britain in command of the sea for the rest of the wars." },
+    { "c": "Peninsular War took place in", "a": "Spain and Portugal", "d": ["Italy", "Poland"] },
+    { "c": "Word for small war that spread from Spain", "a": "Guerrilla", "d": ["Blitzkrieg", "Razzia"] },
+    { "c": "Bloody battle on the road to Moscow, 1812", "a": "Borodino", "d": ["Friedland", "Wagram"] },
+    { "c": "Chief cause of the Grande Armée's ruin in 1812", "a": "Distance, hunger, disease and winter on a long retreat", "d": ["One crushing defeat outside Moscow", "Mutiny of its French regiments"] },
+    { "c": "Leipzig, 1813", "a": "The Battle of the Nations, a major defeat for Napoleon", "d": ["Napoleon's last victory over Russia", "The battle that made him emperor"] },
+    { "c": "Waterloo, June 18, 1815", "a": "Wellington and Blücher defeat Napoleon", "d": ["Napoleon defeats Prussia and Austria", "Nelson destroys the French fleet"] },
+    { "c": "Napoleon's island of final exile", "a": "Saint Helena", "d": ["Elba", "Corsica"] },
+    { "c": "Napoleon maxim on converging armies", "a": "Never let them unite near the enemy", "d": ["Always unite them in sight of the enemy", "Send them home before battle"], "ex": "Otherwise the enemy may prevent the junction and beat them in detail." },
+    { "c": "Napoleon maxim: in planning a campaign", "a": "Foresee everything the enemy may do", "d": ["Count on the enemy's mistakes", "Trust to fortune and courage"] },
+    { "c": "Napoleon via Fuller: the whole art of war", "a": "A circumspect defensive, then rapid, audacious attack", "d": ["Endless attack without pause", "Patient siege until the enemy starves"] },
+    { "c": "\"An army marches on its stomach\"", "a": "A saying usually attributed to Napoleon", "d": ["A line from Sun Tzu's Art of War", "The motto of Caesar's legions"] }
+  ],
+  "read": {
+    "title": "How Napoleon won and lost",
+    "text": [
+      "Napoleon inherited an army transformed by the French Revolution. Mass conscription, the levée en masse of 1793, gave France far more soldiers than the old monarchies, and promotion by merit gave it young, aggressive officers. Napoleon organized this mass into corps, each a small army of infantry, cavalry and artillery able to fight on its own for a day until help arrived.",
+      "The corps let him spread out to move fast and live off the country, then converge on the decisive point. At Ulm in 1805 his corps swung around behind an Austrian army and forced it to surrender almost without a battle. Weeks later at Austerlitz he left his right wing deliberately weak, tempted the Austrians and Russians to attack it, and then smashed their weakened center. When facing two enemies, he liked to drive between them and beat each in turn.",
+      "The same methods had limits. In Spain, a popular guerrilla war tied down French armies for years. In Russia in 1812, distance, hunger, disease and winter destroyed the Grande Armée more surely than any battle. His enemies also learned to copy him, and in 1813 and 1815 they massed coalitions that his genius could not outweigh."
+    ],
+    "q": [
+      { "q": "What made each Napoleonic corps valuable?", "o": ["It carried a year of supplies", "It could fight on its own until others arrived", "It was made only of cavalry"], "k": 1 },
+      { "q": "How did Napoleon win at Austerlitz, according to the reading?", "o": ["He tempted the Allies to attack a weak wing, then struck their center", "He besieged them in a fortress", "He refused battle until winter"], "k": 0 },
+      { "q": "What destroyed the Grande Armée in Russia, per the reading?", "o": ["A single great defeat at Moscow", "A naval blockade", "Distance, hunger, disease and winter"], "k": 2 }
+    ]
+  }
+}

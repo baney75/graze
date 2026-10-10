@@ -1,0 +1,45 @@
+{
+  "title": "Fallacies of presumption and ambiguity",
+  "note": "Fallacies of presumption smuggle in an unearned assumption: that only two options exist, that the conclusion is already true, or that a few cases speak for all. Fallacies of ambiguity exploit a word or sentence with more than one meaning, or carry a property from parts to whole, or whole to parts, without warrant.",
+  "src": { "t": "Critical Reasoning (Southworth and Swoyer), Ch. 11 Fallacies", "u": "https://human.libretexts.org/Bookshelves/Philosophy/Logic_and_Reasoning/Critical_Reasoning%3A_A_User's_Manual_(Southworth_and_Swoyer)/11%3A_Fallacies-_Common_Ways_of_Reasoning_Badly" },
+  "items": [
+    { "c": "False dilemma", "a": "offering only two options when more exist", "d": ["claiming one step must lead to extremes", "assuming the conclusion in the premises", "shifting a word's meaning mid-argument"] },
+    { "c": "Slippery slope", "a": "claiming, without support, one step must lead to extremes", "d": ["offering only two options when more exist", "applying a rule to an exceptional case", "judging from too few cases"], "ex": "A chain of steps is fine when each step is shown to be likely; the fallacy is assuming the slide." },
+    { "c": "Begging the question", "a": "assuming the conclusion in the premises", "d": ["asking a question that hides an assumption", "dodging the question with a new topic", "concluding from too few cases"] },
+    { "c": "Equivocation", "a": "shifting a word's meaning mid-argument", "d": ["ambiguity from sentence structure", "assuming the conclusion in the premises", "defining a word too narrowly"] },
+    { "c": "Hasty generalization", "a": "broad conclusion from too few cases", "d": ["applying a general rule to an exception", "assuming what is true of parts holds for the whole", "leaving out contrary evidence"] },
+    { "c": "No true Scotsman", "a": "redefining a group to dodge a counterexample", "d": ["dismissing a claim because of its source", "attacking a weak version of a view", "exempting yourself from a rule"] },
+    { "c": "Complex (loaded) question", "a": "a question that presupposes an unproven claim", "d": ["a question asked only for effect", "a question with no possible answer"] },
+    { "c": "Fallacy of accident", "a": "applying a general rule to an exceptional case", "d": ["generalizing from an exceptional case", "treating a coincidence as a cause"] },
+    { "c": "Suppressed evidence (cherry-picking)", "a": "leaving out evidence that cuts against your view", "d": ["inventing evidence that supports your view", "citing evidence from a biased source"] },
+    { "c": "Special pleading", "a": "exempting your own case from a rule without good reason", "d": ["redefining a group to avoid a counterexample", "applying a rule to a case it doesn't fit"] },
+    { "c": "Line-drawing (continuum) fallacy", "a": "denying a real difference because no sharp line divides it", "d": ["drawing a sharp line where none exists", "claiming one step leads to disaster"], "ex": "There is no exact moment a person becomes bald, yet baldness is real." },
+    { "c": "Amphiboly", "a": "ambiguity arising from sentence structure", "d": ["ambiguity arising from one word's two meanings", "ambiguity arising from vocal emphasis"] },
+    { "c": "Fallacy of accent", "a": "ambiguity arising from shifted emphasis", "d": ["ambiguity arising from sentence structure", "a meaning lost in translation"] },
+    { "c": "Fallacy of composition", "a": "what's true of the parts must be true of the whole", "d": ["what's true of the whole must be true of each part", "what's true of one case is true of all"] },
+    { "c": "Fallacy of division", "a": "what's true of the whole must be true of each part", "d": ["what's true of the parts must be true of the whole", "what's true of most is true of all"] },
+    { "c": "Have you stopped cheating on tests?", "a": "complex (loaded) question", "d": ["false dilemma", "begging the question", "red herring"] },
+    { "c": "I trust him because he says he's trustworthy.", "a": "begging the question (circular)", "d": ["appeal to authority", "hasty generalization", "equivocation"] },
+    { "c": "My country: love it or leave it.", "a": "false dilemma (either/or)", "d": ["slippery slope", "appeal to tradition", "complex question"] },
+    { "c": "Take one late paper and soon no deadlines exist", "a": "slippery slope (assumed slide)", "d": ["false dilemma", "fallacy of accident", "special pleading"] },
+    { "c": "Nothing beats love; a sandwich beats nothing", "a": "equivocation on 'nothing'", "d": ["amphiboly", "composition", "begging the question"], "ex": "The joke 'so a sandwich beats love' shifts 'nothing' from 'no thing' to 'having nothing'." },
+    { "c": "Each player is a star, so the team is great.", "a": "composition", "d": ["division", "hasty generalization", "equivocation"] },
+    { "c": "The firm is rich, so each worker is rich.", "a": "division", "d": ["composition", "accident", "hasty generalization"] },
+    { "c": "Ambiguity in 'I saw the man with the telescope'", "a": "amphiboly (structural)", "d": ["equivocation", "accent", "composition"] },
+    { "c": "Two friends got rich on crypto; anyone can.", "a": "hasty generalization", "d": ["composition", "false dilemma", "appeal to popularity"] },
+    { "c": "Wounding is a crime, so surgeons are criminals", "a": "accident", "d": ["hasty generalization", "division", "equivocation"] }
+  ],
+  "read": {
+    "title": "Hidden assumptions, shifting words",
+    "text": [
+      "Some arguments go wrong not because a premise is irrelevant but because they quietly presume something unearned. A false dilemma presents two options as the only ones: love your country or leave it, as if criticizing it from within were impossible. Begging the question assumes what it sets out to prove, as when someone trusts a man because the man says he is trustworthy. A loaded question such as 'Have you stopped cheating?' traps any direct answer in an assumption. A hasty generalization treats a handful of cases as a rule.",
+      "Other fallacies trade on ambiguity. Equivocation shifts a word's meaning between premises: nothing beats love, a sandwich beats nothing, so a sandwich beats love. Amphiboly arises from grammar rather than a single word, as in 'I saw the man with the telescope'. Composition moves a property from parts to whole, as when a team of stars is assumed to be a great team; division moves it from whole to parts.",
+      "The cure in each case is the same: state the hidden assumption or the two meanings out loud. Once it is visible, you can ask whether it is true."
+    ],
+    "q": [
+      { "q": "What makes 'Have you stopped cheating?' fallacious?", "o": ["Any direct answer accepts a hidden assumption", "It uses a word in two senses", "It changes the subject"], "k": 0 },
+      { "q": "How does amphiboly differ from equivocation, per the reading?", "o": ["Amphiboly concerns parts and wholes", "Amphiboly is always intentional", "Amphiboly comes from grammar, not one word's two meanings"], "k": 2 },
+      { "q": "What cure does the reading recommend?", "o": ["Avoid all arguments with assumptions", "State the hidden assumption or meanings out loud", "Ask an expert"], "k": 1 }
+    ]
+  }
+}

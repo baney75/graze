@@ -1,0 +1,361 @@
+{
+  "title": "People, pronouns and 是",
+  "note": "是 (shì) links two nouns: 我是学生 \"I am a student.\" Negate it with 不: 我不是老师. Mandarin pronouns never change form: 我 is both \"I\" and \"me\". Add 们 for plurals of pronouns, and 的 for possession: 我的书 \"my book\".",
+  "src": {
+    "t": "Chinese Grammar Wiki: connecting nouns with 是",
+    "u": "https://resources.allsetlearning.com/chinese/grammar/ASGUN7RX"
+  },
+  "items": [
+    {
+      "c": "我",
+      "r": "wǒ",
+      "a": "I, me",
+      "d": [
+        "you",
+        "he, him"
+      ]
+    },
+    {
+      "c": "你",
+      "r": "nǐ",
+      "a": "you",
+      "d": [
+        "I, me",
+        "she, her"
+      ]
+    },
+    {
+      "c": "他",
+      "r": "tā",
+      "a": "he, him",
+      "d": [
+        "she, her",
+        "it"
+      ]
+    },
+    {
+      "c": "她",
+      "r": "tā",
+      "a": "she, her",
+      "d": [
+        "he, him",
+        "they"
+      ]
+    },
+    {
+      "c": "它",
+      "r": "tā",
+      "a": "it",
+      "d": [
+        "she, her",
+        "this"
+      ]
+    },
+    {
+      "c": "我们",
+      "r": "wǒmen",
+      "a": "we, us",
+      "d": [
+        "you (plural)",
+        "they, them"
+      ],
+      "ex": "我们是同学。",
+      "exT": "We are classmates."
+    },
+    {
+      "c": "你们",
+      "r": "nǐmen",
+      "a": "you (plural)",
+      "d": [
+        "we, us",
+        "you (polite)"
+      ]
+    },
+    {
+      "c": "他们",
+      "r": "tāmen",
+      "a": "they, them",
+      "d": [
+        "we, us",
+        "everyone"
+      ]
+    },
+    {
+      "c": "大家",
+      "r": "dàjiā",
+      "a": "everyone",
+      "d": [
+        "someone",
+        "nobody"
+      ],
+      "ex": "大家好！",
+      "exT": "Hello, everyone!"
+    },
+    {
+      "c": "人",
+      "r": "rén",
+      "a": "person",
+      "d": [
+        "friend",
+        "child"
+      ]
+    },
+    {
+      "c": "中国人",
+      "r": "Zhōngguórén",
+      "a": "Chinese person",
+      "d": [
+        "American",
+        "Chinese language"
+      ]
+    },
+    {
+      "c": "美国人",
+      "r": "Měiguórén",
+      "a": "American",
+      "d": [
+        "British person",
+        "Chinese person"
+      ]
+    },
+    {
+      "c": "老师",
+      "r": "lǎoshī",
+      "a": "teacher",
+      "d": [
+        "student",
+        "doctor"
+      ],
+      "ex": "她是我的汉语老师。",
+      "exT": "She is my Chinese teacher."
+    },
+    {
+      "c": "学生",
+      "r": "xuésheng",
+      "a": "student",
+      "d": [
+        "teacher",
+        "classmate"
+      ]
+    },
+    {
+      "c": "同学",
+      "r": "tóngxué",
+      "a": "classmate",
+      "d": [
+        "colleague",
+        "neighbor"
+      ]
+    },
+    {
+      "c": "医生",
+      "r": "yīshēng",
+      "a": "doctor",
+      "d": [
+        "teacher",
+        "nurse"
+      ]
+    },
+    {
+      "c": "朋友",
+      "r": "péngyou",
+      "a": "friend",
+      "d": [
+        "classmate",
+        "guest"
+      ],
+      "ex": "他是我的好朋友。",
+      "exT": "He is my good friend."
+    },
+    {
+      "c": "先生",
+      "r": "xiānsheng",
+      "a": "Mr.; sir",
+      "d": [
+        "Miss",
+        "teacher"
+      ],
+      "ex": "王先生是医生。",
+      "exT": "Mr. Wang is a doctor."
+    },
+    {
+      "c": "男",
+      "r": "nán",
+      "a": "male",
+      "d": [
+        "female",
+        "old"
+      ]
+    },
+    {
+      "c": "女",
+      "r": "nǚ",
+      "a": "female",
+      "d": [
+        "male",
+        "young"
+      ]
+    },
+    {
+      "c": "谁",
+      "r": "shéi",
+      "a": "who",
+      "d": [
+        "what",
+        "which"
+      ],
+      "ex": "他是谁？",
+      "exT": "Who is he?"
+    },
+    {
+      "c": "这",
+      "r": "zhè",
+      "a": "this",
+      "d": [
+        "that",
+        "which"
+      ]
+    },
+    {
+      "c": "那",
+      "r": "nà",
+      "a": "that",
+      "d": [
+        "this",
+        "where"
+      ]
+    },
+    {
+      "c": "我的",
+      "r": "wǒ de",
+      "a": "my, mine",
+      "d": [
+        "your, yours",
+        "our, ours"
+      ]
+    },
+    {
+      "c": "这是我朋友。",
+      "r": "Zhè shì wǒ péngyou.",
+      "a": "This is my friend.",
+      "d": [
+        "That is my teacher.",
+        "This is your friend."
+      ]
+    },
+    {
+      "c": "你是哪国人？",
+      "r": "Nǐ shì nǎ guó rén?",
+      "a": "What's your nationality?",
+      "d": [
+        "Where do you live?",
+        "Who is your friend?"
+      ],
+      "ex": "你是哪国人？——我是美国人。",
+      "exT": "Where are you from? — I'm American."
+    },
+    {
+      "c": "我不是老师。",
+      "r": "Wǒ bù shì lǎoshī.",
+      "a": "I'm not a teacher.",
+      "d": [
+        "I'm a teacher too.",
+        "I don't have a teacher."
+      ]
+    },
+    {
+      "c": "他___中国人。",
+      "r": "Tā ___ Zhōngguórén.",
+      "a": "是",
+      "d": [
+        "有",
+        "很"
+      ],
+      "ex": "他是中国人。",
+      "exT": "He is Chinese."
+    },
+    {
+      "c": "我___是学生。(not)",
+      "r": "Wǒ ___ shì xuésheng.",
+      "a": "不",
+      "d": [
+        "没",
+        "很"
+      ]
+    },
+    {
+      "c": "他是我___朋友。",
+      "r": "Tā shì wǒ ___ péngyou.",
+      "a": "的",
+      "d": [
+        "了",
+        "吗"
+      ]
+    },
+    {
+      "c": "我是学生，他___是学生。(also)",
+      "r": "Wǒ shì xuésheng, tā ___ shì xuésheng.",
+      "a": "也",
+      "d": [
+        "都",
+        "很"
+      ],
+      "ex": "我是学生，他也是学生。",
+      "exT": "I'm a student, and he is too."
+    },
+    {
+      "c": "我们___是老师。(all)",
+      "r": "Wǒmen ___ shì lǎoshī.",
+      "a": "都",
+      "d": [
+        "也",
+        "不"
+      ]
+    },
+    {
+      "c": "你是___？(Who are you?)",
+      "r": "Nǐ shì ___?",
+      "a": "谁",
+      "d": [
+        "什么",
+        "哪"
+      ]
+    }
+  ],
+  "read": {
+    "title": "我和我的朋友",
+    "text": [
+      "我叫李明，我是中国人。我是学生。王老师是我的汉语老师，她是北京人。",
+      "大卫是我的朋友，他是美国人。他也是学生。我们是同学，我们都是学生。王老师不是学生，她是老师。大家好！认识你们很高兴。"
+    ],
+    "q": [
+      {
+        "q": "Where is Teacher Wang from?",
+        "o": [
+          "America",
+          "Beijing",
+          "Shanghai"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What is David?",
+        "o": [
+          "A Chinese teacher",
+          "A doctor from Beijing",
+          "An American student"
+        ],
+        "k": 2
+      },
+      {
+        "q": "How are Li Ming and David related?",
+        "o": [
+          "They are classmates",
+          "They are brothers",
+          "David is Li Ming's teacher"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

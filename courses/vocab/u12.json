@@ -1,0 +1,51 @@
+{
+  "title": "Law and justice",
+  "note": "A criminal case runs in order: a grand jury may indict (formally charge), the court arraigns (calls the accused to plead), and the jury convicts or acquits. Proscribe means forbid; do not confuse it with prescribe, to order or direct. De facto means in fact, whatever the law says; de jure means by law.",
+  "src": { "t": "Merriam-Webster: suborn", "u": "https://www.merriam-webster.com/dictionary/suborn" },
+  "items": [
+    { "c": "indict", "a": "to formally charge with a serious crime", "d": ["to declare not guilty", "to call to testify", "to send to another country for trial"], "ex": "The grand jury indicted the treasurer on six counts of fraud." },
+    { "c": "arraign", "a": "to call before a court to answer a charge", "d": ["to release from custody", "to hand over to another state", "to clear of all blame"], "ex": "She was arraigned on Monday and pleaded not guilty." },
+    { "c": "acquit", "a": "to declare not guilty of a charge", "d": ["to charge formally with a crime", "to order to appear in court", "to forbid by law"], "ex": "The jury acquitted him after less than an hour." },
+    { "c": "exonerate", "a": "to clear completely of blame", "d": ["to accuse publicly", "to punish with a fine", "to delay a trial"], "ex": "DNA evidence exonerated a man who had served twenty years." },
+    { "c": "culpable", "a": "deserving blame", "d": ["free of all blame", "legally binding", "open to appeal"], "ex": "The report found the shipping company culpable for the spill." },
+    { "c": "adjudicate", "a": "to make a formal judgment on a dispute", "d": ["to start a lawsuit", "to swear a false oath", "to repeal a law"], "ex": "A panel of three judges will adjudicate the boundary dispute." },
+    { "c": "jurisprudence", "a": "the theory and philosophy of law", "d": ["the punishment of crime", "a written sworn statement", "the right to vote"], "ex": "The professor taught jurisprudence, asking what makes a law a law." },
+    { "c": "statute", "a": "a written law passed by a legislature", "d": ["a judge's personal opinion", "a sworn written statement", "a formal pardon"], "ex": "The statute requires helmets for riders under eighteen." },
+    { "c": "tort", "a": "a civil wrong, apart from breach of contract, that grounds a lawsuit", "d": ["a serious crime against the state", "an addition to a will", "a formal accusation by a grand jury"], "ex": "Slipping on an unmarked wet floor may give rise to a tort claim." },
+    { "c": "litigious", "a": "too ready to go to law; fond of suing", "d": ["deserving blame", "forbidden by law", "free from punishment"], "ex": "A litigious neighbor sued over the shade from their oak tree." },
+    { "c": "malfeasance", "a": "wrongdoing, especially by a public official", "d": ["mercy shown by a ruler", "a formal pardon for a group", "a judgment on a dispute"], "ex": "The auditor uncovered years of malfeasance in the permit office." },
+    { "c": "perjury", "a": "the crime of lying under oath", "d": ["the crime of fleeing a trial", "the crime of stealing property", "the crime of bribing an official"], "ex": "The witness was charged with perjury after the phone records surfaced." },
+    { "c": "suborn", "a": "to induce someone to commit a crime, such as perjury", "d": ["to clear of all charges", "to hand over a fugitive", "to issue a written order"], "ex": "The developer was accused of trying to suborn a zoning inspector." },
+    { "c": "extradite", "a": "to hand over an accused person to another jurisdiction", "d": ["to pardon a group of offenders", "to forbid by law", "to make a law public"], "ex": "Spain agreed to extradite the suspect to face trial in Canada." },
+    { "c": "abrogate", "a": "to repeal or abolish a law or agreement formally", "d": ["to make a law known officially", "to judge a dispute", "to charge with a crime"], "ex": "The new government abrogated the treaty its predecessor had signed." },
+    { "c": "promulgate", "a": "to proclaim a law or rule officially", "d": ["to repeal a law", "to violate a law secretly", "to hand over a fugitive"], "ex": "The ministry promulgated new safety rules for mines." },
+    { "c": "proscribe", "a": "to forbid, especially by law", "d": ["to recommend as a remedy", "to make known publicly", "to pardon officially"], "ex": "The rules proscribe the use of phones in the exam hall." },
+    { "c": "amnesty", "a": "an official pardon for a group of offenders", "d": ["a written sworn statement", "a law passed by a legislature", "a hand-over to another country"], "ex": "The library's amnesty week waived all overdue fines." },
+    { "c": "clemency", "a": "mercy, especially in reducing a punishment", "d": ["strictness in applying the law", "the theory of law", "freedom from punishment"], "ex": "The governor granted clemency to the elderly prisoner." },
+    { "c": "impunity", "a": "freedom from punishment or consequences", "d": ["mercy shown in sentencing", "a duty to testify", "a share in guilt"], "ex": "The gang operated with impunity while the police looked away." },
+    { "c": "restitution", "a": "repayment or restoration for a loss or injury", "d": ["punishment by imprisonment", "a formal accusation", "a sworn false statement"], "ex": "The court ordered restitution of the stolen funds to the charity." },
+    { "c": "complicity", "a": "involvement with others in wrongdoing", "d": ["complete innocence", "freedom from punishment", "mercy to an offender"], "ex": "The guard's silence amounted to complicity in the theft." },
+    { "c": "abet", "a": "to encourage or assist, especially in wrongdoing", "d": ["to report to the police", "to judge formally", "to forbid by law"], "ex": "He was charged with aiding and abetting the escape." },
+    { "c": "collusion", "a": "secret cooperation to cheat or deceive", "d": ["open, honest competition", "an official pardon", "a judgment in court"], "ex": "The two firms were fined for collusion in fixing bread prices." },
+    { "c": "de facto", "a": "existing in fact, whether or not by law", "d": ["established by law", "applied to past acts", "made in good faith"], "ex": "While the king lay ill, his son became the de facto ruler." },
+    { "c": "ex post facto", "a": "made or applied after the fact, retroactively", "d": ["existing in fact but not by law", "made in good faith", "for the public good"], "ex": "The Constitution bars ex post facto laws that punish past acts." },
+    { "c": "subpoena", "a": "a written order to appear in court", "d": ["a written sworn statement", "an addition to a will", "an official pardon"], "ex": "The committee issued a subpoena for the company's emails." },
+    { "c": "affidavit", "a": "a written statement sworn to be true", "d": ["an order to appear in court", "a law passed by a legislature", "a formal criminal charge"], "ex": "The landlord signed an affidavit describing the damage." },
+    { "c": "codicil", "a": "an addition or change to a will", "d": ["a court's final ruling", "a law passed by a legislature", "a written order to testify"], "ex": "A codicil left the piano to the housekeeper." },
+    { "c": "recuse", "a": "to withdraw from a case because of a possible bias", "d": ["to refuse to obey a court order", "to hand over a suspect", "to repeal a law"], "ex": "The judge recused herself because her brother worked for the plaintiff." }
+  ],
+  "read": {
+    "title": "The Case of the Missing Paintings",
+    "text": [
+      "When four paintings vanished from a small museum, suspicion fell on a night guard. A grand jury indicted him for theft, and at his arraignment he pleaded not guilty. The prosecution's case rested on an affidavit from a second guard, who swore she had seen him carrying a large package to his car.",
+      "Then the defense subpoenaed the museum's phone records. They showed that the second guard had been talking to an art dealer for weeks. Under questioning she admitted that the dealer had offered her money to blame her colleague. It was a clear attempt to suborn testimony, and the affidavit itself was perjury.",
+      "The jury acquitted the first guard, and a later investigation exonerated him completely. The dealer and the second guard, it emerged, had planned the theft in collusion, and both were charged. The paintings were recovered from a storage unit, and the court ordered restitution to the museum for the cost of the search.",
+      "The judge who had handled early hearings recused himself from the second trial; he had once bought a print from the dealer. No one was allowed to act with impunity, and the case shows why courts test sworn statements rather than simply accept them."
+    ],
+    "q": [
+      { "q": "Why was the second guard's affidavit perjury?", "o": ["It was filed late", "It was a false statement made under oath", "It was not signed", "It was written by the dealer"], "k": 1 },
+      { "q": "What is the difference between the acquittal and the exoneration?", "o": ["There is none", "The acquittal came later", "The jury found him not guilty; the investigation cleared him completely", "The exoneration was overturned on appeal"], "k": 2 },
+      { "q": "Why did the judge recuse himself?", "o": ["He had a connection to the dealer that suggested possible bias", "He was ill", "The guard asked for a jury", "He had been subpoenaed"], "k": 0 }
+    ]
+  }
+}

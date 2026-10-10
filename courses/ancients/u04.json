@@ -1,0 +1,246 @@
+{
+  "title": "Xenophon, Memorabilia: what is a law?",
+  "note": "Xenophon wrote the Memorabilia to defend Socrates against the charge of corrupting the young. Admitting that Alcibiades learned to argue in Socrates' circle, he tells how the youth, not yet twenty, cross-examined his guardian Pericles.",
+  "src": {
+    "t": "The Memorabilia, by Xenophon, tr. H. G. Dakyns, Project Gutenberg eBook #1177",
+    "u": "https://www.gutenberg.org/ebooks/1177"
+  },
+  "items": [
+    {
+      "c": "Author of the Memorabilia",
+      "a": "Xenophon",
+      "d": [
+        "Plato",
+        "Plutarch",
+        "Thucydides"
+      ]
+    },
+    {
+      "c": "Memorabilia (title meaning)",
+      "a": "things remembered",
+      "d": [
+        "things foretold",
+        "things forbidden"
+      ]
+    },
+    {
+      "c": "Xenophon's aim in the Memorabilia",
+      "a": "to defend Socrates against the charges",
+      "d": [
+        "to praise the rule of the Thirty",
+        "to collect the laws of Athens"
+      ]
+    },
+    {
+      "c": "Xenophon's short account of Socrates' defense",
+      "a": "his Apology of Socrates",
+      "d": [
+        "his Anabasis",
+        "his Hellenica",
+        "his Cyropaedia"
+      ]
+    },
+    {
+      "c": "Xenophon's account of a Greek army's march home",
+      "a": "the Anabasis",
+      "d": [
+        "the Iliad",
+        "the Histories",
+        "the Hellenica"
+      ]
+    },
+    {
+      "c": "Where Xenophon was when Socrates was tried",
+      "a": "away in Asia on campaign",
+      "d": [
+        "in prison beside Socrates",
+        "on the jury at Athens"
+      ]
+    },
+    {
+      "c": "Translator of this Memorabilia",
+      "a": "H. G. Dakyns",
+      "d": [
+        "Benjamin Jowett",
+        "Richard Crawley",
+        "Arthur Hugh Clough"
+      ]
+    },
+    {
+      "c": "Alcibiades' guardian",
+      "a": "Pericles",
+      "d": [
+        "Socrates",
+        "Critias",
+        "Nicias"
+      ]
+    },
+    {
+      "c": "Alcibiades' age in Xenophon's story",
+      "a": "not yet twenty",
+      "d": [
+        "about forty",
+        "past sixty"
+      ]
+    },
+    {
+      "c": "Why Xenophon says Alcibiades sought out Socrates",
+      "a": "to gain skill for power in the state",
+      "d": [
+        "to learn humility and virtue",
+        "to study the heavens"
+      ]
+    },
+    {
+      "c": "Critias, in Xenophon's account",
+      "a": "a former companion of Socrates, a leader of the Thirty",
+      "d": [
+        "the general of the Sicilian expedition",
+        "Socrates' chief accuser at the trial"
+      ]
+    },
+    {
+      "c": "The Thirty (Athens, 404 BC)",
+      "a": "a pro-Spartan oligarchy that ruled by terror",
+      "d": [
+        "the jury that tried Socrates",
+        "the generals at Marathon"
+      ]
+    },
+    {
+      "c": "City Alcibiades fled to in 415 BC",
+      "a": "Sparta",
+      "d": [
+        "Thebes",
+        "Corinth",
+        "Syracuse"
+      ]
+    },
+    {
+      "c": "Pericles' first definition of a law",
+      "a": "what the majority in assembly approves and enacts",
+      "d": [
+        "whatever the gods command",
+        "the customs of the ancestors"
+      ]
+    },
+    {
+      "c": "in conclave",
+      "a": "gathered in a formal meeting",
+      "d": [
+        "scattered about the city",
+        "voting by secret letter"
+      ]
+    },
+    {
+      "c": "enact",
+      "a": "make into law",
+      "d": [
+        "repeal a law",
+        "break a law"
+      ]
+    },
+    {
+      "c": "Rule by a few, in Alcibiades' question",
+      "a": "oligarchy",
+      "d": [
+        "democracy",
+        "monarchy",
+        "anarchy"
+      ]
+    },
+    {
+      "c": "tyrant (Greek sense)",
+      "a": "one who holds sole power outside the law",
+      "d": [
+        "a lawful hereditary king",
+        "an elected chief magistrate"
+      ]
+    },
+    {
+      "c": "Alcibiades: force without persuasion is",
+      "a": "violence and lawlessness",
+      "d": [
+        "true law",
+        "good government"
+      ]
+    },
+    {
+      "c": "Pericles' final concession",
+      "a": "compulsion without persuasion is violence, not law",
+      "d": [
+        "whatever the strong enact is law",
+        "only the majority can make law"
+      ]
+    },
+    {
+      "c": "quibbles",
+      "a": "petty arguments over fine points",
+      "d": [
+        "serious moral lessons",
+        "jokes told at a banquet"
+      ]
+    },
+    {
+      "c": "'clever hands at such quibbles' (Pericles)",
+      "a": "Pericles waves the argument off as youthful",
+      "d": [
+        "Pericles admits Alcibiades is wiser",
+        "Pericles threatens to punish him"
+      ]
+    }
+  ],
+  "read": {
+    "title": "The Memorabilia: Alcibiades questions Pericles",
+    "text": [
+      "Alc. Please, Pericles, can you teach me what a law is?",
+      "Per. To be sure I can.",
+      "Alc. I should be so much obliged if you would do so. One so often hears the epithet \"law-abiding\" applied in a complimentary sense; yet, it strikes me, one hardly deserves the compliment, if one does not know what a law is.",
+      "Per. Fortunately there is a ready answer to your difficulty. You wish to know what a law is? Well, those are laws which the majority, being met together in conclave, approve and enact as to what it is right to do, and what it is right to abstain from doing.",
+      "Alc. Enact on the hypothesis that it is right to do what is good? or to do what is bad?",
+      "Per. What is good, to be sure, young sir, not what is bad.",
+      "Alc. Supposing it is not the majority, but, as in the case of an oligarchy, the minority, who meet and enact the rules of conduct, what are these?",
+      "Per. Whatever the ruling power of the state after deliberation enacts as our duty to do, goes by the name of laws.",
+      "Alc. Then if a tyrant, holding the chief power in the state, enacts rules of conduct for the citizens, are these enactments law?",
+      "Per. Yes, anything which a tyrant as head of the state enacts, also goes by the name of law.",
+      "Alc. But, Pericles, violence and lawlessness--how do we define them? Is it not when a stronger man forces a weaker to do what seems right to him--not by persuasion but by compulsion?",
+      "Per. I should say so.",
+      "Alc. It would seem to follow that if a tyrant, without persuading the citizens, drives them by enactment to do certain things--that is lawlessness?",
+      "Per. You are right; and I retract the statement that measures passed by a tyrant without persuasion of the citizens are law.",
+      "Alc. And what of measures passed by a minority, not by persuasion of the majority, but in the exercise of its power only? Are we, or are we not, to apply the term violence to these?",
+      "Per. I think that anything which any one forces another to do without persuasion, whether by enactment or not, is violence rather than law.",
+      "Alc. It would seem that everything which the majority, in the exercise of its power over the possessors of wealth, and without persuading them, chooses to enact, is of the nature of violence rather than of law?",
+      "To be sure (answered Pericles), adding: At your age we were clever hands at such quibbles ourselves. It was just such subtleties which we used to practise our wits upon; as you do now, if I mistake not.",
+      "To which Alcibiades replied: Ah, Pericles, I do wish we could have met in those days when you were at your cleverest in such matters."
+    ],
+    "q": [
+      {
+        "q": "How does Alcibiades undermine Pericles' first definition of law?",
+        "o": [
+          "He asks whether rules forced on others by a tyrant or a minority count as law",
+          "He quotes a law of Solon",
+          "He appeals to the gods"
+        ],
+        "k": 0
+      },
+      {
+        "q": "What does Pericles finally agree is violence rather than law?",
+        "o": [
+          "Any law passed by the majority",
+          "Anything one forces another to do without persuasion",
+          "Any decree older than a generation"
+        ],
+        "k": 1
+      },
+      {
+        "q": "How does Alcibiades reply to Pericles' last remark?",
+        "o": [
+          "He apologizes for his rudeness",
+          "He asks to be taught rhetoric",
+          "He wishes he had met Pericles when Pericles was at his cleverest"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Systems and architecture",
+  "note": "Design starts with orders of magnitude: a memory reference is about 100 ns, a datacenter round trip about 0.5 ms, a disk seek about 10 ms, and a cross-ocean round trip about 150 ms. Systems scale by adding machines behind load balancers, caching hot data, queuing slow work, and measuring everything.",
+  "src": { "t": "Latency numbers every programmer should know (Jeff Dean, Peter Norvig), GitHub gist", "u": "https://gist.github.com/jboner/2841832" },
+  "items": [
+    { "c": "L1 cache reference, roughly", "a": "about 1 ns", "d": ["about 100 ns", "about 10 µs"] },
+    { "c": "Main memory (RAM) reference, roughly", "a": "about 100 ns", "d": ["about 1 ns", "about 1 ms"] },
+    { "c": "Round trip within one datacenter, roughly", "a": "about 0.5 ms", "d": ["about 150 ms", "about 5 ns"] },
+    { "c": "Spinning-disk seek, roughly", "a": "about 10 ms", "d": ["about 10 µs", "about 10 s"] },
+    { "c": "Packet round trip California–Netherlands", "a": "about 150 ms", "d": ["about 1.5 ms", "about 15 s"] },
+    { "c": "Fastest place to read 1 MB sequentially", "a": "main memory", "d": ["an SSD", "a spinning disk"] },
+    { "c": "Horizontal scaling (scale out)", "a": "add more machines", "d": ["add CPU and RAM to one machine", "rewrite the service in C"] },
+    { "c": "Vertical scaling (scale up)", "a": "give one machine more CPU and RAM", "d": ["add more machines behind a balancer", "split the database by key"] },
+    { "c": "Services easiest to scale horizontally", "a": "stateless services", "d": ["services that keep sessions in memory", "services with one shared local disk"] },
+    { "c": "Load balancer", "a": "spreads incoming requests across servers", "d": ["compresses responses for slow clients", "stores session data permanently"] },
+    { "c": "Least-connections load balancing", "a": "send to the server with fewest active connections", "d": ["send to each server in turn", "send by a hash of the client IP"] },
+    { "c": "Consistent hashing", "a": "remaps only a small share of keys when nodes change", "d": ["gives every key the same hash", "rehashes every key when a node joins"] },
+    { "c": "Cache-aside (lazy loading)", "a": "on a miss, the app loads from the DB and fills the cache", "d": ["every write goes to cache and DB together", "writes go to cache first, DB later"] },
+    { "c": "Write-through cache", "a": "writes go to the cache and the database together", "d": ["writes go only to the cache, DB later", "reads bypass the cache entirely"] },
+    { "c": "Write-back (write-behind) cache", "a": "writes hit the cache now, the database later", "d": ["writes hit the database, never the cache", "writes go to both synchronously"] },
+    { "c": "LRU eviction", "a": "evicts the least recently used entry", "d": ["evicts the least frequently used entry", "evicts the newest entry"] },
+    { "c": "Cache TTL", "a": "how long an entry lives before it expires", "d": ["how many entries the cache can hold", "how long the cache takes to start"] },
+    { "c": "Cache stampede", "a": "many simultaneous misses hammer the backing store", "d": ["a cache that grows without limit", "two caches holding different values"] },
+    { "c": "CDN", "a": "servers near users that cache content", "d": ["a central database for static files", "a protocol that replaces DNS"] },
+    { "c": "Main benefit of a message queue", "a": "decouples producers from consumers and absorbs bursts", "d": ["guarantees every message is processed exactly once", "removes the need for a database"] },
+    { "c": "With at-least-once delivery, consumers must be", "a": "idempotent, since duplicates can arrive", "d": ["single-threaded, since order is random", "stateless, since messages are encrypted"] },
+    { "c": "Dead-letter queue", "a": "holds messages that keep failing processing", "d": ["holds messages for offline users", "holds deleted user accounts"] },
+    { "c": "Publish–subscribe messaging", "a": "each message goes to every subscriber", "d": ["each message goes to one worker", "messages are stored but never delivered"] },
+    { "c": "Monolith", "a": "one deployable unit containing all features", "d": ["many small services deployed separately", "a database with one table"] },
+    { "c": "Microservices", "a": "small services deployed independently over a network", "d": ["one codebase deployed as a single unit", "functions inlined at compile time"] },
+    { "c": "Main cost of microservices", "a": "network calls, partial failures, ops overhead", "d": ["no way to scale parts separately", "every team must share one codebase"] },
+    { "c": "Sharding", "a": "splitting data across databases by a key", "d": ["copying all data to every node", "compressing old rows"] },
+    { "c": "Read replicas", "a": "copies of a database that serve read traffic", "d": ["separate databases split by user ID", "backups stored offline"] },
+    { "c": "Three pillars of observability", "a": "logs, metrics, traces", "d": ["alerts, dashboards, pages", "unit, integration, end-to-end"] },
+    { "c": "Google SRE's four golden signals", "a": "latency, traffic, errors, saturation", "d": ["uptime, cost, users, revenue", "CPU, memory, disk, network"] },
+    { "c": "Distributed tracing", "a": "follows one request across many services", "d": ["counts requests per second", "copies logs to a backup server"] },
+    { "c": "SLO (service level objective)", "a": "a target value for a measured service indicator", "d": ["a legal contract with penalties", "the raw metric itself"] },
+    { "c": "SLA (service level agreement)", "a": "a contract with consequences if targets are missed", "d": ["an internal engineering target", "a dashboard of latency graphs"] },
+    { "c": "Yearly downtime at five nines (99.999%)", "a": "about 5 minutes", "d": ["about 9 hours", "about 1 hour", "about 30 seconds"] },
+    { "c": "p99 latency", "a": "99% of requests finish within this time", "d": ["the average of the slowest 1%", "latency on 99% CPU load"] },
+    { "c": "Circuit breaker", "a": "stops calling a failing dependency for a while", "d": ["restarts a server after a crash", "cuts power to idle machines"] }
+  ],
+  "read": {
+    "title": "Think in orders of magnitude",
+    "text": [
+      "A widely shared table of latencies, credited to Jeff Dean and Peter Norvig, is worth memorizing roughly. Reading from L1 cache takes about a nanosecond and from main memory about 100. A round trip inside a datacenter costs about half a millisecond, a spinning-disk seek about 10 milliseconds, and a packet from California to the Netherlands and back about 150 milliseconds. The lesson is that a single network hop costs thousands of memory reads, so architecture is often about avoiding trips.",
+      "Caching attacks that cost directly by keeping hot data close. The common cache-aside pattern checks the cache first and, on a miss, reads the database and stores the result with a time to live. Queues attack it differently: work that does not need an immediate answer, such as sending email, goes onto a queue, and workers process it at their own pace. Because most queues deliver at least once, consumers must handle duplicates safely.",
+      "Splitting a monolith into microservices lets teams deploy and scale parts independently, but every call that was a function call becomes a network call that can be slow or fail. That is why distributed systems lean on observability: metrics for trends, logs for detail, and traces to follow one request across services."
+    ],
+    "q": [
+      { "q": "What lesson does the reading draw from the latency table?", "o": ["Disks are faster than memory", "A network hop costs thousands of memory reads", "Caches are rarely worth it"], "k": 1 },
+      { "q": "Why must queue consumers handle duplicates?", "o": ["Most queues deliver messages at least once", "Queues reorder messages alphabetically", "Producers always send twice"], "k": 0 },
+      { "q": "What new cost appears when a monolith becomes microservices?", "o": ["Teams can no longer deploy separately", "The database must be removed", "Function calls become network calls that can fail"], "k": 2 }
+    ]
+  }
+}

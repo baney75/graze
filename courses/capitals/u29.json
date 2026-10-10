@@ -1,0 +1,24 @@
+{
+  "title": "Capitals of Oceania",
+  "note": "Australia’s capital is Canberra, built as a compromise between Sydney and Melbourne, and New Zealand’s is Wellington. Many Pacific capitals are small towns on a single island or atoll.",
+  "src": {
+    "t": "CIA World Factbook (archived JSON edition)",
+    "u": "https://github.com/factbook/factbook.json"
+  },
+  "items": [
+    { "c": "Australia", "a": "Canberra", "d": ["Sydney", "Melbourne", "Perth"] },
+    { "c": "New Zealand", "a": "Wellington", "d": ["Auckland", "Christchurch", "Dunedin"] },
+    { "c": "Papua New Guinea", "a": "Port Moresby", "d": ["Lae", "Mount Hagen", "Madang"] },
+    { "c": "Solomon Islands", "a": "Honiara", "d": ["Gizo", "Auki", "Port Vila"] },
+    { "c": "Vanuatu", "a": "Port Vila", "d": ["Luganville", "Lenakel", "Nouméa"] },
+    { "c": "Fiji", "a": "Suva", "d": ["Nadi", "Lautoka", "Labasa"] },
+    { "c": "Samoa", "a": "Apia", "d": ["Salelologa", "Pago Pago", "Nuku'alofa"] },
+    { "c": "Tonga", "a": "Nuku'alofa", "d": ["Neiafu", "Pangai", "Apia"] },
+    { "c": "Tuvalu", "a": "Funafuti", "d": ["Nanumea", "Suva", "Apia"] },
+    { "c": "Kiribati", "a": "Tarawa", "d": ["Kiritimati", "Majuro", "Funafuti"] },
+    { "c": "Nauru", "a": "Yaren", "d": ["Denigomodu", "Tarawa", "Majuro"], "ex": "Nauru has no official capital; government offices are in Yaren District." },
+    { "c": "Marshall Islands", "a": "Majuro", "d": ["Ebeye", "Palikir", "Tarawa"] },
+    { "c": "Micronesia", "a": "Palikir", "d": ["Kolonia", "Weno", "Majuro"] },
+    { "c": "Palau", "a": "Ngerulmud", "d": ["Koror", "Airai", "Palikir"], "ex": "Ngerulmud replaced Koror as the capital in 2006." }
+  ]
+}

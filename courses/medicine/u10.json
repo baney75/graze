@@ -1,0 +1,328 @@
+{
+ "title": "Common lab tests: CBC, BMP, lipid panel and A1C",
+ "note": "A reference range is the span of values found in most healthy people, usually the middle 95 percent, so some healthy people fall outside it. Ranges differ between laboratories, methods and populations. The numbers below are typical adult values from MedlinePlus, given to show scale, not as universal cutoffs.",
+ "src": {
+  "t": "MedlinePlus, Complete Blood Count (CBC)",
+  "u": "https://medlineplus.gov/lab-tests/complete-blood-count-cbc/"
+ },
+ "items": [
+  {
+   "c": "What a complete blood count (CBC) measures",
+   "a": "Red cells, white cells, platelets, hemoglobin, hematocrit",
+   "d": [
+    "Sodium, potassium, glucose, creatinine",
+    "Cholesterol, LDL, HDL, triglycerides"
+   ]
+  },
+  {
+   "c": "Hemoglobin",
+   "a": "Iron-containing protein that carries oxygen in red cells",
+   "d": [
+    "Protein that helps platelets form clots",
+    "Hormone that stimulates red cell production"
+   ]
+  },
+  {
+   "c": "Hematocrit",
+   "a": "Percentage of blood volume made up of red cells",
+   "d": [
+    "Number of white cells per microliter",
+    "Average size of a red cell"
+   ]
+  },
+  {
+   "c": "MCV (mean corpuscular volume)",
+   "a": "Average size of red blood cells",
+   "d": [
+    "Average hemoglobin per white cell",
+    "Total volume of blood in the body"
+   ]
+  },
+  {
+   "c": "CBC with differential",
+   "a": "Counts each of the five main types of white cells",
+   "d": [
+    "Compares red cell counts at two times",
+    "Separates plasma proteins by charge"
+   ]
+  },
+  {
+   "c": "The five main white blood cell types",
+   "a": "Neutrophils, lymphocytes, monocytes, eosinophils, basophils",
+   "d": [
+    "Erythrocytes, platelets, monocytes, neutrophils, plasma cells",
+    "B cells, T cells, NK cells, mast cells, osteoclasts"
+   ]
+  },
+  {
+   "c": "Most numerous white cell type in adult blood",
+   "a": "Neutrophils",
+   "d": [
+    "Basophils",
+    "Eosinophils"
+   ]
+  },
+  {
+   "c": "Typical adult white blood cell count",
+   "a": "4,500–11,000 cells per microliter",
+   "d": [
+    "150,000–400,000 cells per microliter",
+    "4.5–11 million cells per microliter"
+   ]
+  },
+  {
+   "c": "Typical adult platelet count",
+   "a": "150,000–400,000 per microliter",
+   "d": [
+    "4,500–11,000 per microliter",
+    "1,000–5,000 per microliter"
+   ]
+  },
+  {
+   "c": "Typical adult red blood cell count",
+   "a": "About 4.2–6.2 million cells per microliter",
+   "d": [
+    "About 4,200–6,200 cells per microliter",
+    "About 42–62 million cells per microliter"
+   ]
+  },
+  {
+   "c": "Typical adult hemoglobin (MedlinePlus)",
+   "a": "About 12–18 g/dL, higher on average in males",
+   "d": [
+    "About 2–5 g/dL",
+    "About 30–40 g/dL"
+   ]
+  },
+  {
+   "c": "A1C level used to diagnose diabetes",
+   "a": "6.5% or higher",
+   "d": [
+    "5.0% or higher",
+    "10.5% or higher"
+   ]
+  },
+  {
+   "c": "What a basic metabolic panel (BMP) measures",
+   "a": "Glucose, electrolytes, BUN, creatinine, calcium",
+   "d": [
+    "Red cells, white cells and platelets",
+    "Liver enzymes and bilirubin only"
+   ]
+  },
+  {
+   "c": "Electrolytes reported on a BMP",
+   "a": "Sodium, potassium, chloride and CO2 (bicarbonate)",
+   "d": [
+    "Iron, zinc, copper and iodine",
+    "Calcium, magnesium, phosphate and fluoride"
+   ]
+  },
+  {
+   "c": "Typical serum sodium (MedlinePlus)",
+   "a": "About 136–144 mEq/L",
+   "d": [
+    "About 3.7–5.2 mEq/L",
+    "About 96–106 mEq/L"
+   ]
+  },
+  {
+   "c": "Typical serum potassium (MedlinePlus)",
+   "a": "About 3.7–5.2 mEq/L",
+   "d": [
+    "About 136–144 mEq/L",
+    "About 22–29 mEq/L"
+   ]
+  },
+  {
+   "c": "Typical serum calcium (MedlinePlus)",
+   "a": "About 8.5–10.2 mg/dL",
+   "d": [
+    "About 85–102 mg/dL",
+    "About 0.8–1.2 mg/dL"
+   ]
+  },
+  {
+   "c": "Main cation of extracellular fluid",
+   "a": "Sodium",
+   "d": [
+    "Potassium",
+    "Magnesium"
+   ]
+  },
+  {
+   "c": "Main cation inside cells",
+   "a": "Potassium",
+   "d": [
+    "Sodium",
+    "Calcium"
+   ]
+  },
+  {
+   "c": "BUN (blood urea nitrogen)",
+   "a": "Nitrogen waste from protein breakdown, cleared by kidneys",
+   "d": [
+    "Iron store in the liver",
+    "Sugar bound to hemoglobin"
+   ]
+  },
+  {
+   "c": "Serum creatinine is used mainly to gauge",
+   "a": "How well the kidneys filter",
+   "d": [
+    "How well the liver makes proteins",
+    "How much sugar is in the blood"
+   ]
+  },
+  {
+   "c": "Creatinine comes from",
+   "a": "Normal breakdown of creatine in muscle",
+   "d": [
+    "Digestion of dietary fat",
+    "Breakdown of old red cells"
+   ]
+  },
+  {
+   "c": "Upper limit of normal fasting glucose on a BMP",
+   "a": "About 100 mg/dL",
+   "d": [
+    "About 200 mg/dL",
+    "About 40 mg/dL"
+   ]
+  },
+  {
+   "c": "What a lipid panel measures",
+   "a": "Total cholesterol, LDL, HDL and triglycerides",
+   "d": [
+    "Sodium, potassium, chloride and CO2",
+    "Hemoglobin, hematocrit and platelets"
+   ]
+  },
+  {
+   "c": "Desirable total cholesterol for adults",
+   "a": "Under 200 mg/dL",
+   "d": [
+    "Under 400 mg/dL",
+    "Under 50 mg/dL"
+   ]
+  },
+  {
+   "c": "Desirable LDL cholesterol for adults (MedlinePlus)",
+   "a": "Under 100 mg/dL",
+   "d": [
+    "Under 300 mg/dL",
+    "Under 10 mg/dL"
+   ]
+  },
+  {
+   "c": "HDL level considered best",
+   "a": "60 mg/dL or higher",
+   "d": [
+    "20 mg/dL or lower",
+    "200 mg/dL or higher"
+   ]
+  },
+  {
+   "c": "Healthy adult triglyceride level",
+   "a": "Under 150 mg/dL",
+   "d": [
+    "Under 500 mg/dL",
+    "Under 15 mg/dL"
+   ]
+  },
+  {
+   "c": "Non-HDL cholesterol",
+   "a": "Total cholesterol minus HDL",
+   "d": [
+    "LDL minus HDL",
+    "Triglycerides divided by 5"
+   ]
+  },
+  {
+   "c": "Main job of HDL",
+   "a": "Carrying cholesterol from tissues back to the liver",
+   "d": [
+    "Delivering cholesterol into artery walls",
+    "Carrying dietary fat from the gut"
+   ]
+  },
+  {
+   "c": "What the hemoglobin A1C test measures",
+   "a": "Percentage of hemoglobin with glucose attached",
+   "d": [
+    "Current blood glucose at the moment of the draw",
+    "Insulin made by the pancreas"
+   ]
+  },
+  {
+   "c": "A1C reflects average blood glucose over",
+   "a": "The past 2 to 3 months",
+   "d": [
+    "The past 2 to 3 days",
+    "The past 2 to 3 years"
+   ]
+  },
+  {
+   "c": "Why A1C reflects months rather than days",
+   "a": "Red cells live about 120 days",
+   "d": [
+    "Glucose stays in plasma for months",
+    "The liver releases A1C slowly"
+   ]
+  },
+  {
+   "c": "A1C result in the normal range",
+   "a": "Below 5.7%",
+   "d": [
+    "Below 9.5%",
+    "Below 2.0%"
+   ]
+  },
+  {
+   "c": "A1C range classed as prediabetes",
+   "a": "5.7% to 6.4%",
+   "d": [
+    "4.0% to 5.6%",
+    "6.5% to 8.0%"
+   ]
+  }
+ ],
+ "read": {
+  "title": "What a reference range means",
+  "text": [
+   "A lab report prints each result next to a reference range. Laboratories usually build that range by testing many healthy people and keeping the middle 95 percent of their values. That simple fact has two consequences.",
+   "First, a value just outside the range is not automatically abnormal. By definition, about 1 healthy person in 20 falls outside the range for any single test, and when a panel reports 20 values at once, a healthy person will often have at least one flagged result. Second, a value inside the range does not guarantee health; it only means the number is common among healthy people.",
+   "Ranges also differ between laboratories because of different machines, methods and reference populations, and some depend on age, sex or altitude. Hemoglobin, for example, runs higher on average in adult males and in people living at high altitude. For this reason clinicians read a result against the range printed by the lab that ran it, look at trends over time, and interpret numbers together with the history and examination rather than in isolation."
+  ],
+  "q": [
+   {
+    "q": "A reference range usually covers what share of healthy people?",
+    "o": [
+     "50%",
+     "75%",
+     "95%",
+     "100%"
+    ],
+    "k": 2
+   },
+   {
+    "q": "Why might a healthy person have one flagged value on a 20-test panel?",
+    "o": [
+     "Each test leaves about 5% of healthy people outside its range",
+     "Labs always make errors",
+     "Reference ranges include only sick people"
+    ],
+    "k": 0
+   },
+   {
+    "q": "Why can two labs print different ranges for the same test?",
+    "o": [
+     "Ranges are chosen at random",
+     "They use different methods, machines and reference populations",
+     "One of the labs must be wrong"
+    ],
+    "k": 1
+   }
+  ]
+ }
+}

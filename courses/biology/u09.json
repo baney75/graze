@@ -1,0 +1,51 @@
+{
+  "title": "Meiosis and sexual reproduction",
+  "note": "Meiosis is two divisions after one round of DNA replication, turning one diploid cell into four genetically different haploid cells. Meiosis I separates homologous chromosomes; meiosis II separates sister chromatids. Crossing over and independent assortment shuffle alleles, and fertilization restores the diploid number.",
+  "src": { "t": "OpenStax Biology 2e, Ch. 11: Meiosis and Sexual Reproduction", "u": "https://openstax.org/books/biology-2e/pages/11-introduction" },
+  "items": [
+    { "c": "Meiosis produces…", "a": "four genetically different haploid cells", "d": ["two identical diploid cells", "four identical diploid cells"] },
+    { "c": "Mitosis produces…", "a": "two genetically identical daughter cells", "d": ["four genetically different daughter cells", "two cells with half the chromosomes"] },
+    { "c": "Haploid (n)", "a": "One set of chromosomes", "d": ["Two sets of chromosomes", "Three or more sets of chromosomes"] },
+    { "c": "Diploid (2n)", "a": "Two sets of chromosomes", "d": ["One set of chromosomes", "Only sex chromosomes"] },
+    { "c": "Homologous chromosomes", "a": "Matching pair with the same genes, one from each parent", "d": ["Two identical copies joined at a centromere", "Any two chromosomes of equal length"] },
+    { "c": "Sister chromatids", "a": "Identical copies of a chromosome joined at a centromere", "d": ["Matched chromosomes from mother and father", "The X and Y chromosomes"] },
+    { "c": "Chromosomes in a human body cell", "a": "46", "d": ["23", "48"] },
+    { "c": "Chromosomes in a human egg or sperm", "a": "23", "d": ["46", "92"] },
+    { "c": "Synapsis", "a": "Homologous chromosomes pair tightly in prophase I", "d": ["Sister chromatids separate in anaphase II", "Gametes fuse at fertilization"] },
+    { "c": "Synaptonemal complex", "a": "Protein lattice holding paired homologs together", "d": ["Ring of actin dividing the cytoplasm", "Spindle pole made of centrioles"] },
+    { "c": "Tetrad", "a": "Paired homologs, made of four chromatids", "d": ["Four haploid cells from meiosis", "Four sets of chromosomes in one cell"] },
+    { "c": "Crossing over", "a": "Exchange of segments between non-sister chromatids", "d": ["Exchange of segments between sister chromatids", "Random alignment of homolog pairs"] },
+    { "c": "Chiasma", "a": "Visible point where crossing over has occurred", "d": ["Constriction where sister chromatids join", "Protein disk where spindle fibers bind"] },
+    { "c": "Stage when crossing over happens", "a": "Prophase I", "d": ["Prophase II", "Metaphase II"] },
+    { "c": "Independent assortment in meiosis", "a": "Random orientation of homolog pairs at metaphase I", "d": ["Exchange of DNA between non-sister chromatids", "Separation of sister chromatids at anaphase II"] },
+    { "c": "Assortment combinations in human gametes", "a": "2^23, about 8 million", "d": ["23 × 2, or 46", "2^46, about 70 trillion"] },
+    { "c": "Anaphase I separates…", "a": "homologous chromosomes", "d": ["sister chromatids", "the two centrioles"] },
+    { "c": "Anaphase II separates…", "a": "sister chromatids", "d": ["homologous chromosomes", "tetrads"] },
+    { "c": "Why meiosis I is the reduction division", "a": "It halves the number of chromosome sets", "d": ["It is when DNA is replicated", "It produces four cells at once"] },
+    { "c": "Interkinesis", "a": "Pause between meiosis I and II with no DNA replication", "d": ["DNA replication before meiosis I", "Fusion of two haploid nuclei"] },
+    { "c": "Fertilization", "a": "Haploid gametes fuse into a diploid zygote", "d": ["A diploid cell divides into four gametes", "A cell copies its DNA before division"] },
+    { "c": "Nondisjunction", "a": "Chromosomes fail to separate properly in meiosis", "d": ["Segments swap between non-sister chromatids", "Homologs pair during prophase I"] },
+    { "c": "Main advantage of sexual reproduction", "a": "Genetic variation among offspring", "d": ["Faster population growth", "Offspring identical to parents"] },
+    { "c": "Red Queen hypothesis", "a": "Species must keep evolving to keep pace with rivals and pathogens", "d": ["Females choose the showiest males", "Asexual species always outcompete sexual ones"] },
+    { "c": "Asexual reproduction", "a": "Offspring genetically identical to a single parent", "d": ["Offspring from two parents' gametes", "Offspring with half the parent's chromosomes"] },
+    { "c": "Diploid-dominant life cycle", "a": "Multicellular diploid adults; only gametes are haploid", "d": ["Multicellular haploid adults; only zygotes are diploid", "Alternating multicellular haploid and diploid stages"], "ex": "Most animals, including humans." },
+    { "c": "Haploid-dominant life cycle", "a": "Multicellular haploid stage; only the zygote is diploid", "d": ["Multicellular diploid stage; only gametes are haploid", "No haploid cells at any stage"], "ex": "Most fungi and some algae." },
+    { "c": "Alternation of generations", "a": "Multicellular haploid and diploid stages alternate", "d": ["Only the zygote is diploid", "Only the gametes are haploid"], "ex": "Seen in plants." },
+    { "c": "Sporophyte", "a": "Diploid plant stage that makes spores by meiosis", "d": ["Haploid plant stage that makes gametes by mitosis", "Single-celled zygote of a plant"] },
+    { "c": "Gametophyte", "a": "Haploid plant stage that makes gametes by mitosis", "d": ["Diploid plant stage that makes spores by meiosis", "Haploid spore that cannot divide"] }
+  ],
+  "read": {
+    "title": "Why no two siblings are alike",
+    "text": [
+      "Every human body cell carries 46 chromosomes, 23 inherited from each parent. To make eggs or sperm, the body must cut that number in half, or the count would double each generation. Meiosis does this.",
+      "Before meiosis begins, the DNA is copied, so each chromosome consists of two sister chromatids. In prophase I, each chromosome finds its homolog, the matching chromosome from the other parent, and the two pair tightly. While paired, non-sister chromatids trade matching segments. This crossing over creates chromosomes that mix maternal and paternal alleles.",
+      "At metaphase I the pairs line up at the center of the cell. Which side the maternal or paternal member faces is random and independent for each pair. With 23 pairs, a single person can produce about 8 million chromosome combinations, before crossing over is even counted. Anaphase I then pulls the homologs apart, halving the number of chromosome sets.",
+      "Meiosis II looks like mitosis: sister chromatids separate, leaving four haploid cells. Because of crossing over, independent assortment, and the random meeting of egg and sperm, siblings from the same parents are almost never genetically identical, unless they are identical twins from one zygote."
+    ],
+    "q": [
+      { "q": "What pairs up during prophase I?", "o": ["Sister chromatids", "Homologous chromosomes", "Egg and sperm", "Centrioles"], "k": 1 },
+      { "q": "Which division reduces the chromosome sets by half?", "o": ["Meiosis I", "Meiosis II", "Mitosis"], "k": 0 },
+      { "q": "Which is a source of variation named in the reading?", "o": ["DNA replication", "Crossing over", "Cytokinesis"], "k": 1 }
+    ]
+  }
+}

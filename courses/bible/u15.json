@@ -1,0 +1,295 @@
+{
+  "title": "Paul and his letters",
+  "note": "Saul of Tarsus, a Pharisee who persecuted the church, became Paul, 'the apostle of the Gentiles.' Thirteen New Testament letters bear his name; scholars debate the authorship of some, so they are described here as traditionally attributed to him. His letters answer real questions from churches he founded or hoped to visit.",
+  "src": {
+    "t": "1 Corinthians 13, King James Version, Project Gutenberg eBook #10",
+    "u": "https://www.gutenberg.org/ebooks/10"
+  },
+  "items": [
+    {
+      "c": "Paul's birthplace",
+      "a": "Tarsus in Cilicia",
+      "d": [
+        "Damascus in Syria",
+        "Antioch in Pisidia"
+      ]
+    },
+    {
+      "c": "Name Acts uses for Paul until chapter 13",
+      "a": "Saul",
+      "d": [
+        "Simon",
+        "Silas"
+      ]
+    },
+    {
+      "c": "Teacher at whose feet Paul was brought up",
+      "a": "Gamaliel",
+      "d": [
+        "Caiaphas",
+        "Nicodemus"
+      ]
+    },
+    {
+      "c": "Paul's trade, shared with Aquila and Priscilla",
+      "a": "tentmaking",
+      "d": [
+        "fishing",
+        "carpentry"
+      ]
+    },
+    {
+      "c": "Paul's citizenship",
+      "a": "Roman, by birth",
+      "d": [
+        "Roman, bought for a great sum",
+        "Greek, from Athens"
+      ]
+    },
+    {
+      "c": "Title Paul gives himself in Romans 11:13",
+      "a": "the apostle of the Gentiles",
+      "d": [
+        "the least of the prophets",
+        "the servant of Israel"
+      ]
+    },
+    {
+      "c": "Letters traditionally attributed to Paul",
+      "a": "13",
+      "d": [
+        "10",
+        "21"
+      ]
+    },
+    {
+      "c": "How Hebrews differs from Paul's 13 letters",
+      "a": "the letter itself names no author",
+      "d": [
+        "it is signed by Barnabas",
+        "it was written in Latin"
+      ]
+    },
+    {
+      "c": "Central theme of Romans",
+      "a": "righteousness from God through faith, for Jew and Greek",
+      "d": [
+        "rules for choosing church elders",
+        "the coming of the new Jerusalem"
+      ]
+    },
+    {
+      "c": "'For all have sinned, and come short...'",
+      "a": "Romans 3:23",
+      "d": [
+        "Romans 8:28",
+        "Galatians 5:22"
+      ]
+    },
+    {
+      "c": "'The wages of sin is death...'",
+      "a": "Romans 6:23",
+      "d": [
+        "Romans 3:23",
+        "1 Corinthians 13:13"
+      ]
+    },
+    {
+      "c": "'All things work together for good...'",
+      "a": "Romans 8:28",
+      "d": [
+        "Romans 6:23",
+        "Philippians 4:13"
+      ]
+    },
+    {
+      "c": "Chapter often called the love chapter",
+      "a": "1 Corinthians 13",
+      "d": [
+        "Romans 8",
+        "Ephesians 6"
+      ]
+    },
+    {
+      "c": "'Charity' in 1 Corinthians 13 (KJV)",
+      "a": "love (Greek agape)",
+      "d": [
+        "giving money to the poor",
+        "a church offering"
+      ]
+    },
+    {
+      "c": "'O death, where is thy sting?' chapter",
+      "a": "1 Corinthians 15",
+      "d": [
+        "2 Corinthians 12",
+        "Romans 6"
+      ]
+    },
+    {
+      "c": "Paul's picture of the church in 1 Corinthians 12",
+      "a": "one body with many members",
+      "d": [
+        "a flock with one shepherd",
+        "a city set on a hill"
+      ]
+    },
+    {
+      "c": "Letter with Paul's 'thorn in the flesh'",
+      "a": "2 Corinthians",
+      "d": [
+        "Galatians",
+        "Philemon"
+      ]
+    },
+    {
+      "c": "'God loveth a cheerful giver'",
+      "a": "2 Corinthians 9:7",
+      "d": [
+        "Romans 12:2",
+        "1 Timothy 6:10"
+      ]
+    },
+    {
+      "c": "Main argument of Galatians",
+      "a": "justified by faith in Christ, not by works of the law",
+      "d": [
+        "the law must be kept to be saved",
+        "Gentiles must become Jews first"
+      ]
+    },
+    {
+      "c": "The fruit of the Spirit begins",
+      "a": "love, joy, peace, longsuffering",
+      "d": [
+        "faith, hope, charity",
+        "wisdom, knowledge, prophecy"
+      ]
+    },
+    {
+      "c": "Letter that lists the fruit of the Spirit",
+      "a": "Galatians",
+      "d": [
+        "Ephesians",
+        "Colossians"
+      ]
+    },
+    {
+      "c": "'Put on the whole armour of God'",
+      "a": "Ephesians 6",
+      "d": [
+        "Galatians 5",
+        "Romans 13"
+      ]
+    },
+    {
+      "c": "'For by grace are ye saved through faith'",
+      "a": "Ephesians 2:8",
+      "d": [
+        "Romans 8:28",
+        "James 2:26"
+      ]
+    },
+    {
+      "c": "Keynote of Philippians, though written in bonds",
+      "a": "joy",
+      "d": [
+        "grief",
+        "judgment"
+      ]
+    },
+    {
+      "c": "'I can do all things through Christ...'",
+      "a": "Philippians 4:13",
+      "d": [
+        "Romans 8:28",
+        "2 Timothy 4:7"
+      ]
+    },
+    {
+      "c": "Letters with Christ's return as a major theme",
+      "a": "1 and 2 Thessalonians",
+      "d": [
+        "1 and 2 Timothy",
+        "1 and 2 Corinthians"
+      ]
+    },
+    {
+      "c": "'Pray without ceasing'",
+      "a": "1 Thessalonians 5:17",
+      "d": [
+        "Philippians 4:4",
+        "Romans 12:12"
+      ]
+    },
+    {
+      "c": "'The love of money is the root of all evil'",
+      "a": "1 Timothy 6:10",
+      "d": [
+        "Proverbs 16:18",
+        "James 1:17"
+      ]
+    },
+    {
+      "c": "'I have fought a good fight...'",
+      "a": "2 Timothy 4:7",
+      "d": [
+        "Philippians 1:21",
+        "Acts 20:24"
+      ]
+    },
+    {
+      "c": "Runaway slave in the letter to Philemon",
+      "a": "Onesimus",
+      "d": [
+        "Tychicus",
+        "Epaphras"
+      ]
+    },
+    {
+      "c": "Paul's death, by early Christian tradition",
+      "a": "martyred in Rome under Nero",
+      "d": [
+        "stoned at Lystra",
+        "died of old age at Ephesus"
+      ]
+    }
+  ],
+  "read": {
+    "title": "The greatest of these (1 Corinthians 13)",
+    "text": [
+      "Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal. And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing. And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.",
+      "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up, Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil; Rejoiceth not in iniquity, but rejoiceth in the truth; Beareth all things, believeth all things, hopeth all things, endureth all things.",
+      "Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away. For we know in part, and we prophesy in part. But when that which is perfect is come, then that which is in part shall be done away. When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things. For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known. And now abideth faith, hope, charity, these three; but the greatest of these is charity."
+    ],
+    "q": [
+      {
+        "q": "Without charity, the speaker who has all faith to remove mountains is...",
+        "o": [
+          "a prophet",
+          "nothing",
+          "a sounding brass"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Which of these does the passage say charity never does?",
+        "o": [
+          "Faileth",
+          "Hopeth",
+          "Beareth"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Which three things abide at the end of the chapter?",
+        "o": [
+          "Tongues, knowledge, prophecy",
+          "Grace, mercy, peace",
+          "Faith, hope, charity"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

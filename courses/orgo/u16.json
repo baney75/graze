@@ -1,0 +1,370 @@
+{
+  "title": "Spectroscopy: IR, ¹H NMR and mass spectra",
+  "note": "IR finds functional groups: O–H and N–H above 3200 cm⁻¹, triple bonds near 2100 to 2260, C=O near 1700. ¹H NMR counts kinds of hydrogen; the shift (δ) shows their environment, the area shows how many, and n neighboring H's split a signal into n + 1 peaks. MS gives the molecular mass and clues from fragments and isotopes.",
+  "src": {
+    "t": "LibreTexts, Organic Chemistry (Morsch et al.), Ch. 13 Nuclear Magnetic Resonance Spectroscopy",
+    "u": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/13%3A_Structure_Determination_-_Nuclear_Magnetic_Resonance_Spectroscopy"
+  },
+  "items": [
+    {
+      "c": "IR: strong, sharp band near 1715 cm⁻¹",
+      "a": "C=O of a saturated ketone",
+      "d": [
+        "O–H of an alcohol",
+        "C≡N of a nitrile"
+      ]
+    },
+    {
+      "c": "IR: broad, strong band near 3200–3600 cm⁻¹",
+      "a": "hydrogen-bonded O–H of an alcohol",
+      "d": [
+        "C=O of an ester",
+        "C≡C of an alkyne"
+      ]
+    },
+    {
+      "c": "IR: very broad 2500–3300 band + C=O near 1710",
+      "a": "carboxylic acid",
+      "d": [
+        "alcohol",
+        "ketone"
+      ]
+    },
+    {
+      "c": "IR: two N–H bands near 3350 and 3450 cm⁻¹",
+      "a": "primary amine, R–NH₂",
+      "d": [
+        "secondary amine, R₂NH",
+        "tertiary amine, R₃N"
+      ]
+    },
+    {
+      "c": "IR: one N–H band near 3350 cm⁻¹",
+      "a": "secondary amine, R₂NH",
+      "d": [
+        "primary amine, R–NH₂",
+        "tertiary amine, R₃N"
+      ]
+    },
+    {
+      "c": "IR: sharp band near 2250 cm⁻¹",
+      "a": "C≡N of a nitrile",
+      "d": [
+        "C=O of an aldehyde",
+        "O–H of a carboxylic acid"
+      ]
+    },
+    {
+      "c": "IR: strong ≡C–H band near 3300 plus C≡C ~2150",
+      "a": "terminal alkyne",
+      "d": [
+        "internal alkyne",
+        "primary amine"
+      ]
+    },
+    {
+      "c": "IR: C–H bands at 2700–2760 and 2800–2860 cm⁻¹",
+      "a": "aldehyde H–C=O",
+      "d": [
+        "carboxylic acid O–H",
+        "alkene =C–H"
+      ]
+    },
+    {
+      "c": "IR C=O stretch of a saturated ester",
+      "a": "about 1735 cm⁻¹",
+      "d": [
+        "about 1690 cm⁻¹",
+        "about 2250 cm⁻¹"
+      ]
+    },
+    {
+      "c": "Effect of conjugation on the C=O IR band",
+      "a": "lowers it, for example 1715 to about 1690",
+      "d": [
+        "raises it, for example 1715 to about 1750",
+        "has no effect on it"
+      ]
+    },
+    {
+      "c": "Cyclopentanone vs cyclohexanone C=O in IR",
+      "a": "higher, ~1750 vs 1715 cm⁻¹, from ring strain",
+      "d": [
+        "lower, ~1690 vs 1715 cm⁻¹, from conjugation",
+        "the same, ~1715 cm⁻¹"
+      ]
+    },
+    {
+      "c": "C–H stretches at 2850–2960 cm⁻¹",
+      "a": "sp³ C–H, as in alkanes",
+      "d": [
+        "sp² C–H, as in alkenes",
+        "sp C–H, as in terminal alkynes"
+      ]
+    },
+    {
+      "c": "IR region from 1500 to about 400 cm⁻¹",
+      "a": "fingerprint region, unique to each compound",
+      "d": [
+        "triple-bond region",
+        "O–H and N–H stretching region"
+      ]
+    },
+    {
+      "c": "Reference compound for δ 0 in ¹H NMR",
+      "a": "tetramethylsilane (TMS)",
+      "d": [
+        "chloroform (CHCl₃)",
+        "benzene (C₆H₆)"
+      ]
+    },
+    {
+      "c": "Downfield in an NMR spectrum means",
+      "a": "to the left: higher δ, less shielded",
+      "d": [
+        "to the right: lower δ, more shielded",
+        "to the left: higher δ, more shielded"
+      ]
+    },
+    {
+      "c": "Why an electronegative atom deshields nearby H",
+      "a": "it pulls electron density away from the H",
+      "d": [
+        "it pushes electron density onto the H",
+        "it adds more hydrogens nearby"
+      ]
+    },
+    {
+      "c": "¹H NMR shift of an aldehyde proton",
+      "a": "about 9.7–10 δ",
+      "d": [
+        "about 2.0–2.4 δ",
+        "about 4.5–6.5 δ"
+      ]
+    },
+    {
+      "c": "¹H NMR shift of a carboxylic acid proton",
+      "a": "about 10–13 δ, a broad singlet",
+      "d": [
+        "about 0.9 δ, a triplet",
+        "about 3.5 δ, a quartet"
+      ]
+    },
+    {
+      "c": "¹H NMR shift of aromatic ring protons",
+      "a": "about 6.5–8.0 δ",
+      "d": [
+        "about 1.2–1.6 δ",
+        "about 9.7–10 δ"
+      ]
+    },
+    {
+      "c": "¹H NMR shift of vinylic (C=C–H) protons",
+      "a": "about 4.5–6.5 δ",
+      "d": [
+        "about 6.5–8.0 δ",
+        "about 0.7–1.3 δ"
+      ]
+    },
+    {
+      "c": "¹H NMR shift of H on a carbon bonded to O",
+      "a": "about 3.3–4.5 δ",
+      "d": [
+        "about 0.7–1.3 δ",
+        "about 11–12 δ"
+      ]
+    },
+    {
+      "c": "¹H NMR signal of the CH₃ in a methyl ketone",
+      "a": "3H singlet near 2.1 δ",
+      "d": [
+        "3H triplet near 0.9 δ",
+        "3H singlet near 3.8 δ"
+      ]
+    },
+    {
+      "c": "The n + 1 rule",
+      "a": "n equivalent neighbor H's give n + 1 peaks",
+      "d": [
+        "n equivalent neighbor H's give n peaks",
+        "n equivalent neighbor H's give 2n peaks"
+      ]
+    },
+    {
+      "c": "¹H NMR pattern of an ethyl group",
+      "a": "3H triplet and 2H quartet",
+      "d": [
+        "3H quartet and 2H triplet",
+        "3H singlet and 2H singlet"
+      ]
+    },
+    {
+      "c": "¹H NMR pattern of an isopropyl group",
+      "a": "6H doublet and 1H septet",
+      "d": [
+        "6H septet and 1H doublet",
+        "6H triplet and 1H quartet"
+      ]
+    },
+    {
+      "c": "Splitting of a CH₃ with no neighboring H",
+      "a": "singlet",
+      "d": [
+        "doublet",
+        "quartet"
+      ]
+    },
+    {
+      "c": "Do equivalent protons split each other?",
+      "a": "no; they show no splitting",
+      "d": [
+        "yes, always into doublets",
+        "only when on the same carbon"
+      ]
+    },
+    {
+      "c": "Integration of a ¹H NMR signal measures",
+      "a": "the relative number of H's in it",
+      "d": [
+        "the number of neighboring H's",
+        "the electronegativity nearby"
+      ]
+    },
+    {
+      "c": "Number of ¹H NMR signals for p-xylene",
+      "a": "two: ring H's and CH₃ groups",
+      "d": [
+        "three: one per kind of carbon",
+        "four: one per ring position"
+      ]
+    },
+    {
+      "c": "¹H NMR of diethyl ether, CH₃CH₂OCH₂CH₃",
+      "a": "two signals: a triplet and a quartet",
+      "d": [
+        "four signals, one per carbon",
+        "one signal; all H's are equivalent"
+      ]
+    },
+    {
+      "c": "A ¹H signal that vanishes after shaking with D₂O",
+      "a": "an O–H or N–H proton",
+      "d": [
+        "an aromatic C–H proton",
+        "a CH₃ proton"
+      ]
+    },
+    {
+      "c": "Typical coupling constant for H–C–C–H in a chain",
+      "a": "about 7 Hz",
+      "d": [
+        "about 70 Hz",
+        "about 700 Hz"
+      ]
+    },
+    {
+      "c": "¹³C shift of an aldehyde or ketone C=O carbon",
+      "a": "about 190–215 δ",
+      "d": [
+        "about 20–40 δ",
+        "about 115–130 δ"
+      ]
+    },
+    {
+      "c": "Molecular ion (M⁺•) in a mass spectrum",
+      "a": "the intact molecule minus one electron",
+      "d": [
+        "the tallest peak in every spectrum",
+        "a neutral fragment that is not detected"
+      ]
+    },
+    {
+      "c": "Base peak of a mass spectrum",
+      "a": "the tallest peak, set to 100",
+      "d": [
+        "the peak with the highest m/z",
+        "the peak of the neutral molecule"
+      ]
+    },
+    {
+      "c": "Nitrogen rule in mass spectrometry",
+      "a": "odd molecular mass means an odd number of N atoms",
+      "d": [
+        "even molecular mass means an odd number of N atoms",
+        "odd molecular mass means one oxygen atom"
+      ]
+    },
+    {
+      "c": "M and M+2 peaks in about a 3:1 ratio",
+      "a": "one chlorine atom",
+      "d": [
+        "one bromine atom",
+        "one nitrogen atom"
+      ]
+    },
+    {
+      "c": "M and M+2 peaks of nearly equal height",
+      "a": "one bromine atom",
+      "d": [
+        "one chlorine atom",
+        "one fluorine atom"
+      ]
+    },
+    {
+      "c": "Alcohol mass spectrum: peak at M − 18",
+      "a": "loss of water (dehydration)",
+      "d": [
+        "loss of a methyl group",
+        "loss of carbon monoxide"
+      ]
+    },
+    {
+      "c": "Base peak at m/z 43 in the spectrum of acetone",
+      "a": "CH₃CO⁺ acylium ion from α cleavage",
+      "d": [
+        "the molecular ion of acetone",
+        "a CH₃⁺ methyl cation"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Three ways to see a molecule",
+    "text": [
+      "Chemists rarely see molecules directly, so they read spectra. Infrared spectroscopy measures which bond vibrations absorb light. A strong band near 1715 cm⁻¹ signals a C=O; a broad band above 3200 cm⁻¹ signals an O–H; a sharp band near 2250 cm⁻¹ signals a nitrile. IR is quick for asking which functional groups are present, but it says little about how the carbons are connected.",
+      "Proton NMR fills that gap. Each set of equivalent hydrogens gives one signal. Its position, the chemical shift, reflects the electron density around it: an electronegative neighbor pulls density away, deshields the proton, and moves its signal downfield to higher δ. The area under the signal is proportional to the number of hydrogens. Splitting reveals the neighbors: a hydrogen with n equivalent neighbors appears as n + 1 lines. An ethyl group therefore shows a triplet for its CH₃ and a quartet for its CH₂.",
+      "Mass spectrometry knocks an electron off the molecule and sorts the ions by mass. The molecular ion gives the molecular mass. Fragments and isotope patterns add clues: a 3:1 pair two units apart points to chlorine, and an odd molecular mass points to nitrogen."
+    ],
+    "q": [
+      {
+        "q": "Which technique best shows how the carbons are connected?",
+        "o": [
+          "Infrared spectroscopy",
+          "Proton NMR",
+          "Measuring melting point",
+          "Mass spectrometry alone"
+        ],
+        "k": 1
+      },
+      {
+        "q": "In an ethyl group, the CH₂ signal appears as a",
+        "o": [
+          "Singlet",
+          "Doublet",
+          "Triplet",
+          "Quartet"
+        ],
+        "k": 3
+      },
+      {
+        "q": "What does an odd molecular mass suggest?",
+        "o": [
+          "A chlorine atom",
+          "A nitrogen atom",
+          "A carbonyl group",
+          "A bromine atom"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

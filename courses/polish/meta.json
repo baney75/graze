@@ -1,0 +1,17 @@
+{
+  "key": "polish",
+  "name": "Polish",
+  "group": "Languages",
+  "tag": "POLSKI",
+  "lang": "pl-PL",
+  "speak": "recognize",
+  "level": "Beginner to A2",
+  "blurb": "Read simple Polish texts and handle everyday conversations: about 650 high-frequency words, present, past and future tenses, aspect pairs, and all seven cases in their most common uses.",
+  "sources": [
+    { "t": "Oscar E. Swan, A Student's Online Polish-English Dictionary (University of Pittsburgh)", "u": "https://lektorek.org/polish/" },
+    { "t": "Słownik języka polskiego PWN", "u": "https://sjp.pwn.pl/" },
+    { "t": "Wiktionary, Appendix: Polish pronunciation", "u": "https://en.wiktionary.org/wiki/Appendix:Polish_pronunciation" },
+    { "t": "Wiktionary, Appendix: Polish nouns", "u": "https://en.wiktionary.org/wiki/Appendix:Polish_nouns" },
+    { "t": "Polish grammar, Wikipedia", "u": "https://en.wikipedia.org/wiki/Polish_grammar" }
+  ]
+}

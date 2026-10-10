@@ -1,0 +1,54 @@
+{
+  "title": "Body, health and daily routine",
+  "note": "Doler (to hurt) works like gustar: Me duele la cabeza (one thing), Me duelen los pies (several). With body parts Spanish uses el, la, los, las, not my: Me lavo las manos. Reflexive verbs take me, te, se, nos, os, se before the verb: me levanto, te duchas, se acuesta.",
+  "src": {"t": "Spanish 1A: Beginning Spanish (LibreTexts)", "u": "https://human.libretexts.org/Courses/Chabot_College/Spanish_1A%3A_Beginning_Spanish_(2026)"},
+  "items": [
+    {"c": "el cuerpo", "a": "the body", "d": ["the head", "the heart"]},
+    {"c": "la cabeza", "a": "the head", "d": ["the face", "the neck"], "ex": "Me duele la cabeza.", "exT": "My head hurts."},
+    {"c": "la cara", "a": "the face", "d": ["the head", "the hair"]},
+    {"c": "el ojo", "a": "the eye", "d": ["the ear", "the mouth"], "ex": "Tiene los ojos azules.", "exT": "He has blue eyes."},
+    {"c": "la oreja", "a": "the ear", "d": ["the eye", "the cheek"]},
+    {"c": "la nariz", "a": "the nose", "d": ["the mouth", "the chin"]},
+    {"c": "la boca", "a": "the mouth", "d": ["the nose", "the lip"]},
+    {"c": "el diente", "a": "the tooth", "d": ["the tongue", "the lip"]},
+    {"c": "el pelo", "a": "the hair", "d": ["the skin", "the head"], "ex": "Mi hermana tiene el pelo largo.", "exT": "My sister has long hair."},
+    {"c": "el cuello", "a": "the neck", "d": ["the shoulder", "the back"]},
+    {"c": "el hombro", "a": "the shoulder", "d": ["the elbow", "the neck"]},
+    {"c": "el brazo", "a": "the arm", "d": ["the leg", "the hand"]},
+    {"c": "la mano", "a": "the hand", "d": ["the foot", "the arm"], "ex": "Levanta la mano.", "exT": "Raise your hand."},
+    {"c": "el dedo", "a": "the finger", "d": ["the hand", "the knee"]},
+    {"c": "la pierna", "a": "the leg", "d": ["the arm", "the foot"]},
+    {"c": "la rodilla", "a": "the knee", "d": ["the elbow", "the ankle"]},
+    {"c": "el pie", "a": "the foot", "d": ["the leg", "the hand"], "ex": "Me duele el pie.", "exT": "My foot hurts."},
+    {"c": "la espalda", "a": "the back", "d": ["the chest", "the shoulder"]},
+    {"c": "el estómago", "a": "the stomach", "d": ["the heart", "the chest"], "ex": "Me duele el estómago.", "exT": "My stomach hurts."},
+    {"c": "el corazón", "a": "the heart", "d": ["the stomach", "the lungs"]},
+    {"c": "la salud", "a": "health", "d": ["illness", "greeting"]},
+    {"c": "¿Qué te pasa?", "a": "What's wrong?", "d": ["What are you doing?", "Where are you going?"], "ex": "—¿Qué te pasa? —Estoy cansado.", "exT": "What's wrong? I'm tired."},
+    {"c": "estar cansado", "a": "to be tired", "d": ["to be bored", "to be hungry"]},
+    {"c": "descansar", "a": "to rest", "d": ["to get tired", "to wake up"], "ex": "Necesito descansar un poco.", "exT": "I need to rest a little."},
+    {"c": "despertarse", "a": "to wake up", "d": ["to get up", "to go to bed"]},
+    {"c": "levantarse", "a": "to get up", "d": ["to wake up", "to sit down"], "ex": "Me levanto a las siete.", "exT": "I get up at seven."},
+    {"c": "ducharse", "a": "to take a shower", "d": ["to get dressed", "to wash up"], "ex": "Me ducho por la mañana.", "exT": "I shower in the morning."},
+    {"c": "vestirse", "a": "to get dressed", "d": ["to take a shower", "to get up"]},
+    {"c": "acostarse", "a": "to go to bed", "d": ["to wake up", "to rest"], "ex": "Me acuesto a las once.", "exT": "I go to bed at eleven."},
+    {"c": "Me ___ la espalda. (doler)", "a": "duele", "d": ["duelen", "dolor"]},
+    {"c": "Me ___ los ojos. (doler)", "a": "duelen", "d": ["duele", "duelo"]},
+    {"c": "Me lavo ___ manos.", "a": "las", "d": ["los", "la"], "ex": "Me lavo las manos antes de comer.", "exT": "I wash my hands before eating."},
+    {"c": "Yo ___ levanto temprano.", "a": "me", "d": ["se", "te"]},
+    {"c": "Mi hermano ___ ducha por la mañana.", "a": "se", "d": ["me", "le"]}
+  ],
+  "read": {
+    "title": "Un día de Carlos",
+    "text": [
+      "Carlos se despierta a las seis y media. Se levanta, se ducha y se viste. Después desayuna pan con queso y un café.",
+      "Carlos trabaja en un hospital. Camina mucho todo el día. Por la tarde, a las cinco, vuelve a casa a pie.",
+      "Hoy Carlos está muy cansado y le duelen los pies. Su esposa le pregunta: «¿Qué te pasa?». Él dice: «Estoy cansado. Necesito descansar». Por la noche, Carlos come una sopa y se acuesta a las diez."
+    ],
+    "q": [
+      {"q": "What time does Carlos wake up?", "o": ["6:00", "6:30", "7:30", "5:30"], "k": 1},
+      {"q": "How does Carlos go home?", "o": ["By bus", "By car", "On foot"], "k": 2},
+      {"q": "What hurts Carlos today?", "o": ["His head", "His back", "His feet", "His eyes"], "k": 2}
+    ]
+  }
+}

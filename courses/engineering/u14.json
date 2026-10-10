@@ -1,0 +1,274 @@
+{
+  "title": "Engineering ethics and the NSPE code",
+  "note": "The NSPE Code's first Fundamental Canon tells engineers to hold paramount the safety, health, and welfare of the public. The others require working only within competence, truthful public statements, faithful service to employers and clients, avoiding deceptive acts, and honorable, lawful conduct.",
+  "src": {
+    "t": "NSPE Code of Ethics for Engineers",
+    "u": "https://www.nspe.org/career-growth/nspe-code-ethics-engineers"
+  },
+  "items": [
+    {
+      "c": "NSPE",
+      "a": "National Society of Professional Engineers",
+      "d": [
+        "National Standards for Practicing Engineers",
+        "National Safety and Planning Executive"
+      ]
+    },
+    {
+      "c": "Number of Fundamental Canons in the NSPE Code",
+      "a": "6",
+      "d": [
+        "10",
+        "3",
+        "12"
+      ]
+    },
+    {
+      "c": "First Fundamental Canon of the NSPE Code",
+      "a": "hold paramount public safety, health, and welfare",
+      "d": [
+        "serve the employer's interests above all",
+        "complete work on time and on budget"
+      ]
+    },
+    {
+      "c": "\"Paramount\" in the first canon means",
+      "a": "above all other considerations",
+      "d": [
+        "equal to the client's interests",
+        "only when the law requires it"
+      ]
+    },
+    {
+      "c": "NSPE canon on competence",
+      "a": "perform services only in areas of one's competence",
+      "d": [
+        "accept any work a client offers",
+        "hire others to sign unfamiliar work"
+      ]
+    },
+    {
+      "c": "NSPE canon on public statements",
+      "a": "issue them only in an objective and truthful manner",
+      "d": [
+        "issue them only with the client's approval",
+        "avoid public statements entirely"
+      ]
+    },
+    {
+      "c": "Toward each employer or client, engineers act as",
+      "a": "faithful agents or trustees",
+      "d": [
+        "independent regulators",
+        "silent partners"
+      ]
+    },
+    {
+      "c": "Fifth Fundamental Canon of the NSPE Code",
+      "a": "avoid deceptive acts",
+      "d": [
+        "advertise only in print",
+        "work only for public agencies"
+      ]
+    },
+    {
+      "c": "Sixth Fundamental Canon of the NSPE Code",
+      "a": "conduct oneself honorably, responsibly, ethically, and lawfully",
+      "d": [
+        "maximize the profit of one's firm",
+        "defer to managers on safety questions"
+      ]
+    },
+    {
+      "c": "NSPE: public safety vs. a client's wishes",
+      "a": "public safety comes first",
+      "d": [
+        "the client's wishes come first",
+        "the employer decides each case"
+      ]
+    },
+    {
+      "c": "If overruled where life or property is endangered",
+      "a": "notify the employer or client and other proper authority",
+      "d": [
+        "comply quietly with the decision",
+        "resign without telling anyone why"
+      ]
+    },
+    {
+      "c": "Engineers may approve documents only if they",
+      "a": "conform to applicable standards",
+      "d": [
+        "were prepared within budget",
+        "were requested by the client"
+      ]
+    },
+    {
+      "c": "Sealing plans not prepared under one's direction",
+      "a": "is prohibited by the Code",
+      "d": [
+        "is allowed if the client asks",
+        "is allowed for an extra fee"
+      ]
+    },
+    {
+      "c": "Known or potential conflicts of interest must be",
+      "a": "disclosed to the employer or client",
+      "d": [
+        "kept confidential",
+        "resolved privately by the engineer"
+      ]
+    },
+    {
+      "c": "Payment from more than one party for the same project",
+      "a": "only with full disclosure and agreement of all parties",
+      "d": [
+        "never allowed under any circumstances",
+        "allowed if each payment is small"
+      ]
+    },
+    {
+      "c": "Confidential client information may be revealed",
+      "a": "only with consent or as law or the Code requires",
+      "d": [
+        "whenever a competitor asks",
+        "freely after the project ends"
+      ]
+    },
+    {
+      "c": "On learning of another engineer's Code violation",
+      "a": "report it to appropriate professional bodies",
+      "d": [
+        "ignore it to protect colleagues",
+        "settle it privately for payment"
+      ]
+    },
+    {
+      "c": "Faking one's qualifications violates",
+      "a": "the duty to avoid deceptive acts",
+      "d": [
+        "the duty of competence only",
+        "no rule if the client never learns"
+      ]
+    },
+    {
+      "c": "Credit for engineering work must go to",
+      "a": "those who actually did the work",
+      "d": [
+        "the most senior person on the team",
+        "whoever presents it to the client"
+      ]
+    },
+    {
+      "c": "Valuable gifts from contractors on your project",
+      "a": "must not be accepted",
+      "d": [
+        "are fine below any amount",
+        "are fine if disclosed afterward"
+      ]
+    },
+    {
+      "c": "Who grants a US Professional Engineer license",
+      "a": "a state licensing board",
+      "d": [
+        "the NSPE",
+        "the engineer's university"
+      ]
+    },
+    {
+      "c": "Typical US path to a PE license",
+      "a": "accredited degree, FE exam, experience, PE exam",
+      "d": [
+        "any degree and NSPE membership",
+        "a single exam taken after high school"
+      ]
+    },
+    {
+      "c": "FE exam",
+      "a": "Fundamentals of Engineering exam",
+      "d": [
+        "Final Engineering exam",
+        "Federal Engineering exam"
+      ]
+    },
+    {
+      "c": "A PE's seal on drawings means",
+      "a": "a licensed engineer takes responsibility for them",
+      "d": [
+        "the drawings are copyrighted",
+        "the client has paid in full"
+      ]
+    },
+    {
+      "c": "Whistleblowing",
+      "a": "reporting serious wrongdoing to those who can stop it",
+      "d": [
+        "keeping quiet to protect the firm",
+        "sharing trade secrets with competitors"
+      ]
+    },
+    {
+      "c": "Roger Boisjoly is known for",
+      "a": "warning that cold could make Challenger's O-rings fail",
+      "d": [
+        "designing the first Tacoma Narrows Bridge",
+        "discovering brittle steel in Liberty ships"
+      ]
+    },
+    {
+      "c": "Missouri board's response to the Hyatt engineers",
+      "a": "revoked the responsible engineers' licenses",
+      "d": [
+        "awarded the engineers a safety prize",
+        "took no action against anyone"
+      ]
+    },
+    {
+      "c": "Iron Ring ceremony for new engineers began in",
+      "a": "Canada",
+      "d": [
+        "the United States",
+        "the United Kingdom",
+        "Germany"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Holding the public paramount",
+    "text": [
+      "Engineers make decisions that strangers trust with their lives: the people crossing a bridge, flying in an airliner, or sleeping in a high-rise never meet the engineer, but they depend on that person's judgment. That is why engineering is a licensed profession with a code of ethics.",
+      "The National Society of Professional Engineers sets out six Fundamental Canons. The first says engineers shall hold paramount the safety, health, and welfare of the public. The rest require them to work only within their competence, to speak publicly only in an objective and truthful way, to act as faithful agents of their employers and clients, to avoid deception, and to conduct themselves honorably and lawfully.",
+      "Faithfulness to an employer has limits. When an engineer's judgment is overruled in a way that endangers life or property, the Code says to notify the employer or client and any other appropriate authority. Conflicts of interest must be disclosed, and an engineer may seal only plans prepared under that engineer's own direction and control.",
+      "These rules were not written in the abstract. The Hyatt Regency collapse cost its engineers their licenses, and the Challenger launch decision shows what can happen when engineers' warnings are set aside."
+    ],
+    "q": [
+      {
+        "q": "What does the first NSPE canon place above all else?",
+        "o": [
+          "The employer's profit",
+          "Public safety, health, and welfare",
+          "Finishing on schedule"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What should an engineer do if overruled in a way that endangers life?",
+        "o": [
+          "Notify the employer or client and other appropriate authority",
+          "Follow the decision silently",
+          "Delete the calculations"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Which plans may an engineer seal?",
+        "o": [
+          "Any plans a client requests",
+          "Plans checked by a colleague",
+          "Plans prepared under the engineer's own direction and control"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

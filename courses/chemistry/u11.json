@@ -1,0 +1,51 @@
+{
+  "title": "Solutions and colligative properties",
+  "note": "Molarity (mol solute per liter of solution) is the everyday concentration unit; molality (mol solute per kg of solvent) is used for colligative properties because it does not change with temperature. Colligative properties depend only on how many solute particles are present: ΔTf = i·Kf·m, ΔTb = i·Kb·m, Π = iMRT. An ionic solute counts every ion it releases.",
+  "src": { "t": "Chemistry 2e, 11.4 Colligative Properties, OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties" },
+  "items": [
+    { "c": "Molarity (M)", "a": "moles of solute per liter of solution", "d": ["moles of solute per kilogram of solvent", "grams of solute per liter of solution"] },
+    { "c": "Molality (m)", "a": "moles of solute per kilogram of solvent", "d": ["moles of solute per liter of solution", "grams of solute per kilogram of solution"] },
+    { "c": "Mole fraction (X)", "a": "moles of one component ÷ total moles", "d": ["mass of one component ÷ total mass", "moles of solute ÷ liters of solution"] },
+    { "c": "0.50 mol NaCl in 0.250 L of solution", "a": "2.0 M", "d": ["0.13 M", "0.50 M"] },
+    { "c": "Dilution equation", "a": "M₁V₁ = M₂V₂", "d": ["M₁/V₁ = M₂/V₂", "M₁M₂ = V₁V₂"] },
+    { "c": "Dilute 100 mL of 2.0 M to 400 mL: new molarity", "a": "0.50 M", "d": ["8.0 M", "1.0 M"] },
+    { "c": "Concentration unit unaffected by temperature", "a": "molality", "d": ["molarity", "grams per liter"] },
+    { "c": "Saturated solution", "a": "holds the most solute it can at equilibrium", "d": ["holds more solute than its solubility", "holds less solute than it could dissolve"] },
+    { "c": "Supersaturated solution", "a": "holds more solute than its solubility", "d": ["holds the most solute it can at equilibrium", "holds less solute than it could dissolve"] },
+    { "c": "\"Like dissolves like\"", "a": "polar dissolves polar; nonpolar dissolves nonpolar", "d": ["polar dissolves nonpolar; nonpolar dissolves polar", "solids dissolve only in liquids of equal mass"] },
+    { "c": "Miscible liquids", "a": "mix in all proportions", "d": ["separate into two layers", "react when mixed"] },
+    { "c": "Henry's law", "a": "gas solubility is proportional to its partial pressure", "d": ["gas solubility is proportional to temperature", "gas solubility is independent of pressure"] },
+    { "c": "Gas solubility in water as temperature rises", "a": "decreases", "d": ["increases", "stays the same"] },
+    { "c": "Electrolyte", "a": "solute whose solution conducts electricity", "d": ["solute that does not dissolve in water", "solvent that dissolves only ionic solids"] },
+    { "c": "Which is a strong electrolyte?", "a": "NaCl", "d": ["glucose", "ethanol"] },
+    { "c": "Which is a nonelectrolyte?", "a": "sucrose", "d": ["KBr", "HCl"] },
+    { "c": "Colligative property", "a": "depends only on the number of solute particles", "d": ["depends on the solute's chemical identity", "depends only on the solvent's mass"] },
+    { "c": "Raoult's law (nonvolatile solute)", "a": "P_solution = X_solvent × P°_solvent", "d": ["P_solution = X_solute × P°_solvent", "P_solution = P°_solvent ÷ X_solvent"] },
+    { "c": "A nonvolatile solute makes vapor pressure", "a": "lower than the pure solvent's", "d": ["higher than the pure solvent's", "equal to the pure solvent's"] },
+    { "c": "Boiling point elevation equation", "a": "ΔTb = i·Kb·m", "d": ["ΔTb = i·Kb/m", "ΔTb = Kb·m/i"] },
+    { "c": "Freezing point depression constant of water", "a": "1.86 °C/m", "d": ["0.512 °C/m", "4.184 °C/m"] },
+    { "c": "Boiling point elevation constant of water", "a": "0.512 °C/m", "d": ["1.86 °C/m", "5.12 °C/m"] },
+    { "c": "Freezing point of 1.00 m glucose in water", "a": "about −1.86 °C", "d": ["about −0.93 °C", "about −3.72 °C"] },
+    { "c": "Ideal van't Hoff factor i for NaCl", "a": "2", "d": ["1", "3"] },
+    { "c": "Ideal van't Hoff factor i for CaCl₂", "a": "3", "d": ["2", "4"] },
+    { "c": "Lower freezing point: 0.1 m NaCl or 0.1 m CaCl₂?", "a": "0.1 m CaCl₂", "d": ["0.1 m NaCl"] },
+    { "c": "Osmotic pressure equation", "a": "Π = iMRT", "d": ["Π = iRT/M", "Π = MR/T"] },
+    { "c": "Osmosis", "a": "solvent flow through a membrane into more concentrated solution", "d": ["solvent flow through a membrane into more dilute solution", "solute flow through a membrane into pure solvent"] },
+    { "c": "Reverse osmosis", "a": "pressure above Π pushes solvent out of a solution", "d": ["solute crossing a membrane by diffusion", "boiling a solution to remove solvent"] },
+    { "c": "Why salt on roads melts ice", "a": "dissolved ions lower water's freezing point", "d": ["salt reacts with ice to release heat", "salt raises water's freezing point"] },
+    { "c": "Tyndall effect", "a": "light scattering by particles in a colloid", "d": ["vapor pressure lowering by a solute", "gas escaping a liquid as it warms"] }
+  ],
+  "read": {
+    "title": "Counting particles, not identities",
+    "text": [
+      "A solution is a uniform mixture of a solute dissolved in a solvent. Whether something dissolves depends on matching attractions. Polar water dissolves salt and sugar well, while nonpolar oil does not mix with it. Gases behave differently: they dissolve better at higher pressure, as Henry's law says, and worse in warm water, which is why a warm soda goes flat quickly.",
+      "Some properties of a solution depend on what is dissolved, such as color or taste. Others, called colligative properties, depend only on how many solute particles are present. Adding a nonvolatile solute lowers the solvent's vapor pressure, raises its boiling point, lowers its freezing point, and creates osmotic pressure across a membrane that lets only solvent through.",
+      "For freezing and boiling points, the size of the change is the solvent's constant times the molality of particles. Water's freezing point constant is 1.86 °C/m, so a 1.00 m sugar solution freezes near −1.86 °C. Ionic compounds break into ions, so they count more than once. One formula unit of NaCl gives two particles and CaCl₂ gives three, which is why calcium chloride lowers the freezing point of road slush more than the same molality of table salt. In real solutions, ions attract each other, so the effective number of particles is a bit lower than the ideal count."
+    ],
+    "q": [
+      { "q": "What determines the size of a colligative effect?", "o": ["The color of the solute", "The molar mass of the solvent only", "The number of solute particles"], "k": 2 },
+      { "q": "Why does CaCl₂ lower the freezing point more than NaCl at the same molality?", "o": ["It releases three ions per formula unit instead of two", "Calcium is heavier than sodium", "CaCl₂ is a nonelectrolyte"], "k": 0 },
+      { "q": "Why does a warm soda go flat faster than a cold one?", "o": ["Sugar crystallizes at higher temperature", "Gases are less soluble in warmer liquids", "Warm water has a higher vapor pressure of CO₂"], "k": 1 }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Ethics: virtue, duty, consequences, natural law",
+  "note": "Normative theories answer what makes actions right. Consequentialists look to outcomes, deontologists to duties and rights, virtue ethicists to character, and natural law theorists to the goods of human nature known by reason. Metaethics asks what moral claims are and whether they can be objectively true.",
+  "src": { "t": "OpenStax Introduction to Philosophy, Ch. 9 Normative Moral Theory", "u": "https://openstax.org/books/introduction-philosophy/pages/9-introduction" },
+  "items": [
+    { "c": "Normative ethics", "a": "theories of what makes actions right or wrong", "d": ["the meaning and status of moral claims", "moral questions about specific issues"] },
+    { "c": "Metaethics", "a": "the meaning and status of moral claims", "d": ["theories of what makes actions right or wrong", "moral questions about specific issues"] },
+    { "c": "Applied ethics", "a": "moral questions about specific issues", "d": ["the meaning and status of moral claims", "the history of moral ideas"] },
+    { "c": "Moral realism", "a": "there are objective moral facts", "d": ["morality is only personal taste", "moral words are meaningless"] },
+    { "c": "Cultural relativism", "a": "right and wrong are set by each culture", "d": ["morality is the same everywhere", "only consequences matter"] },
+    { "c": "Ethical egoism", "a": "one ought to pursue one's own interest", "d": ["one ought to maximize everyone's welfare", "one ought to follow God's commands"] },
+    { "c": "Consequentialism", "a": "rightness depends only on outcomes", "d": ["rightness depends on duties alone", "rightness depends on character alone"] },
+    { "c": "Utilitarian who devised the felicific calculus", "a": "Jeremy Bentham", "d": ["John Stuart Mill", "David Hume", "Henry Sidgwick"] },
+    { "c": "Some factors in Bentham's calculus", "a": "intensity, duration, certainty, nearness", "d": ["courage, justice, wisdom, temperance", "faith, hope, love, prudence"] },
+    { "c": "Mill's departure from Bentham", "a": "pleasures differ in quality, not just amount", "d": ["pleasure does not matter morally", "only the agent's pleasure counts"] },
+    { "c": "'Better to be Socrates dissatisfied than...'", "a": "'...a fool satisfied'", "d": ["'...a king in chains'", "'...a slave content'"] },
+    { "c": "Act utilitarianism", "a": "judge each act by its own consequences", "d": ["follow rules that generally maximize good", "follow rules regardless of results"] },
+    { "c": "Rule utilitarianism", "a": "follow rules whose general use maximizes good", "d": ["judge each act by its own consequences", "follow God's revealed rules"] },
+    { "c": "Common objection to utilitarianism", "a": "it could permit punishing an innocent person", "d": ["it ignores consequences", "it depends on God's will"] },
+    { "c": "Nozick's experience machine challenges", "a": "the view that pleasure is all that matters", "d": ["the view that duty is all that matters", "the existence of free will"] },
+    { "c": "Philosopher who first posed the trolley problem", "a": "Philippa Foot", "d": ["John Rawls", "Elizabeth Anscombe", "Peter Singer"] },
+    { "c": "Deontological ethics holds", "a": "some acts are required or forbidden whatever the results", "d": ["only results make acts right", "only character makes acts right"] },
+    { "c": "W. D. Ross's prima facie duties", "a": "duties binding unless outweighed by stronger ones", "d": ["duties that can never be overridden", "duties based only on consequences"] },
+    { "c": "Divine command theory", "a": "moral rightness is what God commands", "d": ["moral rightness is what society approves", "moral rightness is what maximizes pleasure"] },
+    { "c": "Classical theist reply to the Euthyphro dilemma", "a": "goodness is grounded in God's own nature", "d": ["God's commands are arbitrary", "morality has no link to God"] },
+    { "c": "First question of virtue ethics", "a": "what kind of person should I be?", "d": ["what act has the best results?", "what rule must I follow?"] },
+    { "c": "The four cardinal virtues", "a": "prudence, justice, fortitude, temperance", "d": ["faith, hope, charity, prudence", "honesty, kindness, loyalty, wit"] },
+    { "c": "The three theological virtues", "a": "faith, hope, and charity", "d": ["prudence, justice, and fortitude", "wisdom, courage, and temperance"] },
+    { "c": "Anscombe's 1958 essay reviving virtue ethics", "a": "Modern Moral Philosophy", "d": ["After Virtue", "The Right and the Good"] },
+    { "c": "Alasdair MacIntyre's book on virtue", "a": "After Virtue", "d": ["Modern Moral Philosophy", "The Methods of Ethics"] },
+    { "c": "Natural law ethics holds", "a": "morality follows from human nature, known by reason", "d": ["morality is invented by each culture", "morality is what maximizes pleasure"] },
+    { "c": "Goods Aquinas tied to natural inclinations", "a": "life, procreation, knowledge, society", "d": ["wealth, fame, power, pleasure", "pleasure, comfort, safety, ease"] },
+    { "c": "Principle of double effect", "a": "a foreseen, unintended bad effect may be allowed for a proportionate reason", "d": ["any act is right if it ends well", "two wrongs can make a right"] },
+    { "c": "Classic source of double effect reasoning", "a": "Aquinas on killing in self-defense", "d": ["Kant on lying promises", "Mill on free speech"] },
+    { "c": "Leading new natural law theorists", "a": "Germain Grisez and John Finnis", "d": ["Bentham and Mill", "Rawls and Nozick"] },
+    { "c": "Care ethics", "a": "morality centered on relationships and care", "d": ["morality centered on abstract rules", "morality centered on self-interest"] },
+    { "c": "Contractarian ethics", "a": "morality as rules rational agents would agree to", "d": ["morality as commands of God", "morality as feelings of approval"] }
+  ],
+  "read": {
+    "title": "Four ways to ask what is right",
+    "text": [
+      "Imagine you could save five patients by secretly taking the organs of one healthy visitor. Different moral theories explain differently why most people recoil.",
+      "A consequentialist judges acts by their results. Classical utilitarians such as Bentham and Mill hold that the right act produces the greatest balance of happiness over suffering for everyone affected. A careful utilitarian may reply that a practice of secret killings would spread fear and destroy trust in hospitals, so the long-run results are terrible.",
+      "A deontologist says some acts are wrong whatever the results. For Kant, killing the visitor uses a person merely as a means and violates his dignity.",
+      "A virtue ethicist asks what a just and compassionate person would do. Such a person would not even treat the option as live, because practical wisdom sees that this is murder.",
+      "A natural law theorist, following Aquinas, holds that human life is a basic good that reason recognizes. One may never intentionally destroy it, even to bring about other goods, although one may sometimes accept a harm that is foreseen but not intended.",
+      "Each theory captures something real. Studying them helps us see which features of an action matter and why."
+    ],
+    "q": [
+      { "q": "How might a utilitarian condemn the secret organ harvest?", "o": ["Its long-run results would be terrible", "It breaks a divine command", "It shows a lack of courage"], "k": 0 },
+      { "q": "Why does Kant reject it?", "o": ["It makes too few people happy", "It uses a person merely as a means", "It is against custom"], "k": 1 },
+      { "q": "What does the natural law view forbid?", "o": ["Accepting any foreseen harm", "Intentionally destroying a basic good", "Helping strangers"], "k": 1 }
+    ]
+  }
+}

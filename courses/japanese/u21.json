@@ -1,0 +1,273 @@
+{
+  "title": "The past tense",
+  "note": "Polite past: ます → ました (食べました \"ate\"), ません → ませんでした (\"didn't eat\"). です → でした; じゃありません → じゃありませんでした. い-adjectives: 楽しかったです, 楽しくなかったです. と after a person means \"with\": 友だちと. もう means \"already\"; まだです means \"not yet.\"",
+  "src": {
+    "t": "Tae Kim's Guide: Polite Form and Verb Stems",
+    "u": "https://guidetojapanese.org/learn/grammar/polite"
+  },
+  "items": [
+    {
+      "c": "食べました",
+      "r": "tabemashita",
+      "a": "ate",
+      "d": [
+        "eat",
+        "didn't eat"
+      ],
+      "ex": "昨日、すしを食べました。",
+      "exT": "I ate sushi yesterday."
+    },
+    {
+      "c": "行きませんでした",
+      "r": "ikimasen deshita",
+      "a": "didn't go",
+      "d": [
+        "don't go",
+        "went"
+      ]
+    },
+    {
+      "c": "見ました",
+      "r": "mimashita",
+      "a": "saw, watched",
+      "d": [
+        "will watch",
+        "didn't watch"
+      ]
+    },
+    {
+      "c": "飲みませんでした",
+      "r": "nomimasen deshita",
+      "a": "didn't drink",
+      "d": [
+        "drank",
+        "won't drink"
+      ]
+    },
+    {
+      "c": "来ました",
+      "r": "kimashita",
+      "a": "came",
+      "d": [
+        "went",
+        "will come"
+      ]
+    },
+    {
+      "c": "しました",
+      "r": "shimashita",
+      "a": "did",
+      "d": [
+        "do",
+        "didn't do"
+      ]
+    },
+    {
+      "c": "帰りました",
+      "r": "kaerimashita",
+      "a": "went home, returned",
+      "d": [
+        "will go home",
+        "went out"
+      ]
+    },
+    {
+      "c": "でした",
+      "r": "deshita",
+      "a": "was, were (polite)",
+      "d": [
+        "is, are (polite)",
+        "was not (polite)"
+      ]
+    },
+    {
+      "c": "じゃありませんでした",
+      "r": "ja arimasen deshita",
+      "a": "was not, were not (polite)",
+      "d": [
+        "is not (polite)",
+        "was (polite)"
+      ]
+    },
+    {
+      "c": "楽しかったです",
+      "r": "tanoshikatta desu",
+      "a": "it was fun",
+      "d": [
+        "it is fun",
+        "it wasn't fun"
+      ]
+    },
+    {
+      "c": "おいしくなかったです",
+      "r": "oishikunakatta desu",
+      "a": "it wasn't tasty",
+      "d": [
+        "it isn't tasty",
+        "it was tasty"
+      ]
+    },
+    {
+      "c": "よかったです",
+      "r": "yokatta desu",
+      "a": "it was good",
+      "d": [
+        "it's good",
+        "it wasn't good"
+      ]
+    },
+    {
+      "c": "去年",
+      "r": "kyonen",
+      "a": "last year",
+      "d": [
+        "next year",
+        "this year"
+      ],
+      "ex": "(きょねん) 去年、日本へ行きました。",
+      "exT": "I went to Japan last year."
+    },
+    {
+      "c": "先月",
+      "r": "sengetsu",
+      "a": "last month",
+      "d": [
+        "next month",
+        "last week"
+      ]
+    },
+    {
+      "c": "今朝",
+      "r": "kesa",
+      "a": "this morning",
+      "d": [
+        "tomorrow morning",
+        "last night"
+      ]
+    },
+    {
+      "c": "ゆうべ",
+      "r": "yūbe",
+      "a": "last night",
+      "d": [
+        "this morning",
+        "tomorrow night"
+      ]
+    },
+    {
+      "c": "三年前",
+      "r": "sannen mae",
+      "a": "three years ago",
+      "d": [
+        "in three years",
+        "three years old"
+      ],
+      "ex": "(さんねんまえ) 三年前に日本へ来ました。",
+      "exT": "I came to Japan three years ago."
+    },
+    {
+      "c": "と (友だちと)",
+      "r": "to (tomodachi to)",
+      "say": "友だちと",
+      "a": "with (a person)",
+      "d": [
+        "to (a place)",
+        "by (means)"
+      ]
+    },
+    {
+      "c": "週末に何をしましたか。",
+      "r": "Shūmatsu ni nani o shimashita ka.",
+      "a": "What did you do on the weekend?",
+      "d": [
+        "What will you do on the weekend?",
+        "Where did you go on the weekend?"
+      ]
+    },
+    {
+      "c": "友だちと買い物をしました。",
+      "r": "Tomodachi to kaimono o shimashita.",
+      "a": "I went shopping with a friend.",
+      "d": [
+        "I'll go shopping with a friend.",
+        "I bought a present for a friend."
+      ]
+    },
+    {
+      "c": "もう食べましたか。",
+      "r": "Mō tabemashita ka.",
+      "a": "Have you eaten already?",
+      "d": [
+        "Will you eat soon?",
+        "Do you eat a lot?"
+      ]
+    },
+    {
+      "c": "いいえ、まだです。",
+      "r": "Iie, mada desu.",
+      "a": "No, not yet.",
+      "d": [
+        "No, I already did.",
+        "No, I don't want to."
+      ]
+    },
+    {
+      "c": "どうでしたか。",
+      "r": "Dō deshita ka.",
+      "a": "How was it?",
+      "d": [
+        "What was it?",
+        "Where was it?"
+      ]
+    },
+    {
+      "c": "昨日、映画を見___。",
+      "r": "Kinō, eiga o mi___.",
+      "a": "ました",
+      "d": [
+        "ます",
+        "ましょう"
+      ],
+      "ex": "昨日、映画を見ました。",
+      "exT": "I watched a movie yesterday."
+    },
+    {
+      "c": "先週は学校へ行き___。(didn't go)",
+      "r": "Senshū wa gakkō e iki___.",
+      "a": "ませんでした",
+      "d": [
+        "ました",
+        "ません"
+      ]
+    },
+    {
+      "c": "テストは難し___です。(was difficult)",
+      "r": "Tesuto wa muzukashi___ desu.",
+      "a": "かった",
+      "d": [
+        "いでした",
+        "いだった"
+      ]
+    },
+    {
+      "c": "昨日は日曜日じゃ___。(was not)",
+      "r": "Kinō wa nichiyōbi ja ___.",
+      "a": "ありませんでした",
+      "d": [
+        "ありません",
+        "ないでした"
+      ],
+      "ex": "昨日は日曜日じゃありませんでした。",
+      "exT": "Yesterday wasn't Sunday."
+    },
+    {
+      "c": "昨日の夜は静か___。(was quiet)",
+      "r": "Kinō no yoru wa shizuka ___.",
+      "a": "でした",
+      "d": [
+        "かったです",
+        "いでした"
+      ]
+    }
+  ]
+}

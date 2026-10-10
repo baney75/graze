@@ -1,0 +1,54 @@
+{
+  "title": "Alexander, Hannibal and Caesar",
+  "note": "Three ancient commanders set patterns still studied: Alexander used a pinning phalanx and a striking cavalry wedge to break Persia at Gaugamela; Hannibal encircled a larger Roman army at Cannae; Caesar besieged Vercingetorix at Alesia while holding off a relief army. Each also shows a limit: battles won do not by themselves win wars.",
+  "src": {"t": "OpenStax World History Vol. 1, 6.3 The Hellenistic Era and 6.4 The Roman Republic", "u": "https://openstax.org/books/world-history-volume-1/pages/6-3-the-hellenistic-era"},
+  "items": [
+    {"c": "Alexander the Great's father", "a": "Philip II of Macedon", "d": ["Darius III of Persia", "Leonidas of Sparta"]},
+    {"c": "Alexander's boyhood tutor", "a": "Aristotle", "d": ["Socrates", "Plato"]},
+    {"c": "Philip II's win over Athens and Thebes, 338 BCE", "a": "Chaeronea", "d": ["Marathon", "Leuctra"]},
+    {"c": "Sarissa", "a": "Long pike of the Macedonian phalanx", "d": ["Curved sword of Persian cavalry", "Short javelin of Roman legionaries"]},
+    {"c": "Alexander's elite heavy cavalry", "a": "The Companions", "d": ["The Immortals", "The Praetorians"]},
+    {"c": "\"Hammer and anvil\" tactics", "a": "Infantry pins the enemy while cavalry strikes", "d": ["Both wings fall back to lure the enemy in", "Two armies attack the same point in turn"]},
+    {"c": "Alexander's first great battle in Asia, 334 BCE", "a": "The Granicus", "d": ["Gaugamela", "The Hydaspes"]},
+    {"c": "Battle of Issus, 333 BCE", "a": "Alexander defeats Darius III, who flees", "d": ["Darius III captures Alexander's baggage and wins", "Alexander defeats the Indian king Porus"]},
+    {"c": "Island city Alexander took with a causeway", "a": "Tyre", "d": ["Rhodes", "Sidon"]},
+    {"c": "Battle of Gaugamela, 331 BCE", "a": "Alexander's decisive victory over Darius III", "d": ["Darius III's victory over the Greek cities", "Alexander's defeat in India"]},
+    {"c": "Gaugamela: how Alexander broke Darius's line", "a": "Drew it out of place, then charged the gap", "d": ["Starved it out by a long siege", "Lured it across a flooded river"]},
+    {"c": "Persian weapon blunted at Gaugamela", "a": "Scythed chariots", "d": ["War elephants", "Greek fire"]},
+    {"c": "Alexander's battle against Porus, 326 BCE", "a": "The Hydaspes", "d": ["The Granicus", "Issus"]},
+    {"c": "Where Alexander's troops refused to go farther", "a": "Past the Indus lands, toward the Ganges", "d": ["Into Arabia", "Back across the Hellespont"]},
+    {"c": "Where Alexander died in 323 BCE", "a": "Babylon", "d": ["Pella", "Persepolis"]},
+    {"c": "Hannibal's city", "a": "Carthage", "d": ["Syracuse", "Tyre"]},
+    {"c": "Dates of the Second Punic War", "a": "218 to 201 BCE", "d": ["264 to 241 BCE", "149 to 146 BCE"]},
+    {"c": "Hannibal's route into Italy", "a": "From Spain over the Alps", "d": ["By sea from Carthage to Sicily", "Through the Balkans"]},
+    {"c": "Hannibal's lakeside ambush, 217 BCE", "a": "Lake Trasimene", "d": ["Lake Como", "Lake Nemi"]},
+    {"c": "Battle of Cannae, 216 BCE", "a": "Hannibal encircles and destroys a larger Roman army", "d": ["Scipio defeats Hannibal in Africa", "Rome wins the first naval battle"]},
+    {"c": "Cannae: Hannibal's center was meant to", "a": "Bend back and draw the Romans in", "d": ["Break through the Roman center", "Hold a fortified hill"]},
+    {"c": "Cannae is the classic example of", "a": "Double envelopment", "d": ["Frontal assault", "Siege warfare"]},
+    {"c": "Why Hannibal could not win despite Cannae", "a": "Most of Rome's Italian allies stayed loyal", "d": ["Rome bought him off with gold", "Carthage made a separate peace"]},
+    {"c": "Fabian strategy", "a": "Avoid pitched battle; wear the invader down", "d": ["Seek one decisive battle at once", "Bribe the enemy's generals"], "ex": "Named for Quintus Fabius Maximus, nicknamed Cunctator, \"the Delayer.\""},
+    {"c": "Roman who defeated Hannibal at Zama, 202 BCE", "a": "Scipio Africanus", "d": ["Fabius Maximus", "Marcus Crassus"]},
+    {"c": "How Rome forced Hannibal out of Italy", "a": "It invaded Africa and threatened Carthage", "d": ["It bribed his mercenaries", "It burned his fleet in port"]},
+    {"c": "Years of Caesar's Gallic Wars", "a": "58 to 50 BCE", "d": ["218 to 201 BCE", "27 BCE to 14 CE"]},
+    {"c": "Gallic leader besieged at Alesia", "a": "Vercingetorix", "d": ["Ariovistus", "Boudica"]},
+    {"c": "Year of the siege of Alesia", "a": "52 BCE", "d": ["44 BCE", "31 BCE"]},
+    {"c": "Caesar's answer to the Gallic relief army", "a": "A second ring of works facing outward", "d": ["Lifting the siege to fight in the open", "Retreating to the Roman Province"]},
+    {"c": "Why Caesar stocked 30 days of forage at Alesia", "a": "So his men need not leave the lines at risk", "d": ["To feed the starving townspeople", "To bribe the relief army"]},
+    {"c": "River Caesar crossed in 49 BCE", "a": "The Rubicon", "d": ["The Rhine", "The Tiber"]},
+    {"c": "Caesar's victory over Pompey, 48 BCE", "a": "Pharsalus", "d": ["Actium", "Philippi"]},
+    {"c": "\"Veni, vidi, vici\" (I came, I saw, I conquered)", "a": "Caesar on his swift victory at Zela", "d": ["Hannibal on crossing the Alps", "Alexander on taking Tyre"]}
+  ],
+  "read": {
+    "title": "Caesar at Alesia",
+    "text": [
+      "From Caesar’s Gallic War, Book VII, on the siege of Alesia (52 BCE):",
+      "After completing these works, having selected as level ground as he could, considering the nature of the country, and having enclosed an area of fourteen miles, he constructed, against an external enemy, fortifications of the same kind in every respect, and separate from these, so that the guards of the fortifications could not be surrounded even by immense numbers, if such a circumstance should take place owing to the departure of the enemy's cavalry; and in order that the Roman soldiers might not be compelled to go out of the camp with great risk, he orders all to provide forage and corn for thirty days.",
+      "Vercingetorix, having convened a council the following day, declares, \"That he had undertaken that war, not on account of his own exigencies, but on account of the general freedom; and since he must yield to fortune, he offered himself to them for either purpose, whether they should wish to atone to the Romans by his death, or surrender him alive.\" Ambassadors are sent to Caesar on this subject. He orders their arms to be surrendered, and their chieftains delivered up. He seated himself at the head of the lines in front of the camp, the Gallic chieftains are brought before him. They surrender Vercingetorix, and lay down their arms."
+    ],
+    "q": [
+      {"q": "Against whom did Caesar build the second line of fortifications?", "o": ["The townspeople of Alesia", "An external enemy coming to relieve the town", "Roman deserters"], "k": 1},
+      {"q": "Why did Caesar order forage and corn for thirty days?", "o": ["So Roman soldiers would not have to leave camp at great risk", "To reward his men after the victory", "To trade with the Gauls"], "k": 0},
+      {"q": "What did Vercingetorix offer his council?", "o": ["To flee to Germany", "To fight on alone", "To be put to death or surrendered alive to the Romans"], "k": 2}
+    ]
+  }
+}

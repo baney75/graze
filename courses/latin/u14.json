@@ -1,0 +1,240 @@
+{
+  "title": "Cases and their uses",
+  "note": "Word order is free because endings show each noun's job: nominative for the subject, genitive for of, dative for to or for, accusative for the direct object, ablative for by, with, from or in, vocative for calling. Puella puero rosam dat: the girl gives the boy a rose. Town names use no preposition: Romam, to Rome; Romae, in Rome.",
+  "src": {
+    "t": "Allen and Greenough, Construction of Cases",
+    "u": "https://dcc.dickinson.edu/grammar/latin/construction-cases"
+  },
+  "items": [
+    {
+      "c": "case of the subject",
+      "a": "nominative",
+      "d": [
+        "accusative",
+        "genitive"
+      ],
+      "ex": "Puella cantat.",
+      "exT": "The girl sings."
+    },
+    {
+      "c": "case of the direct object",
+      "a": "accusative",
+      "d": [
+        "dative",
+        "nominative"
+      ]
+    },
+    {
+      "c": "case of the indirect object",
+      "a": "dative",
+      "d": [
+        "genitive",
+        "ablative"
+      ]
+    },
+    {
+      "c": "case for possession ('of')",
+      "a": "genitive",
+      "d": [
+        "dative",
+        "ablative"
+      ],
+      "ex": "liber pueri",
+      "exT": "the boy's book"
+    },
+    {
+      "c": "case for calling someone by name",
+      "a": "vocative",
+      "d": [
+        "nominative",
+        "dative"
+      ],
+      "ex": "Marce, veni!",
+      "exT": "Marcus, come!"
+    },
+    {
+      "c": "case for the means ('by, with')",
+      "a": "ablative",
+      "d": [
+        "genitive",
+        "accusative"
+      ]
+    },
+    {
+      "c": "puero in 'Puella puero rosam dat.'",
+      "a": "to the boy (dative)",
+      "d": [
+        "the boy (subject)",
+        "of the boy (genitive)"
+      ]
+    },
+    {
+      "c": "rosam in 'Puella puero rosam dat.'",
+      "a": "the rose (direct object)",
+      "d": [
+        "of the rose (genitive)",
+        "to the rose (dative)"
+      ]
+    },
+    {
+      "c": "gladio in 'Miles gladio pugnat.'",
+      "a": "with a sword (means)",
+      "d": [
+        "for a sword (purpose)",
+        "of a sword (possession)"
+      ]
+    },
+    {
+      "c": "cum amicis",
+      "a": "with friends",
+      "d": [
+        "without friends",
+        "about friends"
+      ],
+      "ex": "Cum amicis ambulo.",
+      "exT": "I am walking with friends."
+    },
+    {
+      "c": "nocte",
+      "a": "at night, by night",
+      "d": [
+        "for one night",
+        "of the night"
+      ],
+      "ex": "Nocte stellae lucent.",
+      "exT": "At night the stars shine."
+    },
+    {
+      "c": "multos annos",
+      "a": "for many years",
+      "d": [
+        "in many years",
+        "of many years"
+      ],
+      "ex": "Multos annos Romae habitavit.",
+      "exT": "He lived in Rome for many years."
+    },
+    {
+      "c": "Romam venio.",
+      "a": "I come to Rome.",
+      "d": [
+        "I come from Rome.",
+        "I live in Rome."
+      ]
+    },
+    {
+      "c": "Roma venio.",
+      "a": "I come from Rome.",
+      "d": [
+        "I come to Rome.",
+        "I live in Rome."
+      ]
+    },
+    {
+      "c": "Romae habito.",
+      "a": "I live in Rome.",
+      "d": [
+        "I come to Rome.",
+        "I come from Rome."
+      ]
+    },
+    {
+      "c": "domi",
+      "a": "at home",
+      "d": [
+        "from home",
+        "(to) home"
+      ],
+      "ex": "Pater domi est.",
+      "exT": "Father is at home."
+    },
+    {
+      "c": "Mihi est liber.",
+      "a": "I have a book.",
+      "d": [
+        "I give a book.",
+        "I read a book."
+      ]
+    },
+    {
+      "c": "genitive singular in -ae (rosae)",
+      "a": "first declension",
+      "d": [
+        "second declension",
+        "third declension"
+      ]
+    },
+    {
+      "c": "genitive singular in -i (amici)",
+      "a": "second declension",
+      "d": [
+        "first declension",
+        "fourth declension"
+      ]
+    },
+    {
+      "c": "genitive singular in -is (regis)",
+      "a": "third declension",
+      "d": [
+        "second declension",
+        "fifth declension"
+      ]
+    },
+    {
+      "c": "genitive singular in -us (manus)",
+      "a": "fourth declension",
+      "d": [
+        "second declension",
+        "third declension"
+      ]
+    },
+    {
+      "c": "genitive singular in -ei (rei)",
+      "a": "fifth declension",
+      "d": [
+        "fourth declension",
+        "first declension"
+      ]
+    },
+    {
+      "c": "Puer ___ rosam dat. (mater, to his mother)",
+      "a": "matri",
+      "d": [
+        "matrem",
+        "matris"
+      ],
+      "ex": "Puer matri rosam dat.",
+      "exT": "The boy gives his mother a rose."
+    },
+    {
+      "c": "Poeta ___ carmen dat. (regina, to the queen)",
+      "a": "reginae",
+      "d": [
+        "reginam",
+        "regina"
+      ],
+      "ex": "Poeta reginae carmen dat.",
+      "exT": "The poet gives the queen a poem."
+    },
+    {
+      "c": "Magister ___ laudat. (discipulus, plural object)",
+      "a": "discipulos",
+      "d": [
+        "discipuli",
+        "discipulis"
+      ],
+      "ex": "Magister discipulos laudat.",
+      "exT": "The teacher praises the students."
+    },
+    {
+      "c": "Iulia est filia ___. (Marcus, of)",
+      "a": "Marci",
+      "d": [
+        "Marco",
+        "Marcum"
+      ],
+      "ex": "Iulia est filia Marci.",
+      "exT": "Julia is Marcus's daughter."
+    }
+  ]
+}

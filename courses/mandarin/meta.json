@@ -1,0 +1,17 @@
+{
+  "key": "mandarin",
+  "name": "Mandarin Chinese",
+  "group": "Languages",
+  "tag": "中文",
+  "lang": "zh-CN",
+  "speak": "recognize",
+  "level": "Beginner to A2 (HSK 1 and HSK 2)",
+  "blurb": "Hear and read the four tones, then build HSK 1 and HSK 2 vocabulary and core grammar: measure words, 是, 有, 的, 了, 吗 and 呢, 不 and 没, 在, modal verbs, word order, and comparisons with 比.",
+  "sources": [
+    { "t": "Chinese Grammar Wiki, AllSet Learning (A1 and A2 grammar points)", "u": "https://resources.allsetlearning.com/chinese/grammar/" },
+    { "t": "Chinese Pronunciation Wiki, AllSet Learning: tone change rules", "u": "https://resources.allsetlearning.com/chinese/pronunciation/Tone_change_rules" },
+    { "t": "HSK 1 Vocabulary, AllSet Learning Vocabulary Wiki", "u": "https://resources.allsetlearning.com/chinese/vocabulary/HSK_1_Vocabulary" },
+    { "t": "HSK 2 Vocabulary (exclusive), AllSet Learning Vocabulary Wiki", "u": "https://resources.allsetlearning.com/chinese/vocabulary/HSK_2_Vocabulary_(exclusive)" },
+    { "t": "MDBG Chinese Dictionary (CC-CEDICT)", "u": "https://www.mdbg.net/chinese/dictionary" }
+  ]
+}

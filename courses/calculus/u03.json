@@ -1,0 +1,52 @@
+{
+  "title": "Trigonometry essentials",
+  "note": "On the unit circle, the point at angle θ is (cos θ, sin θ), so cos is the x-coordinate and sin is the y-coordinate. Memorize the first-quadrant values at π/6, π/4, and π/3; signs elsewhere follow from the quadrant. Most identities grow out of sin²θ + cos²θ = 1.",
+  "src": { "t": "Precalculus 2e, 5.2 Unit Circle: Sine and Cosine Functions", "u": "https://openstax.org/books/precalculus-2e/pages/5-2-unit-circle-sine-and-cosine-functions" },
+  "items": [
+    { "c": "sin(π/6)", "a": "1/2", "d": ["√3/2", "√2/2"] },
+    { "c": "cos(π/6)", "a": "√3/2", "d": ["1/2", "√3/3"] },
+    { "c": "sin(π/4)", "a": "√2/2", "d": ["1/2", "√3/2"] },
+    { "c": "tan(π/3)", "a": "√3", "d": ["√3/3", "1/2"] },
+    { "c": "tan(π/6)", "a": "√3/3", "d": ["√3", "√3/2"], "ex": "tan(π/6) = (1/2)/(√3/2) = 1/√3 = √3/3." },
+    { "c": "cos(π/2)", "a": "0", "d": ["1", "−1"] },
+    { "c": "cos π", "a": "−1", "d": ["1", "0"] },
+    { "c": "sin(−π/6)", "a": "−1/2", "d": ["1/2", "−√3/2"] },
+    { "c": "cos(5π/6)", "a": "−√3/2", "d": ["√3/2", "−1/2"] },
+    { "c": "sec(π/3)", "a": "2", "d": ["1/2", "2√3/3"] },
+    { "c": "90° in radians", "a": "π/2", "d": ["π/4", "2π"] },
+    { "c": "1 radian in degrees", "a": "180°/π ≈ 57.3°", "d": ["π/180° ≈ 0.017°", "360°/π ≈ 114.6°"] },
+    { "c": "Point on the unit circle at angle θ", "a": "(cos θ, sin θ)", "d": ["(sin θ, cos θ)", "(tan θ, 1)"] },
+    { "c": "sin²θ + cos²θ", "a": "1", "d": ["0", "sin 2θ"] },
+    { "c": "1 + tan²θ", "a": "sec²θ", "d": ["csc²θ", "cot²θ"] },
+    { "c": "1 + cot²θ", "a": "csc²θ", "d": ["sec²θ", "tan²θ"] },
+    { "c": "sin 2θ", "a": "2 sin θ cos θ", "d": ["2 sin θ", "cos²θ − sin²θ"] },
+    { "c": "cos 2θ in terms of sin² and cos²", "a": "cos²θ − sin²θ", "d": ["sin²θ − cos²θ", "2 sin θ cos θ"] },
+    { "c": "Power-reducing formula for cos²θ", "a": "(1 + cos 2θ)/2", "d": ["(1 − cos 2θ)/2", "(1 + sin 2θ)/2"] },
+    { "c": "Power-reducing formula for sin²θ", "a": "(1 − cos 2θ)/2", "d": ["(1 + cos 2θ)/2", "(1 − sin 2θ)/2"] },
+    { "c": "tan θ as a ratio", "a": "sin θ / cos θ", "d": ["cos θ / sin θ", "1 / sin θ"] },
+    { "c": "sec θ as a ratio", "a": "1 / cos θ", "d": ["1 / sin θ", "cos θ / sin θ"] },
+    { "c": "csc θ as a ratio", "a": "1 / sin θ", "d": ["1 / cos θ", "sin θ / cos θ"] },
+    { "c": "sin(−θ)", "a": "−sin θ", "d": ["sin θ", "cos θ"] },
+    { "c": "cos(−θ)", "a": "cos θ", "d": ["−cos θ", "−sin θ"] },
+    { "c": "sin(A + B)", "a": "sin A cos B + cos A sin B", "d": ["sin A sin B + cos A cos B", "sin A cos B − cos A sin B"] },
+    { "c": "cos(A + B)", "a": "cos A cos B − sin A sin B", "d": ["cos A cos B + sin A sin B", "sin A cos B + cos A sin B"] },
+    { "c": "Period of sin x", "a": "2π", "d": ["π", "π/2"] },
+    { "c": "Period of tan x", "a": "π", "d": ["2π", "π/2"] },
+    { "c": "Period of sin(3x)", "a": "2π/3", "d": ["6π", "3π"] },
+    { "c": "Range of sin x", "a": "[−1, 1]", "d": ["[0, 1]", "all real numbers"] },
+    { "c": "sin θ in a right triangle", "a": "opposite / hypotenuse", "d": ["adjacent / hypotenuse", "opposite / adjacent"] }
+  ],
+  "read": {
+    "title": "Why the unit circle is enough",
+    "text": [
+      "Draw a circle of radius 1 centered at the origin. Starting from the point (1, 0), walk counterclockwise along the circle a distance θ. Because the radius is 1, that arc length is also the angle in radians. The point where you stop has coordinates (cos θ, sin θ). That is the definition: cosine is the x-coordinate and sine is the y-coordinate.",
+      "Several facts fall out immediately. Every point on the circle satisfies x² + y² = 1, so sin²θ + cos²θ = 1. Both coordinates stay between −1 and 1, which is the range of sine and cosine. A full trip around is 2π, so both functions repeat with period 2π. Reflecting an angle across the x-axis turns θ into −θ, keeps x, and flips y, so cos(−θ) = cos θ while sin(−θ) = −sin θ.",
+      "You only need to memorize three first-quadrant angles. At π/6 the point is (√3/2, 1/2); at π/4 it is (√2/2, √2/2); at π/3 it is (1/2, √3/2). Any other standard angle has the same coordinates up to sign, and the quadrant tells you which signs apply. For example, 5π/6 lies in the second quadrant, where x is negative, so cos(5π/6) = −√3/2."
+    ],
+    "q": [
+      { "q": "On the unit circle, sin θ is which coordinate of the point at angle θ?", "o": ["The y-coordinate", "The x-coordinate", "The distance from the origin"], "k": 0 },
+      { "q": "Why does sin²θ + cos²θ = 1 hold?", "o": ["Every point on the unit circle satisfies x² + y² = 1", "Sine and cosine have period 2π", "Cosine is an even function"], "k": 0 },
+      { "q": "Why is cos(5π/6) negative?", "o": ["5π/6 is in the second quadrant, where x < 0", "Cosine is an odd function", "5π/6 is more than π"], "k": 0 }
+    ]
+  }
+}

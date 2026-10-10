@@ -1,0 +1,316 @@
+{
+  "title": "People, pronouns and to be",
+  "note": "Latin often drops subject pronouns because the verb ending shows who: sum, I am; sumus, we are. Learn the present of esse by heart: sum, es, est, sumus, estis, sunt. Latin has no word for a or the: puella is a girl or the girl. The verb usually comes last.",
+  "src": {
+    "t": "Allen and Greenough, sum",
+    "u": "https://dcc.dickinson.edu/grammar/latin/sum"
+  },
+  "items": [
+    {
+      "c": "esse",
+      "a": "to be",
+      "d": [
+        "to have",
+        "to go"
+      ]
+    },
+    {
+      "c": "ego",
+      "a": "I",
+      "d": [
+        "you (one person)",
+        "we"
+      ],
+      "ex": "Ego sum Marcus.",
+      "exT": "I am Marcus."
+    },
+    {
+      "c": "tu",
+      "a": "you (one person)",
+      "d": [
+        "I",
+        "you (more than one)"
+      ],
+      "ex": "Tu es amicus meus.",
+      "exT": "You are my friend."
+    },
+    {
+      "c": "nos",
+      "a": "we; us",
+      "d": [
+        "they; them",
+        "you (more than one)"
+      ],
+      "ex": "Nos sumus Romani.",
+      "exT": "We are Romans."
+    },
+    {
+      "c": "vos",
+      "a": "you (more than one)",
+      "d": [
+        "we; us",
+        "they; them"
+      ],
+      "ex": "Vos estis amici.",
+      "exT": "You are friends."
+    },
+    {
+      "c": "is, ea, id",
+      "a": "he, she, it",
+      "d": [
+        "I, you, we",
+        "who, which, what"
+      ]
+    },
+    {
+      "c": "sum",
+      "a": "I am",
+      "d": [
+        "he is",
+        "we are"
+      ]
+    },
+    {
+      "c": "es",
+      "a": "you are (one person)",
+      "d": [
+        "he/she/it is",
+        "I am"
+      ]
+    },
+    {
+      "c": "est",
+      "a": "he/she/it is",
+      "d": [
+        "they are",
+        "you are (one person)"
+      ],
+      "ex": "Iulia est puella.",
+      "exT": "Julia is a girl."
+    },
+    {
+      "c": "sumus",
+      "a": "we are",
+      "d": [
+        "they are",
+        "I am"
+      ]
+    },
+    {
+      "c": "estis",
+      "a": "you are (more than one)",
+      "d": [
+        "we are",
+        "they are"
+      ]
+    },
+    {
+      "c": "sunt",
+      "a": "they are",
+      "d": [
+        "we are",
+        "he/she/it is"
+      ],
+      "ex": "Puer et puella sunt amici.",
+      "exT": "The boy and the girl are friends."
+    },
+    {
+      "c": "Ego ___ Romanus. (esse)",
+      "a": "sum",
+      "d": [
+        "est",
+        "es"
+      ],
+      "ex": "Ego sum Romanus.",
+      "exT": "I am a Roman."
+    },
+    {
+      "c": "Tu ___ amica mea. (esse)",
+      "a": "es",
+      "d": [
+        "est",
+        "sum"
+      ],
+      "ex": "Tu es amica mea.",
+      "exT": "You are my friend."
+    },
+    {
+      "c": "Nos ___ discipuli. (esse)",
+      "a": "sumus",
+      "d": [
+        "sunt",
+        "estis"
+      ],
+      "ex": "Nos sumus discipuli.",
+      "exT": "We are students."
+    },
+    {
+      "c": "Vos ___ Graeci. (esse)",
+      "a": "estis",
+      "d": [
+        "sumus",
+        "sunt"
+      ],
+      "ex": "Vos estis Graeci.",
+      "exT": "You are Greeks."
+    },
+    {
+      "c": "Marcus et Iulia ___ amici. (esse)",
+      "a": "sunt",
+      "d": [
+        "est",
+        "sumus"
+      ],
+      "ex": "Marcus et Iulia sunt amici.",
+      "exT": "Marcus and Julia are friends."
+    },
+    {
+      "c": "puer",
+      "a": "boy",
+      "d": [
+        "girl",
+        "old man"
+      ]
+    },
+    {
+      "c": "puella",
+      "a": "girl",
+      "d": [
+        "boy",
+        "woman"
+      ]
+    },
+    {
+      "c": "vir",
+      "a": "man",
+      "d": [
+        "boy",
+        "god"
+      ],
+      "ex": "Vir bonus est.",
+      "exT": "The man is good."
+    },
+    {
+      "c": "femina",
+      "a": "woman",
+      "d": [
+        "girl",
+        "goddess"
+      ]
+    },
+    {
+      "c": "amicus",
+      "a": "friend",
+      "d": [
+        "enemy",
+        "master"
+      ]
+    },
+    {
+      "c": "amica (f)",
+      "a": "(female) friend",
+      "d": [
+        "(female) teacher",
+        "daughter"
+      ]
+    },
+    {
+      "c": "magister (m)",
+      "a": "teacher",
+      "d": [
+        "student",
+        "friend"
+      ]
+    },
+    {
+      "c": "discipulus (m)",
+      "a": "student, pupil",
+      "d": [
+        "teacher",
+        "slave"
+      ]
+    },
+    {
+      "c": "discipula (f)",
+      "a": "(female) student",
+      "d": [
+        "(female) friend",
+        "queen"
+      ]
+    },
+    {
+      "c": "Romanus (m)",
+      "a": "a Roman (man)",
+      "d": [
+        "a Greek (man)",
+        "a farmer"
+      ]
+    },
+    {
+      "c": "Graecus (m)",
+      "a": "a Greek (man)",
+      "d": [
+        "a Roman (man)",
+        "a sailor"
+      ]
+    },
+    {
+      "c": "Quis es?",
+      "a": "Who are you?",
+      "d": [
+        "Where are you?",
+        "How are you?"
+      ]
+    },
+    {
+      "c": "Ubi est Marcus?",
+      "a": "Where is Marcus?",
+      "d": [
+        "Who is Marcus?",
+        "How is Marcus?"
+      ]
+    },
+    {
+      "c": "Marcus est amicus meus.",
+      "a": "Marcus is my friend.",
+      "d": [
+        "Marcus is your friend.",
+        "Marcus is not my friend."
+      ]
+    },
+    {
+      "c": "Estne Iulia puella?",
+      "a": "Is Julia a girl?",
+      "d": [
+        "Julia is a girl.",
+        "Julia is not a girl."
+      ]
+    },
+    {
+      "c": "Non sumus Graeci.",
+      "a": "We are not Greeks.",
+      "d": [
+        "We are Greeks.",
+        "They are not Greeks."
+      ]
+    },
+    {
+      "c": "et",
+      "a": "and",
+      "d": [
+        "but",
+        "or"
+      ]
+    },
+    {
+      "c": "-ne (as in estne?)",
+      "a": "marks a yes-or-no question",
+      "d": [
+        "makes the verb negative",
+        "means 'and'"
+      ],
+      "ex": "Esne Romanus?",
+      "exT": "Are you a Roman?"
+    }
+  ]
+}

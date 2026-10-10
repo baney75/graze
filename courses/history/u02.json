@@ -1,0 +1,54 @@
+{
+  "title": "Ancient Greece",
+  "note": "Greece was never one state. Mountains and sea split it into hundreds of independent city-states (poleis) that shared a language, gods and festivals. Athens developed democracy and Sparta a military society; they united against Persia, then fought each other, and Macedon conquered them both.",
+  "src": { "t": "OpenStax World History Vol. 1, 6.1 to 6.3", "u": "https://openstax.org/books/world-history-volume-1/pages/6-2-ancient-greece" },
+  "items": [
+    { "c": "Minoans", "a": "Bronze Age palace civilization on Crete", "d": ["Bronze Age warrior kingdoms of mainland Greece", "Iron Age seafaring traders of Lebanon"] },
+    { "c": "Mycenaeans", "a": "Bronze Age warrior kingdoms of mainland Greece", "d": ["Bronze Age palace civilization on Crete", "Iron Age people who ruled early Rome"] },
+    { "c": "Phoenicians", "a": "Seafaring traders whose alphabet the Greeks adopted", "d": ["Nomads who brought iron weapons to Greece", "Islanders who built the palace at Knossos"] },
+    { "c": "What the Greeks added to the alphabet", "a": "Letters for vowels", "d": ["Letters for consonants", "Signs for whole words"] },
+    { "c": "Polis", "a": "Greek city-state", "d": ["Greek temple", "Greek assembly of elders"] },
+    { "c": "Acropolis", "a": "Fortified hilltop of a Greek city", "d": ["Open marketplace of a Greek city", "Open-air theater of a Greek city"] },
+    { "c": "Agora", "a": "Marketplace and meeting place of a Greek city", "d": ["Citadel on the hill above a Greek city", "Sacred precinct of the god Zeus"] },
+    { "c": "Poet credited with the Iliad and the Odyssey", "a": "Homer", "d": ["Hesiod", "Sophocles", "Herodotus"] },
+    { "c": "First Olympic Games, by tradition", "a": "776 BCE", "d": ["490 BCE", "323 BCE", "1200 BCE"] },
+    { "c": "Sparta", "a": "Militaristic city-state in the Peloponnese", "d": ["Seafaring democracy in Attica", "Macedonian royal capital"] },
+    { "c": "Helots", "a": "Conquered people forced to farm for Spartans", "d": ["Free citizens who voted in Athens", "Foreign residents who traded in Athens"] },
+    { "c": "Solon", "a": "Athenian lawgiver who ended debt slavery", "d": ["Spartan king who fell at Thermopylae", "Athenian general who won at Marathon"] },
+    { "c": "Cleisthenes", "a": "Reformer called the father of Athenian democracy", "d": ["Tyrant who seized Athens by force", "Leader of Athens in its golden age"] },
+    { "c": "Athenian democracy was direct, meaning", "a": "Citizens voted on laws themselves", "d": ["Citizens elected a parliament to make laws", "A king and council made laws for citizens"] },
+    { "c": "Who could vote in classical Athens", "a": "Adult male citizens only", "d": ["All free adults, men and women", "Only nobles from old families"] },
+    { "c": "Battle of Marathon", "a": "490 BCE", "d": ["480 BCE", "431 BCE", "338 BCE"] },
+    { "c": "Spartans under Leonidas held a pass at", "a": "Thermopylae", "d": ["Marathon", "Salamis", "Chaeronea"] },
+    { "c": "Naval battle where Greeks beat Xerxes' fleet", "a": "Salamis (480 BCE)", "d": ["Marathon (490 BCE)", "Aegospotami (405 BCE)"] },
+    { "c": "Delian League", "a": "Alliance of Greek states led by Athens", "d": ["Alliance of Greek states led by Sparta", "Alliance of Persian satraps"] },
+    { "c": "Pericles", "a": "Athenian leader in its golden age", "d": ["Spartan king in the Persian Wars", "Macedonian king who conquered Greece"] },
+    { "c": "Parthenon", "a": "Temple of Athena on the Athenian Acropolis", "d": ["Temple of Zeus at Olympia", "Oracle of Apollo at Delphi"] },
+    { "c": "Peloponnesian War", "a": "War between Athens and Sparta, 431 to 404 BCE", "d": ["War between Greeks and Persians, 490 to 479 BCE", "War between Macedon and Persia, 334 to 330 BCE"] },
+    { "c": "Winner of the Peloponnesian War", "a": "Sparta", "d": ["Athens", "Persia", "Thebes"] },
+    { "c": "Socrates", "a": "Philosopher who taught by questioning", "d": ["Philosopher who tutored Alexander", "Historian of the Persian Wars"] },
+    { "c": "Year Socrates was sentenced to death", "a": "399 BCE", "d": ["480 BCE", "323 BCE", "146 BCE"] },
+    { "c": "Plato", "a": "Student of Socrates; wrote The Republic", "d": ["Student of Aristotle; wrote the Histories", "Teacher of Socrates; wrote the Odyssey"] },
+    { "c": "Aristotle", "a": "Plato's student who tutored Alexander", "d": ["Socrates' teacher who founded the Academy", "Spartan lawgiver who shaped its army"] },
+    { "c": "Herodotus", "a": "Historian of the Persian Wars", "d": ["Historian of the Peloponnesian War", "Poet of the Trojan War"] },
+    { "c": "Thucydides", "a": "Historian of the Peloponnesian War", "d": ["Historian of the Persian Wars", "Playwright of Athenian tragedy"] },
+    { "c": "Philip II of Macedon", "a": "Defeated Athens and Thebes at Chaeronea", "d": ["Defeated the Persians at Marathon", "Defeated Athens at Aegospotami"] },
+    { "c": "Alexander the Great", "a": "Macedonian king who conquered the Persian Empire", "d": ["Macedonian king who lost to the Romans", "Spartan general who conquered Athens"] },
+    { "c": "Death of Alexander the Great", "a": "323 BCE", "d": ["399 BCE", "264 BCE", "44 BCE"] },
+    { "c": "Hellenistic culture", "a": "Greek culture blended with Near Eastern cultures", "d": ["Greek culture before contact with Persia", "Roman culture copied from the Etruscans"] },
+    { "c": "Alexandria in Egypt was famed for its", "a": "Great library", "d": ["Great wall", "Great pyramid"] }
+  ],
+  "read": {
+    "title": "Athens, Sparta and Persia",
+    "text": [
+      "In the Archaic period, from about 800 to 500 BCE, Greek communities organized themselves as city-states, each with its own laws, army and patron god. Two became especially powerful. Sparta conquered its neighbors and forced the helots to farm for it, which freed every Spartan citizen to train as a soldier. Athens took another path. Reforms by Solon and then Cleisthenes gave ordinary male citizens a vote in the Assembly, where they decided laws and war directly.",
+      "Around 500 BCE the Persian Empire pushed west. The Athenians beat a Persian army at Marathon in 490 BCE. Ten years later King Xerxes invaded with a huge force. A small Spartan-led band held the pass at Thermopylae for days, and then the Greek fleet crushed the Persians at Salamis.",
+      "Victory made Athens rich. It led the Delian League, used its funds to rebuild the Acropolis, and under Pericles became a center of drama and philosophy. Fear of Athenian power drove Sparta to war in 431 BCE. The Peloponnesian War lasted until 404 BCE and ended with Athens defeated. The weakened city-states later fell to Philip II of Macedon, whose son Alexander carried Greek culture as far as Egypt and India."
+    ],
+    "q": [
+      { "q": "Why could every Spartan citizen train full time as a soldier?", "o": ["Helots did the farming", "Athens paid them tribute", "Persia hired them as soldiers", "They lived by trade"], "k": 0 },
+      { "q": "What, according to the reading, caused the Peloponnesian War?", "o": ["Sparta's fear of Athenian power", "A Persian invasion of Sparta", "Alexander's conquests", "A dispute over the Olympic Games"], "k": 0 },
+      { "q": "Which battle was a naval victory over Xerxes?", "o": ["Salamis", "Marathon", "Thermopylae", "Chaeronea"], "k": 0 }
+    ]
+  }
+}

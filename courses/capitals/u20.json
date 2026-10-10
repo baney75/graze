@@ -1,0 +1,33 @@
+{
+  "title": "Capitals of Western and Northern Europe",
+  "note": "Most European capitals are also the largest city in their country. Watch the exceptions: Switzerland’s federal city is Bern, not Zurich, and in the Netherlands Amsterdam is the capital while the government sits in The Hague.",
+  "src": {
+    "t": "CIA World Factbook (archived JSON edition)",
+    "u": "https://github.com/factbook/factbook.json"
+  },
+  "items": [
+    { "c": "United Kingdom", "a": "London", "d": ["Manchester", "Birmingham", "Liverpool"] },
+    { "c": "Ireland", "a": "Dublin", "d": ["Cork", "Galway", "Limerick"] },
+    { "c": "France", "a": "Paris", "d": ["Lyon", "Marseille", "Toulouse"] },
+    { "c": "Belgium", "a": "Brussels", "d": ["Antwerp", "Ghent", "Bruges"] },
+    { "c": "Netherlands", "a": "Amsterdam", "d": ["Rotterdam", "Utrecht", "Eindhoven"], "ex": "The government and parliament sit in The Hague." },
+    { "c": "Luxembourg", "a": "Luxembourg City", "d": ["Esch-sur-Alzette", "Differdange", "Brussels"] },
+    { "c": "Germany", "a": "Berlin", "d": ["Munich", "Hamburg", "Frankfurt"] },
+    { "c": "Switzerland", "a": "Bern", "d": ["Zurich", "Geneva", "Basel"], "ex": "Bern is officially the federal city; Zurich is the largest city." },
+    { "c": "Austria", "a": "Vienna", "d": ["Salzburg", "Graz", "Innsbruck"] },
+    { "c": "Liechtenstein", "a": "Vaduz", "d": ["Schaan", "Bern", "Vienna"], "ex": "Schaan is slightly larger than Vaduz." },
+    { "c": "Monaco", "a": "Monaco", "d": ["Monte Carlo", "Nice", "Andorra la Vella"], "ex": "Monte Carlo is a district of the city-state." },
+    { "c": "Andorra", "a": "Andorra la Vella", "d": ["Escaldes-Engordany", "Madrid", "Monaco"] },
+    { "c": "Portugal", "a": "Lisbon", "d": ["Porto", "Coimbra", "Faro"] },
+    { "c": "Spain", "a": "Madrid", "d": ["Barcelona", "Seville", "Valencia"] },
+    { "c": "Italy", "a": "Rome", "d": ["Milan", "Naples", "Turin"] },
+    { "c": "San Marino", "a": "San Marino", "d": ["Serravalle", "Rimini", "Vaduz"] },
+    { "c": "Holy See", "a": "Vatican City", "d": ["Rome", "San Marino", "Valletta"], "ex": "The Holy See governs Vatican City, a city-state inside Rome." },
+    { "c": "Malta", "a": "Valletta", "d": ["Mdina", "Sliema", "Birkirkara"] },
+    { "c": "Iceland", "a": "Reykjavík", "d": ["Akureyri", "Kópavogur", "Hafnarfjörður"] },
+    { "c": "Norway", "a": "Oslo", "d": ["Bergen", "Trondheim", "Stavanger"] },
+    { "c": "Sweden", "a": "Stockholm", "d": ["Gothenburg", "Malmö", "Uppsala"] },
+    { "c": "Finland", "a": "Helsinki", "d": ["Tampere", "Turku", "Espoo"] },
+    { "c": "Denmark", "a": "Copenhagen", "d": ["Aarhus", "Odense", "Aalborg"] }
+  ]
+}

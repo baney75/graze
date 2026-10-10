@@ -1,0 +1,327 @@
+{
+  "title": "Thermodynamics for engineers",
+  "note": "First law: energy is conserved, ΔU = Q − W (heat added minus work done by the system). Second law: heat flows on its own only from hot to cold, and no engine turns all its heat into work. Carnot efficiency 1 − T_c/T_h, with kelvin temperatures, is the upper limit for any engine between two temperatures.",
+  "src": {
+    "t": "University Physics Volume 2, 4.5 The Carnot Cycle, OpenStax",
+    "u": "https://openstax.org/books/university-physics-volume-2/pages/4-5-the-carnot-cycle"
+  },
+  "items": [
+    {
+      "c": "Zeroth law of thermodynamics",
+      "a": "systems in equilibrium with a third are in equilibrium with each other",
+      "d": [
+        "energy is conserved in every process",
+        "entropy of an isolated system never decreases"
+      ]
+    },
+    {
+      "c": "First law of thermodynamics",
+      "a": "energy is conserved: ΔU = Q − W",
+      "d": [
+        "heat flows only from hot to cold",
+        "absolute zero can never be reached"
+      ]
+    },
+    {
+      "c": "In ΔU = Q − W, W stands for",
+      "a": "work done by the system",
+      "d": [
+        "work done on the system",
+        "heat lost to the surroundings"
+      ]
+    },
+    {
+      "c": "Second law, Clausius statement",
+      "a": "heat does not flow on its own from cold to hot",
+      "d": [
+        "energy cannot be created or destroyed",
+        "every engine is 100% efficient"
+      ]
+    },
+    {
+      "c": "Second law, Kelvin–Planck statement",
+      "a": "no cyclic engine turns all its heat input into work",
+      "d": [
+        "heat always flows from cold to hot",
+        "entropy of a perfect crystal is zero at 0 K"
+      ]
+    },
+    {
+      "c": "Third law of thermodynamics",
+      "a": "a perfect crystal's entropy approaches zero at absolute zero",
+      "d": [
+        "energy is conserved in every process",
+        "heat flows from hot to cold"
+      ]
+    },
+    {
+      "c": "Entropy of an isolated system over time",
+      "a": "stays the same or increases",
+      "d": [
+        "always decreases",
+        "must stay exactly constant"
+      ]
+    },
+    {
+      "c": "Adiabatic process",
+      "a": "a process with no heat transfer",
+      "d": [
+        "a process at constant temperature",
+        "a process at constant pressure"
+      ]
+    },
+    {
+      "c": "Isothermal process",
+      "a": "a process at constant temperature",
+      "d": [
+        "a process with no heat transfer",
+        "a process at constant volume"
+      ]
+    },
+    {
+      "c": "Specific heat capacity",
+      "a": "energy to raise 1 kg of a substance by 1 K",
+      "d": [
+        "energy to melt 1 kg of a substance",
+        "heat flow per unit area"
+      ]
+    },
+    {
+      "c": "Thermal efficiency of a heat engine",
+      "a": "net work out divided by heat in",
+      "d": [
+        "heat in divided by net work out",
+        "heat rejected divided by heat in"
+      ]
+    },
+    {
+      "c": "30% efficient engine, 1000 J heat in: work out",
+      "a": "300 J",
+      "d": [
+        "700 J",
+        "1000 J",
+        "30 J"
+      ]
+    },
+    {
+      "c": "30% efficient engine, 1000 J heat in: heat rejected",
+      "a": "700 J",
+      "d": [
+        "300 J",
+        "1300 J",
+        "0 J"
+      ]
+    },
+    {
+      "c": "Carnot efficiency",
+      "a": "1 − T_c/T_h, in kelvin",
+      "d": [
+        "1 − T_h/T_c, in kelvin",
+        "T_c/T_h, in Celsius",
+        "(T_h − T_c)/T_c, in kelvin"
+      ]
+    },
+    {
+      "c": "Carnot efficiency between 600 K and 300 K",
+      "a": "50%",
+      "d": [
+        "100%",
+        "25%",
+        "200%"
+      ]
+    },
+    {
+      "c": "Why Carnot efficiency must use kelvin",
+      "a": "it depends on ratios of absolute temperature",
+      "d": [
+        "kelvin values are always smaller",
+        "Celsius cannot measure hot gases"
+      ]
+    },
+    {
+      "c": "Ways to raise a heat engine's ideal efficiency",
+      "a": "raise the hot temperature or lower the cold one",
+      "d": [
+        "lower the hot temperature",
+        "make the two temperatures closer"
+      ]
+    },
+    {
+      "c": "Carnot cycle consists of",
+      "a": "two isothermal and two adiabatic processes",
+      "d": [
+        "two isobaric and two isochoric processes",
+        "four isothermal processes"
+      ]
+    },
+    {
+      "c": "Otto cycle models",
+      "a": "spark-ignition gasoline engines",
+      "d": [
+        "steam power plants",
+        "jet engines",
+        "refrigerators"
+      ]
+    },
+    {
+      "c": "Rankine cycle models",
+      "a": "steam power plants",
+      "d": [
+        "gasoline engines",
+        "jet engines",
+        "diesel engines"
+      ]
+    },
+    {
+      "c": "Brayton cycle models",
+      "a": "gas turbines and jet engines",
+      "d": [
+        "steam power plants",
+        "gasoline engines",
+        "refrigerators"
+      ]
+    },
+    {
+      "c": "Refrigerator coefficient of performance (COP)",
+      "a": "heat removed from the cold space divided by work input",
+      "d": [
+        "work input divided by heat removed",
+        "heat rejected divided by heat removed"
+      ]
+    },
+    {
+      "c": "Carnot COP of a refrigerator",
+      "a": "T_c / (T_h − T_c)",
+      "d": [
+        "T_h / (T_h − T_c)",
+        "1 − T_c/T_h"
+      ]
+    },
+    {
+      "c": "Carnot COP of a heat pump",
+      "a": "T_h / (T_h − T_c)",
+      "d": [
+        "T_c / (T_h − T_c)",
+        "1 − T_h/T_c"
+      ]
+    },
+    {
+      "c": "Why a heat pump's COP can exceed 1",
+      "a": "it moves heat rather than making it from work",
+      "d": [
+        "it breaks the first law",
+        "it burns fuel inside the house"
+      ]
+    },
+    {
+      "c": "Four main parts of a vapor-compression refrigerator",
+      "a": "compressor, condenser, expansion valve, evaporator",
+      "d": [
+        "boiler, turbine, condenser, pump",
+        "compressor, combustor, turbine, nozzle"
+      ]
+    },
+    {
+      "c": "Fridge part where refrigerant absorbs heat",
+      "a": "evaporator",
+      "d": [
+        "condenser",
+        "compressor"
+      ]
+    },
+    {
+      "c": "Conduction",
+      "a": "heat transfer through matter by direct molecular contact",
+      "d": [
+        "heat transfer by bulk motion of a fluid",
+        "heat transfer by electromagnetic waves"
+      ]
+    },
+    {
+      "c": "Convection",
+      "a": "heat transfer by bulk motion of a fluid",
+      "d": [
+        "heat transfer through a solid by contact",
+        "heat transfer by electromagnetic waves"
+      ]
+    },
+    {
+      "c": "Thermal radiation",
+      "a": "heat transfer by electromagnetic waves, needing no medium",
+      "d": [
+        "heat transfer by bulk fluid motion",
+        "heat transfer by molecular contact"
+      ]
+    },
+    {
+      "c": "Heat transfer mode that works across a vacuum",
+      "a": "radiation",
+      "d": [
+        "conduction",
+        "convection"
+      ]
+    },
+    {
+      "c": "Fourier's law: conduction rate is proportional to",
+      "a": "conductivity × area × temperature gradient",
+      "d": [
+        "conductivity × thickness ÷ area",
+        "the fourth power of temperature"
+      ]
+    },
+    {
+      "c": "Good thermal insulators have",
+      "a": "low thermal conductivity",
+      "d": [
+        "high thermal conductivity",
+        "high density"
+      ]
+    },
+    {
+      "c": "Radiated power from a hot surface scales with",
+      "a": "absolute temperature to the fourth power",
+      "d": [
+        "absolute temperature squared",
+        "temperature in Celsius"
+      ]
+    }
+  ],
+  "read": {
+    "title": "The limit on every engine",
+    "text": [
+      "A power plant, a car engine, and a jet all do the same job: take in heat at a high temperature, turn part of it into work, and dump the rest at a lower temperature. The first law keeps the books. Work out plus heat rejected equals heat in, so a 30% efficient engine that takes in 1000 J delivers 300 J of work and rejects 700 J.",
+      "The second law sets the ceiling. Building on Sadi Carnot's work of the 1820s, physicists showed that no engine running between a hot reservoir at T_h and a cold one at T_c can beat 1 − T_c/T_h, with temperatures in kelvin. An engine between 600 K and 300 K can never exceed 50%, however well it is built. To do better, engineers raise the hot temperature, which is why turbine blades are made of exotic alloys and cooled from inside.",
+      "Run the cycle backward and you get a refrigerator or heat pump. Work drives heat from cold to hot. Because the device moves heat rather than creating it, a heat pump can deliver three or four joules of heat to a house for each joule of electricity.",
+      "Heat moves by conduction through solids, convection in moving fluids, and radiation, which needs no medium at all."
+    ],
+    "q": [
+      {
+        "q": "A 30% efficient engine takes in 1000 J. How much heat does it reject?",
+        "o": [
+          "300 J",
+          "700 J",
+          "1000 J"
+        ],
+        "k": 1
+      },
+      {
+        "q": "How can engineers raise an engine's Carnot limit?",
+        "o": [
+          "Raise the hot temperature",
+          "Use Celsius instead of kelvin",
+          "Lower the hot temperature"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why can a heat pump deliver more heat than the electricity it uses?",
+        "o": [
+          "It violates the first law",
+          "It burns fuel",
+          "It moves existing heat instead of creating it"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

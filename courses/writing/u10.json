@@ -1,0 +1,54 @@
+{
+  "title": "Commonly confused words",
+  "note": "Many errors are the wrong word, not bad grammar. Affect is usually a verb (to influence) and effect usually a noun (a result). Lie means recline (lie, lay, lain) and takes no object; lay means put (lay, laid, laid) and takes one. Use fewer with plural things you count and less with amounts.",
+  "src": { "t": "Writing for Success, 4.1 Commonly Confused Words, LibreTexts", "u": "https://human.libretexts.org/Courses/Gateway_Technical_College/Book%3A_Writing_for_Success/04%3A_Working_with_Words_-_Which_Word_Is_Right/4.01%3A_Commonly_Confused_Words" },
+  "items": [
+    { "c": "Noise can ___ focus. (affect/effect)", "a": "affect", "d": ["effect"] },
+    { "c": "The new law had a big ___. (affect/effect)", "a": "effect", "d": ["affect"] },
+    { "c": "'To effect change' means", "a": "to bring about change", "d": ["to influence change", "to resist change"] },
+    { "c": "I need to ___ down for a nap. (lie/lay)", "a": "lie", "d": ["lay"] },
+    { "c": "She ___ the book down an hour ago. (laid/lay)", "a": "laid", "d": ["lay"], "ex": "Past of 'lay' (to put): laid." },
+    { "c": "Yesterday the cat ___ in the sun. (lay/laid)", "a": "lay", "d": ["laid"], "ex": "Past of 'lie' (to recline): lay." },
+    { "c": "He has ___ in bed all day. (lain/laid)", "a": "lain", "d": ["laid"] },
+    { "c": "Principal parts of 'lie' (recline)", "a": "lie, lay, lain", "d": ["lie, laid, laid", "lay, laid, laid"] },
+    { "c": "Principal parts of 'lay' (put)", "a": "lay, laid, laid", "d": ["lay, lay, lain", "lie, lay, lain"] },
+    { "c": "We made ___ mistakes. (fewer/less)", "a": "fewer", "d": ["less"] },
+    { "c": "There's ___ water in the tank. (less/fewer)", "a": "less", "d": ["fewer"] },
+    { "c": "I'll ___ the offer. (accept/except)", "a": "accept", "d": ["except"] },
+    { "c": "All came ___ Tom. (accept/except)", "a": "except", "d": ["accept"] },
+    { "c": "Don't ___ your keys. (lose/loose)", "a": "lose", "d": ["loose"] },
+    { "c": "___ coming at noon. (Their/They're/There)", "a": "They're", "d": ["Their", "There"] },
+    { "c": "She's taller ___ Ann. (than/then)", "a": "than", "d": ["then"] },
+    { "c": "Finish, ___ send it. (than/then)", "a": "then", "d": ["than"] },
+    { "c": "___ going to drive? (Who's/Whose)", "a": "Who's", "d": ["Whose"] },
+    { "c": "___ welcome to join. (Your/You're)", "a": "You're", "d": ["Your"] },
+    { "c": "That's ___ expensive. (to/too/two)", "a": "too", "d": ["to", "two"] },
+    { "c": "Imply vs. infer", "a": "speakers imply; listeners infer", "d": ["listeners imply; speakers infer"] },
+    { "c": "Complement or compliment: 'praise'", "a": "compliment", "d": ["complement"] },
+    { "c": "Principal or principle: 'a basic rule'", "a": "principle", "d": ["principal"] },
+    { "c": "Stationary or stationery: 'not moving'", "a": "stationary", "d": ["stationery"] },
+    { "c": "Discreet or discrete: 'separate, distinct'", "a": "discrete", "d": ["discreet"] },
+    { "c": "Allude or elude: 'to escape'", "a": "elude", "d": ["allude"] },
+    { "c": "Cite, site or sight: 'to quote a source'", "a": "cite", "d": ["site", "sight"] },
+    { "c": "Emigrate or immigrate: 'to leave a country'", "a": "emigrate", "d": ["immigrate"] },
+    { "c": "I run ___. (every day/everyday)", "a": "every day", "d": ["everyday"], "ex": "'Everyday' is an adjective: everyday shoes." },
+    { "c": "The dog ___ by the door. (sits/sets)", "a": "sits", "d": ["sets"] },
+    { "c": "Prices ___ each spring. (rise/raise)", "a": "rise", "d": ["raise"], "ex": "'Raise' needs an object: stores raise prices." },
+    { "c": "Capital or capitol: 'the statehouse building'", "a": "capitol", "d": ["capital"] }
+  ],
+  "read": {
+    "title": "Hooks for near-miss words",
+    "text": [
+      "Some word pairs trip up even practiced writers because they sound alike or look alike. A few memory hooks settle most of them.",
+      "For affect and effect, remember that affect is usually the action and effect the end result: \"The weather affected the game; the effect was a long delay.\" The rarer uses, such as effect as a verb meaning to bring about, are worth learning once and then watching for.",
+      "For lie and lay, ask whether the verb has an object. Lay always does: you lay something down. Lie never does: you simply lie down. The difficulty is that the past tense of lie is lay. \"Yesterday I lay on the couch\" is correct; \"Yesterday I laid the book on the couch\" is also correct, because laid is the past tense of lay.",
+      "For fewer and less, use fewer for separate things you can count and less for a mass or amount: fewer cars, less traffic. Idioms such as \"less than ten miles\" treat the number as one amount.",
+      "For contractions such as it's, they're and you're, read the apostrophe aloud as the missing letters. If \"it is\" or \"they are\" fits, the contraction is right."
+    ],
+    "q": [
+      { "q": "Why is \"Yesterday I lay on the couch\" correct?", "o": ["Lay is the past tense of lie", "Lay always takes an object", "Lay is the present tense of lie"], "k": 0 },
+      { "q": "Which phrase follows the reading's rule for fewer and less?", "o": ["less cars", "fewer traffic", "fewer cars"], "k": 2 },
+      { "q": "What test does the reading give for it's?", "o": ["Check whether it shows ownership", "Read it as it is and see if it fits", "Use it only at the start of a sentence"], "k": 1 }
+    ]
+  }
+}

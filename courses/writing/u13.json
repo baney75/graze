@@ -1,0 +1,46 @@
+{
+  "title": "Clarity: characters and actions",
+  "note": "Joseph M. Williams taught that readers find prose clear when the main characters are grammatical subjects and their key actions are verbs, not nouns. Keep subjects short and close to their verbs. Begin a sentence with familiar (old) information and end with new, important information, where the stress falls.",
+  "src": { "t": "Sentence Clarity, after Joseph M. Williams, Boston University", "u": "https://www.bu.edu/teaching-writing/files/2020/03/Sentence-Clarity-Script.pdf" },
+  "items": [
+    { "c": "Author of Style: Lessons in Clarity and Grace", "a": "Joseph M. Williams", "d": ["William Strunk Jr.", "Richard Lanham", "Wayne Booth"] },
+    { "c": "Williams: grammatical subjects should name", "a": "the main characters", "d": ["the most abstract ideas", "the newest information"] },
+    { "c": "Williams: key actions belong in", "a": "verbs", "d": ["nouns", "adjectives"] },
+    { "c": "First question when revising for clarity", "a": "Who is doing what?", "d": ["Is every word spelled right?", "How long is each sentence?"] },
+    { "c": "Character, in Williams's sense", "a": "whoever or whatever performs the main action", "d": ["the narrator of a story", "the longest noun in a sentence"] },
+    { "c": "Revise: 'Our discussion of the plan occurred.'", "a": "We discussed the plan.", "d": ["The plan's discussion by us occurred.", "A discussion of the plan was had."] },
+    { "c": "Revise: 'There was a failure of the pump.'", "a": "The pump failed.", "d": ["A pump failure there was.", "The failure of the pump occurred."] },
+    { "c": "Revise: 'Our requirement is that you pay.'", "a": "We require you to pay.", "d": ["Payment is our requirement of you.", "It is required by us that you pay."] },
+    { "c": "Revise: 'Analysis of the data was done by Kim.'", "a": "Kim analyzed the data.", "d": ["The data's analysis was Kim's.", "Data analysis was performed by Kim."] },
+    { "c": "Revise: 'City cancellation of the fair occurred.'", "a": "The city canceled the fair.", "d": ["The fair's cancellation was by the city.", "There was a city cancellation of the fair."] },
+    { "c": "Revise: 'Expansion of the firm occurred.'", "a": "The firm expanded.", "d": ["The firm's expansion occurred.", "Firm expansion took place."] },
+    { "c": "Hidden action in 'The board made a decision.'", "a": "decision", "d": ["board", "made"] },
+    { "c": "Verb hidden in 'resistance'", "a": "resist", "d": ["resistant", "resistor"] },
+    { "c": "Verb hidden in 'intention'", "a": "intend", "d": ["intentional", "intent"] },
+    { "c": "Adjective hidden in 'carelessness'", "a": "careless", "d": ["carefully", "caring"] },
+    { "c": "Nominalization worth keeping", "a": "one that refers back to an idea just stated", "d": ["one that hides the main action", "one that follows 'there is'"], "ex": "These arguments convinced the board." },
+    { "c": "Old-before-new principle", "a": "begin with familiar information, end with new", "d": ["begin with new information, end with familiar", "put the most important word first"] },
+    { "c": "Where readers look for the key new information", "a": "at the end of the sentence", "d": ["at the start of the sentence", "in the middle of the sentence"] },
+    { "c": "Stress position", "a": "the end of a sentence, where emphasis falls", "d": ["the subject at the start of a sentence", "the first sentence of a paragraph"] },
+    { "c": "Topic string", "a": "the sequence of sentence topics, usually subjects, in a passage", "d": ["a list of key terms in an index", "the transitions between paragraphs"] },
+    { "c": "Effect of a consistent topic string", "a": "the passage feels focused", "d": ["every sentence sounds alike", "the passage gains suspense"] },
+    { "c": "Problem: a long subject far from its verb", "a": "readers struggle to hold the subject in mind", "d": ["it creates a comma splice", "it makes the verb passive"] },
+    { "c": "Get to the main verb quickly by", "a": "keeping introductory material short", "d": ["putting all modifiers before the subject", "opening with a long quotation"] },
+    { "c": "Short-before-long principle", "a": "put shorter, simpler elements before longer, complex ones", "d": ["put long phrases first to set context", "alternate long and short words"] },
+    { "c": "Metadiscourse", "a": "writing about the writing, like 'I will argue that'", "d": ["writing that lists data sources", "the conclusion of an essay"] }
+  ],
+  "read": {
+    "title": "Who is doing what?",
+    "text": [
+      "Joseph Williams noticed that readers judge a sentence clear or murky largely by one thing: whether its grammar matches its story. Every sentence tells a small story with characters who do things. When the characters are the subjects and their actions are the verbs, readers follow easily.",
+      "Compare two versions. \"The city's reconsideration of the zoning decision occurred after resident complaints\" buries its characters (the city, the residents) inside modifiers and buries its actions (reconsider, complain) inside nouns. \"After residents complained, the city reconsidered its zoning decision\" puts characters in subject position and actions in verbs. It says the same thing, faster.",
+      "Williams added a principle about the flow from sentence to sentence. Readers like to start each sentence with something familiar and end with something new. If one sentence ends with \"a new vaccine,\" the next reads best if it begins with \"This vaccine\" rather than with an unrelated fact. The end of a sentence, which Williams called the stress position, is where readers expect the most important new information.",
+      "To apply all this, ask of any confusing sentence: Who is doing what? Then make the who the subject and the what the verb."
+    ],
+    "q": [
+      { "q": "In the revised zoning sentence, which words are the verbs?", "o": ["complained and reconsidered", "city and residents", "decision and complaints"], "k": 0 },
+      { "q": "According to the reading, where should a sentence usually begin?", "o": ["With the newest information", "With something familiar", "With a long introductory phrase"], "k": 1 },
+      { "q": "What did Williams call the end of a sentence?", "o": ["The topic string", "The character slot", "The stress position"], "k": 2 }
+    ]
+  }
+}

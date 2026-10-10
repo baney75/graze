@@ -1,0 +1,49 @@
+{
+  "title": "Travel and transport",
+  "note": "The way you travel comes before the verb of motion: 坐 + vehicle + 去 + place, 我坐火车去上海. Use 坐 for vehicles you ride in, 骑 for things you straddle (bikes, horses), and 开 for driving. 要 + a length of time means \"it takes\": 要五个小时.",
+  "src": { "t": "Chinese Grammar Wiki: using the verb 去", "u": "https://resources.allsetlearning.com/chinese/grammar/ASGFYNCL" },
+  "items": [
+    { "c": "飞机", "r": "fēijī", "a": "airplane", "d": ["train", "ship"] },
+    { "c": "火车", "r": "huǒchē", "a": "train", "d": ["bus", "subway"] },
+    { "c": "火车站", "r": "huǒchēzhàn", "a": "train station", "d": ["airport", "bus stop"] },
+    { "c": "机场", "r": "jīchǎng", "a": "airport", "d": ["train station", "parking lot"], "ex": "我去机场接朋友。", "exT": "I'm going to the airport to pick up a friend." },
+    { "c": "出租车", "r": "chūzūchē", "a": "taxi", "d": ["bus", "rental bike"] },
+    { "c": "公共汽车", "r": "gōnggòng qìchē", "a": "bus", "d": ["taxi", "private car"] },
+    { "c": "地铁", "r": "dìtiě", "a": "subway", "d": ["train", "bridge"] },
+    { "c": "自行车", "r": "zìxíngchē", "a": "bicycle", "d": ["motorcycle", "car"] },
+    { "c": "车", "r": "chē", "a": "car; vehicle", "d": ["road; street", "ticket; pass"] },
+    { "c": "站", "r": "zhàn", "a": "station, stop", "d": ["road", "ticket"] },
+    { "c": "开车", "r": "kāichē", "a": "to drive (a car)", "d": ["to ride a bike", "to take a taxi"], "ex": "我爸爸开车去上班。", "exT": "My dad drives to work." },
+    { "c": "坐", "r": "zuò", "a": "to sit; to take (a vehicle)", "d": ["to ride (a bike); to straddle", "to drive; to open"] },
+    { "c": "骑", "r": "qí", "a": "to ride (a bike, a horse)", "d": ["to drive (a car)", "to take (a bus)"] },
+    { "c": "上车", "r": "shàngchē", "a": "to get on (a vehicle)", "d": ["to get off (a vehicle)", "to buy a car"] },
+    { "c": "下车", "r": "xiàchē", "a": "to get off (a vehicle)", "d": ["to get on (a vehicle)", "to park a car"] },
+    { "c": "票", "r": "piào", "a": "ticket", "d": ["passport", "map"] },
+    { "c": "张", "r": "zhāng", "a": "measure word for flat things (tickets, paper)", "d": ["measure word for vehicles", "measure word for animals"], "ex": "我要两张票。", "exT": "I'd like two tickets." },
+    { "c": "旅游", "r": "lǚyóu", "a": "to travel (for fun); tourism", "d": ["to move house", "to go to work"] },
+    { "c": "护照", "r": "hùzhào", "a": "passport", "d": ["ticket", "visa"] },
+    { "c": "行李", "r": "xíngli", "a": "luggage", "d": ["passport", "map"] },
+    { "c": "出发", "r": "chūfā", "a": "to set off, depart", "d": ["to arrive", "to return"], "ex": "我们八点出发。", "exT": "We set off at eight." },
+    { "c": "上海", "r": "Shànghǎi", "a": "Shanghai", "d": ["Beijing", "Hong Kong"] },
+    { "c": "你怎么去学校？", "r": "Nǐ zěnme qù xuéxiào?", "a": "How do you get to school?", "d": ["When do you go to school?", "Why do you go to school?"] },
+    { "c": "我坐飞机去上海。", "r": "Wǒ zuò fēijī qù Shànghǎi.", "a": "I'm flying to Shanghai.", "d": ["I'm taking the train to Shanghai.", "I'm flying from Shanghai."] },
+    { "c": "我骑自行车上班。", "r": "Wǒ qí zìxíngchē shàngbān.", "a": "I ride a bike to work.", "d": ["I take the bus to work.", "I fix bikes at work."] },
+    { "c": "我___地铁去公司。", "r": "Wǒ ___ dìtiě qù gōngsī.", "a": "坐", "d": ["骑", "开"], "ex": "我坐地铁去公司。", "exT": "I take the subway to the office." },
+    { "c": "他___自行车去学校。", "r": "Tā ___ zìxíngchē qù xuéxiào.", "a": "骑", "d": ["坐", "开"] },
+    { "c": "你___去机场？(how)", "r": "Nǐ ___ qù jīchǎng?", "a": "怎么", "d": ["什么", "哪儿"] },
+    { "c": "一___火车票", "r": "yī ___ huǒchē piào", "a": "张", "d": ["本", "杯"] },
+    { "c": "坐火车___三个小时。(it takes)", "r": "Zuò huǒchē ___ sān gè xiǎoshí.", "a": "要", "d": ["有", "是"] }
+  ],
+  "read": {
+    "title": "去上海旅游",
+    "text": [
+      "这个周末我和朋友去上海旅游。我们不坐飞机，我们坐火车去。从北京到上海，坐火车要五个小时。火车票不太贵。",
+      "我们住在一个小宾馆，宾馆离地铁站很近。在上海，我们坐地铁去很多地方。我朋友喜欢骑自行车，他想骑自行车去公园。"
+    ],
+    "q": [
+      { "q": "How do they travel from Beijing to Shanghai?", "o": ["By plane", "By train", "By car"], "k": 1 },
+      { "q": "Where is their hotel?", "o": ["Near a subway station", "Next to the park", "Far from the city"], "k": 0 },
+      { "q": "What does the friend want to do?", "o": ["Take a taxi to the airport", "Stay at the hotel", "Ride a bike to the park"], "k": 2 }
+    ]
+  }
+}

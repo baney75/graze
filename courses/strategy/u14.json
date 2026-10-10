@@ -1,0 +1,53 @@
+{
+  "title": "Strategy beyond the battlefield",
+  "note": "The same habits that serve generals serve leaders anywhere: match ends, ways and means; decide under uncertainty without fooling yourself; negotiate from interests and a strong walk-away option; and compete by choosing where you can win, using tools such as Porter's five forces, generic strategies and SWOT.",
+  "src": { "t": "OpenStax Principles of Management, 8.6 Competition, Strategy, and Competitive Advantage", "u": "https://openstax.org/books/principles-management/pages/8-6-competition-strategy-and-competitive-advantage" },
+  "items": [
+    { "c": "Lykke's three elements of any strategy", "a": "Ends, ways and means", "d": ["Men, money and munitions", "Plan, prepare and perform"] },
+    { "c": "Rumelt's kernel of good strategy", "a": "Diagnosis, guiding policy, coherent actions", "d": ["Vision, mission, values", "Goals, budgets, deadlines"] },
+    { "c": "Eisenhower's saying about plans", "a": "Plans are worthless, but planning is everything", "d": ["A good plan today beats a perfect plan tomorrow", "Never change a plan once the battle begins"] },
+    { "c": "Risk versus uncertainty (Frank Knight)", "a": "Risk has known odds; uncertainty does not", "d": ["Risk is personal; uncertainty is national", "They mean exactly the same thing"] },
+    { "c": "Expected value", "a": "Probability-weighted average of possible outcomes", "d": ["The single most likely outcome", "The best outcome that could happen"] },
+    { "c": "Opportunity cost", "a": "The value of the best alternative you give up", "d": ["Money already spent and unrecoverable", "The price on a product's label"] },
+    { "c": "Sunk cost fallacy", "a": "Letting unrecoverable past costs drive new choices", "d": ["Ignoring future costs of a plan", "Spending too little on research"] },
+    { "c": "Escalation of commitment", "a": "Pouring more into a failing course to justify it", "d": ["Raising goals after each success", "Delegating decisions upward"] },
+    { "c": "Bounded rationality (Herbert Simon)", "a": "Limited information and mental capacity limit decisions", "d": ["People always choose the optimal option", "Rules that forbid emotional choices"] },
+    { "c": "Satisficing", "a": "Choosing the first option that is good enough", "d": ["Searching until the perfect option appears", "Choosing to satisfy every stakeholder"] },
+    { "c": "Confirmation bias", "a": "Favoring evidence that fits what you already believe", "d": ["Trusting the most recent evidence only", "Doubting every source equally"] },
+    { "c": "Anchoring", "a": "Over-relying on the first number or fact you hear", "d": ["Refusing to change a decision once made", "Copying what most people choose"] },
+    { "c": "Bayesian updating", "a": "Revising your estimates as new evidence arrives", "d": ["Keeping your first estimate no matter what", "Averaging every expert's opinion"] },
+    { "c": "Premortem", "a": "Imagining a plan has failed and asking why", "d": ["Reviewing a project after it ends", "Testing a product before launch"] },
+    { "c": "Red team", "a": "A group that plays the adversary to test a plan", "d": ["The team that carries out the plan", "Auditors who check the budget"] },
+    { "c": "BATNA", "a": "Best Alternative To a Negotiated Agreement", "d": ["Basic Agreement To Negotiate Again", "Bargaining Advantage Through Nonstop Asking"] },
+    { "c": "Book that popularized BATNA", "a": "Getting to Yes", "d": ["The Art of the Deal", "How to Win Friends and Influence People"] },
+    { "c": "In negotiation, who gets the better deal?", "a": "The side with the more attractive BATNA", "d": ["The side that speaks first", "The side with the larger team"] },
+    { "c": "Principled negotiation focuses on", "a": "Interests rather than positions", "d": ["Positions rather than interests", "Winning every point"] },
+    { "c": "Distributive bargaining", "a": "Win-lose dividing of a fixed resource", "d": ["Win-win search for joint gains", "Mediation by a neutral third party"] },
+    { "c": "Integrative bargaining", "a": "Win-win search for solutions that benefit both", "d": ["Win-lose dividing of a fixed resource", "Refusing to negotiate at all"] },
+    { "c": "Reservation price", "a": "The walk-away point beyond which you will not deal", "d": ["The first price you announce", "The price a neutral expert sets"] },
+    { "c": "ZOPA", "a": "Zone of possible agreement between walk-away points", "d": ["A deadline imposed on talks", "The opening offer in a negotiation"] },
+    { "c": "Porter's five forces: the two power forces", "a": "Supplier power and buyer power", "d": ["Government and labor unions", "Price and promotion"] },
+    { "c": "Substitute, in Porter's model", "a": "Another product meeting the same customer need", "d": ["A rival selling the same product", "A supplier of raw materials"] },
+    { "c": "Porter's generic strategies", "a": "Cost leadership, differentiation, focus", "d": ["Attack, defend, retreat", "Growth, stability, retrenchment"] },
+    { "c": "Porter: risk of chasing cost and differentiation", "a": "Being stuck in the middle", "d": ["Becoming a monopoly", "Lowering all rivals' prices"] },
+    { "c": "SWOT: the two internal factors", "a": "Strengths and weaknesses", "d": ["Opportunities and threats", "Strengths and opportunities"] },
+    { "c": "SWOT: the two external factors", "a": "Opportunities and threats", "d": ["Strengths and weaknesses", "Weaknesses and threats"] },
+    { "c": "First-mover advantage", "a": "Benefits gained by entering a market first", "d": ["Benefits of copying a pioneer later", "A discount for early customers only"] },
+    { "c": "Blue ocean strategy", "a": "Creating uncontested market space instead of fighting rivals", "d": ["Competing on price in a crowded market", "Expanding overseas by sea trade"] },
+    { "c": "Sun Tzu idea echoed in blue ocean strategy", "a": "Win without a costly head-on fight", "d": ["Always attack the strongest rival", "Never change a plan once set"] }
+  ],
+  "read": {
+    "title": "From the battlefield to the boardroom",
+    "text": [
+      "Strategy begins with three questions: what are we trying to achieve, how will we achieve it, and with what resources? Planners call these ends, ways and means. Many failures, in war and in business, come from a mismatch, such as grand goals pursued with too few resources, or busy activity that serves no clear end.",
+      "Decisions are made under uncertainty, so good strategists think in probabilities. They weigh outcomes by their likelihood, update estimates when new evidence arrives, and guard against familiar traps: anchoring on the first number heard, favoring evidence that confirms what they already believe, and throwing more money after a failing project because so much has already been spent.",
+      "In negotiation, the key source of strength is your best alternative to a negotiated agreement, or BATNA. If you can walk away to something good, you can bargain firmly. Skilled negotiators also look past stated positions to the interests underneath, which often reveals deals that leave both sides better off.",
+      "In markets, Michael Porter urged firms to study the forces shaping their industry, rivals, new entrants, substitutes, suppliers and buyers, and then choose a clear path: lowest cost, a distinctive product, or a focused niche. Like Sun Tzu's ideal general, the best competitor often wins by choosing a field where a head-on fight is unnecessary."
+    ],
+    "q": [
+      { "q": "What causes many strategic failures, according to the reading?", "o": ["A mismatch between ends, ways and means", "Too much attention to probability", "Negotiating too often"], "k": 0 },
+      { "q": "What lets a negotiator bargain firmly?", "o": ["Making the first offer", "A good alternative if talks fail", "Hiding all interests"], "k": 1 },
+      { "q": "Which choice did Porter urge firms to make?", "o": ["Copy the market leader closely", "Compete on every front at once", "Lowest cost, a distinctive product, or a focused niche"], "k": 2 }
+    ]
+  }
+}

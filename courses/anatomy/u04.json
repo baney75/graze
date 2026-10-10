@@ -1,0 +1,61 @@
+{
+  "title": "Bone tissue and the skeleton",
+  "note": "The adult skeleton has 206 bones: 80 axial (skull, vertebral column, thoracic cage) and 126 appendicular (limbs and girdles). Osteoblasts build bone, osteocytes maintain it, and osteoclasts resorb it. Compact bone is built of osteons; spongy bone is a lattice of trabeculae.",
+  "src": { "t": "OpenStax A&P 2e, 6.3 Bone Structure", "u": "https://openstax.org/books/anatomy-and-physiology-2e/pages/6-3-bone-structure" },
+  "items": [
+    { "c": "Number of bones in the adult skeleton", "a": "206", "d": ["212", "196"] },
+    { "c": "Axial skeleton", "a": "Skull, vertebral column, and thoracic cage", "d": ["Limbs and the girdles that attach them", "Skull, pectoral girdle, and arms"] },
+    { "c": "Appendicular skeleton", "a": "Limbs and the girdles that attach them", "d": ["Skull, vertebral column, and thoracic cage", "Ribs, sternum, and vertebrae"] },
+    { "c": "Diaphysis", "a": "Shaft of a long bone", "d": ["Expanded end of a long bone", "Growth plate of a long bone"] },
+    { "c": "Epiphysis", "a": "Expanded end of a long bone", "d": ["Shaft of a long bone", "Membrane lining the marrow cavity"] },
+    { "c": "Epiphyseal plate", "a": "Hyaline cartilage growth plate", "d": ["Fibrous membrane on the bone surface", "Hollow center of the shaft"] },
+    { "c": "Periosteum", "a": "Fibrous membrane covering the outer bone surface", "d": ["Membrane lining the medullary cavity", "Cartilage covering a joint surface"] },
+    { "c": "Endosteum", "a": "Membrane lining the medullary cavity", "d": ["Fibrous membrane on the outer surface", "Cartilage plate where bone lengthens"] },
+    { "c": "Osteoblast", "a": "Cell that builds new bone matrix", "d": ["Cell that resorbs bone", "Mature cell trapped in a lacuna"] },
+    { "c": "Osteocyte", "a": "Mature bone cell sitting in a lacuna", "d": ["Cell that resorbs bone", "Stem cell that divides"] },
+    { "c": "Osteoclast", "a": "Multinucleated cell that resorbs bone", "d": ["Cell that builds bone matrix", "Mature cell sitting in a lacuna"], "ex": "Osteoclasts come from monocyte-macrophage lineage, not from osteogenic cells." },
+    { "c": "Osteon (Haversian system)", "a": "Structural unit of compact bone", "d": ["Lattice of spongy bone", "Growth plate of a long bone"] },
+    { "c": "Central (Haversian) canal", "a": "Channel carrying vessels and nerves through an osteon", "d": ["Space that houses an osteocyte", "Hollow center of a long bone shaft"] },
+    { "c": "Canaliculi", "a": "Tiny channels linking lacunae to each other", "d": ["Rings of matrix around a central canal", "Plates of spongy bone"] },
+    { "c": "Trabeculae", "a": "Lattice of spongy bone aligned with stress", "d": ["Concentric rings of compact bone", "Fibers of the periosteum"] },
+    { "c": "Main site of blood cell formation in bone", "a": "Red bone marrow", "d": ["Yellow bone marrow", "The periosteum"] },
+    { "c": "Foramen", "a": "Opening that passes vessels or nerves", "d": ["Rounded knob that forms a joint", "Rough raised area for a tendon"] },
+    { "c": "Tuberosity", "a": "Rough raised area for tendon attachment", "d": ["Opening that passes nerves", "Shallow depression in a bone"] },
+    { "c": "Only movable bone of the skull", "a": "Mandible", "d": ["Maxilla", "Zygomatic bone"] },
+    { "c": "Suture joining the frontal and parietal bones", "a": "Coronal suture", "d": ["Sagittal suture", "Lambdoid suture"] },
+    { "c": "Bone containing the foramen magnum", "a": "Occipital bone", "d": ["Sphenoid bone", "Temporal bone"] },
+    { "c": "Sella turcica of the sphenoid holds the", "a": "Pituitary gland", "d": ["Olfactory bulb", "Pineal gland"] },
+    { "c": "Bone with the cribriform plate", "a": "Ethmoid bone", "d": ["Sphenoid bone", "Frontal bone"] },
+    { "c": "Number of cervical vertebrae", "a": "7 (C1 to C7)", "d": ["5 (C1 to C5)", "12 (C1 to C12)"] },
+    { "c": "Number of thoracic vertebrae", "a": "12 (T1 to T12)", "d": ["7 (T1 to T7)", "5 (T1 to T5)"] },
+    { "c": "Number of lumbar vertebrae", "a": "5 (L1 to L5)", "d": ["7 (L1 to L7)", "12 (L1 to L12)"] },
+    { "c": "Atlas (C1)", "a": "Ring-shaped vertebra with no body that holds the skull", "d": ["Vertebra bearing the dens", "Largest lumbar vertebra"] },
+    { "c": "Dens (odontoid process)", "a": "Peg on the axis (C2) that lets the head rotate", "d": ["Ring of the atlas that holds the skull", "Fused vertebrae at the base of the spine"] },
+    { "c": "Vertebrae with transverse foramina", "a": "Cervical", "d": ["Thoracic", "Lumbar"] },
+    { "c": "Nucleus pulposus", "a": "Gel-like center of an intervertebral disc", "d": ["Tough outer ring of a disc", "Bony arch over the spinal cord"] },
+    { "c": "Pectoral girdle bones", "a": "Clavicle and scapula", "d": ["Humerus and scapula", "Clavicle and sternum"] },
+    { "c": "Lateral (thumb-side) bone of the forearm", "a": "Radius", "d": ["Ulna", "Humerus"] },
+    { "c": "Olecranon", "a": "Process of the ulna that forms the point of the elbow", "d": ["Rounded head of the humerus", "Pointed end of the radius at the wrist"] },
+    { "c": "Number of carpal bones in one wrist", "a": "8", "d": ["7", "5"] },
+    { "c": "Number of tarsal bones in one foot", "a": "7", "d": ["8", "5"] },
+    { "c": "Longest and strongest bone of the body", "a": "Femur", "d": ["Tibia", "Humerus"] },
+    { "c": "Acetabulum", "a": "Socket of the hip bone for the femoral head", "d": ["Socket of the scapula for the humerus", "Notch of the ulna at the elbow"] },
+    { "c": "Patella", "a": "Largest sesamoid bone, in the quadriceps tendon", "d": ["Heel bone of the foot", "Medial bone of the leg"] },
+    { "c": "Medial malleolus belongs to the", "a": "Tibia", "d": ["Fibula", "Talus"] },
+    { "c": "Lateral malleolus belongs to the", "a": "Fibula", "d": ["Tibia", "Talus"] }
+  ],
+  "read": {
+    "title": "Bone is living tissue",
+    "text": [
+      "It is easy to picture bone as dead and fixed, but bone is a living tissue that is rebuilt throughout life. Three cell types do the work. Osteoblasts lay down new matrix of collagen and calcium salts. Some become trapped in what they build and mature into osteocytes, which sit in small spaces called lacunae and help maintain the surrounding mineral. Osteoclasts, large cells with many nuclei, dissolve bone where it is not needed.",
+      "Compact bone, the dense outer layer of every bone, is organized into osteons. Each osteon is a set of concentric rings of matrix around a central canal that carries blood vessels and nerves. Tiny canaliculi link the lacunae to each other and to the canal, so nutrients and wastes can reach every osteocyte.",
+      "Spongy bone, inside the ends of long bones, has no osteons. It is a lattice of thin plates called trabeculae that line up along the directions of stress, giving strength with little weight. The spaces between trabeculae in many bones hold red marrow, where blood cells are made.",
+      "A long bone shows both types: a hollow shaft, the diaphysis, walled with compact bone, and two wider ends, the epiphyses, filled with spongy bone."
+    ],
+    "q": [
+      { "q": "Which cells dissolve bone?", "o": ["Osteoblasts", "Osteocytes", "Osteoclasts"], "k": 2 },
+      { "q": "How do nutrients reach osteocytes in compact bone?", "o": ["Through canaliculi linked to the central canal", "Through the medullary cavity only", "By diffusion through solid mineral"], "k": 0 },
+      { "q": "How are trabeculae arranged?", "o": ["In concentric rings", "Along lines of stress", "At random"], "k": 1 }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "title": "Travel and transport",
+  "note": "で also marks the means: バスで行きます \"I go by bus.\" On foot is 歩いて, with no で. から means \"from\" and まで \"to, as far as\": 家から駅まで. You ride something with に: 電車に乗ります. Get off uses を: 電車を降ります.",
+  "src": {
+    "t": "Tae Kim's Guide: Particles used with verbs (で for means)",
+    "u": "https://guidetojapanese.org/learn/grammar/verbparticles"
+  },
+  "items": [
+    {
+      "c": "電車",
+      "r": "densha",
+      "a": "train",
+      "d": [
+        "bus",
+        "subway"
+      ],
+      "ex": "(でんしゃ) 電車で会社へ行きます。",
+      "exT": "I go to work by train."
+    },
+    {
+      "c": "地下鉄",
+      "r": "chikatetsu",
+      "a": "subway",
+      "d": [
+        "train station",
+        "bus"
+      ]
+    },
+    {
+      "c": "バス",
+      "r": "basu",
+      "a": "bus",
+      "d": [
+        "taxi",
+        "train"
+      ]
+    },
+    {
+      "c": "車",
+      "r": "kuruma",
+      "a": "car",
+      "d": [
+        "bicycle",
+        "train"
+      ]
+    },
+    {
+      "c": "自転車",
+      "r": "jitensha",
+      "a": "bicycle",
+      "d": [
+        "car",
+        "motorcycle"
+      ],
+      "ex": "(じてんしゃ) 自転車で駅へ行きます。",
+      "exT": "I go to the station by bike."
+    },
+    {
+      "c": "飛行機",
+      "r": "hikōki",
+      "a": "airplane",
+      "d": [
+        "airport",
+        "ship"
+      ]
+    },
+    {
+      "c": "タクシー",
+      "r": "takushī",
+      "a": "taxi",
+      "d": [
+        "bus",
+        "car"
+      ]
+    },
+    {
+      "c": "空港",
+      "r": "kūkō",
+      "a": "airport",
+      "d": [
+        "airplane",
+        "harbor"
+      ]
+    },
+    {
+      "c": "切符",
+      "r": "kippu",
+      "a": "ticket",
+      "d": [
+        "map",
+        "passport"
+      ],
+      "ex": "(きっぷ) 切符を買います。",
+      "exT": "I buy a ticket."
+    },
+    {
+      "c": "旅行",
+      "r": "ryokō",
+      "a": "trip, travel",
+      "d": [
+        "work",
+        "map"
+      ]
+    },
+    {
+      "c": "国",
+      "r": "kuni",
+      "a": "country",
+      "d": [
+        "town",
+        "language"
+      ]
+    },
+    {
+      "c": "外国",
+      "r": "gaikoku",
+      "a": "foreign country",
+      "d": [
+        "home country",
+        "foreigner"
+      ]
+    },
+    {
+      "c": "地図",
+      "r": "chizu",
+      "a": "map",
+      "d": [
+        "ticket",
+        "picture"
+      ]
+    },
+    {
+      "c": "ホテル",
+      "r": "hoteru",
+      "a": "hotel",
+      "d": [
+        "hospital",
+        "station"
+      ]
+    },
+    {
+      "c": "時間",
+      "r": "jikan",
+      "a": "time; hours (duration)",
+      "d": [
+        "o'clock",
+        "minutes"
+      ],
+      "ex": "(じかん) 一時間ぐらいかかります。",
+      "exT": "It takes about an hour."
+    },
+    {
+      "c": "ぐらい",
+      "r": "gurai",
+      "a": "about, approximately",
+      "d": [
+        "exactly",
+        "only"
+      ]
+    },
+    {
+      "c": "から (from)",
+      "r": "kara",
+      "say": "から",
+      "a": "from",
+      "d": [
+        "until, as far as",
+        "with"
+      ]
+    },
+    {
+      "c": "まで",
+      "r": "made",
+      "a": "until, as far as",
+      "d": [
+        "from",
+        "by (means)"
+      ]
+    },
+    {
+      "c": "乗ります",
+      "r": "norimasu",
+      "a": "get on, ride",
+      "d": [
+        "get off",
+        "walk"
+      ]
+    },
+    {
+      "c": "降ります",
+      "r": "orimasu",
+      "a": "get off (a vehicle)",
+      "d": [
+        "get on, ride",
+        "arrive"
+      ]
+    },
+    {
+      "c": "歩きます",
+      "r": "arukimasu",
+      "a": "walk",
+      "d": [
+        "run",
+        "ride"
+      ]
+    },
+    {
+      "c": "歩いて",
+      "r": "aruite",
+      "a": "on foot",
+      "d": [
+        "by car",
+        "by bicycle"
+      ],
+      "ex": "(あるいて) 歩いて学校へ行きます。",
+      "exT": "I walk to school."
+    },
+    {
+      "c": "出かけます",
+      "r": "dekakemasu",
+      "a": "go out",
+      "d": [
+        "come back",
+        "stay home"
+      ]
+    },
+    {
+      "c": "着きます",
+      "r": "tsukimasu",
+      "a": "arrive",
+      "d": [
+        "leave",
+        "wear"
+      ]
+    },
+    {
+      "c": "どうやって行きますか。",
+      "r": "Dōyatte ikimasu ka.",
+      "a": "How will you get there?",
+      "d": [
+        "Where will you go?",
+        "When will you go?"
+      ]
+    },
+    {
+      "c": "車で一時間ぐらいです。",
+      "r": "Kuruma de ichijikan gurai desu.",
+      "a": "It's about an hour by car.",
+      "d": [
+        "It's about an hour on foot.",
+        "It's about ten minutes by car."
+      ]
+    },
+    {
+      "c": "バス___学校へ行きます。",
+      "r": "Basu ___ gakkō e ikimasu.",
+      "a": "で",
+      "d": [
+        "を",
+        "に"
+      ],
+      "ex": "バスで学校へ行きます。",
+      "exT": "I go to school by bus."
+    },
+    {
+      "c": "駅で電車___乗ります。",
+      "r": "Eki de densha ___ norimasu.",
+      "a": "に",
+      "d": [
+        "を",
+        "で"
+      ]
+    },
+    {
+      "c": "東京___大阪まで新幹線で行きます。",
+      "r": "Tōkyō ___ Ōsaka made shinkansen de ikimasu.",
+      "a": "から",
+      "d": [
+        "に",
+        "を"
+      ],
+      "ex": "東京から大阪まで新幹線で行きます。",
+      "exT": "I go from Tokyo to Osaka by bullet train."
+    },
+    {
+      "c": "家から駅___歩きます。",
+      "r": "Ie kara eki ___ arukimasu.",
+      "a": "まで",
+      "d": [
+        "の",
+        "が"
+      ]
+    }
+  ]
+}

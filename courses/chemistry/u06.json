@@ -1,0 +1,59 @@
+{
+  "title": "Chemical nomenclature: ions, compounds and acids",
+  "note": "Ionic compounds name the cation, then the anion; a metal with more than one common charge gets a Roman numeral, as in iron(III). Oxyanions with more oxygen end in -ate, with less in -ite. For acids, -ide becomes hydro-…-ic acid, -ate becomes -ic acid, and -ite becomes -ous acid. Molecular compounds use prefixes: mono, di, tri, tetra, penta, hexa.",
+  "src": { "t": "Chemistry 2e, 2.7 Chemical Nomenclature, OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature" },
+  "items": [
+    { "c": "NH₄⁺", "a": "ammonium", "d": ["ammonia", "amide"] },
+    { "c": "OH⁻", "a": "hydroxide", "d": ["hydride", "oxide"] },
+    { "c": "NO₃⁻", "a": "nitrate", "d": ["nitrite", "nitride"] },
+    { "c": "NO₂⁻", "a": "nitrite", "d": ["nitrate", "nitride"] },
+    { "c": "SO₄²⁻", "a": "sulfate", "d": ["sulfite", "sulfide"] },
+    { "c": "SO₃²⁻", "a": "sulfite", "d": ["sulfate", "sulfide"] },
+    { "c": "PO₄³⁻", "a": "phosphate", "d": ["phosphite", "phosphide"] },
+    { "c": "CO₃²⁻", "a": "carbonate", "d": ["hydrogen carbonate", "carbide"] },
+    { "c": "HCO₃⁻", "a": "hydrogen carbonate (bicarbonate)", "d": ["carbonate", "hydrogen carbonite"] },
+    { "c": "C₂H₃O₂⁻ (also written CH₃COO⁻)", "a": "acetate", "d": ["oxalate", "carbonate"] },
+    { "c": "ClO₄⁻", "a": "perchlorate", "d": ["chlorate", "hypochlorite"] },
+    { "c": "ClO₃⁻", "a": "chlorate", "d": ["chlorite", "perchlorate"] },
+    { "c": "ClO₂⁻", "a": "chlorite", "d": ["chlorate", "hypochlorite"] },
+    { "c": "ClO⁻", "a": "hypochlorite", "d": ["chlorite", "chloride"] },
+    { "c": "MnO₄⁻", "a": "permanganate", "d": ["manganate", "manganite"] },
+    { "c": "CN⁻", "a": "cyanide", "d": ["cyanate", "carbonitride"] },
+    { "c": "Cr₂O₇²⁻", "a": "dichromate", "d": ["chromate", "chromite"] },
+    { "c": "Formula of the chromate ion", "a": "CrO₄²⁻", "d": ["Cr₂O₇²⁻", "CrO₃²⁻"] },
+    { "c": "Formula of the hydrogen phosphate ion", "a": "HPO₄²⁻", "d": ["H₂PO₄⁻", "HPO₃²⁻"] },
+    { "c": "Formula of the peroxide ion", "a": "O₂²⁻", "d": ["O²⁻", "O₂⁻"] },
+    { "c": "Formula of the oxalate ion", "a": "C₂O₄²⁻", "d": ["C₂H₃O₂⁻", "CO₃²⁻"] },
+    { "c": "Name of FeCl₃", "a": "iron(III) chloride", "d": ["iron(II) chloride", "iron(III) chlorate"] },
+    { "c": "Name of Hg₂Cl₂", "a": "mercury(I) chloride", "d": ["mercury(II) chloride", "mercury(I) chlorate"], "ex": "Mercury(I) exists as the Hg₂²⁺ ion." },
+    { "c": "Name of CuSO₄·5H₂O", "a": "copper(II) sulfate pentahydrate", "d": ["copper(I) sulfate pentahydrate", "copper(II) sulfite pentahydrate"] },
+    { "c": "Formula of ammonium sulfate", "a": "(NH₄)₂SO₄", "d": ["NH₄SO₄", "NH₄(SO₄)₂"] },
+    { "c": "Formula of calcium phosphate", "a": "Ca₃(PO₄)₂", "d": ["Ca₂(PO₄)₃", "CaPO₄"] },
+    { "c": "Formula of sodium hydrogen carbonate", "a": "NaHCO₃", "d": ["Na₂CO₃", "NaHCO₂"] },
+    { "c": "Name of SF₆", "a": "sulfur hexafluoride", "d": ["sulfur pentafluoride", "sulfur heptafluoride"] },
+    { "c": "Name of N₂O₄", "a": "dinitrogen tetroxide", "d": ["dinitrogen pentoxide", "dinitrogen trioxide"] },
+    { "c": "Molecular-name prefix for 5", "a": "penta-", "d": ["tetra-", "hexa-"] },
+    { "c": "Name of HCl(aq)", "a": "hydrochloric acid", "d": ["chloric acid", "chlorous acid"] },
+    { "c": "Name of HNO₃", "a": "nitric acid", "d": ["nitrous acid", "hydronitric acid"] },
+    { "c": "Name of HNO₂", "a": "nitrous acid", "d": ["nitric acid", "hyponitrous acid"] },
+    { "c": "Name of H₂SO₄", "a": "sulfuric acid", "d": ["sulfurous acid", "hydrosulfuric acid"] },
+    { "c": "Name of H₂SO₃", "a": "sulfurous acid", "d": ["sulfuric acid", "hydrosulfurous acid"] },
+    { "c": "Name of H₂S(aq)", "a": "hydrosulfuric acid", "d": ["sulfuric acid", "sulfurous acid"] },
+    { "c": "Name of HClO", "a": "hypochlorous acid", "d": ["chlorous acid", "hydrochloric acid"] },
+    { "c": "Name of H₃PO₄", "a": "phosphoric acid", "d": ["phosphorous acid", "hydrophosphoric acid"] }
+  ],
+  "read": {
+    "title": "Reading a chemical name",
+    "text": [
+      "Chemical names follow a small set of rules, and once you know them a name tells you the formula. For an ionic compound, name the cation and then the anion. A simple anion ends in -ide, so Na₂O is sodium oxide. Many transition metals form more than one ion, so the charge goes in Roman numerals: FeCl₂ is iron(II) chloride and FeCl₃ is iron(III) chloride. The formula itself is whatever ratio makes the charges cancel.",
+      "Polyatomic ions keep their own names. Several are oxyanions, which pair an element with oxygen. The ion with more oxygen atoms ends in -ate and the one with one fewer oxygen ends in -ite, as with nitrate, NO₃⁻, and nitrite, NO₂⁻. Chlorine has four: hypochlorite, chlorite, chlorate, and perchlorate, from fewest oxygens to most.",
+      "Compounds of two nonmetals use Greek prefixes instead of charges, because no ions are involved. CO is carbon monoxide and SF₆ is sulfur hexafluoride.",
+      "Acids are named from their anions. An -ide anion gives a hydro-…-ic acid, so chloride gives hydrochloric acid. An -ate anion gives an -ic acid, so nitrate gives nitric acid. An -ite anion gives an -ous acid, so nitrite gives nitrous acid."
+    ],
+    "q": [
+      { "q": "Why does FeCl₃ need a Roman numeral in its name?", "o": ["Iron forms more than one common ion", "Chlorine has several possible charges", "It is a molecular compound"], "k": 0 },
+      { "q": "Which chlorine oxyanion has the most oxygen atoms?", "o": ["chlorate", "perchlorate", "hypochlorite"], "k": 1 },
+      { "q": "An acid made from the sulfite ion ends in", "o": ["-ic acid", "hydro-…-ic acid", "-ous acid"], "k": 2 }
+    ]
+  }
+}

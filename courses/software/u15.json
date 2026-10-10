@@ -1,0 +1,302 @@
+{
+  "title": "Famous laws of software",
+  "note": "The eponymous laws are compressed experience, not physics. Conway's and Brooks's laws are about people, Hyrum's and Postel's about interfaces, Amdahl's about parallel speedup, and Hofstadter's and Goodhart's about estimates and metrics. Know the exact wording, and know when each one applies.",
+  "src": {
+    "t": "How do committees invent? (Conway, 1968), The Morning Paper",
+    "u": "https://blog.acolyer.org/2019/12/13/how-do-committees-invent/"
+  },
+  "items": [
+    {
+      "c": "Conway's law",
+      "a": "systems copy the communication structure of their makers",
+      "d": [
+        "work expands to fill the time available",
+        "adding people to a late project delays it"
+      ]
+    },
+    {
+      "c": "Year Conway published How Do Committees Invent?",
+      "a": "1968",
+      "d": [
+        "1975",
+        "1986",
+        "1999"
+      ]
+    },
+    {
+      "c": "Brooks's law",
+      "a": "adding people to a late software project makes it later",
+      "d": [
+        "systems mirror the teams that build them",
+        "every observable behavior gets depended on"
+      ]
+    },
+    {
+      "c": "Book where Brooks's law appears (1975)",
+      "a": "The Mythical Man-Month",
+      "d": [
+        "The Pragmatic Programmer",
+        "Code Complete",
+        "Design Patterns"
+      ]
+    },
+    {
+      "c": "Brooks's No Silver Bullet (1986) argues",
+      "a": "no single advance will bring a tenfold gain in a decade",
+      "d": [
+        "better compilers will end all bugs",
+        "object orientation solves complexity"
+      ]
+    },
+    {
+      "c": "Why new people slow a late project (Brooks)",
+      "a": "ramp-up time and more communication paths",
+      "d": [
+        "they always write buggier code",
+        "managers stop writing code"
+      ]
+    },
+    {
+      "c": "Hyrum's law",
+      "a": "with enough users, every observable behavior is depended on",
+      "d": [
+        "be liberal in what you accept from others",
+        "every program grows until it reads mail"
+      ]
+    },
+    {
+      "c": "Postel's law (robustness principle)",
+      "a": "be conservative in what you send, liberal in what you accept",
+      "d": [
+        "accept nothing that is not in the spec",
+        "send as much data as possible"
+      ]
+    },
+    {
+      "c": "Postel's law first appeared in",
+      "a": "an early TCP specification (1980)",
+      "d": [
+        "the HTTP/1.1 specification",
+        "the first C compiler manual"
+      ]
+    },
+    {
+      "c": "Amdahl's law",
+      "a": "speedup is capped by the part that can't run in parallel",
+      "d": [
+        "transistor counts double every two years",
+        "parallel speedup grows without limit"
+      ]
+    },
+    {
+      "c": "Amdahl: max speedup if 95% is parallelizable",
+      "a": "20×",
+      "d": [
+        "95×",
+        "100×",
+        "5×"
+      ]
+    },
+    {
+      "c": "Amdahl: max speedup if half is parallelizable",
+      "a": "2×",
+      "d": [
+        "50×",
+        "4×",
+        "Unlimited"
+      ]
+    },
+    {
+      "c": "Amdahl's speedup with fraction p on s processors",
+      "a": "1 / ((1 − p) + p/s)",
+      "d": [
+        "p · s",
+        "s / (1 − p)",
+        "(1 − p) + p · s"
+      ]
+    },
+    {
+      "c": "Gustafson's law",
+      "a": "with more processors, solve bigger problems in the same time",
+      "d": [
+        "serial code caps any speedup",
+        "more processors always halve run time"
+      ]
+    },
+    {
+      "c": "Hofstadter's law",
+      "a": "it always takes longer than you expect, even allowing for this law",
+      "d": [
+        "work expands to fill the time available",
+        "the last 10% takes the other 90% of the time"
+      ]
+    },
+    {
+      "c": "Book that introduced Hofstadter's law (1979)",
+      "a": "Gödel, Escher, Bach",
+      "d": [
+        "The Mythical Man-Month",
+        "The Art of Computer Programming",
+        "Hackers"
+      ]
+    },
+    {
+      "c": "Goodhart's law",
+      "a": "when a measure becomes a target, it stops being a good measure",
+      "d": [
+        "what gets measured always improves",
+        "you cannot manage what you cannot measure"
+      ]
+    },
+    {
+      "c": "Goodhart's law in practice",
+      "a": "paying per line of code produces bloated code",
+      "d": [
+        "adding staff to a late project slows it",
+        "unused features get removed over time"
+      ]
+    },
+    {
+      "c": "Moore's law (as revised in 1975)",
+      "a": "transistor counts double about every two years",
+      "d": [
+        "CPU clock speed doubles every year",
+        "software gets twice as slow every year"
+      ]
+    },
+    {
+      "c": "Linus's law",
+      "a": "given enough eyeballs, all bugs are shallow",
+      "d": [
+        "talk is cheap; show me the code",
+        "the kernel must never break user space"
+      ]
+    },
+    {
+      "c": "Who named Linus's law (Cathedral and the Bazaar)",
+      "a": "Eric S. Raymond",
+      "d": [
+        "Linus Torvalds",
+        "Richard Stallman",
+        "Fred Brooks"
+      ]
+    },
+    {
+      "c": "Kernighan's law",
+      "a": "debugging is twice as hard as writing the code",
+      "d": [
+        "testing shows bugs but never their absence",
+        "every abstraction leaks somewhere"
+      ]
+    },
+    {
+      "c": "Knuth: premature optimization is",
+      "a": "the root of all evil",
+      "d": [
+        "the key to every fast system",
+        "harmless if you have tests"
+      ]
+    },
+    {
+      "c": "Parkinson's law",
+      "a": "work expands to fill the time available",
+      "d": [
+        "it always takes longer than you expect",
+        "a late project gets later with more staff"
+      ]
+    },
+    {
+      "c": "Ninety-ninety rule (Tom Cargill)",
+      "a": "the last 10% of the code takes another 90% of the time",
+      "d": [
+        "90% of users touch 10% of features",
+        "90% of bugs live in 10% of tests"
+      ]
+    },
+    {
+      "c": "Gall's law",
+      "a": "complex systems that work evolved from simple ones that worked",
+      "d": [
+        "complex systems should be designed in full up front",
+        "simple systems always fail at scale"
+      ]
+    },
+    {
+      "c": "Law of leaky abstractions (Joel Spolsky)",
+      "a": "all non-trivial abstractions leak to some degree",
+      "d": [
+        "abstractions always make code slower",
+        "an abstraction must hide everything"
+      ]
+    },
+    {
+      "c": "Wirth's law",
+      "a": "software slows down faster than hardware speeds up",
+      "d": [
+        "hardware doubles in speed every year",
+        "compilers always beat hand-written assembly"
+      ]
+    },
+    {
+      "c": "Little's law (queueing)",
+      "a": "L = λW: items in system = arrival rate × time inside",
+      "d": [
+        "L = λ / W: items = rate ÷ time",
+        "L = W − λ: items = time − rate"
+      ]
+    },
+    {
+      "c": "Metcalfe's law",
+      "a": "a network's value grows with the square of its users",
+      "d": [
+        "a network's cost halves every year",
+        "a network's speed doubles yearly"
+      ]
+    },
+    {
+      "c": "Pareto principle (80/20 rule)",
+      "a": "about 80% of effects come from 20% of causes",
+      "d": [
+        "80% of projects fail in their first 20 days",
+        "20% of code takes 80% of tests to cover"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Laws about people, interfaces, and limits",
+    "text": [
+      "Some of the best-known laws in software are really about people. In 1968 Melvin Conway observed that organizations which design systems are constrained to produce designs that copy their own communication structures: three teams tend to build a three-part system. Fred Brooks, reflecting on IBM's OS/360 in The Mythical Man-Month, added that putting more people on a late project makes it later, because newcomers must be trained and every extra person multiplies the lines of communication.",
+      "Others are about interfaces. Jon Postel's robustness principle, from an early TCP specification, advises being conservative in what you send and liberal in what you accept. Hyrum's law is the warning that comes with it: once an API has enough users, someone will depend on every behavior they can observe, documented or not, so even a harmless change can break a client.",
+      "Amdahl's law sets a hard limit on parallelism. If 5 percent of a program must run serially, no number of processors can make it more than 20 times faster. Finally, Goodhart's law guards against bad metrics: count lines of code or closed tickets as a goal, and people will produce lines and tickets rather than value."
+    ],
+    "q": [
+      {
+        "q": "Why does adding people slow a late project, per Brooks?",
+        "o": [
+          "New staff cost more money",
+          "Training and extra communication paths eat time",
+          "New staff work on the wrong features"
+        ],
+        "k": 1
+      },
+      {
+        "q": "If 5% of a program is serial, what is the maximum speedup?",
+        "o": [
+          "5 times",
+          "95 times",
+          "20 times"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What does Hyrum's law warn about?",
+        "o": [
+          "Users come to rely on undocumented behavior",
+          "APIs should accept any input",
+          "Teams copy their org chart"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Concision: cutting wordiness",
+  "note": "Cut words that add nothing: redundant pairs (end result), redundant categories (red in color), filler (basically, kind of), slow openings (there are, it is important to note that) and nominalizations that bury the verb (make a decision for decide). Concise does not mean short; it means every word does work.",
+  "src": { "t": "Purdue OWL, Conciseness: Eliminating Words", "u": "https://owl.purdue.edu/owl/general_writing/academic_writing/conciseness/eliminating_words.html" },
+  "items": [
+    { "c": "Concise: 'end result'", "a": "result", "d": ["final end result", "ending result"] },
+    { "c": "Concise: 'past history'", "a": "history", "d": ["previous history", "former past history"] },
+    { "c": "Concise: 'free gift'", "a": "gift", "d": ["complimentary free gift", "no-cost free gift"] },
+    { "c": "Concise: 'unexpected surprise'", "a": "surprise", "d": ["sudden unexpected surprise", "unforeseen surprise"] },
+    { "c": "Concise: 'completely finish'", "a": "finish", "d": ["fully complete", "totally finish"] },
+    { "c": "Concise: 'large in size'", "a": "large", "d": ["large-sized in size", "big in size"] },
+    { "c": "Concise: 'round in shape'", "a": "round", "d": ["round-shaped", "circular in shape"] },
+    { "c": "Concise: 'due to the fact that'", "a": "because", "d": ["owing to the fact that", "in view of the fact that"] },
+    { "c": "Concise: 'at this point in time'", "a": "now", "d": ["at this moment in time", "at the present point"] },
+    { "c": "Concise: 'in order to win'", "a": "to win", "d": ["so as to win", "in an effort to win"] },
+    { "c": "Concise: 'in the event that it rains'", "a": "if it rains", "d": ["in the case that it rains", "on the occasion that it rains"] },
+    { "c": "Concise: 'has the ability to swim'", "a": "can swim", "d": ["is able to have a swim", "has the capacity to swim"] },
+    { "c": "Concise: 'make a decision'", "a": "decide", "d": ["reach a decision", "come to a decision"] },
+    { "c": "Concise: 'conduct an investigation of'", "a": "investigate", "d": ["carry out an investigation of", "perform an investigation into"] },
+    { "c": "Concise: 'give consideration to'", "a": "consider", "d": ["take into consideration", "give some thought to"] },
+    { "c": "Concise: 'in a hasty manner'", "a": "hastily", "d": ["in a hurried manner", "with haste and speed"] },
+    { "c": "Concise: 'the employee who has great ambition'", "a": "the ambitious employee", "d": ["the employee with ambition that is great", "the employee having great ambition"] },
+    { "c": "Concise: 'a report that was released recently'", "a": "a recently released report", "d": ["a report which had been released recently", "a report released in the recent past"] },
+    { "c": "Concise: 'There are many students who work.'", "a": "Many students work.", "d": ["There exist many students who work.", "Many are the students who work."] },
+    { "c": "Concise: 'It is important to note that we lost.'", "a": "We lost.", "d": ["It is to be noted that we lost.", "Note, importantly, that we lost."] },
+    { "c": "Filler words to cut", "a": "basically, actually, kind of, sort of", "d": ["because, although, unless, since", "however, therefore, moreover, thus"] },
+    { "c": "Nominalization", "a": "a noun made from a verb or adjective", "d": ["a verb made from a noun", "a noun used as an adjective"], "ex": "decide → decision; careless → carelessness" },
+    { "c": "Nominalization of 'decide'", "a": "decision", "d": ["decisive", "decided"] },
+    { "c": "Expletive construction", "a": "an opener like 'there is' or 'it is' that delays the real subject", "d": ["a sentence containing profanity", "a sentence in the passive voice"] },
+    { "c": "Concise writing means", "a": "every word does work, not that every sentence is short", "d": ["every sentence has fewer than ten words", "all detail is removed"] },
+    { "c": "Creator of the Paramedic Method", "a": "Richard Lanham", "d": ["Joseph Williams", "William Strunk Jr."] },
+    { "c": "Paramedic Method, step 1", "a": "circle the prepositions", "d": ["underline every adjective", "count the syllables"] },
+    { "c": "Paramedic Method: after 'Where's the action?'", "a": "turn the action into a simple verb", "d": ["turn the verb into a noun", "move the action to a footnote"] },
+    { "c": "Paramedic Method: 'Who's kicking whom?' means", "a": "move the doer into the subject", "d": ["add more examples", "split the sentence in two"] }
+  ],
+  "read": {
+    "title": "Make every word tell",
+    "text": [
+      "William Strunk Jr. put the case for concision in 1918: \"Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts.\" He added that this does not require every sentence to be short, \"but that he make every word tell.\"",
+      "Wordiness hides in predictable places. Redundant pairs say one thing twice: each and every, first and foremost, end result. Redundant categories name a class the reader already knows: red in color, a period of time. Slow openings make the reader wait: \"It is important to note that\" or \"There are many people who.\"",
+      "The most damaging habit is burying actions in nouns. \"The committee made a decision to conduct a review of the policy\" contains two hidden verbs, decide and review. Released, the sentence becomes \"The committee decided to review the policy,\" half as long and easier to follow. When you revise, hunt for nouns ending in -tion, -ment and -ance, and ask whether a verb is trapped inside."
+    ],
+    "q": [
+      { "q": "According to Strunk, concision requires that...", "o": ["every sentence be short", "every word tell", "all detail be removed"], "k": 1 },
+      { "q": "Which is a redundant category?", "o": ["red in color", "the committee decided", "a long report"], "k": 0 },
+      { "q": "What two hidden verbs does the reading find in the committee sentence?", "o": ["make and conduct", "commit and police", "decide and review"], "k": 2 }
+    ]
+  }
+}

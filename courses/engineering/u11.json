@@ -1,0 +1,318 @@
+{
+  "title": "Civil and structural engineering",
+  "note": "Structures carry loads safely to the ground. Dead loads are permanent, live loads change, and environmental loads include wind, snow, and earthquakes. Beams resist by bending, arches mainly by compression, and cables by tension; foundations spread the final load into soil or rock.",
+  "src": {
+    "t": "Engineering Statics: Open and Interactive, 6 Equilibrium of Structures, Engineering LibreTexts",
+    "u": "https://eng.libretexts.org/Bookshelves/Mechanical_Engineering/Engineering_Statics%3A_Open_and_Interactive_(Baker_and_Haynes)/06%3A_Equilibrium_of_Structures"
+  },
+  "items": [
+    {
+      "c": "Dead load",
+      "a": "permanent load such as a structure's own weight",
+      "d": [
+        "moving load such as people and vehicles",
+        "load from wind gusts"
+      ]
+    },
+    {
+      "c": "Live load",
+      "a": "changing load such as people, furniture, and vehicles",
+      "d": [
+        "the structure's own permanent weight",
+        "the weight of the foundation"
+      ]
+    },
+    {
+      "c": "Examples of environmental loads",
+      "a": "wind, snow, and earthquakes",
+      "d": [
+        "self-weight and fixed equipment",
+        "people and furniture"
+      ]
+    },
+    {
+      "c": "Load path",
+      "a": "the route loads take through a structure to the ground",
+      "d": [
+        "the road a truck uses on a bridge",
+        "the order in which a building is built"
+      ]
+    },
+    {
+      "c": "Simply supported beam",
+      "a": "a beam on a pin at one end and a roller at the other",
+      "d": [
+        "a beam fixed at one end and free at the other",
+        "a beam fixed rigidly at both ends"
+      ]
+    },
+    {
+      "c": "Cantilever beam",
+      "a": "a beam fixed at one end and free at the other",
+      "d": [
+        "a beam on a pin and a roller",
+        "a beam resting on many supports"
+      ]
+    },
+    {
+      "c": "Peak moment, simple beam, center load P, span L",
+      "a": "PL/4",
+      "d": [
+        "PL/2",
+        "PL/8",
+        "PL"
+      ]
+    },
+    {
+      "c": "Peak moment, simple beam, uniform load w, span L",
+      "a": "wL²/8",
+      "d": [
+        "wL²/2",
+        "wL/4",
+        "wL²/4"
+      ]
+    },
+    {
+      "c": "Max moment, cantilever with end load P, length L",
+      "a": "PL, at the fixed end",
+      "d": [
+        "PL/2, at the free end",
+        "PL/4, at midspan"
+      ]
+    },
+    {
+      "c": "Top of a simple beam under downward load is in",
+      "a": "compression",
+      "d": [
+        "tension",
+        "no stress at all"
+      ]
+    },
+    {
+      "c": "Neutral axis of a bent beam",
+      "a": "the line where bending stress is zero",
+      "d": [
+        "the line of greatest bending stress",
+        "the top surface of the beam"
+      ]
+    },
+    {
+      "c": "Bending stress in a beam",
+      "a": "σ = My/I",
+      "d": [
+        "σ = MI/y",
+        "σ = F/A",
+        "σ = M/(yI)"
+      ]
+    },
+    {
+      "c": "Why I-beams have wide flanges",
+      "a": "material far from the neutral axis resists bending best",
+      "d": [
+        "flanges make the beam easier to weld",
+        "flanges reduce the beam's stiffness"
+      ]
+    },
+    {
+      "c": "Area moment of inertia I of a b × h rectangle",
+      "a": "bh³/12",
+      "d": [
+        "b³h/12",
+        "bh²/6",
+        "bh/12"
+      ]
+    },
+    {
+      "c": "Doubling a beam's depth multiplies stiffness by",
+      "a": "8",
+      "d": [
+        "2",
+        "4",
+        "16"
+      ]
+    },
+    {
+      "c": "Deflection",
+      "a": "how far a member moves under load",
+      "d": [
+        "the angle of a roof",
+        "the load at which a beam breaks"
+      ]
+    },
+    {
+      "c": "An arch carries load mainly by",
+      "a": "compression along its curve",
+      "d": [
+        "tension along its curve",
+        "bending at its crown"
+      ]
+    },
+    {
+      "c": "Arch thrust",
+      "a": "outward horizontal push at the supports",
+      "d": [
+        "upward lift at the crown",
+        "twisting of the arch about its axis"
+      ]
+    },
+    {
+      "c": "Keystone",
+      "a": "the central top stone that locks an arch",
+      "d": [
+        "the base stone of a column",
+        "the stone under a foundation"
+      ]
+    },
+    {
+      "c": "A Gothic flying buttress resists",
+      "a": "outward thrust from vaults and walls",
+      "d": [
+        "upward wind uplift on the roof",
+        "water pressure on the foundation"
+      ]
+    },
+    {
+      "c": "Main cables of a suspension bridge carry",
+      "a": "tension",
+      "d": [
+        "compression",
+        "torsion"
+      ]
+    },
+    {
+      "c": "Towers of a suspension bridge mainly carry",
+      "a": "compressive force",
+      "d": [
+        "tensile force",
+        "torsional force"
+      ]
+    },
+    {
+      "c": "Bridge type for the longest spans",
+      "a": "suspension bridge",
+      "d": [
+        "beam bridge",
+        "arch bridge",
+        "truss bridge"
+      ]
+    },
+    {
+      "c": "Cable-stayed bridge",
+      "a": "deck held by cables running straight to the towers",
+      "d": [
+        "deck hung from suspenders on draped main cables",
+        "deck resting on a curved arch below"
+      ]
+    },
+    {
+      "c": "Beam bridge",
+      "a": "a deck on piers that carries load by bending",
+      "d": [
+        "a deck hung from cables",
+        "a deck carried by a curved rib in compression"
+      ]
+    },
+    {
+      "c": "Shallow foundation",
+      "a": "a spread footing or mat slab near the surface",
+      "d": [
+        "driven piles reaching bedrock",
+        "drilled shafts tens of meters deep"
+      ]
+    },
+    {
+      "c": "Deep foundation",
+      "a": "piles or drilled shafts reaching stronger soil or rock",
+      "d": [
+        "a spread footing just below grade",
+        "a slab poured on the surface"
+      ]
+    },
+    {
+      "c": "Why engineers choose a deep foundation",
+      "a": "the soil near the surface is too weak or compressible",
+      "d": [
+        "the building is very light",
+        "the site is on solid rock at the surface"
+      ]
+    },
+    {
+      "c": "Differential settlement",
+      "a": "uneven sinking that can crack or tilt a structure",
+      "d": [
+        "uniform sinking of the whole building",
+        "lifting of a roof by wind"
+      ]
+    },
+    {
+      "c": "Prestressed concrete",
+      "a": "concrete precompressed by tensioned steel tendons",
+      "d": [
+        "concrete cured under high pressure",
+        "concrete mixed with glass fibers only"
+      ]
+    },
+    {
+      "c": "Bridge expansion joint",
+      "a": "a gap that lets the deck expand and contract with heat",
+      "d": [
+        "a weld joining two girders",
+        "a hinge that lets the bridge open for ships"
+      ]
+    },
+    {
+      "c": "Shear wall",
+      "a": "a stiff wall that resists lateral wind and earthquake loads",
+      "d": [
+        "a wall carrying only its own weight",
+        "a wall that divides rooms only"
+      ]
+    },
+    {
+      "c": "Seismic base isolation",
+      "a": "flexible bearings that decouple a building from ground shaking",
+      "d": [
+        "a deep basement filled with concrete",
+        "steel bars set in the foundation"
+      ]
+    }
+  ],
+  "read": {
+    "title": "How structures carry loads",
+    "text": [
+      "Every structure has one job: carry its loads safely to the ground. Engineers sort those loads into dead loads, such as the weight of beams and slabs, live loads, such as people and traffic, and environmental loads from wind, snow, and earthquakes. They then trace a load path from roof to foundation and make sure every link can carry its share.",
+      "A beam carries load by bending. Under a downward load the top of a simply supported beam is squeezed and the bottom is stretched, with zero stress at the neutral axis between them. Material far from that axis works hardest, which is why I-beams put most of their steel in the flanges. Stiffness grows with the cube of depth, so a beam twice as deep is eight times as stiff.",
+      "Other forms avoid bending. An arch turns load into compression and pushes outward at its supports. A suspension bridge hangs its deck from cables in pure tension, draped over towers in compression, which is why it can span the farthest.",
+      "At the bottom, foundations spread the load. Strong soil allows shallow spread footings; weak soil calls for deep piles."
+    ],
+    "q": [
+      {
+        "q": "Where is bending stress zero in a beam?",
+        "o": [
+          "At the neutral axis",
+          "At the top surface",
+          "At the bottom surface"
+        ],
+        "k": 0
+      },
+      {
+        "q": "If a rectangular beam's depth doubles, its stiffness becomes",
+        "o": [
+          "twice as large",
+          "four times as large",
+          "eight times as large"
+        ],
+        "k": 2
+      },
+      {
+        "q": "What kind of force do a suspension bridge's main cables carry?",
+        "o": [
+          "Compression",
+          "Tension",
+          "Bending"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

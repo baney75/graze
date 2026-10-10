@@ -1,0 +1,302 @@
+{
+  "title": "Colors, describing things, い and な adjectives",
+  "note": "い-adjectives end in い and go straight before a noun (高い本). Polite negative: drop い, add くないです (高くないです). な-adjectives take な before a noun (静かな人) and form the negative like nouns (静かじゃありません). いい is irregular: よくないです. きれい and きらい are な-adjectives despite the final い.",
+  "src": {
+    "t": "Tae Kim's Guide: Adjectives",
+    "u": "https://guidetojapanese.org/learn/grammar/adjectives"
+  },
+  "items": [
+    {
+      "c": "色",
+      "r": "iro",
+      "a": "color",
+      "d": [
+        "shape",
+        "size"
+      ],
+      "ex": "(いろ) 何色ですか。",
+      "exT": "What color is it?"
+    },
+    {
+      "c": "赤い",
+      "r": "akai",
+      "a": "red",
+      "d": [
+        "blue",
+        "yellow"
+      ]
+    },
+    {
+      "c": "青い",
+      "r": "aoi",
+      "a": "blue",
+      "d": [
+        "red",
+        "black"
+      ],
+      "ex": "(あおい) 青い空",
+      "exT": "a blue sky"
+    },
+    {
+      "c": "白い",
+      "r": "shiroi",
+      "a": "white",
+      "d": [
+        "black",
+        "red"
+      ]
+    },
+    {
+      "c": "黒い",
+      "r": "kuroi",
+      "a": "black",
+      "d": [
+        "white",
+        "blue"
+      ]
+    },
+    {
+      "c": "黄色い",
+      "r": "kiiroi",
+      "a": "yellow",
+      "d": [
+        "green",
+        "white"
+      ]
+    },
+    {
+      "c": "大きい",
+      "r": "ōkii",
+      "a": "big",
+      "d": [
+        "small",
+        "long"
+      ],
+      "ex": "(おおきい) 大きい犬ですね。",
+      "exT": "That's a big dog."
+    },
+    {
+      "c": "小さい",
+      "r": "chiisai",
+      "a": "small",
+      "d": [
+        "big",
+        "short (in length)"
+      ]
+    },
+    {
+      "c": "新しい",
+      "r": "atarashii",
+      "a": "new",
+      "d": [
+        "old (of things)",
+        "young"
+      ]
+    },
+    {
+      "c": "古い",
+      "r": "furui",
+      "a": "old (of things)",
+      "d": [
+        "new",
+        "elderly (of people)"
+      ]
+    },
+    {
+      "c": "高い",
+      "r": "takai",
+      "a": "expensive; high, tall",
+      "d": [
+        "cheap",
+        "low"
+      ]
+    },
+    {
+      "c": "安い",
+      "r": "yasui",
+      "a": "cheap, inexpensive",
+      "d": [
+        "expensive",
+        "easy"
+      ]
+    },
+    {
+      "c": "いい",
+      "r": "ii",
+      "a": "good",
+      "d": [
+        "bad",
+        "pretty"
+      ]
+    },
+    {
+      "c": "悪い",
+      "r": "warui",
+      "a": "bad",
+      "d": [
+        "good",
+        "weak"
+      ]
+    },
+    {
+      "c": "長い",
+      "r": "nagai",
+      "a": "long",
+      "d": [
+        "short (in length)",
+        "wide"
+      ]
+    },
+    {
+      "c": "短い",
+      "r": "mijikai",
+      "a": "short (in length)",
+      "d": [
+        "long (in length)",
+        "small (in size)"
+      ]
+    },
+    {
+      "c": "難しい",
+      "r": "muzukashii",
+      "a": "difficult",
+      "d": [
+        "easy",
+        "interesting"
+      ]
+    },
+    {
+      "c": "やさしい",
+      "r": "yasashii",
+      "a": "easy; kind, gentle",
+      "d": [
+        "difficult; strict",
+        "cheap; plain"
+      ]
+    },
+    {
+      "c": "楽しい",
+      "r": "tanoshii",
+      "a": "fun, enjoyable",
+      "d": [
+        "boring",
+        "sad"
+      ],
+      "ex": "(たのしい) 日本語のクラスは楽しいです。",
+      "exT": "Japanese class is fun."
+    },
+    {
+      "c": "面白い",
+      "r": "omoshiroi",
+      "a": "interesting; funny",
+      "d": [
+        "boring",
+        "difficult"
+      ]
+    },
+    {
+      "c": "きれい(な)",
+      "r": "kirei (na)",
+      "say": "きれい",
+      "a": "pretty; clean",
+      "d": [
+        "dirty",
+        "famous"
+      ],
+      "ex": "きれいな部屋ですね。",
+      "exT": "What a clean room."
+    },
+    {
+      "c": "静か(な)",
+      "r": "shizuka (na)",
+      "say": "静か",
+      "a": "quiet",
+      "d": [
+        "lively",
+        "noisy"
+      ]
+    },
+    {
+      "c": "有名(な)",
+      "r": "yūmei (na)",
+      "say": "有名",
+      "a": "famous",
+      "d": [
+        "kind",
+        "quiet"
+      ]
+    },
+    {
+      "c": "元気(な)",
+      "r": "genki (na)",
+      "say": "元気",
+      "a": "healthy, energetic",
+      "d": [
+        "tired",
+        "busy"
+      ]
+    },
+    {
+      "c": "とても",
+      "r": "totemo",
+      "a": "very",
+      "d": [
+        "a little",
+        "not at all"
+      ],
+      "ex": "とても おいしいです。",
+      "exT": "It's very tasty."
+    },
+    {
+      "c": "日本語は難しいです。",
+      "r": "Nihongo wa muzukashii desu.",
+      "a": "Japanese is difficult.",
+      "d": [
+        "Japanese is easy.",
+        "Japanese is interesting."
+      ]
+    },
+    {
+      "c": "このりんごは高く___です。(not expensive)",
+      "r": "Kono ringo wa takaku ___ desu.",
+      "a": "ない",
+      "d": [
+        "い",
+        "な"
+      ],
+      "ex": "このりんごは高くないです。",
+      "exT": "This apple isn't expensive."
+    },
+    {
+      "c": "有名___先生",
+      "r": "yūmei ___ sensei",
+      "a": "な",
+      "d": [
+        "い",
+        "の"
+      ],
+      "ex": "有名な先生",
+      "exT": "a famous teacher"
+    },
+    {
+      "c": "この町は静か___。(is not)",
+      "r": "Kono machi wa shizuka ___.",
+      "a": "じゃありません",
+      "d": [
+        "くないです",
+        "くありません"
+      ]
+    },
+    {
+      "c": "このパンは___ないです。(not good)",
+      "r": "Kono pan wa ___ nai desu.",
+      "a": "よく",
+      "d": [
+        "いく",
+        "いい"
+      ],
+      "ex": "このパンはよくないです。",
+      "exT": "This bread isn't good."
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "title": "Numbers and age",
+  "note": "Numbers build by multiplication and addition: 十二 is 10+2, 二十 is 2×10. Four and seven are usually yon and nana; nine is kyū. Watch sound changes: 三百 sanbyaku, 六百 roppyaku, 八百 happyaku, 三千 sanzen, 八千 hassen. Large numbers group by 万 (10,000). Age uses 〜歳 (sai), and 二十歳 is hatachi.",
+  "src": {
+    "t": "Jisho.org (JMdict): number words and readings",
+    "u": "https://jisho.org/"
+  },
+  "items": [
+    {
+      "c": "一",
+      "r": "ichi",
+      "a": "one",
+      "d": [
+        "two",
+        "ten"
+      ]
+    },
+    {
+      "c": "二",
+      "r": "ni",
+      "a": "two",
+      "d": [
+        "three",
+        "one"
+      ]
+    },
+    {
+      "c": "三",
+      "r": "san",
+      "a": "three",
+      "d": [
+        "two",
+        "four"
+      ]
+    },
+    {
+      "c": "四",
+      "r": "yon (also shi)",
+      "a": "four",
+      "d": [
+        "six",
+        "three"
+      ]
+    },
+    {
+      "c": "五",
+      "r": "go",
+      "a": "five",
+      "d": [
+        "four",
+        "nine"
+      ]
+    },
+    {
+      "c": "六",
+      "r": "roku",
+      "a": "six",
+      "d": [
+        "eight",
+        "five"
+      ]
+    },
+    {
+      "c": "七",
+      "r": "nana (also shichi)",
+      "a": "seven",
+      "d": [
+        "one",
+        "eight"
+      ]
+    },
+    {
+      "c": "八",
+      "r": "hachi",
+      "a": "eight",
+      "d": [
+        "six",
+        "seven"
+      ]
+    },
+    {
+      "c": "九",
+      "r": "kyū (also ku)",
+      "a": "nine",
+      "d": [
+        "five",
+        "ten"
+      ]
+    },
+    {
+      "c": "十",
+      "r": "jū",
+      "a": "ten",
+      "d": [
+        "one thousand",
+        "nine"
+      ]
+    },
+    {
+      "c": "百",
+      "r": "hyaku",
+      "a": "one hundred",
+      "d": [
+        "one thousand",
+        "ten thousand"
+      ]
+    },
+    {
+      "c": "千",
+      "r": "sen",
+      "a": "one thousand",
+      "d": [
+        "one hundred",
+        "ten thousand"
+      ]
+    },
+    {
+      "c": "万",
+      "r": "man",
+      "a": "ten thousand",
+      "d": [
+        "one thousand",
+        "one million"
+      ],
+      "ex": "(まん) 一万円",
+      "exT": "10,000 yen"
+    },
+    {
+      "c": "十二",
+      "r": "jūni",
+      "a": "twelve",
+      "d": [
+        "twenty",
+        "eleven"
+      ]
+    },
+    {
+      "c": "二十",
+      "r": "nijū",
+      "a": "twenty",
+      "d": [
+        "twelve",
+        "two hundred"
+      ]
+    },
+    {
+      "c": "三百 (read as)",
+      "say": "三百",
+      "a": "sanbyaku",
+      "d": [
+        "sanhyaku",
+        "sanpyaku"
+      ]
+    },
+    {
+      "c": "六百 (read as)",
+      "say": "六百",
+      "a": "roppyaku",
+      "d": [
+        "rokuhyaku",
+        "rokubyaku"
+      ]
+    },
+    {
+      "c": "八千 (read as)",
+      "say": "八千",
+      "a": "hassen",
+      "d": [
+        "hachisen",
+        "hachizen"
+      ]
+    },
+    {
+      "c": "三千 (read as)",
+      "say": "三千",
+      "a": "sanzen",
+      "d": [
+        "sansen",
+        "sanzan"
+      ]
+    },
+    {
+      "c": "〜歳",
+      "r": "-sai",
+      "a": "years old (counter for age)",
+      "d": [
+        "counter for people",
+        "counter for small things"
+      ],
+      "ex": "(さい) 弟は八歳です。",
+      "exT": "My younger brother is eight."
+    },
+    {
+      "c": "二十歳",
+      "r": "hatachi",
+      "a": "twenty years old",
+      "d": [
+        "twelve years old",
+        "two years old"
+      ]
+    },
+    {
+      "c": "何歳ですか。",
+      "r": "Nansai desu ka.",
+      "a": "How old are you?",
+      "d": [
+        "How many people?",
+        "What time is it?"
+      ]
+    },
+    {
+      "c": "私は十九歳です。",
+      "r": "Watashi wa jūkyū-sai desu.",
+      "a": "I'm nineteen years old.",
+      "d": [
+        "I'm ninety years old.",
+        "I'm nine years old."
+      ]
+    },
+    {
+      "c": "一つ",
+      "r": "hitotsu",
+      "a": "one (thing)",
+      "d": [
+        "two (things)",
+        "one (person)"
+      ],
+      "ex": "(ひとつ) りんごを一つください。",
+      "exT": "One apple, please."
+    },
+    {
+      "c": "二つ",
+      "r": "futatsu",
+      "a": "two (things)",
+      "d": [
+        "three (things)",
+        "two (people)"
+      ]
+    },
+    {
+      "c": "三つ",
+      "r": "mittsu",
+      "a": "three (things)",
+      "d": [
+        "two (things)",
+        "six (things)"
+      ]
+    },
+    {
+      "c": "いくつ",
+      "r": "ikutsu",
+      "a": "how many (things); how old",
+      "d": [
+        "how much (money)",
+        "what time"
+      ]
+    },
+    {
+      "c": "一人",
+      "r": "hitori",
+      "a": "one person; alone",
+      "d": [
+        "two people",
+        "everyone"
+      ]
+    },
+    {
+      "c": "二人",
+      "r": "futari",
+      "a": "two people",
+      "d": [
+        "one person",
+        "twenty people"
+      ]
+    },
+    {
+      "c": "電話番号",
+      "r": "denwa bangō",
+      "a": "telephone number",
+      "d": [
+        "address",
+        "room number"
+      ]
+    },
+    {
+      "c": "りんごを三___ください。",
+      "a": "つ",
+      "d": [
+        "人",
+        "歳"
+      ],
+      "ex": "りんごを三つください。",
+      "exT": "Three apples, please."
+    },
+    {
+      "c": "リーさんは___歳ですか。",
+      "r": "Rī-san wa ___sai desu ka.",
+      "a": "何",
+      "d": [
+        "だれ",
+        "どこ"
+      ],
+      "ex": "リーさんは何歳ですか。",
+      "exT": "How old is Lee?"
+    }
+  ],
+  "read": {
+    "title": "はじめまして",
+    "text": [
+      "はじめまして。 わたしの 名前は マリアです。 アメリカ人です。 日本人じゃありません。 二十歳です。 大学生です。 日本語の 学生です。",
+      "わたしの 友だちは リーさんです。 リーさんは 中国人です。 リーさんは 二十歳じゃありません。 十九歳です。 リーさんも 日本語の 学生です。",
+      "日本語の 先生は 山田先生です。 山田先生も アメリカ人じゃありません。 日本人です。 四十五歳です。",
+      "クラスの 学生は 九人です。 アメリカ人は 五人です。 中国人は 四人です。 みんな 友だちです。",
+      "どうぞ よろしく お願いします。"
+    ],
+    "q": [
+      {
+        "q": "How old is Lee?",
+        "o": [
+          "Nineteen",
+          "Twenty",
+          "Forty-five"
+        ],
+        "k": 0
+      },
+      {
+        "q": "How many students are in the class?",
+        "o": [
+          "Five",
+          "Nine",
+          "Four"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What nationality is Professor Yamada?",
+        "o": [
+          "Chinese",
+          "American",
+          "Japanese"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

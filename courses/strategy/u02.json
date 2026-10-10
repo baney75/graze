@@ -1,0 +1,51 @@
+{
+  "title": "Clausewitz: On War",
+  "note": "Clausewitz, a Prussian officer of the Napoleonic Wars, treated war as a political instrument shaped by passion, chance and reason. His key ideas: friction makes simple things hard, uncertainty clouds every judgment, blows should fall on the enemy's center of gravity, and every attack has a culminating point. Quotations follow J. J. Graham's translation.",
+  "src": {"t": "Clausewitz, On War, tr. J. J. Graham, Project Gutenberg", "u": "https://www.gutenberg.org/ebooks/1946"},
+  "items": [
+    {"c": "Carl von Clausewitz was an officer of", "a": "Prussia", "d": ["Austria", "France", "Britain"]},
+    {"c": "Clausewitz's birth and death years", "a": "1780 to 1831", "d": ["1712 to 1786", "1815 to 1898"]},
+    {"c": "When was On War published?", "a": "After his death, edited by his widow (1832 on)", "d": ["In 1806, just after the Battle of Jena", "In 1871, after German unification"]},
+    {"c": "Clausewitz's patron at the Berlin war school", "a": "Gerhard von Scharnhorst", "d": ["Helmuth von Moltke", "Antoine-Henri Jomini"]},
+    {"c": "Clausewitz's opening image of war", "a": "A duel on an extensive scale", "d": ["A storm that no one controls", "A siege of the enemy's capital"]},
+    {"c": "Clausewitz's definition of war", "a": "An act of violence to compel our opponent to fulfil our will", "d": ["A contest of wits decided by deception", "The natural state between sovereign states"]},
+    {"c": "\"War is a mere continuation of ___\" (Clausewitz)", "a": "policy", "d": ["history", "economics"]},
+    {"c": "In Clausewitz, war is the means; the object is", "a": "The political purpose", "d": ["The destruction of the enemy army", "Glory for the commander"]},
+    {"c": "Why Clausewitz calls war chameleon-like", "a": "It changes its character in each particular case", "d": ["It hides its purpose from the enemy", "It always ends in a negotiated peace"]},
+    {"c": "Clausewitz's \"wonderful trinity\"", "a": "Passion and hatred, chance and probability, political reason", "d": ["Mass, maneuver and surprise", "Land, sea and air power"]},
+    {"c": "In the trinity, the people chiefly carry", "a": "The passions: violence, hatred and animosity", "d": ["The play of chance and probability", "The political purpose of the war"]},
+    {"c": "In the trinity, the army chiefly faces", "a": "The play of chance and probability", "d": ["Blind hatred and animosity", "The political purpose of the war"]},
+    {"c": "In the trinity, the government chiefly supplies", "a": "War's purpose as a political instrument", "d": ["Courage and talent amid chance", "Blind hatred and animosity"]},
+    {"c": "\"Everything is very simple in War, but...\"", "a": "the simplest thing is difficult", "d": ["the hardest thing is victory", "nothing ever happens by chance"]},
+    {"c": "Friction, in Clausewitz", "a": "The many small difficulties that make real war unlike war on paper", "d": ["Disagreement between allies over war aims", "The slow wearing down of the enemy's army"]},
+    {"c": "Clausewitz's example of chance friction", "a": "The weather, such as fog or rain", "d": ["The enemy's choice of uniforms", "The price of grain at home"]},
+    {"c": "\"A powerful ___ overcomes this friction\"", "a": "iron will", "d": ["written plan", "artillery park"]},
+    {"c": "Clausewitz's only \"oil\" against friction", "a": "Habituation of an army to war", "d": ["Detailed orders from the capital", "Larger numbers of cavalry"]},
+    {"c": "Clausewitz: activity in war is movement in", "a": "A resistant medium, like walking in water", "d": ["A vacuum, free of all resistance", "A fixed track, like a train on rails"]},
+    {"c": "Clausewitz likens the pure theorist to", "a": "A swimming master teaching on dry land", "d": ["A pilot steering by the stars", "An architect who never builds"]},
+    {"c": "\"Fog of war\" refers to", "a": "Uncertainty about the true situation in war", "d": ["Smoke from black powder on the field", "Propaganda aimed at the home front"], "ex": "Clausewitz wrote that much of war lies \"in the clouds of great uncertainty.\""},
+    {"c": "Clausewitz: share of factors in uncertainty", "a": "Three-fourths", "d": ["One-half", "One-tenth"]},
+    {"c": "Clausewitz's two qualities for the unexpected", "a": "Coup d'oeil and resolution", "d": ["Caution and patience", "Charm and eloquence"], "ex": "Coup d'oeil: an inner light that finds the truth quickly; resolution: the courage to follow it."},
+    {"c": "Center of gravity, in Clausewitz", "a": "The hub of power and movement on which everything depends", "d": ["The geographic middle of a theater of war", "The point where two armies first meet"]},
+    {"c": "Alexander's center of gravity, per Clausewitz", "a": "His army", "d": ["His capital", "Public opinion"]},
+    {"c": "Center of gravity of a confederacy (Clausewitz)", "a": "The unity of interests", "d": ["Its largest city", "Its chief general"]},
+    {"c": "Clausewitz: center of gravity in an uprising", "a": "Its chief leader and public opinion", "d": ["Its fortresses", "The army of an ally"]},
+    {"c": "Surest start against any center of gravity", "a": "Conquest and destruction of the enemy's army", "d": ["Capture of the enemy's richest province", "Blockade of the enemy's ports"]},
+    {"c": "Culminating point of the attack", "a": "Where an attack's superiority runs out and reaction begins", "d": ["The moment an attack first breaks through", "The highest ground on the battlefield"]},
+    {"c": "Clausewitz: the stronger form of war", "a": "The defensive", "d": ["The offensive", "The pursuit"], "ex": "The defensive has the negative object of preservation; the attack the positive object of conquest."}
+  ],
+  "read": {
+    "title": "Friction and uncertainty",
+    "text": [
+      "From Book I, Chapter VII, “Friction in War”:",
+      "Everything is very simple in War, but the simplest thing is difficult. These difficulties accumulate and produce a friction which no man can imagine exactly who has not seen War, Suppose now a traveller, who towards evening expects to accomplish the two stages at the end of his day’s journey, four or five leagues, with post-horses, on the high road—it is nothing. He arrives now at the last station but one, finds no horses, or very bad ones; then a hilly country, bad roads; it is a dark night, and he is glad when, after a great deal of trouble, he reaches the next station, and finds there some miserable accommodation. So in War, through the influence of an infinity of petty circumstances, which cannot properly be described on paper, things disappoint us, and we fall short of the mark. A powerful iron will overcomes this friction; it crushes the obstacles, but certainly the machine along with them. We shall often meet with this result. Like an obelisk towards which the principal streets of a town converge, the strong will of a proud spirit stands prominent and commanding in the middle of the Art of War.",
+      "From Book I, Chapter III, “The Genius for War”:",
+      "War is the province of uncertainty: three-fourths of those things upon which action in War must be calculated, are hidden more or less in the clouds of great uncertainty."
+    ],
+    "q": [
+      {"q": "What does the story of the traveler illustrate?", "o": ["That small mishaps pile up until a plain task falls short", "That roads matter more than armies", "That night marches should be avoided"], "k": 0},
+      {"q": "What does the passage say overcomes friction?", "o": ["A detailed plan", "A powerful iron will", "Larger numbers"], "k": 1},
+      {"q": "How much of what war must be calculated on is hidden in uncertainty?", "o": ["About one-half", "Almost none", "Three-fourths"], "k": 2}
+    ]
+  }
+}

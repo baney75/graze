@@ -1,0 +1,56 @@
+{
+  "title": "Body organization, directions and planes",
+  "note": "Every directional term assumes anatomical position: standing upright, facing forward, arms at the sides, palms forward. The terms come in opposite pairs, and right and left always mean the patient's right and left, not the examiner's.",
+  "src": { "t": "Medical Terminology 2e (Open RN), 2.6 Anatomical View of the Body, Positions, Locations, and Directional Terms", "u": "https://med.libretexts.org/Bookshelves/Medicine/Medical_Terminology_2e_(OpenRN)/02%3A_Medical_Language_Related_to_the_Whole_Body/2.06%3A_Anatomical_View_of_the_Body_Positions_Locations_and_Directional_Terms" },
+  "items": [
+    { "c": "anatomical position", "a": "upright, facing forward, palms forward", "d": ["lying on the back, palms down", "upright, palms facing backward"], "ex": "Directions are described from this stance however the patient is lying." },
+    { "c": "anterior (ventral)", "a": "toward the front of the body", "d": ["toward the back of the body", "toward the side of the body"], "ex": "The sternum is anterior to the heart." },
+    { "c": "posterior (dorsal)", "a": "toward the back of the body", "d": ["toward the front of the body", "toward the head"], "ex": "The spine is posterior to the esophagus." },
+    { "c": "superior (cranial)", "a": "above, toward the head", "d": ["below, toward the feet", "toward the midline"], "ex": "The head is superior to the neck." },
+    { "c": "inferior (caudal)", "a": "below, toward the feet", "d": ["above, toward the head", "away from the midline"], "ex": "The knee is inferior to the hip." },
+    { "c": "medial", "a": "toward the midline", "d": ["away from the midline", "toward the body surface"], "ex": "The big toe is medial to the little toe." },
+    { "c": "lateral", "a": "away from the midline, toward the side", "d": ["toward the midline", "nearer the trunk"], "ex": "The ears are lateral to the eyes." },
+    { "c": "proximal", "a": "nearer the trunk or point of attachment", "d": ["farther from the trunk or point of attachment", "closer to the body surface"], "ex": "The elbow is proximal to the wrist." },
+    { "c": "distal", "a": "farther from the trunk or point of attachment", "d": ["nearer the trunk or point of attachment", "farther from the body surface"], "ex": "The fingers are distal to the wrist." },
+    { "c": "superficial", "a": "closer to the body surface", "d": ["farther from the body surface", "nearer the midline"], "ex": "The skin is superficial to the muscles." },
+    { "c": "deep (directional term)", "a": "farther from the body surface", "d": ["closer to the body surface", "farther from the midline"], "ex": "Bone is deep to muscle." },
+    { "c": "ipsilateral", "a": "on the same side", "d": ["on the opposite side", "on both sides"] },
+    { "c": "contralateral", "a": "on the opposite side", "d": ["on the same side", "on one side only"], "ex": "Each side of the brain controls movement on the contralateral side." },
+    { "c": "supine", "a": "lying face up, on the back", "d": ["lying face down, on the abdomen", "lying on one side"] },
+    { "c": "prone", "a": "lying face down, on the abdomen", "d": ["lying face up, on the back", "sitting upright"] },
+    { "c": "palmar", "a": "palm side of the hand", "d": ["back of the hand", "sole of the foot"] },
+    { "c": "plantar", "a": "sole side of the foot", "d": ["top of the foot", "palm side of the hand"] },
+    { "c": "sagittal plane", "a": "divides the body into right and left parts", "d": ["divides the body into front and back parts", "divides the body into upper and lower parts"] },
+    { "c": "midsagittal (median) plane", "a": "divides the body into equal right and left halves", "d": ["divides the body into unequal right and left parts", "divides the body into equal front and back halves"] },
+    { "c": "frontal (coronal) plane", "a": "divides the body into front and back parts", "d": ["divides the body into right and left parts", "divides the body into upper and lower parts"] },
+    { "c": "transverse (axial) plane", "a": "divides the body into upper and lower parts", "d": ["divides the body into front and back parts", "divides the body into right and left parts"], "ex": "Transverse sections are called cross-sections." },
+    { "c": "cranial cavity", "a": "holds the brain", "d": ["holds the spinal cord", "holds the heart and lungs"] },
+    { "c": "spinal (vertebral) cavity", "a": "holds the spinal cord", "d": ["holds the brain", "holds the digestive organs"] },
+    { "c": "thoracic cavity", "a": "holds the heart and lungs", "d": ["holds the brain", "holds the stomach and liver"] },
+    { "c": "Muscle forming the floor of the thoracic cavity", "a": "diaphragm", "d": ["pericardium", "peritoneum"] },
+    { "c": "Largest body cavity", "a": "abdominopelvic cavity", "d": ["thoracic cavity", "cranial cavity"] },
+    { "c": "Abdominal quadrant holding the appendix", "a": "right lower quadrant (RLQ)", "d": ["left lower quadrant (LLQ)", "right upper quadrant (RUQ)"] },
+    { "c": "Abdominal quadrant holding the gallbladder", "a": "right upper quadrant (RUQ)", "d": ["left upper quadrant (LUQ)", "right lower quadrant (RLQ)"] },
+    { "c": "Abdominal quadrant holding the spleen", "a": "left upper quadrant (LUQ)", "d": ["right upper quadrant (RUQ)", "left lower quadrant (LLQ)"] },
+    { "c": "epigastric region", "a": "central region just above the umbilical region", "d": ["central region just below the umbilical region", "side region beneath the lower ribs"], "ex": "epi- (upon) + gastr (stomach)" },
+    { "c": "hypochondriac region", "a": "side region beneath the lower ribs", "d": ["central region just above the navel", "lower side region near the hip bone"], "ex": "hypo- (below) + chondr (cartilage of the ribs)" },
+    { "c": "cyt/o", "a": "cell", "d": ["tissue", "organ"], "ex": "Cytology is the study of cells." },
+    { "c": "hist/o", "a": "tissue", "d": ["cell", "internal organs"], "ex": "Histology is the study of tissues." },
+    { "c": "viscer/o", "a": "internal organs", "d": ["tissue", "body wall"], "ex": "Visceral describes the internal organs." },
+    { "c": "lumbar region", "a": "lower back, between the ribs and hips", "d": ["neck", "tailbone"], "ex": "Lumbar vertebrae are numbered L1 to L5." }
+  ],
+  "read": {
+    "title": "One body, one reference point",
+    "text": [
+      "Two clinicians describing the same wound need to mean the same thing, so anatomy uses a fixed reference. In anatomical position the body stands upright, faces forward, and has its arms at the sides with the palms turned forward. Every directional term is defined from that stance, even if the patient is actually lying supine on the back or prone on the abdomen.",
+      "The terms come in pairs. Anterior and posterior mean front and back. Superior and inferior mean above and below. Medial points toward the midline and lateral points away from it. Proximal and distal are used mainly on limbs: the elbow is proximal to the wrist because it is nearer the trunk. Superficial and deep describe distance from the surface.",
+      "Planes are imaginary flat cuts used in imaging and dissection. A sagittal plane separates right from left, a frontal (coronal) plane separates front from back, and a transverse plane separates upper from lower, producing cross-sections.",
+      "The abdomen is mapped either into four quadrants or into nine smaller regions. Because right and left always belong to the patient, the appendix sits in the right lower quadrant even though it appears on the examiner's left."
+    ],
+    "q": [
+      { "q": "A patient is lying on the back. Directions are still described as if the patient were:", "o": ["In anatomical position", "Prone", "Lying on the right side"], "k": 0 },
+      { "q": "Which pair is used mainly to describe positions along a limb?", "o": ["Proximal and distal", "Medial and lateral", "Superficial and deep", "Anterior and posterior"], "k": 0 },
+      { "q": "Why is the appendix said to be in the right lower quadrant?", "o": ["Right and left refer to the patient's sides", "It lies on the examiner's right", "Quadrants are named from the back"], "k": 0 }
+    ]
+  }
+}

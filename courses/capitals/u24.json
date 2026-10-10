@@ -1,0 +1,33 @@
+{
+  "title": "Capitals of East and Southern Africa",
+  "note": "Tanzania moved its capital from Dar es Salaam to Dodoma, and Burundi from Bujumbura to Gitega. South Africa splits its capital three ways: Pretoria (executive), Cape Town (legislative) and Bloemfontein (judicial).",
+  "src": {
+    "t": "CIA World Factbook (archived JSON edition)",
+    "u": "https://github.com/factbook/factbook.json"
+  },
+  "items": [
+    { "c": "South Sudan", "a": "Juba", "d": ["Wau", "Malakal", "Khartoum"] },
+    { "c": "Ethiopia", "a": "Addis Ababa", "d": ["Dire Dawa", "Gondar", "Mekelle"] },
+    { "c": "Eritrea", "a": "Asmara", "d": ["Massawa", "Keren", "Assab"] },
+    { "c": "Djibouti", "a": "Djibouti City", "d": ["Ali Sabieh", "Tadjourah", "Asmara"] },
+    { "c": "Somalia", "a": "Mogadishu", "d": ["Kismayo", "Baidoa", "Bosaso"] },
+    { "c": "Kenya", "a": "Nairobi", "d": ["Mombasa", "Kisumu", "Nakuru"] },
+    { "c": "Uganda", "a": "Kampala", "d": ["Entebbe", "Gulu", "Jinja"] },
+    { "c": "Rwanda", "a": "Kigali", "d": ["Huye", "Musanze", "Kampala"] },
+    { "c": "Burundi", "a": "Gitega", "d": ["Ngozi", "Muyinga", "Kigali"], "ex": "Gitega became the political capital in 2019; Bujumbura remains the largest city." },
+    { "c": "Tanzania", "a": "Dodoma", "d": ["Arusha", "Mwanza", "Mbeya"], "ex": "Dar es Salaam, the former capital, is still the largest city." },
+    { "c": "Malawi", "a": "Lilongwe", "d": ["Blantyre", "Mzuzu", "Zomba"] },
+    { "c": "Mozambique", "a": "Maputo", "d": ["Beira", "Nampula", "Quelimane"] },
+    { "c": "Zambia", "a": "Lusaka", "d": ["Ndola", "Kitwe", "Livingstone"] },
+    { "c": "Zimbabwe", "a": "Harare", "d": ["Bulawayo", "Mutare", "Gweru"] },
+    { "c": "Botswana", "a": "Gaborone", "d": ["Francistown", "Maun", "Serowe"] },
+    { "c": "Namibia", "a": "Windhoek", "d": ["Walvis Bay", "Swakopmund", "Rundu"] },
+    { "c": "South Africa", "a": "Pretoria", "d": ["Johannesburg", "Durban", "Gqeberha"], "ex": "Pretoria is the executive capital; Cape Town is legislative and Bloemfontein judicial." },
+    { "c": "Lesotho", "a": "Maseru", "d": ["Mafeteng", "Teyateyaneng", "Mbabane"] },
+    { "c": "Eswatini", "a": "Mbabane", "d": ["Manzini", "Siteki", "Maputo"], "ex": "Mbabane is the administrative capital; Lobamba is the royal and legislative capital." },
+    { "c": "Madagascar", "a": "Antananarivo", "d": ["Toamasina", "Mahajanga", "Fianarantsoa"] },
+    { "c": "Comoros", "a": "Moroni", "d": ["Mutsamudu", "Fomboni", "Mamoudzou"] },
+    { "c": "Mauritius", "a": "Port Louis", "d": ["Curepipe", "Quatre Bornes", "Mahébourg"] },
+    { "c": "Seychelles", "a": "Victoria", "d": ["Anse Royale", "Beau Vallon", "Port Louis"] }
+  ]
+}

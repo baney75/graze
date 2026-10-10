@@ -1,0 +1,394 @@
+{
+  "title": "Learning: conditioning and observation",
+  "note": "In classical conditioning, a neutral stimulus comes to predict a stimulus that already triggers a reflex. In operant conditioning, consequences change how often a behavior occurs: reinforcement increases it, punishment decreases it. 'Positive' means something is added and 'negative' means something is removed.",
+  "src": {
+    "t": "OpenStax Psychology 2e, 6.3 Operant Conditioning",
+    "u": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning"
+  },
+  "items": [
+    {
+      "c": "Learning (psychology)",
+      "a": "A relatively lasting change from experience",
+      "d": [
+        "Any change caused by physical growth",
+        "An unlearned reaction to a stimulus",
+        "A temporary change caused by fatigue"
+      ]
+    },
+    {
+      "c": "Reflex",
+      "a": "An unlearned, simple response to a specific stimulus",
+      "d": [
+        "A complex unlearned behavior like migration",
+        "A response learned through reward",
+        "A behavior copied from a model"
+      ]
+    },
+    {
+      "c": "Instinct",
+      "a": "A complex unlearned behavior of the whole organism",
+      "d": [
+        "A simple response such as a knee jerk",
+        "A habit learned through reward",
+        "A response to a conditioned stimulus"
+      ],
+      "ex": "Seasonal bird migration is an instinct."
+    },
+    {
+      "c": "Unconditioned stimulus (UCS)",
+      "a": "Triggers a response naturally, without learning",
+      "d": [
+        "Triggers a response only after pairing",
+        "Produces no response at first",
+        "A learned reaction to a signal"
+      ]
+    },
+    {
+      "c": "In Pavlov's study, the meat powder was the",
+      "a": "Unconditioned stimulus",
+      "d": [
+        "Conditioned stimulus",
+        "Conditioned response",
+        "Neutral stimulus"
+      ]
+    },
+    {
+      "c": "Salivating to the tone after training",
+      "a": "Conditioned response",
+      "d": [
+        "Unconditioned response",
+        "Unconditioned stimulus",
+        "Neutral stimulus"
+      ]
+    },
+    {
+      "c": "The tone, after pairing with food",
+      "a": "Conditioned stimulus",
+      "d": [
+        "Unconditioned stimulus",
+        "Unconditioned response",
+        "Primary reinforcer"
+      ]
+    },
+    {
+      "c": "Neutral stimulus",
+      "a": "Produces no relevant response before conditioning",
+      "d": [
+        "Naturally triggers a reflex",
+        "Is a learned reaction",
+        "Always follows a behavior as a reward"
+      ]
+    },
+    {
+      "c": "Acquisition in classical conditioning",
+      "a": "The phase when the CS-UCS link is learned",
+      "d": [
+        "Weakening of the CR without the UCS",
+        "Return of a CR after a rest",
+        "Responding to similar stimuli"
+      ]
+    },
+    {
+      "c": "Extinction in classical conditioning",
+      "a": "CR weakens when the CS appears without the UCS",
+      "d": [
+        "CR returns after a rest period",
+        "CR spreads to similar stimuli",
+        "A new CS is paired with the old CS"
+      ]
+    },
+    {
+      "c": "Spontaneous recovery",
+      "a": "An extinguished response returns after a rest",
+      "d": [
+        "A response spreads to similar stimuli",
+        "A response is learned in one trial",
+        "A behavior is rewarded at random"
+      ]
+    },
+    {
+      "c": "Stimulus generalization",
+      "a": "Similar stimuli also trigger the conditioned response",
+      "d": [
+        "Only the exact CS triggers the response",
+        "The response fades without the UCS",
+        "A response returns after a pause"
+      ]
+    },
+    {
+      "c": "Stimulus discrimination",
+      "a": "Responding to the CS but not to similar stimuli",
+      "d": [
+        "Responding to anything resembling the CS",
+        "Forgetting the conditioned response",
+        "Learning by watching others"
+      ]
+    },
+    {
+      "c": "Higher-order conditioning",
+      "a": "A known CS conditions a new neutral stimulus",
+      "d": [
+        "A response returns after extinction",
+        "A reward follows every response",
+        "A behavior is shaped in small steps"
+      ]
+    },
+    {
+      "c": "Conditioned taste aversion",
+      "a": "Avoiding a food after it was paired with illness",
+      "d": [
+        "Preferring a food eaten often",
+        "Losing interest in a food over time",
+        "Craving a food seen in ads"
+      ],
+      "ex": "It can form in one trial, even with hours between food and illness."
+    },
+    {
+      "c": "Garcia and Koelling's rats showed",
+      "a": "Some associations are learned more easily",
+      "d": [
+        "Any two stimuli condition equally well",
+        "Punishment never changes behavior",
+        "Rats cannot learn taste aversions"
+      ]
+    },
+    {
+      "c": "Little Albert study (Watson and Rayner)",
+      "a": "Conditioned a child to fear a white rat",
+      "d": [
+        "Showed children copy adult aggression",
+        "Showed rats form mental maps",
+        "Trained pigeons with food rewards"
+      ]
+    },
+    {
+      "c": "Thorndike's law of effect",
+      "a": "Behaviors with satisfying outcomes tend to repeat",
+      "d": [
+        "Stimuli that occur together become linked",
+        "We learn by watching models",
+        "Learning can stay hidden until needed"
+      ]
+    },
+    {
+      "c": "Positive reinforcement",
+      "a": "Adding something pleasant to increase a behavior",
+      "d": [
+        "Removing something unpleasant to increase a behavior",
+        "Adding something unpleasant to decrease a behavior",
+        "Removing something pleasant to decrease a behavior"
+      ]
+    },
+    {
+      "c": "A seatbelt alarm stops once you buckle",
+      "a": "Negative reinforcement",
+      "d": [
+        "Positive reinforcement",
+        "Positive punishment",
+        "Negative punishment"
+      ]
+    },
+    {
+      "c": "A teacher scolds a student for texting",
+      "a": "Positive punishment",
+      "d": [
+        "Negative punishment",
+        "Negative reinforcement",
+        "Positive reinforcement"
+      ]
+    },
+    {
+      "c": "A child loses a toy for hitting a sibling",
+      "a": "Negative punishment",
+      "d": [
+        "Positive punishment",
+        "Negative reinforcement",
+        "Positive reinforcement"
+      ]
+    },
+    {
+      "c": "Shaping",
+      "a": "Rewarding closer and closer approximations",
+      "d": [
+        "Rewarding every single response",
+        "Removing a reward to stop a behavior",
+        "Copying a model's actions"
+      ]
+    },
+    {
+      "c": "Primary reinforcer",
+      "a": "A reward with natural value, such as food",
+      "d": [
+        "A reward valued through learning, such as money",
+        "A stimulus that signals punishment",
+        "A reward given on a schedule"
+      ]
+    },
+    {
+      "c": "Secondary reinforcer",
+      "a": "A reward valued through association, such as money",
+      "d": [
+        "A reward with built-in value, such as water",
+        "A painful stimulus that is removed",
+        "A reflex triggered by food"
+      ]
+    },
+    {
+      "c": "Token economy",
+      "a": "Earning tokens that can be traded for rewards",
+      "d": [
+        "Rewarding every response with food",
+        "Taking away privileges for misbehavior",
+        "Learning a route without reward"
+      ]
+    },
+    {
+      "c": "Fastest way to teach a new behavior",
+      "a": "Continuous reinforcement",
+      "d": [
+        "Variable-interval reinforcement",
+        "Fixed-interval reinforcement",
+        "Occasional punishment"
+      ]
+    },
+    {
+      "c": "Schedule most resistant to extinction",
+      "a": "Variable ratio",
+      "d": [
+        "Fixed interval",
+        "Continuous",
+        "Fixed ratio"
+      ]
+    },
+    {
+      "c": "Checking for a text that arrives at random times",
+      "a": "Variable interval",
+      "d": [
+        "Fixed interval",
+        "Fixed ratio",
+        "Continuous"
+      ]
+    },
+    {
+      "c": "Pay for every 10 items assembled",
+      "a": "Fixed ratio",
+      "d": [
+        "Variable ratio",
+        "Fixed interval",
+        "Variable interval"
+      ]
+    },
+    {
+      "c": "Reward for the first response after each hour",
+      "a": "Fixed interval",
+      "d": [
+        "Fixed ratio",
+        "Variable ratio",
+        "Variable interval"
+      ]
+    },
+    {
+      "c": "Latent learning",
+      "a": "Learning that stays hidden until there is a reason to show it",
+      "d": [
+        "Learning through reward and punishment",
+        "Learning that fades quickly",
+        "Learning in a single trial"
+      ]
+    },
+    {
+      "c": "Cognitive map (Tolman)",
+      "a": "A mental picture of a layout, like a maze",
+      "d": [
+        "A diagram of brain regions",
+        "A schedule of rewards",
+        "A list of conditioned stimuli"
+      ]
+    },
+    {
+      "c": "Observational learning",
+      "a": "Learning by watching and imitating others",
+      "d": [
+        "Learning from rewards one receives",
+        "Learning that a tone predicts food",
+        "Learning that stays hidden"
+      ]
+    },
+    {
+      "c": "Bandura's Bobo doll study showed",
+      "a": "Children imitate an adult model's aggression",
+      "d": [
+        "Children fear furry animals after conditioning",
+        "Rats learn mazes without reward",
+        "Pigeons learn by shaping"
+      ]
+    },
+    {
+      "c": "Vicarious reinforcement",
+      "a": "Seeing a model rewarded makes copying more likely",
+      "d": [
+        "Rewarding yourself after a task",
+        "Seeing a model punished stops copying",
+        "A reward for every response"
+      ]
+    },
+    {
+      "c": "Bandura's four steps of modeling",
+      "a": "Attention, retention, reproduction, motivation",
+      "d": [
+        "Acquisition, extinction, recovery, generalization",
+        "Encoding, storage, retrieval, forgetting",
+        "Sensation, perception, action, reward"
+      ]
+    },
+    {
+      "c": "Brain cells linked to imitation",
+      "a": "Mirror neurons",
+      "d": [
+        "Glial cells",
+        "Sensory neurons",
+        "Rods and cones"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Positive, negative, reinforce, punish",
+    "text": [
+      "Operant conditioning has a vocabulary that trips up many students, but two questions sort it out. First, is the behavior becoming more likely or less likely? If more likely, the consequence is reinforcement. If less likely, it is punishment. Second, was something added or taken away? Added is positive; removed is negative. Neither word means good or bad.",
+      "So a child who earns a sticker for reading gets positive reinforcement: something pleasant is added, and reading increases. A driver who buckles up to silence the seatbelt alarm gets negative reinforcement: an annoying sound is removed, and buckling increases. A student scolded for texting receives positive punishment, while a teen who loses phone privileges receives negative punishment.",
+      "Timing and pattern matter too. Rewarding every response teaches a new behavior fastest. Once a behavior is learned, rewarding it only sometimes keeps it going, and an unpredictable number of responses, a variable-ratio schedule, makes behavior especially hard to extinguish. That is the pattern of a slot machine.",
+      "Researchers generally favor reinforcement over punishment. Punishment can suppress a behavior without teaching a better one."
+    ],
+    "q": [
+      {
+        "q": "In operant terms, 'negative' means that something is",
+        "o": [
+          "Unpleasant",
+          "Removed",
+          "Added",
+          "Ineffective"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Taking away a teen's phone to reduce late nights is",
+        "o": [
+          "Negative reinforcement",
+          "Positive punishment",
+          "Negative punishment",
+          "Positive reinforcement"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Which schedule makes a behavior especially hard to extinguish?",
+        "o": [
+          "Continuous",
+          "Fixed interval",
+          "Variable ratio"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

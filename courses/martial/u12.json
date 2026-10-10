@@ -1,0 +1,311 @@
+{
+  "title": "Training science",
+  "note": "The body adapts to the specific demands placed on it, so training must match the sport and rise gradually: progressive overload. Planned variation and recovery let adaptation happen. Combat sports draw on all three energy systems, and a good warm-up raises temperature, activates and mobilizes, then sharpens with sport-like movement.",
+  "src": {
+    "t": "NSCA, Principle-Based Program Design",
+    "u": "https://www.nsca.com/contentassets/ae95c28e2bdf43c7b69636eacd3e4c72/ptq3.2-3-principle-based_program_design.pdf"
+  },
+  "items": [
+    {
+      "c": "Progressive overload",
+      "a": "gradually increasing training demands over time",
+      "d": [
+        "keeping the same workload every session",
+        "training to exhaustion every day"
+      ]
+    },
+    {
+      "c": "Ways to apply progressive overload",
+      "a": "raise intensity, frequency, or exercise difficulty",
+      "d": [
+        "repeat the same session unchanged",
+        "only add rest days"
+      ]
+    },
+    {
+      "c": "Specificity principle",
+      "a": "adaptations match the demands of the training",
+      "d": [
+        "any exercise improves every skill equally",
+        "rest matters more than training"
+      ]
+    },
+    {
+      "c": "SAID principle",
+      "a": "Specific Adaptation to Imposed Demands",
+      "d": [
+        "Strength And Intensity Development",
+        "Speed, Agility, Endurance, Drills"
+      ]
+    },
+    {
+      "c": "Individuality principle",
+      "a": "fitting exercises to the person's ability and setting",
+      "d": [
+        "giving every athlete the same plan",
+        "training only one's strengths"
+      ]
+    },
+    {
+      "c": "Variation principle",
+      "a": "planned changes in training to avoid plateaus",
+      "d": [
+        "random workouts with no plan",
+        "never changing the program"
+      ]
+    },
+    {
+      "c": "Reversibility, or detraining",
+      "a": "fitness gains fade when training stops",
+      "d": [
+        "gains are permanent once earned",
+        "rest always increases fitness"
+      ]
+    },
+    {
+      "c": "Periodization",
+      "a": "organizing training into planned phases",
+      "d": [
+        "training the same way all year",
+        "resting one day per week"
+      ]
+    },
+    {
+      "c": "Macrocycle",
+      "a": "the longest training cycle, often a season or year",
+      "d": [
+        "about one week of training",
+        "a block of a few weeks"
+      ]
+    },
+    {
+      "c": "Mesocycle",
+      "a": "a training block of several weeks",
+      "d": [
+        "a single session",
+        "a whole year of training"
+      ]
+    },
+    {
+      "c": "Microcycle",
+      "a": "a short cycle, usually about a week",
+      "d": [
+        "a full competitive season",
+        "a single repetition"
+      ]
+    },
+    {
+      "c": "Deload",
+      "a": "a planned lighter period to allow recovery",
+      "d": [
+        "a cut in body weight before a match",
+        "the heaviest week of a block"
+      ]
+    },
+    {
+      "c": "Supercompensation",
+      "a": "rebounding above baseline after recovery",
+      "d": [
+        "losing fitness during rest",
+        "eating extra before a match"
+      ]
+    },
+    {
+      "c": "Phosphagen energy system",
+      "a": "fuels all-out bursts of about 10 seconds",
+      "d": [
+        "fuels long steady efforts",
+        "fuels efforts of about two minutes"
+      ]
+    },
+    {
+      "c": "Glycolytic energy system",
+      "a": "fuels hard efforts of roughly 30 seconds to 2 minutes",
+      "d": [
+        "fuels only a single burst under 10 seconds",
+        "fuels hour-long steady work"
+      ]
+    },
+    {
+      "c": "Oxidative (aerobic) energy system",
+      "a": "fuels long, steady efforts and recovery between bursts",
+      "d": [
+        "fuels only maximal single lifts",
+        "works only during sleep"
+      ]
+    },
+    {
+      "c": "Interval training",
+      "a": "alternating hard work with rest or easy work",
+      "d": [
+        "one long effort at steady pace",
+        "lifting the same weight daily"
+      ]
+    },
+    {
+      "c": "Work-to-rest ratio",
+      "a": "time working compared with time resting",
+      "d": [
+        "weight lifted per body weight",
+        "rounds won compared with lost"
+      ]
+    },
+    {
+      "c": "Conditioning for a three-round bout should",
+      "a": "mimic round lengths and rest periods",
+      "d": [
+        "consist only of long slow runs",
+        "avoid any high-intensity work"
+      ]
+    },
+    {
+      "c": "RPE",
+      "a": "rating of perceived exertion",
+      "d": [
+        "rate of power expression",
+        "repetitions per exercise"
+      ]
+    },
+    {
+      "c": "RAMP warm-up",
+      "a": "Raise, Activate and Mobilize, Potentiate",
+      "d": [
+        "Run, Agility, Mobility, Power",
+        "Rest, Assess, Move, Perform"
+      ]
+    },
+    {
+      "c": "Raise phase of a warm-up",
+      "a": "raising body temperature and heart rate",
+      "d": [
+        "lifting the heaviest weights",
+        "holding long static stretches"
+      ]
+    },
+    {
+      "c": "Potentiate phase of a warm-up",
+      "a": "sharpening with intense, sport-like movements",
+      "d": [
+        "cooling down slowly",
+        "lying still to relax"
+      ]
+    },
+    {
+      "c": "Dynamic stretching",
+      "a": "moving actively through a range of motion",
+      "d": [
+        "holding a stretch still for a minute",
+        "stretching only after a meal"
+      ]
+    },
+    {
+      "c": "Long static stretches are best placed",
+      "a": "after training, not just before explosive work",
+      "d": [
+        "right before sprinting or sparring",
+        "between every round"
+      ]
+    },
+    {
+      "c": "Cool-down",
+      "a": "gradually lowering intensity after training",
+      "d": [
+        "stopping hard work abruptly",
+        "a short burst of maximal effort"
+      ]
+    },
+    {
+      "c": "Why sleep matters to training",
+      "a": "recovery and adaptation happen during rest",
+      "d": [
+        "sleep replaces the need for training",
+        "sleep lowers skill retention"
+      ]
+    },
+    {
+      "c": "Power",
+      "a": "force applied quickly: force times velocity",
+      "d": [
+        "the heaviest weight lifted once",
+        "the ability to last many rounds"
+      ]
+    },
+    {
+      "c": "Plyometrics",
+      "a": "jumps and throws using the stretch-shortening cycle",
+      "d": [
+        "slow lifts held at the top",
+        "long static stretching"
+      ]
+    },
+    {
+      "c": "Hypertrophy",
+      "a": "an increase in muscle size",
+      "d": [
+        "an increase in joint range",
+        "a loss of muscle mass"
+      ]
+    },
+    {
+      "c": "Drilling",
+      "a": "repeating a technique with a cooperative partner",
+      "d": [
+        "full-resistance sparring",
+        "a competition match"
+      ]
+    },
+    {
+      "c": "Positional sparring",
+      "a": "live sparring that starts from a set position",
+      "d": [
+        "solo shadowboxing",
+        "a slow cooperative drill"
+      ]
+    },
+    {
+      "c": "Shadowboxing",
+      "a": "solo striking practice against an imagined opponent",
+      "d": [
+        "sparring with a partner",
+        "hitting a heavy bag"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Overload, specificity, and recovery",
+    "text": [
+      "Strength coaches build programs on a few principles. Specificity says the body adapts to the particular demands placed on it, so a fighter who must work hard for three-minute rounds should condition with similar efforts and rests, not only long slow runs. Progressive overload says those demands must rise over time, by adding intensity, frequency, or difficulty, at a pace the athlete can absorb.",
+      "Adaptation happens during recovery, not during the workout itself. Hard training creates fatigue; with rest, sleep, and food the body rebuilds and can rise above its earlier level, an effect called supercompensation. Periodization organizes this rhythm into phases, from week-long microcycles to blocks of several weeks and whole seasons, often with a lighter deload week before the next push. Planned variation keeps progress from stalling.",
+      "Combat sports draw on every energy system: the phosphagen system for explosive bursts, glycolysis for hard scrambles lasting up to a couple of minutes, and the aerobic system for recovering between exchanges. A good warm-up follows the RAMP pattern: raise temperature, activate and mobilize, then potentiate with sharp, sport-like movement."
+    ],
+    "q": [
+      {
+        "q": "When does adaptation mainly happen?",
+        "o": [
+          "During the hardest set",
+          "During recovery after training",
+          "Only on competition days"
+        ],
+        "k": 1
+      },
+      {
+        "q": "How should a fighter condition for three-minute rounds, by specificity?",
+        "o": [
+          "With similar efforts and rests",
+          "Only with long slow runs",
+          "Only with heavy single lifts"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Which energy system helps recovery between exchanges?",
+        "o": [
+          "The phosphagen system",
+          "Glycolysis",
+          "The aerobic system"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

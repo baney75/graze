@@ -1,0 +1,319 @@
+{
+  "title": "Dynamics and mechanisms",
+  "note": "Machines trade force for distance: mechanical advantage is output force ÷ input force, and without losses work in equals work out. Torque τ = rF sin θ is the turning effect of a force, and rotational power is P = τω. Gears trade speed for torque in inverse proportion.",
+  "src": {
+    "t": "University Physics Volume 1, 10.6 Torque, OpenStax",
+    "u": "https://openstax.org/books/university-physics-volume-1/pages/10-6-torque"
+  },
+  "items": [
+    {
+      "c": "Kinematics describes",
+      "a": "motion without regard to the forces causing it",
+      "d": [
+        "the forces that cause motion",
+        "the strength of moving parts"
+      ]
+    },
+    {
+      "c": "Rotational analog of F = ma",
+      "a": "τ = Iα",
+      "d": [
+        "τ = mα",
+        "P = τω",
+        "L = Iω"
+      ]
+    },
+    {
+      "c": "Mass moment of inertia I",
+      "a": "resistance to angular acceleration, set by mass distribution",
+      "d": [
+        "resistance to linear acceleration only",
+        "the torque needed to start rotation"
+      ]
+    },
+    {
+      "c": "Rotational kinetic energy",
+      "a": "½Iω²",
+      "d": [
+        "Iω",
+        "½mω²",
+        "Iω²"
+      ]
+    },
+    {
+      "c": "Flywheel",
+      "a": "a heavy wheel that stores rotational energy to smooth speed",
+      "d": [
+        "a gear that reverses direction",
+        "a brake that absorbs energy as heat"
+      ]
+    },
+    {
+      "c": "Torque",
+      "a": "turning effect of a force: τ = rF sin θ",
+      "d": [
+        "force divided by radius: τ = F/r",
+        "rate of doing work: τ = W/t"
+      ]
+    },
+    {
+      "c": "Torque from 20 N on a 0.25 m wrench, perpendicular",
+      "a": "5 N·m",
+      "d": [
+        "80 N·m",
+        "20.25 N·m",
+        "0.0125 N·m"
+      ]
+    },
+    {
+      "c": "Rotational power",
+      "a": "P = τω",
+      "d": [
+        "P = τ/ω",
+        "P = Fω",
+        "P = τθ"
+      ]
+    },
+    {
+      "c": "Units of ω in P = τω",
+      "a": "radians per second",
+      "d": [
+        "revolutions per minute",
+        "degrees per second"
+      ]
+    },
+    {
+      "c": "A motor gives 10 N·m at 100 rad/s. Power?",
+      "a": "1 kW",
+      "d": [
+        "10 W",
+        "110 W",
+        "100 kW"
+      ]
+    },
+    {
+      "c": "1 horsepower is about",
+      "a": "746 W",
+      "d": [
+        "1000 W",
+        "550 W",
+        "100 W"
+      ]
+    },
+    {
+      "c": "Mechanical advantage (MA)",
+      "a": "output force divided by input force",
+      "d": [
+        "input force divided by output force",
+        "output work divided by input work"
+      ]
+    },
+    {
+      "c": "Efficiency of a machine",
+      "a": "useful work out divided by work in",
+      "d": [
+        "work in divided by useful work out",
+        "output force divided by input force"
+      ]
+    },
+    {
+      "c": "Ideal MA of a lever",
+      "a": "effort arm length divided by load arm length",
+      "d": [
+        "load arm length divided by effort arm length",
+        "effort arm length times load arm length"
+      ]
+    },
+    {
+      "c": "First-class lever",
+      "a": "fulcrum between the effort and the load",
+      "d": [
+        "load between the fulcrum and the effort",
+        "effort between the fulcrum and the load"
+      ]
+    },
+    {
+      "c": "Lever class of a wheelbarrow",
+      "a": "second class",
+      "d": [
+        "first class",
+        "third class"
+      ]
+    },
+    {
+      "c": "Lever class of tweezers",
+      "a": "third class",
+      "d": [
+        "first class",
+        "second class"
+      ]
+    },
+    {
+      "c": "Lever class of a seesaw",
+      "a": "first class",
+      "d": [
+        "second class",
+        "third class"
+      ]
+    },
+    {
+      "c": "What a lever with MA below 1 gains",
+      "a": "speed and range of motion at the output",
+      "d": [
+        "extra force at the output",
+        "energy beyond the input"
+      ]
+    },
+    {
+      "c": "Pulley with 4 rope segments holding the load: ideal MA",
+      "a": "4",
+      "d": [
+        "2",
+        "8",
+        "1"
+      ]
+    },
+    {
+      "c": "A single fixed pulley gives",
+      "a": "a change of direction with MA of 1",
+      "d": [
+        "an MA of 2",
+        "a change of speed but not direction"
+      ]
+    },
+    {
+      "c": "Ramp 5 m long rising 1 m: ideal MA",
+      "a": "5",
+      "d": [
+        "1/5",
+        "6",
+        "4"
+      ]
+    },
+    {
+      "c": "Screw jack MA increases with",
+      "a": "a finer thread pitch",
+      "d": [
+        "a coarser thread pitch",
+        "a shorter handle"
+      ]
+    },
+    {
+      "c": "Meshing external spur gears rotate",
+      "a": "in opposite directions",
+      "d": [
+        "in the same direction",
+        "at the same speed always"
+      ]
+    },
+    {
+      "c": "10-tooth gear drives 40-tooth gear: output speed",
+      "a": "one quarter of the input speed",
+      "d": [
+        "four times the input speed",
+        "the same as the input speed"
+      ]
+    },
+    {
+      "c": "10-tooth gear drives 40-tooth gear: output torque",
+      "a": "four times the input torque",
+      "d": [
+        "one quarter of the input torque",
+        "the same as the input torque"
+      ]
+    },
+    {
+      "c": "Why gears trade speed for torque",
+      "a": "power in equals power out, minus losses",
+      "d": [
+        "gears create extra energy",
+        "teeth store torque like springs"
+      ]
+    },
+    {
+      "c": "Idler gear",
+      "a": "a gear between two others that reverses direction, not ratio",
+      "d": [
+        "a gear that doubles the speed ratio",
+        "a gear that disconnects the drive"
+      ]
+    },
+    {
+      "c": "Worm gear drive",
+      "a": "a screw-like worm turning a wheel for large speed reduction",
+      "d": [
+        "two equal gears for a 1:1 ratio",
+        "a chain linking two sprockets"
+      ]
+    },
+    {
+      "c": "Rack and pinion converts",
+      "a": "rotation into straight-line motion",
+      "d": [
+        "rotation into faster rotation",
+        "linear motion into heat"
+      ]
+    },
+    {
+      "c": "Cam and follower converts",
+      "a": "rotation into a shaped back-and-forth motion",
+      "d": [
+        "linear motion into steady rotation",
+        "torque into electric current"
+      ]
+    },
+    {
+      "c": "Belt drive speed ratio is set by",
+      "a": "the ratio of the pulley diameters",
+      "d": [
+        "the length of the belt",
+        "the belt's material"
+      ]
+    },
+    {
+      "c": "Four-bar linkage",
+      "a": "four links joined by pivots to produce a set motion",
+      "d": [
+        "four gears meshing in a row",
+        "four pulleys sharing a rope"
+      ]
+    }
+  ],
+  "read": {
+    "title": "No free lunch in machines",
+    "text": [
+      "A lever, a pulley, a ramp, and a gear train all do the same thing: they let a small force move a large load by spreading the work over a longer distance. Work is force times distance, and a machine cannot make more work than it receives. If a lever multiplies your force by five, your hand must move five times as far as the load.",
+      "Mechanical advantage is the ratio of output force to input force. Real machines lose some energy to friction, so efficiency, useful work out divided by work in, is always below 100%. Some machines deliberately have an advantage below one. Your forearm is a third-class lever: muscle pulls near the elbow, which costs force but makes the hand move fast and far.",
+      "Rotating machines use the same logic with torque and angular speed. Power equals torque times angular velocity, P = τω, with ω in radians per second. A small gear driving one with four times as many teeth turns the output at one quarter of the speed but, ignoring losses, with four times the torque. That is why a car uses low gear to climb a hill and high gear to cruise."
+    ],
+    "q": [
+      {
+        "q": "If a lever multiplies force by five, how far must the input move?",
+        "o": [
+          "One fifth as far as the load",
+          "Five times as far as the load",
+          "The same distance as the load"
+        ],
+        "k": 1
+      },
+      {
+        "q": "What does a third-class lever like the forearm gain?",
+        "o": [
+          "Speed and range of motion",
+          "Extra force",
+          "Free energy"
+        ],
+        "k": 0
+      },
+      {
+        "q": "A gear train cuts output speed to one quarter. Ideally, what happens to torque?",
+        "o": [
+          "It falls to one quarter",
+          "It stays the same",
+          "It becomes four times larger"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

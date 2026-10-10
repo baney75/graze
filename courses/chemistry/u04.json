@@ -1,0 +1,55 @@
+{
+  "title": "The periodic table and periodic trends",
+  "note": "Across a period, nuclear charge rises faster than shielding, so effective nuclear charge grows: atoms shrink, ionization energy rises, and electronegativity rises. Down a group, each new shell puts valence electrons farther out: atoms grow and hold their electrons less tightly. Known exceptions in ionization energy (Be > B, N > O) come from subshell structure.",
+  "src": { "t": "Chemistry 2e, 6.5 Periodic Variations in Element Properties, OpenStax", "u": "https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties" },
+  "items": [
+    { "c": "Symbol for nitrogen", "a": "N", "d": ["Ni", "Na"] },
+    { "c": "Symbol for phosphorus", "a": "P", "d": ["Ph", "Po"] },
+    { "c": "Symbol for sulfur", "a": "S", "d": ["Su", "Sr"] },
+    { "c": "Symbol for silicon", "a": "Si", "d": ["Sc", "Sl"] },
+    { "c": "Symbol for calcium", "a": "Ca", "d": ["C", "Cd"] },
+    { "c": "Symbol for zinc", "a": "Zn", "d": ["Z", "Zr"] },
+    { "c": "Symbol for aluminum", "a": "Al", "d": ["Am", "Au"] },
+    { "c": "Element symbol Mg", "a": "magnesium", "d": ["manganese", "mercury"] },
+    { "c": "Element symbol Mn", "a": "manganese", "d": ["magnesium", "molybdenum"] },
+    { "c": "Element symbol Cl", "a": "chlorine", "d": ["calcium", "chromium"] },
+    { "c": "Group 1 elements", "a": "alkali metals", "d": ["alkaline earth metals", "halogens"] },
+    { "c": "Group 2 elements", "a": "alkaline earth metals", "d": ["alkali metals", "transition metals"] },
+    { "c": "Group 16 elements", "a": "chalcogens", "d": ["pnictogens", "halogens"] },
+    { "c": "Group 17 elements", "a": "halogens", "d": ["chalcogens", "noble gases"] },
+    { "c": "Group 18 elements", "a": "noble gases", "d": ["halogens", "alkali metals"] },
+    { "c": "Groups 3 through 12 hold the", "a": "transition metals", "d": ["main-group elements", "inner transition metals"] },
+    { "c": "Lanthanides and actinides are the", "a": "inner transition metals", "d": ["alkaline earth metals", "post-transition metals"] },
+    { "c": "Which element is a metalloid?", "a": "silicon", "d": ["sulfur", "magnesium"] },
+    { "c": "Number of periods in the periodic table", "a": "seven", "d": ["eight", "eighteen"] },
+    { "c": "Elements in the same group share similar", "a": "valence electron configurations", "d": ["atomic masses", "numbers of neutrons"] },
+    { "c": "Atomic radius trend across a period", "a": "shrinks from left to right", "d": ["grows from left to right", "stays about the same"] },
+    { "c": "Atomic radius trend down a group", "a": "grows going down", "d": ["shrinks going down", "stays about the same"] },
+    { "c": "Why atoms shrink across a period", "a": "effective nuclear charge increases", "d": ["new electron shells are added", "shielding outpaces nuclear charge"] },
+    { "c": "First ionization energy", "a": "energy to remove an electron from a gaseous atom", "d": ["energy released when a gaseous atom gains an electron", "energy needed to break one mole of bonds"] },
+    { "c": "First ionization energy trend across a period", "a": "generally rises left to right", "d": ["generally falls left to right", "does not change"] },
+    { "c": "Element with the highest first ionization energy", "a": "helium", "d": ["fluorine", "hydrogen"] },
+    { "c": "Higher first ionization energy: N or O?", "a": "nitrogen", "d": ["oxygen"], "ex": "Removing one of oxygen's paired 2p electrons is easier." },
+    { "c": "Higher first ionization energy: Be or B?", "a": "beryllium", "d": ["boron"], "ex": "Boron loses a higher-energy 2p electron." },
+    { "c": "Why Mg's third ionization energy jumps", "a": "it removes a core electron", "d": ["it removes a 3s valence electron", "it removes an unpaired 3p electron"] },
+    { "c": "Most electronegative element", "a": "fluorine", "d": ["oxygen", "chlorine"] },
+    { "c": "Electronegativity trend down a group", "a": "decreases going down", "d": ["increases going down", "is constant in a group"] },
+    { "c": "Larger radius: Na or Na⁺?", "a": "Na, the neutral atom", "d": ["Na⁺, the cation"] },
+    { "c": "Larger radius: Cl or Cl⁻?", "a": "Cl⁻, the anion", "d": ["Cl, the neutral atom"] },
+    { "c": "Smallest of O²⁻, F⁻, Na⁺, Mg²⁺", "a": "Mg²⁺", "d": ["O²⁻", "F⁻", "Na⁺"], "ex": "In an isoelectronic series, more protons means a smaller radius." },
+    { "c": "More negative electron affinity: Cl or F?", "a": "Cl", "d": ["F"], "ex": "Fluorine's small 2p shell crowds an added electron." }
+  ],
+  "read": {
+    "title": "Why the table has trends",
+    "text": [
+      "The periodic table puts elements with similar valence electron configurations in the same column, so their chemistry repeats. Lithium, sodium, and potassium all have one s electron beyond a noble-gas core, and all are soft, reactive metals that form 1+ ions.",
+      "Trends in size and energy follow from one idea: how strongly the nucleus pulls on the outer electrons. Moving left to right across a period, each element adds a proton to the nucleus and an electron to the same shell. Electrons in the same shell shield each other poorly, so the effective nuclear charge felt by the outer electrons rises. The atoms shrink, it takes more energy to remove an electron, and electronegativity climbs. Moving down a group, a new shell is added each time. The outer electrons sit farther from the nucleus behind more inner electrons, so atoms get larger and lose electrons more easily.",
+      "Ions follow the same logic. A cation is smaller than its parent atom, and an anion is larger. For ions with the same number of electrons, the one with the most protons is the smallest. There are small exceptions to the ionization energy trend: boron is lower than beryllium, and oxygen is lower than nitrogen, because of how electrons sit in s and p subshells."
+    ],
+    "q": [
+      { "q": "What causes atoms to shrink from left to right across a period?", "o": ["Adding a new electron shell at each step", "Rising effective nuclear charge on the outer electrons", "Loss of protons from the nucleus"], "k": 1 },
+      { "q": "Why do lithium, sodium, and potassium behave alike?", "o": ["They have the same atomic mass", "They have the same number of shells", "They share a similar valence electron configuration"], "k": 2 },
+      { "q": "Among ions with the same number of electrons, which is smallest?", "o": ["The one with the most protons", "The one with the fewest protons", "The one with the most neutrons"], "k": 0 }
+    ]
+  }
+}

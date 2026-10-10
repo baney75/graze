@@ -1,0 +1,185 @@
+{
+  "title": "Emerson, Self-Reliance",
+  "note": "Emerson published 'Self-Reliance' in Essays: First Series (1841). Its opening paragraph argues that the thought we dismiss because it is our own is often the very thing we later admire in works of genius.",
+  "src": {
+    "t": "Essays, First Series, by Ralph Waldo Emerson, Project Gutenberg eBook #2944",
+    "u": "https://www.gutenberg.org/ebooks/2944"
+  },
+  "items": [
+    {
+      "c": "admonition (Emerson)",
+      "a": "a gentle warning or urging",
+      "d": [
+        "a reward",
+        "a lament"
+      ]
+    },
+    {
+      "c": "instil",
+      "a": "gradually put into the mind",
+      "d": [
+        "drain away",
+        "hide from view"
+      ]
+    },
+    {
+      "c": "What Emerson calls genius",
+      "a": "believing that what is true for you is true for all",
+      "d": [
+        "mastering the classics",
+        "an inborn gift for painting"
+      ]
+    },
+    {
+      "c": "latent conviction",
+      "a": "a belief held but not yet spoken",
+      "d": [
+        "a belief one has abandoned",
+        "a court's judgment"
+      ]
+    },
+    {
+      "c": "the inmost in due time becomes the outmost",
+      "a": "private truth in time becomes public truth",
+      "d": [
+        "secrets always stay hidden",
+        "outward things shape the inner self"
+      ]
+    },
+    {
+      "c": "Why Emerson praises Moses, Plato and Milton",
+      "a": "they set aside books and traditions for their own thought",
+      "d": [
+        "they preserved tradition faithfully",
+        "they wrote in many languages"
+      ]
+    },
+    {
+      "c": "set at naught",
+      "a": "treated as worthless",
+      "d": [
+        "counted carefully",
+        "praised highly"
+      ]
+    },
+    {
+      "c": "the firmament of bards and sages",
+      "a": "the whole sky of poets and wise men",
+      "d": [
+        "the court of kings",
+        "the council of priests"
+      ]
+    },
+    {
+      "c": "a certain alienated majesty",
+      "a": "the grandeur of our own thoughts, returned as strangers",
+      "d": [
+        "the majesty of foreign kings",
+        "the coldness of famous authors"
+      ]
+    },
+    {
+      "c": "good-humored inflexibility",
+      "a": "cheerful firmness",
+      "d": [
+        "angry stubbornness",
+        "polite agreement"
+      ]
+    },
+    {
+      "c": "If we dismiss our own thought, Emerson warns,",
+      "a": "a stranger will say it and we must take it from him",
+      "d": [
+        "we will forget it forever",
+        "it will be proven false"
+      ]
+    },
+    {
+      "c": "A foolish consistency is the...",
+      "a": "hobgoblin of little minds",
+      "d": [
+        "mark of a great soul",
+        "first step to wisdom"
+      ]
+    },
+    {
+      "c": "Trust thyself: every heart vibrates to...",
+      "a": "that iron string",
+      "d": [
+        "the rhythm of nature",
+        "the voice of the crowd"
+      ]
+    },
+    {
+      "c": "Emerson's book-length essay of 1836",
+      "a": "Nature",
+      "d": [
+        "Walden",
+        "Representative Men",
+        "The Conduct of Life"
+      ]
+    },
+    {
+      "c": "Town where Emerson made his home",
+      "a": "Concord, Massachusetts",
+      "d": [
+        "Salem, Massachusetts",
+        "Hartford, Connecticut",
+        "Providence, Rhode Island"
+      ]
+    },
+    {
+      "c": "Emerson's profession before his lecturing career",
+      "a": "Unitarian minister",
+      "d": [
+        "lawyer",
+        "physician",
+        "sea captain"
+      ]
+    },
+    {
+      "c": "Year of Emerson's Essays: First Series",
+      "a": "1841",
+      "d": [
+        "1854",
+        "1820",
+        "1876"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Self-Reliance, opening (1841)",
+    "text": [
+      "I read the other day some verses written by an eminent painter which were original and not conventional. The soul always hears an admonition in such lines, let the subject be what it may. The sentiment they instil is of more value than any thought they may contain. To believe your own thought, to believe that what is true for you in your private heart is true for all men,—that is genius. Speak your latent conviction, and it shall be the universal sense; for the inmost in due time becomes the outmost, and our first thought is rendered back to us by the trumpets of the Last Judgment. Familiar as the voice of the mind is to each, the highest merit we ascribe to Moses, Plato and Milton is that they set at naught books and traditions, and spoke not what men, but what they thought. A man should learn to detect and watch that gleam of light which flashes across his mind from within, more than the lustre of the firmament of bards and sages. Yet he dismisses without notice his thought, because it is his. In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty. Great works of art have no more affecting lesson for us than this. They teach us to abide by our spontaneous impression with good-humored inflexibility then most when the whole cry of voices is on the other side. Else to-morrow a stranger will say with masterly good sense precisely what we have thought and felt all the time, and we shall be forced to take with shame our own opinion from another."
+    ],
+    "q": [
+      {
+        "q": "What is the main idea of the paragraph?",
+        "o": [
+          "Trust and speak your own inner thought, because what is truest privately is often universal",
+          "Study great books and imitate them closely",
+          "Painters understand truth better than poets"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Why do we 'recognize our own rejected thoughts' in works of genius?",
+        "o": [
+          "The genius trusted a thought that we also had but dismissed",
+          "Geniuses copy from ordinary people",
+          "We have read those works before"
+        ],
+        "k": 0
+      },
+      {
+        "q": "'To abide by our spontaneous impression' means:",
+        "o": [
+          "to stand by our first honest perception",
+          "to act without any thought at all",
+          "to wait for others' approval"
+        ],
+        "k": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Praise and blame",
+  "note": "Praise: extol, laud, lionize, encomium, paean, plaudits. Blame: castigate, excoriate, upbraid, vilify, pillory, opprobrium. Watch the near misses: deprecate (disapprove) is not depreciate (lose value), an aspersion (slur) is not an aspiration (hope), and a eulogy (speech of praise) is not an elegy (mournful poem).",
+  "src": { "t": "Merriam-Webster: obloquy", "u": "https://www.merriam-webster.com/dictionary/obloquy" },
+  "items": [
+    { "c": "extol", "a": "to praise enthusiastically", "d": ["to obtain by threats", "to criticize harshly", "to mock with contempt"], "ex": "The brochure extolled the hotel's views and said nothing about the highway." },
+    { "c": "laud", "a": "to praise highly", "d": ["to scold sharply", "to question the honesty of", "to expose to public ridicule"], "ex": "Historians laud the treaty as a model of patient diplomacy." },
+    { "c": "eulogy", "a": "a speech praising someone, especially one who has died", "d": ["a mournful poem of lament", "a bitter public attack", "a formal statement of blame"], "ex": "Her granddaughter's eulogy had the whole church laughing and crying at once." },
+    { "c": "encomium", "a": "a formal expression of high praise", "d": ["a formal expression of blame", "a long, scolding speech", "a brief, witty saying"], "ex": "The retiring judge received encomiums from lawyers she had ruled against." },
+    { "c": "paean", "a": "a song or speech of joyful praise", "d": ["a lament for the dead", "an insulting nickname", "a formal apology"], "ex": "The documentary is a two-hour paean to the humble bicycle." },
+    { "c": "accolade", "a": "an award or expression of praise", "d": ["a mark of public disgrace", "a formal rebuke", "a petty objection"], "ex": "The cookbook won every accolade the industry offers." },
+    { "c": "plaudits", "a": "enthusiastic praise or approval", "d": ["harsh public criticism", "polite indifference", "mocking laughter"], "ex": "The rookie's defense earned plaudits even from the rival coach." },
+    { "c": "adulation", "a": "excessive admiration or flattery", "d": ["bitter resentment", "mild disapproval", "public disgrace"], "ex": "Young stars who live on adulation often struggle when it fades." },
+    { "c": "lionize", "a": "to treat as a celebrity", "d": ["to attack fiercely", "to expose to public scorn", "to treat with contempt"], "ex": "The town lionized the girl who found the lost hikers." },
+    { "c": "apotheosis", "a": "the highest point or perfect example of something", "d": ["the lowest point of a decline", "a formal statement of blame", "a sudden reversal of fortune"], "ex": "Fans call the album the apotheosis of 1970s soul." },
+    { "c": "approbation", "a": "approval or praise, especially official", "d": ["official punishment", "public disgrace", "formal withdrawal of a claim"], "ex": "The plan went ahead with the board's full approbation." },
+    { "c": "laudable", "a": "deserving praise", "d": ["deserving blame", "open to question", "easily ignored"], "ex": "Cutting waste is a laudable goal, but not by closing the library." },
+    { "c": "opprobrium", "a": "harsh public criticism and disgrace", "d": ["official approval", "lavish praise", "polite indifference"], "ex": "The company faced international opprobrium after the spill." },
+    { "c": "obloquy", "a": "harsh, abusive criticism; disgrace", "d": ["warm public praise", "a formal apology", "quiet approval"], "ex": "He endured years of obloquy before the records cleared his name." },
+    { "c": "castigate", "a": "to criticize or reprimand severely", "d": ["to praise in public", "to forgive completely", "to excuse from blame"], "ex": "The report castigated the agency for ignoring the warnings." },
+    { "c": "excoriate", "a": "to denounce very harshly", "d": ["to praise lavishly", "to pardon officially", "to tease good-naturedly"], "ex": "Critics excoriated the remake as a lazy cash grab." },
+    { "c": "upbraid", "a": "to scold or reproach sharply", "d": ["to praise warmly", "to treat as a celebrity", "to flatter for favor"], "ex": "The sergeant upbraided the recruit for losing his rifle." },
+    { "c": "admonish", "a": "to warn or reprove firmly but gently", "d": ["to praise extravagantly", "to punish with a fine", "to denounce furiously"], "ex": "The judge admonished the jurors not to read the news coverage." },
+    { "c": "vilify", "a": "to speak of as wicked; to defame", "d": ["to declare innocent", "to make legally valid", "to raise to high honor"], "ex": "Campaign ads vilified the senator as a friend of polluters." },
+    { "c": "disparage", "a": "to speak of as having little worth", "d": ["to praise as excellent", "to plead for mercy", "to treat as a celebrity"], "ex": "He disparaged the rival bakery's bread, then quietly bought a loaf." },
+    { "c": "denigrate", "a": "to belittle or criticize unfairly", "d": ["to honor with an award", "to ask persistently", "to defend in public"], "ex": "It is easy to denigrate early aviators whose planes kept crashing." },
+    { "c": "deprecate", "a": "to express disapproval of", "d": ["to lose value over time", "to praise enthusiastically", "to pardon fully"], "ex": "The editorial deprecated the use of tear gas on peaceful marchers." },
+    { "c": "aspersion", "a": "a damaging remark about someone's reputation", "d": ["a hope or ambition", "a formal tribute", "a polite request"], "ex": "I cast no aspersions on his honesty; I only question his math." },
+    { "c": "deride", "a": "to mock with contempt", "d": ["to praise warmly", "to apologize formally", "to explain in detail"], "ex": "Critics derided the invention as a toy; it sold ten million units." },
+    { "c": "pillory", "a": "to expose to public ridicule and scorn", "d": ["to honor in public", "to plunder or loot", "to pardon officially"], "ex": "The tabloids pilloried the minister over a single clumsy remark." },
+    { "c": "lambaste", "a": "to criticize harshly", "d": ["to praise lavishly", "to pardon fully", "to explain at length"], "ex": "Fans lambasted the team for trading away its best player." },
+    { "c": "impugn", "a": "to call into question the truth or honesty of", "d": ["to confirm as true", "to praise publicly", "to punish with a fine"], "ex": "The defense tried to impugn the witness's memory of the night." },
+    { "c": "decry", "a": "to denounce publicly", "d": ["to praise publicly", "to examine closely", "to announce happily"], "ex": "Teachers decried the cuts as a blow to every classroom." },
+    { "c": "vituperative", "a": "bitterly abusive in language", "d": ["warmly complimentary", "calm and measured", "vague and evasive"], "ex": "The comment section filled with vituperative posts within the hour." },
+    { "c": "ignominy", "a": "public shame and disgrace", "d": ["public honor and fame", "a lack of knowledge", "quiet contentment"], "ex": "The champion suffered the ignominy of losing in the first round." }
+  ],
+  "read": {
+    "title": "The Second Novel",
+    "text": [
+      "When Mara Quill's first novel appeared, the reviews read like encomiums. Critics extolled her ear for dialogue, a morning show lionized her as the voice of a generation, and plaudits followed her across a forty-city tour. One magazine called the book the apotheosis of the small-town novel.",
+      "Her second book met a colder world. A prominent critic published a vituperative review that went beyond the prose: he impugned her honesty, suggesting she had lifted whole scenes from an obscure older writer. Online, strangers pilloried her, and a few old admirers began to disparage the first book too, as if they had never praised it.",
+      "The charge turned out to be false. The older writer herself came forward to decry the accusation, and the critic, admonished by his editor, printed a correction. Quill never sought revenge. Asked years later about the ignominy of that season, she said only that adulation and opprobrium had taught her the same lesson: neither one had really been about her."
+    ],
+    "q": [
+      { "q": "When the critic \"impugned her honesty,\" he", "o": ["called it into question", "praised it", "ignored it", "proved it beyond doubt"], "k": 0 },
+      { "q": "\"The ignominy of that season\" refers to", "o": ["the honors she won on tour", "the public disgrace of the false charge", "her decision to stop writing", "the editor's correction"], "k": 1 },
+      { "q": "In Quill's last remark, adulation and opprobrium are", "o": ["excessive praise and harsh public blame", "two words for flattery", "two kinds of legal penalty", "two stages of drafting a novel"], "k": 0 }
+    ]
+  }
+}

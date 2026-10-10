@@ -1,0 +1,335 @@
+{
+  "title": "Church Latin: the Mass and the Vulgate",
+  "note": "Church Latin keeps classical grammar but adds Christian words, many from Greek and Hebrew: ecclesia, angelus, amen, alleluia. Its core texts are the Mass and the Vulgate, Jerome's Latin Bible (about AD 400). -cum attaches to pronouns: tecum, with you; vobiscum, with you all. Fiat means let it be done.",
+  "src": {
+    "t": "Biblia Sacra Vulgata (Stuttgart edition), Gospel of John 14",
+    "u": "https://www.die-bibel.de/en/bible/VUL/JHN.14"
+  },
+  "items": [
+    {
+      "c": "ecclesia (f)",
+      "a": "church",
+      "d": [
+        "school",
+        "temple"
+      ],
+      "ex": "Ecclesia est domus Dei.",
+      "exT": "The church is the house of God."
+    },
+    {
+      "c": "angelus (m)",
+      "a": "angel",
+      "d": [
+        "apostle",
+        "prophet"
+      ],
+      "ex": "Angelus Domini",
+      "exT": "the angel of the Lord"
+    },
+    {
+      "c": "Christus (m)",
+      "a": "Christ",
+      "d": [
+        "Christian",
+        "cross"
+      ]
+    },
+    {
+      "c": "peccatum (n)",
+      "a": "sin",
+      "d": [
+        "grace",
+        "prayer"
+      ]
+    },
+    {
+      "c": "oratio, orationis (f)",
+      "a": "prayer; speech",
+      "d": [
+        "sin; fault",
+        "grace; favor"
+      ]
+    },
+    {
+      "c": "misericordia (f)",
+      "a": "mercy",
+      "d": [
+        "misery",
+        "justice"
+      ]
+    },
+    {
+      "c": "salus, salutis (f)",
+      "a": "salvation; health, safety",
+      "d": [
+        "salt",
+        "sorrow"
+      ]
+    },
+    {
+      "c": "benedicere",
+      "a": "to bless",
+      "d": [
+        "to curse",
+        "to baptize"
+      ]
+    },
+    {
+      "c": "Spiritus Sanctus",
+      "a": "the Holy Spirit",
+      "d": [
+        "the holy saint",
+        "the holy church"
+      ]
+    },
+    {
+      "c": "Amen.",
+      "a": "Truly; so be it.",
+      "d": [
+        "Praise the Lord.",
+        "Hail."
+      ]
+    },
+    {
+      "c": "Alleluia",
+      "a": "praise the Lord",
+      "d": [
+        "so be it",
+        "peace be with you"
+      ]
+    },
+    {
+      "c": "mecum",
+      "a": "with me",
+      "d": [
+        "for me",
+        "to me"
+      ]
+    },
+    {
+      "c": "nobiscum",
+      "a": "with us",
+      "d": [
+        "for us",
+        "without us"
+      ]
+    },
+    {
+      "c": "Dominus vobiscum.",
+      "a": "The Lord be with you.",
+      "d": [
+        "The Lord is my light.",
+        "Peace be with you."
+      ]
+    },
+    {
+      "c": "Et cum spiritu tuo.",
+      "a": "And with your spirit.",
+      "d": [
+        "And with your people.",
+        "And also with the Lord."
+      ]
+    },
+    {
+      "c": "Pater noster, qui es in caelis",
+      "a": "Our Father, who art in heaven",
+      "d": [
+        "Our Father, who made heaven",
+        "Our Lord, who is in the church"
+      ]
+    },
+    {
+      "c": "Fiat voluntas tua.",
+      "a": "Thy will be done.",
+      "d": [
+        "Thy kingdom come.",
+        "Thy name is holy."
+      ]
+    },
+    {
+      "c": "Ave Maria, gratia plena",
+      "a": "Hail Mary, full of grace",
+      "d": [
+        "Hail Mary, mother of God",
+        "Hail Mary, thanks be to you"
+      ]
+    },
+    {
+      "c": "Agnus Dei",
+      "a": "Lamb of God",
+      "d": [
+        "Son of God",
+        "Angel of God"
+      ],
+      "ex": "Agnus Dei, qui tollis peccata mundi",
+      "exT": "Lamb of God, who take away the sins of the world"
+    },
+    {
+      "c": "Dona nobis pacem.",
+      "a": "Grant us peace.",
+      "d": [
+        "Peace be with you.",
+        "Give us bread."
+      ]
+    },
+    {
+      "c": "In nomine Patris",
+      "a": "In the name of the Father",
+      "d": [
+        "In the house of the Father",
+        "By the will of the Father"
+      ]
+    },
+    {
+      "c": "Credo in unum Deum",
+      "a": "I believe in one God",
+      "d": [
+        "I pray to one God",
+        "I love the one God"
+      ]
+    },
+    {
+      "c": "Sanctus, Sanctus, Sanctus",
+      "a": "Holy, holy, holy",
+      "d": [
+        "Glory, glory, glory",
+        "Lord, have mercy"
+      ]
+    },
+    {
+      "c": "Requiescat in pace.",
+      "a": "May he/she rest in peace.",
+      "d": [
+        "Go in peace.",
+        "He/she lives in peace."
+      ]
+    },
+    {
+      "c": "Deo gratias.",
+      "a": "Thanks be to God.",
+      "d": [
+        "Glory to God.",
+        "Grace from God."
+      ]
+    },
+    {
+      "c": "Ite, missa est.",
+      "a": "Go, the Mass is ended.",
+      "d": [
+        "Come, the Mass begins.",
+        "Pray, the Mass is said."
+      ]
+    },
+    {
+      "c": "mea culpa",
+      "a": "through my fault",
+      "d": [
+        "through your fault",
+        "with my blessing"
+      ]
+    },
+    {
+      "c": "Gloria in excelsis Deo",
+      "a": "Glory to God in the highest",
+      "d": [
+        "Glory to the Father and the Son",
+        "Holy is God in heaven"
+      ]
+    },
+    {
+      "c": "Te Deum laudamus",
+      "a": "We praise you, O God",
+      "d": [
+        "We bless you, O Lord",
+        "We believe in God"
+      ]
+    },
+    {
+      "c": "In principio erat Verbum",
+      "a": "In the beginning was the Word",
+      "d": [
+        "In the beginning God created",
+        "The Word became flesh"
+      ],
+      "ex": "In principio erat Verbum, et Verbum erat apud Deum.",
+      "exT": "In the beginning was the Word, and the Word was with God. (John 1:1)"
+    },
+    {
+      "c": "Fiat lux.",
+      "a": "Let there be light.",
+      "d": [
+        "God is light.",
+        "Light was made."
+      ],
+      "ex": "Dixitque Deus: Fiat lux. Et facta est lux.",
+      "exT": "And God said: Let there be light. And there was light. (Genesis 1:3)"
+    },
+    {
+      "c": "Ecce homo.",
+      "a": "Behold the man.",
+      "d": [
+        "Here I am.",
+        "This is my son."
+      ],
+      "ex": "Et dicit eis: Ecce homo.",
+      "exT": "And he said to them: Behold the man. (Pilate, John 19:5)"
+    },
+    {
+      "c": "Ego sum via et veritas et vita.",
+      "a": "I am the way, the truth, and the life.",
+      "d": [
+        "I am the light of the world.",
+        "I am the good shepherd."
+      ],
+      "ex": "Nemo venit ad Patrem nisi per me.",
+      "exT": "No one comes to the Father except through me. (John 14:6)"
+    },
+    {
+      "c": "Veritas liberabit vos.",
+      "a": "The truth will set you free.",
+      "d": [
+        "The truth is with you.",
+        "Freedom is the truth."
+      ],
+      "ex": "Et cognoscetis veritatem, et veritas liberabit vos.",
+      "exT": "And you will know the truth, and the truth will set you free. (John 8:32)"
+    }
+  ],
+  "read": {
+    "title": "Hieronymus",
+    "text": [
+      "Hieronymus erat vir sanctus et doctus. Linguam Latinam et linguam Graecam bene sciebat; postea in Syria linguam Hebraicam didicit.",
+      "Papa Damasus Hieronymum iussit Evangelia Latina emendare. Hieronymus diu laboravit. Postea in oppido Bethlehem multos annos vixit, et multos libros Bibliae ex lingua Hebraica in linguam Latinam vertit.",
+      "Nunc hanc Bibliam Vulgatam vocamus. Per multa saecula ecclesia verba Hieronymi legebat et cantabat."
+    ],
+    "q": [
+      {
+        "q": "Which languages did Jerome know?",
+        "o": [
+          "Latin and Syriac only",
+          "Latin, Greek and Hebrew",
+          "Greek and Egyptian"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Who told Jerome to correct the Latin Gospels?",
+        "o": [
+          "Pope Damasus",
+          "The emperor",
+          "His teacher"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Where did Jerome live for many years?",
+        "o": [
+          "In Rome",
+          "In Syria",
+          "In Bethlehem"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

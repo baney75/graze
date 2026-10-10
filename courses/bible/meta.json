@@ -1,0 +1,30 @@
+{
+  "key": "bible",
+  "name": "The Bible",
+  "group": "Reading",
+  "tag": "BIBLE",
+  "level": "All levels",
+  "blurb": "Find your way around the 66 books of the Christian Bible and know its main people, events, teachings and best-known passages, with readings quoted exactly from the King James Version.",
+  "sources": [
+    {
+      "t": "The King James Version of the Bible, Project Gutenberg eBook #10",
+      "u": "https://www.gutenberg.org/ebooks/10"
+    },
+    {
+      "t": "Biblical literature, Encyclopaedia Britannica",
+      "u": "https://www.britannica.com/topic/biblical-literature"
+    },
+    {
+      "t": "Saint Paul the Apostle, Encyclopaedia Britannica",
+      "u": "https://www.britannica.com/biography/Saint-Paul-the-Apostle"
+    },
+    {
+      "t": "Blue Letter Bible, King James Version (psalm headings)",
+      "u": "https://www.blueletterbible.org/kjv/psa/51/1/"
+    },
+    {
+      "t": "Bible Gateway, King James Version (reference checking)",
+      "u": "https://www.biblegateway.com/passage/?search=John%203%3A16&version=KJV"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "title": "Essential conversation sentences",
+  "note": "These set phrases keep a conversation going. To say how long something has been going on, Italian uses the present with da: Studio l'italiano da due anni, \"I've been studying Italian for two years.\" With strangers, switch to Lei forms: Può ripetere?",
+  "src": {
+    "t": "Voci, Unità 1: Benvenuti!",
+    "u": "https://human.libretexts.org/Bookshelves/Languages/Italian/Voci%3A_Corso_elementare_di_lingua_e_culture_italiane_I_(Bozzato_Benetollo_and_Mugnai)/01%3A_Unita_1/1.02%3A_Unita_1_-_Benvenut"
+  },
+  "items": [
+    {
+      "c": "Non capisco.",
+      "a": "I don't understand.",
+      "d": [
+        "I don't know.",
+        "I can't hear."
+      ]
+    },
+    {
+      "c": "Può ripetere, per favore?",
+      "a": "Could you repeat that, please? (formal)",
+      "d": [
+        "Could you write that, please?",
+        "Could you help me, please?"
+      ]
+    },
+    {
+      "c": "Parli inglese?",
+      "a": "Do you speak English?",
+      "d": [
+        "Are you English?",
+        "Do you study English?"
+      ]
+    },
+    {
+      "c": "Come si dice \"dog\" in italiano?",
+      "a": "How do you say \"dog\" in Italian?",
+      "d": [
+        "What does \"dog\" mean in Italian?",
+        "How do you spell \"dog\" in Italian?"
+      ]
+    },
+    {
+      "c": "Che cosa vuol dire?",
+      "a": "What does it mean?",
+      "d": [
+        "What do you want to do?",
+        "What did he say?"
+      ]
+    },
+    {
+      "c": "Più piano, per favore.",
+      "a": "Slower, please.",
+      "d": [
+        "Louder, please.",
+        "Again, please."
+      ]
+    },
+    {
+      "c": "Non lo so.",
+      "a": "I don't know.",
+      "d": [
+        "I don't understand.",
+        "I don't want it."
+      ]
+    },
+    {
+      "c": "Dov'è il bagno?",
+      "a": "Where is the bathroom?",
+      "d": [
+        "Where is the bedroom?",
+        "Is there a bathroom?"
+      ]
+    },
+    {
+      "c": "Aiuto!",
+      "a": "Help!",
+      "d": [
+        "Stop!",
+        "Watch out!"
+      ]
+    },
+    {
+      "c": "Attenzione!",
+      "a": "Watch out!",
+      "d": [
+        "Help!",
+        "Hurry up!"
+      ]
+    },
+    {
+      "c": "Mi sono perso.",
+      "a": "I'm lost (man speaking).",
+      "d": [
+        "I lost it.",
+        "I'm tired (man speaking)."
+      ]
+    },
+    {
+      "c": "Posso aiutarLa?",
+      "a": "May I help you? (formal)",
+      "d": [
+        "Can you help me? (formal)",
+        "May I call you? (formal)"
+      ]
+    },
+    {
+      "c": "Certo!",
+      "a": "Of course!",
+      "d": [
+        "Maybe!",
+        "Never!"
+      ]
+    },
+    {
+      "c": "D'accordo.",
+      "a": "Agreed; all right.",
+      "d": [
+        "Not at all.",
+        "Maybe later."
+      ]
+    },
+    {
+      "c": "Ho una domanda.",
+      "a": "I have a question.",
+      "d": [
+        "I have an answer.",
+        "I have a problem."
+      ]
+    },
+    {
+      "c": "Un momento, per favore.",
+      "a": "One moment, please.",
+      "d": [
+        "One more, please.",
+        "Once more, please."
+      ]
+    },
+    {
+      "c": "Non importa.",
+      "a": "It doesn't matter.",
+      "d": [
+        "It's not allowed.",
+        "It's not possible."
+      ]
+    },
+    {
+      "c": "Tutto bene?",
+      "a": "Is everything okay?",
+      "d": [
+        "Is that all?",
+        "Do you like everything?"
+      ]
+    },
+    {
+      "c": "Che succede?",
+      "a": "What's happening?",
+      "d": [
+        "What happened to you?",
+        "What's next?"
+      ]
+    },
+    {
+      "c": "Buona giornata!",
+      "a": "Have a nice day!",
+      "d": [
+        "Good night!",
+        "Happy birthday!"
+      ]
+    },
+    {
+      "c": "Buon viaggio!",
+      "a": "Have a good trip!",
+      "d": [
+        "Good luck!",
+        "Welcome back!"
+      ]
+    },
+    {
+      "c": "Buon compleanno!",
+      "a": "Happy birthday!",
+      "d": [
+        "Happy New Year!",
+        "Congratulations on your wedding!"
+      ]
+    },
+    {
+      "c": "In bocca al lupo!",
+      "a": "Good luck!",
+      "d": [
+        "Bon appétit!",
+        "Be careful!"
+      ],
+      "ex": "Domani hai l'esame? In bocca al lupo!",
+      "exT": "You have your exam tomorrow? Good luck!"
+    },
+    {
+      "c": "Ci vediamo dopo!",
+      "a": "See you later!",
+      "d": [
+        "See you tomorrow!",
+        "See you next week!"
+      ]
+    },
+    {
+      "c": "Da quanto tempo studi l'italiano?",
+      "a": "How long have you been studying Italian?",
+      "d": [
+        "When did you study Italian?",
+        "How often do you study Italian?"
+      ]
+    },
+    {
+      "c": "Studio l'italiano ___ due anni.",
+      "a": "da",
+      "d": [
+        "fa",
+        "di"
+      ]
+    },
+    {
+      "c": "Abito a Roma ___ 2020.",
+      "a": "dal",
+      "d": [
+        "nel",
+        "per"
+      ]
+    },
+    {
+      "c": "Scusi, ___ dov'è la stazione? (Lei, sapere)",
+      "a": "sa",
+      "d": [
+        "sai",
+        "so"
+      ]
+    },
+    {
+      "c": "___ ripetere, per favore? (tu, potere)",
+      "a": "Puoi",
+      "d": [
+        "Può",
+        "Posso"
+      ]
+    },
+    {
+      "c": "Mi ___ aiutare? (Lei, potere)",
+      "a": "può",
+      "d": [
+        "puoi",
+        "posso"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Alla stazione",
+    "text": [
+      "— Scusi, sa dov'è il binario cinque?",
+      "— Certo! Vada sempre dritto, poi giri a destra. È vicino al bar.",
+      "— Grazie. E sa a che ora parte il treno per Firenze?",
+      "— Alle dieci e un quarto, ma oggi è in ritardo di venti minuti.",
+      "— Che peccato! Un'ultima domanda: dov'è il bagno?",
+      "— È lì, accanto alla biglietteria. Buon viaggio!",
+      "— Grazie mille, buona giornata!"
+    ],
+    "q": [
+      {
+        "q": "Where is platform five?",
+        "o": [
+          "Straight ahead, then left, near the café",
+          "Straight ahead, then right, near the café",
+          "Next to the ticket office"
+        ],
+        "k": 1
+      },
+      {
+        "q": "When will the train to Florence actually leave?",
+        "o": [
+          "At 10:15",
+          "At 10:35",
+          "At 10:20",
+          "At 10:45"
+        ],
+        "k": 1
+      },
+      {
+        "q": "Where is the bathroom?",
+        "o": [
+          "Near the café",
+          "On platform five",
+          "Next to the ticket office"
+        ],
+        "k": 2
+      }
+    ]
+  }
+}

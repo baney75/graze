@@ -1,0 +1,28 @@
+{
+  "title": "East and Southeast Asia on the map",
+  "kind": "map",
+  "set": "world",
+  "note": "China and Mongolia hold the mainland north, with the Korean Peninsula and Japan to the east. Southeast Asia splits into a mainland block (Myanmar to Vietnam) and an island arc from Indonesia and Malaysia to the Philippines and Timor-Leste.",
+  "src": {
+    "t": "Natural Earth 1:50m boundaries via world-atlas",
+    "u": "https://github.com/topojson/world-atlas"
+  },
+  "items": [
+    { "p": "CN", "a": "China", "d": ["Mongolia", "Myanmar", "North Korea"] },
+    { "p": "MN", "a": "Mongolia", "d": ["China", "North Korea", "South Korea"] },
+    { "p": "KP", "a": "North Korea", "d": ["South Korea", "Japan", "China"] },
+    { "p": "KR", "a": "South Korea", "d": ["North Korea", "Japan", "China"] },
+    { "p": "JP", "a": "Japan", "d": ["South Korea", "North Korea", "Philippines"] },
+    { "p": "VN", "a": "Vietnam", "d": ["Laos", "Cambodia", "Thailand"] },
+    { "p": "LA", "a": "Laos", "d": ["Vietnam", "Thailand", "Myanmar"] },
+    { "p": "KH", "a": "Cambodia", "d": ["Thailand", "Vietnam", "Laos"] },
+    { "p": "TH", "a": "Thailand", "d": ["Cambodia", "Vietnam", "Laos"] },
+    { "p": "MM", "a": "Myanmar", "d": ["Laos", "Thailand", "Vietnam"] },
+    { "p": "MY", "a": "Malaysia", "d": ["Brunei", "Singapore", "Indonesia"] },
+    { "p": "SG", "a": "Singapore", "d": ["Malaysia", "Brunei", "Cambodia"] },
+    { "p": "BN", "a": "Brunei", "d": ["Malaysia", "Indonesia", "Singapore"] },
+    { "p": "ID", "a": "Indonesia", "d": ["Brunei", "Timor-Leste", "Malaysia"] },
+    { "p": "TL", "a": "Timor-Leste", "d": ["Indonesia", "Brunei", "Malaysia"] },
+    { "p": "PH", "a": "Philippines", "d": ["Brunei", "Malaysia", "Cambodia"] }
+  ]
+}

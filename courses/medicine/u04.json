@@ -1,0 +1,327 @@
+{
+ "title": "Microbiology: bacteria, viruses, fungi and parasites",
+ "note": "Bacteria are prokaryotes with 70S ribosomes and, in most, a peptidoglycan wall; the Gram stain sorts them by that wall. Viruses are acellular and replicate only inside host cells. Fungi and parasites are eukaryotes, so they share more machinery with human cells, which makes them harder to target.",
+ "src": {
+  "t": "OpenStax Microbiology, 2.4 Staining Microscopic Specimens",
+  "u": "https://openstax.org/books/microbiology/pages/2-4-staining-microscopic-specimens"
+ },
+ "items": [
+  {
+   "c": "Prokaryotic cells lack",
+   "a": "A nucleus and membrane-bound organelles",
+   "d": [
+    "Ribosomes and DNA",
+    "A plasma membrane"
+   ]
+  },
+  {
+   "c": "Bacterial ribosome size",
+   "a": "70S, built from 30S and 50S subunits",
+   "d": [
+    "80S, built from 40S and 60S subunits",
+    "60S, built from 20S and 40S subunits"
+   ]
+  },
+  {
+   "c": "Human cytoplasmic ribosome size",
+   "a": "80S, built from 40S and 60S subunits",
+   "d": [
+    "70S, built from 30S and 50S subunits",
+    "90S, built from 50S and 70S subunits"
+   ]
+  },
+  {
+   "c": "Peptidoglycan",
+   "a": "Sugar-and-peptide mesh forming the bacterial wall",
+   "d": [
+    "Sterol that stiffens fungal membranes",
+    "Protein shell around a viral genome"
+   ]
+  },
+  {
+   "c": "Coccus",
+   "a": "A spherical bacterium",
+   "d": [
+    "A rod-shaped bacterium",
+    "A spiral-shaped bacterium"
+   ]
+  },
+  {
+   "c": "Bacillus (cell shape)",
+   "a": "A rod-shaped bacterium",
+   "d": [
+    "A spherical bacterium",
+    "A comma-shaped bacterium"
+   ]
+  },
+  {
+   "c": "Gram stain primary stain",
+   "a": "Crystal violet",
+   "d": [
+    "Safranin",
+    "Methylene blue"
+   ]
+  },
+  {
+   "c": "Gram stain mordant",
+   "a": "Gram's iodine",
+   "d": [
+    "Crystal violet",
+    "Acid-alcohol"
+   ]
+  },
+  {
+   "c": "Gram stain decolorizer",
+   "a": "Ethanol or acetone-ethanol",
+   "d": [
+    "Gram's iodine",
+    "Safranin"
+   ]
+  },
+  {
+   "c": "Gram stain counterstain",
+   "a": "Safranin",
+   "d": [
+    "Crystal violet",
+    "Carbolfuchsin"
+   ]
+  },
+  {
+   "c": "Color of gram-positive cells after Gram staining",
+   "a": "Purple",
+   "d": [
+    "Pink to red",
+    "Green"
+   ]
+  },
+  {
+   "c": "Color of gram-negative cells after Gram staining",
+   "a": "Pink to red",
+   "d": [
+    "Purple",
+    "Blue-black"
+   ]
+  },
+  {
+   "c": "Why gram-positive cells keep the crystal violet",
+   "a": "Their thick peptidoglycan traps the dye–iodine complex",
+   "d": [
+    "Their outer membrane repels alcohol",
+    "Their mycolic acid binds safranin"
+   ]
+  },
+  {
+   "c": "Gram-negative wall structure absent in gram-positives",
+   "a": "An outer membrane containing LPS",
+   "d": [
+    "A thick peptidoglycan layer",
+    "Teichoic acids"
+   ]
+  },
+  {
+   "c": "Endotoxin of gram-negative bacteria",
+   "a": "Lipopolysaccharide (LPS)",
+   "d": [
+    "Teichoic acid",
+    "Peptidoglycan"
+   ]
+  },
+  {
+   "c": "Acid-fast stain detects",
+   "a": "Waxy mycolic acid walls, as in Mycobacterium",
+   "d": [
+    "Thick peptidoglycan walls, as in Staphylococcus",
+    "Capsules of polysaccharide"
+   ]
+  },
+  {
+   "c": "Endospore",
+   "a": "Dormant, highly resistant bacterial structure",
+   "d": [
+    "Reproductive bud of a yeast cell",
+    "Protein coat of a virus"
+   ]
+  },
+  {
+   "c": "Virus",
+   "a": "Acellular particle that replicates only inside host cells",
+   "d": [
+    "The smallest free-living cell",
+    "An infectious misfolded protein"
+   ]
+  },
+  {
+   "c": "Capsid",
+   "a": "Protein shell enclosing a viral genome",
+   "d": [
+    "Lipid membrane taken from a host cell",
+    "Rigid wall of a bacterial cell"
+   ]
+  },
+  {
+   "c": "Viral envelope",
+   "a": "Lipid membrane acquired from a host cell",
+   "d": [
+    "Protein shell built from capsomeres",
+    "Peptidoglycan coat of a bacterium"
+   ]
+  },
+  {
+   "c": "Why antibiotics do not cure viral infections",
+   "a": "Viruses lack bacterial targets like walls and 70S ribosomes",
+   "d": [
+    "Viruses are too large for antibiotics to enter",
+    "Viruses are killed by the immune system instantly"
+   ]
+  },
+  {
+   "c": "Prion",
+   "a": "An infectious misfolded protein",
+   "d": [
+    "A virus with an RNA genome",
+    "A bacterium without a cell wall"
+   ]
+  },
+  {
+   "c": "Main structural polysaccharide of fungal cell walls",
+   "a": "Chitin",
+   "d": [
+    "Peptidoglycan",
+    "Cellulose"
+   ]
+  },
+  {
+   "c": "Sterol in fungal cell membranes",
+   "a": "Ergosterol",
+   "d": [
+    "Cholesterol"
+   ]
+  },
+  {
+   "c": "Yeast",
+   "a": "A single-celled fungus",
+   "d": [
+    "A single-celled protozoan",
+    "A wall-less bacterium"
+   ]
+  },
+  {
+   "c": "Protozoa",
+   "a": "Single-celled eukaryotic microbes, some parasitic",
+   "d": [
+    "Multicellular parasitic worms",
+    "Prokaryotes without peptidoglycan"
+   ]
+  },
+  {
+   "c": "Helminths",
+   "a": "Parasitic worms",
+   "d": [
+    "Single-celled parasites",
+    "Filamentous fungi"
+   ]
+  },
+  {
+   "c": "Koch's postulates were designed to link",
+   "a": "A specific microbe to a specific disease",
+   "d": [
+    "A specific gene to a specific trait",
+    "A specific drug to a specific side effect"
+   ]
+  },
+  {
+   "c": "Koch: the suspected pathogen must be grown in",
+   "a": "Pure culture",
+   "d": [
+    "Mixed culture with other microbes",
+    "Human tissue only"
+   ]
+  },
+  {
+   "c": "Final Koch's postulate",
+   "a": "Re-isolate the same microbe from the newly infected host",
+   "d": [
+    "Find the microbe in healthy people",
+    "Show the microbe is killed by antibiotics"
+   ]
+  },
+  {
+   "c": "Molecular Koch's postulates focus on",
+   "a": "Genes linked to pathogenicity",
+   "d": [
+    "Whole organisms grown in culture",
+    "Antibody levels in patients"
+   ]
+  },
+  {
+   "c": "Virulence",
+   "a": "Degree to which a microbe can cause disease",
+   "d": [
+    "Speed at which a microbe divides",
+    "Number of hosts a microbe can infect"
+   ]
+  },
+  {
+   "c": "Opportunistic pathogen",
+   "a": "Causes disease only when host defenses are weakened",
+   "d": [
+    "Causes disease in any host regardless of defenses",
+    "Never causes disease in humans"
+   ]
+  },
+  {
+   "c": "ID50",
+   "a": "Dose of a microbe that infects 50% of exposed hosts",
+   "d": [
+    "Dose of a microbe that kills 50% of exposed hosts",
+    "Days until 50% of hosts recover"
+   ]
+  },
+  {
+   "c": "Zoonotic disease",
+   "a": "Infection transmitted from animals to humans",
+   "d": [
+    "Infection acquired in a hospital",
+    "Infection passed from mother to fetus"
+   ]
+  }
+ ],
+ "read": {
+  "title": "What the Gram stain reveals",
+  "text": [
+   "The Gram stain, developed in the 1880s, is still one of the first tests run on a bacterial sample, because it sorts most bacteria into two groups in minutes. A heat-fixed smear is flooded with crystal violet, which turns every cell purple. Gram's iodine is added next as a mordant; it forms a large complex with the dye.",
+   "The key step is decolorizing with alcohol or an acetone-alcohol mix. Gram-positive bacteria have a thick wall of peptidoglycan that traps the dye complex, so they stay purple. Gram-negative bacteria have only a thin peptidoglycan layer beneath an outer membrane, and the alcohol washes the dye out. A final counterstain, safranin, colors these decolorized cells pink or red.",
+   "The result matters clinically. The gram-negative outer membrane contains lipopolysaccharide, an endotoxin that can trigger fever and inflammation, and it acts as a barrier that keeps some drugs out. The thick gram-positive wall, by contrast, is exposed and is a direct target for drugs that block wall synthesis. A quick stain therefore narrows the list of likely organisms and helps guide early treatment while slower tests are pending."
+  ],
+  "q": [
+   {
+    "q": "At which step do gram-negative cells lose the purple dye?",
+    "o": [
+     "Crystal violet",
+     "Iodine",
+     "Alcohol decolorizer",
+     "Safranin"
+    ],
+    "k": 2
+   },
+   {
+    "q": "Gram-positive cells stay purple because they have",
+    "o": [
+     "An outer membrane full of LPS",
+     "A thick peptidoglycan wall",
+     "No cell wall at all"
+    ],
+    "k": 1
+   },
+   {
+    "q": "Which feature of gram-negative bacteria can trigger fever?",
+    "o": [
+     "Lipopolysaccharide in the outer membrane",
+     "Teichoic acid in a thick wall",
+     "Crystal violet left in the cell"
+    ],
+    "k": 0
+   }
+  ]
+ }
+}

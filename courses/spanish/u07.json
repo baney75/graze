@@ -1,0 +1,316 @@
+{
+  "title": "Colors, describing things, and adjective agreement",
+  "note": "Adjectives usually follow the noun and agree with it in gender and number: el libro rojo, las casas rojas. Most adjectives ending in -e or a consonant change only for number: verde, verdes; azul, azules. Bueno and malo drop the -o before a masculine singular noun: un buen día.",
+  "src": {
+    "t": "Spanish 1A: Beginning Spanish (LibreTexts)",
+    "u": "https://human.libretexts.org/Courses/Chabot_College/Spanish_1A%3A_Beginning_Spanish_(2026)"
+  },
+  "items": [
+    {
+      "c": "rojo",
+      "a": "red",
+      "d": [
+        "pink",
+        "orange"
+      ],
+      "ex": "Tengo un libro rojo.",
+      "exT": "I have a red book."
+    },
+    {
+      "c": "azul",
+      "a": "blue",
+      "d": [
+        "green",
+        "gray"
+      ],
+      "ex": "El cielo es azul.",
+      "exT": "The sky is blue."
+    },
+    {
+      "c": "verde",
+      "a": "green",
+      "d": [
+        "blue",
+        "yellow"
+      ],
+      "ex": "Me gusta el coche verde.",
+      "exT": "I like the green car."
+    },
+    {
+      "c": "amarillo",
+      "a": "yellow",
+      "d": [
+        "orange",
+        "white"
+      ]
+    },
+    {
+      "c": "negro",
+      "a": "black",
+      "d": [
+        "brown",
+        "gray"
+      ]
+    },
+    {
+      "c": "blanco",
+      "a": "white",
+      "d": [
+        "black",
+        "gray"
+      ],
+      "ex": "La casa es blanca.",
+      "exT": "The house is white."
+    },
+    {
+      "c": "gris",
+      "a": "gray",
+      "d": [
+        "white",
+        "brown"
+      ]
+    },
+    {
+      "c": "marrón",
+      "a": "brown",
+      "d": [
+        "black",
+        "purple"
+      ]
+    },
+    {
+      "c": "anaranjado",
+      "a": "orange (color)",
+      "d": [
+        "yellow",
+        "red"
+      ]
+    },
+    {
+      "c": "rosa",
+      "a": "pink",
+      "d": [
+        "red",
+        "purple"
+      ]
+    },
+    {
+      "c": "morado",
+      "a": "purple",
+      "d": [
+        "pink",
+        "brown"
+      ]
+    },
+    {
+      "c": "el color",
+      "a": "the color",
+      "d": [
+        "the shape",
+        "the size"
+      ],
+      "ex": "¿De qué color es tu coche?",
+      "exT": "What color is your car?"
+    },
+    {
+      "c": "grande",
+      "a": "big",
+      "d": [
+        "small",
+        "tall"
+      ],
+      "ex": "Vivo en una casa grande.",
+      "exT": "I live in a big house."
+    },
+    {
+      "c": "pequeño",
+      "a": "small",
+      "d": [
+        "big",
+        "thin"
+      ],
+      "ex": "Mi perro es pequeño.",
+      "exT": "My dog is small."
+    },
+    {
+      "c": "alto",
+      "a": "tall",
+      "d": [
+        "short (in height)",
+        "big"
+      ],
+      "ex": "Mi hermano es muy alto.",
+      "exT": "My brother is very tall."
+    },
+    {
+      "c": "bajo",
+      "a": "short (in height)",
+      "d": [
+        "tall",
+        "short (in length)"
+      ]
+    },
+    {
+      "c": "largo",
+      "a": "long",
+      "d": [
+        "large",
+        "wide"
+      ]
+    },
+    {
+      "c": "corto",
+      "a": "short (in length)",
+      "d": [
+        "long",
+        "short (in height)"
+      ]
+    },
+    {
+      "c": "nuevo",
+      "a": "new",
+      "d": [
+        "old",
+        "young"
+      ],
+      "ex": "Tengo un teléfono nuevo.",
+      "exT": "I have a new phone."
+    },
+    {
+      "c": "viejo",
+      "a": "old",
+      "d": [
+        "new",
+        "young"
+      ],
+      "ex": "El coche es muy viejo.",
+      "exT": "The car is very old."
+    },
+    {
+      "c": "joven",
+      "a": "young",
+      "d": [
+        "old",
+        "new"
+      ]
+    },
+    {
+      "c": "bonito",
+      "a": "pretty, nice-looking",
+      "d": [
+        "ugly",
+        "funny"
+      ]
+    },
+    {
+      "c": "feo",
+      "a": "ugly",
+      "d": [
+        "pretty",
+        "boring"
+      ]
+    },
+    {
+      "c": "bueno",
+      "a": "good",
+      "d": [
+        "bad",
+        "pretty"
+      ]
+    },
+    {
+      "c": "malo",
+      "a": "bad",
+      "d": [
+        "good",
+        "sad"
+      ]
+    },
+    {
+      "c": "simpático",
+      "a": "nice, friendly",
+      "d": [
+        "unfriendly",
+        "shy"
+      ],
+      "ex": "Mi profesora es muy simpática.",
+      "exT": "My teacher is very nice."
+    },
+    {
+      "c": "inteligente",
+      "a": "intelligent",
+      "d": [
+        "lazy",
+        "boring"
+      ]
+    },
+    {
+      "c": "rubio",
+      "a": "blond",
+      "d": [
+        "dark-haired",
+        "red-haired"
+      ]
+    },
+    {
+      "c": "moreno",
+      "a": "dark-haired, brunette",
+      "d": [
+        "blond",
+        "red-haired"
+      ]
+    },
+    {
+      "c": "muy",
+      "a": "very",
+      "d": [
+        "more",
+        "too much"
+      ]
+    },
+    {
+      "c": "Las casas son ___. (blanco)",
+      "a": "blancas",
+      "d": [
+        "blanca",
+        "blancos"
+      ],
+      "ex": "Las casas son blancas.",
+      "exT": "The houses are white."
+    },
+    {
+      "c": "Tengo dos gatos ___. (negro)",
+      "a": "negros",
+      "d": [
+        "negras",
+        "negro"
+      ]
+    },
+    {
+      "c": "Las flores son ___. (azul)",
+      "a": "azules",
+      "d": [
+        "azulas",
+        "azul"
+      ]
+    },
+    {
+      "c": "Es una ___ idea. (bueno)",
+      "a": "buena",
+      "d": [
+        "buen",
+        "bueno"
+      ]
+    },
+    {
+      "c": "Hoy es un ___ día. (bueno)",
+      "a": "buen",
+      "d": [
+        "bueno",
+        "buena"
+      ],
+      "ex": "Hoy es un buen día.",
+      "exT": "Today is a good day."
+    }
+  ]
+}

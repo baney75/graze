@@ -1,0 +1,314 @@
+{
+  "title": "Manufacturing",
+  "note": "Processes remove material (machining), shape it (casting, forging, molding, extrusion), join it (welding, fastening), or add it layer by layer (3D printing). Tolerances state how far a dimension may vary while the part still works; tighter tolerances cost more.",
+  "src": {
+    "t": "Design and Manufacturing II (2.008), MIT OpenCourseWare",
+    "u": "https://ocw.mit.edu/courses/2-008-design-and-manufacturing-ii-spring-2004/"
+  },
+  "items": [
+    {
+      "c": "Subtractive manufacturing",
+      "a": "making parts by removing material, as in machining",
+      "d": [
+        "building parts layer by layer",
+        "pouring molten metal into a mold"
+      ]
+    },
+    {
+      "c": "Additive manufacturing",
+      "a": "building parts layer by layer from a digital model",
+      "d": [
+        "cutting material away from a solid block",
+        "squeezing metal between dies"
+      ]
+    },
+    {
+      "c": "Turning on a lathe",
+      "a": "a spinning workpiece shaped by a stationary cutting tool",
+      "d": [
+        "a spinning cutter moving over a fixed workpiece",
+        "molten metal poured into a spinning mold"
+      ]
+    },
+    {
+      "c": "Milling",
+      "a": "a rotating multi-edge cutter removing material from a workpiece",
+      "d": [
+        "a spinning workpiece shaped by a fixed tool",
+        "pushing material through a shaped die"
+      ]
+    },
+    {
+      "c": "CNC",
+      "a": "computer numerical control",
+      "d": [
+        "central network cutting",
+        "controlled nominal casting"
+      ]
+    },
+    {
+      "c": "Casting",
+      "a": "pouring molten material into a mold to solidify",
+      "d": [
+        "hammering hot metal into shape",
+        "cutting a part from solid stock"
+      ]
+    },
+    {
+      "c": "Key strength of sand casting",
+      "a": "cheap molds for large, complex metal parts",
+      "d": [
+        "the finest surface finish of any casting",
+        "fast molding of small plastic parts"
+      ]
+    },
+    {
+      "c": "Die casting",
+      "a": "forcing molten metal into a reusable steel mold under pressure",
+      "d": [
+        "pouring metal into a one-use sand mold",
+        "melting powder with a laser"
+      ]
+    },
+    {
+      "c": "Investment (lost-wax) casting",
+      "a": "a wax pattern coated in ceramic, melted out, then filled with metal",
+      "d": [
+        "metal pressed into a steel die",
+        "plastic forced through a heated nozzle"
+      ]
+    },
+    {
+      "c": "Casting defect caused by trapped gas",
+      "a": "porosity",
+      "d": [
+        "necking",
+        "delamination",
+        "springback"
+      ]
+    },
+    {
+      "c": "Forging",
+      "a": "shaping metal with compressive force, such as hammering",
+      "d": [
+        "pouring molten metal into a mold",
+        "joining metals by melting"
+      ]
+    },
+    {
+      "c": "Compared with cast parts, forged parts are usually",
+      "a": "stronger and tougher, with refined grain flow",
+      "d": [
+        "weaker but cheaper",
+        "more porous inside"
+      ]
+    },
+    {
+      "c": "Extrusion",
+      "a": "pushing material through a shaped die to make a constant profile",
+      "d": [
+        "pressing sheet into a curved shape",
+        "spinning a part against a cutting tool"
+      ]
+    },
+    {
+      "c": "Injection molding",
+      "a": "forcing molten plastic into a closed mold",
+      "d": [
+        "curing liquid resin with light",
+        "pressing powder and sintering it"
+      ]
+    },
+    {
+      "c": "Injection molding is most economical for",
+      "a": "high-volume plastic parts",
+      "d": [
+        "one-off prototypes",
+        "very large metal castings"
+      ]
+    },
+    {
+      "c": "Welding",
+      "a": "joining metals by melting them together at the joint",
+      "d": [
+        "joining parts with bolts and nuts",
+        "gluing parts with epoxy"
+      ]
+    },
+    {
+      "c": "Heat-affected zone (HAZ)",
+      "a": "metal beside a weld whose properties the heat has changed",
+      "d": [
+        "the filler metal added to a weld",
+        "the area protected by shielding gas"
+      ]
+    },
+    {
+      "c": "FDM (fused deposition modeling)",
+      "a": "extruding melted thermoplastic filament layer by layer",
+      "d": [
+        "curing liquid resin with UV light",
+        "fusing powder with a laser"
+      ]
+    },
+    {
+      "c": "SLA (stereolithography)",
+      "a": "curing liquid photopolymer resin with UV light",
+      "d": [
+        "extruding melted filament",
+        "fusing polymer powder with a laser"
+      ]
+    },
+    {
+      "c": "SLS (selective laser sintering)",
+      "a": "fusing polymer powder with a laser",
+      "d": [
+        "curing liquid resin with UV light",
+        "extruding melted filament"
+      ]
+    },
+    {
+      "c": "Polymer 3D printing that needs no supports",
+      "a": "SLS, because unfused powder holds the part",
+      "d": [
+        "FDM, because filament is self-supporting",
+        "SLA, because resin is very light"
+      ]
+    },
+    {
+      "c": "Common FDM filament materials",
+      "a": "PLA, ABS, and PETG",
+      "d": [
+        "photopolymer resins",
+        "alumina and zirconia powders"
+      ]
+    },
+    {
+      "c": "Typical weakness of FDM parts",
+      "a": "lower strength between layers than along them",
+      "d": [
+        "they cannot be made from plastic",
+        "they are always heavier than metal"
+      ]
+    },
+    {
+      "c": "Finest surface finish of FDM, SLA, and SLS",
+      "a": "SLA",
+      "d": [
+        "FDM",
+        "SLS"
+      ]
+    },
+    {
+      "c": "Smaller layer height in 3D printing trades",
+      "a": "smoother surfaces for longer print time",
+      "d": [
+        "higher strength for less material",
+        "faster prints for rougher surfaces"
+      ]
+    },
+    {
+      "c": "Tolerance",
+      "a": "the allowed variation in a dimension",
+      "d": [
+        "the exact size printed on a drawing",
+        "the hardness of a material"
+      ]
+    },
+    {
+      "c": "A dimension of 20.00 ± 0.05 mm allows",
+      "a": "19.95 to 20.05 mm",
+      "d": [
+        "19.50 to 20.50 mm",
+        "20.00 to 20.05 mm",
+        "19.95 to 20.00 mm"
+      ]
+    },
+    {
+      "c": "Clearance fit",
+      "a": "the shaft is always smaller than the hole, so it slides",
+      "d": [
+        "the shaft is larger than the hole",
+        "the shaft and hole are exactly equal"
+      ]
+    },
+    {
+      "c": "Interference (press) fit",
+      "a": "the shaft is larger than the hole and must be forced in",
+      "d": [
+        "the shaft is always smaller than the hole",
+        "the shaft is glued into a loose hole"
+      ]
+    },
+    {
+      "c": "Why not specify tight tolerances on every dimension",
+      "a": "cost rises steeply as tolerances tighten",
+      "d": [
+        "tight tolerances make parts weaker",
+        "machines cannot hold any tolerance"
+      ]
+    },
+    {
+      "c": "GD&T",
+      "a": "geometric dimensioning and tolerancing",
+      "d": [
+        "general design and testing",
+        "gauge depth and thickness"
+      ]
+    },
+    {
+      "c": "Interchangeable parts",
+      "a": "parts made to tolerance so any one fits any assembly",
+      "d": [
+        "parts hand-fitted to one machine",
+        "parts that can be used in any product"
+      ]
+    },
+    {
+      "c": "Surface roughness Ra",
+      "a": "average deviation of a surface profile from its mean line",
+      "d": [
+        "the hardness of a surface",
+        "the flatness of a whole plate"
+      ]
+    }
+  ],
+  "read": {
+    "title": "Choosing how to make it",
+    "text": [
+      "A design is not finished until someone can make it. Manufacturing processes fall into a few families. Subtractive processes such as turning, milling, and drilling cut material away from solid stock; a CNC machine runs them from a digital program. Forming processes shape material without removing it: casting pours liquid metal into a mold, forging hammers or presses hot metal, extrusion pushes it through a die, and injection molding forces molten plastic into a steel mold.",
+      "Choice depends on volume, material, and geometry. Injection molding needs an expensive mold but makes each extra part for pennies, so it suits millions of identical parts. Machining needs no special tooling, so it suits a handful.",
+      "Additive manufacturing builds parts layer by layer. FDM extrudes plastic filament and is cheap but leaves visible layers and weaker bonds between them. SLA cures liquid resin with ultraviolet light for fine detail. SLS fuses nylon powder with a laser, and the loose powder supports overhangs.",
+      "Whatever the process, no part comes out exactly to size. Engineers specify tolerances so parts still fit and work, and they loosen tolerances wherever they can, because precision costs money."
+    ],
+    "q": [
+      {
+        "q": "Why does injection molding suit very high volumes?",
+        "o": [
+          "The mold is expensive but each extra part is cheap",
+          "It needs no tooling at all",
+          "It only works with metals"
+        ],
+        "k": 0
+      },
+      {
+        "q": "Which process supports overhangs with loose powder?",
+        "o": [
+          "FDM",
+          "SLA",
+          "SLS"
+        ],
+        "k": 2
+      },
+      {
+        "q": "Why do engineers loosen tolerances where they can?",
+        "o": [
+          "Loose tolerances make parts stronger",
+          "Precision costs money",
+          "Tolerances are required to be loose by law"
+        ],
+        "k": 1
+      }
+    ]
+  }
+}

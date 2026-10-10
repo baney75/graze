@@ -1,0 +1,13 @@
+{
+  "key": "physics",
+  "name": "Physics",
+  "group": "Sciences",
+  "tag": "PHYS",
+  "level": "Intro college",
+  "blurb": "Algebra-based introductory physics with conceptual depth: motion, forces, energy, fluids, heat, waves, electricity, magnetism, optics, and modern physics. Recall the key formulas, SI units, and typical values, and predict what happens before you calculate.",
+  "sources": [
+    { "t": "College Physics 2e, OpenStax", "u": "https://openstax.org/details/books/college-physics-2e" },
+    { "t": "University Physics Volume 1, OpenStax", "u": "https://openstax.org/details/books/university-physics-volume-1" },
+    { "t": "Physics LibreTexts", "u": "https://phys.libretexts.org/" }
+  ]
+}

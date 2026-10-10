@@ -1,0 +1,325 @@
+{
+  "title": "People, countries and です",
+  "note": "X は Y です means \"X is Y\"; は (read wa) marks the topic. The negative is じゃありません (more formal: ではありません). Put か at the end to ask a question. の links nouns: 私の名前 \"my name\". も replaces は to mean \"also\". Japanese often drops 私 and あなた when the meaning is clear.",
+  "src": {
+    "t": "Tae Kim's Guide: Introduction to Particles (は, も, が)",
+    "u": "https://guidetojapanese.org/learn/grammar/particlesintro"
+  },
+  "items": [
+    {
+      "c": "私",
+      "r": "watashi",
+      "a": "I, me",
+      "d": [
+        "you",
+        "he"
+      ],
+      "ex": "(わたし) 私はマリアです。",
+      "exT": "I'm Maria."
+    },
+    {
+      "c": "あなた",
+      "r": "anata",
+      "a": "you",
+      "d": [
+        "I, me",
+        "they"
+      ]
+    },
+    {
+      "c": "彼",
+      "r": "kare",
+      "a": "he; boyfriend",
+      "d": [
+        "she; girlfriend",
+        "you; your partner"
+      ]
+    },
+    {
+      "c": "彼女",
+      "r": "kanojo",
+      "a": "she; girlfriend",
+      "d": [
+        "he; boyfriend",
+        "they; friends"
+      ]
+    },
+    {
+      "c": "人",
+      "r": "hito",
+      "a": "person",
+      "d": [
+        "name",
+        "country"
+      ],
+      "ex": "(ひと) あの人はだれですか。",
+      "exT": "Who is that person?"
+    },
+    {
+      "c": "男の人",
+      "r": "otoko no hito",
+      "a": "man",
+      "d": [
+        "woman",
+        "child"
+      ]
+    },
+    {
+      "c": "女の人",
+      "r": "onna no hito",
+      "a": "woman",
+      "d": [
+        "man",
+        "student"
+      ]
+    },
+    {
+      "c": "子ども",
+      "r": "kodomo",
+      "a": "child",
+      "d": [
+        "adult",
+        "friend"
+      ]
+    },
+    {
+      "c": "友だち",
+      "r": "tomodachi",
+      "a": "friend",
+      "d": [
+        "teacher",
+        "family"
+      ],
+      "ex": "(ともだち) リーさんは私の友だちです。",
+      "exT": "Lee is my friend."
+    },
+    {
+      "c": "学生",
+      "r": "gakusei",
+      "a": "student",
+      "d": [
+        "teacher",
+        "doctor"
+      ]
+    },
+    {
+      "c": "大学生",
+      "r": "daigakusei",
+      "a": "university student",
+      "d": [
+        "high school student",
+        "professor"
+      ]
+    },
+    {
+      "c": "先生",
+      "r": "sensei",
+      "a": "teacher",
+      "d": [
+        "student",
+        "company employee"
+      ],
+      "ex": "(せんせい) 山田先生は日本人です。",
+      "exT": "Professor Yamada is Japanese."
+    },
+    {
+      "c": "会社員",
+      "r": "kaishain",
+      "a": "company employee",
+      "d": [
+        "student",
+        "teacher"
+      ]
+    },
+    {
+      "c": "医者",
+      "r": "isha",
+      "a": "doctor",
+      "d": [
+        "teacher",
+        "company employee"
+      ]
+    },
+    {
+      "c": "日本",
+      "r": "Nihon",
+      "a": "Japan",
+      "d": [
+        "China",
+        "America"
+      ]
+    },
+    {
+      "c": "中国",
+      "r": "Chūgoku",
+      "a": "China",
+      "d": [
+        "Korea",
+        "Japan"
+      ]
+    },
+    {
+      "c": "日本人",
+      "r": "Nihonjin",
+      "a": "Japanese person",
+      "d": [
+        "Japanese language",
+        "Japan"
+      ]
+    },
+    {
+      "c": "日本語",
+      "r": "Nihongo",
+      "a": "Japanese (language)",
+      "d": [
+        "Japanese (person)",
+        "Japan (country)"
+      ],
+      "ex": "(にほんご) 日本語の先生です。",
+      "exT": "I'm a teacher of Japanese."
+    },
+    {
+      "c": "アメリカ人",
+      "r": "Amerikajin",
+      "a": "American (person)",
+      "d": [
+        "English (language)",
+        "America (country)"
+      ]
+    },
+    {
+      "c": "英語",
+      "r": "eigo",
+      "a": "English (language)",
+      "d": [
+        "England (country)",
+        "American (person)"
+      ]
+    },
+    {
+      "c": "です",
+      "r": "desu",
+      "a": "is, am, are (polite)",
+      "d": [
+        "is not (polite)",
+        "was (polite)"
+      ]
+    },
+    {
+      "c": "じゃありません",
+      "r": "ja arimasen",
+      "a": "is not, am not (polite)",
+      "d": [
+        "is, am (polite)",
+        "was (polite)"
+      ]
+    },
+    {
+      "c": "〜か (end of a sentence)",
+      "r": "ka",
+      "say": "か",
+      "a": "turns a sentence into a question",
+      "d": [
+        "means \"also\" (like も)",
+        "marks the topic (like は)"
+      ]
+    },
+    {
+      "c": "の (私の本)",
+      "r": "no (watashi no hon)",
+      "say": "私の本",
+      "a": "'s, of (links two nouns)",
+      "d": [
+        "and (between nouns)",
+        "also, too"
+      ]
+    },
+    {
+      "c": "はい、そうです。",
+      "r": "Hai, sō desu.",
+      "a": "Yes, that's right.",
+      "d": [
+        "No, it isn't.",
+        "I don't know."
+      ]
+    },
+    {
+      "c": "私は学生です。",
+      "r": "Watashi wa gakusei desu.",
+      "a": "I am a student.",
+      "d": [
+        "I am a teacher.",
+        "Are you a student?"
+      ]
+    },
+    {
+      "c": "田中さんは先生じゃありません。",
+      "r": "Tanaka-san wa sensei ja arimasen.",
+      "a": "Mr. Tanaka is not a teacher.",
+      "d": [
+        "Mr. Tanaka is a teacher.",
+        "Is Mr. Tanaka a teacher?"
+      ]
+    },
+    {
+      "c": "アメリカから来ました。",
+      "r": "Amerika kara kimashita.",
+      "a": "I'm from America.",
+      "d": [
+        "I'm going to America.",
+        "I've never been to America."
+      ]
+    },
+    {
+      "c": "私___マリアです。",
+      "r": "Watashi ___ Maria desu.",
+      "a": "は",
+      "d": [
+        "を",
+        "へ"
+      ],
+      "ex": "私はマリアです。",
+      "exT": "I'm Maria."
+    },
+    {
+      "c": "リーさんは学生です___。",
+      "r": "Rī-san wa gakusei desu ___.",
+      "a": "か",
+      "d": [
+        "を",
+        "へ"
+      ],
+      "ex": "リーさんは学生ですか。",
+      "exT": "Is Lee a student?"
+    },
+    {
+      "c": "私___名前はマリアです。",
+      "r": "Watashi ___ namae wa Maria desu.",
+      "a": "の",
+      "d": [
+        "を",
+        "へ"
+      ]
+    },
+    {
+      "c": "私は学生です。リーさん___学生です。",
+      "r": "Watashi wa gakusei desu. Rī-san ___ gakusei desu.",
+      "a": "も",
+      "d": [
+        "を",
+        "へ"
+      ],
+      "ex": "リーさんも学生です。",
+      "exT": "Lee is a student too."
+    },
+    {
+      "c": "田中さんは医者___。(is not)",
+      "r": "Tanaka-san wa isha ___.",
+      "a": "じゃありません",
+      "d": [
+        "じゃあります",
+        "です"
+      ]
+    }
+  ]
+}

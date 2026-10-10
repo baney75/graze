@@ -1,0 +1,262 @@
+{
+  "title": "Mottos and famous sayings",
+  "note": "Mottos pack grammar into a few words: carpe (seize!) is an imperative, vici (I conquered) a perfect, vinces (you will conquer) a future. Many belong to nations, schools and religious orders: e pluribus unum (United States), lux et veritas (Yale), ora et labora (Benedictines), ad maiorem Dei gloriam (Jesuits).",
+  "src": {
+    "t": "Wiktionary, Appendix: Latin phrases",
+    "u": "https://en.wiktionary.org/wiki/Appendix:Latin_phrases"
+  },
+  "items": [
+    {
+      "c": "carpe diem",
+      "a": "seize the day",
+      "d": [
+        "count the days",
+        "seize the night"
+      ],
+      "ex": "Carpe diem, quam minimum credula postero.",
+      "exT": "Seize the day, trusting as little as possible in tomorrow. (Horace)"
+    },
+    {
+      "c": "Veni, vidi, vici.",
+      "a": "I came, I saw, I conquered.",
+      "d": [
+        "I came, I saw, I lived.",
+        "I see, I come, I win."
+      ]
+    },
+    {
+      "c": "Alea iacta est.",
+      "a": "The die is cast.",
+      "d": [
+        "The war is won.",
+        "The river is crossed."
+      ],
+      "ex": "Iacta alea est.",
+      "exT": "The die is cast. (Caesar at the Rubicon, 49 BC, in Suetonius)"
+    },
+    {
+      "c": "E pluribus unum",
+      "a": "Out of many, one",
+      "d": [
+        "One for all",
+        "Many from one"
+      ]
+    },
+    {
+      "c": "Semper fidelis",
+      "a": "Always faithful",
+      "d": [
+        "Always ready",
+        "Faithful to death"
+      ]
+    },
+    {
+      "c": "Per aspera ad astra",
+      "a": "Through hardships to the stars",
+      "d": [
+        "Through the stars to the gods",
+        "From the earth to the stars"
+      ]
+    },
+    {
+      "c": "Ora et labora",
+      "a": "Pray and work",
+      "d": [
+        "Pray and love",
+        "Work and rest"
+      ]
+    },
+    {
+      "c": "Memento mori",
+      "a": "Remember that you will die",
+      "d": [
+        "Remember the dead",
+        "Death comes to all"
+      ]
+    },
+    {
+      "c": "Tempus fugit",
+      "a": "Time flies",
+      "d": [
+        "Time heals",
+        "Time stands still"
+      ]
+    },
+    {
+      "c": "Ars longa, vita brevis",
+      "a": "Art is long, life is short",
+      "d": [
+        "Life is long, art is short",
+        "Love is long, life is short"
+      ]
+    },
+    {
+      "c": "Cogito, ergo sum.",
+      "a": "I think, therefore I am.",
+      "d": [
+        "I am, therefore I think.",
+        "I think, but I am not."
+      ],
+      "ex": "Ego cogito, ergo sum.",
+      "exT": "I think, therefore I am. (Descartes, Principles of Philosophy, 1644)"
+    },
+    {
+      "c": "In vino veritas",
+      "a": "In wine there is truth",
+      "d": [
+        "In wine there is joy",
+        "Truth is like wine"
+      ]
+    },
+    {
+      "c": "Festina lente",
+      "a": "Make haste slowly",
+      "d": [
+        "Hurry up now",
+        "Slow and lazy"
+      ]
+    },
+    {
+      "c": "Dum spiro, spero",
+      "a": "While I breathe, I hope",
+      "d": [
+        "While I hope, I live",
+        "When I die, I hope"
+      ]
+    },
+    {
+      "c": "Omnia vincit amor",
+      "a": "Love conquers all",
+      "d": [
+        "Love conquers death",
+        "Everyone loves a winner"
+      ],
+      "ex": "Omnia vincit Amor: et nos cedamus Amori.",
+      "exT": "Love conquers all; let us too yield to Love. (Vergil)"
+    },
+    {
+      "c": "Mens sana in corpore sano",
+      "a": "A sound mind in a sound body",
+      "d": [
+        "A healthy body in a healthy home",
+        "A holy mind in a holy body"
+      ],
+      "ex": "Orandum est ut sit mens sana in corpore sano.",
+      "exT": "We should pray for a sound mind in a sound body. (Juvenal)"
+    },
+    {
+      "c": "Sic semper tyrannis",
+      "a": "Thus always to tyrants",
+      "d": [
+        "Always free of tyrants",
+        "Tyrants never die"
+      ]
+    },
+    {
+      "c": "Nil desperandum",
+      "a": "Never despair",
+      "d": [
+        "Nothing is lost",
+        "Hope for nothing"
+      ]
+    },
+    {
+      "c": "Lux et veritas",
+      "a": "Light and truth",
+      "d": [
+        "Light and life",
+        "Peace and truth"
+      ]
+    },
+    {
+      "c": "Errare humanum est.",
+      "a": "To err is human.",
+      "d": [
+        "To forgive is divine.",
+        "To err is a sin."
+      ]
+    },
+    {
+      "c": "Ad maiorem Dei gloriam",
+      "a": "For the greater glory of God",
+      "d": [
+        "To the greatest glory of Rome",
+        "With the grace of God"
+      ]
+    },
+    {
+      "c": "In hoc signo vinces",
+      "a": "In this sign you will conquer",
+      "d": [
+        "In this sign we trust",
+        "By this sword you will conquer"
+      ]
+    },
+    {
+      "c": "Pax et bonum",
+      "a": "Peace and good",
+      "d": [
+        "Peace and war",
+        "Good and evil"
+      ]
+    },
+    {
+      "c": "Dominus illuminatio mea",
+      "a": "The Lord is my light",
+      "d": [
+        "The Lord is my shepherd",
+        "The Lord is my strength"
+      ],
+      "ex": "Dominus illuminatio mea et salus mea.",
+      "exT": "The Lord is my light and my salvation. (Psalm 26:1 in the Vulgate; motto of Oxford)"
+    },
+    {
+      "c": "Fortes fortuna adiuvat",
+      "a": "Fortune helps the brave",
+      "d": [
+        "Fortune favors the rich",
+        "The brave fear fortune"
+      ]
+    },
+    {
+      "c": "Si vis pacem, para bellum",
+      "a": "If you want peace, prepare for war",
+      "d": [
+        "If you want war, prepare for peace",
+        "If you prepare, there will be peace"
+      ]
+    },
+    {
+      "c": "Ubi caritas et amor, Deus ibi est",
+      "a": "Where charity and love are, God is there",
+      "d": [
+        "Where God is, there is love",
+        "Love and charity come from God"
+      ]
+    },
+    {
+      "c": "Veni, vidi, ___. (vincere, perfect)",
+      "a": "vici",
+      "d": [
+        "vinci",
+        "vinco"
+      ]
+    },
+    {
+      "c": "Dum spiro, ___. (sperare, I)",
+      "a": "spero",
+      "d": [
+        "sperat",
+        "sperant"
+      ]
+    },
+    {
+      "c": "Mens sana in ___ sano (corpus)",
+      "a": "corpore",
+      "d": [
+        "corpus",
+        "corpori"
+      ]
+    }
+  ]
+}
