@@ -35,6 +35,10 @@ Maps come from Natural Earth (via `world-atlas`) and the US Census (via `us-atla
 
 Graze builds in what holds up: retrieval practice and spacing ([Dunlosky et al., 2013](https://www.psychologicalscience.org/news/releases/which-study-strategies-make-the-grade.html)), vocabulary and word roots, reading with comprehension checks ([Rayner et al., 2016](https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html)), if-then cues for a daily habit, saying words aloud (the production effect), and learning built into the core mechanic rather than bolted on ([Habgood & Ainsworth, 2011](https://shura.shu.ac.uk/3556/)). It leaves out brain-training IQ claims, which don't hold up ([Simons et al., 2016](https://news.illinois.edu/review-finds-little-evidence-that-brain-training-games-yield-real-world-benefits/)), and speed reading. Graze helps you remember what you practice; it makes no promise about intelligence.
 
+## Working on it
+
+[AGENTS.md](AGENTS.md) has the rules for working on Graze: architecture, card IDs, the save format, content standards and releasing. [PROJECT.md](PROJECT.md) has the idea, the decisions behind it, its history and the open ideas. [CLAUDE.md](CLAUDE.md) adds notes for Claude.
+
 ## Run it locally
 
 Requires Node 18+ and nothing else.
