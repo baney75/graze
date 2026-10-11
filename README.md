@@ -91,3 +91,9 @@ scripts/check.mjs     CI checks: script parses, courses are valid, pictures exis
 ## License
 
 MIT. Fonts are loaded from Google Fonts (Source Serif 4 and Karla, both under the SIL Open Font License).
+
+## Sponsors
+
+<!-- sponsors:start -->
+No sponsors yet. [Sponsor on GitHub](https://github.com/sponsors/baney75) and your name appears here automatically.
+<!-- sponsors:end -->
